@@ -1,0 +1,21 @@
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Environment — never commit real keys
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+.venv/
+
+# Supabase CLI
+supabase/.temp/
+supabase/.branches/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/

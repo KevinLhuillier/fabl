@@ -1,0 +1,5135 @@
+{
+  "lang": "fr",
+  "entries": [
+    {
+      "word": "'s",
+      "pos": "PART",
+      "translation": "marque de la possession (« de »)",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "a",
+      "pos": "DET",
+      "translation": "un, une",
+      "example": "Mia has a cat. — Mia a un chat."
+    },
+    {
+      "word": "abandon",
+      "pos": "VERB",
+      "translation": "abandonner",
+      "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
+    },
+    {
+      "word": "about",
+      "pos": "ADJ",
+      "translation": "sur le point de (dans « be about to »)",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "about",
+      "pos": "ADP",
+      "translation": "à propos de, au sujet de",
+      "example": "Something about the fall had seemed strange to him."
+    },
+    {
+      "word": "accept",
+      "pos": "VERB",
+      "translation": "accepter",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "accident",
+      "pos": "NOUN",
+      "translation": "l'accident (« by accident » : par accident)",
+      "example": "My master did not fall by accident, Your Majesty."
+    },
+    {
+      "word": "accord",
+      "pos": "VERB",
+      "translation": "selon (dans « according to »)",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "accusation",
+      "pos": "NOUN",
+      "translation": "l'accusation",
+      "example": "\"This is a serious accusation,\" he said at last."
+    },
+    {
+      "word": "ache",
+      "pos": "VERB",
+      "translation": "faire mal, être douloureux",
+      "example": "Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters."
+    },
+    {
+      "word": "across",
+      "pos": "ADP",
+      "translation": "à travers, de l'autre côté de",
+      "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
+    },
+    {
+      "word": "address",
+      "pos": "VERB",
+      "translation": "s'adresser à",
+      "example": "Everyone told him it was impossible, that a squire had no right to address His Majesty directly."
+    },
+    {
+      "word": "adviser",
+      "pos": "NOUN",
+      "translation": "le conseiller",
+      "example": "\"Some say he will be the king's next adviser.\""
+    },
+    {
+      "word": "afraid",
+      "pos": "ADJ",
+      "translation": "effrayé, qui a peur",
+      "example": "Someone who wants the southern villages to be afraid."
+    },
+    {
+      "word": "after",
+      "pos": "ADP",
+      "translation": "après",
+      "example": "After breakfast, Sir Godfrey called him to the courtyard for sword practice."
+    },
+    {
+      "word": "afternoon",
+      "pos": "NOUN",
+      "translation": "l'après-midi",
+      "example": "In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail."
+    },
+    {
+      "word": "again",
+      "pos": "ADV",
+      "translation": "encore, de nouveau",
+      "example": "Edwin stepped aside, again and again, until the bandit grew tired and careless."
+    },
+    {
+      "word": "against",
+      "pos": "ADP",
+      "translation": "contre",
+      "example": "On the first pass, both lances broke against the shields."
+    },
+    {
+      "word": "age",
+      "pos": "NOUN",
+      "translation": "l'âge",
+      "example": "He never forgot where he had come from. When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
+    },
+    {
+      "word": "ago",
+      "pos": "ADV",
+      "translation": "il y a (« three nights ago » : il y a trois nuits)",
+      "example": "I saw him myself, in the forest, three nights ago."
+    },
+    {
+      "word": "agree",
+      "pos": "VERB",
+      "translation": "accepter, être d'accord",
+      "example": "But Edwin refused to leave, and in the end, the king agreed to see him."
+    },
+    {
+      "word": "ahead",
+      "pos": "ADV",
+      "translation": "en avance, devant",
+      "example": "If you are patient enough to notice, you will always be one step ahead."
+    },
+    {
+      "word": "air",
+      "pos": "NOUN",
+      "translation": "l'air",
+      "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "alive",
+      "pos": "ADJ",
+      "translation": "vivant, en vie",
+      "example": "Godfrey was alive, but his leg was badly broken and he could barely breathe."
+    },
+    {
+      "word": "all",
+      "pos": "DET",
+      "translation": "tout, tous (« all the way » : jusqu'au bout)",
+      "example": "While the doctors carried him to his tent, Edwin went back to examine the horse. Something about the fall had seemed strange to him."
+    },
+    {
+      "word": "almost",
+      "pos": "ADV",
+      "translation": "presque",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "alone",
+      "pos": "ADV",
+      "translation": "seul",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "along",
+      "pos": "ADP",
+      "translation": "le long de",
+      "example": "Bandits have been attacking villages along the southern road."
+    },
+    {
+      "word": "already",
+      "pos": "ADV",
+      "translation": "déjà",
+      "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "altar",
+      "pos": "NOUN",
+      "translation": "l'autel",
+      "example": "Edwin knelt in front of the altar, wearing a simple white tunic, his sword lying on the cold stone in front of him."
+    },
+    {
+      "word": "always",
+      "pos": "ADV",
+      "translation": "toujours",
+      "example": "If you are patient enough to notice, you will always be one step ahead."
+    },
+    {
+      "word": "among",
+      "pos": "ADP",
+      "translation": "parmi",
+      "example": "Among them, one man attracted more attention than the others: Sir Hugh of Blackmoor, a tall knight in silver armour who owned vast lands in the south."
+    },
+    {
+      "word": "an",
+      "pos": "DET",
+      "translation": "un, une (devant une voyelle)",
+      "example": "The old knight moved slowly these days, but his blade was still faster than most young men's."
+    },
+    {
+      "word": "and",
+      "pos": "CCONJ",
+      "translation": "et",
+      "example": "Leo is black and white. — Leo est noir et blanc."
+    },
+    {
+      "word": "angry",
+      "pos": "ADJ",
+      "translation": "en colère, furieux",
+      "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
+    },
+    {
+      "word": "animal",
+      "pos": "NOUN",
+      "translation": "l'animal",
+      "example": "The animals panicked, throwing several riders to the ground, while the others tried desperately to turn back."
+    },
+    {
+      "word": "answer",
+      "pos": "VERB",
+      "translation": "répondre",
+      "example": "\"I swear it,\" Edwin answered, his voice steady."
+    },
+    {
+      "word": "anyone",
+      "pos": "PRON",
+      "translation": "n'importe qui, quiconque",
+      "example": "He knew that saddle better than anyone."
+    },
+    {
+      "word": "anything",
+      "pos": "PRON",
+      "translation": "quelque chose, rien (selon la phrase)",
+      "example": "Winchester was unlike anything Edwin had ever seen."
+    },
+    {
+      "word": "applause",
+      "pos": "NOUN",
+      "translation": "les applaudissements",
+      "example": "The hall erupted with applause."
+    },
+    {
+      "word": "arm",
+      "pos": "NOUN",
+      "translation": "le bras",
+      "example": "He puts his long arms up. — Il lève ses longs bras."
+    },
+    {
+      "word": "arm",
+      "pos": "VERB",
+      "translation": "armer (« armed with » : armé de)",
+      "example": "Edwin found himself face to face with a huge man armed with a heavy axe."
+    },
+    {
+      "word": "armour",
+      "pos": "NOUN",
+      "translation": "l'armure",
+      "example": "\"Prepare the horses and pack the armour,\" Godfrey ordered."
+    },
+    {
+      "word": "armoury",
+      "pos": "NOUN",
+      "translation": "l'armurerie, la salle d'armes",
+      "example": "In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail."
+    },
+    {
+      "word": "around",
+      "pos": "ADP",
+      "translation": "autour de",
+      "example": "Godfrey simply smiled and bowed his head, but Edwin noticed that his hand had tightened around the hilt of his sword."
+    },
+    {
+      "word": "around",
+      "pos": "ADV",
+      "translation": "autour",
+      "example": "Mia looks around. — Mia regarde autour d'elle."
+    },
+    {
+      "word": "arrive",
+      "pos": "VERB",
+      "translation": "arriver",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "as",
+      "pos": "ADP",
+      "translation": "comme, en tant que",
+      "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "as",
+      "pos": "ADV",
+      "translation": "aussi, comme (« as well » : aussi)",
+      "example": "\"His Majesty is holding a great tournament at Winchester at the end of the month. Every knight in the kingdom has been invited to take part.\""
+    },
+    {
+      "word": "Ashford",
+      "pos": "PROPN",
+      "translation": "Ashford (nom de lieu)",
+      "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "aside",
+      "pos": "ADV",
+      "translation": "de côté (« step aside » : s'écarter)",
+      "example": "Edwin stepped aside, again and again, until the bandit grew tired and careless."
+    },
+    {
+      "word": "ask",
+      "pos": "VERB",
+      "translation": "demander",
+      "example": "Mia asks for help. — Mia demande de l'aide."
+    },
+    {
+      "word": "asleep",
+      "pos": "ADJ",
+      "translation": "endormi (« fall asleep » : s'endormir)",
+      "example": "His knees hurt, and twice he almost fell asleep."
+    },
+    {
+      "word": "astonishment",
+      "pos": "NOUN",
+      "translation": "l'étonnement, la stupéfaction",
+      "example": "The ceremony took place in the great hall of the castle, in front of the king, the lords of the realm and, to Edwin's astonishment, his own parents, whom the king had invited from Ashford."
+    },
+    {
+      "word": "at",
+      "pos": "ADP",
+      "translation": "à, chez",
+      "example": "At my house. — Chez moi."
+    },
+    {
+      "word": "attack",
+      "pos": "NOUN",
+      "translation": "l'attaque",
+      "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time. \"Strength is useless if you cannot control it.\""
+    },
+    {
+      "word": "attack",
+      "pos": "VERB",
+      "translation": "attaquer",
+      "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
+    },
+    {
+      "word": "attention",
+      "pos": "NOUN",
+      "translation": "l'attention",
+      "example": "Among them, one man attracted more attention than the others: Sir Hugh of Blackmoor, a tall knight in silver armour who owned vast lands in the south."
+    },
+    {
+      "word": "attract",
+      "pos": "VERB",
+      "translation": "attirer",
+      "example": "Among them, one man attracted more attention than the others: Sir Hugh of Blackmoor, a tall knight in silver armour who owned vast lands in the south."
+    },
+    {
+      "word": "awake",
+      "pos": "ADJ",
+      "translation": "éveillé, réveillé",
+      "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "away",
+      "pos": "ADV",
+      "translation": "loin, au loin",
+      "example": "Not far away, Hugh's squire, a thin young man with nervous eyes, was watching him."
+    },
+    {
+      "word": "axe",
+      "pos": "NOUN",
+      "translation": "la hache",
+      "example": "In the confusion, the villagers attacked with pitchforks, clubs and axes."
+    },
+    {
+      "word": "axis",
+      "pos": "NOUN",
+      "translation": "les haches (pluriel de « axe » ici)",
+      "example": "In the confusion, the villagers attacked with pitchforks, clubs and axes."
+    },
+    {
+      "word": "back",
+      "pos": "ADV",
+      "translation": "en arrière, de retour (« come back » : revenir)",
+      "example": "Edwin wanted to ask more questions, but at that moment Godfrey came back, and Maud quickly returned to the kitchen."
+    },
+    {
+      "word": "back",
+      "pos": "NOUN",
+      "translation": "le dos",
+      "example": "Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters."
+    },
+    {
+      "word": "bad",
+      "pos": "ADJ",
+      "translation": "mauvais (« worse » : pire)",
+      "example": "Someone wanted him to lose, or worse."
+    },
+    {
+      "word": "badly",
+      "pos": "ADV",
+      "translation": "gravement, mal",
+      "example": "Godfrey was alive, but his leg was badly broken and he could barely breathe."
+    },
+    {
+      "word": "bag",
+      "pos": "NOUN",
+      "translation": "le sac",
+      "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
+    },
+    {
+      "word": "balance",
+      "pos": "NOUN",
+      "translation": "l'équilibre",
+      "example": "He lost his balance, Hugh's lance hit him in the chest, and the old knight crashed to the ground."
+    },
+    {
+      "word": "bandit",
+      "pos": "NOUN",
+      "translation": "le bandit",
+      "example": "Bandits have been attacking villages along the southern road."
+    },
+    {
+      "word": "barely",
+      "pos": "ADV",
+      "translation": "à peine",
+      "example": "Godfrey was alive, but his leg was badly broken and he could barely breathe."
+    },
+    {
+      "word": "barrier",
+      "pos": "NOUN",
+      "translation": "la barrière",
+      "example": "Edwin jumped over the wooden barrier and ran towards him, ignoring the guards who were shouting at him to stop."
+    },
+    {
+      "word": "battle",
+      "pos": "NOUN",
+      "translation": "la bataille",
+      "example": "A knight is not the man who wins every battle, Edwin."
+    },
+    {
+      "word": "be",
+      "pos": "VERB",
+      "translation": "être",
+      "example": "Leo is small. — Leo est petit."
+    },
+    {
+      "word": "bear",
+      "pos": "VERB",
+      "translation": "naître (« be born »), porter",
+      "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
+    },
+    {
+      "word": "because",
+      "pos": "SCONJ",
+      "translation": "parce que",
+      "example": "I chased a defeated enemy into a forest because I wanted the glory of capturing him."
+    },
+    {
+      "word": "become",
+      "pos": "VERB",
+      "translation": "devenir",
+      "example": "\"One day, you may become more than we ever were.\""
+    },
+    {
+      "word": "bed",
+      "pos": "NOUN",
+      "translation": "le lit",
+      "example": "He sleeps on her bed. — Il dort sur son lit."
+    },
+    {
+      "word": "before",
+      "pos": "ADP",
+      "translation": "avant, devant",
+      "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "begin",
+      "pos": "VERB",
+      "translation": "commencer",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "behind",
+      "pos": "ADP",
+      "translation": "derrière",
+      "example": "She looks behind the flowers. — Elle regarde derrière les fleurs."
+    },
+    {
+      "word": "believe",
+      "pos": "VERB",
+      "translation": "croire",
+      "example": "I was twenty, and I believed that being a knight meant winning."
+    },
+    {
+      "word": "belong",
+      "pos": "VERB",
+      "translation": "appartenir",
+      "example": "Sir Godfrey fastened a pair of golden spurs to Edwin's boots, a gift that had once belonged to Godfrey's own master."
+    },
+    {
+      "word": "belonging",
+      "pos": "NOUN",
+      "translation": "les affaires, les biens",
+      "example": "When Edwin arrived at Little Fenwick, the villagers were already packing their belongings, ready to flee into the forest."
+    },
+    {
+      "word": "beneath",
+      "pos": "ADP",
+      "translation": "sous",
+      "example": "The crowd fell silent as the two horses began to gallop towards each other, the ground shaking beneath their hooves."
+    },
+    {
+      "word": "beside",
+      "pos": "ADP",
+      "translation": "à côté de",
+      "example": "Godfrey sat beside him, which was unusual, and for a while neither of them spoke."
+    },
+    {
+      "word": "betray",
+      "pos": "VERB",
+      "translation": "trahir",
+      "example": "Sir Hugh of Blackmoor, you have betrayed your oath, your king and the people you were supposed to protect."
+    },
+    {
+      "word": "between",
+      "pos": "ADP",
+      "translation": "entre",
+      "example": "Godfrey was pale with pain, his leg tied between two wooden boards."
+    },
+    {
+      "word": "big",
+      "pos": "ADJ",
+      "translation": "grand, gros",
+      "example": "The park is big. — Le parc est grand."
+    },
+    {
+      "word": "black",
+      "pos": "ADJ",
+      "translation": "noir",
+      "example": "Leo is black and white. — Leo est noir et blanc."
+    },
+    {
+      "word": "Blackmoor",
+      "pos": "PROPN",
+      "translation": "Blackmoor (nom de lieu)",
+      "example": "Among them, one man attracted more attention than the others: Sir Hugh of Blackmoor, a tall knight in silver armour who owned vast lands in the south."
+    },
+    {
+      "word": "blade",
+      "pos": "NOUN",
+      "translation": "la lame",
+      "example": "The old knight moved slowly these days, but his blade was still faster than most young men's."
+    },
+    {
+      "word": "bleed",
+      "pos": "VERB",
+      "translation": "saigner",
+      "example": "He was a boy, younger than Edwin, with a bleeding arm and eyes full of fear."
+    },
+    {
+      "word": "blister",
+      "pos": "NOUN",
+      "translation": "l'ampoule (sur la peau)",
+      "example": "Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters."
+    },
+    {
+      "word": "block",
+      "pos": "VERB",
+      "translation": "bloquer, parer",
+      "example": "By the end, Edwin had not won a single fight, but for the first time he had managed to block every attack."
+    },
+    {
+      "word": "blow",
+      "pos": "NOUN",
+      "translation": "le coup",
+      "example": "The man's shoulders moved before every blow."
+    },
+    {
+      "word": "board",
+      "pos": "NOUN",
+      "translation": "la planche",
+      "example": "Godfrey was pale with pain, his leg tied between two wooden boards."
+    },
+    {
+      "word": "boot",
+      "pos": "NOUN",
+      "translation": "la botte",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "borrow",
+      "pos": "VERB",
+      "translation": "emprunter",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "both",
+      "pos": "DET",
+      "translation": "les deux",
+      "example": "On the first pass, both lances broke against the shields."
+    },
+    {
+      "word": "bow",
+      "pos": "VERB",
+      "translation": "incliner, s'incliner",
+      "example": "Godfrey simply smiled and bowed his head, but Edwin noticed that his hand had tightened around the hilt of his sword."
+    },
+    {
+      "word": "boy",
+      "pos": "NOUN",
+      "translation": "le garçon",
+      "example": "She asks a boy. — Elle demande à un garçon."
+    },
+    {
+      "word": "branch",
+      "pos": "NOUN",
+      "translation": "la branche",
+      "example": "One branch, two branches. — Une branche, deux branches."
+    },
+    {
+      "word": "brave",
+      "pos": "ADJ",
+      "translation": "courageux",
+      "example": "Mia is brave. — Mia est courageuse."
+    },
+    {
+      "word": "bread",
+      "pos": "NOUN",
+      "translation": "le pain",
+      "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "break",
+      "pos": "VERB",
+      "translation": "casser, se briser",
+      "example": "On the first pass, both lances broke against the shields."
+    },
+    {
+      "word": "breakfast",
+      "pos": "NOUN",
+      "translation": "le petit-déjeuner",
+      "example": "After breakfast, Sir Godfrey called him to the courtyard for sword practice."
+    },
+    {
+      "word": "breathe",
+      "pos": "VERB",
+      "translation": "respirer",
+      "example": "Godfrey was alive, but his leg was badly broken and he could barely breathe."
+    },
+    {
+      "word": "bring",
+      "pos": "VERB",
+      "translation": "apporter",
+      "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "broken",
+      "pos": "ADJ",
+      "translation": "cassé",
+      "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
+    },
+    {
+      "word": "brother",
+      "pos": "NOUN",
+      "translation": "le frère",
+      "example": "Last week, my brother saw one of them pay for his drinks with a silver coin."
+    },
+    {
+      "word": "brown",
+      "pos": "ADJ",
+      "translation": "marron, brun",
+      "example": "He has a brown dog. — Il a un chien marron."
+    },
+    {
+      "word": "bucket",
+      "pos": "NOUN",
+      "translation": "le seau",
+      "example": "The women gathered buckets of water in case of fire."
+    },
+    {
+      "word": "buckle",
+      "pos": "NOUN",
+      "translation": "la boucle (de ceinture, de sangle)",
+      "example": "He had checked every buckle and every strap that morning, as he always did."
+    },
+    {
+      "word": "build",
+      "pos": "VERB",
+      "translation": "construire",
+      "example": "My grandfather built this house."
+    },
+    {
+      "word": "bull",
+      "pos": "NOUN",
+      "translation": "le taureau",
+      "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
+    },
+    {
+      "word": "burn",
+      "pos": "VERB",
+      "translation": "brûler, incendier",
+      "example": "Several farms have been burned, and the king's soldiers have failed to catch the men responsible."
+    },
+    {
+      "word": "bus",
+      "pos": "NOUN",
+      "translation": "le bus",
+      "example": "There is a big red bus. — Il y a un grand bus rouge."
+    },
+    {
+      "word": "but",
+      "pos": "CCONJ",
+      "translation": "mais",
+      "example": "But today, Leo does not come. — Mais aujourd'hui, Leo ne vient pas."
+    },
+    {
+      "word": "but",
+      "pos": "SCONJ",
+      "translation": "sauf, à part (« nothing but » : rien d'autre que)",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "by",
+      "pos": "ADP",
+      "translation": "par, en (« by waiting » : en attendant)",
+      "example": "\"By waiting,\" the knight replied calmly."
+    },
+    {
+      "word": "cabbage",
+      "pos": "NOUN",
+      "translation": "le chou",
+      "example": "\"I thought you had retired to grow cabbages.\""
+    },
+    {
+      "word": "call",
+      "pos": "VERB",
+      "translation": "appeler",
+      "example": "\"Leo!\" she calls. — « Leo ! » appelle-t-elle."
+    },
+    {
+      "word": "calmly",
+      "pos": "ADV",
+      "translation": "calmement",
+      "example": "\"By waiting,\" the knight replied calmly."
+    },
+    {
+      "word": "can",
+      "pos": "VERB",
+      "translation": "pouvoir",
+      "example": "Can you help me? — Peux-tu m'aider ?"
+    },
+    {
+      "word": "candle",
+      "pos": "NOUN",
+      "translation": "la bougie, le cierge",
+      "example": "The candles flickered, and the hours passed slowly."
+    },
+    {
+      "word": "capture",
+      "pos": "VERB",
+      "translation": "capturer",
+      "example": "I chased a defeated enemy into a forest because I wanted the glory of capturing him."
+    },
+    {
+      "word": "car",
+      "pos": "NOUN",
+      "translation": "la voiture",
+      "example": "There are many cars. — Il y a beaucoup de voitures."
+    },
+    {
+      "word": "careful",
+      "pos": "ADJ",
+      "translation": "prudent (« be careful » : fais attention)",
+      "example": "Be careful."
+    },
+    {
+      "word": "carefully",
+      "pos": "ADV",
+      "translation": "attentivement, avec soin",
+      "example": "The king, however, studied the strap carefully."
+    },
+    {
+      "word": "careless",
+      "pos": "ADJ",
+      "translation": "négligent, imprudent",
+      "example": "Edwin stepped aside, again and again, until the bandit grew tired and careless."
+    },
+    {
+      "word": "carry",
+      "pos": "VERB",
+      "translation": "porter, transporter",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "cart",
+      "pos": "NOUN",
+      "translation": "la charrette",
+      "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
+    },
+    {
+      "word": "case",
+      "pos": "NOUN",
+      "translation": "le cas (« in case of » : en cas de)",
+      "example": "The women gathered buckets of water in case of fire."
+    },
+    {
+      "word": "castle",
+      "pos": "NOUN",
+      "translation": "le château",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "cat",
+      "pos": "NOUN",
+      "translation": "le chat",
+      "example": "Mia has a cat. — Mia a un chat."
+    },
+    {
+      "word": "catch",
+      "pos": "VERB",
+      "translation": "attraper",
+      "example": "Several farms have been burned, and the king's soldiers have failed to catch the men responsible."
+    },
+    {
+      "word": "ceremony",
+      "pos": "NOUN",
+      "translation": "la cérémonie",
+      "example": "The ceremony took place in the great hall of the castle, in front of the king, the lords of the realm and, to Edwin's astonishment, his own parents, whom the king had invited from Ashford."
+    },
+    {
+      "word": "certain",
+      "pos": "ADJ",
+      "translation": "certain, sûr",
+      "example": "For a moment, Edwin was certain that his master was going to win."
+    },
+    {
+      "word": "chain",
+      "pos": "NOUN",
+      "translation": "la chaîne (« chain mail » : cotte de mailles)",
+      "example": "In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail."
+    },
+    {
+      "word": "chair",
+      "pos": "NOUN",
+      "translation": "la chaise",
+      "example": "A week later, Edwin stood once again in front of the king, this time with Sir Godfrey sitting beside him on a wooden chair, and the young bandit kneeling at his side."
+    },
+    {
+      "word": "chance",
+      "pos": "NOUN",
+      "translation": "la chance, la possibilité",
+      "example": "If we stay together, we have a chance."
+    },
+    {
+      "word": "change",
+      "pos": "NOUN",
+      "translation": "changer (ici verbe : « his eyes change »)",
+      "example": "His shoulders move, his eyes change, his feet prepare."
+    },
+    {
+      "word": "chapel",
+      "pos": "NOUN",
+      "translation": "la chapelle",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "chase",
+      "pos": "VERB",
+      "translation": "poursuivre",
+      "example": "I chased a defeated enemy into a forest because I wanted the glory of capturing him."
+    },
+    {
+      "word": "cheaply",
+      "pos": "ADV",
+      "translation": "à bas prix",
+      "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
+    },
+    {
+      "word": "check",
+      "pos": "VERB",
+      "translation": "vérifier",
+      "example": "He had checked every buckle and every strap that morning, as he always did."
+    },
+    {
+      "word": "cheek",
+      "pos": "NOUN",
+      "translation": "la joue",
+      "example": "the knight finally asked, touching the long scar that crossed his left cheek."
+    },
+    {
+      "word": "cheer",
+      "pos": "VERB",
+      "translation": "acclamer, applaudir",
+      "example": "The spectators cheered."
+    },
+    {
+      "word": "cheese",
+      "pos": "NOUN",
+      "translation": "le fromage",
+      "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "chest",
+      "pos": "NOUN",
+      "translation": "la poitrine",
+      "example": "He lost his balance, Hugh's lance hit him in the chest, and the old knight crashed to the ground."
+    },
+    {
+      "word": "child",
+      "pos": "NOUN",
+      "translation": "l'enfant",
+      "example": "Children play in the park. — Des enfants jouent dans le parc."
+    },
+    {
+      "word": "chocolate",
+      "pos": "NOUN",
+      "translation": "le chocolat",
+      "example": "A hot chocolate, please. — Un chocolat chaud, s'il te plaît."
+    },
+    {
+      "word": "choose",
+      "pos": "VERB",
+      "translation": "choisir",
+      "example": "Sir Edwin became one of the most respected knights in England, known not for the tournaments he won, but for the battles he chose to fight."
+    },
+    {
+      "word": "church",
+      "pos": "NOUN",
+      "translation": "l'église",
+      "example": "The children were sent to hide in the church, which had the thickest walls in the village."
+    },
+    {
+      "word": "city",
+      "pos": "NOUN",
+      "translation": "la ville, la cité",
+      "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "clean",
+      "pos": "VERB",
+      "translation": "nettoyer",
+      "example": "In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail."
+    },
+    {
+      "word": "cleanly",
+      "pos": "ADV",
+      "translation": "net, proprement",
+      "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
+    },
+    {
+      "word": "climb",
+      "pos": "VERB",
+      "translation": "grimper",
+      "example": "She climbs the tree. — Elle grimpe à l'arbre."
+    },
+    {
+      "word": "cloak",
+      "pos": "NOUN",
+      "translation": "la cape, le manteau",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "close",
+      "pos": "VERB",
+      "translation": "fermer",
+      "example": "The school is closed. — L'école est fermée."
+    },
+    {
+      "word": "clothe",
+      "pos": "NOUN",
+      "translation": "les vêtements (« clothes »)",
+      "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
+    },
+    {
+      "word": "club",
+      "pos": "NOUN",
+      "translation": "le gourdin, la massue",
+      "example": "In the confusion, the villagers attacked with pitchforks, clubs and axes."
+    },
+    {
+      "word": "clumsy",
+      "pos": "ADJ",
+      "translation": "maladroit",
+      "example": "A clumsy squire forgets to check his master's saddle, and now he invents a conspiracy to protect himself."
+    },
+    {
+      "word": "coin",
+      "pos": "NOUN",
+      "translation": "la pièce de monnaie",
+      "example": "Last week, my brother saw one of them pay for his drinks with a silver coin."
+    },
+    {
+      "word": "cold",
+      "pos": "ADJ",
+      "translation": "froid",
+      "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
+    },
+    {
+      "word": "colourful",
+      "pos": "ADJ",
+      "translation": "coloré",
+      "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "come",
+      "pos": "VERB",
+      "translation": "venir",
+      "example": "Come here, Leo! — Viens ici, Leo !"
+    },
+    {
+      "word": "complain",
+      "pos": "VERB",
+      "translation": "se plaindre",
+      "example": "Sir Godfrey never complained, so Edwin decided that he would not complain either."
+    },
+    {
+      "word": "complete",
+      "pos": "ADJ",
+      "translation": "complet, total",
+      "example": "When he had finished, there was complete silence."
+    },
+    {
+      "word": "completely",
+      "pos": "ADV",
+      "translation": "complètement",
+      "example": "On the fourth day, they passed a farm that had been completely destroyed."
+    },
+    {
+      "word": "compliment",
+      "pos": "NOUN",
+      "translation": "le compliment",
+      "example": "Godfrey nodded, which, from him, was almost a compliment."
+    },
+    {
+      "word": "confess",
+      "pos": "VERB",
+      "translation": "avouer",
+      "example": "He tried to protest, but then his own squire stepped forward and confessed that he had cut Godfrey's saddle strap on his master's orders."
+    },
+    {
+      "word": "confident",
+      "pos": "ADJ",
+      "translation": "confiant, sûr de soi",
+      "example": "\"Running will not save you,\" he told them, trying to sound more confident than he felt."
+    },
+    {
+      "word": "confusion",
+      "pos": "NOUN",
+      "translation": "la confusion",
+      "example": "In the confusion, the villagers attacked with pitchforks, clubs and axes."
+    },
+    {
+      "word": "conspiracy",
+      "pos": "NOUN",
+      "translation": "le complot",
+      "example": "A clumsy squire forgets to check his master's saddle, and now he invents a conspiracy to protect himself."
+    },
+    {
+      "word": "constantly",
+      "pos": "ADV",
+      "translation": "sans arrêt, constamment",
+      "example": "It rained almost constantly."
+    },
+    {
+      "word": "contempt",
+      "pos": "NOUN",
+      "translation": "le mépris",
+      "example": "When Sir Hugh passed in front of them, he looked at Godfrey with open contempt."
+    },
+    {
+      "word": "control",
+      "pos": "VERB",
+      "translation": "maîtriser, contrôler",
+      "example": "\"Strength is useless if you cannot control it.\""
+    },
+    {
+      "word": "convenient",
+      "pos": "ADJ",
+      "translation": "pratique, commode (ici ironique)",
+      "example": "How convenient."
+    },
+    {
+      "word": "corner",
+      "pos": "NOUN",
+      "translation": "le coin",
+      "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
+    },
+    {
+      "word": "could",
+      "pos": "VERB",
+      "translation": "pouvait, pourrait (passé de « can »)",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "county",
+      "pos": "NOUN",
+      "translation": "le comté",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "course",
+      "pos": "ADV",
+      "translation": "bien sûr (dans « of course »)",
+      "example": "Of course! — Bien sûr !"
+    },
+    {
+      "word": "court",
+      "pos": "NOUN",
+      "translation": "la cour (du roi)",
+      "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
+    },
+    {
+      "word": "courtyard",
+      "pos": "NOUN",
+      "translation": "la cour (d'un château)",
+      "example": "After breakfast, Sir Godfrey called him to the courtyard for sword practice."
+    },
+    {
+      "word": "cover",
+      "pos": "VERB",
+      "translation": "couvrir",
+      "example": "Three days later, a messenger arrived at the gates, covered in mud and exhausted from riding through the night."
+    },
+    {
+      "word": "cow",
+      "pos": "NOUN",
+      "translation": "la vache",
+      "example": "His father, a poor farmer, had sold two cows to pay for the journey."
+    },
+    {
+      "word": "crash",
+      "pos": "VERB",
+      "translation": "s'écraser, s'effondrer",
+      "example": "He lost his balance, Hugh's lance hit him in the chest, and the old knight crashed to the ground."
+    },
+    {
+      "word": "Crooked",
+      "pos": "PROPN",
+      "translation": "Crooked (« tordu », nom d'auberge)",
+      "example": "That evening, they found shelter at a small inn called the Crooked Crown."
+    },
+    {
+      "word": "cross",
+      "pos": "VERB",
+      "translation": "traverser",
+      "example": "the knight finally asked, touching the long scar that crossed his left cheek."
+    },
+    {
+      "word": "crowd",
+      "pos": "NOUN",
+      "translation": "la foule",
+      "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
+    },
+    {
+      "word": "Crown",
+      "pos": "PROPN",
+      "translation": "Crown (« couronne », nom d'auberge)",
+      "example": "That evening, they found shelter at a small inn called the Crooked Crown."
+    },
+    {
+      "word": "cry",
+      "pos": "VERB",
+      "translation": "pleurer, crier",
+      "example": "Then, to everyone's surprise, he began to cry."
+    },
+    {
+      "word": "cut",
+      "pos": "NOUN",
+      "translation": "coupé (ici adjectif : « the cut strap »)",
+      "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
+    },
+    {
+      "word": "cut",
+      "pos": "VERB",
+      "translation": "couper",
+      "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
+    },
+    {
+      "word": "cute",
+      "pos": "ADJ",
+      "translation": "mignon",
+      "example": "Leo is very cute. — Leo est très mignon."
+    },
+    {
+      "word": "dare",
+      "pos": "VERB",
+      "translation": "oser",
+      "example": "Everyone in the castle had a different theory, but nobody had ever dared to ask."
+    },
+    {
+      "word": "darkness",
+      "pos": "NOUN",
+      "translation": "l'obscurité",
+      "example": "Within minutes, the remaining bandits had fled into the darkness."
+    },
+    {
+      "word": "daughter",
+      "pos": "NOUN",
+      "translation": "la fille (enfant)",
+      "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "dawn",
+      "pos": "NOUN",
+      "translation": "l'aube",
+      "example": "We leave at dawn."
+    },
+    {
+      "word": "day",
+      "pos": "NOUN",
+      "translation": "le jour",
+      "example": "\"One day, you may become more than we ever were.\""
+    },
+    {
+      "word": "decide",
+      "pos": "VERB",
+      "translation": "décider",
+      "example": "Sir Godfrey never complained, so Edwin decided that he would not complain either."
+    },
+    {
+      "word": "defeat",
+      "pos": "VERB",
+      "translation": "vaincre",
+      "example": "I chased a defeated enemy into a forest because I wanted the glory of capturing him."
+    },
+    {
+      "word": "defence",
+      "pos": "NOUN",
+      "translation": "la défense",
+      "example": "For the rest of the afternoon, Edwin organised the defence."
+    },
+    {
+      "word": "defend",
+      "pos": "VERB",
+      "translation": "défendre",
+      "example": "If we kill a prisoner who cannot defend himself, we are no better than the men who attacked us."
+    },
+    {
+      "word": "deliberately",
+      "pos": "ADV",
+      "translation": "délibérément, exprès",
+      "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
+    },
+    {
+      "word": "desperately",
+      "pos": "ADV",
+      "translation": "désespérément",
+      "example": "The animals panicked, throwing several riders to the ground, while the others tried desperately to turn back."
+    },
+    {
+      "word": "destroy",
+      "pos": "VERB",
+      "translation": "détruire",
+      "example": "On the fourth day, they passed a farm that had been completely destroyed."
+    },
+    {
+      "word": "different",
+      "pos": "ADJ",
+      "translation": "différent",
+      "example": "Everyone in the castle had a different theory, but nobody had ever dared to ask."
+    },
+    {
+      "word": "dig",
+      "pos": "VERB",
+      "translation": "creuser",
+      "example": "The men dug a ditch across the main road and filled it with dry branches."
+    },
+    {
+      "word": "directly",
+      "pos": "ADV",
+      "translation": "directement",
+      "example": "Everyone told him it was impossible, that a squire had no right to address His Majesty directly."
+    },
+    {
+      "word": "dirty",
+      "pos": "ADJ",
+      "translation": "sale",
+      "example": "Her dress is dirty. — Sa robe est sale."
+    },
+    {
+      "word": "disappear",
+      "pos": "VERB",
+      "translation": "disparaître",
+      "example": "As soon as their eyes met, the squire turned and disappeared into the crowd."
+    },
+    {
+      "word": "disbelief",
+      "pos": "NOUN",
+      "translation": "l'incrédulité",
+      "example": "The boy stared at Edwin in disbelief."
+    },
+    {
+      "word": "ditch",
+      "pos": "NOUN",
+      "translation": "le fossé",
+      "example": "The men dug a ditch across the main road and filled it with dry branches."
+    },
+    {
+      "word": "do",
+      "pos": "VERB",
+      "translation": "faire (aussi auxiliaire des questions et négations)",
+      "example": "Do you see a cat? — Est-ce que tu vois un chat ?"
+    },
+    {
+      "word": "doctor",
+      "pos": "NOUN",
+      "translation": "le médecin",
+      "example": "While the doctors carried him to his tent, Edwin went back to examine the horse."
+    },
+    {
+      "word": "dog",
+      "pos": "NOUN",
+      "translation": "le chien",
+      "example": "He has a big dog. — Il a un gros chien."
+    },
+    {
+      "word": "door",
+      "pos": "NOUN",
+      "translation": "la porte",
+      "example": "She glanced nervously towards the door."
+    },
+    {
+      "word": "down",
+      "pos": "ADP",
+      "translation": "en bas, vers le bas",
+      "example": "He can't come down. — Il ne peut pas descendre."
+    },
+    {
+      "word": "drag",
+      "pos": "VERB",
+      "translation": "traîner",
+      "example": "When the fighting was over, the villagers dragged one of the prisoners into the light of the fire."
+    },
+    {
+      "word": "dragon",
+      "pos": "NOUN",
+      "translation": "le dragon",
+      "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
+    },
+    {
+      "word": "dress",
+      "pos": "NOUN",
+      "translation": "la robe",
+      "example": "Her dress is dirty. — Sa robe est sale."
+    },
+    {
+      "word": "drink",
+      "pos": "NOUN",
+      "translation": "la boisson",
+      "example": "Last week, my brother saw one of them pay for his drinks with a silver coin."
+    },
+    {
+      "word": "dry",
+      "pos": "ADJ",
+      "translation": "sec",
+      "example": "The men dug a ditch across the main road and filled it with dry branches."
+    },
+    {
+      "word": "duty",
+      "pos": "NOUN",
+      "translation": "le devoir",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "each",
+      "pos": "DET",
+      "translation": "chaque (« each other » : l'un l'autre)",
+      "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
+    },
+    {
+      "word": "eagle",
+      "pos": "NOUN",
+      "translation": "l'aigle",
+      "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
+    },
+    {
+      "word": "easy",
+      "pos": "ADJ",
+      "translation": "facile",
+      "example": "It is easy! — C'est facile !"
+    },
+    {
+      "word": "eat",
+      "pos": "VERB",
+      "translation": "manger",
+      "example": "Leo eats in the kitchen. — Leo mange dans la cuisine."
+    },
+    {
+      "word": "Edwin",
+      "pos": "PROPN",
+      "translation": "Edwin (prénom)",
+      "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "either",
+      "pos": "ADV",
+      "translation": "non plus",
+      "example": "Sir Godfrey never complained, so Edwin decided that he would not complain either."
+    },
+    {
+      "word": "else",
+      "pos": "ADV",
+      "translation": "d'autre (« something else » : autre chose)",
+      "example": "But there is something else."
+    },
+    {
+      "word": "end",
+      "pos": "NOUN",
+      "translation": "la fin",
+      "example": "By the end, Edwin had not won a single fight, but for the first time he had managed to block every attack."
+    },
+    {
+      "word": "enemy",
+      "pos": "NOUN",
+      "translation": "l'ennemi",
+      "example": "I chased a defeated enemy into a forest because I wanted the glory of capturing him."
+    },
+    {
+      "word": "England",
+      "pos": "PROPN",
+      "translation": "l'Angleterre",
+      "example": "Sir Edwin became one of the most respected knights in England, known not for the tournaments he won, but for the battles he chose to fight."
+    },
+    {
+      "word": "enough",
+      "pos": "ADV",
+      "translation": "assez",
+      "example": "If you are patient enough to notice, you will always be one step ahead."
+    },
+    {
+      "word": "equipment",
+      "pos": "NOUN",
+      "translation": "l'équipement, le matériel",
+      "example": "Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters."
+    },
+    {
+      "word": "erupt",
+      "pos": "VERB",
+      "translation": "éclater, exploser",
+      "example": "The hall erupted with applause."
+    },
+    {
+      "word": "even",
+      "pos": "ADV",
+      "translation": "même",
+      "example": "\"Not even a hero.\""
+    },
+    {
+      "word": "evening",
+      "pos": "NOUN",
+      "translation": "le soir",
+      "example": "That evening, they found shelter at a small inn called the Crooked Crown."
+    },
+    {
+      "word": "ever",
+      "pos": "ADV",
+      "translation": "jamais (dans une question ou comparaison)",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "every",
+      "pos": "DET",
+      "translation": "chaque, tous les",
+      "example": "Every morning. — Chaque matin."
+    },
+    {
+      "word": "everyone",
+      "pos": "PRON",
+      "translation": "tout le monde",
+      "example": "Everyone in the castle had a different theory, but nobody had ever dared to ask."
+    },
+    {
+      "word": "everything",
+      "pos": "PRON",
+      "translation": "tout",
+      "example": "If you leave, they will burn everything you own."
+    },
+    {
+      "word": "exactly",
+      "pos": "ADV",
+      "translation": "exactement",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "examine",
+      "pos": "VERB",
+      "translation": "examiner",
+      "example": "While the doctors carried him to his tent, Edwin went back to examine the horse."
+    },
+    {
+      "word": "excitement",
+      "pos": "NOUN",
+      "translation": "l'excitation, l'enthousiasme",
+      "example": "Edwin felt a mixture of excitement and fear."
+    },
+    {
+      "word": "excuse",
+      "pos": "VERB",
+      "translation": "excuser",
+      "example": "Excuse me! — Excusez-moi !"
+    },
+    {
+      "word": "exhaust",
+      "pos": "VERB",
+      "translation": "épuiser (« exhausted » : épuisé)",
+      "example": "Three days later, a messenger arrived at the gates, covered in mud and exhausted from riding through the night."
+    },
+    {
+      "word": "expect",
+      "pos": "VERB",
+      "translation": "s'attendre à",
+      "example": "They expected an easy victory."
+    },
+    {
+      "word": "explain",
+      "pos": "VERB",
+      "translation": "expliquer",
+      "example": "\"He has won the last three tournaments,\" a merchant explained to Edwin."
+    },
+    {
+      "word": "expression",
+      "pos": "NOUN",
+      "translation": "l'expression (du visage)",
+      "example": "He paused, and his expression became more serious."
+    },
+    {
+      "word": "eye",
+      "pos": "NOUN",
+      "translation": "l'œil (pluriel : les yeux)",
+      "example": "His shoulders move, his eyes change, his feet prepare."
+    },
+    {
+      "word": "eyed",
+      "pos": "ADJ",
+      "translation": "aux yeux… (« sharp-eyed » : à l'œil vif)",
+      "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "face",
+      "pos": "NOUN",
+      "translation": "le visage",
+      "example": "Edwin picked up his weapon, his face red with frustration."
+    },
+    {
+      "word": "face",
+      "pos": "VERB",
+      "translation": "affronter, faire face à",
+      "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
+    },
+    {
+      "word": "fail",
+      "pos": "VERB",
+      "translation": "échouer",
+      "example": "Several farms have been burned, and the king's soldiers have failed to catch the men responsible."
+    },
+    {
+      "word": "fall",
+      "pos": "NOUN",
+      "translation": "la chute",
+      "example": "Something about the fall had seemed strange to him."
+    },
+    {
+      "word": "fall",
+      "pos": "VERB",
+      "translation": "tomber (« fall silent » : se taire)",
+      "example": "The crowd fell silent as the two horses began to gallop towards each other, the ground shaking beneath their hooves."
+    },
+    {
+      "word": "far",
+      "pos": "ADV",
+      "translation": "loin",
+      "example": "Not far away, Hugh's squire, a thin young man with nervous eyes, was watching him."
+    },
+    {
+      "word": "farm",
+      "pos": "NOUN",
+      "translation": "la ferme",
+      "example": "Several farms have been burned, and the king's soldiers have failed to catch the men responsible."
+    },
+    {
+      "word": "farmer",
+      "pos": "NOUN",
+      "translation": "l'agriculteur, le paysan",
+      "example": "His father, a poor farmer, had sold two cows to pay for the journey."
+    },
+    {
+      "word": "fast",
+      "pos": "ADJ",
+      "translation": "rapide",
+      "example": "The old knight moved slowly these days, but his blade was still faster than most young men's."
+    },
+    {
+      "word": "fasten",
+      "pos": "VERB",
+      "translation": "attacher, fixer",
+      "example": "Sir Godfrey fastened a pair of golden spurs to Edwin's boots, a gift that had once belonged to Godfrey's own master."
+    },
+    {
+      "word": "father",
+      "pos": "NOUN",
+      "translation": "le père",
+      "example": "His father, a poor farmer, had sold two cows to pay for the journey."
+    },
+    {
+      "word": "fear",
+      "pos": "NOUN",
+      "translation": "la peur",
+      "example": "Edwin felt a mixture of excitement and fear."
+    },
+    {
+      "word": "feed",
+      "pos": "VERB",
+      "translation": "nourrir",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "feel",
+      "pos": "VERB",
+      "translation": "se sentir, sentir",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "Fenwick",
+      "pos": "PROPN",
+      "translation": "Fenwick (nom de village)",
+      "example": "The bandits are heading for Little Fenwick."
+    },
+    {
+      "word": "field",
+      "pos": "NOUN",
+      "translation": "le champ",
+      "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
+    },
+    {
+      "word": "fifteen",
+      "pos": "NUM",
+      "translation": "quinze",
+      "example": "The bandits came shortly after midnight, about fifteen men on horseback, carrying torches."
+    },
+    {
+      "word": "fight",
+      "pos": "NOUN",
+      "translation": "le combat",
+      "example": "By the end, Edwin had not won a single fight, but for the first time he had managed to block every attack."
+    },
+    {
+      "word": "fight",
+      "pos": "VERB",
+      "translation": "se battre, combattre",
+      "example": "He is the man who knows which battles are worth fighting."
+    },
+    {
+      "word": "fighting",
+      "pos": "NOUN",
+      "translation": "le combat, les combats",
+      "example": "When the fighting was over, the villagers dragged one of the prisoners into the light of the fire."
+    },
+    {
+      "word": "fill",
+      "pos": "VERB",
+      "translation": "remplir",
+      "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "final",
+      "pos": "ADJ",
+      "translation": "final, dernier",
+      "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
+    },
+    {
+      "word": "finally",
+      "pos": "ADV",
+      "translation": "enfin, finalement",
+      "example": "the knight finally asked, touching the long scar that crossed his left cheek."
+    },
+    {
+      "word": "find",
+      "pos": "VERB",
+      "translation": "trouver",
+      "example": "I can't find my cat. — Je ne trouve pas mon chat."
+    },
+    {
+      "word": "fine",
+      "pos": "ADJ",
+      "translation": "beau, raffiné",
+      "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
+    },
+    {
+      "word": "finish",
+      "pos": "VERB",
+      "translation": "finir, terminer",
+      "example": "When he had finished, there was complete silence."
+    },
+    {
+      "word": "fire",
+      "pos": "NOUN",
+      "translation": "le feu, l'incendie",
+      "example": "The women gathered buckets of water in case of fire."
+    },
+    {
+      "word": "firmly",
+      "pos": "ADV",
+      "translation": "fermement",
+      "example": "\"No,\" he said firmly."
+    },
+    {
+      "word": "first",
+      "pos": "ADJ",
+      "translation": "premier",
+      "example": "By the end, Edwin had not won a single fight, but for the first time he had managed to block every attack."
+    },
+    {
+      "word": "first",
+      "pos": "ADV",
+      "translation": "d'abord (« at first » : au début)",
+      "example": "At first, nobody listened to him."
+    },
+    {
+      "word": "five",
+      "pos": "NUM",
+      "translation": "cinq",
+      "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
+    },
+    {
+      "word": "flame",
+      "pos": "NOUN",
+      "translation": "la flamme",
+      "example": "A wall of flames rose in front of the horses."
+    },
+    {
+      "word": "flee",
+      "pos": "VERB",
+      "translation": "fuir, s'enfuir",
+      "example": "When Edwin arrived at Little Fenwick, the villagers were already packing their belongings, ready to flee into the forest."
+    },
+    {
+      "word": "flicker",
+      "pos": "VERB",
+      "translation": "vaciller, trembloter",
+      "example": "The candles flickered, and the hours passed slowly."
+    },
+    {
+      "word": "flower",
+      "pos": "NOUN",
+      "translation": "la fleur",
+      "example": "She looks behind the flowers. — Elle regarde derrière les fleurs."
+    },
+    {
+      "word": "food",
+      "pos": "NOUN",
+      "translation": "la nourriture",
+      "example": "She gives Leo his food. — Elle donne sa nourriture à Leo."
+    },
+    {
+      "word": "foot",
+      "pos": "NOUN",
+      "translation": "le pied (pluriel : feet)",
+      "example": "His shoulders move, his eyes change, his feet prepare."
+    },
+    {
+      "word": "for",
+      "pos": "ADP",
+      "translation": "pour, pendant",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "force",
+      "pos": "VERB",
+      "translation": "forcer, obliger",
+      "example": "He was terrified, but he forced himself to watch his opponent, exactly as Godfrey had taught him."
+    },
+    {
+      "word": "forest",
+      "pos": "NOUN",
+      "translation": "la forêt",
+      "example": "I chased a defeated enemy into a forest because I wanted the glory of capturing him."
+    },
+    {
+      "word": "forever",
+      "pos": "ADV",
+      "translation": "pour toujours",
+      "example": "Your lands are taken from you, and you will leave this kingdom forever."
+    },
+    {
+      "word": "forget",
+      "pos": "NOUN",
+      "translation": "oublier (ici verbe : « forgets »)",
+      "example": "A clumsy squire forgets to check his master's saddle, and now he invents a conspiracy to protect himself."
+    },
+    {
+      "word": "forget",
+      "pos": "VERB",
+      "translation": "oublier",
+      "example": "Edwin had never forgotten those words."
+    },
+    {
+      "word": "forward",
+      "pos": "ADV",
+      "translation": "en avant (« step forward » : s'avancer)",
+      "example": "Then an old shepherd stepped forward."
+    },
+    {
+      "word": "four",
+      "pos": "NUM",
+      "translation": "quatre",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "fourth",
+      "pos": "ADJ",
+      "translation": "quatrième",
+      "example": "On the fourth day, they passed a farm that had been completely destroyed."
+    },
+    {
+      "word": "friend",
+      "pos": "NOUN",
+      "translation": "l'ami, l'amie",
+      "example": "A new friend. — Un nouvel ami."
+    },
+    {
+      "word": "frighten",
+      "pos": "VERB",
+      "translation": "effrayer, faire peur",
+      "example": "They only wanted to frighten people."
+    },
+    {
+      "word": "frightened",
+      "pos": "ADJ",
+      "translation": "effrayé, apeuré",
+      "example": "He thought about his mother's words, about the burned farm on the road, about the frightened boy he had saved from the rope."
+    },
+    {
+      "word": "from",
+      "pos": "ADP",
+      "translation": "de, depuis",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "front",
+      "pos": "NOUN",
+      "translation": "l'avant (« in front of » : devant)",
+      "example": "When Sir Hugh passed in front of them, he looked at Godfrey with open contempt."
+    },
+    {
+      "word": "frustration",
+      "pos": "NOUN",
+      "translation": "la frustration",
+      "example": "Edwin picked up his weapon, his face red with frustration."
+    },
+    {
+      "word": "full",
+      "pos": "ADJ",
+      "translation": "plein",
+      "example": "He was a boy, younger than Edwin, with a bleeding arm and eyes full of fear."
+    },
+    {
+      "word": "furth",
+      "pos": "ADJ",
+      "translation": "plus loin (« further »)",
+      "example": "He had never been further than the nearest market town."
+    },
+    {
+      "word": "gallop",
+      "pos": "VERB",
+      "translation": "galoper",
+      "example": "The crowd fell silent as the two horses began to gallop towards each other, the ground shaking beneath their hooves."
+    },
+    {
+      "word": "garden",
+      "pos": "NOUN",
+      "translation": "le jardin",
+      "example": "Mia goes into the garden. — Mia va dans le jardin."
+    },
+    {
+      "word": "gate",
+      "pos": "NOUN",
+      "translation": "la porte (d'enceinte), le portail",
+      "example": "Three days later, a messenger arrived at the gates, covered in mud and exhausted from riding through the night."
+    },
+    {
+      "word": "gather",
+      "pos": "VERB",
+      "translation": "rassembler",
+      "example": "The women gathered buckets of water in case of fire."
+    },
+    {
+      "word": "get",
+      "pos": "VERB",
+      "translation": "obtenir, recevoir (« got this » : me suis fait ça)",
+      "example": "\"Do you know how I got this?\""
+    },
+    {
+      "word": "gift",
+      "pos": "NOUN",
+      "translation": "le cadeau",
+      "example": "Sir Godfrey fastened a pair of golden spurs to Edwin's boots, a gift that had once belonged to Godfrey's own master."
+    },
+    {
+      "word": "girl",
+      "pos": "NOUN",
+      "translation": "la fille, la jeune fille",
+      "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "give",
+      "pos": "VERB",
+      "translation": "donner",
+      "example": "She gives Leo his food. — Elle donne sa nourriture à Leo."
+    },
+    {
+      "word": "glance",
+      "pos": "VERB",
+      "translation": "jeter un coup d'œil",
+      "example": "She glanced nervously towards the door."
+    },
+    {
+      "word": "glory",
+      "pos": "NOUN",
+      "translation": "la gloire",
+      "example": "I chased a defeated enemy into a forest because I wanted the glory of capturing him."
+    },
+    {
+      "word": "go",
+      "pos": "VERB",
+      "translation": "aller",
+      "example": "Mia goes to the park. — Mia va au parc."
+    },
+    {
+      "word": "Godfrey",
+      "pos": "PROPN",
+      "translation": "Godfrey (prénom)",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "golden",
+      "pos": "ADJ",
+      "translation": "doré, en or",
+      "example": "Sir Godfrey fastened a pair of golden spurs to Edwin's boots, a gift that had once belonged to Godfrey's own master."
+    },
+    {
+      "word": "good",
+      "pos": "ADJ",
+      "translation": "bon",
+      "example": "Good night! — Bonne nuit !"
+    },
+    {
+      "word": "grandfather",
+      "pos": "NOUN",
+      "translation": "le grand-père",
+      "example": "My grandfather built this house."
+    },
+    {
+      "word": "grass",
+      "pos": "NOUN",
+      "translation": "l'herbe",
+      "example": "The grass is green. — L'herbe est verte."
+    },
+    {
+      "word": "great",
+      "pos": "ADJ",
+      "translation": "grand, immense",
+      "example": "His Majesty is holding a great tournament at Winchester at the end of the month."
+    },
+    {
+      "word": "green",
+      "pos": "ADJ",
+      "translation": "vert",
+      "example": "The grass is green. — L'herbe est verte."
+    },
+    {
+      "word": "Green",
+      "pos": "PROPN",
+      "translation": "Green (nom de famille)",
+      "example": "Mr Green is kind. — M. Green est gentil."
+    },
+    {
+      "word": "ground",
+      "pos": "NOUN",
+      "translation": "le sol",
+      "example": "The crowd fell silent as the two horses began to gallop towards each other, the ground shaking beneath their hooves."
+    },
+    {
+      "word": "group",
+      "pos": "NOUN",
+      "translation": "le groupe",
+      "example": "Two days later, as Godfrey and Edwin began the slow journey home in a hired cart, they met a group of terrified travellers coming from the south."
+    },
+    {
+      "word": "grow",
+      "pos": "VERB",
+      "translation": "cultiver, faire pousser ; devenir (« grew tired »)",
+      "example": "\"I thought you had retired to grow cabbages.\""
+    },
+    {
+      "word": "guard",
+      "pos": "NOUN",
+      "translation": "le garde",
+      "example": "Edwin jumped over the wooden barrier and ran towards him, ignoring the guards who were shouting at him to stop."
+    },
+    {
+      "word": "hall",
+      "pos": "NOUN",
+      "translation": "la grande salle",
+      "example": "The ceremony took place in the great hall of the castle, in front of the king, the lords of the realm and, to Edwin's astonishment, his own parents, whom the king had invited from Ashford."
+    },
+    {
+      "word": "hand",
+      "pos": "NOUN",
+      "translation": "la main",
+      "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
+    },
+    {
+      "word": "hang",
+      "pos": "VERB",
+      "translation": "pendre",
+      "example": "\"Hang him!\""
+    },
+    {
+      "word": "happy",
+      "pos": "ADJ",
+      "translation": "heureux, content",
+      "example": "She is very happy. — Elle est très contente."
+    },
+    {
+      "word": "hard",
+      "pos": "ADV",
+      "translation": "dur, difficile (« harder » : plus dur)",
+      "example": "The road to Winchester was longer and harder than Edwin had imagined."
+    },
+    {
+      "word": "have",
+      "pos": "VERB",
+      "translation": "avoir",
+      "example": "Mia has a cat. — Mia a un chat."
+    },
+    {
+      "word": "he",
+      "pos": "PRON",
+      "translation": "il",
+      "example": "He is small. — Il est petit."
+    },
+    {
+      "word": "head",
+      "pos": "NOUN",
+      "translation": "la tête",
+      "example": "Edwin shook his head."
+    },
+    {
+      "word": "head",
+      "pos": "VERB",
+      "translation": "se diriger vers",
+      "example": "The bandits are heading for Little Fenwick."
+    },
+    {
+      "word": "hear",
+      "pos": "VERB",
+      "translation": "entendre",
+      "example": "Just before dawn, he heard the door open behind him."
+    },
+    {
+      "word": "heart",
+      "pos": "NOUN",
+      "translation": "le cœur",
+      "example": "When he lifted the leather, his heart started to pound."
+    },
+    {
+      "word": "heavy",
+      "pos": "ADJ",
+      "translation": "lourd",
+      "example": "Edwin found himself face to face with a huge man armed with a heavy axe."
+    },
+    {
+      "word": "hello",
+      "pos": "INTJ",
+      "translation": "bonjour, salut",
+      "example": "Hello, Mia! — Bonjour, Mia !"
+    },
+    {
+      "word": "help",
+      "pos": "VERB",
+      "translation": "aider",
+      "example": "Can you help me? — Peux-tu m'aider ?"
+    },
+    {
+      "word": "her",
+      "pos": "PRON",
+      "translation": "elle, la ; son, sa, ses (à elle)",
+      "example": "Her dress is dirty. — Sa robe est sale."
+    },
+    {
+      "word": "here",
+      "pos": "ADV",
+      "translation": "ici",
+      "example": "Leo is not here. — Leo n'est pas ici."
+    },
+    {
+      "word": "hero",
+      "pos": "NOUN",
+      "translation": "le héros",
+      "example": "\"Not even a hero.\""
+    },
+    {
+      "word": "hesitate",
+      "pos": "VERB",
+      "translation": "hésiter",
+      "example": "The villagers hesitated, then slowly lowered their weapons."
+    },
+    {
+      "word": "hide",
+      "pos": "VERB",
+      "translation": "se cacher",
+      "example": "The children were sent to hide in the church, which had the thickest walls in the village."
+    },
+    {
+      "word": "high",
+      "pos": "ADJ",
+      "translation": "haut",
+      "example": "He is very high. — Il est très haut."
+    },
+    {
+      "word": "hill",
+      "pos": "NOUN",
+      "translation": "la colline",
+      "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "hilt",
+      "pos": "NOUN",
+      "translation": "la garde (d'une épée)",
+      "example": "Godfrey simply smiled and bowed his head, but Edwin noticed that his hand had tightened around the hilt of his sword."
+    },
+    {
+      "word": "himself",
+      "pos": "PRON",
+      "translation": "lui-même",
+      "example": "He carried a letter sealed with the red wax of the king himself."
+    },
+    {
+      "word": "hire",
+      "pos": "VERB",
+      "translation": "louer (« hired » : de location)",
+      "example": "Two days later, as Godfrey and Edwin began the slow journey home in a hired cart, they met a group of terrified travellers coming from the south."
+    },
+    {
+      "word": "his",
+      "pos": "PRON",
+      "translation": "son, sa, ses (à lui)",
+      "example": "His name is Leo. — Il s'appelle Leo."
+    },
+    {
+      "word": "hit",
+      "pos": "VERB",
+      "translation": "frapper, toucher",
+      "example": "He lost his balance, Hugh's lance hit him in the chest, and the old knight crashed to the ground."
+    },
+    {
+      "word": "hold",
+      "pos": "VERB",
+      "translation": "tenir, organiser",
+      "example": "His Majesty is holding a great tournament at Winchester at the end of the month."
+    },
+    {
+      "word": "home",
+      "pos": "ADV",
+      "translation": "à la maison",
+      "example": "They go home. — Ils rentrent à la maison."
+    },
+    {
+      "word": "hoof",
+      "pos": "NOUN",
+      "translation": "le sabot (pluriel : hooves)",
+      "example": "The crowd fell silent as the two horses began to gallop towards each other, the ground shaking beneath their hooves."
+    },
+    {
+      "word": "horse",
+      "pos": "NOUN",
+      "translation": "le cheval",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "horseback",
+      "pos": "NOUN",
+      "translation": "à cheval (« on horseback »)",
+      "example": "The bandits came shortly after midnight, about fifteen men on horseback, carrying torches."
+    },
+    {
+      "word": "hot",
+      "pos": "ADJ",
+      "translation": "chaud",
+      "example": "The sun is hot. — Le soleil est chaud."
+    },
+    {
+      "word": "hour",
+      "pos": "NOUN",
+      "translation": "l'heure",
+      "example": "Little Fenwick was a village of farmers and shepherds, less than an hour away, with no walls and no soldiers to protect it."
+    },
+    {
+      "word": "house",
+      "pos": "NOUN",
+      "translation": "la maison",
+      "example": "At my house. — Chez moi."
+    },
+    {
+      "word": "how",
+      "pos": "SCONJ",
+      "translation": "comment",
+      "example": "\"Then how am I supposed to win, sir?\""
+    },
+    {
+      "word": "however",
+      "pos": "ADV",
+      "translation": "cependant",
+      "example": "The king, however, studied the strap carefully."
+    },
+    {
+      "word": "huge",
+      "pos": "ADJ",
+      "translation": "énorme",
+      "example": "Edwin found himself face to face with a huge man armed with a heavy axe."
+    },
+    {
+      "word": "Hugh",
+      "pos": "PROPN",
+      "translation": "Hugh (prénom)",
+      "example": "Among them, one man attracted more attention than the others: Sir Hugh of Blackmoor, a tall knight in silver armour who owned vast lands in the south."
+    },
+    {
+      "word": "hundred",
+      "pos": "NOUN",
+      "translation": "la centaine (« hundreds of » : des centaines de)",
+      "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "hungry",
+      "pos": "ADJ",
+      "translation": "affamé, qui a faim",
+      "example": "\"Whoever did this was not hungry,\" he said quietly."
+    },
+    {
+      "word": "hurt",
+      "pos": "VERB",
+      "translation": "faire mal",
+      "example": "His knees hurt, and twice he almost fell asleep."
+    },
+    {
+      "word": "I",
+      "pos": "PRON",
+      "translation": "je",
+      "example": "I have a cat. — J'ai un chat."
+    },
+    {
+      "word": "if",
+      "pos": "SCONJ",
+      "translation": "si",
+      "example": "\"Strength is useless if you cannot control it.\""
+    },
+    {
+      "word": "ignore",
+      "pos": "VERB",
+      "translation": "ignorer",
+      "example": "Edwin jumped over the wooden barrier and ran towards him, ignoring the guards who were shouting at him to stop."
+    },
+    {
+      "word": "imagine",
+      "pos": "VERB",
+      "translation": "imaginer",
+      "example": "The road to Winchester was longer and harder than Edwin had imagined."
+    },
+    {
+      "word": "impact",
+      "pos": "NOUN",
+      "translation": "l'impact, le choc",
+      "example": "Just before the impact, Godfrey's saddle suddenly slipped to one side."
+    },
+    {
+      "word": "impossible",
+      "pos": "ADJ",
+      "translation": "impossible",
+      "example": "Everyone told him it was impossible, that a squire had no right to address His Majesty directly."
+    },
+    {
+      "word": "in",
+      "pos": "ADP",
+      "translation": "dans",
+      "example": "Leo is in the tree. — Leo est dans l'arbre."
+    },
+    {
+      "word": "inn",
+      "pos": "NOUN",
+      "translation": "l'auberge",
+      "example": "That evening, they found shelter at a small inn called the Crooked Crown."
+    },
+    {
+      "word": "innkeeper",
+      "pos": "NOUN",
+      "translation": "l'aubergiste",
+      "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "inside",
+      "pos": "ADV",
+      "translation": "à l'intérieur",
+      "example": "Sir Godfrey limped inside, leaning on a stick, and knelt painfully beside him."
+    },
+    {
+      "word": "instead",
+      "pos": "ADV",
+      "translation": "au lieu de cela, plutôt",
+      "example": "Instead, as they galloped down the main road, Edwin gave the signal, and the villagers set fire to the branches in the ditch."
+    },
+    {
+      "word": "intention",
+      "pos": "NOUN",
+      "translation": "l'intention",
+      "example": "Every man reveals his intentions before he strikes."
+    },
+    {
+      "word": "into",
+      "pos": "ADP",
+      "translation": "dans (avec mouvement)",
+      "example": "Mia goes into the garden. — Mia entre dans le jardin."
+    },
+    {
+      "word": "invent",
+      "pos": "VERB",
+      "translation": "inventer",
+      "example": "A clumsy squire forgets to check his master's saddle, and now he invents a conspiracy to protect himself."
+    },
+    {
+      "word": "invite",
+      "pos": "VERB",
+      "translation": "inviter",
+      "example": "Every knight in the kingdom has been invited to take part."
+    },
+    {
+      "word": "it",
+      "pos": "PRON",
+      "translation": "il, elle, ce",
+      "example": "It is Saturday. — C'est samedi."
+    },
+    {
+      "word": "journey",
+      "pos": "NOUN",
+      "translation": "le voyage, le trajet",
+      "example": "His father, a poor farmer, had sold two cows to pay for the journey."
+    },
+    {
+      "word": "joust",
+      "pos": "NOUN",
+      "translation": "la joute",
+      "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
+    },
+    {
+      "word": "jump",
+      "pos": "VERB",
+      "translation": "sauter",
+      "example": "Leo jumps into her arms. — Leo saute dans ses bras."
+    },
+    {
+      "word": "just",
+      "pos": "ADV",
+      "translation": "juste",
+      "example": "Just before the impact, Godfrey's saddle suddenly slipped to one side."
+    },
+    {
+      "word": "kill",
+      "pos": "VERB",
+      "translation": "tuer",
+      "example": "Someone had tried to kill his master, and he was almost sure he knew who."
+    },
+    {
+      "word": "kind",
+      "pos": "ADJ",
+      "translation": "gentil",
+      "example": "Mr Green is very kind. — M. Green est très gentil."
+    },
+    {
+      "word": "king",
+      "pos": "NOUN",
+      "translation": "le roi",
+      "example": "He carried a letter sealed with the red wax of the king himself."
+    },
+    {
+      "word": "kingdom",
+      "pos": "NOUN",
+      "translation": "le royaume",
+      "example": "Every knight in the kingdom has been invited to take part."
+    },
+    {
+      "word": "kitchen",
+      "pos": "NOUN",
+      "translation": "la cuisine (pièce)",
+      "example": "Leo eats in the kitchen. — Leo mange dans la cuisine."
+    },
+    {
+      "word": "knee",
+      "pos": "NOUN",
+      "translation": "le genou",
+      "example": "His knees hurt, and twice he almost fell asleep."
+    },
+    {
+      "word": "kneel",
+      "pos": "VERB",
+      "translation": "s'agenouiller",
+      "example": "Edwin knelt in front of the altar, wearing a simple white tunic, his sword lying on the cold stone in front of him."
+    },
+    {
+      "word": "kneeling",
+      "pos": "NOUN",
+      "translation": "agenouillé",
+      "example": "A week later, Edwin stood once again in front of the king, this time with Sir Godfrey sitting beside him on a wooden chair, and the young bandit kneeling at his side."
+    },
+    {
+      "word": "knelt",
+      "pos": "NOUN",
+      "translation": "s'agenouilla (passé de « kneel »)",
+      "example": "Edwin knelt before the throne."
+    },
+    {
+      "word": "knife",
+      "pos": "NOUN",
+      "translation": "le couteau",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "knight",
+      "pos": "NOUN",
+      "translation": "le chevalier",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "knighthood",
+      "pos": "NOUN",
+      "translation": "l'adoubement, le titre de chevalier",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "knock",
+      "pos": "VERB",
+      "translation": "frapper, faire tomber (« knock out of » : faire sauter de)",
+      "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
+    },
+    {
+      "word": "know",
+      "pos": "VERB",
+      "translation": "savoir, connaître",
+      "example": "\"Do you know how I got this?\""
+    },
+    {
+      "word": "lad",
+      "pos": "NOUN",
+      "translation": "le garçon, le gamin",
+      "example": "\"The lad is right,\" he said."
+    },
+    {
+      "word": "lance",
+      "pos": "NOUN",
+      "translation": "la lance",
+      "example": "On the first pass, both lances broke against the shields."
+    },
+    {
+      "word": "land",
+      "pos": "NOUN",
+      "translation": "la terre, le domaine",
+      "example": "Among them, one man attracted more attention than the others: Sir Hugh of Blackmoor, a tall knight in silver armour who owned vast lands in the south."
+    },
+    {
+      "word": "landowner",
+      "pos": "NOUN",
+      "translation": "le propriétaire terrien",
+      "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
+    },
+    {
+      "word": "last",
+      "pos": "ADJ",
+      "translation": "dernier",
+      "example": "Last week, my brother saw one of them pay for his drinks with a silver coin."
+    },
+    {
+      "word": "later",
+      "pos": "ADV",
+      "translation": "plus tard",
+      "example": "Three days later, a messenger arrived at the gates, covered in mud and exhausted from riding through the night."
+    },
+    {
+      "word": "laugh",
+      "pos": "VERB",
+      "translation": "rire",
+      "example": "She laughs. — Elle rit."
+    },
+    {
+      "word": "laughter",
+      "pos": "NOUN",
+      "translation": "le rire, les rires",
+      "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "lead",
+      "pos": "VERB",
+      "translation": "mener, conduire",
+      "example": "As the guards led Hugh away, the king turned towards Edwin, and for the first time, he smiled."
+    },
+    {
+      "word": "leader",
+      "pos": "NOUN",
+      "translation": "le chef",
+      "example": "A knight paid our leader."
+    },
+    {
+      "word": "lean",
+      "pos": "VERB",
+      "translation": "s'appuyer",
+      "example": "Sir Godfrey limped inside, leaning on a stick, and knelt painfully beside him."
+    },
+    {
+      "word": "leather",
+      "pos": "NOUN",
+      "translation": "le cuir",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "leave",
+      "pos": "VERB",
+      "translation": "partir, quitter",
+      "example": "\"Serve him well,\" his mother had whispered as he left."
+    },
+    {
+      "word": "left",
+      "pos": "ADJ",
+      "translation": "gauche",
+      "example": "the knight finally asked, touching the long scar that crossed his left cheek."
+    },
+    {
+      "word": "leg",
+      "pos": "NOUN",
+      "translation": "la jambe",
+      "example": "Godfrey was alive, but his leg was badly broken and he could barely breathe."
+    },
+    {
+      "word": "Leo",
+      "pos": "PROPN",
+      "translation": "Leo (prénom)",
+      "example": "His name is Leo. — Il s'appelle Leo."
+    },
+    {
+      "word": "less",
+      "pos": "ADJ",
+      "translation": "moins",
+      "example": "Little Fenwick was a village of farmers and shepherds, less than an hour away, with no walls and no soldiers to protect it."
+    },
+    {
+      "word": "lesson",
+      "pos": "NOUN",
+      "translation": "la leçon",
+      "example": "As the sun went down, Edwin remembered Godfrey's lesson."
+    },
+    {
+      "word": "let",
+      "pos": "VERB",
+      "translation": "laisser",
+      "example": "I will not let it burn."
+    },
+    {
+      "word": "letter",
+      "pos": "NOUN",
+      "translation": "la lettre",
+      "example": "He carried a letter sealed with the red wax of the king himself."
+    },
+    {
+      "word": "lie",
+      "pos": "VERB",
+      "translation": "être étendu, gésir",
+      "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
+    },
+    {
+      "word": "lift",
+      "pos": "VERB",
+      "translation": "soulever",
+      "example": "When he lifted the leather, his heart started to pound."
+    },
+    {
+      "word": "light",
+      "pos": "NOUN",
+      "translation": "la lumière",
+      "example": "When the fighting was over, the villagers dragged one of the prisoners into the light of the fire."
+    },
+    {
+      "word": "lightly",
+      "pos": "ADV",
+      "translation": "légèrement",
+      "example": "The king raised his sword and touched him lightly on each shoulder."
+    },
+    {
+      "word": "like",
+      "pos": "ADP",
+      "translation": "comme",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "limp",
+      "pos": "VERB",
+      "translation": "boiter",
+      "example": "Sir Godfrey limped inside, leaning on a stick, and knelt painfully beside him."
+    },
+    {
+      "word": "lion",
+      "pos": "NOUN",
+      "translation": "le lion",
+      "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
+    },
+    {
+      "word": "listen",
+      "pos": "VERB",
+      "translation": "écouter",
+      "example": "At first, nobody listened to him."
+    },
+    {
+      "word": "Little",
+      "pos": "PROPN",
+      "translation": "Little (« petit », dans un nom de village)",
+      "example": "The bandits are heading for Little Fenwick."
+    },
+    {
+      "word": "live",
+      "pos": "VERB",
+      "translation": "vivre, habiter",
+      "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
+    },
+    {
+      "word": "long",
+      "pos": "ADJ",
+      "translation": "long",
+      "example": "He has long arms. — Il a de longs bras."
+    },
+    {
+      "word": "long",
+      "pos": "ADV",
+      "translation": "longtemps (« long before » : bien avant)",
+      "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "look",
+      "pos": "VERB",
+      "translation": "regarder",
+      "example": "She looks under the table. — Elle regarde sous la table."
+    },
+    {
+      "word": "lord",
+      "pos": "NOUN",
+      "translation": "le seigneur",
+      "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
+    },
+    {
+      "word": "lord",
+      "pos": "PROPN",
+      "translation": "le seigneur",
+      "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
+    },
+    {
+      "word": "lose",
+      "pos": "VERB",
+      "translation": "perdre",
+      "example": "He lost his balance, Hugh's lance hit him in the chest, and the old knight crashed to the ground."
+    },
+    {
+      "word": "loudly",
+      "pos": "ADV",
+      "translation": "bruyamment, fort",
+      "example": "Sir Hugh, who was present, laughed loudly."
+    },
+    {
+      "word": "lower",
+      "pos": "VERB",
+      "translation": "baisser",
+      "example": "While Godfrey went to see to the horses, she sat down opposite Edwin and lowered her voice."
+    },
+    {
+      "word": "Luna",
+      "pos": "PROPN",
+      "translation": "Luna (prénom)",
+      "example": "Her name is Luna. — Elle s'appelle Luna."
+    },
+    {
+      "word": "mail",
+      "pos": "NOUN",
+      "translation": "la maille (« chain mail » : cotte de mailles)",
+      "example": "In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail."
+    },
+    {
+      "word": "main",
+      "pos": "ADJ",
+      "translation": "principal",
+      "example": "The main strap had not torn."
+    },
+    {
+      "word": "Majesty",
+      "pos": "PROPN",
+      "translation": "Majesté",
+      "example": "His Majesty is holding a great tournament at Winchester at the end of the month."
+    },
+    {
+      "word": "man",
+      "pos": "NOUN",
+      "translation": "l'homme",
+      "example": "She sees a young man. — Elle voit un jeune homme."
+    },
+    {
+      "word": "manage",
+      "pos": "VERB",
+      "translation": "réussir à, parvenir à",
+      "example": "By the end, Edwin had not won a single fight, but for the first time he had managed to block every attack."
+    },
+    {
+      "word": "many",
+      "pos": "ADJ",
+      "translation": "beaucoup de",
+      "example": "There are many cars. — Il y a beaucoup de voitures."
+    },
+    {
+      "word": "market",
+      "pos": "NOUN",
+      "translation": "le marché",
+      "example": "He had never been further than the nearest market town."
+    },
+    {
+      "word": "master",
+      "pos": "NOUN",
+      "translation": "le maître",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "Maud",
+      "pos": "PROPN",
+      "translation": "Maud (prénom)",
+      "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "may",
+      "pos": "VERB",
+      "translation": "pouvoir (possibilité)",
+      "example": "\"One day, you may become more than we ever were.\""
+    },
+    {
+      "word": "mean",
+      "pos": "VERB",
+      "translation": "signifier, vouloir dire",
+      "example": "I was twenty, and I believed that being a knight meant winning."
+    },
+    {
+      "word": "meat",
+      "pos": "NOUN",
+      "translation": "la viande",
+      "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "meet",
+      "pos": "VERB",
+      "translation": "rencontrer, se croiser",
+      "example": "While the doctors carried him to his tent, Edwin went back to examine the horse. Something about the fall had seemed strange to him."
+    },
+    {
+      "word": "meeting",
+      "pos": "NOUN",
+      "translation": "la réunion, la rencontre",
+      "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
+    },
+    {
+      "word": "memory",
+      "pos": "NOUN",
+      "translation": "le souvenir",
+      "example": "\"You are attacking like an angry bull,\" he would say, smiling at the memory."
+    },
+    {
+      "word": "meow",
+      "pos": "NOUN",
+      "translation": "miaou",
+      "example": "\"Meow!\" — « Miaou ! »"
+    },
+    {
+      "word": "Meow",
+      "pos": "PROPN",
+      "translation": "miaou",
+      "example": "\"Meow! Meow!\" — « Miaou ! Miaou ! »"
+    },
+    {
+      "word": "merchant",
+      "pos": "NOUN",
+      "translation": "le marchand",
+      "example": "\"He has won the last three tournaments,\" a merchant explained to Edwin."
+    },
+    {
+      "word": "mercy",
+      "pos": "NOUN",
+      "translation": "la clémence, la pitié",
+      "example": "\"Do you swear to protect the weak, to defend the truth, and to show mercy even to your enemies?\""
+    },
+    {
+      "word": "messenger",
+      "pos": "NOUN",
+      "translation": "le messager",
+      "example": "Three days later, a messenger arrived at the gates, covered in mud and exhausted from riding through the night."
+    },
+    {
+      "word": "Mia",
+      "pos": "PROPN",
+      "translation": "Mia (prénom)",
+      "example": "Mia has a cat. — Mia a un chat."
+    },
+    {
+      "word": "midnight",
+      "pos": "NOUN",
+      "translation": "minuit",
+      "example": "The bandits came shortly after midnight, about fifteen men on horseback, carrying torches."
+    },
+    {
+      "word": "minute",
+      "pos": "NOUN",
+      "translation": "la minute",
+      "example": "Within minutes, the remaining bandits had fled into the darkness."
+    },
+    {
+      "word": "mixture",
+      "pos": "NOUN",
+      "translation": "le mélange",
+      "example": "Edwin felt a mixture of excitement and fear."
+    },
+    {
+      "word": "moment",
+      "pos": "NOUN",
+      "translation": "le moment",
+      "example": "Edwin wanted to ask more questions, but at that moment Godfrey came back, and Maud quickly returned to the kitchen."
+    },
+    {
+      "word": "money",
+      "pos": "NOUN",
+      "translation": "l'argent",
+      "example": "They promised us money."
+    },
+    {
+      "word": "month",
+      "pos": "NOUN",
+      "translation": "le mois",
+      "example": "His Majesty is holding a great tournament at Winchester at the end of the month."
+    },
+    {
+      "word": "more",
+      "pos": "ADJ",
+      "translation": "plus (de)",
+      "example": "No more trees! — Plus d'arbres !"
+    },
+    {
+      "word": "more",
+      "pos": "ADV",
+      "translation": "plus",
+      "example": "He paused, and his expression became more serious."
+    },
+    {
+      "word": "morning",
+      "pos": "NOUN",
+      "translation": "le matin",
+      "example": "Every morning. — Chaque matin."
+    },
+    {
+      "word": "most",
+      "pos": "ADJ",
+      "translation": "la plupart de",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "most",
+      "pos": "ADV",
+      "translation": "le plus",
+      "example": "Sir Edwin became one of the most respected knights in England, known not for the tournaments he won, but for the battles he chose to fight."
+    },
+    {
+      "word": "mother",
+      "pos": "NOUN",
+      "translation": "la mère",
+      "example": "\"Serve him well,\" his mother had whispered as he left."
+    },
+    {
+      "word": "move",
+      "pos": "VERB",
+      "translation": "bouger, se déplacer",
+      "example": "The old knight moved slowly these days, but his blade was still faster than most young men's."
+    },
+    {
+      "word": "Mr",
+      "pos": "PROPN",
+      "translation": "Monsieur (M.)",
+      "example": "Mr Green. — M. Green."
+    },
+    {
+      "word": "mud",
+      "pos": "NOUN",
+      "translation": "la boue",
+      "example": "Three days later, a messenger arrived at the gates, covered in mud and exhausted from riding through the night."
+    },
+    {
+      "word": "murmur",
+      "pos": "VERB",
+      "translation": "murmurer",
+      "example": "\"Nobody should spend this night completely alone,\" the old knight murmured."
+    },
+    {
+      "word": "music",
+      "pos": "NOUN",
+      "translation": "la musique",
+      "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "must",
+      "pos": "VERB",
+      "translation": "devoir",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "my",
+      "pos": "PRON",
+      "translation": "mon, ma, mes",
+      "example": "My cat is in the tree. — Mon chat est dans l'arbre."
+    },
+    {
+      "word": "myself",
+      "pos": "PRON",
+      "translation": "moi-même",
+      "example": "I saw him myself, in the forest, three nights ago."
+    },
+    {
+      "word": "name",
+      "pos": "NOUN",
+      "translation": "le nom, le prénom",
+      "example": "His name is Sam. — Il s'appelle Sam."
+    },
+    {
+      "word": "name",
+      "pos": "VERB",
+      "translation": "nommer (« named » : nommé)",
+      "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "near",
+      "pos": "ADJ",
+      "translation": "proche (« nearest » : le plus proche)",
+      "example": "He had never been further than the nearest market town."
+    },
+    {
+      "word": "near",
+      "pos": "ADP",
+      "translation": "près de",
+      "example": "It is near the big tree. — Il est près du grand arbre."
+    },
+    {
+      "word": "nearby",
+      "pos": "ADV",
+      "translation": "à proximité",
+      "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
+    },
+    {
+      "word": "need",
+      "pos": "VERB",
+      "translation": "avoir besoin de",
+      "example": "You may need it."
+    },
+    {
+      "word": "neighbour",
+      "pos": "NOUN",
+      "translation": "le voisin, la voisine",
+      "example": "She sees her neighbour. — Elle voit son voisin."
+    },
+    {
+      "word": "neither",
+      "pos": "DET",
+      "translation": "aucun des deux",
+      "example": "Godfrey sat beside him, which was unusual, and for a while neither of them spoke."
+    },
+    {
+      "word": "nervous",
+      "pos": "ADJ",
+      "translation": "nerveux",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "nervously",
+      "pos": "ADV",
+      "translation": "nerveusement",
+      "example": "She glanced nervously towards the door."
+    },
+    {
+      "word": "never",
+      "pos": "ADV",
+      "translation": "jamais",
+      "example": "Edwin had never forgotten those words."
+    },
+    {
+      "word": "new",
+      "pos": "ADJ",
+      "translation": "nouveau",
+      "example": "A new friend. — Un nouvel ami."
+    },
+    {
+      "word": "next",
+      "pos": "ADJ",
+      "translation": "à côté (dans « next to »)",
+      "example": "She is next to Leo. — Elle est à côté de Leo."
+    },
+    {
+      "word": "night",
+      "pos": "NOUN",
+      "translation": "la nuit",
+      "example": "Good night! — Bonne nuit !"
+    },
+    {
+      "word": "no",
+      "pos": "ADV",
+      "translation": "pas (« no better » : pas mieux)",
+      "example": "If we kill a prisoner who cannot defend himself, we are no better than the men who attacked us."
+    },
+    {
+      "word": "no",
+      "pos": "DET",
+      "translation": "pas de, aucun",
+      "example": "There is no cat. — Il n'y a pas de chat."
+    },
+    {
+      "word": "no",
+      "pos": "INTJ",
+      "translation": "non",
+      "example": "No, sorry. — Non, désolé."
+    },
+    {
+      "word": "nobody",
+      "pos": "PRON",
+      "translation": "personne",
+      "example": "Everyone in the castle had a different theory, but nobody had ever dared to ask."
+    },
+    {
+      "word": "nod",
+      "pos": "VERB",
+      "translation": "hocher la tête",
+      "example": "Godfrey nodded, which, from him, was almost a compliment."
+    },
+    {
+      "word": "noon",
+      "pos": "NOUN",
+      "translation": "midi",
+      "example": "They practised until noon."
+    },
+    {
+      "word": "not",
+      "pos": "PART",
+      "translation": "ne… pas",
+      "example": "Leo is not here. — Leo n'est pas ici."
+    },
+    {
+      "word": "nothing",
+      "pos": "PRON",
+      "translation": "rien",
+      "example": "Nothing. — Rien."
+    },
+    {
+      "word": "notice",
+      "pos": "VERB",
+      "translation": "remarquer",
+      "example": "If you are patient enough to notice, you will always be one step ahead."
+    },
+    {
+      "word": "now",
+      "pos": "ADV",
+      "translation": "maintenant",
+      "example": "Now she is next to Leo. — Maintenant, elle est à côté de Leo."
+    },
+    {
+      "word": "oak",
+      "pos": "NOUN",
+      "translation": "le chêne",
+      "example": "\"Hang him from the oak tree, as a warning to the others!\""
+    },
+    {
+      "word": "oath",
+      "pos": "NOUN",
+      "translation": "le serment",
+      "example": "Sir Hugh of Blackmoor, you have betrayed your oath, your king and the people you were supposed to protect."
+    },
+    {
+      "word": "of",
+      "pos": "ADP",
+      "translation": "de",
+      "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "of",
+      "pos": "ADV",
+      "translation": "de (dans « of course »)",
+      "example": "Of course! — Bien sûr !"
+    },
+    {
+      "word": "ok",
+      "pos": "ADJ",
+      "translation": "d'accord, ça va",
+      "example": "Are you OK? — Ça va ?"
+    },
+    {
+      "word": "old",
+      "pos": "ADJ",
+      "translation": "vieux, âgé",
+      "example": "Mr Green is old. — M. Green est âgé."
+    },
+    {
+      "word": "on",
+      "pos": "ADP",
+      "translation": "sur",
+      "example": "He sleeps on her bed. — Il dort sur son lit."
+    },
+    {
+      "word": "once",
+      "pos": "ADV",
+      "translation": "une fois, autrefois",
+      "example": "A week later, Edwin stood once again in front of the king, this time with Sir Godfrey sitting beside him on a wooden chair, and the young bandit kneeling at his side."
+    },
+    {
+      "word": "one",
+      "pos": "NOUN",
+      "translation": "un, une (« one of » : l'un de)",
+      "example": "This one is."
+    },
+    {
+      "word": "one",
+      "pos": "NUM",
+      "translation": "un, une",
+      "example": "One branch. — Une branche."
+    },
+    {
+      "word": "only",
+      "pos": "ADV",
+      "translation": "seulement",
+      "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
+    },
+    {
+      "word": "open",
+      "pos": "ADJ",
+      "translation": "ouvert, non dissimulé",
+      "example": "When Sir Hugh passed in front of them, he looked at Godfrey with open contempt."
+    },
+    {
+      "word": "opponent",
+      "pos": "NOUN",
+      "translation": "l'adversaire",
+      "example": "Watch your opponent."
+    },
+    {
+      "word": "opposite",
+      "pos": "ADP",
+      "translation": "en face de",
+      "example": "While Godfrey went to see to the horses, she sat down opposite Edwin and lowered her voice."
+    },
+    {
+      "word": "or",
+      "pos": "CCONJ",
+      "translation": "ou",
+      "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
+    },
+    {
+      "word": "order",
+      "pos": "NOUN",
+      "translation": "l'ordre",
+      "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
+    },
+    {
+      "word": "order",
+      "pos": "VERB",
+      "translation": "ordonner",
+      "example": "\"Prepare the horses and pack the armour,\" Godfrey ordered."
+    },
+    {
+      "word": "ordinary",
+      "pos": "ADJ",
+      "translation": "ordinaire",
+      "example": "People say the bandits are not ordinary thieves."
+    },
+    {
+      "word": "organise",
+      "pos": "VERB",
+      "translation": "organiser",
+      "example": "For the rest of the afternoon, Edwin organised the defence."
+    },
+    {
+      "word": "other",
+      "pos": "ADJ",
+      "translation": "autre",
+      "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
+    },
+    {
+      "word": "other",
+      "pos": "NOUN",
+      "translation": "les autres",
+      "example": "Among them, one man attracted more attention than the others: Sir Hugh of Blackmoor, a tall knight in silver armour who owned vast lands in the south."
+    },
+    {
+      "word": "our",
+      "pos": "PRON",
+      "translation": "notre, nos",
+      "example": "A knight paid our leader."
+    },
+    {
+      "word": "out",
+      "pos": "ADP",
+      "translation": "dehors",
+      "example": "Mia goes out. — Mia sort."
+    },
+    {
+      "word": "outside",
+      "pos": "ADP",
+      "translation": "à l'extérieur de",
+      "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "over",
+      "pos": "ADP",
+      "translation": "au-dessus de, par-dessus",
+      "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "over",
+      "pos": "ADV",
+      "translation": "fini, terminé",
+      "example": "When the fighting was over, the villagers dragged one of the prisoners into the light of the fire."
+    },
+    {
+      "word": "own",
+      "pos": "ADJ",
+      "translation": "propre (« his own » : son propre)",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "own",
+      "pos": "VERB",
+      "translation": "posséder",
+      "example": "Among them, one man attracted more attention than the others: Sir Hugh of Blackmoor, a tall knight in silver armour who owned vast lands in the south."
+    },
+    {
+      "word": "pack",
+      "pos": "VERB",
+      "translation": "emballer, faire ses bagages",
+      "example": "\"Prepare the horses and pack the armour,\" Godfrey ordered."
+    },
+    {
+      "word": "pain",
+      "pos": "NOUN",
+      "translation": "la douleur",
+      "example": "Godfrey was pale with pain, his leg tied between two wooden boards."
+    },
+    {
+      "word": "painfully",
+      "pos": "ADV",
+      "translation": "douloureusement",
+      "example": "Sir Godfrey limped inside, leaning on a stick, and knelt painfully beside him."
+    },
+    {
+      "word": "paint",
+      "pos": "VERB",
+      "translation": "peindre",
+      "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
+    },
+    {
+      "word": "pair",
+      "pos": "NOUN",
+      "translation": "la paire",
+      "example": "Sir Godfrey fastened a pair of golden spurs to Edwin's boots, a gift that had once belonged to Godfrey's own master."
+    },
+    {
+      "word": "pale",
+      "pos": "ADJ",
+      "translation": "pâle",
+      "example": "Godfrey was pale with pain, his leg tied between two wooden boards."
+    },
+    {
+      "word": "panic",
+      "pos": "VERB",
+      "translation": "paniquer",
+      "example": "The animals panicked, throwing several riders to the ground, while the others tried desperately to turn back."
+    },
+    {
+      "word": "parade",
+      "pos": "VERB",
+      "translation": "défiler",
+      "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
+    },
+    {
+      "word": "parent",
+      "pos": "NOUN",
+      "translation": "le parent",
+      "example": "The ceremony took place in the great hall of the castle, in front of the king, the lords of the realm and, to Edwin's astonishment, his own parents, whom the king had invited from Ashford."
+    },
+    {
+      "word": "park",
+      "pos": "NOUN",
+      "translation": "le parc",
+      "example": "The park is big. — Le parc est grand."
+    },
+    {
+      "word": "part",
+      "pos": "NOUN",
+      "translation": "la part (« take part » : participer)",
+      "example": "Every knight in the kingdom has been invited to take part."
+    },
+    {
+      "word": "pass",
+      "pos": "NOUN",
+      "translation": "le passage, l'assaut (à la joute)",
+      "example": "On the first pass, both lances broke against the shields."
+    },
+    {
+      "word": "pass",
+      "pos": "VERB",
+      "translation": "passer, dépasser",
+      "example": "On the fourth day, they passed a farm that had been completely destroyed."
+    },
+    {
+      "word": "patient",
+      "pos": "ADJ",
+      "translation": "patient",
+      "example": "If you are patient enough to notice, you will always be one step ahead."
+    },
+    {
+      "word": "pause",
+      "pos": "VERB",
+      "translation": "faire une pause, s'interrompre",
+      "example": "He paused, and his expression became more serious."
+    },
+    {
+      "word": "pay",
+      "pos": "VERB",
+      "translation": "payer",
+      "example": "His father, a poor farmer, had sold two cows to pay for the journey."
+    },
+    {
+      "word": "people",
+      "pos": "NOUN",
+      "translation": "les gens",
+      "example": "They only wanted to frighten people."
+    },
+    {
+      "word": "pick",
+      "pos": "VERB",
+      "translation": "ramasser (« pick up »)",
+      "example": "Edwin picked up his weapon, his face red with frustration."
+    },
+    {
+      "word": "pitchfork",
+      "pos": "NOUN",
+      "translation": "la fourche",
+      "example": "In the confusion, the villagers attacked with pitchforks, clubs and axes."
+    },
+    {
+      "word": "place",
+      "pos": "NOUN",
+      "translation": "le lieu (« take place » : avoir lieu)",
+      "example": "The ceremony took place in the great hall of the castle, in front of the king, the lords of the realm and, to Edwin's astonishment, his own parents, whom the king had invited from Ashford."
+    },
+    {
+      "word": "play",
+      "pos": "VERB",
+      "translation": "jouer",
+      "example": "Children play. — Des enfants jouent."
+    },
+    {
+      "word": "please",
+      "pos": "INTJ",
+      "translation": "s'il te plaît, s'il vous plaît",
+      "example": "Yes, please! — Oui, s'il te plaît !"
+    },
+    {
+      "word": "polish",
+      "pos": "VERB",
+      "translation": "cirer, polir",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "poor",
+      "pos": "ADJ",
+      "translation": "pauvre",
+      "example": "His father, a poor farmer, had sold two cows to pay for the journey."
+    },
+    {
+      "word": "pot",
+      "pos": "NOUN",
+      "translation": "la marmite",
+      "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "pound",
+      "pos": "VERB",
+      "translation": "battre fort, cogner",
+      "example": "When he lifted the leather, his heart started to pound."
+    },
+    {
+      "word": "practice",
+      "pos": "NOUN",
+      "translation": "l'entraînement",
+      "example": "After breakfast, Sir Godfrey called him to the courtyard for sword practice."
+    },
+    {
+      "word": "practise",
+      "pos": "VERB",
+      "translation": "s'entraîner",
+      "example": "They practised until noon."
+    },
+    {
+      "word": "pray",
+      "pos": "VERB",
+      "translation": "prier",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "prepare",
+      "pos": "VERB",
+      "translation": "préparer, se préparer",
+      "example": "His shoulders move, his eyes change, his feet prepare."
+    },
+    {
+      "word": "present",
+      "pos": "ADJ",
+      "translation": "présent",
+      "example": "Sir Hugh, who was present, laughed loudly."
+    },
+    {
+      "word": "pressure",
+      "pos": "NOUN",
+      "translation": "la pression",
+      "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
+    },
+    {
+      "word": "prisoner",
+      "pos": "NOUN",
+      "translation": "le prisonnier",
+      "example": "When the fighting was over, the villagers dragged one of the prisoners into the light of the fire."
+    },
+    {
+      "word": "promise",
+      "pos": "VERB",
+      "translation": "promettre",
+      "example": "They promised us money."
+    },
+    {
+      "word": "proof",
+      "pos": "NOUN",
+      "translation": "la preuve",
+      "example": "Without proof, I cannot punish a knight of the realm."
+    },
+    {
+      "word": "protect",
+      "pos": "VERB",
+      "translation": "protéger",
+      "example": "A clumsy squire forgets to check his master's saddle, and now he invents a conspiracy to protect himself."
+    },
+    {
+      "word": "protest",
+      "pos": "VERB",
+      "translation": "protester",
+      "example": "He tried to protest, but then his own squire stepped forward and confessed that he had cut Godfrey's saddle strap on his master's orders."
+    },
+    {
+      "word": "punish",
+      "pos": "VERB",
+      "translation": "punir",
+      "example": "Without proof, I cannot punish a knight of the realm."
+    },
+    {
+      "word": "put",
+      "pos": "VERB",
+      "translation": "mettre, poser",
+      "example": "He puts his arms up. — Il lève les bras."
+    },
+    {
+      "word": "question",
+      "pos": "NOUN",
+      "translation": "la question",
+      "example": "Edwin wanted to ask more questions, but at that moment Godfrey came back, and Maud quickly returned to the kitchen."
+    },
+    {
+      "word": "quick",
+      "pos": "ADJ",
+      "translation": "rapide",
+      "example": "Then, with one quick strike, Edwin knocked the axe out of his hands."
+    },
+    {
+      "word": "quickly",
+      "pos": "ADV",
+      "translation": "rapidement, vite",
+      "example": "Edwin wanted to ask more questions, but at that moment Godfrey came back, and Maud quickly returned to the kitchen."
+    },
+    {
+      "word": "quietly",
+      "pos": "ADV",
+      "translation": "doucement, à voix basse",
+      "example": "\"Whoever did this was not hungry,\" he said quietly."
+    },
+    {
+      "word": "rain",
+      "pos": "VERB",
+      "translation": "pleuvoir",
+      "example": "It rained almost constantly."
+    },
+    {
+      "word": "raise",
+      "pos": "VERB",
+      "translation": "lever",
+      "example": "The king raised his sword and touched him lightly on each shoulder."
+    },
+    {
+      "word": "read",
+      "pos": "VERB",
+      "translation": "lire",
+      "example": "Sir Godfrey read it twice before he spoke."
+    },
+    {
+      "word": "ready",
+      "pos": "ADJ",
+      "translation": "prêt",
+      "example": "When Edwin arrived at Little Fenwick, the villagers were already packing their belongings, ready to flee into the forest."
+    },
+    {
+      "word": "realise",
+      "pos": "VERB",
+      "translation": "se rendre compte",
+      "example": "He realised that he was no longer afraid of fighting."
+    },
+    {
+      "word": "realm",
+      "pos": "NOUN",
+      "translation": "le royaume",
+      "example": "Without proof, I cannot punish a knight of the realm."
+    },
+    {
+      "word": "receive",
+      "pos": "VERB",
+      "translation": "recevoir",
+      "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
+    },
+    {
+      "word": "red",
+      "pos": "ADJ",
+      "translation": "rouge",
+      "example": "A big red bus. — Un grand bus rouge."
+    },
+    {
+      "word": "reflect",
+      "pos": "VERB",
+      "translation": "réfléchir",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "reflection",
+      "pos": "NOUN",
+      "translation": "le reflet",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "refuse",
+      "pos": "VERB",
+      "translation": "refuser",
+      "example": "But Edwin refused to leave, and in the end, the king agreed to see him."
+    },
+    {
+      "word": "remain",
+      "pos": "VERB",
+      "translation": "rester, subsister",
+      "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
+    },
+    {
+      "word": "remember",
+      "pos": "VERB",
+      "translation": "se souvenir de",
+      "example": "Remember that, because one day nobody will be there to remind you."
+    },
+    {
+      "word": "remind",
+      "pos": "VERB",
+      "translation": "rappeler (à quelqu'un)",
+      "example": "Remember that, because one day nobody will be there to remind you."
+    },
+    {
+      "word": "reply",
+      "pos": "VERB",
+      "translation": "répondre",
+      "example": "\"By waiting,\" the knight replied calmly."
+    },
+    {
+      "word": "respect",
+      "pos": "VERB",
+      "translation": "respecter",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "respected",
+      "pos": "ADJ",
+      "translation": "respecté",
+      "example": "Sir Edwin became one of the most respected knights in England, known not for the tournaments he won, but for the battles he chose to fight."
+    },
+    {
+      "word": "responsibility",
+      "pos": "NOUN",
+      "translation": "la responsabilité",
+      "example": "What frightened him now was something else: the responsibility of deciding, every day, what was right."
+    },
+    {
+      "word": "responsible",
+      "pos": "ADJ",
+      "translation": "responsable",
+      "example": "Several farms have been burned, and the king's soldiers have failed to catch the men responsible."
+    },
+    {
+      "word": "rest",
+      "pos": "NOUN",
+      "translation": "le reste",
+      "example": "When Edwin arrived at Little Fenwick, the villagers were already packing their belongings, ready to flee into the forest."
+    },
+    {
+      "word": "retire",
+      "pos": "VERB",
+      "translation": "prendre sa retraite",
+      "example": "\"I thought you had retired to grow cabbages.\""
+    },
+    {
+      "word": "return",
+      "pos": "VERB",
+      "translation": "retourner, revenir",
+      "example": "Edwin wanted to ask more questions, but at that moment Godfrey came back, and Maud quickly returned to the kitchen."
+    },
+    {
+      "word": "reveal",
+      "pos": "VERB",
+      "translation": "révéler",
+      "example": "Every man reveals his intentions before he strikes."
+    },
+    {
+      "word": "rich",
+      "pos": "ADJ",
+      "translation": "riche",
+      "example": "Someone rich is paying them."
+    },
+    {
+      "word": "rid",
+      "pos": "VERB",
+      "translation": "monter à cheval (« riding »)",
+      "example": "Three days later, a messenger arrived at the gates, covered in mud and exhausted from riding through the night."
+    },
+    {
+      "word": "rider",
+      "pos": "NOUN",
+      "translation": "le cavalier",
+      "example": "The animals panicked, throwing several riders to the ground, while the others tried desperately to turn back."
+    },
+    {
+      "word": "right",
+      "pos": "ADJ",
+      "translation": "juste, qui a raison",
+      "example": "\"The lad is right,\" he said."
+    },
+    {
+      "word": "right",
+      "pos": "NOUN",
+      "translation": "le droit",
+      "example": "Everyone told him it was impossible, that a squire had no right to address His Majesty directly."
+    },
+    {
+      "word": "rise",
+      "pos": "VERB",
+      "translation": "se lever (soleil), monter",
+      "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "river",
+      "pos": "NOUN",
+      "translation": "la rivière",
+      "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
+    },
+    {
+      "word": "road",
+      "pos": "NOUN",
+      "translation": "la route",
+      "example": "Bandits have been attacking villages along the southern road."
+    },
+    {
+      "word": "roast",
+      "pos": "VERB",
+      "translation": "rôtir",
+      "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "rope",
+      "pos": "NOUN",
+      "translation": "la corde",
+      "example": "A rope was brought."
+    },
+    {
+      "word": "royal",
+      "pos": "ADJ",
+      "translation": "royal",
+      "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
+    },
+    {
+      "word": "ruin",
+      "pos": "NOUN",
+      "translation": "les ruines",
+      "example": "Godfrey stopped his horse and stared at the ruins for a long time."
+    },
+    {
+      "word": "run",
+      "pos": "VERB",
+      "translation": "courir",
+      "example": "She runs to the park. — Elle court au parc."
+    },
+    {
+      "word": "rust",
+      "pos": "NOUN",
+      "translation": "la rouille",
+      "example": "In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail."
+    },
+    {
+      "word": "saddle",
+      "pos": "NOUN",
+      "translation": "la selle",
+      "example": "On the second, Godfrey struck Hugh so hard that the younger knight almost fell from his saddle."
+    },
+    {
+      "word": "sadly",
+      "pos": "ADV",
+      "translation": "tristement",
+      "example": "Godfrey smiled sadly."
+    },
+    {
+      "word": "Sam",
+      "pos": "PROPN",
+      "translation": "Sam (prénom)",
+      "example": "His name is Sam. — Il s'appelle Sam."
+    },
+    {
+      "word": "same",
+      "pos": "ADJ",
+      "translation": "même",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "Saturday",
+      "pos": "PROPN",
+      "translation": "samedi",
+      "example": "It is Saturday. — C'est samedi."
+    },
+    {
+      "word": "save",
+      "pos": "VERB",
+      "translation": "sauver",
+      "example": "\"Running will not save you,\" he told them, trying to sound more confident than he felt."
+    },
+    {
+      "word": "say",
+      "pos": "VERB",
+      "translation": "dire",
+      "example": "\"No,\" the boy says. — « Non », dit le garçon."
+    },
+    {
+      "word": "scar",
+      "pos": "NOUN",
+      "translation": "la cicatrice",
+      "example": "the knight finally asked, touching the long scar that crossed his left cheek."
+    },
+    {
+      "word": "scared",
+      "pos": "ADJ",
+      "translation": "effrayé, qui a peur",
+      "example": "Leo is scared. — Leo a peur."
+    },
+    {
+      "word": "school",
+      "pos": "NOUN",
+      "translation": "l'école",
+      "example": "The school is closed. — L'école est fermée."
+    },
+    {
+      "word": "seal",
+      "pos": "VERB",
+      "translation": "sceller, cacheter",
+      "example": "He carried a letter sealed with the red wax of the king himself."
+    },
+    {
+      "word": "second",
+      "pos": "ADJ",
+      "translation": "deuxième",
+      "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
+    },
+    {
+      "word": "see",
+      "pos": "VERB",
+      "translation": "voir",
+      "example": "Mia sees the tree. — Mia voit l'arbre."
+    },
+    {
+      "word": "seem",
+      "pos": "VERB",
+      "translation": "sembler",
+      "example": "Something about the fall had seemed strange to him."
+    },
+    {
+      "word": "sell",
+      "pos": "VERB",
+      "translation": "vendre",
+      "example": "His father, a poor farmer, had sold two cows to pay for the journey."
+    },
+    {
+      "word": "send",
+      "pos": "VERB",
+      "translation": "envoyer",
+      "example": "The children were sent to hide in the church, which had the thickest walls in the village."
+    },
+    {
+      "word": "serious",
+      "pos": "ADJ",
+      "translation": "sérieux, grave",
+      "example": "He paused, and his expression became more serious."
+    },
+    {
+      "word": "servant",
+      "pos": "NOUN",
+      "translation": "le serviteur",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "serve",
+      "pos": "VERB",
+      "translation": "servir",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "set",
+      "pos": "VERB",
+      "translation": "installer (« set up ») ; mettre (« set fire to » : mettre le feu à)",
+      "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "several",
+      "pos": "ADJ",
+      "translation": "plusieurs",
+      "example": "Several farms have been burned, and the king's soldiers have failed to catch the men responsible."
+    },
+    {
+      "word": "shake",
+      "pos": "VERB",
+      "translation": "secouer, trembler (« shook his head » : secoua la tête)",
+      "example": "Edwin shook his head."
+    },
+    {
+      "word": "sharp",
+      "pos": "ADJ",
+      "translation": "vif, aiguisé",
+      "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "sharpen",
+      "pos": "VERB",
+      "translation": "aiguiser",
+      "example": "And Edwin, sharpen your own sword as well."
+    },
+    {
+      "word": "she",
+      "pos": "PRON",
+      "translation": "elle",
+      "example": "She is happy. — Elle est contente."
+    },
+    {
+      "word": "shelter",
+      "pos": "NOUN",
+      "translation": "l'abri",
+      "example": "That evening, they found shelter at a small inn called the Crooked Crown."
+    },
+    {
+      "word": "shepherd",
+      "pos": "NOUN",
+      "translation": "le berger",
+      "example": "Little Fenwick was a village of farmers and shepherds, less than an hour away, with no walls and no soldiers to protect it."
+    },
+    {
+      "word": "shield",
+      "pos": "NOUN",
+      "translation": "le bouclier",
+      "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
+    },
+    {
+      "word": "shiver",
+      "pos": "NOUN",
+      "translation": "le frisson",
+      "example": "Edwin did not understand what he meant, but he felt a cold shiver run down his spine."
+    },
+    {
+      "word": "shortly",
+      "pos": "ADV",
+      "translation": "peu de temps (« shortly after » : peu après)",
+      "example": "The bandits came shortly after midnight, about fifteen men on horseback, carrying torches."
+    },
+    {
+      "word": "should",
+      "pos": "VERB",
+      "translation": "devrait",
+      "example": "\"Nobody should spend this night completely alone,\" the old knight murmured."
+    },
+    {
+      "word": "shoulder",
+      "pos": "NOUN",
+      "translation": "l'épaule",
+      "example": "His shoulders move, his eyes change, his feet prepare."
+    },
+    {
+      "word": "shout",
+      "pos": "VERB",
+      "translation": "crier",
+      "example": "Edwin jumped over the wooden barrier and ran towards him, ignoring the guards who were shouting at him to stop."
+    },
+    {
+      "word": "show",
+      "pos": "VERB",
+      "translation": "montrer",
+      "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
+    },
+    {
+      "word": "side",
+      "pos": "NOUN",
+      "translation": "le côté",
+      "example": "Just before the impact, Godfrey's saddle suddenly slipped to one side."
+    },
+    {
+      "word": "signal",
+      "pos": "NOUN",
+      "translation": "le signal",
+      "example": "Instead, as they galloped down the main road, Edwin gave the signal, and the villagers set fire to the branches in the ditch."
+    },
+    {
+      "word": "silence",
+      "pos": "NOUN",
+      "translation": "le silence",
+      "example": "When he had finished, there was complete silence."
+    },
+    {
+      "word": "silent",
+      "pos": "ADJ",
+      "translation": "silencieux",
+      "example": "The crowd fell silent as the two horses began to gallop towards each other, the ground shaking beneath their hooves."
+    },
+    {
+      "word": "silver",
+      "pos": "ADJ",
+      "translation": "d'argent, argenté",
+      "example": "Last week, my brother saw one of them pay for his drinks with a silver coin."
+    },
+    {
+      "word": "silver",
+      "pos": "NOUN",
+      "translation": "l'argent (métal)",
+      "example": "Last week, my brother saw one of them pay for his drinks with a silver coin."
+    },
+    {
+      "word": "simple",
+      "pos": "ADJ",
+      "translation": "simple",
+      "example": "Edwin knelt in front of the altar, wearing a simple white tunic, his sword lying on the cold stone in front of him."
+    },
+    {
+      "word": "simply",
+      "pos": "ADV",
+      "translation": "simplement",
+      "example": "Godfrey simply smiled and bowed his head, but Edwin noticed that his hand had tightened around the hilt of his sword."
+    },
+    {
+      "word": "since",
+      "pos": "SCONJ",
+      "translation": "depuis (« since when » : depuis quand)",
+      "example": "Since when do bandits have silver?"
+    },
+    {
+      "word": "single",
+      "pos": "ADJ",
+      "translation": "seul, unique",
+      "example": "By the end, Edwin had not won a single fight, but for the first time he had managed to block every attack."
+    },
+    {
+      "word": "sir",
+      "pos": "PROPN",
+      "translation": "monsieur, messire",
+      "example": "\"Then how am I supposed to win, sir?\""
+    },
+    {
+      "word": "Sir",
+      "pos": "PROPN",
+      "translation": "Sir (titre de chevalier)",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "sit",
+      "pos": "VERB",
+      "translation": "s'asseoir, être assis",
+      "example": "In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail."
+    },
+    {
+      "word": "sixteen",
+      "pos": "NUM",
+      "translation": "seize",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "sleep",
+      "pos": "VERB",
+      "translation": "dormir",
+      "example": "He sleeps on her bed. — Il dort sur son lit."
+    },
+    {
+      "word": "slip",
+      "pos": "VERB",
+      "translation": "glisser",
+      "example": "Just before the impact, Godfrey's saddle suddenly slipped to one side."
+    },
+    {
+      "word": "slow",
+      "pos": "ADJ",
+      "translation": "lent",
+      "example": "Two days later, as Godfrey and Edwin began the slow journey home in a hired cart, they met a group of terrified travellers coming from the south."
+    },
+    {
+      "word": "slowly",
+      "pos": "ADV",
+      "translation": "lentement",
+      "example": "The old knight moved slowly these days, but his blade was still faster than most young men's."
+    },
+    {
+      "word": "small",
+      "pos": "ADJ",
+      "translation": "petit",
+      "example": "Leo is small. — Leo est petit."
+    },
+    {
+      "word": "smell",
+      "pos": "NOUN",
+      "translation": "l'odeur",
+      "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "smile",
+      "pos": "VERB",
+      "translation": "sourire",
+      "example": "Sam smiles. — Sam sourit."
+    },
+    {
+      "word": "smoke",
+      "pos": "NOUN",
+      "translation": "la fumée",
+      "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
+    },
+    {
+      "word": "so",
+      "pos": "ADV",
+      "translation": "donc, alors",
+      "example": "It is Saturday, so the school is closed. — C'est samedi, donc l'école est fermée."
+    },
+    {
+      "word": "so",
+      "pos": "SCONJ",
+      "translation": "pour que, afin que",
+      "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
+    },
+    {
+      "word": "soak",
+      "pos": "VERB",
+      "translation": "tremper (« soaked » : trempé)",
+      "example": "Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters."
+    },
+    {
+      "word": "sob",
+      "pos": "VERB",
+      "translation": "sangloter",
+      "example": "\"I never wanted to burn anything,\" he sobbed."
+    },
+    {
+      "word": "soldier",
+      "pos": "NOUN",
+      "translation": "le soldat",
+      "example": "Several farms have been burned, and the king's soldiers have failed to catch the men responsible."
+    },
+    {
+      "word": "some",
+      "pos": "DET",
+      "translation": "certains, quelques",
+      "example": "\"Some say he will be the king's next adviser.\""
+    },
+    {
+      "word": "someone",
+      "pos": "PRON",
+      "translation": "quelqu'un",
+      "example": "Someone rich is paying them."
+    },
+    {
+      "word": "something",
+      "pos": "PRON",
+      "translation": "quelque chose",
+      "example": "But there is something else."
+    },
+    {
+      "word": "soon",
+      "pos": "ADV",
+      "translation": "bientôt (« as soon as » : dès que)",
+      "example": "As soon as their eyes met, the squire turned and disappeared into the crowd."
+    },
+    {
+      "word": "sorry",
+      "pos": "ADJ",
+      "translation": "désolé",
+      "example": "No, sorry. — Non, désolé."
+    },
+    {
+      "word": "sound",
+      "pos": "VERB",
+      "translation": "paraître, sembler",
+      "example": "\"Running will not save you,\" he told them, trying to sound more confident than he felt."
+    },
+    {
+      "word": "south",
+      "pos": "NOUN",
+      "translation": "le sud",
+      "example": "Among them, one man attracted more attention than the others: Sir Hugh of Blackmoor, a tall knight in silver armour who owned vast lands in the south."
+    },
+    {
+      "word": "southern",
+      "pos": "ADJ",
+      "translation": "du sud",
+      "example": "Bandits have been attacking villages along the southern road."
+    },
+    {
+      "word": "speak",
+      "pos": "VERB",
+      "translation": "parler",
+      "example": "Godfrey sat beside him, which was unusual, and for a while neither of them spoke."
+    },
+    {
+      "word": "spectator",
+      "pos": "NOUN",
+      "translation": "le spectateur",
+      "example": "The spectators cheered."
+    },
+    {
+      "word": "spend",
+      "pos": "VERB",
+      "translation": "passer (du temps)",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "spine",
+      "pos": "NOUN",
+      "translation": "la colonne vertébrale, l'échine",
+      "example": "Edwin did not understand what he meant, but he felt a cold shiver run down his spine."
+    },
+    {
+      "word": "spur",
+      "pos": "NOUN",
+      "translation": "l'éperon",
+      "example": "Sir Godfrey fastened a pair of golden spurs to Edwin's boots, a gift that had once belonged to Godfrey's own master."
+    },
+    {
+      "word": "squire",
+      "pos": "NOUN",
+      "translation": "l'écuyer",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "stand",
+      "pos": "VERB",
+      "translation": "se tenir debout",
+      "example": "Sam stands under the tree. — Sam se tient sous l'arbre."
+    },
+    {
+      "word": "star",
+      "pos": "NOUN",
+      "translation": "l'étoile",
+      "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
+    },
+    {
+      "word": "star",
+      "pos": "VERB",
+      "translation": "fixer du regard (« stared »)",
+      "example": "Godfrey stopped his horse and stared at the ruins for a long time."
+    },
+    {
+      "word": "start",
+      "pos": "VERB",
+      "translation": "commencer",
+      "example": "When he lifted the leather, his heart started to pound."
+    },
+    {
+      "word": "stay",
+      "pos": "VERB",
+      "translation": "rester",
+      "example": "If we stay together, we have a chance."
+    },
+    {
+      "word": "steady",
+      "pos": "ADJ",
+      "translation": "ferme, assuré",
+      "example": "\"I swear it,\" Edwin answered, his voice steady."
+    },
+    {
+      "word": "step",
+      "pos": "NOUN",
+      "translation": "le pas",
+      "example": "If you are patient enough to notice, you will always be one step ahead."
+    },
+    {
+      "word": "step",
+      "pos": "VERB",
+      "translation": "faire un pas, s'avancer",
+      "example": "Then an old shepherd stepped forward."
+    },
+    {
+      "word": "stew",
+      "pos": "NOUN",
+      "translation": "le ragoût",
+      "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "stick",
+      "pos": "NOUN",
+      "translation": "le bâton, la canne",
+      "example": "Sir Godfrey limped inside, leaning on a stick, and knelt painfully beside him."
+    },
+    {
+      "word": "still",
+      "pos": "ADV",
+      "translation": "encore, toujours",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "stone",
+      "pos": "NOUN",
+      "translation": "la pierre",
+      "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
+    },
+    {
+      "word": "stop",
+      "pos": "VERB",
+      "translation": "s'arrêter",
+      "example": "Mia stops. — Mia s'arrête."
+    },
+    {
+      "word": "story",
+      "pos": "NOUN",
+      "translation": "l'histoire",
+      "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
+    },
+    {
+      "word": "straight",
+      "pos": "ADV",
+      "translation": "droit, directement",
+      "example": "Then Godfrey looked him straight in the eyes."
+    },
+    {
+      "word": "strange",
+      "pos": "ADJ",
+      "translation": "étrange",
+      "example": "Something about the fall had seemed strange to him."
+    },
+    {
+      "word": "strap",
+      "pos": "NOUN",
+      "translation": "la sangle",
+      "example": "He had checked every buckle and every strap that morning, as he always did."
+    },
+    {
+      "word": "street",
+      "pos": "NOUN",
+      "translation": "la rue",
+      "example": "Mia goes into the street. — Mia va dans la rue."
+    },
+    {
+      "word": "strength",
+      "pos": "NOUN",
+      "translation": "la force",
+      "example": "\"Strength is useless if you cannot control it.\""
+    },
+    {
+      "word": "strike",
+      "pos": "NOUN",
+      "translation": "le coup",
+      "example": "Then, with one quick strike, Edwin knocked the axe out of his hands."
+    },
+    {
+      "word": "strike",
+      "pos": "VERB",
+      "translation": "frapper",
+      "example": "Every man reveals his intentions before he strikes."
+    },
+    {
+      "word": "study",
+      "pos": "VERB",
+      "translation": "étudier, examiner",
+      "example": "The king, however, studied the strap carefully."
+    },
+    {
+      "word": "suddenly",
+      "pos": "ADV",
+      "translation": "soudain",
+      "example": "Just before the impact, Godfrey's saddle suddenly slipped to one side."
+    },
+    {
+      "word": "sun",
+      "pos": "NOUN",
+      "translation": "le soleil",
+      "example": "The sun is hot. — Le soleil est chaud."
+    },
+    {
+      "word": "suppose",
+      "pos": "VERB",
+      "translation": "supposer (« be supposed to » : être censé)",
+      "example": "\"Then how am I supposed to win, sir?\""
+    },
+    {
+      "word": "sure",
+      "pos": "ADJ",
+      "translation": "sûr",
+      "example": "The main strap had not torn. It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
+    },
+    {
+      "word": "surprise",
+      "pos": "NOUN",
+      "translation": "la surprise",
+      "example": "Then, to everyone's surprise, he began to cry."
+    },
+    {
+      "word": "surprised",
+      "pos": "ADJ",
+      "translation": "surpris",
+      "example": "\"I am surprised to see you here, old man,\" he said."
+    },
+    {
+      "word": "surround",
+      "pos": "VERB",
+      "translation": "entourer",
+      "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
+    },
+    {
+      "word": "swear",
+      "pos": "VERB",
+      "translation": "jurer",
+      "example": "\"Do you swear to protect the weak, to defend the truth, and to show mercy even to your enemies?\""
+    },
+    {
+      "word": "sword",
+      "pos": "NOUN",
+      "translation": "l'épée",
+      "example": "After breakfast, Sir Godfrey called him to the courtyard for sword practice."
+    },
+    {
+      "word": "table",
+      "pos": "NOUN",
+      "translation": "la table",
+      "example": "She looks under the table. — Elle regarde sous la table."
+    },
+    {
+      "word": "take",
+      "pos": "VERB",
+      "translation": "prendre",
+      "example": "He takes Leo. — Il prend Leo."
+    },
+    {
+      "word": "tall",
+      "pos": "ADJ",
+      "translation": "grand (taille)",
+      "example": "He is very tall. — Il est très grand."
+    },
+    {
+      "word": "taxis",
+      "pos": "NOUN",
+      "translation": "les impôts (pluriel de « tax » ici)",
+      "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
+    },
+    {
+      "word": "teach",
+      "pos": "VERB",
+      "translation": "enseigner, apprendre à",
+      "example": "He was terrified, but he forced himself to watch his opponent, exactly as Godfrey had taught him."
+    },
+    {
+      "word": "tear",
+      "pos": "VERB",
+      "translation": "déchirer (« torn » : déchiré)",
+      "example": "The main strap had not torn."
+    },
+    {
+      "word": "tell",
+      "pos": "VERB",
+      "translation": "dire, raconter",
+      "example": "Everyone told him it was impossible, that a squire had no right to address His Majesty directly."
+    },
+    {
+      "word": "tent",
+      "pos": "NOUN",
+      "translation": "la tente",
+      "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "terribly",
+      "pos": "ADV",
+      "translation": "terriblement",
+      "example": "Then, on the third pass, something went terribly wrong."
+    },
+    {
+      "word": "terrified",
+      "pos": "ADJ",
+      "translation": "terrifié",
+      "example": "Two days later, as Godfrey and Edwin began the slow journey home in a hired cart, they met a group of terrified travellers coming from the south."
+    },
+    {
+      "word": "terrify",
+      "pos": "VERB",
+      "translation": "terrifier",
+      "example": "He was terrified, but he forced himself to watch his opponent, exactly as Godfrey had taught him."
+    },
+    {
+      "word": "than",
+      "pos": "ADP",
+      "translation": "que (comparaison)",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "thank",
+      "pos": "VERB",
+      "translation": "remercier",
+      "example": "Thank you! — Merci !"
+    },
+    {
+      "word": "that",
+      "pos": "DET",
+      "translation": "ce, cette",
+      "example": "That evening, they found shelter at a small inn called the Crooked Crown."
+    },
+    {
+      "word": "that",
+      "pos": "PRON",
+      "translation": "qui, que ; cela",
+      "example": "the knight finally asked, touching the long scar that crossed his left cheek."
+    },
+    {
+      "word": "that",
+      "pos": "SCONJ",
+      "translation": "que",
+      "example": "the knight finally asked, touching the long scar that crossed his left cheek."
+    },
+    {
+      "word": "the",
+      "pos": "DET",
+      "translation": "le, la, les",
+      "example": "The cat is in the tree. — Le chat est dans l'arbre."
+    },
+    {
+      "word": "their",
+      "pos": "PRON",
+      "translation": "leur, leurs",
+      "example": "Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters."
+    },
+    {
+      "word": "then",
+      "pos": "ADV",
+      "translation": "ensuite, puis",
+      "example": "Then he sleeps. — Ensuite, il dort."
+    },
+    {
+      "word": "theory",
+      "pos": "NOUN",
+      "translation": "la théorie",
+      "example": "Everyone in the castle had a different theory, but nobody had ever dared to ask."
+    },
+    {
+      "word": "there",
+      "pos": "ADV",
+      "translation": "là, là-bas",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "there",
+      "pos": "PRON",
+      "translation": "il y a (dans « there is / there are »)",
+      "example": "There is a cat. — Il y a un chat."
+    },
+    {
+      "word": "these",
+      "pos": "DET",
+      "translation": "ces",
+      "example": "The old knight moved slowly these days, but his blade was still faster than most young men's."
+    },
+    {
+      "word": "they",
+      "pos": "PRON",
+      "translation": "ils, elles",
+      "example": "They practised until noon."
+    },
+    {
+      "word": "thick",
+      "pos": "ADJ",
+      "translation": "épais",
+      "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
+    },
+    {
+      "word": "thief",
+      "pos": "NOUN",
+      "translation": "le voleur",
+      "example": "People say the bandits are not ordinary thieves."
+    },
+    {
+      "word": "thin",
+      "pos": "ADJ",
+      "translation": "mince, maigre",
+      "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "think",
+      "pos": "VERB",
+      "translation": "penser",
+      "example": "\"I thought you had retired to grow cabbages.\""
+    },
+    {
+      "word": "third",
+      "pos": "ADJ",
+      "translation": "troisième",
+      "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
+    },
+    {
+      "word": "this",
+      "pos": "DET",
+      "translation": "ce, cette",
+      "example": "\"Do you know how I got this?\""
+    },
+    {
+      "word": "those",
+      "pos": "DET",
+      "translation": "ces (là)",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "three",
+      "pos": "NUM",
+      "translation": "trois",
+      "example": "Three branches. — Trois branches."
+    },
+    {
+      "word": "throne",
+      "pos": "NOUN",
+      "translation": "le trône",
+      "example": "The king rose slowly from his throne."
+    },
+    {
+      "word": "through",
+      "pos": "ADP",
+      "translation": "à travers",
+      "example": "Three days later, a messenger arrived at the gates, covered in mud and exhausted from riding through the night."
+    },
+    {
+      "word": "through",
+      "pos": "ADV",
+      "translation": "de part en part",
+      "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
+    },
+    {
+      "word": "throughout",
+      "pos": "ADP",
+      "translation": "dans tout",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "throw",
+      "pos": "VERB",
+      "translation": "jeter, projeter",
+      "example": "The animals panicked, throwing several riders to the ground, while the others tried desperately to turn back."
+    },
+    {
+      "word": "tie",
+      "pos": "VERB",
+      "translation": "attacher",
+      "example": "Godfrey was pale with pain, his leg tied between two wooden boards."
+    },
+    {
+      "word": "tighten",
+      "pos": "VERB",
+      "translation": "serrer",
+      "example": "Godfrey simply smiled and bowed his head, but Edwin noticed that his hand had tightened around the hilt of his sword."
+    },
+    {
+      "word": "time",
+      "pos": "NOUN",
+      "translation": "le temps, la fois",
+      "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
+    },
+    {
+      "word": "tired",
+      "pos": "ADJ",
+      "translation": "fatigué",
+      "example": "Edwin stepped aside, again and again, until the bandit grew tired and careless."
+    },
+    {
+      "word": "to",
+      "pos": "ADP",
+      "translation": "à, vers",
+      "example": "Mia goes to the park. — Mia va au parc."
+    },
+    {
+      "word": "to",
+      "pos": "PART",
+      "translation": "marque de l'infinitif (« to win » : gagner)",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "today",
+      "pos": "NOUN",
+      "translation": "aujourd'hui",
+      "example": "Today, Leo does not come. — Aujourd'hui, Leo ne vient pas."
+    },
+    {
+      "word": "together",
+      "pos": "ADV",
+      "translation": "ensemble",
+      "example": "They go home together. — Ils rentrent ensemble."
+    },
+    {
+      "word": "tonight",
+      "pos": "NOUN",
+      "translation": "ce soir, cette nuit",
+      "example": "They say they will burn it tonight!"
+    },
+    {
+      "word": "too",
+      "pos": "ADV",
+      "translation": "aussi",
+      "example": "I have a cat too. — J'ai un chat aussi."
+    },
+    {
+      "word": "torch",
+      "pos": "NOUN",
+      "translation": "la torche",
+      "example": "The bandits came shortly after midnight, about fifteen men on horseback, carrying torches."
+    },
+    {
+      "word": "touch",
+      "pos": "VERB",
+      "translation": "toucher",
+      "example": "the knight finally asked, touching the long scar that crossed his left cheek."
+    },
+    {
+      "word": "tournament",
+      "pos": "NOUN",
+      "translation": "le tournoi",
+      "example": "His Majesty is holding a great tournament at Winchester at the end of the month."
+    },
+    {
+      "word": "towards",
+      "pos": "ADP",
+      "translation": "vers",
+      "example": "She glanced nervously towards the door."
+    },
+    {
+      "word": "town",
+      "pos": "NOUN",
+      "translation": "la ville",
+      "example": "He had never been further than the nearest market town."
+    },
+    {
+      "word": "tradition",
+      "pos": "NOUN",
+      "translation": "la tradition",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "travel",
+      "pos": "VERB",
+      "translation": "voyager",
+      "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
+    },
+    {
+      "word": "traveller",
+      "pos": "NOUN",
+      "translation": "le voyageur",
+      "example": "Two days later, as Godfrey and Edwin began the slow journey home in a hired cart, they met a group of terrified travellers coming from the south."
+    },
+    {
+      "word": "tree",
+      "pos": "NOUN",
+      "translation": "l'arbre",
+      "example": "Leo is in the tree. — Leo est dans l'arbre."
+    },
+    {
+      "word": "tremble",
+      "pos": "VERB",
+      "translation": "trembler",
+      "example": "Edwin's hands were trembling."
+    },
+    {
+      "word": "true",
+      "pos": "ADJ",
+      "translation": "vrai (« come true » : se réaliser)",
+      "example": "He understood, at that moment, that her words had finally come true."
+    },
+    {
+      "word": "truth",
+      "pos": "NOUN",
+      "translation": "la vérité",
+      "example": "\"Do you swear to protect the weak, to defend the truth, and to show mercy even to your enemies?\""
+    },
+    {
+      "word": "try",
+      "pos": "VERB",
+      "translation": "essayer",
+      "example": "Someone had tried to kill his master, and he was almost sure he knew who."
+    },
+    {
+      "word": "tunic",
+      "pos": "NOUN",
+      "translation": "la tunique",
+      "example": "Edwin knelt in front of the altar, wearing a simple white tunic, his sword lying on the cold stone in front of him."
+    },
+    {
+      "word": "turn",
+      "pos": "VERB",
+      "translation": "se tourner ; devenir (« turned white »)",
+      "example": "As soon as their eyes met, the squire turned and disappeared into the crowd."
+    },
+    {
+      "word": "twenty",
+      "pos": "NUM",
+      "translation": "vingt",
+      "example": "I was twenty, and I believed that being a knight meant winning."
+    },
+    {
+      "word": "twice",
+      "pos": "ADV",
+      "translation": "deux fois",
+      "example": "Sir Godfrey read it twice before he spoke."
+    },
+    {
+      "word": "two",
+      "pos": "NUM",
+      "translation": "deux",
+      "example": "Two branches. — Deux branches."
+    },
+    {
+      "word": "under",
+      "pos": "ADP",
+      "translation": "sous",
+      "example": "She looks under the table. — Elle regarde sous la table."
+    },
+    {
+      "word": "understand",
+      "pos": "VERB",
+      "translation": "comprendre",
+      "example": "Edwin did not understand what he meant, but he felt a cold shiver run down his spine."
+    },
+    {
+      "word": "unlike",
+      "pos": "ADP",
+      "translation": "différent de, contrairement à",
+      "example": "Winchester was unlike anything Edwin had ever seen."
+    },
+    {
+      "word": "until",
+      "pos": "ADP",
+      "translation": "jusqu'à",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "unusual",
+      "pos": "ADJ",
+      "translation": "inhabituel",
+      "example": "Godfrey sat beside him, which was unusual, and for a while neither of them spoke."
+    },
+    {
+      "word": "up",
+      "pos": "ADP",
+      "translation": "en haut, vers le haut",
+      "example": "She looks up. — Elle lève les yeux."
+    },
+    {
+      "word": "useless",
+      "pos": "ADJ",
+      "translation": "inutile",
+      "example": "\"Strength is useless if you cannot control it.\""
+    },
+    {
+      "word": "vast",
+      "pos": "ADJ",
+      "translation": "vaste",
+      "example": "Among them, one man attracted more attention than the others: Sir Hugh of Blackmoor, a tall knight in silver armour who owned vast lands in the south."
+    },
+    {
+      "word": "very",
+      "pos": "ADV",
+      "translation": "très",
+      "example": "Leo is very cute. — Leo est très mignon."
+    },
+    {
+      "word": "victory",
+      "pos": "NOUN",
+      "translation": "la victoire",
+      "example": "They expected an easy victory."
+    },
+    {
+      "word": "village",
+      "pos": "NOUN",
+      "translation": "le village",
+      "example": "Bandits have been attacking villages along the southern road."
+    },
+    {
+      "word": "villager",
+      "pos": "NOUN",
+      "translation": "le villageois",
+      "example": "When Edwin arrived at Little Fenwick, the villagers were already packing their belongings, ready to flee into the forest."
+    },
+    {
+      "word": "voice",
+      "pos": "NOUN",
+      "translation": "la voix",
+      "example": "While Godfrey went to see to the horses, she sat down opposite Edwin and lowered her voice."
+    },
+    {
+      "word": "wait",
+      "pos": "VERB",
+      "translation": "attendre",
+      "example": "Wait! — Attends !"
+    },
+    {
+      "word": "walk",
+      "pos": "NOUN",
+      "translation": "la promenade",
+      "example": "A walk in the park. — Une promenade au parc."
+    },
+    {
+      "word": "walk",
+      "pos": "VERB",
+      "translation": "marcher, promener",
+      "example": "They walk home. — Ils rentrent à pied."
+    },
+    {
+      "word": "wall",
+      "pos": "NOUN",
+      "translation": "le mur, la muraille",
+      "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
+    },
+    {
+      "word": "want",
+      "pos": "VERB",
+      "translation": "vouloir",
+      "example": "Do you want a hot chocolate? — Tu veux un chocolat chaud ?"
+    },
+    {
+      "word": "warning",
+      "pos": "NOUN",
+      "translation": "l'avertissement",
+      "example": "\"Hang him from the oak tree, as a warning to the others!\""
+    },
+    {
+      "word": "watch",
+      "pos": "VERB",
+      "translation": "regarder, observer",
+      "example": "Watch your opponent."
+    },
+    {
+      "word": "Watch",
+      "pos": "PROPN",
+      "translation": "regarder, observer (ici verbe : « Watch »)",
+      "example": "Watch, wait and be patient."
+    },
+    {
+      "word": "water",
+      "pos": "NOUN",
+      "translation": "l'eau",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "wax",
+      "pos": "NOUN",
+      "translation": "la cire",
+      "example": "He carried a letter sealed with the red wax of the king himself."
+    },
+    {
+      "word": "way",
+      "pos": "NOUN",
+      "translation": "le chemin, la façon",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "we",
+      "pos": "PRON",
+      "translation": "nous",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "weak",
+      "pos": "ADJ",
+      "translation": "faible",
+      "example": "\"Do you swear to protect the weak, to defend the truth, and to show mercy even to your enemies?\""
+    },
+    {
+      "word": "weapon",
+      "pos": "NOUN",
+      "translation": "l'arme",
+      "example": "Edwin picked up his weapon, his face red with frustration."
+    },
+    {
+      "word": "wear",
+      "pos": "VERB",
+      "translation": "porter (un vêtement)",
+      "example": "Edwin knelt in front of the altar, wearing a simple white tunic, his sword lying on the cold stone in front of him."
+    },
+    {
+      "word": "week",
+      "pos": "NOUN",
+      "translation": "la semaine",
+      "example": "Last week, my brother saw one of them pay for his drinks with a silver coin."
+    },
+    {
+      "word": "well",
+      "pos": "ADJ",
+      "translation": "bien (« better » : mieux)",
+      "example": "If we kill a prisoner who cannot defend himself, we are no better than the men who attacked us."
+    },
+    {
+      "word": "well",
+      "pos": "ADV",
+      "translation": "bien",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "well",
+      "pos": "NOUN",
+      "translation": "le puits",
+      "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "what",
+      "pos": "PRON",
+      "translation": "ce que, quoi",
+      "example": "Edwin did not understand what he meant, but he felt a cold shiver run down his spine."
+    },
+    {
+      "word": "when",
+      "pos": "SCONJ",
+      "translation": "quand",
+      "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
+    },
+    {
+      "word": "where",
+      "pos": "SCONJ",
+      "translation": "où",
+      "example": "Where is Leo? — Où est Leo ?"
+    },
+    {
+      "word": "which",
+      "pos": "DET",
+      "translation": "quel, lequel",
+      "example": "Godfrey nodded, which, from him, was almost a compliment."
+    },
+    {
+      "word": "while",
+      "pos": "NOUN",
+      "translation": "un moment (« for a while » : un moment)",
+      "example": "Godfrey sat beside him, which was unusual, and for a while neither of them spoke."
+    },
+    {
+      "word": "while",
+      "pos": "SCONJ",
+      "translation": "pendant que",
+      "example": "While Godfrey went to see to the horses, she sat down opposite Edwin and lowered her voice."
+    },
+    {
+      "word": "whisper",
+      "pos": "VERB",
+      "translation": "chuchoter",
+      "example": "\"Serve him well,\" his mother had whispered as he left."
+    },
+    {
+      "word": "white",
+      "pos": "ADJ",
+      "translation": "blanc",
+      "example": "Leo is black and white. — Leo est noir et blanc."
+    },
+    {
+      "word": "who",
+      "pos": "PRON",
+      "translation": "qui",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "whoever",
+      "pos": "PRON",
+      "translation": "quiconque",
+      "example": "\"Whoever did this was not hungry,\" he said quietly."
+    },
+    {
+      "word": "whole",
+      "pos": "ADJ",
+      "translation": "entier, tout",
+      "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
+    },
+    {
+      "word": "whom",
+      "pos": "PRON",
+      "translation": "que, lesquels",
+      "example": "The ceremony took place in the great hall of the castle, in front of the king, the lords of the realm and, to Edwin's astonishment, his own parents, whom the king had invited from Ashford."
+    },
+    {
+      "word": "whose",
+      "pos": "DET",
+      "translation": "dont",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "will",
+      "pos": "VERB",
+      "translation": "auxiliaire du futur (« will » : -ra)",
+      "example": "If you are patient enough to notice, you will always be one step ahead."
+    },
+    {
+      "word": "win",
+      "pos": "VERB",
+      "translation": "gagner",
+      "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time. \"Strength is useless if you cannot control it.\""
+    },
+    {
+      "word": "Winchester",
+      "pos": "PROPN",
+      "translation": "Winchester (ville)",
+      "example": "His Majesty is holding a great tournament at Winchester at the end of the month."
+    },
+    {
+      "word": "window",
+      "pos": "NOUN",
+      "translation": "la fenêtre",
+      "example": "Sir Godfrey, who lived to a very old age, watched them from his window and laughed."
+    },
+    {
+      "word": "with",
+      "pos": "ADP",
+      "translation": "avec",
+      "example": "Leo eats with Mia. — Leo mange avec Mia."
+    },
+    {
+      "word": "within",
+      "pos": "ADP",
+      "translation": "en moins de, dans",
+      "example": "Within minutes, the remaining bandits had fled into the darkness."
+    },
+    {
+      "word": "without",
+      "pos": "ADP",
+      "translation": "sans",
+      "example": "Without proof, I cannot punish a knight of the realm."
+    },
+    {
+      "word": "woman",
+      "pos": "NOUN",
+      "translation": "la femme",
+      "example": "a woman shouted."
+    },
+    {
+      "word": "wooden",
+      "pos": "ADJ",
+      "translation": "en bois",
+      "example": "Edwin jumped over the wooden barrier and ran towards him, ignoring the guards who were shouting at him to stop."
+    },
+    {
+      "word": "word",
+      "pos": "NOUN",
+      "translation": "le mot, la parole",
+      "example": "Edwin had never forgotten those words."
+    },
+    {
+      "word": "worried",
+      "pos": "ADJ",
+      "translation": "inquiet",
+      "example": "Mia is worried. — Mia est inquiète."
+    },
+    {
+      "word": "worth",
+      "pos": "ADJ",
+      "translation": "qui vaut (« worth fighting » : qui vaut la peine d'être mené)",
+      "example": "He is the man who knows which battles are worth fighting."
+    },
+    {
+      "word": "would",
+      "pos": "VERB",
+      "translation": "auxiliaire du conditionnel (« would » : -rait)",
+      "example": "Sir Godfrey never complained, so Edwin decided that he would not complain either."
+    },
+    {
+      "word": "wrong",
+      "pos": "ADJ",
+      "translation": "mauvais (« go wrong » : mal tourner)",
+      "example": "Then, on the third pass, something went terribly wrong."
+    },
+    {
+      "word": "year",
+      "pos": "NOUN",
+      "translation": "l'année, l'an",
+      "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "yes",
+      "pos": "INTJ",
+      "translation": "oui",
+      "example": "Yes, please! — Oui, s'il te plaît !"
+    },
+    {
+      "word": "you",
+      "pos": "PRON",
+      "translation": "tu, vous",
+      "example": "Can you help me? — Peux-tu m'aider ?"
+    },
+    {
+      "word": "young",
+      "pos": "ADJ",
+      "translation": "jeune",
+      "example": "A young man. — Un jeune homme."
+    },
+    {
+      "word": "your",
+      "pos": "PRON",
+      "translation": "ton, ta, tes, votre, vos",
+      "example": "Watch your opponent."
+    }
+  ]
+}

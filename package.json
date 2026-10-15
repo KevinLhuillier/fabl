@@ -1,0 +1,20 @@
+{
+  "name": "fabl",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "scripts/*"
+  ],
+  "scripts": {
+    "mobile": "npm run start --workspace mobile",
+    "publish-story": "npm run publish-story -w publish --",
+    "seed-translations": "npm run seed-translations -w publish --",
+    "lint": "npm run lint --workspaces --if-present",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
