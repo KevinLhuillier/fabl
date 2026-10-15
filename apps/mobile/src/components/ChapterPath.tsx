@@ -13,7 +13,6 @@ import Svg, { Path } from 'react-native-svg';
 import { formatNumber } from '@/lib/labels';
 import type { ChapterProgress, ChapterSummary } from '@/lib/types';
 import {
-  Badge,
   Icon,
   Text,
   colors,
@@ -39,12 +38,16 @@ type Props = {
 
 /** Diameter of a chapter node. */
 const NODE = 80;
-/** Height of one row (bubble + node + title + word count). */
-const ROW = 190;
-/** Vertical position of a node's top inside its row (room above for the bubble). */
-const NODE_TOP = 34;
+/** Vertical position of a node's top inside its row. */
+const NODE_TOP = 12;
+/** Top of the title block inside its row. */
+const LABEL_TOP = NODE_TOP + NODE + 16;
+/** Tallest title block: padding + one caption line + gap + two title lines. */
+const LABEL_HEIGHT = 4 + 17 + 2 + 2 * 23 + 4;
+/** Height of one row (node + title + word count), the title ending inside it. */
+const ROW = LABEL_TOP + LABEL_HEIGHT + 24;
 /** Width of the title block under a node. */
-const LABEL = 150;
+const LABEL = 180;
 /** Horizontal offsets of the zigzag from the center, in px. */
 const ZIGZAG = [0, 56, 72, 56, 0, -56, -72, -56];
 /** Start flag row and finish (trophy) row heights. */
@@ -127,9 +130,6 @@ export function ChapterPath({ level, chapters, progress, onOpen }: Props) {
 
           {chapters.map((chapter, i) => {
             const status = statuses[i]!;
-            const p = progress.get(chapter.id);
-            const fraction =
-              status === 'current' && p && chapter.pageCount ? p.pageIndex / chapter.pageCount : 0;
             const cx = centerX(i);
             const top = START + i * ROW;
             return (
@@ -141,7 +141,6 @@ export function ChapterPath({ level, chapters, progress, onOpen }: Props) {
                   level={level}
                   chapter={chapter}
                   status={status}
-                  fraction={fraction}
                   cx={cx}
                   width={width}
                   onPress={() => {
@@ -199,7 +198,6 @@ function ChapterNode({
   level,
   chapter,
   status,
-  fraction,
   cx,
   width,
   onPress,
@@ -207,7 +205,6 @@ function ChapterNode({
   level: CefrLevel;
   chapter: ChapterSummary;
   status: ChapterStatus;
-  fraction: number;
   cx: number;
   width: number;
   onPress: () => void;
@@ -235,16 +232,6 @@ function ChapterNode({
 
   return (
     <>
-      {status === 'current' ? (
-        <View style={[styles.bubble, { left: cx - 90 }]}>
-          <Badge
-            label={fraction > 0 ? `Continuer · ${Math.round(fraction * 100)} %` : 'Commencer'}
-            level={level}
-            solid
-          />
-        </View>
-      ) : null}
-
       <Animated.View style={[styles.node, { left: cx - NODE / 2, top: NODE_TOP }, pulseStyle]}>
         <Pressable
           accessibilityRole="button"
@@ -265,8 +252,13 @@ function ChapterNode({
         </Pressable>
       </Animated.View>
 
-      <View style={[styles.label, { left: clampLabel(cx, width), top: NODE_TOP + NODE + 16 }]}>
-        <Text variant="caption" align="center" color={locked ? colors.textMuted : c.shade}>
+      <View style={[styles.label, { left: clampLabel(cx, width), top: LABEL_TOP }]}>
+        <Text
+          variant="caption"
+          align="center"
+          numberOfLines={1}
+          adjustsFontSizeToFit
+          color={locked ? colors.textMuted : c.shade}>
           CHAPITRE {chapter.position + 1} · {formatNumber(chapter.wordCount)} MOTS
         </Text>
         <Text
@@ -294,7 +286,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  bubble: { position: 'absolute', top: 0, width: 180, alignItems: 'center' },
   node: { position: 'absolute', width: NODE },
   nodeEdge: {
     position: 'absolute',
@@ -312,10 +303,14 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   // Opaque background: the dotted trail passes behind the labels.
+  // Texts stretch to the full width (centered with `textAlign`): shrink-wrapped
+  // texts can be measured slightly narrower than they render, so the last word
+  // wraps onto a line the measured height has no room for ("The Tournament"
+  // showed as "The").
   label: {
     position: 'absolute',
     width: LABEL,
-    alignItems: 'center',
+    alignItems: 'stretch',
     gap: 2,
     paddingHorizontal: 8,
     paddingVertical: 4,
