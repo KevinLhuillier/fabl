@@ -153,3 +153,57 @@ export function parseStory(source: string, fileName: string): ParsedStory {
   }
   return { meta, chapters, warnings };
 }
+
+// --- Writing ------------------------------------------------------------------
+
+export type DraftChapter = {
+  /** Existing key (kept so readers' progress follows the chapter); null for a new chapter. */
+  key: string | null;
+  title: string;
+  /** Paragraphs of each page. */
+  pages: string[][];
+};
+
+/** Default key of the chapter at `position` (when the file gives no explicit id). */
+export const defaultChapterKey = (position: number) => `chapter_${position + 1}`;
+
+/**
+ * Inverse of `parseStory` (comments aside): writes a story file. A chapter
+ * whose key differs from its position's default key (it was moved, or a
+ * chapter before it was removed) gets an explicit `{#key}` so progress stays
+ * attached to it. New chapters take their default key when it is free.
+ */
+export function serializeStory(meta: StoryMeta, chapters: DraftChapter[]): string {
+  const oneLine = (s: string) => s.replace(/\s+/g, ' ').trim();
+  const taken = new Set(chapters.flatMap((c) => (c.key ? [c.key] : [])));
+  const keys = chapters.map((c, position) => {
+    if (c.key) return c.key;
+    let key = defaultChapterKey(position);
+    while (taken.has(key)) key = `chapter_${Math.random().toString(36).slice(2, 8)}`;
+    taken.add(key);
+    return key;
+  });
+
+  const front = [
+    '---',
+    `title: ${oneLine(meta.title)}`,
+    `level: ${meta.level}`,
+    `summary:${meta.summary.trim() ? ` ${oneLine(meta.summary)}` : ''}`,
+    ...(meta.cover ? [`cover: ${meta.cover.trim()}`] : []),
+    '---',
+  ].join('\n');
+
+  const body = chapters.map((c, position) => {
+    const key = keys[position]!;
+    const id = key === defaultChapterKey(position) ? '' : ` {#${key}}`;
+    const pages = c.pages.map((lines) =>
+      lines
+        .map((l) => l.trim())
+        .filter(Boolean)
+        .join('\n'),
+    );
+    return `# ${oneLine(c.title)}${id}\n\n${pages.join('\n\n---\n\n')}`;
+  });
+
+  return `${front}\n\n${body.join('\n\n')}\n`;
+}

@@ -10,11 +10,10 @@ import { readFileSync } from 'node:fs';
 import path from 'node:path';
 import { parseArgs } from 'node:util';
 
-import { adminClient, lemmasWithoutTranslation, publishStory, wordCount } from './db.js';
+import { adminClient } from './db.js';
 import { resolveUserPath } from './env.js';
-import { parseStory, type ParsedStory } from './story.js';
-import { lemmaKeyId, lemmatizePassages, type LemmaKey, type Token } from './lemmatize.js';
-import { loadTranslations } from './translations.js';
+import { analyzeStory, missingInTranslationFile, publishAnalysis } from './pipeline.js';
+import type { LemmaKey } from './lemmatize.js';
 
 const { values, positionals } = parseArgs({
   allowPositionals: true,
@@ -36,58 +35,41 @@ async function main() {
 async function publishFile(file: string) {
   // The slug comes from the file name: renaming a file creates a new story.
   const slug = path.basename(file, path.extname(file));
-  console.log(`\n📖 ${slug}`);
+  console.log(`
+📖 ${slug}`);
 
-  const story = parseStory(readFileSync(file, 'utf8'), path.basename(file));
+  const analysis = await analyzeStory(readFileSync(file, 'utf8'), path.basename(file));
+  const { story, lemmas, words, chapterWords } = analysis;
   const { meta, chapters } = story;
-  const pages = chapters.flatMap((c) => c.pages);
-
-  const tokenLists = await lemmatizePassages(pages.map((p) => p.lines));
-  const tokensByPage = new Map<string, Token[]>(pages.map((p, i) => [p.key, tokenLists[i]!]));
-  const lemmas = uniqueLemmas([...tokensByPage.values()].flat());
-  const words = tokenLists.reduce((n, t) => n + wordCount(t), 0);
+  const pageCount = chapters.reduce((n, c) => n + c.pages.length, 0);
 
   console.log(
-    `   "${meta.title}" — ${meta.level} — ${chapters.length} chapters, ${pages.length} pages, ${words} words`,
+    `   "${meta.title}" — ${meta.level} — ${chapters.length} chapters, ${pageCount} pages, ${words} words`,
   );
-  printChapters(story, tokensByPage);
+  chapters.forEach((c, i) =>
+    console.log(
+      `   ${c.position + 1}. ${c.title} — ${c.pages.length} pages, ${chapterWords[i]} words`,
+    ),
+  );
   console.log(`   ${lemmas.length} distinct lemmas`);
 
   for (const w of story.warnings) console.warn(`   ⚠️  ${w}`);
 
   let missing: LemmaKey[];
   if (values['dry-run']) {
-    const known = new Set(loadTranslations(values.lang).entries.map(lemmaKeyId));
-    missing = lemmas.filter((l) => !known.has(lemmaKeyId(l)));
+    missing = missingInTranslationFile(lemmas, values.lang);
     console.log('   (dry run: nothing written)');
   } else {
-    const db = adminClient();
-    const { lemmaIds } = await publishStory(db, slug, story, tokensByPage);
-    const missingIds = new Set(
-      await lemmasWithoutTranslation(db, [...new Set(lemmaIds.values())], values.lang),
-    );
-    missing = lemmas.filter((l) => missingIds.has(lemmaIds.get(lemmaKeyId(l))!));
+    missing = await publishAnalysis(adminClient(), slug, analysis, values.lang);
     console.log('   ✅ published');
   }
 
   if (missing.length) {
-    console.log(`\n   ${missing.length} lemma(s) without "${values.lang}" translation:`);
+    console.log(`
+   ${missing.length} lemma(s) without "${values.lang}" translation:`);
     for (const l of missing) console.log(`     - ${l.word} (${l.pos})`);
   } else {
     console.log(`   All lemmas have a "${values.lang}" translation.`);
-  }
-}
-
-function uniqueLemmas(tokens: Token[]): LemmaKey[] {
-  const map = new Map<string, LemmaKey>();
-  for (const t of tokens) if (t.lemma) map.set(lemmaKeyId(t.lemma), t.lemma);
-  return [...map.values()].sort((a, b) => a.word.localeCompare(b.word));
-}
-
-function printChapters({ chapters }: ParsedStory, tokensByPage: Map<string, Token[]>) {
-  for (const c of chapters) {
-    const words = c.pages.reduce((n, p) => n + wordCount(tokensByPage.get(p.key)!), 0);
-    console.log(`   ${c.position + 1}. ${c.title} — ${c.pages.length} pages, ${words} words`);
   }
 }
 

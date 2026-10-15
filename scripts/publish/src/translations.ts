@@ -1,4 +1,4 @@
-import { existsSync, readFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 
 import { REPO_ROOT } from './env.js';
@@ -31,4 +31,23 @@ export function loadTranslations(lang: string): TranslationFile {
     seen.add(id);
   }
   return data;
+}
+
+/**
+ * Adds or replaces entries (by word + pos) in content/translations/<lang>.json,
+ * keeping the file sorted by word.
+ */
+export function saveTranslations(lang: string, entries: TranslationEntry[]) {
+  const file = loadTranslations(lang);
+  const byKey = new Map(file.entries.map((e) => [lemmaKeyId(e), e]));
+  for (const e of entries) byKey.set(lemmaKeyId(e), e);
+  const sorted = [...byKey.values()].sort(
+    (a, b) => a.word.localeCompare(b.word) || a.pos.localeCompare(b.pos),
+  );
+  mkdirSync(path.dirname(translationsPath(lang)), { recursive: true });
+  writeFileSync(
+    translationsPath(lang),
+    `${JSON.stringify({ lang, entries: sorted }, null, 2)}\n`,
+    'utf8',
+  );
 }

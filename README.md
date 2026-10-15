@@ -10,6 +10,7 @@ apps/mobile         Expo app (TypeScript, expo-router)
   src/components    App components (story path, passage text, word sheet, confetti…)
   src/lib           Data & logic: Supabase, auth, gamification, SM-2, API
   src/theme         Design system: colors, typography, spacing, motion, haptics, base components
+apps/admin          Local web admin to write and publish stories (Vite + React, Hono API)
 content/stories     Stories in Markdown (.md)
 content/translations Translations per language (fr.json)
 scripts/publish     Publishing pipeline (Markdown → Supabase)
@@ -122,6 +123,32 @@ For each story the script:
 
 Add the missing ones to `content/translations/fr.json`, then run `npm run seed-translations`.
 
+### Admin (web)
+
+```bash
+npm run admin    # → http://localhost:5180
+```
+
+A local web app, styled like the mobile app, to manage stories without touching the Markdown:
+
+- **Histoires**: every story on one shelf with its cover, level and status — _Brouillon_ (file
+  only), _Publiée_, _Modifiée_ (file changed since the last publish), _En ligne sans fichier_
+  (published from elsewhere; its file can be rebuilt from Supabase). Create a story from here.
+- **Editor**: title, level, summary and **cover** (upload to the public `covers` Storage bucket,
+  or an image URL; preview of the default cover otherwise); chapters and pages edited as pages of
+  a book (add, delete, reorder — moved chapters get an explicit `{#id}` so readers' progress
+  follows them), or the raw **Markdown** (files with `<!-- comments -->` open there to keep them).
+  Format errors show live. `Ctrl+S` saves the file.
+- **Vérifier** (dry run) / **Publier**: same pipeline as `publish-story`; the report lists the
+  words without translation, with the story sentence as suggested example, to translate on the
+  spot (saved to `content/translations/fr.json` and Supabase).
+- **Supprimer**: remove from the app (readers' progress on the story is deleted) and/or delete
+  the file.
+
+The `.md` files stay the source of truth (commit them). The server only listens on localhost: the
+service key from `.env` never reaches the browser. Without Supabase keys the admin still edits
+files (no publish or upload). Cover uploads need the `covers` bucket migration.
+
 ### Story format (Markdown)
 
 ```markdown
@@ -176,6 +203,7 @@ Then Mia sees her neighbour, Mr Green.
 | Command                              | What it does                                |
 | ------------------------------------ | ------------------------------------------- |
 | `npm run mobile`                     | Start the Expo dev server                   |
+| `npm run admin`                      | Start the web admin (localhost:5180)        |
 | `npm run publish-story -- <file.md>` | Publish a story (`--dry-run` to check only) |
 | `npm run seed-translations`          | Import `content/translations/fr.json`       |
 | `npm run lint`                       | ESLint + Prettier on all packages           |

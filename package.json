@@ -8,6 +8,7 @@
   ],
   "scripts": {
     "mobile": "npm run start --workspace mobile",
+    "admin": "npm run dev --workspace admin",
     "publish-story": "npm run publish-story -w publish --",
     "seed-translations": "npm run seed-translations -w publish --",
     "lint": "npm run lint --workspaces --if-present",
