@@ -5,7 +5,8 @@ import { ActivityIndicator, Pressable, ScrollView, StyleSheet, View } from 'reac
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
-import { ChapterPath } from '@/components/ChapterPath';
+import { StoryCover } from '@/components/StoryCover';
+import { TableOfContents } from '@/components/TableOfContents';
 import { fetchStoryWithChapters } from '@/lib/api/content';
 import { fetchChapterProgress } from '@/lib/api/progress';
 import { LEVEL_NAMES, formatNumber, plural, readingMinutes } from '@/lib/labels';
@@ -23,7 +24,7 @@ import {
   spacing,
 } from '@/theme';
 
-/** A story: summary, overall progress and the zigzag path of its chapters. */
+/** A story: cover, summary, overall progress and the table of contents of its chapters. */
 export default function StoryScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
   const [story, setStory] = useState<StorySummary | null>(null);
@@ -85,25 +86,32 @@ export default function StoryScreen() {
       <ScrollView contentContainerStyle={styles.content}>
         <Animated.View entering={enter.up()}>
           <Card tint={{ face: c.soft, edge: c.solid }} padding={spacing.lg}>
-            <Text variant="title">{story.title}</Text>
-            <Text color={colors.textSecondary} style={styles.summary}>
-              {story.summary}
-            </Text>
-            <View style={styles.metaRow}>
-              <View style={styles.meta}>
-                <Icon icon={BookOpen} size={16} color={c.shade} />
-                <Text variant="caption" color={colors.textSecondary}>
-                  {formatNumber(story.word_count)} mots ·{' '}
-                  {plural(story.chapter_count, 'chapitre', 'chapitres')}
-                </Text>
-              </View>
-              <View style={styles.meta}>
-                <Icon icon={Clock} size={16} color={c.shade} />
-                <Text variant="caption" color={colors.textSecondary}>
-                  ≈ {readingMinutes(story.word_count)} min
-                </Text>
+            <View style={styles.hero}>
+              <StoryCover story={story} width={112} size="lg" />
+              <View style={styles.heroText}>
+                <Text variant="title">{story.title}</Text>
+                <View style={styles.metaColumn}>
+                  <View style={styles.meta}>
+                    <Icon icon={BookOpen} size={16} color={c.shade} />
+                    <Text variant="caption" color={colors.textSecondary} style={styles.shrink}>
+                      {formatNumber(story.word_count)} mots ·{' '}
+                      {plural(story.chapter_count, 'chapitre', 'chapitres')}
+                    </Text>
+                  </View>
+                  <View style={styles.meta}>
+                    <Icon icon={Clock} size={16} color={c.shade} />
+                    <Text variant="caption" color={colors.textSecondary} style={styles.shrink}>
+                      ≈ {readingMinutes(story.word_count)} min
+                    </Text>
+                  </View>
+                </View>
               </View>
             </View>
+            {story.summary ? (
+              <Text color={colors.textSecondary} style={styles.summary}>
+                {story.summary}
+              </Text>
+            ) : null}
             <View style={styles.progressRow}>
               <ProgressBar progress={fraction} color={c.solid} height={12} style={styles.flex} />
               <Text variant="bodyBold" color={c.shade}>
@@ -113,7 +121,7 @@ export default function StoryScreen() {
           </Card>
         </Animated.View>
 
-        <ChapterPath
+        <TableOfContents
           level={story.level}
           chapters={chapters}
           progress={progress}
@@ -141,8 +149,10 @@ const styles = StyleSheet.create({
     paddingVertical: spacing.sm,
   },
   content: { padding: spacing.xl, paddingTop: spacing.sm, gap: spacing.xxl, paddingBottom: 64 },
-  summary: { marginTop: spacing.sm },
-  metaRow: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.lg, marginTop: spacing.md },
+  hero: { flexDirection: 'row', gap: spacing.lg },
+  heroText: { flex: 1, justifyContent: 'center' },
+  metaColumn: { gap: spacing.xs, marginTop: spacing.md },
+  summary: { marginTop: spacing.lg },
   meta: { flexDirection: 'row', alignItems: 'center', gap: spacing.xs },
   progressRow: {
     flexDirection: 'row',
@@ -151,4 +161,5 @@ const styles = StyleSheet.create({
     marginTop: spacing.md,
   },
   flex: { flex: 1 },
+  shrink: { flexShrink: 1 },
 });

@@ -5,6 +5,7 @@
  *   title: Where Is Leo?
  *   level: A1
  *   summary: Mia's cat is not at home.
+ *   cover: https://example.com/leo.jpg   (optional, front cover image)
  *   ---
  *
  *   # Leo Is Not Here
@@ -27,7 +28,13 @@
 export const CEFR_LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'] as const;
 export type CefrLevel = (typeof CEFR_LEVELS)[number];
 
-export type StoryMeta = { title: string; level: CefrLevel; summary: string };
+export type StoryMeta = {
+  title: string;
+  level: CefrLevel;
+  summary: string;
+  /** Front cover image URL; null lets the app draw a default cover. */
+  cover: string | null;
+};
 
 export type Page = {
   /** "<chapter key>.page_<n>": stable key of the page. */
@@ -92,7 +99,11 @@ export function parseStory(source: string, fileName: string): ParsedStory {
     title: title!,
     level: level as CefrLevel,
     summary: fields.get('summary') ?? '',
+    cover: fields.get('cover') || null,
   };
+  if (meta.cover && !/^https?:\/\//.test(meta.cover)) {
+    fail('front matter "cover" must be an http(s) image URL');
+  }
 
   // --- Body: chapters and pages ------------------------------------------
   const chapters: Chapter[] = [];

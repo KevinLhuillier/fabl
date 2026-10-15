@@ -2,7 +2,8 @@ import { TRANSLATION_LANG } from '../config';
 import { supabase, unwrap } from '../supabase';
 import type { ChapterSummary, Lemma, Page, StorySummary, Token } from '../types';
 
-const STORY_COLUMNS = 'id, slug, title, level, summary, passage_count, chapter_count, word_count';
+const STORY_COLUMNS =
+  'id, slug, title, level, summary, cover_url, passage_count, chapter_count, word_count';
 const CHAPTER_COLUMNS = 'id, story_id, position, title, page_count, word_count';
 
 type RawChapter = {

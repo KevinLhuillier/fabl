@@ -6,6 +6,8 @@ export type StorySummary = {
   title: string;
   level: CefrLevel;
   summary: string;
+  /** Front cover image; null → default cover drawn by the app. */
+  cover_url: string | null;
   /** Total number of pages. */
   passage_count: number;
   chapter_count: number;

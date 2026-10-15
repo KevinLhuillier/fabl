@@ -10,21 +10,10 @@ import { StoryTile } from '@/components/StoryTile';
 import { fetchStories } from '@/lib/api/content';
 import { fetchProgressByStory, type StoryProgressSummary } from '@/lib/api/progress';
 import { countDueVocabulary } from '@/lib/api/vocabulary';
-import { LEVEL_NAMES, plural } from '@/lib/labels';
+import { plural } from '@/lib/labels';
 import { useStats } from '@/lib/stats';
 import type { StorySummary } from '@/lib/types';
-import {
-  Button,
-  CEFR_LEVELS,
-  Card,
-  Icon,
-  Text,
-  colors,
-  enter,
-  levelColors,
-  radii,
-  spacing,
-} from '@/theme';
+import { Button, Card, Icon, Text, colors, enter, radii, spacing } from '@/theme';
 
 export default function Home() {
   const { refresh: refreshStats } = useStats();
@@ -93,43 +82,28 @@ export default function Home() {
             <Button label="Réessayer" variant="secondary" onPress={load} style={styles.retry} />
           </Card>
         ) : stories ? (
-          CEFR_LEVELS.map((level, li) => {
-            const items = stories.filter((s) => s.level === level);
-            return (
-              <Animated.View key={level} entering={enter.up(li * 50)} style={styles.section}>
-                <View style={styles.levelHeader}>
-                  <View style={[styles.levelDot, { backgroundColor: levelColors[level].solid }]}>
-                    <Text variant="caption" color={colors.textOnColor}>
-                      {level}
-                    </Text>
-                  </View>
-                  <Text variant="heading">{LEVEL_NAMES[level]}</Text>
-                </View>
-                {items.length ? (
-                  <View style={styles.grid}>
-                    {items.map((story) => (
-                      <View key={story.id} style={styles.cell}>
-                        <StoryTile
-                          story={story}
-                          progress={progress.get(story.id)}
-                          onPress={() =>
-                            router.push({ pathname: '/story/[id]', params: { id: story.id } })
-                          }
-                        />
-                      </View>
-                    ))}
-                  </View>
-                ) : (
-                  <View style={styles.soon}>
-                    <Icon icon={Lock} size={16} color={colors.textMuted} />
-                    <Text variant="caption" color={colors.textMuted}>
-                      Bientôt de nouvelles histoires
-                    </Text>
-                  </View>
-                )}
-              </Animated.View>
-            );
-          })
+          stories.length ? (
+            <View style={styles.grid}>
+              {stories.map((story, i) => (
+                <Animated.View key={story.id} entering={enter.up(i * 50)} style={styles.cell}>
+                  <StoryTile
+                    story={story}
+                    progress={progress.get(story.id)}
+                    onPress={() =>
+                      router.push({ pathname: '/story/[id]', params: { id: story.id } })
+                    }
+                  />
+                </Animated.View>
+              ))}
+            </View>
+          ) : (
+            <View style={styles.soon}>
+              <Icon icon={Lock} size={16} color={colors.textMuted} />
+              <Text variant="caption" color={colors.textMuted}>
+                Bientôt de nouvelles histoires
+              </Text>
+            </View>
+          )
         ) : (
           <ActivityIndicator color={colors.primary} style={styles.loader} />
         )}
@@ -145,19 +119,9 @@ const styles = StyleSheet.create({
   flex: { flex: 1 },
   retry: { marginTop: spacing.md },
   loader: { marginTop: spacing.xxl },
-  section: { gap: spacing.md },
-  levelHeader: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm },
-  levelDot: {
-    minWidth: 36,
-    height: 28,
-    paddingHorizontal: spacing.sm,
-    borderRadius: radii.pill,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  // Two columns; a lone tile keeps half the width instead of stretching.
-  grid: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.md },
-  cell: { width: '47.5%', flexGrow: 0 },
+  // Two columns of books; a lone tile keeps half the width instead of stretching.
+  grid: { flexDirection: 'row', flexWrap: 'wrap', columnGap: spacing.lg, rowGap: spacing.xl },
+  cell: { width: '46.5%', flexGrow: 0 },
   soon: {
     flexDirection: 'row',
     alignItems: 'center',

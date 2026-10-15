@@ -36,10 +36,11 @@ turn this off in **Authentication → Providers → Email → Confirm email**.
 
 ### What's in the app
 
-- **Stories** (home): one tile per story, grouped by CEFR level, with its word count, reading
+- **Stories** (home): every story as a book — front cover, level badge, word count, reading
   time and reading progress (%) — plus streak, total XP and today's goal.
-- **Story**: summary, overall progress and a Duolingo-like zigzag **path of chapters**. Chapters
-  unlock one after the other (done / current / locked); a finished chapter can be read again.
+- **Story**: cover, summary, overall progress and the **table of contents** of its chapters.
+  Chapters unlock one after the other (done / current with a bookmark / locked); a finished
+  chapter can be read again.
 - **Reader**: one chapter, page by page, with a "Continue" button (stories are linear, no
   choices). Tap any word to see its translation in a bottom sheet; the word is added to
   "Mes mots" (once). The current page is saved and resumed on reopen.
@@ -145,8 +146,9 @@ Mia goes into the garden.
 Then Mia sees her neighbour, Mr Green.
 ```
 
-- **Front matter** (between the first two `---` lines): `title`, `level` (A1–C2), `summary`.
-  Chapters share the story's level.
+- **Front matter** (between the first two `---` lines): `title`, `level` (A1–C2), `summary`
+  and optionally `cover` (http(s) URL of the front cover image; without it the app draws a
+  default cover in the level color). Chapters share the story's level.
 - **`# Title` starts a chapter**; `---` separates two **pages** of a chapter. Only `#` headings.
 - **One line = one paragraph**; blank lines are ignored. `<!-- comments -->` are allowed.
 - Dialogue goes between straight double quotes on a single line; the reader highlights it.

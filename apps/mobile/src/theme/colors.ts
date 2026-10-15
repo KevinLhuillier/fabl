@@ -33,6 +33,8 @@ export const palette = {
   line: '#E6E3F0',
   lineShade: '#D2CEE2',
   cloud: '#F7F6FC',
+  paper: '#FFFCF5',
+  paperShade: '#EDE5D3',
   white: '#FFFFFF',
 } as const;
 
@@ -74,6 +76,10 @@ export const colors = {
   info: palette.sky,
   infoShade: palette.skyShade,
   infoSoft: palette.skySoft,
+
+  /** Book pages: table of contents, page edges of covers. */
+  paper: palette.paper,
+  paperEdge: palette.paperShade,
 
   disabled: palette.line,
   disabledShade: palette.lineShade,
