@@ -1,4 +1,5 @@
 import type {
+  AdminUser,
   AnalysisReport,
   ApiError,
   Level,
@@ -7,6 +8,10 @@ import type {
   StoryListItem,
   TranslationInput,
 } from '../../shared/api';
+
+/** Called when the session is gone (expired, signed out elsewhere, admin revoked). */
+let onSignedOut: () => void = () => {};
+export const setSignedOutHandler = (fn: () => void) => (onSignedOut = fn);
 
 async function request<T>(method: string, url: string, body?: unknown): Promise<T> {
   const init: RequestInit = { method };
@@ -18,7 +23,10 @@ async function request<T>(method: string, url: string, body?: unknown): Promise<
   const res = await fetch(`/api${url}`, init);
   if (res.status === 204) return undefined as T;
   const data = (await res.json().catch(() => ({ error: res.statusText }))) as T | ApiError;
-  if (!res.ok) throw new Error((data as ApiError).error ?? res.statusText);
+  if (!res.ok) {
+    if ((res.status === 401 || res.status === 403) && !url.startsWith('/auth/')) onSignedOut();
+    throw new Error((data as ApiError).error ?? res.statusText);
+  }
   return data as T;
 }
 
@@ -26,6 +34,10 @@ const story = (slug: string) => `/stories/${encodeURIComponent(slug)}`;
 
 export const api = {
   status: () => request<ServerStatus>('GET', '/status'),
+  me: () => request<AdminUser>('GET', '/auth/me'),
+  signIn: (email: string, password: string) =>
+    request<AdminUser>('POST', '/auth/login', { email, password }),
+  signOut: () => request<void>('POST', '/auth/logout'),
   stories: () => request<StoryListItem[]>('GET', '/stories'),
   story: (slug: string) => request<StoryDetail>('GET', story(slug)),
   create: (slug: string, title: string, level: Level) =>

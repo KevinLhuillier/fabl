@@ -129,7 +129,18 @@ Add the missing ones to `content/translations/fr.json`, then run `npm run seed-t
 npm run admin    # → http://localhost:5180
 ```
 
-A local web app, styled like the mobile app, to manage stories without touching the Markdown:
+A local web app, styled like the mobile app, to manage stories without touching the Markdown.
+
+**Access**: sign in with a Fabl account (the same as in the mobile app) that is an **admin**.
+Grant it once (the account must exist; `--revoke` takes it back):
+
+```bash
+npm run grant-admin -- you@example.com
+```
+
+This sets `app_metadata.admin = true` on the Supabase user (only the service key can change
+`app_metadata`). The server signs in on the browser's behalf and keeps the session in HttpOnly
+cookies; every API call checks it against Supabase, so the Supabase keys in `.env` are required.
 
 - **Histoires**: every story on one shelf with its cover, level and status — _Brouillon_ (file
   only), _Publiée_, _Modifiée_ (file changed since the last publish), _En ligne sans fichier_
@@ -146,8 +157,7 @@ A local web app, styled like the mobile app, to manage stories without touching 
   the file.
 
 The `.md` files stay the source of truth (commit them). The server only listens on localhost: the
-service key from `.env` never reaches the browser. Without Supabase keys the admin still edits
-files (no publish or upload). Cover uploads need the `covers` bucket migration.
+service key from `.env` never reaches the browser. Cover uploads need the `covers` bucket migration.
 
 ### Story format (Markdown)
 
@@ -204,6 +214,7 @@ Then Mia sees her neighbour, Mr Green.
 | ------------------------------------ | ------------------------------------------- |
 | `npm run mobile`                     | Start the Expo dev server                   |
 | `npm run admin`                      | Start the web admin (localhost:5180)        |
+| `npm run grant-admin -- <email>`     | Give admin access (`--revoke` to remove)    |
 | `npm run publish-story -- <file.md>` | Publish a story (`--dry-run` to check only) |
 | `npm run seed-translations`          | Import `content/translations/fr.json`       |
 | `npm run lint`                       | ESLint + Prettier on all packages           |

@@ -26,7 +26,7 @@ const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 
 export class HttpError extends Error {
   constructor(
-    readonly status: 400 | 404 | 409 | 422 | 500 | 503,
+    readonly status: 400 | 401 | 403 | 404 | 409 | 422 | 500 | 503,
     message: string,
   ) {
     super(message);

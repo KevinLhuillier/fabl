@@ -12,6 +12,7 @@ import { CEFR_LEVELS, type CefrLevel } from '../../../scripts/publish/src/story.
 import { saveTranslations } from '../../../scripts/publish/src/translations.js';
 import { lemmaKeyId } from '../../../scripts/publish/src/lemmatize.js';
 import type { AnalysisReport, Lemma, ServerStatus, TranslationInput } from '../shared/api.js';
+import { me, requireAdmin, signIn, signOut } from './auth.js';
 import {
   HttpError,
   checkSlug,
@@ -41,6 +42,26 @@ api.onError((e, c) => {
 });
 
 api.get('/status', (c) => c.json<ServerStatus>({ supabase: !!db(), lang: LANG }));
+
+api.post('/auth/login', async (c) => {
+  const { email, password } = await c.req.json<{ email: string; password: string }>();
+  if (!email?.trim() || !password) throw new HttpError(400, 'Email et mot de passe requis.');
+  return c.json(await signIn(c, email.trim(), password));
+});
+
+api.post('/auth/logout', async (c) => {
+  await signOut(c);
+  return c.body(null, 204);
+});
+
+api.get('/auth/me', async (c) => c.json(await me(c)));
+
+/** Everything below needs a signed-in admin. */
+const PUBLIC = new Set(['/api/status', '/api/auth/login', '/api/auth/logout', '/api/auth/me']);
+api.use('*', async (c, next) => {
+  if (!PUBLIC.has(c.req.path)) await requireAdmin(c);
+  await next();
+});
 
 api.get('/stories', async (c) => c.json(await listStories()));
 

@@ -967,3 +967,28 @@ textarea.input {
     gap: var(--space-xl) var(--space-lg);
   }
 }
+
+/* --- Sign in (SignInPage.tsx) ------------------------------------------------ */
+
+.signin {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--space-xl);
+  max-width: 420px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: var(--space-xl) var(--space-lg);
+}
+.signin-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-sm);
+  text-align: center;
+}
+.signin-mark {
+  width: 64px;
+  height: 64px;
+  border-radius: var(--radius-lg);
+}

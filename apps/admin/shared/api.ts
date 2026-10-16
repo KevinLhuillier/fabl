@@ -71,4 +71,7 @@ export type ServerStatus = {
   lang: string;
 };
 
+/** Signed-in admin (Fabl account with app_metadata.admin = true). */
+export type AdminUser = { id: string; email: string };
+
 export type ApiError = { error: string };
