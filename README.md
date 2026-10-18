@@ -149,7 +149,8 @@ cookies; every API call checks it against Supabase, so the Supabase keys in `.en
   or an image URL; preview of the default cover otherwise); chapters and pages edited as pages of
   a book (add, delete, reorder — moved chapters get an explicit `{#id}` so readers' progress
   follows them), or the raw **Markdown** (files with `<!-- comments -->` open there to keep them).
-  Format errors show live. `Ctrl+S` saves the file.
+  Format errors show live. `Ctrl+S` saves the file. Each page has a **Voix off** button: upload
+  an MP3 (public `audio` Storage bucket, 20 MB max.), listen to it, replace or remove it.
 - **Vérifier** (dry run) / **Publier**: same pipeline as `publish-story`; the report lists the
   words without translation, with the story sentence as suggested example, to translate on the
   spot (saved to `content/translations/fr.json` and Supabase).
@@ -157,7 +158,8 @@ cookies; every API call checks it against Supabase, so the Supabase keys in `.en
   the file.
 
 The `.md` files stay the source of truth (commit them). The server only listens on localhost: the
-service key from `.env` never reaches the browser. Cover uploads need the `covers` bucket migration.
+service key from `.env` never reaches the browser. Cover and voice-over uploads need the `covers`
+and `audio` bucket migrations.
 
 ### Story format (Markdown)
 
@@ -188,6 +190,9 @@ Then Mia sees her neighbour, Mr Green.
   default cover in the level color). Chapters share the story's level.
 - **`# Title` starts a chapter**; `---` separates two **pages** of a chapter. Only `#` headings.
 - **One line = one paragraph**; blank lines are ignored. `<!-- comments -->` are allowed.
+- **`@audio <url>`** (optional, one per page, written first by the admin) attaches a recorded
+  voice-over (MP3) to the page: the reader shows a play button above the text. The URL lives in
+  the file, so the recording follows its page when pages or chapters move.
 - Dialogue goes between straight double quotes on a single line; the reader highlights it.
 - Stories are **linear** (no choices), static text only.
 - **Keys**: the file name identifies the story (renaming it publishes a new story). Chapters are

@@ -15,6 +15,7 @@
  *
  *   ---
  *
+ *   @audio https://example.com/leo-1-2.mp3   (optional, voice-over of the page)
  *   Mia goes into the garden.
  *
  * - The front matter (between the first two `---` lines) holds the metadata.
@@ -23,6 +24,8 @@
  *   mixing up the readers' progress.
  * - `---` separates two pages of a chapter.
  * - Each non-empty line is a paragraph. `<!-- comments -->` are ignored.
+ * - `@audio <url>` (one per page, anywhere in it) attaches a recorded
+ *   voice-over (MP3) to the page. It is not part of the text.
  */
 
 export const CEFR_LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'] as const;
@@ -43,6 +46,8 @@ export type Page = {
   index: number;
   /** Paragraphs, in order. */
   lines: string[];
+  /** Voice-over of the page (MP3 URL), or null. */
+  audio: string | null;
 };
 
 export type Chapter = {
@@ -61,6 +66,7 @@ export type ParsedStory = {
 
 const SEPARATOR = /^-{3,}\s*$/;
 const HEADING = /^#\s+(.+?)\s*(?:\{#([\w-]+)\})?\s*$/;
+const AUDIO = /^@audio\b\s*(.*)$/;
 
 export function parseStory(source: string, fileName: string): ParsedStory {
   const fail = (message: string, line?: number): never => {
@@ -109,17 +115,21 @@ export function parseStory(source: string, fileName: string): ParsedStory {
   const chapters: Chapter[] = [];
   const warnings: string[] = [];
   let page: string[] = [];
+  let audio: string | null = null;
 
   const closePage = (lineNo: number) => {
     const chapter = chapters[chapters.length - 1];
     if (!chapter) return;
-    if (!page.length) {
+    if (!page.length && audio) {
+      fail(`page with an "@audio" but no text in chapter "${chapter.title}"`, lineNo);
+    } else if (!page.length) {
       warnings.push(`${fileName}:${lineNo}: empty page in chapter "${chapter.title}" ignored.`);
     } else {
       const index = chapter.pages.length;
-      chapter.pages.push({ key: `${chapter.key}.page_${index + 1}`, index, lines: page });
+      chapter.pages.push({ key: `${chapter.key}.page_${index + 1}`, index, lines: page, audio });
     }
     page = [];
+    audio = null;
   };
 
   for (; i < lines.length; i++) {
@@ -143,6 +153,13 @@ export function parseStory(source: string, fileName: string): ParsedStory {
       continue;
     }
     if (!chapters.length) fail(`text before the first "# Chapter": "${line}"`, i + 1);
+    const audioLine = AUDIO.exec(line);
+    if (audioLine) {
+      if (!/^https?:\/\/\S+$/.test(audioLine[1]!)) fail('"@audio" needs an http(s) MP3 URL', i + 1);
+      if (audio) fail('only one "@audio" per page', i + 1);
+      audio = audioLine[1]!;
+      continue;
+    }
     page.push(line);
   }
   closePage(lines.length);
@@ -160,8 +177,14 @@ export type DraftChapter = {
   /** Existing key (kept so readers' progress follows the chapter); null for a new chapter. */
   key: string | null;
   title: string;
-  /** Paragraphs of each page. */
-  pages: string[][];
+  pages: DraftPage[];
+};
+
+export type DraftPage = {
+  /** Paragraphs, in order. */
+  lines: string[];
+  /** Voice-over URL, or null. */
+  audio: string | null;
 };
 
 /** Default key of the chapter at `position` (when the file gives no explicit id). */
@@ -196,9 +219,9 @@ export function serializeStory(meta: StoryMeta, chapters: DraftChapter[]): strin
   const body = chapters.map((c, position) => {
     const key = keys[position]!;
     const id = key === defaultChapterKey(position) ? '' : ` {#${key}}`;
-    const pages = c.pages.map((lines) =>
-      lines
-        .map((l) => l.trim())
+    // The voice-over goes first, so it reads as the page's heading in the file.
+    const pages = c.pages.map(({ lines, audio }) =>
+      [...(audio ? [`@audio ${audio.trim()}`] : []), ...lines.map((l) => l.trim())]
         .filter(Boolean)
         .join('\n'),
     );

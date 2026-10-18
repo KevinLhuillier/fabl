@@ -131,6 +131,7 @@ export async function publishStory(
           position,
           page_index: p.index,
           text: p.lines.join('\n'),
+          audio_url: p.audio,
         })),
         { onConflict: 'story_id,key' },
       )

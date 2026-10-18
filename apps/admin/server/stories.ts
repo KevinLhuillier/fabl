@@ -203,7 +203,7 @@ export function createStoryFile(slug: string, title: string, level: CefrLevel) {
   writeStoryFile(
     slug,
     serializeStory({ title, level, summary: '', cover: null }, [
-      { key: null, title: 'Chapter One', pages: [['Once upon a time…']] },
+      { key: null, title: 'Chapter One', pages: [{ lines: ['Once upon a time…'], audio: null }] },
     ]),
   );
 }
@@ -227,7 +227,7 @@ export async function importStoryFile(slug: string) {
   const { data, error } = await requireDb()
     .from('stories')
     .select(
-      'title, level, summary, cover_url, chapters(key, position, title, passages(page_index, text))',
+      'title, level, summary, cover_url, chapters(key, position, title, passages(page_index, text, audio_url))',
     )
     .eq('slug', slug)
     .single();
@@ -242,7 +242,7 @@ export async function importStoryFile(slug: string) {
       key: string;
       position: number;
       title: string;
-      passages: { page_index: number; text: string }[];
+      passages: { page_index: number; text: string; audio_url: string | null }[];
     }[];
   };
   const chapters = [...row.chapters]
@@ -252,7 +252,7 @@ export async function importStoryFile(slug: string) {
       title: c.title,
       pages: [...c.passages]
         .sort((a, b) => a.page_index - b.page_index)
-        .map((p) => p.text.split('\n')),
+        .map((p) => ({ lines: p.text.split('\n'), audio: p.audio_url })),
     }));
   writeStoryFile(
     slug,
@@ -286,6 +286,36 @@ export async function uploadCover(slug: string, file: File): Promise<string> {
     throw new HttpError(
       500,
       `Envoi de l’image : ${error.message}. La migration du bucket « covers » est-elle appliquée ?`,
+    );
+  }
+  return storage.getPublicUrl(objectPath).data.publicUrl;
+}
+
+const AUDIO_BUCKET = 'audio';
+
+/**
+ * Uploads a page's voice-over (MP3) to the public "audio" bucket and returns
+ * its public URL. `page` ("<chapter key>.page_<n>") only names the file: the
+ * story file keeps the URL, so the recording follows the page if it moves.
+ */
+export async function uploadAudio(slug: string, page: string, file: File): Promise<string> {
+  // Browsers report MP3 as audio/mpeg, some as audio/mp3.
+  if (!['audio/mpeg', 'audio/mp3'].includes(file.type) && !/\.mp3$/i.test(file.name)) {
+    throw new HttpError(400, 'Format accepté : MP3.');
+  }
+  if (file.size > 20 * 1024 * 1024) throw new HttpError(400, 'Fichier trop lourd (20 Mo maximum).');
+
+  const storage = requireDb().storage.from(AUDIO_BUCKET);
+  const name = page.replace(/[^\w.-]/g, '_') || 'page';
+  const objectPath = `${checkSlug(slug)}/${name}-${Date.now()}.mp3`;
+  const { error } = await storage.upload(objectPath, await file.arrayBuffer(), {
+    contentType: 'audio/mpeg',
+    upsert: false,
+  });
+  if (error) {
+    throw new HttpError(
+      500,
+      `Envoi de l’audio : ${error.message}. La migration du bucket « audio » est-elle appliquée ?`,
     );
   }
   return storage.getPublicUrl(objectPath).data.publicUrl;

@@ -25,6 +25,7 @@ import {
   readStoryFile,
   requireDb,
   unpublishStory,
+  uploadAudio,
   uploadCover,
   writeStoryFile,
 } from './stories.js';
@@ -118,6 +119,15 @@ api.post('/stories/:slug/cover', async (c) => {
   const file = body.file;
   if (!(file instanceof File)) throw new HttpError(400, 'Aucune image reçue.');
   return c.json({ url: await uploadCover(c.req.param('slug'), file) });
+});
+
+/** Voice-over of a page; `page` is only used to name the file. */
+api.post('/stories/:slug/audio', async (c) => {
+  const body = await c.req.parseBody();
+  const file = body.file;
+  if (!(file instanceof File)) throw new HttpError(400, 'Aucun fichier audio reçu.');
+  const page = typeof body.page === 'string' ? body.page : '';
+  return c.json({ url: await uploadAudio(c.req.param('slug'), page, file) });
 });
 
 /** Saves translations to content/translations/<lang>.json and, when configured, to Supabase. */

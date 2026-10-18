@@ -56,6 +56,12 @@ export const api = {
     form.append('file', file);
     return request<{ url: string }>('POST', `${story(slug)}/cover`, form);
   },
+  uploadAudio: (slug: string, page: string, file: File) => {
+    const form = new FormData();
+    form.append('file', file);
+    form.append('page', page);
+    return request<{ url: string }>('POST', `${story(slug)}/audio`, form);
+  },
   saveTranslations: (entries: TranslationInput[]) =>
     request<{ saved: number; online: boolean }>('POST', '/translations', { entries }),
 };

@@ -992,3 +992,16 @@ textarea.input {
   height: 64px;
   border-radius: var(--radius-lg);
 }
+
+/* --- Page voice-over (ChapterCard.tsx) --------------------------------------- */
+
+.page-audio {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  padding: 0 var(--space-sm) var(--space-sm) var(--space-md);
+}
+.page-audio audio {
+  height: 36px;
+  min-width: 0;
+}

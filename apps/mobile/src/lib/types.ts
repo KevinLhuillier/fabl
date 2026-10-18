@@ -43,6 +43,8 @@ export type Page = {
   id: string;
   index: number;
   tokens: Token[];
+  /** Recorded voice-over (MP3), or null. */
+  audioUrl: string | null;
 };
 
 export type ChapterProgress = {

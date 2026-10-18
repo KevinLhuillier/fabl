@@ -1,11 +1,15 @@
-import { ArrowDown, ArrowUp, ChevronDown, ChevronRight, Plus, Trash2 } from 'lucide-react';
-import { useLayoutEffect, useRef, type TextareaHTMLAttributes } from 'react';
+import { ArrowDown, ArrowUp, ChevronDown, ChevronRight, Mic, Plus, Trash2, X } from 'lucide-react';
+import { useLayoutEffect, useRef, useState, type TextareaHTMLAttributes } from 'react';
 
-import { newPage, type DraftChapter } from '../lib/draft';
+import { api } from '../lib/api';
+import { newPage, type DraftChapter, type DraftPage } from '../lib/draft';
 import { plural, roughWords, toRoman } from '../lib/labels';
-import { Button } from './ui';
+import { Button, useToast } from './ui';
 
 type Props = {
+  slug: string;
+  /** Supabase configured: voice-overs can be uploaded. */
+  canUpload: boolean;
   chapter: DraftChapter;
   index: number;
   count: number;
@@ -17,10 +21,12 @@ type Props = {
 };
 
 /** Lines the parser would not read as text. */
-const SPECIAL_LINE = /^\s*(#|-{3,}\s*$)/m;
+const SPECIAL_LINE = /^\s*(#|-{3,}\s*$|@audio\b)/m;
 
 /** A chapter as in the app's table of contents, with its pages on paper below. */
 export function ChapterCard({
+  slug,
+  canUpload,
   chapter,
   index,
   count,
@@ -31,10 +37,10 @@ export function ChapterCard({
   onDelete,
 }: Props) {
   const words = chapter.pages.reduce((n, p) => n + roughWords(p.text), 0);
-  const setPage = (i: number, text: string) =>
+  const setPage = (i: number, patch: Partial<DraftPage>) =>
     onChange({
       ...chapter,
-      pages: chapter.pages.map((p, j) => (j === i ? { ...p, text } : p)),
+      pages: chapter.pages.map((p, j) => (j === i ? { ...p, ...patch } : p)),
     });
   const insertPage = (at: number) =>
     onChange({
@@ -115,14 +121,21 @@ export function ChapterCard({
                   placeholder="Écris le texte de la page. Une ligne = un paragraphe."
                   aria-label={`Texte de la page ${i + 1}`}
                   value={page.text}
-                  onChange={(e) => setPage(i, e.target.value)}
+                  onChange={(e) => setPage(i, { text: e.target.value })}
                 />
                 {SPECIAL_LINE.test(page.text) ? (
                   <p className="t-caption c-danger" style={{ padding: '0 16px 12px' }}>
-                    Une ligne qui commence par « # » ou « --- » serait lue comme un titre de
-                    chapitre ou un changement de page.
+                    Une ligne qui commence par « # », « --- » ou « @audio » serait lue comme un
+                    titre de chapitre, un changement de page ou une voix off.
                   </p>
                 ) : null}
+                <PageAudio
+                  slug={slug}
+                  page={`${chapter.key ?? `chapter_${index + 1}`}.page_${i + 1}`}
+                  audio={page.audio}
+                  canUpload={canUpload}
+                  onChange={(audio) => setPage(i, { audio })}
+                />
               </div>
               <button type="button" className="add-line" onClick={() => insertPage(i + 1)}>
                 <Plus size={16} /> Page
@@ -132,6 +145,88 @@ export function ChapterCard({
         </div>
       )}
     </section>
+  );
+}
+
+/** Voice-over of a page: MP3 upload to the "audio" bucket, preview, removal. */
+function PageAudio({
+  slug,
+  page,
+  audio,
+  canUpload,
+  onChange,
+}: {
+  slug: string;
+  page: string;
+  audio: string | null;
+  canUpload: boolean;
+  onChange: (audio: string | null) => void;
+}) {
+  const toast = useToast();
+  const input = useRef<HTMLInputElement>(null);
+  const [uploading, setUploading] = useState(false);
+
+  const upload = async (file: File) => {
+    setUploading(true);
+    try {
+      const { url } = await api.uploadAudio(slug, page, file);
+      onChange(url);
+      toast('Voix off envoyée : pense à enregistrer', 'success');
+    } catch (e) {
+      toast((e as Error).message, 'error');
+    } finally {
+      setUploading(false);
+    }
+  };
+
+  return (
+    <div className="page-audio">
+      <input
+        ref={input}
+        type="file"
+        accept="audio/mpeg,.mp3"
+        hidden
+        onChange={(e) => {
+          const file = e.target.files?.[0];
+          if (file) void upload(file);
+          e.target.value = '';
+        }}
+      />
+      {audio ? (
+        <>
+          <audio className="grow" controls preload="none" src={audio} />
+          <Button
+            variant="ghost"
+            size="icon"
+            aria-label="Remplacer la voix off"
+            title="Remplacer (MP3)"
+            loading={uploading}
+            disabled={!canUpload}
+            onClick={() => input.current?.click()}>
+            <Mic size={16} />
+          </Button>
+          <Button
+            variant="ghost"
+            size="icon"
+            aria-label="Retirer la voix off"
+            title="Retirer la voix off"
+            onClick={() => onChange(null)}>
+            <X size={16} />
+          </Button>
+        </>
+      ) : (
+        <Button
+          variant="ghost"
+          size="sm"
+          icon={<Mic size={16} />}
+          loading={uploading}
+          disabled={!canUpload}
+          title={canUpload ? 'MP3, 20 Mo max.' : 'Supabase non configuré'}
+          onClick={() => input.current?.click()}>
+          Voix off
+        </Button>
+      )}
+    </div>
   );
 }
 

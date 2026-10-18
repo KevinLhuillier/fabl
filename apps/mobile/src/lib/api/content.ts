@@ -53,7 +53,7 @@ type RawLemma = {
   translations: { translation: string; example: string | null }[];
 };
 type RawToken = { position: number; text: string; whitespace: string; lemmas: RawLemma | null };
-type RawPage = { id: string; page_index: number; tokens: RawToken[] };
+type RawPage = { id: string; page_index: number; audio_url: string | null; tokens: RawToken[] };
 
 /**
  * Loads a chapter with every page, token, lemma and translation in one
@@ -64,7 +64,7 @@ export async function fetchChapterPages(chapterId: string): Promise<Page[]> {
     await supabase
       .from('chapters')
       .select(
-        `id, passages(id, page_index,
+        `id, passages(id, page_index, audio_url,
            tokens(position, text, whitespace,
              lemmas(id, word, pos, translations(translation, example))))`,
       )
@@ -78,6 +78,7 @@ export async function fetchChapterPages(chapterId: string): Promise<Page[]> {
     .map((p) => ({
       id: p.id,
       index: p.page_index,
+      audioUrl: p.audio_url,
       tokens: [...p.tokens]
         .sort((a, b) => a.position - b.position)
         .map((t): Token => ({

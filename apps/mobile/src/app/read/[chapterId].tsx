@@ -5,6 +5,7 @@ import { ActivityIndicator, Pressable, ScrollView, StyleSheet, View } from 'reac
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+import { PageAudio } from '@/components/PageAudio';
 import { PassageText, sentenceAround } from '@/components/PassageText';
 import { WordSheet, type WordSheetState } from '@/components/WordSheet';
 import { fetchChapterPages, fetchStoryWithChapters } from '@/lib/api/content';
@@ -171,6 +172,14 @@ export default function ChapterReader() {
           CHAPITRE {chapter.position + 1} · {chapter.title.toUpperCase()} · PAGE {page + 1}/
           {pages.length}
         </Text>
+        {current.audioUrl ? (
+          <PageAudio
+            key={`audio-${current.id}`}
+            uri={current.audioUrl}
+            color={level.solid}
+            shade={level.shade}
+          />
+        ) : null}
         <Animated.View key={current.id} entering={enter.up()}>
           <PassageText
             tokens={current.tokens}

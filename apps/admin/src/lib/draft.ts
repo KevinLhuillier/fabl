@@ -4,14 +4,19 @@
  */
 import { parseStory, serializeStory, type StoryMeta } from '@publish/story';
 
-export type DraftPage = { id: string; text: string };
+/** `audio`: voice-over URL (the page's "@audio" line), or null. */
+export type DraftPage = { id: string; text: string; audio: string | null };
 export type DraftChapter = { id: string; key: string | null; title: string; pages: DraftPage[] };
 export type Draft = { meta: StoryMeta; chapters: DraftChapter[] };
 
 let next = 0;
 export const uid = () => `d${++next}`;
 
-export const newPage = (text = ''): DraftPage => ({ id: uid(), text });
+export const newPage = (text = '', audio: string | null = null): DraftPage => ({
+  id: uid(),
+  text,
+  audio,
+});
 export const newChapter = (title = ''): DraftChapter => ({
   id: uid(),
   key: null,
@@ -28,7 +33,7 @@ export function fromSource(source: string): Draft {
       id: uid(),
       key: c.key,
       title: c.title,
-      pages: c.pages.map((p) => newPage(p.lines.join('\n'))),
+      pages: c.pages.map((p) => newPage(p.lines.join('\n'), p.audio)),
     })),
   };
 }
@@ -39,7 +44,7 @@ export function toSource({ meta, chapters }: Draft): string {
     chapters.map((c) => ({
       key: c.key,
       title: c.title,
-      pages: c.pages.map((p) => p.text.split('\n')),
+      pages: c.pages.map((p) => ({ lines: p.text.split('\n'), audio: p.audio })),
     })),
   );
 }

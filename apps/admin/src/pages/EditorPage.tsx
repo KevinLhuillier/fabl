@@ -398,6 +398,8 @@ export function EditorPage({ slug, server }: { slug: string; server: ServerStatu
                   {draft.chapters.map((chapter, i) => (
                     <ChapterCard
                       key={chapter.id}
+                      slug={slug}
+                      canUpload={!!server?.supabase}
                       chapter={chapter}
                       index={i}
                       count={draft.chapters.length}
