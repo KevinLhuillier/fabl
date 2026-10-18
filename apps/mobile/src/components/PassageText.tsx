@@ -1,9 +1,8 @@
 import { Fragment } from 'react';
-import { Quote } from 'lucide-react-native';
 import { StyleSheet, View } from 'react-native';
 
 import type { Token } from '@/lib/types';
-import { Icon, Text, colors, haptics, radii, spacing } from '@/theme';
+import { Text, colors, fonts, haptics, radii, spacing } from '@/theme';
 
 type Props = {
   tokens: Token[];
@@ -20,9 +19,8 @@ type Segment = { token: Token; spoken: boolean; quote?: 'open' | 'close' };
  * Renders a passage from its tokens. Each line is a paragraph; tokens with a
  * lemma are nested <Text> with onPress, so lines still wrap naturally.
  *
- * Paragraphs containing dialogue are shown as a "speech" block (accent bar,
- * tinted background, quote mark): the spoken words keep the normal text style
- * and the narration around them ("he asks") is muted and italic.
+ * Spoken words (between quotation marks, quotes included) are shown in
+ * italics; the narration around them keeps the normal style.
  * Straight quotes become “curly” ones.
  */
 export function PassageText({ tokens, selectedPosition, onWordPress }: Props) {
@@ -30,51 +28,38 @@ export function PassageText({ tokens, selectedPosition, onWordPress }: Props) {
 
   return (
     <View style={styles.wrap}>
-      {paragraphs.map((segments, i) => {
-        const isDialogue = segments.some((s) => s.quote);
-        const text = (
-          <Text variant="reading">
-            {segments.map(({ token: t, spoken, quote }) => {
-              const style = [
-                isDialogue && (spoken ? styles.spoken : styles.aside),
-                t.position === selectedPosition && styles.selected,
-              ];
-              const label = quote === 'open' ? '“' : quote === 'close' ? '”' : t.text;
-              return (
-                <Fragment key={t.position}>
-                  {t.lemma ? (
-                    <Text
-                      variant="reading"
-                      suppressHighlighting
-                      onPress={() => {
-                        haptics.select();
-                        onWordPress(t);
-                      }}
-                      style={style}>
-                      {label}
-                    </Text>
-                  ) : (
-                    <Text variant="reading" style={style}>
-                      {label}
-                    </Text>
-                  )}
-                  {t.whitespace.replace(/\n/g, '')}
-                </Fragment>
-              );
-            })}
-          </Text>
-        );
-        return isDialogue ? (
-          <View key={i} style={styles.dialogue}>
-            <View style={styles.quoteMark} pointerEvents="none">
-              <Icon icon={Quote} size={18} color={colors.primary} />
-            </View>
-            {text}
-          </View>
-        ) : (
-          <View key={i}>{text}</View>
-        );
-      })}
+      {paragraphs.map((segments, i) => (
+        <Text key={i} variant="reading">
+          {segments.map(({ token: t, spoken, quote }) => {
+            const style = [
+              spoken && styles.spoken,
+              t.position === selectedPosition && styles.selected,
+            ];
+            const label = quote === 'open' ? '“' : quote === 'close' ? '”' : t.text;
+            return (
+              <Fragment key={t.position}>
+                {t.lemma ? (
+                  <Text
+                    variant="reading"
+                    suppressHighlighting
+                    onPress={() => {
+                      haptics.select();
+                      onWordPress(t);
+                    }}
+                    style={style}>
+                    {label}
+                  </Text>
+                ) : (
+                  <Text variant="reading" style={style}>
+                    {label}
+                  </Text>
+                )}
+                {t.whitespace.replace(/\n/g, '')}
+              </Fragment>
+            );
+          })}
+        </Text>
+      ))}
     </View>
   );
 }
@@ -121,19 +106,7 @@ export function sentenceAround(tokens: Token[], position: number): string {
 
 const styles = StyleSheet.create({
   wrap: { gap: spacing.lg },
-  dialogue: {
-    backgroundColor: colors.primarySoft,
-    borderLeftWidth: 4,
-    borderLeftColor: colors.primary,
-    borderRadius: radii.md,
-    paddingVertical: spacing.sm,
-    paddingLeft: spacing.md,
-    // Room for the quote mark in the top-right corner.
-    paddingRight: spacing.xxl,
-  },
-  quoteMark: { position: 'absolute', top: spacing.sm, right: spacing.sm, opacity: 0.35 },
-  spoken: { color: colors.text },
-  aside: { color: colors.textSecondary, fontStyle: 'italic' },
+  spoken: { fontFamily: fonts.italic },
   selected: {
     backgroundColor: colors.xpSoft,
     color: colors.primary,

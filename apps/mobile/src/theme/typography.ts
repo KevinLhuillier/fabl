@@ -1,5 +1,6 @@
 import {
   Nunito_600SemiBold,
+  Nunito_600SemiBold_Italic,
   Nunito_700Bold,
   Nunito_800ExtraBold,
   Nunito_900Black,
@@ -9,6 +10,7 @@ import type { TextStyle } from 'react-native';
 /** Passed to `useFonts` in the root layout. */
 export const fontAssets = {
   Nunito_600SemiBold,
+  Nunito_600SemiBold_Italic,
   Nunito_700Bold,
   Nunito_800ExtraBold,
   Nunito_900Black,
@@ -16,6 +18,7 @@ export const fontAssets = {
 
 export const fonts = {
   regular: 'Nunito_600SemiBold',
+  italic: 'Nunito_600SemiBold_Italic',
   bold: 'Nunito_700Bold',
   extraBold: 'Nunito_800ExtraBold',
   black: 'Nunito_900Black',
