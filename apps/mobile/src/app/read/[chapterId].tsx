@@ -1,5 +1,5 @@
 import { router, useLocalSearchParams } from 'expo-router';
-import { Lightbulb, X } from 'lucide-react-native';
+import { ChevronLeft, ChevronRight, Lightbulb, X } from 'lucide-react-native';
 import { useEffect, useRef, useState } from 'react';
 import { ActivityIndicator, Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
@@ -92,11 +92,10 @@ export default function ChapterReader() {
   const isLast = page >= pages.length - 1;
   const level = levelColors[story.level];
 
-  function next() {
-    const target = page + 1;
+  function goTo(target: number) {
     setPage(target);
     setSelected(null);
-    // Long pages: always start reading the next one from the top.
+    // Long pages: always start reading the target one from the top.
     scrollRef.current?.scrollTo({ y: 0, animated: false });
     saveChapterPage(chapterId, target).catch((e) => console.warn('saveChapterPage', e));
   }
@@ -198,17 +197,42 @@ export default function ChapterReader() {
       </ScrollView>
 
       <View style={styles.footer}>
-        {finishing ? (
-          <ActivityIndicator color={colors.primary} />
-        ) : isLast ? (
-          <Button label="Terminer le chapitre" variant="success" onPress={finish} />
-        ) : (
-          <Button
-            label="Continuer"
-            colorOverride={{ face: level.solid, edge: level.shade }}
-            onPress={next}
-          />
-        )}
+        {/* Fixed-width slots so the main button keeps its place when an arrow is hidden. */}
+        <View style={styles.arrowSlot}>
+          {page > 0 && !finishing ? (
+            <Pressable
+              onPress={() => goTo(page - 1)}
+              hitSlop={8}
+              accessibilityRole="button"
+              accessibilityLabel="Page précédente">
+              <Icon icon={ChevronLeft} size={32} color={level.shade} />
+            </Pressable>
+          ) : null}
+        </View>
+        <View style={styles.flex}>
+          {finishing ? (
+            <ActivityIndicator color={colors.primary} />
+          ) : isLast ? (
+            <Button label="Terminer le chapitre" variant="success" onPress={finish} />
+          ) : (
+            <Button
+              label="Continuer"
+              colorOverride={{ face: level.solid, edge: level.shade }}
+              onPress={() => goTo(page + 1)}
+            />
+          )}
+        </View>
+        <View style={styles.arrowSlot}>
+          {!isLast && !finishing ? (
+            <Pressable
+              onPress={() => goTo(page + 1)}
+              hitSlop={8}
+              accessibilityRole="button"
+              accessibilityLabel="Page suivante">
+              <Icon icon={ChevronRight} size={32} color={level.shade} />
+            </Pressable>
+          ) : null}
+        </View>
       </View>
 
       <WordSheet
@@ -237,10 +261,14 @@ const styles = StyleSheet.create({
   body: { padding: spacing.xl, gap: spacing.lg, paddingBottom: spacing.xxxl },
   hint: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: spacing.xs },
   footer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing.sm,
     padding: spacing.xl,
     paddingTop: spacing.md,
     borderTopWidth: 2,
     borderTopColor: colors.border,
     backgroundColor: colors.surface,
   },
+  arrowSlot: { width: 32, alignItems: 'center' },
 });
