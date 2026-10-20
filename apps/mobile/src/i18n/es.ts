@@ -155,6 +155,10 @@ export const es: Messages = {
     nextChapter: 'Capítulo siguiente',
     later: 'Más tarde',
   },
+  language: {
+    title: 'Elige tu idioma',
+    hint: 'Para la aplicación y la traducción de las palabras. Podrás cambiarlo en tu perfil.',
+  },
   profile: {
     title: 'Perfil',
     totalXp: 'XP en total',

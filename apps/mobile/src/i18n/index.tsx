@@ -16,7 +16,7 @@ export type Lang = (typeof LANGS)[number];
 /** Each language in its own name, for the language picker. */
 export const LANG_NAMES: Record<Lang, string> = { fr: 'Français', es: 'Español' };
 
-const MESSAGES: Record<Lang, Messages> = { fr, es };
+export const MESSAGES: Record<Lang, Messages> = { fr, es };
 /** When none of the device languages is supported yet. */
 const DEFAULT_LANG: Lang = 'fr';
 const STORAGE_KEY = 'fabl.lang';

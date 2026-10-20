@@ -158,6 +158,10 @@ export const fr = {
     nextChapter: 'Chapitre suivant',
     later: 'Plus tard',
   },
+  language: {
+    title: 'Choisis ta langue',
+    hint: 'Pour l’application et la traduction des mots. Tu pourras la changer dans ton profil.',
+  },
   profile: {
     title: 'Profil',
     totalXp: 'XP au total',

@@ -15,6 +15,8 @@ import type { UserStats } from './types';
 
 type StatsContextValue = {
   stats: UserStats | null;
+  /** False while the signed-in user's stats are loading (true once tried, even on failure). */
+  ready: boolean;
   todayXp: number;
   refresh: () => Promise<void>;
   award: (source: XpSource, amount: number) => Promise<AwardResult | null>;
@@ -30,6 +32,8 @@ export function StatsProvider({ children }: { children: ReactNode }) {
   const { session } = useAuth();
   const [stats, setStats] = useState<UserStats | null>(null);
   const [todayXp, setTodayXp] = useState(0);
+  // User whose stats have been fetched (or failed to).
+  const [loadedFor, setLoadedFor] = useState<string | null>(null);
 
   const refresh = useCallback(async () => {
     const [s, t] = await Promise.all([fetchStats(), fetchTodayXp()]);
@@ -39,12 +43,14 @@ export function StatsProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     if (!session) return;
+    const userId = session.user.id;
     Promise.all([fetchStats(), fetchTodayXp()])
       .then(([s, t]) => {
         setStats(s);
         setTodayXp(t);
       })
-      .catch(console.warn);
+      .catch(console.warn)
+      .finally(() => setLoadedFor(userId));
   }, [session]);
 
   const award = useCallback(async (source: XpSource, amount: number) => {
@@ -77,6 +83,7 @@ export function StatsProvider({ children }: { children: ReactNode }) {
     <StatsContext.Provider
       value={{
         stats: session ? stats : null,
+        ready: !session || loadedFor === session.user.id,
         todayXp: session ? todayXp : 0,
         refresh,
         award,

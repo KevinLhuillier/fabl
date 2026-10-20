@@ -58,10 +58,12 @@ turn this off in **Authentication → Providers → Email → Confirm email**.
 
 The interface and the word translations are in **French** or **Spanish**: the language chosen in
 **Profil → Langue** (saved on the account, `user_stats.lang`), else the phone's language (French
-when it is neither). Interface texts live in `apps/mobile/src/i18n/` — `fr.ts` is the reference,
-`es.ts` must have the same keys (TypeScript checks it). To add a language: a new dictionary, its
-code in `LANGS` (`i18n/index.tsx`) and in the `user_stats.lang` check constraint (migration), and
-a `content/translations/<lang>.json` imported with `seed-translations`.
+when it is neither). On the first sign-in, a **language screen** asks for it (shown while
+`user_stats.lang` is empty, the phone's language preselected). Interface texts live in
+`apps/mobile/src/i18n/` — `fr.ts` is the reference, `es.ts` must have the same keys (TypeScript
+checks it). To add a language: a new dictionary, its code in `LANGS` (`i18n/index.tsx`) and in
+the `user_stats.lang` check constraint (migration), and a `content/translations/<lang>.json`
+imported with `seed-translations`.
 
 ### Tuning the game
 
