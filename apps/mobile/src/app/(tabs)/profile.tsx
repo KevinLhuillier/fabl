@@ -1,6 +1,8 @@
+import { router } from 'expo-router';
 import {
   AudioLines,
   Flame,
+  GraduationCap,
   LogOut,
   Target,
   Trophy,
@@ -14,11 +16,13 @@ import { useAuth } from '@/lib/auth';
 import { DAILY_GOAL_OPTIONS, displayedStreak } from '@/lib/gamification';
 import { useStats } from '@/lib/stats';
 import { supabase } from '@/lib/supabase';
+import { useTour } from '@/lib/tour';
 import { Button, Card, Icon, Text, colors, spacing } from '@/theme';
 
 export default function Profile() {
   const { session } = useAuth();
   const { stats, updateDailyGoal, updateReadAlong } = useStats();
+  const { target, replay } = useTour('profile', stats !== null);
 
   return (
     <SafeAreaView style={styles.safe} edges={['top']}>
@@ -47,47 +51,64 @@ export default function Profile() {
           />
         </View>
 
-        <Card>
-          <View style={styles.titleRow}>
-            <Icon icon={Target} size={22} color={colors.xpShade} />
-            <Text variant="heading">Objectif quotidien</Text>
-          </View>
-          <Text color={colors.textSecondary} style={styles.hint}>
-            XP à gagner chaque jour.
-          </Text>
-          <View style={styles.goals}>
-            {DAILY_GOAL_OPTIONS.map((goal) => (
-              <Button
-                key={goal}
-                label={`${goal}`}
-                variant={stats?.daily_goal_xp === goal ? 'primary' : 'secondary'}
-                haptic="tap"
-                style={styles.goal}
-                onPress={() => updateDailyGoal(goal).catch(console.warn)}
-              />
-            ))}
-          </View>
-        </Card>
-
-        <Card>
-          <View style={styles.titleRow}>
-            <Icon icon={AudioLines} size={22} color={colors.primary} />
-            <Text variant="heading" style={styles.flex}>
-              Surlignage audio
+        <View ref={target('goal')} collapsable={false}>
+          <Card>
+            <View style={styles.titleRow}>
+              <Icon icon={Target} size={22} color={colors.xpShade} />
+              <Text variant="heading">Objectif quotidien</Text>
+            </View>
+            <Text color={colors.textSecondary} style={styles.hint}>
+              XP à gagner chaque jour.
             </Text>
-            <Switch
-              value={stats?.read_along ?? true}
-              disabled={!stats}
-              onValueChange={(v) => updateReadAlong(v).catch(console.warn)}
-              trackColor={{ false: colors.border, true: colors.primary }}
-              thumbColor={colors.surface}
-              accessibilityLabel="Surlignage audio"
-            />
-          </View>
-          <Text color={colors.textSecondary} style={styles.hint}>
-            Surligne le texte et le mot lu pendant l’écoute.
-          </Text>
-        </Card>
+            <View style={styles.goals}>
+              {DAILY_GOAL_OPTIONS.map((goal) => (
+                <Button
+                  key={goal}
+                  label={`${goal}`}
+                  variant={stats?.daily_goal_xp === goal ? 'primary' : 'secondary'}
+                  haptic="tap"
+                  style={styles.goal}
+                  onPress={() => updateDailyGoal(goal).catch(console.warn)}
+                />
+              ))}
+            </View>
+          </Card>
+        </View>
+
+        <View ref={target('readAlong')} collapsable={false}>
+          <Card>
+            <View style={styles.titleRow}>
+              <Icon icon={AudioLines} size={22} color={colors.primary} />
+              <Text variant="heading" style={styles.flex}>
+                Surlignage audio
+              </Text>
+              <Switch
+                value={stats?.read_along ?? true}
+                disabled={!stats}
+                onValueChange={(v) => updateReadAlong(v).catch(console.warn)}
+                trackColor={{ false: colors.border, true: colors.primary }}
+                thumbColor={colors.surface}
+                accessibilityLabel="Surlignage audio"
+              />
+            </View>
+            <Text color={colors.textSecondary} style={styles.hint}>
+              Surligne le texte et le mot lu pendant l’écoute.
+            </Text>
+          </Card>
+        </View>
+
+        <View ref={target('replay')} collapsable={false}>
+          <Button
+            label="Revoir la démo"
+            variant="secondary"
+            icon={<Icon icon={GraduationCap} size={20} color={colors.primary} />}
+            onPress={() => {
+              // Back to the first tab: the tour starts again from there.
+              router.navigate('/');
+              replay();
+            }}
+          />
+        </View>
 
         <Button
           label="Se déconnecter"

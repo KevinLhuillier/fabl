@@ -9,6 +9,7 @@ import { ConfirmSheet } from '@/components/ConfirmSheet';
 import { fetchVocabulary, removeFromVocabulary } from '@/lib/api/vocabulary';
 import { endOfToday } from '@/lib/dates';
 import { plural, posLabel } from '@/lib/labels';
+import { useTour } from '@/lib/tour';
 import type { VocabularyItem } from '@/lib/types';
 import {
   Badge,
@@ -35,6 +36,7 @@ export default function Vocabulary() {
   const [toRemove, setToRemove] = useState<VocabularyItem | null>(null);
   // Kept separate from `toRemove` so the text stays during the closing fade.
   const [confirmOpen, setConfirmOpen] = useState(false);
+  const { target } = useTour('vocabulary', items !== null);
 
   useFocusEffect(
     useCallback(() => {
@@ -79,33 +81,39 @@ export default function Vocabulary() {
         ListHeaderComponent={
           <View style={styles.header}>
             <Text variant="title">Mes mots</Text>
-            <Card tint={{ face: colors.primarySoft, edge: colors.primary }}>
-              <View style={styles.reviewRow}>
-                <Icon icon={dueCount ? Brain : Sparkles} size={28} color={colors.primary} />
-                <View style={styles.flex}>
-                  <Text variant="heading">
-                    {dueCount ? `${plural(dueCount, 'mot', 'mots')} à réviser` : 'Tout est révisé'}
-                  </Text>
-                  <Text color={colors.textSecondary}>
-                    {items ? plural(items.length, 'mot appris', 'mots appris') : '…'}
-                  </Text>
+            <View ref={target('review')} collapsable={false}>
+              <Card tint={{ face: colors.primarySoft, edge: colors.primary }}>
+                <View style={styles.reviewRow}>
+                  <Icon icon={dueCount ? Brain : Sparkles} size={28} color={colors.primary} />
+                  <View style={styles.flex}>
+                    <Text variant="heading">
+                      {dueCount
+                        ? `${plural(dueCount, 'mot', 'mots')} à réviser`
+                        : 'Tout est révisé'}
+                    </Text>
+                    <Text color={colors.textSecondary}>
+                      {items ? plural(items.length, 'mot appris', 'mots appris') : '…'}
+                    </Text>
+                  </View>
+                  <Button
+                    label={dueCount ? 'Réviser' : 'S’entraîner'}
+                    disabled={!items?.length}
+                    onPress={() => router.push('/review')}
+                  />
                 </View>
-                <Button
-                  label={dueCount ? 'Réviser' : 'S’entraîner'}
-                  disabled={!items?.length}
-                  onPress={() => router.push('/review')}
-                />
-              </View>
-            </Card>
-            <TextField
-              icon={Search}
-              placeholder="Chercher un mot ou une traduction"
-              value={query}
-              onChangeText={setQuery}
-              autoCapitalize="none"
-              autoCorrect={false}
-              clearButtonMode="while-editing"
-            />
+              </Card>
+            </View>
+            <View ref={target('search')} collapsable={false}>
+              <TextField
+                icon={Search}
+                placeholder="Chercher un mot ou une traduction"
+                value={query}
+                onChangeText={setQuery}
+                autoCapitalize="none"
+                autoCorrect={false}
+                clearButtonMode="while-editing"
+              />
+            </View>
             {error ? <Text color={colors.danger}>{error}</Text> : null}
           </View>
         }

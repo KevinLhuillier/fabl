@@ -12,6 +12,7 @@ import { fetchProgressByStory, type StoryProgressSummary } from '@/lib/api/progr
 import { countDueVocabulary } from '@/lib/api/vocabulary';
 import { plural } from '@/lib/labels';
 import { useStats } from '@/lib/stats';
+import { useTour } from '@/lib/tour';
 import type { StorySummary } from '@/lib/types';
 import { Button, Card, Icon, Text, colors, enter, radii, spacing } from '@/theme';
 
@@ -22,6 +23,7 @@ export default function Home() {
   const [due, setDue] = useState(0);
   const [error, setError] = useState<string | null>(null);
   const [refreshing, setRefreshing] = useState(false);
+  const { target } = useTour('home', stories !== null);
 
   const load = useCallback(async () => {
     try {
@@ -58,7 +60,9 @@ export default function Home() {
           />
         }>
         <Text variant="title">Tes histoires</Text>
-        <StatsBar />
+        <View ref={target('stats')} collapsable={false}>
+          <StatsBar />
+        </View>
 
         {due > 0 ? (
           <Card tint={{ face: colors.infoSoft, edge: colors.info }}>
@@ -83,7 +87,7 @@ export default function Home() {
           </Card>
         ) : stories ? (
           stories.length ? (
-            <View style={styles.grid}>
+            <View ref={target('stories')} collapsable={false} style={styles.grid}>
               {stories.map((story, i) => (
                 <Animated.View key={story.id} entering={enter.up(i * 50)} style={styles.cell}>
                   <StoryTile

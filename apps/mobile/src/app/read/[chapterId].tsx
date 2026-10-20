@@ -19,6 +19,7 @@ import {
 import { addToVocabulary } from '@/lib/api/vocabulary';
 import { XP_RULES } from '@/lib/gamification';
 import { useStats } from '@/lib/stats';
+import { useTour } from '@/lib/tour';
 import type { ChapterProgress, ChapterSummary, Page, StorySummary, Token } from '@/lib/types';
 import { Button, Icon, ProgressBar, Text, colors, enter, levelColors, spacing } from '@/theme';
 
@@ -41,6 +42,7 @@ export default function ChapterReader() {
   const [page, setPage] = useState(0);
   const [finishing, setFinishing] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const { target } = useTour('reader', data !== null);
   const [sheet, setSheet] = useState<WordSheetState | null>(null);
   const [selected, setSelected] = useState<number | null>(null);
   const scrollRef = useRef<ScrollView>(null);
@@ -192,19 +194,21 @@ export default function ChapterReader() {
             {pages.length}
           </Text>
           <Animated.View key={current.id} entering={enter.up()}>
-            <PassageText
-              tokens={current.tokens}
-              selectedPosition={selected}
-              onWordPress={onWordPress}
-              readAlong={readAlongEnabled ? readAlong : null}
-              readColor={level.shade}
-              currentColor={level.soft}
-              onWordLongPress={
-                aligned
-                  ? (t) => t.startMs !== null && audioRef.current?.playFrom(t.startMs)
-                  : undefined
-              }
-            />
+            <View ref={target('text')} collapsable={false}>
+              <PassageText
+                tokens={current.tokens}
+                selectedPosition={selected}
+                onWordPress={onWordPress}
+                readAlong={readAlongEnabled ? readAlong : null}
+                readColor={level.shade}
+                currentColor={level.soft}
+                onWordLongPress={
+                  aligned
+                    ? (t) => t.startMs !== null && audioRef.current?.playFrom(t.startMs)
+                    : undefined
+                }
+              />
+            </View>
           </Animated.View>
           {aligned ? (
             <View style={styles.hint}>
@@ -225,15 +229,16 @@ export default function ChapterReader() {
         </ScrollView>
         {/* Floating over the text, so the voice-over can be paused at any scroll position. */}
         {current.audioUrl ? (
-          <PageAudio
-            key={`audio-${current.id}`}
-            uri={current.audioUrl}
-            color={level.solid}
-            shade={level.shade}
-            style={styles.audio}
-            onTime={aligned && readAlongEnabled ? onAudioTime : undefined}
-            ref={audioRef}
-          />
+          <View ref={target('audio')} collapsable={false} style={styles.audio}>
+            <PageAudio
+              key={`audio-${current.id}`}
+              uri={current.audioUrl}
+              color={level.solid}
+              shade={level.shade}
+              onTime={aligned && readAlongEnabled ? onAudioTime : undefined}
+              ref={audioRef}
+            />
+          </View>
         ) : null}
       </View>
 
@@ -250,7 +255,7 @@ export default function ChapterReader() {
             </Pressable>
           ) : null}
         </View>
-        <View style={styles.flex}>
+        <View ref={target('next')} collapsable={false} style={styles.flex}>
           {finishing ? (
             <ActivityIndicator color={colors.primary} />
           ) : isLast ? (

@@ -10,6 +10,7 @@ import { TableOfContents } from '@/components/TableOfContents';
 import { fetchStoryWithChapters } from '@/lib/api/content';
 import { fetchChapterProgress } from '@/lib/api/progress';
 import { LEVEL_NAMES, formatNumber, plural, readingMinutes } from '@/lib/labels';
+import { useTour } from '@/lib/tour';
 import type { ChapterProgress, ChapterSummary, StorySummary } from '@/lib/types';
 import {
   Badge,
@@ -31,6 +32,7 @@ export default function StoryScreen() {
   const [chapters, setChapters] = useState<ChapterSummary[]>([]);
   const [progress, setProgress] = useState(new Map<string, ChapterProgress>());
   const [error, setError] = useState<string | null>(null);
+  const { target } = useTour('story', story !== null);
 
   // Reload on focus: coming back from the reader updates the path.
   useFocusEffect(
@@ -85,53 +87,57 @@ export default function StoryScreen() {
 
       <ScrollView contentContainerStyle={styles.content}>
         <Animated.View entering={enter.up()}>
-          <Card tint={{ face: c.soft, edge: c.solid }} padding={spacing.lg}>
-            <View style={styles.hero}>
-              <StoryCover story={story} width={112} size="lg" />
-              <View style={styles.heroText}>
-                <Text variant="title">{story.title}</Text>
-                <View style={styles.metaColumn}>
-                  <View style={styles.meta}>
-                    <Icon icon={BookOpen} size={16} color={c.shade} />
-                    <Text variant="caption" color={colors.textSecondary} style={styles.shrink}>
-                      {formatNumber(story.word_count)} mots ·{' '}
-                      {plural(story.chapter_count, 'chapitre', 'chapitres')}
-                    </Text>
-                  </View>
-                  <View style={styles.meta}>
-                    <Icon icon={Clock} size={16} color={c.shade} />
-                    <Text variant="caption" color={colors.textSecondary} style={styles.shrink}>
-                      ≈ {readingMinutes(story.word_count)} min
-                    </Text>
+          <View ref={target('summary')} collapsable={false}>
+            <Card tint={{ face: c.soft, edge: c.solid }} padding={spacing.lg}>
+              <View style={styles.hero}>
+                <StoryCover story={story} width={112} size="lg" />
+                <View style={styles.heroText}>
+                  <Text variant="title">{story.title}</Text>
+                  <View style={styles.metaColumn}>
+                    <View style={styles.meta}>
+                      <Icon icon={BookOpen} size={16} color={c.shade} />
+                      <Text variant="caption" color={colors.textSecondary} style={styles.shrink}>
+                        {formatNumber(story.word_count)} mots ·{' '}
+                        {plural(story.chapter_count, 'chapitre', 'chapitres')}
+                      </Text>
+                    </View>
+                    <View style={styles.meta}>
+                      <Icon icon={Clock} size={16} color={c.shade} />
+                      <Text variant="caption" color={colors.textSecondary} style={styles.shrink}>
+                        ≈ {readingMinutes(story.word_count)} min
+                      </Text>
+                    </View>
                   </View>
                 </View>
               </View>
-            </View>
-            {story.summary ? (
-              <Text color={colors.textSecondary} style={styles.summary}>
-                {story.summary}
-              </Text>
-            ) : null}
-            <View style={styles.progressRow}>
-              <ProgressBar progress={fraction} color={c.solid} height={12} style={styles.flex} />
-              <Text variant="bodyBold" color={c.shade}>
-                {Math.round(fraction * 100)} %
-              </Text>
-            </View>
-          </Card>
+              {story.summary ? (
+                <Text color={colors.textSecondary} style={styles.summary}>
+                  {story.summary}
+                </Text>
+              ) : null}
+              <View style={styles.progressRow}>
+                <ProgressBar progress={fraction} color={c.solid} height={12} style={styles.flex} />
+                <Text variant="bodyBold" color={c.shade}>
+                  {Math.round(fraction * 100)} %
+                </Text>
+              </View>
+            </Card>
+          </View>
         </Animated.View>
 
-        <TableOfContents
-          level={story.level}
-          chapters={chapters}
-          progress={progress}
-          onOpen={(chapter) =>
-            router.push({
-              pathname: '/read/[chapterId]',
-              params: { chapterId: chapter.id, storyId: story.id },
-            })
-          }
-        />
+        <View ref={target('chapters')} collapsable={false}>
+          <TableOfContents
+            level={story.level}
+            chapters={chapters}
+            progress={progress}
+            onOpen={(chapter) =>
+              router.push({
+                pathname: '/read/[chapterId]',
+                params: { chapterId: chapter.id, storyId: story.id },
+              })
+            }
+          />
+        </View>
       </ScrollView>
     </SafeAreaView>
   );

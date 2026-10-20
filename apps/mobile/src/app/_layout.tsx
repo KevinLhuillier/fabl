@@ -7,6 +7,7 @@ import { GestureHandlerRootView } from 'react-native-gesture-handler';
 
 import { AuthProvider, useAuth } from '@/lib/auth';
 import { StatsProvider } from '@/lib/stats';
+import { TourProvider } from '@/lib/tour';
 import { colors, fontAssets } from '@/theme';
 
 SplashScreen.preventAutoHideAsync();
@@ -16,7 +17,9 @@ export default function RootLayout() {
     <GestureHandlerRootView style={{ flex: 1 }}>
       <AuthProvider>
         <StatsProvider>
-          <RootNavigator />
+          <TourProvider>
+            <RootNavigator />
+          </TourProvider>
         </StatsProvider>
       </AuthProvider>
     </GestureHandlerRootView>
