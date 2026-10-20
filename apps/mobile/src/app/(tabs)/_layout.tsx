@@ -1,11 +1,15 @@
 import { Tabs } from 'expo-router';
 import { CircleUserRound, LibraryBig, Map as MapIcon } from 'lucide-react-native';
+import { StyleSheet, View } from 'react-native';
 
 import { useI18n } from '@/i18n';
+import { useTourTarget } from '@/lib/tour';
 import { Icon, colors, fonts, haptics } from '@/theme';
 
 export default function TabsLayout() {
   const { t } = useI18n();
+  // The home tour points at the tab bar ("Mes mots", "Profil").
+  const target = useTourTarget('home');
   return (
     <Tabs
       screenListeners={{ tabPress: () => haptics.select() }}
@@ -15,6 +19,9 @@ export default function TabsLayout() {
         tabBarActiveTintColor: colors.primary,
         tabBarInactiveTintColor: colors.textMuted,
         tabBarLabelStyle: { fontFamily: fonts.extraBold, fontSize: 12 },
+        tabBarBackground: () => (
+          <View ref={target('tabs')} collapsable={false} style={styles.tabBar} />
+        ),
         tabBarStyle: {
           backgroundColor: colors.surface,
           borderTopWidth: 2,
@@ -47,3 +54,7 @@ export default function TabsLayout() {
     </Tabs>
   );
 }
+
+const styles = StyleSheet.create({
+  tabBar: { ...StyleSheet.absoluteFill, backgroundColor: colors.surface },
+});

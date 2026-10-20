@@ -181,9 +181,8 @@ export function TourProvider({ children }: { children: ReactNode }) {
  * (put it on a plain <View collapsable={false}>).
  */
 export function useTour(screen: TourScreen, ready = true) {
-  const ctx = useContext(TourContext);
-  if (!ctx) throw new Error('useTour must be used inside TourProvider');
-  const { targets, start, replay } = ctx;
+  const { start, replay } = useTourContext();
+  const target = useTourTarget(screen);
 
   useFocusEffect(
     useCallback(() => {
@@ -193,7 +192,16 @@ export function useTour(screen: TourScreen, ready = true) {
     }, [ready, screen, start]),
   );
 
-  const target = useCallback(
+  return { target, replay };
+}
+
+/**
+ * Registers elements of `screen`'s tour without running it, for elements
+ * outside the screen itself (e.g. the tab bar, drawn by the tabs layout).
+ */
+export function useTourTarget(screen: TourScreen) {
+  const { targets } = useTourContext();
+  return useCallback(
     (id: string) => (node: View | null) => {
       if (!node) return;
       const key = `${screen}.${id}`;
@@ -205,21 +213,25 @@ export function useTour(screen: TourScreen, ready = true) {
     },
     [screen, targets],
   );
+}
 
-  return { target, replay };
+function useTourContext() {
+  const ctx = useContext(TourContext);
+  if (!ctx) throw new Error('useTour must be used inside TourProvider');
+  return ctx;
 }
 
 const stepTexts = (t: Messages, screen: TourScreen, step: TourStep) =>
   (t.tour[screen] as Record<string, { title: string; text: string }>)[step.id];
 
-/** Part of `r` between the safe areas, or null when (almost) nothing is visible. */
+/**
+ * Part of `r` below the top safe area (content scrolls under the status bar),
+ * or null when (almost) nothing is visible. The bottom edge is kept: the tab
+ * bar reaches into the home indicator area.
+ */
 function visibleRect(r: Rect, screenHeight: number, insets: EdgeInsets): Rect | null {
   const top = Math.max(r.y, insets.top);
-  const bottom = Math.min(
-    r.y + r.height,
-    screenHeight - insets.bottom,
-    top + screenHeight * MAX_HOLE_RATIO,
-  );
+  const bottom = Math.min(r.y + r.height, screenHeight, top + screenHeight * MAX_HOLE_RATIO);
   if (bottom - top < 24) return null;
   return { x: r.x, y: top, width: r.width, height: bottom - top };
 }

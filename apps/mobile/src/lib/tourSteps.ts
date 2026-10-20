@@ -10,7 +10,7 @@ export type TourScreen = 'home' | 'story' | 'reader' | 'vocabulary' | 'profile';
 export type TourStep = { id: string; centered?: boolean };
 
 export const TOUR_STEPS: Record<TourScreen, TourStep[]> = {
-  home: [{ id: 'stats' }, { id: 'stories' }, { id: 'tabs', centered: true }],
+  home: [{ id: 'stats' }, { id: 'stories' }, { id: 'tabs' }],
   story: [{ id: 'summary' }, { id: 'chapters' }],
   reader: [{ id: 'text' }, { id: 'audio' }, { id: 'next' }],
   vocabulary: [{ id: 'review' }, { id: 'search' }],
