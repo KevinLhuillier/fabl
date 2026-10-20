@@ -36,6 +36,9 @@ export type Token = {
   text: string;
   whitespace: string;
   lemma: Lemma | null;
+  /** When the word is spoken in the page's voice-over (ms), if the page is aligned. */
+  startMs: number | null;
+  endMs: number | null;
 };
 
 /** A page of a chapter. */

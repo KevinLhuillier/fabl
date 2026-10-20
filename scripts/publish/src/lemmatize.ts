@@ -1,8 +1,8 @@
-import { spawn } from 'node:child_process';
 import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 
-import { pythonBin, REPO_ROOT } from './env.js';
+import { REPO_ROOT } from './env.js';
+import { runPythonScript } from './python.js';
 
 type SpacyToken = { text: string; ws: string; lemma: string; pos: string };
 
@@ -14,6 +14,9 @@ export type Token = {
   /** Whitespace after the token ('\n' between lines of a passage). */
   whitespace: string;
   lemma: LemmaKey | null;
+  /** When the word is read in the page's voice-over (from content/alignments). */
+  startMs?: number;
+  endMs?: number;
 };
 
 export const lemmaKeyId = (l: LemmaKey) => `${l.word}|${l.pos}`;
@@ -26,7 +29,7 @@ const HAS_LETTER = /\p{L}/u;
  */
 export async function lemmatizePassages(passages: string[][]): Promise<Token[][]> {
   const lines = passages.flat();
-  const output = await runPython(lines);
+  const output = await runPythonScript<SpacyToken[][]>('lemmatize.py', lines);
 
   let cursor = 0;
   return passages.map((passageLines) => {
@@ -80,29 +83,4 @@ function lemmaFixes(): Map<string, LemmaKey> {
     : [];
   fixes = new Map(list.map((f) => [`${f.text}|${f.pos}`, { word: f.word, pos: f.lemmaPos }]));
   return fixes;
-}
-
-function runPython(lines: string[]): Promise<SpacyToken[][]> {
-  const script = path.join(REPO_ROOT, 'scripts/publish/lemmatize.py');
-  return new Promise((resolve, reject) => {
-    const child = spawn(pythonBin(), [script], {
-      env: { ...process.env, PYTHONIOENCODING: 'utf-8' },
-    });
-    let stdout = '';
-    let stderr = '';
-    child.stdout.setEncoding('utf8').on('data', (d: string) => (stdout += d));
-    child.stderr.setEncoding('utf8').on('data', (d: string) => (stderr += d));
-    child.on('error', (e) =>
-      reject(new Error(`Cannot start Python (${pythonBin()}): ${e.message}. Check PYTHON_BIN.`)),
-    );
-    child.on('close', (code) => {
-      if (code !== 0) return reject(new Error(`lemmatize.py failed (exit ${code}):\n${stderr}`));
-      try {
-        resolve(JSON.parse(stdout) as SpacyToken[][]);
-      } catch {
-        reject(new Error(`lemmatize.py returned invalid JSON:\n${stdout.slice(0, 500)}`));
-      }
-    });
-    child.stdin.end(JSON.stringify(lines), 'utf8');
-  });
 }

@@ -13,6 +13,7 @@ apps/mobile         Expo app (TypeScript, expo-router)
 apps/admin          Local web admin to write and publish stories (Vite + React, Hono API)
 content/stories     Stories in Markdown (.md)
 content/translations Translations per language (fr.json)
+content/alignments  Text ↔ voice-over timings per story (align-audio)
 scripts/publish     Publishing pipeline (Markdown → Supabase)
 supabase/migrations SQL schema
 ```
@@ -44,7 +45,9 @@ turn this off in **Authentication → Providers → Email → Confirm email**.
   chapter can be read again.
 - **Reader**: one chapter, page by page, with a "Continue" button (stories are linear, no
   choices). Tap any word to see its translation in a bottom sheet; the word is added to
-  "Mes mots" (once). The current page is saved and resumed on reopen.
+  "Mes mots" (once). The current page is saved and resumed on reopen. A page with a voice-over
+  has a round play button (bottom right); once the page is aligned, the words light up as they
+  are read and a long press on a word plays from there.
 - **Mes mots**: every word looked up, with translation, context sentence and story, searchable,
   removable (trash icon), with the number of words due today. Practice is possible at any time.
 - **Review**: due words (spaced repetition, simplified SM-2 — `src/lib/srs.ts`) as multiple-choice
@@ -213,6 +216,22 @@ Then Mia sees her neighbour, Mr Green.
 
 `word` + `pos` must match the lemma printed by the publish script.
 
+### Read-along (voice-over alignment)
+
+After adding a voice-over to a page, align it with the text so the reader can highlight the
+words as they are spoken, then publish:
+
+```bash
+npm run align-audio -- content/stories/c1-my-story.md                          # every page with @audio
+npm run align-audio -- content/stories/c1-my-story.md --page chapter_1.page_1  # one page
+```
+
+Whisper (faster-whisper, `small.en`, run locally; ~500 MB downloaded on first use) transcribes the
+recording with a timestamp per word, matched to the page's words. Timings are saved in
+`content/alignments/<slug>.json` (commit it) and sent with the tokens on publish. Pages already
+aligned are skipped (`--force` to redo). If the page text or its audio changes, the alignment is
+ignored with a warning until `align-audio` runs again.
+
 ### Lemma fixes
 
 spaCy sometimes gets a base form wrong ("soles" → _sol_, "stared" → _star_). Correct it in
@@ -225,13 +244,14 @@ right lemma. Then republish the affected stories and translate the new lemma.
 
 ## Scripts
 
-| Command                              | What it does                                |
-| ------------------------------------ | ------------------------------------------- |
-| `npm run mobile`                     | Start the Expo dev server                   |
-| `npm run admin`                      | Start the web admin (localhost:5180)        |
-| `npm run grant-admin -- <email>`     | Give admin access (`--revoke` to remove)    |
-| `npm run publish-story -- <file.md>` | Publish a story (`--dry-run` to check only) |
-| `npm run seed-translations`          | Import `content/translations/fr.json`       |
-| `npm run lint`                       | ESLint + Prettier on all packages           |
-| `npm run typecheck`                  | TypeScript on all packages                  |
-| `npm run format`                     | Format the whole repo                       |
+| Command                              | What it does                                 |
+| ------------------------------------ | -------------------------------------------- |
+| `npm run mobile`                     | Start the Expo dev server                    |
+| `npm run admin`                      | Start the web admin (localhost:5180)         |
+| `npm run grant-admin -- <email>`     | Give admin access (`--revoke` to remove)     |
+| `npm run publish-story -- <file.md>` | Publish a story (`--dry-run` to check only)  |
+| `npm run align-audio -- <file.md>`   | Align voice-overs with the text (read-along) |
+| `npm run seed-translations`          | Import `content/translations/fr.json`        |
+| `npm run lint`                       | ESLint + Prettier on all packages            |
+| `npm run typecheck`                  | TypeScript on all packages                   |
+| `npm run format`                     | Format the whole repo                        |

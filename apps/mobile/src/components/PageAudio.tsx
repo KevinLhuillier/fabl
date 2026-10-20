@@ -1,6 +1,6 @@
 import { setAudioModeAsync, useAudioPlayer, useAudioPlayerStatus } from 'expo-audio';
 import { Pause, Play, RotateCcw } from 'lucide-react-native';
-import { useEffect } from 'react';
+import { useEffect, useImperativeHandle, type Ref } from 'react';
 import { ActivityIndicator, Pressable, StyleSheet, View, type ViewStyle } from 'react-native';
 import Svg, { Circle } from 'react-native-svg';
 
@@ -14,6 +14,9 @@ function ensureAudioMode() {
   setAudioModeAsync({ playsInSilentMode: true }).catch((e) => console.warn('setAudioMode', e));
 }
 
+/** Lets the reader start the voice-over from a word. */
+export type PageAudioHandle = { playFrom: (ms: number) => void };
+
 /** Outer size of the player; the button sits inside the progress ring. */
 export const PAGE_AUDIO_SIZE = 64;
 const RING = 4;
@@ -25,24 +28,48 @@ const BUTTON = PAGE_AUDIO_SIZE - RING * 2 - 4;
  * Compact player for a page's recorded voice-over: one round button (play / pause /
  * replay) circled by the playback progress. Mount it with `key={page.id}`: each
  * page gets its own player, released (and silenced) when the page changes.
+ *
+ * `onTime` reports the playback position (ms) for the read-along highlighting,
+ * or null before the first play and once the recording has ended.
  */
 export function PageAudio({
   uri,
   color,
   shade,
   style,
+  onTime,
+  ref,
 }: {
   uri: string;
   color: string;
   shade: string;
   style?: ViewStyle;
+  onTime?: (ms: number | null) => void;
+  ref?: Ref<PageAudioHandle>;
 }) {
-  const player = useAudioPlayer(uri);
+  // Frequent updates so the highlighted word keeps up with the voice.
+  const player = useAudioPlayer(uri, { updateInterval: 100 });
   const status = useAudioPlayerStatus(player);
   const ended = status.duration > 0 && status.currentTime >= status.duration - 0.25;
   const progress = status.duration ? Math.min(1, status.currentTime / status.duration) : 0;
+  const started = status.playing || status.currentTime > 0;
 
   useEffect(ensureAudioMode, []);
+
+  useEffect(() => {
+    onTime?.(started && !ended ? status.currentTime * 1000 : null);
+  }, [onTime, started, ended, status.currentTime]);
+
+  useImperativeHandle(
+    ref,
+    () => ({
+      playFrom: (ms: number) => {
+        void player.seekTo(ms / 1000);
+        player.play();
+      },
+    }),
+    [player],
+  );
 
   function toggle() {
     haptics.tap();

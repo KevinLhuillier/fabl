@@ -157,6 +157,8 @@ export async function publishStory(
       text: t.text,
       whitespace: t.whitespace,
       lemma_id: t.lemma ? lemmaIds.get(lemmaKeyId(t.lemma))! : null,
+      start_ms: t.startMs ?? null,
+      end_ms: t.endMs ?? null,
     })),
   );
   for (const batch of chunks(tokenRows)) {

@@ -52,7 +52,14 @@ type RawLemma = {
   pos: string;
   translations: { translation: string; example: string | null }[];
 };
-type RawToken = { position: number; text: string; whitespace: string; lemmas: RawLemma | null };
+type RawToken = {
+  position: number;
+  text: string;
+  whitespace: string;
+  start_ms: number | null;
+  end_ms: number | null;
+  lemmas: RawLemma | null;
+};
 type RawPage = { id: string; page_index: number; audio_url: string | null; tokens: RawToken[] };
 
 /**
@@ -65,7 +72,7 @@ export async function fetchChapterPages(chapterId: string): Promise<Page[]> {
       .from('chapters')
       .select(
         `id, passages(id, page_index, audio_url,
-           tokens(position, text, whitespace,
+           tokens(position, text, whitespace, start_ms, end_ms,
              lemmas(id, word, pos, translations(translation, example))))`,
       )
       .eq('id', chapterId)
@@ -85,6 +92,8 @@ export async function fetchChapterPages(chapterId: string): Promise<Page[]> {
           position: t.position,
           text: t.text,
           whitespace: t.whitespace,
+          startMs: t.start_ms,
+          endMs: t.end_ms,
           lemma: t.lemmas ? toLemma(t.lemmas) : null,
         })),
     }));

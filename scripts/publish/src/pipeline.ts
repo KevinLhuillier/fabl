@@ -2,8 +2,11 @@
  * Publishing steps shared by the CLI (publish.ts) and the admin web app:
  * parse + lemmatize a story file, then write it to Supabase.
  */
+import path from 'node:path';
+
 import type { SupabaseClient } from '@supabase/supabase-js';
 
+import { applyAlignments } from './alignments.js';
 import { lemmasWithoutTranslation, publishStory, wordCount } from './db.js';
 import { lemmaKeyId, lemmatizePassages, type LemmaKey, type Token } from './lemmatize.js';
 import { parseStory, type ParsedStory } from './story.js';
@@ -25,6 +28,7 @@ export async function analyzeStory(source: string, fileName: string): Promise<St
   const pages = story.chapters.flatMap((c) => c.pages);
   const tokenLists = await lemmatizePassages(pages.map((p) => p.lines));
   const tokensByPage = new Map<string, Token[]>(pages.map((p, i) => [p.key, tokenLists[i]!]));
+  applyAlignments(path.basename(fileName, path.extname(fileName)), story, tokensByPage);
   const countPages = (keys: string[]) =>
     keys.reduce((n, k) => n + wordCount(tokensByPage.get(k)!), 0);
 

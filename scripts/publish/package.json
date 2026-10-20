@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "publish-story": "tsx src/publish.ts",
+    "align-audio": "tsx src/align.ts",
     "seed-translations": "tsx src/seedTranslations.ts",
     "typecheck": "tsc --noEmit"
   },

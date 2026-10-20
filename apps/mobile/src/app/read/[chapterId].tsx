@@ -1,12 +1,12 @@
 import { router, useLocalSearchParams } from 'expo-router';
 import { ChevronLeft, ChevronRight, Lightbulb, X } from 'lucide-react-native';
-import { useEffect, useRef, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import { ActivityIndicator, Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
-import { PAGE_AUDIO_SIZE, PageAudio } from '@/components/PageAudio';
-import { PassageText, sentenceAround } from '@/components/PassageText';
+import { PAGE_AUDIO_SIZE, PageAudio, type PageAudioHandle } from '@/components/PageAudio';
+import { PassageText, sentenceAround, type ReadAlong } from '@/components/PassageText';
 import { WordSheet, type WordSheetState } from '@/components/WordSheet';
 import { fetchChapterPages, fetchStoryWithChapters } from '@/lib/api/content';
 import {
@@ -43,6 +43,20 @@ export default function ChapterReader() {
   const [sheet, setSheet] = useState<WordSheetState | null>(null);
   const [selected, setSelected] = useState<number | null>(null);
   const scrollRef = useRef<ScrollView>(null);
+  const audioRef = useRef<PageAudioHandle>(null);
+  // Read-along: which words the voice-over has reached (null when not playing).
+  const [readAlong, setReadAlong] = useState<ReadAlong | null>(null);
+  const timedRef = useRef<Token[]>([]);
+  const onAudioTime = useCallback((ms: number | null) => {
+    const next = ms === null ? null : locate(timedRef.current, ms);
+    // Re-render the text only when the highlighted word changes, not on every tick.
+    setReadAlong((prev) =>
+      prev?.readUpTo === next?.readUpTo && prev?.current === next?.current ? prev : next,
+    );
+  }, []);
+  useEffect(() => {
+    timedRef.current = data?.pages[page]?.tokens.filter((t) => t.startMs !== null) ?? [];
+  }, [data, page]);
 
   useEffect(() => {
     let cancelled = false;
@@ -91,10 +105,12 @@ export default function ChapterReader() {
   const current = pages[page]!;
   const isLast = page >= pages.length - 1;
   const level = levelColors[story.level];
+  const aligned = !!current.audioUrl && current.tokens.some((t) => t.startMs !== null);
 
   function goTo(target: number) {
     setPage(target);
     setSelected(null);
+    setReadAlong(null);
     // Long pages: always start reading the target one from the top.
     scrollRef.current?.scrollTo({ y: 0, animated: false });
     saveChapterPage(chapterId, target).catch((e) => console.warn('saveChapterPage', e));
@@ -179,8 +195,24 @@ export default function ChapterReader() {
               tokens={current.tokens}
               selectedPosition={selected}
               onWordPress={onWordPress}
+              readAlong={readAlong}
+              readColor={level.shade}
+              currentColor={level.soft}
+              onWordLongPress={
+                aligned
+                  ? (t) => t.startMs !== null && audioRef.current?.playFrom(t.startMs)
+                  : undefined
+              }
             />
           </Animated.View>
+          {aligned ? (
+            <View style={styles.hint}>
+              <Icon icon={Lightbulb} size={16} color={colors.textMuted} />
+              <Text variant="caption" color={colors.textMuted}>
+                Appui long sur un mot pour écouter à partir de là
+              </Text>
+            </View>
+          ) : null}
           {chapter.position === 0 && page === 0 ? (
             <Animated.View entering={enter.fade(600)} style={styles.hint}>
               <Icon icon={Lightbulb} size={16} color={colors.textMuted} />
@@ -198,6 +230,8 @@ export default function ChapterReader() {
             color={level.solid}
             shade={level.shade}
             style={styles.audio}
+            onTime={aligned ? onAudioTime : undefined}
+            ref={audioRef}
           />
         ) : null}
       </View>
@@ -250,6 +284,19 @@ export default function ChapterReader() {
       />
     </SafeAreaView>
   );
+}
+
+/** Last timed word reached at `ms`, and whether it is being spoken right now. */
+function locate(timed: Token[], ms: number): ReadAlong {
+  let last: Token | null = null;
+  for (const t of timed) {
+    if (t.startMs! > ms) break;
+    last = t;
+  }
+  return {
+    readUpTo: last?.position ?? -1,
+    current: last && ms <= last.endMs! ? last.position : null,
+  };
 }
 
 const styles = StyleSheet.create({
