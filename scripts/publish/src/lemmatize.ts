@@ -1,4 +1,5 @@
 import { spawn } from 'node:child_process';
+import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 
 import { pythonBin, REPO_ROOT } from './env.js';
@@ -56,9 +57,29 @@ export async function lemmatizePassages(passages: string[][]): Promise<Token[][]
 function toLemma(t: SpacyToken): LemmaKey | null {
   if (!HAS_LETTER.test(t.text) || t.pos === 'PUNCT' || t.pos === 'SPACE') return null;
   const pos = t.pos === 'AUX' ? 'VERB' : t.pos;
+  const fix = lemmaFixes().get(`${t.text}|${pos}`);
+  if (fix) return fix;
   const raw = t.lemma.trim() || t.text;
   const word = pos === 'PROPN' || raw === 'I' ? raw : raw.toLowerCase();
   return { word, pos };
+}
+
+type LemmaFix = { text: string; pos: string; word: string; lemmaPos: string };
+
+let fixes: Map<string, LemmaKey> | null = null;
+
+/**
+ * Corrections for spaCy's mistakes ("soles" → sol instead of sole), from
+ * content/lemma-fixes.json: exact token text + spaCy POS (AUX already as VERB).
+ */
+function lemmaFixes(): Map<string, LemmaKey> {
+  if (fixes) return fixes;
+  const file = path.join(REPO_ROOT, 'content/lemma-fixes.json');
+  const list = existsSync(file)
+    ? (JSON.parse(readFileSync(file, 'utf8')) as { fixes: LemmaFix[] }).fixes
+    : [];
+  fixes = new Map(list.map((f) => [`${f.text}|${f.pos}`, { word: f.word, pos: f.lemmaPos }]));
+  return fixes;
 }
 
 function runPython(lines: string[]): Promise<SpacyToken[][]> {

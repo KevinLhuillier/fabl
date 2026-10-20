@@ -68,9 +68,9 @@
       "example": "My master did not fall by accident, Your Majesty."
     },
     {
-      "word": "accord",
-      "pos": "VERB",
-      "translation": "selon (dans « according to »)",
+      "word": "according",
+      "pos": "ADP",
+      "translation": "selon (« according to »)",
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
     },
     {
@@ -500,12 +500,6 @@
       "example": "In the confusion, the villagers attacked with pitchforks, clubs and axes."
     },
     {
-      "word": "axis",
-      "pos": "NOUN",
-      "translation": "les haches (pluriel de « axe » ici)",
-      "example": "In the confusion, the villagers attacked with pitchforks, clubs and axes."
-    },
-    {
       "word": "babyish",
       "pos": "ADJ",
       "translation": "puéril, de bébé",
@@ -620,12 +614,6 @@
       "example": "He sleeps on her bed. — Il dort sur son lit."
     },
     {
-      "word": "Bed",
-      "pos": "PROPN",
-      "translation": "au lit ! (« bed » : le lit)",
-      "example": "\"Bed,\" Bram said quietly."
-    },
-    {
       "word": "before",
       "pos": "ADP",
       "translation": "avant, devant",
@@ -662,7 +650,7 @@
       "example": "Sir Godfrey fastened a pair of golden spurs to Edwin's boots, a gift that had once belonged to Godfrey's own master."
     },
     {
-      "word": "belonging",
+      "word": "belongings",
       "pos": "NOUN",
       "translation": "les affaires, les biens",
       "example": "When Edwin arrived at Little Fenwick, the villagers were already packing their belongings, ready to flee into the forest."
@@ -735,7 +723,7 @@
     },
     {
       "word": "blacksmith",
-      "pos": "PROPN",
+      "pos": "NOUN",
       "translation": "le forgeron",
       "example": "Across the square, the blacksmith's son, Edric Vane, was entertaining a half-circle of younger children by snapping his fingers and conjuring a spark — just one, bright and brief as a firefly."
     },
@@ -876,12 +864,6 @@
       "pos": "NOUN",
       "translation": "le petit-déjeuner",
       "example": "After breakfast, Sir Godfrey called him to the courtyard for sword practice."
-    },
-    {
-      "word": "breathe",
-      "pos": "NOUN",
-      "translation": "respirer",
-      "example": "Up in the loft, Rowan lay awake until dawn, staring at the dark beams above him and listening to the forest breathe."
     },
     {
       "word": "breathe",
@@ -1167,12 +1149,6 @@
     },
     {
       "word": "change",
-      "pos": "NOUN",
-      "translation": "changer (ici verbe : « his eyes change »)",
-      "example": "His shoulders move, his eyes change, his feet prepare."
-    },
-    {
-      "word": "change",
       "pos": "VERB",
       "translation": "changer (« change the subject » : changer de sujet)",
       "example": "They said it the way people mention a ghost — quickly, and then they changed the subject."
@@ -1316,9 +1292,9 @@
       "example": "The school is closed. — L'école est fermée."
     },
     {
-      "word": "clothe",
+      "word": "clothes",
       "pos": "NOUN",
-      "translation": "les vêtements (« clothes »)",
+      "translation": "les vêtements",
       "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
     },
     {
@@ -1641,14 +1617,8 @@
     },
     {
       "word": "cut",
-      "pos": "NOUN",
-      "translation": "coupé (ici adjectif : « the cut strap »)",
-      "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
-    },
-    {
-      "word": "cut",
       "pos": "VERB",
-      "translation": "couper",
+      "translation": "couper (« cut » au passé et participe : coupé)",
       "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
     },
     {
@@ -1938,12 +1908,6 @@
       "pos": "NOUN",
       "translation": "l'aigle",
       "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
-    },
-    {
-      "word": "earth",
-      "pos": "NOUN",
-      "translation": "la terre",
-      "example": "\"Earth for me."
     },
     {
       "word": "Earth",
@@ -2319,7 +2283,7 @@
     },
     {
       "word": "fencepost",
-      "pos": "ADV",
+      "pos": "NOUN",
       "translation": "le poteau de clôture",
       "example": "Ten paces behind him, Uncle Bram lowered his axe, wiped his brow with a forearm as thick as a fencepost, and waited."
     },
@@ -2337,7 +2301,7 @@
     },
     {
       "word": "fern",
-      "pos": "ADJ",
+      "pos": "NOUN",
       "translation": "la fougère",
       "example": "Instead, the shaving curled upward, slowly, the way a fern unfurls in spring, and wound itself once, lightly, around the tip of his finger."
     },
@@ -2589,12 +2553,6 @@
     },
     {
       "word": "forget",
-      "pos": "NOUN",
-      "translation": "oublier (ici verbe : « forgets »)",
-      "example": "A clumsy squire forgets to check his master's saddle, and now he invents a conspiracy to protect himself."
-    },
-    {
-      "word": "forget",
       "pos": "VERB",
       "translation": "oublier",
       "example": "Edwin had never forgotten those words."
@@ -2696,9 +2654,9 @@
       "example": "He was a boy, younger than Edwin, with a bleeding arm and eyes full of fear."
     },
     {
-      "word": "furth",
-      "pos": "ADJ",
-      "translation": "plus loin (« further »)",
+      "word": "further",
+      "pos": "ADV",
+      "translation": "plus loin ; davantage",
       "example": "He had never been further than the nearest market town."
     },
     {
@@ -3004,7 +2962,7 @@
     {
       "word": "he",
       "pos": "PRON",
-      "translation": "il",
+      "translation": "il (« him » : le, lui)",
       "example": "He is small. — Il est petit."
     },
     {
@@ -3130,7 +3088,7 @@
     {
       "word": "hire",
       "pos": "VERB",
-      "translation": "louer (« hired » : de location)",
+      "translation": "louer, engager (« hired » : de location)",
       "example": "Two days later, as Godfrey and Edwin began the slow journey home in a hired cart, they met a group of terrified travellers coming from the south."
     },
     {
@@ -3286,14 +3244,8 @@
     {
       "word": "I",
       "pos": "PRON",
-      "translation": "je",
+      "translation": "je, moi (« me » : me, moi)",
       "example": "I have a cat. — J'ai un chat."
-    },
-    {
-      "word": "i.",
-      "pos": "NOUN",
-      "translation": "je, moi (« you or I » : toi ou moi)",
-      "example": "It's been that way since long before you or I.\""
     },
     {
       "word": "if",
@@ -3518,18 +3470,6 @@
       "example": "Edwin knelt in front of the altar, wearing a simple white tunic, his sword lying on the cold stone in front of him."
     },
     {
-      "word": "kneeling",
-      "pos": "NOUN",
-      "translation": "agenouillé",
-      "example": "A week later, Edwin stood once again in front of the king, this time with Sir Godfrey sitting beside him on a wooden chair, and the young bandit kneeling at his side."
-    },
-    {
-      "word": "knelt",
-      "pos": "NOUN",
-      "translation": "s'agenouilla (passé de « kneel »)",
-      "example": "Edwin knelt before the throne."
-    },
-    {
       "word": "knife",
       "pos": "NOUN",
       "translation": "le couteau",
@@ -3742,7 +3682,7 @@
     {
       "word": "lie",
       "pos": "VERB",
-      "translation": "être étendu, gésir",
+      "translation": "être allongé, se trouver (« lay » au passé)",
       "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
     },
     {
@@ -3864,12 +3804,6 @@
       "pos": "NOUN",
       "translation": "le seigneur",
       "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
-    },
-    {
-      "word": "lord",
-      "pos": "PROPN",
-      "translation": "le seigneur",
-      "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
     },
     {
       "word": "lose",
@@ -4173,14 +4107,8 @@
     },
     {
       "word": "moss",
-      "pos": "ADJ",
-      "translation": "la mousse (« moss-green » : vert mousse)",
-      "example": "The village sat where the forest thinned beside a slow brown river: a huddle of timber houses with roofs of moss-green thatch, a mill, a forge, and a market square that was crowded twice a week and deserted the rest of the time."
-    },
-    {
-      "word": "moss",
-      "pos": "PROPN",
-      "translation": "la mousse (végétal)",
+      "pos": "NOUN",
+      "translation": "la mousse (végétal) ; « moss-green » : vert mousse",
       "example": "People in the village said he had his mother's eyes, grey-green like moss after rain."
     },
     {
@@ -4431,7 +4359,7 @@
     },
     {
       "word": "none",
-      "pos": "NOUN",
+      "pos": "PRON",
       "translation": "aucun(e)",
       "example": "Peering through a gap between the loft boards, Rowan could make out none of the words, only their shape: a quick, slanting hand, nothing like his uncle's laborious capitals."
     },
@@ -4527,7 +4455,7 @@
     },
     {
       "word": "oilcloth",
-      "pos": "ADJ",
+      "pos": "NOUN",
       "translation": "la toile cirée",
       "example": "Bram lifted something from the hollow beneath it: a bundle wrapped in oilcloth and tied with twine."
     },
@@ -4605,7 +4533,7 @@
     },
     {
       "word": "orange",
-      "pos": "PROPN",
+      "pos": "ADJ",
       "translation": "orange (couleur)",
       "example": "He was staring — not at Rowan, but at the fire, at the spot where the shaving had burned — and his face in the orange light wore an expression Rowan had never seen there before."
     },
@@ -4806,12 +4734,6 @@
       "pos": "NOUN",
       "translation": "le chemin, le passage",
       "example": "Tamsin Reed came through the crowd at a speed that cleared a path ahead of her."
-    },
-    {
-      "word": "patience",
-      "pos": "NOUN",
-      "translation": "la patience",
-      "example": "Patience, for once, did not argue either."
     },
     {
       "word": "Patience",
@@ -5145,15 +5067,15 @@
     },
     {
       "word": "rasp",
+      "pos": "NOUN",
+      "translation": "le raclement, le crissement",
+      "example": "Rasp."
+    },
+    {
+      "word": "rasp",
       "pos": "VERB",
       "translation": "racler, crisser",
       "example": "Across from him, Bram sharpened the axe he had already sharpened that morning, the whetstone rasping in long, slow strokes."
-    },
-    {
-      "word": "Rasp",
-      "pos": "PROPN",
-      "translation": "« rasp » : raclement, crissement (bruit de la pierre à aiguiser)",
-      "example": "Rasp."
     },
     {
       "word": "read",
@@ -5208,12 +5130,6 @@
       "pos": "ADJ",
       "translation": "rouge",
       "example": "A big red bus. — Un grand bus rouge."
-    },
-    {
-      "word": "red",
-      "pos": "NOUN",
-      "translation": "rouge",
-      "example": "Below, the fire had sunk to a sullen red glow, and by its light he could make out the bulk of his uncle kneeling on the floor."
     },
     {
       "word": "Reed",
@@ -5348,9 +5264,9 @@
       "example": "Someone rich is paying them."
     },
     {
-      "word": "rid",
+      "word": "ride",
       "pos": "VERB",
-      "translation": "monter à cheval (« riding »)",
+      "translation": "monter (à cheval), chevaucher",
       "example": "Three days later, a messenger arrived at the gates, covered in mud and exhausted from riding through the night."
     },
     {
@@ -5853,7 +5769,7 @@
     },
     {
       "word": "silvery",
-      "pos": "NOUN",
+      "pos": "ADJ",
       "translation": "argenté",
       "example": "Inside lay a folded letter, its paper yellowed with age, and pressed flat between its pages was a single leaf — not oak, not ash, not any tree Rowan knew, but long and silvery and veined with the faintest trace of gold."
     },
@@ -5895,8 +5811,8 @@
     },
     {
       "word": "sir",
-      "pos": "PROPN",
-      "translation": "monsieur, messire",
+      "pos": "NOUN",
+      "translation": "monsieur, messire (pour s'adresser à un chevalier, un supérieur)",
       "example": "\"Then how am I supposed to win, sir?\""
     },
     {
@@ -6032,16 +5948,16 @@
       "example": "The stone slid back into place with a soft, final scrape."
     },
     {
-      "word": "sol",
-      "pos": "NOUN",
-      "translation": "la semelle (« soles »)",
-      "example": "Rowan Ashby felt it before he heard it: a faint shudder through the soles of his boots, the kind of tremor that runs ahead of a fall the way a rumour runs ahead of a storm."
-    },
-    {
       "word": "soldier",
       "pos": "NOUN",
       "translation": "le soldat",
       "example": "Several farms have been burned, and the king's soldiers have failed to catch the men responsible."
+    },
+    {
+      "word": "sole",
+      "pos": "NOUN",
+      "translation": "la semelle ; la plante (du pied)",
+      "example": "Rowan Ashby felt it before he heard it: a faint shudder through the soles of his boots, the kind of tremor that runs ahead of a fall the way a rumour runs ahead of a storm."
     },
     {
       "word": "some",
@@ -6212,9 +6128,9 @@
       "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
     },
     {
-      "word": "star",
+      "word": "stare",
       "pos": "VERB",
-      "translation": "fixer du regard (« stared »)",
+      "translation": "fixer du regard, dévisager",
       "example": "Godfrey stopped his horse and stared at the ruins for a long time."
     },
     {
@@ -6261,15 +6177,15 @@
     },
     {
       "word": "still",
+      "pos": "ADJ",
+      "translation": "calme, immobile (« the stillest of days » : le jour le plus calme)",
+      "example": "She was a head shorter than him, freckled, and permanently windswept, as though she had just come in from a gale even on the stillest of days."
+    },
+    {
+      "word": "still",
       "pos": "ADV",
       "translation": "encore, toujours",
       "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
-    },
-    {
-      "word": "stillest",
-      "pos": "NOUN",
-      "translation": "le plus calme (« the stillest of days » : le jour le plus calme)",
-      "example": "She was a head shorter than him, freckled, and permanently windswept, as though she had just come in from a gale even on the stillest of days."
     },
     {
       "word": "stone",
@@ -6489,7 +6405,7 @@
     },
     {
       "word": "talkative",
-      "pos": "VERB",
+      "pos": "ADJ",
       "translation": "bavard",
       "example": "That in itself was not unusual; he could go a full day on a dozen words and consider himself talkative."
     },
@@ -6500,21 +6416,15 @@
       "example": "He is very tall. — Il est très grand."
     },
     {
-      "word": "tamsin",
-      "pos": "NOUN",
-      "translation": "Tamsin (prénom)",
-      "example": "\"Tamsin reckons she'll be Earth."
-    },
-    {
       "word": "Tamsin",
       "pos": "PROPN",
       "translation": "Tamsin (prénom)",
       "example": "Rowan had stopped doing so at ten, mostly because Tamsin had told him it was babyish — and had then carried on doing it in secret for another two years."
     },
     {
-      "word": "taxis",
+      "word": "tax",
       "pos": "NOUN",
-      "translation": "les impôts (pluriel de « tax » ici)",
+      "translation": "l'impôt, la taxe",
       "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
     },
     {
@@ -6652,7 +6562,7 @@
     {
       "word": "they",
       "pos": "PRON",
-      "translation": "ils, elles",
+      "translation": "ils, elles (« them » : les, leur, eux)",
       "example": "They practised until noon."
     },
     {
@@ -6826,7 +6736,7 @@
     {
       "word": "tinker",
       "pos": "NOUN",
-      "translation": "le rétameur ambulant, le romanichel",
+      "translation": "le rétameur ambulant, le colporteur",
       "example": "\"Tinkers tell stories."
     },
     {
@@ -7016,12 +6926,6 @@
       "example": "Sir Godfrey read it twice before he spoke."
     },
     {
-      "word": "twice",
-      "pos": "DET",
-      "translation": "deux fois",
-      "example": "The village sat where the forest thinned beside a slow brown river: a huddle of timber houses with roofs of moss-green thatch, a mill, a forge, and a market square that was crowded twice a week and deserted the rest of the time."
-    },
-    {
       "word": "twine",
       "pos": "NOUN",
       "translation": "la ficelle",
@@ -7070,9 +6974,9 @@
       "example": "Bram unfolded the letter and read it."
     },
     {
-      "word": "unfurls",
-      "pos": "NOUN",
-      "translation": "se déployer, se dérouler (« unfurls »)",
+      "word": "unfurl",
+      "pos": "VERB",
+      "translation": "se déployer, se dérouler",
       "example": "Instead, the shaving curled upward, slowly, the way a fern unfurls in spring, and wound itself once, lightly, around the tip of his finger."
     },
     {
@@ -7280,12 +7184,6 @@
       "example": "Watch your opponent."
     },
     {
-      "word": "Watch",
-      "pos": "PROPN",
-      "translation": "regarder, observer (ici verbe : « Watch »)",
-      "example": "Watch, wait and be patient."
-    },
-    {
       "word": "watchful",
       "pos": "ADJ",
       "translation": "vigilant, aux aguets",
@@ -7318,7 +7216,7 @@
     {
       "word": "we",
       "pos": "PRON",
-      "translation": "nous",
+      "translation": "nous (« us » : nous)",
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
     },
     {
@@ -7368,12 +7266,6 @@
       "pos": "ADV",
       "translation": "bien",
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
-    },
-    {
-      "word": "well",
-      "pos": "INTJ",
-      "translation": "eh bien ; (ici « the Well » : le Puits, source de magie intérieure)",
-      "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
     },
     {
       "word": "well",
@@ -7532,6 +7424,12 @@
       "example": "His Majesty is holding a great tournament at Winchester at the end of the month."
     },
     {
+      "word": "wind",
+      "pos": "VERB",
+      "translation": "enrouler, (s')enrouler (passé : « wound »)",
+      "example": "Instead, the shaving curled upward, slowly, the way a fern unfurls in spring, and wound itself once, lightly, around the tip of his finger."
+    },
+    {
       "word": "window",
       "pos": "NOUN",
       "translation": "la fenêtre",
@@ -7644,12 +7542,6 @@
       "pos": "VERB",
       "translation": "auxiliaire du conditionnel (« would » : -rait)",
       "example": "Sir Godfrey never complained, so Edwin decided that he would not complain either."
-    },
-    {
-      "word": "wound",
-      "pos": "VERB",
-      "translation": "enrouler (« wound » : passé de « wind »)",
-      "example": "Instead, the shaving curled upward, slowly, the way a fern unfurls in spring, and wound itself once, lightly, around the tip of his finger."
     },
     {
       "word": "wrap",

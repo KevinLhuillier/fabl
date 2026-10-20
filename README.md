@@ -213,6 +213,16 @@ Then Mia sees her neighbour, Mr Green.
 
 `word` + `pos` must match the lemma printed by the publish script.
 
+### Lemma fixes
+
+spaCy sometimes gets a base form wrong ("soles" → _sol_, "stared" → _star_). Correct it in
+`content/lemma-fixes.json`: the exact token text and spaCy's POS (AUX counts as VERB) map to the
+right lemma. Then republish the affected stories and translate the new lemma.
+
+```json
+{ "fixes": [{ "text": "soles", "pos": "NOUN", "word": "sole", "lemmaPos": "NOUN" }] }
+```
+
 ## Scripts
 
 | Command                              | What it does                                |

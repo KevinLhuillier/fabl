@@ -1,0 +1,274 @@
+{
+  "fixes": [
+    {
+      "text": "According",
+      "pos": "VERB",
+      "word": "according",
+      "lemmaPos": "ADP"
+    },
+    {
+      "text": "axes",
+      "pos": "NOUN",
+      "word": "axe",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Bed",
+      "pos": "PROPN",
+      "word": "bed",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "belongings",
+      "pos": "NOUN",
+      "word": "belongings",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "blacksmith",
+      "pos": "PROPN",
+      "word": "blacksmith",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "breathe",
+      "pos": "NOUN",
+      "word": "breathe",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "change",
+      "pos": "NOUN",
+      "word": "change",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "clothes",
+      "pos": "NOUN",
+      "word": "clothes",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "cut",
+      "pos": "NOUN",
+      "word": "cut",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "Earth",
+      "pos": "NOUN",
+      "word": "Earth",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Fall",
+      "pos": "NOUN",
+      "word": "Fall",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "fencepost",
+      "pos": "ADV",
+      "word": "fencepost",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "fern",
+      "pos": "ADJ",
+      "word": "fern",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Fire",
+      "pos": "NOUN",
+      "word": "Fire",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "forgets",
+      "pos": "NOUN",
+      "word": "forget",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "further",
+      "pos": "ADJ",
+      "word": "further",
+      "lemmaPos": "ADV"
+    },
+    {
+      "text": "further",
+      "pos": "ADV",
+      "word": "further",
+      "lemmaPos": "ADV"
+    },
+    {
+      "text": "I.",
+      "pos": "NOUN",
+      "word": "I",
+      "lemmaPos": "PRON"
+    },
+    {
+      "text": "kneeling",
+      "pos": "NOUN",
+      "word": "kneel",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "knelt",
+      "pos": "NOUN",
+      "word": "kneel",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "lord",
+      "pos": "PROPN",
+      "word": "lord",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "moss",
+      "pos": "ADJ",
+      "word": "moss",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "moss",
+      "pos": "PROPN",
+      "word": "moss",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "none",
+      "pos": "NOUN",
+      "word": "none",
+      "lemmaPos": "PRON"
+    },
+    {
+      "text": "oilcloth",
+      "pos": "ADJ",
+      "word": "oilcloth",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "orange",
+      "pos": "PROPN",
+      "word": "orange",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Patience",
+      "pos": "NOUN",
+      "word": "Patience",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Rasp",
+      "pos": "PROPN",
+      "word": "rasp",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "red",
+      "pos": "NOUN",
+      "word": "red",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "riding",
+      "pos": "VERB",
+      "word": "ride",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "silvery",
+      "pos": "NOUN",
+      "word": "silvery",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "sir",
+      "pos": "PROPN",
+      "word": "sir",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "soles",
+      "pos": "NOUN",
+      "word": "sole",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "stared",
+      "pos": "VERB",
+      "word": "stare",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "staring",
+      "pos": "VERB",
+      "word": "stare",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "stillest",
+      "pos": "NOUN",
+      "word": "still",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "talkative",
+      "pos": "VERB",
+      "word": "talkative",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Tamsin",
+      "pos": "NOUN",
+      "word": "Tamsin",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "taxes",
+      "pos": "NOUN",
+      "word": "tax",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "twice",
+      "pos": "DET",
+      "word": "twice",
+      "lemmaPos": "ADV"
+    },
+    {
+      "text": "unfurls",
+      "pos": "NOUN",
+      "word": "unfurl",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "Watch",
+      "pos": "PROPN",
+      "word": "watch",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "Well",
+      "pos": "INTJ",
+      "word": "Well",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Wood",
+      "pos": "NOUN",
+      "word": "Wood",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "wound",
+      "pos": "VERB",
+      "word": "wind",
+      "lemmaPos": "VERB"
+    }
+  ]
+}
