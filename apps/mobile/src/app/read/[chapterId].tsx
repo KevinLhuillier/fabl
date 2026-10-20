@@ -34,7 +34,8 @@ type Loaded = {
 /** Reads one chapter, page by page; XP are awarded when the chapter is finished. */
 export default function ChapterReader() {
   const { chapterId, storyId } = useLocalSearchParams<{ chapterId: string; storyId: string }>();
-  const { award } = useStats();
+  const { award, stats } = useStats();
+  const readAlongEnabled = stats?.read_along ?? true;
 
   const [data, setData] = useState<Loaded | null>(null);
   const [page, setPage] = useState(0);
@@ -195,7 +196,7 @@ export default function ChapterReader() {
               tokens={current.tokens}
               selectedPosition={selected}
               onWordPress={onWordPress}
-              readAlong={readAlong}
+              readAlong={readAlongEnabled ? readAlong : null}
               readColor={level.shade}
               currentColor={level.soft}
               onWordLongPress={
@@ -230,7 +231,7 @@ export default function ChapterReader() {
             color={level.solid}
             shade={level.shade}
             style={styles.audio}
-            onTime={aligned ? onAudioTime : undefined}
+            onTime={aligned && readAlongEnabled ? onAudioTime : undefined}
             ref={audioRef}
           />
         ) : null}

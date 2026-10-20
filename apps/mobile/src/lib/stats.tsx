@@ -6,6 +6,7 @@ import {
   fetchStats,
   fetchTodayXp,
   setDailyGoal,
+  setReadAlong,
   type AwardResult,
   type XpSource,
 } from './gamification';
@@ -17,11 +18,12 @@ type StatsContextValue = {
   refresh: () => Promise<void>;
   award: (source: XpSource, amount: number) => Promise<AwardResult | null>;
   updateDailyGoal: (goal: number) => Promise<void>;
+  updateReadAlong: (enabled: boolean) => Promise<void>;
 };
 
 const StatsContext = createContext<StatsContextValue | null>(null);
 
-/** Shares the user's XP / streak / daily goal across screens. */
+/** Shares the user's XP / streak / daily goal / reading settings across screens. */
 export function StatsProvider({ children }: { children: ReactNode }) {
   const { session } = useAuth();
   const [stats, setStats] = useState<UserStats | null>(null);
@@ -60,6 +62,10 @@ export function StatsProvider({ children }: { children: ReactNode }) {
     setStats(await setDailyGoal(goal));
   }, []);
 
+  const updateReadAlong = useCallback(async (enabled: boolean) => {
+    setStats(await setReadAlong(enabled));
+  }, []);
+
   return (
     // Signed out: hide the previous user's numbers.
     <StatsContext.Provider
@@ -69,6 +75,7 @@ export function StatsProvider({ children }: { children: ReactNode }) {
         refresh,
         award,
         updateDailyGoal,
+        updateReadAlong,
       }}>
       {children}
     </StatsContext.Provider>

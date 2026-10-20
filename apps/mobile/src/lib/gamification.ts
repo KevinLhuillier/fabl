@@ -54,7 +54,8 @@ export type AwardResult = {
   streakExtended: boolean;
 };
 
-const STATS_COLUMNS = 'total_xp, current_streak, best_streak, last_active_date, daily_goal_xp';
+const STATS_COLUMNS =
+  'total_xp, current_streak, best_streak, last_active_date, daily_goal_xp, read_along';
 
 export async function fetchStats(): Promise<UserStats> {
   const userId = await currentUserId();
@@ -120,6 +121,18 @@ export async function setDailyGoal(goal: number): Promise<UserStats> {
     await supabase
       .from('user_stats')
       .update({ daily_goal_xp: goal })
+      .eq('user_id', userId)
+      .select(STATS_COLUMNS)
+      .single(),
+  ) as UserStats;
+}
+
+export async function setReadAlong(enabled: boolean): Promise<UserStats> {
+  const userId = await currentUserId();
+  return unwrap(
+    await supabase
+      .from('user_stats')
+      .update({ read_along: enabled })
       .eq('user_id', userId)
       .select(STATS_COLUMNS)
       .single(),

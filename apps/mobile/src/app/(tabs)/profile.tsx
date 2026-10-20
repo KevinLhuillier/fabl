@@ -1,5 +1,13 @@
-import { Flame, LogOut, Target, Trophy, Zap, type LucideIcon } from 'lucide-react-native';
-import { ScrollView, StyleSheet, View } from 'react-native';
+import {
+  AudioLines,
+  Flame,
+  LogOut,
+  Target,
+  Trophy,
+  Zap,
+  type LucideIcon,
+} from 'lucide-react-native';
+import { ScrollView, StyleSheet, Switch, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { useAuth } from '@/lib/auth';
@@ -10,7 +18,7 @@ import { Button, Card, Icon, Text, colors, spacing } from '@/theme';
 
 export default function Profile() {
   const { session } = useAuth();
-  const { stats, updateDailyGoal } = useStats();
+  const { stats, updateDailyGoal, updateReadAlong } = useStats();
 
   return (
     <SafeAreaView style={styles.safe} edges={['top']}>
@@ -61,6 +69,26 @@ export default function Profile() {
           </View>
         </Card>
 
+        <Card>
+          <View style={styles.titleRow}>
+            <Icon icon={AudioLines} size={22} color={colors.primary} />
+            <Text variant="heading" style={styles.flex}>
+              Surlignage audio
+            </Text>
+            <Switch
+              value={stats?.read_along ?? true}
+              disabled={!stats}
+              onValueChange={(v) => updateReadAlong(v).catch(console.warn)}
+              trackColor={{ false: colors.border, true: colors.primary }}
+              thumbColor={colors.surface}
+              accessibilityLabel="Surlignage audio"
+            />
+          </View>
+          <Text color={colors.textSecondary} style={styles.hint}>
+            Surligne le texte et le mot lu pendant l’écoute.
+          </Text>
+        </Card>
+
         <Button
           label="Se déconnecter"
           variant="danger"
@@ -108,6 +136,7 @@ const styles = StyleSheet.create({
   grid: { flexDirection: 'row', gap: spacing.sm },
   stat: { flex: 1 },
   titleRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm },
+  flex: { flex: 1 },
   hint: { marginTop: spacing.xs, marginBottom: spacing.md },
   goals: { flexDirection: 'row', gap: spacing.sm },
   goal: { flex: 1 },

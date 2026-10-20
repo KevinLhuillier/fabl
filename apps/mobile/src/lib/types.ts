@@ -63,6 +63,8 @@ export type UserStats = {
   best_streak: number;
   last_active_date: string | null;
   daily_goal_xp: number;
+  /** Highlight the text while the voice-over plays. */
+  read_along: boolean;
 };
 
 export type VocabularyItem = {
