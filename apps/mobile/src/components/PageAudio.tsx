@@ -4,6 +4,7 @@ import { useEffect, useImperativeHandle, type Ref } from 'react';
 import { ActivityIndicator, Pressable, StyleSheet, View, type ViewStyle } from 'react-native';
 import Svg, { Circle } from 'react-native-svg';
 
+import { useI18n } from '@/i18n';
 import { Icon, colors, haptics } from '@/theme';
 
 // The voice-over must play even with the iPhone's silent switch on.
@@ -47,6 +48,7 @@ export function PageAudio({
   onTime?: (ms: number | null) => void;
   ref?: Ref<PageAudioHandle>;
 }) {
+  const { t } = useI18n();
   // Frequent updates so the highlighted word keeps up with the voice.
   const player = useAudioPlayer(uri, { updateInterval: 100 });
   const status = useAudioPlayerStatus(player);
@@ -116,7 +118,7 @@ export function PageAudio({
         disabled={!status.isLoaded}
         hitSlop={8}
         accessibilityRole="button"
-        accessibilityLabel={status.playing ? 'Mettre en pause la lecture' : 'Écouter la page'}
+        accessibilityLabel={status.playing ? t.reader.pause : t.reader.play}
         style={({ pressed }) => [
           styles.button,
           { backgroundColor: color, borderBottomColor: shade },

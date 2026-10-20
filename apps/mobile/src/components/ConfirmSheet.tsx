@@ -9,6 +9,7 @@ import Animated, {
 } from 'react-native-reanimated';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
+import { useI18n } from '@/i18n';
 import { Button, IconBubble, Text, colors, radii, spacing } from '@/theme';
 
 type Props = {
@@ -38,13 +39,15 @@ export function ConfirmSheet({
   title,
   message,
   confirmLabel,
-  cancelLabel = 'Annuler',
+  cancelLabel,
   tone = 'primary',
   onConfirm,
   onCancel,
 }: Props) {
   const insets = useSafeAreaInsets();
   const { height } = useWindowDimensions();
+  const { t } = useI18n();
+  const cancel = cancelLabel ?? t.common.cancel;
   const danger = tone === 'danger';
 
   const offset = useSharedValue(height);
@@ -67,7 +70,7 @@ export function ConfirmSheet({
         <Pressable
           style={[StyleSheet.absoluteFill, styles.backdrop]}
           onPress={onCancel}
-          accessibilityLabel={cancelLabel}
+          accessibilityLabel={cancel}
         />
         <Animated.View
           style={[styles.sheet, { paddingBottom: insets.bottom + spacing.xl }, sheetStyle]}>
@@ -90,7 +93,7 @@ export function ConfirmSheet({
               variant={danger ? 'danger' : 'primary'}
               onPress={onConfirm}
             />
-            <Button label={cancelLabel} variant="secondary" haptic="tap" onPress={onCancel} />
+            <Button label={cancel} variant="secondary" haptic="tap" onPress={onCancel} />
           </View>
         </Animated.View>
       </View>

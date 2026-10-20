@@ -30,7 +30,7 @@ import {
   writeStoryFile,
 } from './stories.js';
 
-/** Translation language of the app (TRANSLATION_LANG in apps/mobile). */
+/** Translation language checked and edited here (one at a time: ADMIN_LANG=es for Spanish). */
 const LANG = process.env.ADMIN_LANG ?? 'fr';
 
 export const api = new Hono().basePath('/api');

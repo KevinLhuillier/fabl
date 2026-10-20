@@ -8,6 +8,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { PAGE_AUDIO_SIZE, PageAudio, type PageAudioHandle } from '@/components/PageAudio';
 import { PassageText, sentenceAround, type ReadAlong } from '@/components/PassageText';
 import { WordSheet, type WordSheetState } from '@/components/WordSheet';
+import { useI18n } from '@/i18n';
 import { fetchChapterPages, fetchStoryWithChapters } from '@/lib/api/content';
 import {
   completeChapter,
@@ -36,6 +37,7 @@ type Loaded = {
 export default function ChapterReader() {
   const { chapterId, storyId } = useLocalSearchParams<{ chapterId: string; storyId: string }>();
   const { award, stats } = useStats();
+  const { t, lang } = useI18n();
   const readAlongEnabled = stats?.read_along ?? true;
 
   const [data, setData] = useState<Loaded | null>(null);
@@ -65,15 +67,14 @@ export default function ChapterReader() {
     let cancelled = false;
     Promise.all([
       fetchStoryWithChapters(storyId),
-      fetchChapterPages(chapterId),
+      fetchChapterPages(chapterId, lang),
       fetchChapterProgress(storyId),
       isStoryCompleted(storyId),
     ])
       .then(([{ story, chapters }, pages, progress, storyCompleted]) => {
         if (cancelled) return;
         const chapter = chapters.find((c) => c.id === chapterId);
-        if (!chapter || !pages.length)
-          throw new Error('Chapitre introuvable : republie l’histoire.');
+        if (!chapter || !pages.length) throw new Error(t.reader.notFound);
         // Resume where the user left; a finished chapter is replayed from the top.
         const p = progress.get(chapterId);
         setPage(p && !p.completed ? Math.min(p.pageIndex, pages.length - 1) : 0);
@@ -85,7 +86,7 @@ export default function ChapterReader() {
     return () => {
       cancelled = true;
     };
-  }, [chapterId, storyId]);
+  }, [chapterId, storyId, lang, t]);
 
   if (!data) {
     return (
@@ -95,7 +96,7 @@ export default function ChapterReader() {
             <Text align="center" color={colors.danger}>
               {error}
             </Text>
-            <Button label="Retour" variant="secondary" onPress={() => router.back()} />
+            <Button label={t.common.back} variant="secondary" onPress={() => router.back()} />
           </View>
         ) : (
           <ActivityIndicator color={colors.primary} />
@@ -148,7 +149,7 @@ export default function ChapterReader() {
       params: {
         kind: 'chapter',
         xp: String(chapterXp),
-        title: `Chapitre ${chapter.position + 1} · ${chapter.title}`,
+        title: t.reader.chapterTitle(chapter.position + 1, chapter.title),
         ...(nextChapter ? { nextChapterId: nextChapter.id, storyId: story.id } : {}),
       },
     });
@@ -179,7 +180,7 @@ export default function ChapterReader() {
           onPress={() => router.back()}
           hitSlop={12}
           accessibilityRole="button"
-          accessibilityLabel="Fermer le chapitre">
+          accessibilityLabel={t.reader.close}>
           <Icon icon={X} size={28} color={colors.textMuted} />
         </Pressable>
         <ProgressBar progress={(page + 1) / pages.length} color={level.solid} style={styles.flex} />
@@ -190,8 +191,7 @@ export default function ChapterReader() {
           ref={scrollRef}
           contentContainerStyle={[styles.body, current.audioUrl ? styles.bodyWithAudio : null]}>
           <Text variant="caption" color={level.shade}>
-            CHAPITRE {chapter.position + 1} · {chapter.title.toUpperCase()} · PAGE {page + 1}/
-            {pages.length}
+            {t.reader.header(chapter.position + 1, chapter.title, page + 1, pages.length)}
           </Text>
           <Animated.View key={current.id} entering={enter.up()}>
             <View ref={target('text')} collapsable={false}>
@@ -214,7 +214,7 @@ export default function ChapterReader() {
             <View style={styles.hint}>
               <Icon icon={Lightbulb} size={16} color={colors.textMuted} />
               <Text variant="caption" color={colors.textMuted}>
-                Appui long sur un mot pour écouter à partir de là
+                {t.reader.longPressHint}
               </Text>
             </View>
           ) : null}
@@ -222,7 +222,7 @@ export default function ChapterReader() {
             <Animated.View entering={enter.fade(600)} style={styles.hint}>
               <Icon icon={Lightbulb} size={16} color={colors.textMuted} />
               <Text variant="caption" color={colors.textMuted}>
-                Touche un mot pour voir sa traduction
+                {t.reader.tapHint}
               </Text>
             </Animated.View>
           ) : null}
@@ -250,7 +250,7 @@ export default function ChapterReader() {
               onPress={() => goTo(page - 1)}
               hitSlop={8}
               accessibilityRole="button"
-              accessibilityLabel="Page précédente">
+              accessibilityLabel={t.reader.previousPage}>
               <Icon icon={ChevronLeft} size={32} color={level.shade} />
             </Pressable>
           ) : null}
@@ -259,10 +259,10 @@ export default function ChapterReader() {
           {finishing ? (
             <ActivityIndicator color={colors.primary} />
           ) : isLast ? (
-            <Button label="Terminer le chapitre" variant="success" onPress={finish} />
+            <Button label={t.reader.finish} variant="success" onPress={finish} />
           ) : (
             <Button
-              label="Continuer"
+              label={t.common.continue}
               colorOverride={{ face: level.solid, edge: level.shade }}
               onPress={() => goTo(page + 1)}
             />
@@ -274,7 +274,7 @@ export default function ChapterReader() {
               onPress={() => goTo(page + 1)}
               hitSlop={8}
               accessibilityRole="button"
-              accessibilityLabel="Page suivante">
+              accessibilityLabel={t.reader.nextPage}>
               <Icon icon={ChevronRight} size={32} color={level.shade} />
             </Pressable>
           ) : null}

@@ -6,6 +6,7 @@ import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { Confetti } from '@/components/Confetti';
+import { useI18n } from '@/i18n';
 import { displayedStreak } from '@/lib/gamification';
 import { useStats } from '@/lib/stats';
 import {
@@ -33,12 +34,6 @@ type Params = {
   storyId?: string;
 };
 
-const HEADLINES: Record<Kind, string> = {
-  chapter: 'Chapitre terminé !',
-  story: 'Histoire terminée !',
-  review: 'Révision terminée !',
-};
-
 const HERO: Record<Kind, { icon: LucideIcon; color: string; background: string }> = {
   chapter: { icon: BookCheck, color: colors.successShade, background: colors.successSoft },
   story: { icon: Trophy, color: colors.xpShade, background: colors.xpSoft },
@@ -55,6 +50,7 @@ export default function Celebration() {
     storyId,
   } = useLocalSearchParams<Params>();
   const { stats, todayXp } = useStats();
+  const { t } = useI18n();
   const gained = Number(xp) || 0;
   const shownXp = useCountUp(gained);
 
@@ -80,7 +76,7 @@ export default function Celebration() {
         </Animated.View>
         <Animated.View entering={enter.up(120)} style={styles.titles}>
           <Text variant="display" align="center" color={colors.primary}>
-            {HEADLINES[kind]}
+            {t.celebration[kind]}
           </Text>
           {title ? (
             <Text variant="heading" align="center" color={colors.textSecondary}>
@@ -102,7 +98,7 @@ export default function Celebration() {
 
         <Animated.View entering={enter.up(360)} style={styles.stats}>
           <View style={styles.row}>
-            <Badge icon={Flame} label={`Série : ${streak} j`} tone="streak" />
+            <Badge icon={Flame} label={t.celebration.streak(streak)} tone="streak" />
             <Badge icon={Zap} label={`${stats?.total_xp ?? 0} XP`} tone="xp" />
           </View>
           <Card>
@@ -114,8 +110,8 @@ export default function Celebration() {
               />
               <Text variant="bodyBold">
                 {reached
-                  ? 'Objectif du jour atteint !'
-                  : `Objectif du jour : ${Math.min(todayXp, goal)} / ${goal} XP`}
+                  ? t.celebration.goalReached
+                  : t.celebration.goalProgress(Math.min(todayXp, goal), goal)}
               </Text>
             </View>
             <ProgressBar progress={todayXp / goal} color={reached ? colors.success : colors.xp} />
@@ -126,7 +122,7 @@ export default function Celebration() {
       <Animated.View entering={enter.up(480)} style={styles.footer}>
         {nextChapterId && storyId ? (
           <Button
-            label="Chapitre suivant"
+            label={t.celebration.nextChapter}
             variant="success"
             onPress={() =>
               router.replace({
@@ -137,7 +133,7 @@ export default function Celebration() {
           />
         ) : null}
         <Button
-          label={nextChapterId ? 'Plus tard' : 'Continuer'}
+          label={nextChapterId ? t.celebration.later : t.common.continue}
           variant={nextChapterId ? 'secondary' : 'success'}
           onPress={() => router.back()}
         />

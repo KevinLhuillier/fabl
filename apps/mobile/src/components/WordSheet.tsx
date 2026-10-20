@@ -3,6 +3,7 @@ import { Pressable, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
+import { useI18n } from '@/i18n';
 import { posLabel } from '@/lib/labels';
 import type { Lemma } from '@/lib/types';
 import { Badge, Button, Icon, Text, colors, enter, exit, radii, spacing } from '@/theme';
@@ -19,6 +20,7 @@ type Props = { word: WordSheetState | null; onClose: () => void };
 /** Bottom sheet with the translation of the tapped word (slides up). */
 export function WordSheet({ word, onClose }: Props) {
   const insets = useSafeAreaInsets();
+  const { t } = useI18n();
   if (!word) return null;
   const { lemma, surface, added } = word;
   const showLemma = surface.toLowerCase() !== lemma.word.toLowerCase();
@@ -26,7 +28,11 @@ export function WordSheet({ word, onClose }: Props) {
   return (
     <View style={StyleSheet.absoluteFill} pointerEvents="box-none">
       <Animated.View entering={enter.fade()} exiting={exit.fade()} style={styles.backdrop}>
-        <Pressable style={StyleSheet.absoluteFill} onPress={onClose} accessibilityLabel="Fermer" />
+        <Pressable
+          style={StyleSheet.absoluteFill}
+          onPress={onClose}
+          accessibilityLabel={t.common.close}
+        />
       </Animated.View>
       <Animated.View
         entering={enter.sheet()}
@@ -35,15 +41,16 @@ export function WordSheet({ word, onClose }: Props) {
         <View style={styles.handle} />
         <View style={styles.header}>
           <Text variant="title">{surface}</Text>
-          <Badge label={posLabel(lemma.pos)} tone="primary" />
+          <Badge label={posLabel(t, lemma.pos)} tone="primary" />
         </View>
         {showLemma ? (
           <Text color={colors.textSecondary}>
-            forme de base : <Text variant="bodyBold">{lemma.word}</Text>
+            {t.wordSheet.baseForm}
+            <Text variant="bodyBold">{lemma.word}</Text>
           </Text>
         ) : null}
         <Text variant="heading" color={colors.primary}>
-          {lemma.translation ?? 'Traduction bientôt disponible'}
+          {lemma.translation ?? t.wordSheet.translationSoon}
         </Text>
         {lemma.example ? (
           <View style={styles.example}>
@@ -54,13 +61,13 @@ export function WordSheet({ word, onClose }: Props) {
           {added === 'new' ? <Icon icon={Check} size={16} color={colors.successShade} /> : null}
           <Text variant="caption" color={added === 'new' ? colors.successShade : colors.textMuted}>
             {added === 'new'
-              ? 'Ajouté à tes mots'
+              ? t.wordSheet.added
               : added === 'existing'
-                ? 'Déjà dans tes mots'
+                ? t.wordSheet.alreadyAdded
                 : ' '}
           </Text>
         </View>
-        <Button label="Compris" onPress={onClose} haptic="tap" />
+        <Button label={t.common.gotIt} onPress={onClose} haptic="tap" />
       </Animated.View>
     </View>
   );

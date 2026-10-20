@@ -7,6 +7,7 @@ import {
   fetchTodayXp,
   setDailyGoal,
   setReadAlong,
+  setUserLang,
   type AwardResult,
   type XpSource,
 } from './gamification';
@@ -19,6 +20,7 @@ type StatsContextValue = {
   award: (source: XpSource, amount: number) => Promise<AwardResult | null>;
   updateDailyGoal: (goal: number) => Promise<void>;
   updateReadAlong: (enabled: boolean) => Promise<void>;
+  updateLang: (lang: string) => Promise<void>;
 };
 
 const StatsContext = createContext<StatsContextValue | null>(null);
@@ -66,6 +68,10 @@ export function StatsProvider({ children }: { children: ReactNode }) {
     setStats(await setReadAlong(enabled));
   }, []);
 
+  const updateLang = useCallback(async (lang: string) => {
+    setStats(await setUserLang(lang));
+  }, []);
+
   return (
     // Signed out: hide the previous user's numbers.
     <StatsContext.Provider
@@ -76,6 +82,7 @@ export function StatsProvider({ children }: { children: ReactNode }) {
         award,
         updateDailyGoal,
         updateReadAlong,
+        updateLang,
       }}>
       {children}
     </StatsContext.Provider>

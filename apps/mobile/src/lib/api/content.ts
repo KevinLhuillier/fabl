@@ -1,4 +1,3 @@
-import { TRANSLATION_LANG } from '../config';
 import { supabase, unwrap } from '../supabase';
 import type { ChapterSummary, Lemma, Page, StorySummary, Token } from '../types';
 
@@ -63,10 +62,10 @@ type RawToken = {
 type RawPage = { id: string; page_index: number; audio_url: string | null; tokens: RawToken[] };
 
 /**
- * Loads a chapter with every page, token, lemma and translation in one
- * request (a chapter is a few hundred tokens).
+ * Loads a chapter with every page, token, lemma and its `lang` translation in
+ * one request (a chapter is a few hundred tokens).
  */
-export async function fetchChapterPages(chapterId: string): Promise<Page[]> {
+export async function fetchChapterPages(chapterId: string, lang: string): Promise<Page[]> {
   const row = unwrap(
     await supabase
       .from('chapters')
@@ -76,7 +75,7 @@ export async function fetchChapterPages(chapterId: string): Promise<Page[]> {
              lemmas(id, word, pos, translations(translation, example))))`,
       )
       .eq('id', chapterId)
-      .eq('passages.tokens.lemmas.translations.lang', TRANSLATION_LANG)
+      .eq('passages.tokens.lemmas.translations.lang', lang)
       .single(),
   ) as { id: string; passages: RawPage[] };
 

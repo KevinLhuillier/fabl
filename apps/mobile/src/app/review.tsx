@@ -5,6 +5,7 @@ import { ActivityIndicator, Pressable, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+import { useI18n } from '@/i18n';
 import {
   fetchDistractorPool,
   fetchReviewSession,
@@ -33,7 +34,7 @@ import {
 
 const SESSION_SIZE = 12;
 
-/** EN → FR (what does it mean?) or FR → EN (how do you say it?). */
+/** English → user's language (what does it mean?) or the reverse (how do you say it?). */
 type Direction = 'enFr' | 'frEn';
 
 type Exercise = {
@@ -51,6 +52,7 @@ type Exercise = {
 
 export default function Review() {
   const { award } = useStats();
+  const { t, lang } = useI18n();
   const [exercises, setExercises] = useState<Exercise[] | null>(null);
   const [cursor, setCursor] = useState(0);
   const [correct, setCorrect] = useState(0);
@@ -58,10 +60,10 @@ export default function Review() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    Promise.all([fetchReviewSession(SESSION_SIZE), fetchDistractorPool()])
+    Promise.all([fetchReviewSession(SESSION_SIZE, lang), fetchDistractorPool(lang)])
       .then(([items, pool]) => setExercises(buildSession(items, pool)))
       .catch((e: unknown) => setError(e instanceof Error ? e.message : String(e)));
-  }, []);
+  }, [lang]);
 
   if (error || !exercises) {
     return (
@@ -69,7 +71,7 @@ export default function Review() {
         {error ? (
           <View style={styles.centerBox}>
             <Text color={colors.danger}>{error}</Text>
-            <Button label="Retour" variant="secondary" onPress={() => router.back()} />
+            <Button label={t.common.back} variant="secondary" onPress={() => router.back()} />
           </View>
         ) : (
           <ActivityIndicator color={colors.primary} />
@@ -84,12 +86,12 @@ export default function Review() {
         <Animated.View entering={enter.up()} style={styles.centerBox}>
           <IconBubble icon={Sparkles} />
           <Text variant="title" align="center">
-            Rien à réviser
+            {t.review.nothingTitle}
           </Text>
           <Text align="center" color={colors.textSecondary}>
-            Lis une histoire et touche des mots pour remplir ta liste.
+            {t.review.nothingText}
           </Text>
-          <Button label="Retour" onPress={() => router.back()} />
+          <Button label={t.common.back} onPress={() => router.back()} />
         </Animated.View>
       </SafeAreaView>
     );
@@ -131,7 +133,7 @@ export default function Review() {
       params: {
         kind: 'review',
         xp: String(xp),
-        title: `${correctCount} / ${total} bonnes réponses`,
+        title: t.review.score(correctCount, total),
       },
     });
   }
@@ -143,7 +145,7 @@ export default function Review() {
           onPress={() => router.back()}
           hitSlop={12}
           accessibilityRole="button"
-          accessibilityLabel="Quitter la révision">
+          accessibilityLabel={t.review.quit}>
           <Icon icon={X} size={28} color={colors.textMuted} />
         </Pressable>
         <ProgressBar progress={cursor / exercises.length} color={colors.info} style={styles.flex} />
@@ -210,6 +212,7 @@ function buildSession(items: VocabularyItem[], pool: DistractorEntry[]): Exercis
 // ---------------------------------------------------------------------------
 
 function Mcq({ ex, onDone }: { ex: Exercise; onDone: (correct: boolean) => void }) {
+  const { t } = useI18n();
   const [picked, setPicked] = useState<string | null>(null);
   const frToEn = ex.direction === 'frEn';
   const prompt = frToEn ? (ex.item.translation ?? '') : ex.item.word;
@@ -226,15 +229,17 @@ function Mcq({ ex, onDone }: { ex: Exercise; onDone: (correct: boolean) => void 
     <View style={styles.exercise}>
       <Animated.View entering={enter.up()} style={styles.promptBox}>
         <Text variant="heading" align="center" color={colors.textSecondary}>
-          {frToEn ? 'Comment dit-on en anglais…' : 'Que veut dire…'}
+          {frToEn ? t.review.howDoYouSay : t.review.whatDoesItMean}
         </Text>
         <Text variant="display" align="center" color={colors.primary}>
           {prompt}
         </Text>
-        {!frToEn ? <Badge label={posLabel(ex.item.pos)} tone="primary" style={styles.pos} /> : null}
+        {!frToEn ? (
+          <Badge label={posLabel(t, ex.item.pos)} tone="primary" style={styles.pos} />
+        ) : null}
         {!frToEn && ex.item.contextSentence ? (
           <Text align="center" color={colors.textSecondary} style={styles.italic}>
-            « {ex.item.contextSentence} »
+            {t.review.quote(ex.item.contextSentence)}
           </Text>
         ) : null}
       </Animated.View>
@@ -296,16 +301,17 @@ function Mcq({ ex, onDone }: { ex: Exercise; onDone: (correct: boolean) => void 
                 <Text
                   variant="heading"
                   color={isCorrect ? colors.successShade : colors.dangerShade}>
-                  {isCorrect ? 'Bravo !' : 'Presque !'}
+                  {isCorrect ? t.review.right : t.review.almost}
                 </Text>
               </View>
               {!isCorrect ? (
                 <Text>
-                  Bonne réponse : <Text variant="bodyBold">{ex.answer}</Text>
+                  {t.review.correctAnswer}
+                  <Text variant="bodyBold">{ex.answer}</Text>
                 </Text>
               ) : null}
               <Button
-                label="Continuer"
+                label={t.common.continue}
                 variant={isCorrect ? 'success' : 'danger'}
                 style={styles.continue}
                 onPress={() => onDone(isCorrect)}

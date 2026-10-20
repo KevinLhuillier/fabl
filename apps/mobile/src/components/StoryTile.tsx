@@ -2,8 +2,9 @@ import { Check } from 'lucide-react-native';
 import { Pressable, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 
+import { useI18n } from '@/i18n';
 import type { StoryProgressSummary } from '@/lib/api/progress';
-import { plural, readingMinutes } from '@/lib/labels';
+import { readingMinutes } from '@/lib/labels';
 import type { StorySummary } from '@/lib/types';
 import {
   Badge,
@@ -28,6 +29,7 @@ type Props = {
 
 /** A story on the home shelf: its cover (with the level), title, length and progress. */
 export function StoryTile({ story, progress, onPress }: Props) {
+  const { t } = useI18n();
   const c = levelColors[story.level];
   const fraction = progress?.fraction ?? 0;
   const done = fraction >= 1;
@@ -36,7 +38,7 @@ export function StoryTile({ story, progress, onPress }: Props) {
   return (
     <Pressable
       accessibilityRole="button"
-      accessibilityLabel={`${story.title}, niveau ${story.level}, ${Math.round(fraction * 100)} % lu`}
+      accessibilityLabel={t.storyTile.a11y(story.title, story.level, Math.round(fraction * 100))}
       onPressIn={pressIn}
       onPressOut={pressOut}
       onPress={() => {
@@ -57,8 +59,8 @@ export function StoryTile({ story, progress, onPress }: Props) {
         {story.title}
       </Text>
       <Text variant="caption" color={colors.textSecondary}>
-        {readingMinutes(story.word_count)} min ·{' '}
-        {plural(story.chapter_count, 'chapitre', 'chapitres')}
+        {t.common.minutes(readingMinutes(story.word_count))} ·{' '}
+        {t.common.chapters(story.chapter_count)}
       </Text>
 
       <View style={styles.progress}>

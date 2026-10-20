@@ -5,6 +5,7 @@ import { StatusBar } from 'expo-status-bar';
 import { useEffect } from 'react';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 
+import { I18nProvider, useI18n } from '@/i18n';
 import { AuthProvider, useAuth } from '@/lib/auth';
 import { StatsProvider } from '@/lib/stats';
 import { TourProvider } from '@/lib/tour';
@@ -17,9 +18,11 @@ export default function RootLayout() {
     <GestureHandlerRootView style={{ flex: 1 }}>
       <AuthProvider>
         <StatsProvider>
-          <TourProvider>
-            <RootNavigator />
-          </TourProvider>
+          <I18nProvider>
+            <TourProvider>
+              <RootNavigator />
+            </TourProvider>
+          </I18nProvider>
         </StatsProvider>
       </AuthProvider>
     </GestureHandlerRootView>
@@ -29,7 +32,8 @@ export default function RootLayout() {
 function RootNavigator() {
   const [fontsLoaded, fontError] = useFonts(fontAssets);
   const { session, ready } = useAuth();
-  const loading = (!fontsLoaded && !fontError) || !ready;
+  const { ready: langReady } = useI18n();
+  const loading = (!fontsLoaded && !fontError) || !ready || !langReady;
 
   useEffect(() => {
     if (!loading) SplashScreen.hideAsync();

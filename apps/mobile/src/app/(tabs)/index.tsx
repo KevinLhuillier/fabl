@@ -7,10 +7,10 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { StatsBar } from '@/components/StatsBar';
 import { StoryTile } from '@/components/StoryTile';
+import { useI18n } from '@/i18n';
 import { fetchStories } from '@/lib/api/content';
 import { fetchProgressByStory, type StoryProgressSummary } from '@/lib/api/progress';
 import { countDueVocabulary } from '@/lib/api/vocabulary';
-import { plural } from '@/lib/labels';
 import { useStats } from '@/lib/stats';
 import { useTour } from '@/lib/tour';
 import type { StorySummary } from '@/lib/types';
@@ -18,6 +18,7 @@ import { Button, Card, Icon, Text, colors, enter, radii, spacing } from '@/theme
 
 export default function Home() {
   const { refresh: refreshStats } = useStats();
+  const { t } = useI18n();
   const [stories, setStories] = useState<StorySummary[] | null>(null);
   const [progress, setProgress] = useState(new Map<string, StoryProgressSummary>());
   const [due, setDue] = useState(0);
@@ -59,7 +60,7 @@ export default function Home() {
             }}
           />
         }>
-        <Text variant="title">Tes histoires</Text>
+        <Text variant="title">{t.home.title}</Text>
         <View ref={target('stats')} collapsable={false}>
           <StatsBar />
         </View>
@@ -69,10 +70,10 @@ export default function Home() {
             <View style={styles.reviewRow}>
               <Icon icon={Brain} size={24} color={colors.infoShade} />
               <Text variant="bodyBold" style={styles.flex}>
-                {plural(due, 'mot', 'mots')} à réviser aujourd’hui
+                {t.home.toReviewToday(due)}
               </Text>
               <Button
-                label="Réviser"
+                label={t.home.review}
                 colorOverride={{ face: colors.info, edge: colors.infoShade }}
                 onPress={() => router.push('/review')}
               />
@@ -82,8 +83,13 @@ export default function Home() {
 
         {error ? (
           <Card>
-            <Text color={colors.danger}>Impossible de charger les histoires : {error}</Text>
-            <Button label="Réessayer" variant="secondary" onPress={load} style={styles.retry} />
+            <Text color={colors.danger}>{t.home.loadError(error)}</Text>
+            <Button
+              label={t.common.retry}
+              variant="secondary"
+              onPress={load}
+              style={styles.retry}
+            />
           </Card>
         ) : stories ? (
           stories.length ? (
@@ -104,7 +110,7 @@ export default function Home() {
             <View style={styles.soon}>
               <Icon icon={Lock} size={16} color={colors.textMuted} />
               <Text variant="caption" color={colors.textMuted}>
-                Bientôt de nouvelles histoires
+                {t.home.comingSoon}
               </Text>
             </View>
           )

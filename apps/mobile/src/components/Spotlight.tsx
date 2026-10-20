@@ -2,7 +2,7 @@ import { Pressable, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import Svg, { Path } from 'react-native-svg';
 
-import type { TourStep } from '@/lib/tourSteps';
+import { useI18n } from '@/i18n';
 import { Button, Card, Text, colors, enter, exit, radii, spacing } from '@/theme';
 
 export type Rect = { x: number; y: number; width: number; height: number };
@@ -11,7 +11,8 @@ export type Rect = { x: number; y: number; width: number; height: number };
 const PAD = spacing.sm;
 
 type Props = {
-  step: TourStep;
+  title: string;
+  text: string;
   index: number;
   count: number;
   /** Target, relative to the overlay; null for a centered bubble. */
@@ -27,7 +28,8 @@ type Props = {
  * around the target, with an explanation bubble on the side that has the most
  * room. Touches never reach the screen underneath.
  */
-export function Spotlight({ step, index, count, rect, size, onNext, onSkip }: Props) {
+export function Spotlight({ title, text, index, count, rect, size, onNext, onSkip }: Props) {
+  const { t } = useI18n();
   const { width, height } = size;
   const last = index === count - 1;
   const hole = rect && {
@@ -63,19 +65,19 @@ export function Spotlight({ step, index, count, rect, size, onNext, onSkip }: Pr
             <Text variant="caption" color={colors.primary}>
               {index + 1} / {count}
             </Text>
-            <Text variant="heading">{step.title}</Text>
-            <Text color={colors.textSecondary}>{step.text}</Text>
+            <Text variant="heading">{title}</Text>
+            <Text color={colors.textSecondary}>{text}</Text>
           </View>
           <View style={styles.actions}>
             {!last ? (
               <Pressable onPress={onSkip} hitSlop={12} accessibilityRole="button">
                 <Text variant="bodyBold" color={colors.textMuted}>
-                  Passer
+                  {t.common.skip}
                 </Text>
               </Pressable>
             ) : null}
             <View style={styles.flex} />
-            <Button label={last ? 'Compris' : 'Suivant'} haptic="tap" onPress={onNext} />
+            <Button label={last ? t.common.gotIt : t.common.next} haptic="tap" onPress={onNext} />
           </View>
         </Card>
       </Animated.View>

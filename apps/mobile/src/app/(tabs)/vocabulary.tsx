@@ -6,9 +6,10 @@ import Animated, { LinearTransition } from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { ConfirmSheet } from '@/components/ConfirmSheet';
+import { useI18n } from '@/i18n';
 import { fetchVocabulary, removeFromVocabulary } from '@/lib/api/vocabulary';
 import { endOfToday } from '@/lib/dates';
-import { plural, posLabel } from '@/lib/labels';
+import { posLabel } from '@/lib/labels';
 import { useTour } from '@/lib/tour';
 import type { VocabularyItem } from '@/lib/types';
 import {
@@ -29,6 +30,7 @@ import {
 const normalize = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 
 export default function Vocabulary() {
+  const { t, lang } = useI18n();
   const [items, setItems] = useState<VocabularyItem[] | null>(null);
   const [query, setQuery] = useState('');
   const [error, setError] = useState<string | null>(null);
@@ -40,13 +42,13 @@ export default function Vocabulary() {
 
   useFocusEffect(
     useCallback(() => {
-      fetchVocabulary()
+      fetchVocabulary(lang)
         .then((v) => {
           setItems(v);
           setError(null);
         })
         .catch((e: unknown) => setError(e instanceof Error ? e.message : String(e)));
-    }, []),
+    }, [lang]),
   );
 
   /** Asks for confirmation, then removes the word (and its review history). */
@@ -80,23 +82,21 @@ export default function Vocabulary() {
         keyboardShouldPersistTaps="handled"
         ListHeaderComponent={
           <View style={styles.header}>
-            <Text variant="title">Mes mots</Text>
+            <Text variant="title">{t.vocabulary.title}</Text>
             <View ref={target('review')} collapsable={false}>
               <Card tint={{ face: colors.primarySoft, edge: colors.primary }}>
                 <View style={styles.reviewRow}>
                   <Icon icon={dueCount ? Brain : Sparkles} size={28} color={colors.primary} />
                   <View style={styles.flex}>
                     <Text variant="heading">
-                      {dueCount
-                        ? `${plural(dueCount, 'mot', 'mots')} à réviser`
-                        : 'Tout est révisé'}
+                      {dueCount ? t.vocabulary.toReview(dueCount) : t.vocabulary.allReviewed}
                     </Text>
                     <Text color={colors.textSecondary}>
-                      {items ? plural(items.length, 'mot appris', 'mots appris') : '…'}
+                      {items ? t.vocabulary.learned(items.length) : '…'}
                     </Text>
                   </View>
                   <Button
-                    label={dueCount ? 'Réviser' : 'S’entraîner'}
+                    label={dueCount ? t.vocabulary.review : t.vocabulary.practice}
                     disabled={!items?.length}
                     onPress={() => router.push('/review')}
                   />
@@ -106,7 +106,7 @@ export default function Vocabulary() {
             <View ref={target('search')} collapsable={false}>
               <TextField
                 icon={Search}
-                placeholder="Chercher un mot ou une traduction"
+                placeholder={t.vocabulary.search}
                 value={query}
                 onChangeText={setQuery}
                 autoCapitalize="none"
@@ -122,9 +122,7 @@ export default function Vocabulary() {
             <ActivityIndicator color={colors.primary} />
           ) : (
             <Text align="center" color={colors.textSecondary} style={styles.empty}>
-              {query
-                ? 'Aucun mot ne correspond.'
-                : 'Touche un mot dans une histoire pour voir sa traduction : il apparaîtra ici.'}
+              {query ? t.vocabulary.noMatch : t.vocabulary.empty}
             </Text>
           )
         }
@@ -149,11 +147,9 @@ export default function Vocabulary() {
         visible={confirmOpen}
         icon={Trash2}
         tone="danger"
-        title="Retirer ce mot ?"
-        message={
-          toRemove ? `« ${toRemove.word} » ne sera plus dans tes mots ni dans tes révisions.` : ''
-        }
-        confirmLabel="Retirer"
+        title={t.vocabulary.removeTitle}
+        message={toRemove ? t.vocabulary.removeMessage(toRemove.word) : ''}
+        confirmLabel={t.vocabulary.remove}
         onConfirm={() => toRemove && remove(toRemove)}
         onCancel={() => setConfirmOpen(false)}
       />
@@ -170,20 +166,21 @@ function WordCard({
   due: boolean;
   onRemove: () => void;
 }) {
+  const { t } = useI18n();
   return (
     <Card>
       <View style={styles.cardTop}>
         <Text variant="heading">{item.word}</Text>
         <Text variant="caption" color={colors.textMuted}>
-          {posLabel(item.pos)}
+          {posLabel(t, item.pos)}
         </Text>
         <View style={styles.flex} />
-        {due ? <Badge label="À réviser" tone="primary" /> : null}
+        {due ? <Badge label={t.vocabulary.due} tone="primary" /> : null}
         <Pressable
           onPress={onRemove}
           hitSlop={10}
           accessibilityRole="button"
-          accessibilityLabel={`Retirer « ${item.word} »`}
+          accessibilityLabel={t.vocabulary.removeA11y(item.word)}
           style={styles.remove}>
           <Icon icon={Trash2} size={18} color={colors.textMuted} />
         </Pressable>
@@ -193,7 +190,7 @@ function WordCard({
       </Text>
       {item.contextSentence ? (
         <Text color={colors.textSecondary} style={styles.context}>
-          « {item.contextSentence} »
+          {t.review.quote(item.contextSentence)}
         </Text>
       ) : null}
       {item.storyTitle ? (

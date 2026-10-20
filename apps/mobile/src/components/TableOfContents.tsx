@@ -3,7 +3,8 @@ import { Pressable, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import Svg, { Path } from 'react-native-svg';
 
-import { formatNumber, plural, toRoman } from '@/lib/labels';
+import { useI18n } from '@/i18n';
+import { toRoman } from '@/lib/labels';
 import type { ChapterProgress, ChapterSummary } from '@/lib/types';
 import {
   Icon,
@@ -55,11 +56,12 @@ export function chapterStatuses(
 export function TableOfContents({ level, chapters, progress, onOpen }: Props) {
   const statuses = chapterStatuses(chapters, progress);
   const allDone = statuses.every((s) => s === 'done');
+  const { t } = useI18n();
   const c = levelColors[level];
 
   return (
     <View style={styles.wrap}>
-      <Ornament label="Sommaire" color={c.shade} />
+      <Ornament label={t.toc.contents} color={c.shade} />
 
       <Animated.View entering={enter.up()} style={styles.sheetWrap}>
         <View style={styles.sheetEdge} />
@@ -94,11 +96,11 @@ export function TableOfContents({ level, chapters, progress, onOpen }: Props) {
               <Icon icon={Trophy} size={30} color={colors.textOnColor} />
             </View>
             <Text variant="bodyBold" color={c.shade}>
-              Histoire terminée !
+              {t.toc.storyDone}
             </Text>
           </>
         ) : (
-          <Ornament label="Fin" color={colors.textMuted} />
+          <Ornament label={t.toc.end} color={colors.textMuted} />
         )}
       </Animated.View>
     </View>
@@ -118,6 +120,7 @@ function ChapterLine({
   progress: ChapterProgress | undefined;
   onPress: () => void;
 }) {
+  const { t } = useI18n();
   const c = levelColors[level];
   const locked = status === 'locked';
   const current = status === 'current';
@@ -127,7 +130,7 @@ function ChapterLine({
   return (
     <Pressable
       accessibilityRole="button"
-      accessibilityLabel={`Chapitre ${chapter.position + 1} : ${chapter.title}`}
+      accessibilityLabel={t.toc.chapterA11y(chapter.position + 1, chapter.title)}
       accessibilityState={{ disabled: locked }}
       onPress={onPress}
       style={({ pressed }) => [
@@ -152,9 +155,7 @@ function ChapterLine({
         {current ? (
           <>
             <Text variant="caption" color={c.shade}>
-              {started
-                ? `REPRENDRE · PAGE ${pageIndex + 1} / ${chapter.pageCount}`
-                : 'COMMENCER LA LECTURE'}
+              {started ? t.toc.resume(pageIndex + 1, chapter.pageCount) : t.toc.start}
             </Text>
             {started ? (
               <ProgressBar
@@ -168,7 +169,7 @@ function ChapterLine({
           </>
         ) : (
           <Text variant="caption" color={colors.textMuted}>
-            {plural(chapter.pageCount, 'page', 'pages')} · {formatNumber(chapter.wordCount)} mots
+            {t.common.pages(chapter.pageCount)} · {t.common.words(chapter.wordCount)}
           </Text>
         )}
       </View>

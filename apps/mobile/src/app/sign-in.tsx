@@ -4,6 +4,7 @@ import { KeyboardAvoidingView, Platform, ScrollView, StyleSheet, View } from 're
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+import { useI18n } from '@/i18n';
 import { authErrorMessage } from '@/lib/auth';
 import { supabase } from '@/lib/supabase';
 import {
@@ -21,6 +22,7 @@ import {
 type Mode = 'signIn' | 'signUp';
 
 export default function SignIn() {
+  const { t } = useI18n();
   const [mode, setMode] = useState<Mode>('signIn');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -42,14 +44,14 @@ export default function SignIn() {
         if (error) throw error;
         // With "Confirm email" enabled, Supabase returns no session yet.
         if (!data.session) {
-          setInfo('Compte créé ! Clique sur le lien reçu par email, puis connecte-toi.');
+          setInfo(t.signIn.accountCreated);
           setMode('signIn');
         }
       }
       // On success the auth guard in _layout switches to the app automatically.
     } catch (e) {
       haptics.error();
-      setError(authErrorMessage(e instanceof Error ? e.message : String(e)));
+      setError(authErrorMessage(t, e instanceof Error ? e.message : String(e)));
     } finally {
       setLoading(false);
     }
@@ -69,7 +71,7 @@ export default function SignIn() {
               Fabl
             </Text>
             <Text align="center" color={colors.textSecondary}>
-              Apprends l’anglais en vivant des histoires dont tu es le héros.
+              {t.signIn.tagline}
             </Text>
           </Animated.View>
 
@@ -77,11 +79,11 @@ export default function SignIn() {
             <Card padding={spacing.xl}>
               <View style={styles.form}>
                 <Text variant="heading">
-                  {mode === 'signIn' ? 'Content de te revoir !' : 'Crée ton compte'}
+                  {mode === 'signIn' ? t.signIn.welcomeBack : t.signIn.createAccount}
                 </Text>
                 <TextField
                   icon={Mail}
-                  placeholder="Email"
+                  placeholder={t.signIn.email}
                   value={email}
                   onChangeText={setEmail}
                   autoCapitalize="none"
@@ -91,7 +93,7 @@ export default function SignIn() {
                 />
                 <TextField
                   icon={KeyRound}
-                  placeholder="Mot de passe (6 caractères min.)"
+                  placeholder={t.signIn.password}
                   value={password}
                   onChangeText={setPassword}
                   secureTextEntry
@@ -102,7 +104,7 @@ export default function SignIn() {
                 {error ? <Text color={colors.danger}>{error}</Text> : null}
                 {info ? <Text color={colors.successShade}>{info}</Text> : null}
                 <Button
-                  label={mode === 'signIn' ? 'Se connecter' : "S'inscrire"}
+                  label={mode === 'signIn' ? t.signIn.signIn : t.signIn.signUp}
                   onPress={submit}
                   loading={loading}
                   disabled={!canSubmit}
@@ -114,7 +116,7 @@ export default function SignIn() {
           <Button
             variant="ghost"
             haptic="tap"
-            label={mode === 'signIn' ? 'Pas encore de compte ? Inscris-toi' : "J'ai déjà un compte"}
+            label={mode === 'signIn' ? t.signIn.noAccount : t.signIn.haveAccount}
             sentence
             onPress={() => {
               setMode(mode === 'signIn' ? 'signUp' : 'signIn');

@@ -65,6 +65,8 @@ export type UserStats = {
   daily_goal_xp: number;
   /** Highlight the text while the voice-over plays. */
   read_along: boolean;
+  /** Interface and translation language chosen in the profile; null: device language. */
+  lang: string | null;
 };
 
 export type VocabularyItem = {

@@ -3,6 +3,7 @@ import {
   AudioLines,
   Flame,
   GraduationCap,
+  Languages,
   LogOut,
   Target,
   Trophy,
@@ -12,6 +13,7 @@ import {
 import { ScrollView, StyleSheet, Switch, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+import { LANGS, LANG_NAMES, useI18n } from '@/i18n';
 import { useAuth } from '@/lib/auth';
 import { DAILY_GOAL_OPTIONS, displayedStreak } from '@/lib/gamification';
 import { useStats } from '@/lib/stats';
@@ -21,32 +23,33 @@ import { Button, Card, Icon, Text, colors, spacing } from '@/theme';
 
 export default function Profile() {
   const { session } = useAuth();
+  const { t, lang, setLang } = useI18n();
   const { stats, updateDailyGoal, updateReadAlong } = useStats();
   const { target, replay } = useTour('profile', stats !== null);
 
   return (
     <SafeAreaView style={styles.safe} edges={['top']}>
       <ScrollView contentContainerStyle={styles.content}>
-        <Text variant="title">Profil</Text>
+        <Text variant="title">{t.profile.title}</Text>
         <Text color={colors.textSecondary}>{session?.user.email}</Text>
 
         <View style={styles.grid}>
           <Stat
             icon={Zap}
             value={stats?.total_xp ?? 0}
-            label="XP au total"
+            label={t.profile.totalXp}
             color={colors.xpShade}
           />
           <Stat
             icon={Flame}
             value={stats ? displayedStreak(stats) : 0}
-            label="Série actuelle"
+            label={t.profile.currentStreak}
             color={colors.streakShade}
           />
           <Stat
             icon={Trophy}
             value={stats?.best_streak ?? 0}
-            label="Meilleure série"
+            label={t.profile.bestStreak}
             color={colors.primary}
           />
         </View>
@@ -55,10 +58,10 @@ export default function Profile() {
           <Card>
             <View style={styles.titleRow}>
               <Icon icon={Target} size={22} color={colors.xpShade} />
-              <Text variant="heading">Objectif quotidien</Text>
+              <Text variant="heading">{t.profile.dailyGoal}</Text>
             </View>
             <Text color={colors.textSecondary} style={styles.hint}>
-              XP à gagner chaque jour.
+              {t.profile.dailyGoalHint}
             </Text>
             <View style={styles.goals}>
               {DAILY_GOAL_OPTIONS.map((goal) => (
@@ -80,7 +83,7 @@ export default function Profile() {
             <View style={styles.titleRow}>
               <Icon icon={AudioLines} size={22} color={colors.primary} />
               <Text variant="heading" style={styles.flex}>
-                Surlignage audio
+                {t.profile.readAlong}
               </Text>
               <Switch
                 value={stats?.read_along ?? true}
@@ -88,18 +91,43 @@ export default function Profile() {
                 onValueChange={(v) => updateReadAlong(v).catch(console.warn)}
                 trackColor={{ false: colors.border, true: colors.primary }}
                 thumbColor={colors.surface}
-                accessibilityLabel="Surlignage audio"
+                accessibilityLabel={t.profile.readAlong}
               />
             </View>
             <Text color={colors.textSecondary} style={styles.hint}>
-              Surligne le texte et le mot lu pendant l’écoute.
+              {t.profile.readAlongHint}
             </Text>
+          </Card>
+        </View>
+
+        <View ref={target('language')} collapsable={false}>
+          <Card>
+            <View style={styles.titleRow}>
+              <Icon icon={Languages} size={22} color={colors.info} />
+              <Text variant="heading">{t.profile.language}</Text>
+            </View>
+            <Text color={colors.textSecondary} style={styles.hint}>
+              {t.profile.languageHint}
+            </Text>
+            <View style={styles.goals}>
+              {LANGS.map((l) => (
+                <Button
+                  key={l}
+                  label={LANG_NAMES[l]}
+                  sentence
+                  variant={lang === l ? 'primary' : 'secondary'}
+                  haptic="tap"
+                  style={styles.goal}
+                  onPress={() => setLang(l).catch(console.warn)}
+                />
+              ))}
+            </View>
           </Card>
         </View>
 
         <View ref={target('replay')} collapsable={false}>
           <Button
-            label="Revoir la démo"
+            label={t.profile.replay}
             variant="secondary"
             icon={<Icon icon={GraduationCap} size={20} color={colors.primary} />}
             onPress={() => {
@@ -111,7 +139,7 @@ export default function Profile() {
         </View>
 
         <Button
-          label="Se déconnecter"
+          label={t.profile.signOut}
           variant="danger"
           icon={<Icon icon={LogOut} size={20} color={colors.textOnColor} />}
           onPress={() => supabase.auth.signOut()}

@@ -14,6 +14,7 @@ import { BackHandler, StyleSheet, View } from 'react-native';
 import { useSafeAreaInsets, type EdgeInsets } from 'react-native-safe-area-context';
 
 import { Spotlight, type Rect } from '@/components/Spotlight';
+import { useI18n, type Messages } from '@/i18n';
 import { useAuth } from './auth';
 import { TOUR_STEPS, type TourScreen, type TourStep } from './tourSteps';
 
@@ -58,6 +59,7 @@ export function TourProvider({ children }: { children: ReactNode }) {
   // window coordinates may be offset (e.g. by the Android status bar).
   const rootRef = useRef<View>(null);
   const insets = useSafeAreaInsets();
+  const { t } = useI18n();
   // Null until loaded (and when signed out): nothing is shown meanwhile.
   const seen = stored?.userId === userId ? stored.seen : null;
 
@@ -101,8 +103,8 @@ export function TourProvider({ children }: { children: ReactNode }) {
         const visit = (index: number) => {
           const step = steps[index];
           if (!step) return finish();
-          if (!step.target) return setActive({ screen, steps, index, rect: null, size });
-          const node = targets.get(`${screen}.${step.target}`);
+          if (step.centered) return setActive({ screen, steps, index, rect: null, size });
+          const node = targets.get(`${screen}.${step.id}`);
           if (!node) return visit(index + 1);
           node.measureInWindow((x, y, w, h) => {
             const rect = visibleRect(
@@ -124,7 +126,7 @@ export function TourProvider({ children }: { children: ReactNode }) {
     (screen: TourScreen) => {
       if (!seen || seen.screens.includes(screen) || active) return;
       const steps = TOUR_STEPS[screen].filter(
-        (s) => !s.target || targets.has(`${screen}.${s.target}`),
+        (s) => s.centered || targets.has(`${screen}.${s.id}`),
       );
       show(screen, steps, 0);
     },
@@ -150,13 +152,16 @@ export function TourProvider({ children }: { children: ReactNode }) {
     return () => sub.remove();
   }, [active, skip]);
 
+  const texts = active && stepTexts(t, active.screen, active.steps[active.index]!);
+
   return (
     <TourContext.Provider value={{ targets, start, replay }}>
       <View ref={rootRef} collapsable={false} style={styles.root}>
         {children}
-        {active ? (
+        {active && texts ? (
           <Spotlight
-            step={active.steps[active.index]!}
+            title={texts.title}
+            text={texts.text}
             index={active.index}
             count={active.steps.length}
             rect={active.rect}
@@ -203,6 +208,9 @@ export function useTour(screen: TourScreen, ready = true) {
 
   return { target, replay };
 }
+
+const stepTexts = (t: Messages, screen: TourScreen, step: TourStep) =>
+  (t.tour[screen] as Record<string, { title: string; text: string }>)[step.id];
 
 /** Part of `r` between the safe areas, or null when (almost) nothing is visible. */
 function visibleRect(r: Rect, screenHeight: number, insets: EdgeInsets): Rect | null {

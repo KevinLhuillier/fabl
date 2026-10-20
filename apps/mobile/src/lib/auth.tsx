@@ -1,6 +1,8 @@
 import type { Session } from '@supabase/supabase-js';
 import { createContext, useContext, useEffect, useState, type ReactNode } from 'react';
 
+import type { Messages } from '@/i18n';
+
 import { supabase } from './supabase';
 
 type AuthContextValue = {
@@ -29,14 +31,13 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
 export const useAuth = () => useContext(AuthContext);
 
-/** Supabase auth errors, in French for the UI. */
-export function authErrorMessage(message: string): string {
-  if (/invalid login credentials/i.test(message)) return 'Email ou mot de passe incorrect.';
-  if (/email not confirmed/i.test(message))
-    return 'Confirme ton adresse email (lien reçu par email), puis reconnecte-toi.';
-  if (/already registered/i.test(message)) return 'Un compte existe déjà avec cet email.';
-  if (/password should be at least/i.test(message))
-    return 'Le mot de passe doit contenir au moins 6 caractères.';
-  if (/valid email|invalid format/i.test(message)) return 'Adresse email invalide.';
+/** Supabase auth errors, in the interface language. */
+export function authErrorMessage(t: Messages, message: string): string {
+  const e = t.signIn.errors;
+  if (/invalid login credentials/i.test(message)) return e.invalidCredentials;
+  if (/email not confirmed/i.test(message)) return e.emailNotConfirmed;
+  if (/already registered/i.test(message)) return e.alreadyRegistered;
+  if (/password should be at least/i.test(message)) return e.passwordTooShort;
+  if (/valid email|invalid format/i.test(message)) return e.invalidEmail;
   return message;
 }

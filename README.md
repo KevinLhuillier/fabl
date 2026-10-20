@@ -12,7 +12,7 @@ apps/mobile         Expo app (TypeScript, expo-router)
   src/theme         Design system: colors, typography, spacing, motion, haptics, base components
 apps/admin          Local web admin to write and publish stories (Vite + React, Hono API)
 content/stories     Stories in Markdown (.md)
-content/translations Translations per language (fr.json)
+content/translations Translations per language (fr.json, es.json)
 content/alignments  Text ↔ voice-over timings per story (align-audio)
 scripts/publish     Publishing pipeline (Markdown → Supabase)
 supabase/migrations SQL schema
@@ -51,8 +51,17 @@ turn this off in **Authentication → Providers → Email → Confirm email**.
 - **Mes mots**: every word looked up, with translation, context sentence and story, searchable,
   removable (trash icon), with the number of words due today. Practice is possible at any time.
 - **Review**: due words (spaced repetition, simplified SM-2 — `src/lib/srs.ts`) as multiple-choice
-  questions, alternating EN → FR and FR → EN. Missed words come back at the end.
+  questions, alternating English → user's language and back. Missed words come back at the end.
 - **Celebration** screen after a chapter (with "next chapter"), a whole story or a review.
+
+### Languages
+
+The interface and the word translations are in **French** or **Spanish**: the language chosen in
+**Profil → Langue** (saved on the account, `user_stats.lang`), else the phone's language (French
+when it is neither). Interface texts live in `apps/mobile/src/i18n/` — `fr.ts` is the reference,
+`es.ts` must have the same keys (TypeScript checks it). To add a language: a new dictionary, its
+code in `LANGS` (`i18n/index.tsx`) and in the `user_stats.lang` check constraint (migration), and
+a `content/translations/<lang>.json` imported with `seed-translations`.
 
 ### Tuning the game
 
@@ -112,6 +121,7 @@ Then copy `.env.example` to `.env` at the repo root and fill in
 npm run publish-story -- content/stories/a1-my-story.md            # one or more files
 npm run publish-story -- content/stories/a1-my-story.md --dry-run  # check only, no database
 npm run seed-translations                                           # import content/translations/fr.json
+npm run seed-translations -- --lang es                              # import content/translations/es.json
 ```
 
 For each story the script:
@@ -122,9 +132,11 @@ For each story the script:
 3. upserts story, chapters, pages, lemmas and tokens — **idempotent**: the story is keyed by its
    file name (slug), chapters and pages by their `key`, so republishing updates everything
    without duplicates (removed chapters/pages are deleted);
-4. lists the lemmas that still have no French translation.
+4. lists the lemmas that still have no translation in `--lang` (`fr` by default; run it again
+   with `--lang es` for Spanish).
 
-Add the missing ones to `content/translations/fr.json`, then run `npm run seed-translations`.
+Add the missing ones to `content/translations/<lang>.json`, then run `npm run seed-translations`
+(`-- --lang es` for Spanish).
 
 ### Admin (web)
 
@@ -156,7 +168,8 @@ cookies; every API call checks it against Supabase, so the Supabase keys in `.en
   an MP3 (public `audio` Storage bucket, 20 MB max.), listen to it, replace or remove it.
 - **Vérifier** (dry run) / **Publier**: same pipeline as `publish-story`; the report lists the
   words without translation, with the story sentence as suggested example, to translate on the
-  spot (saved to `content/translations/fr.json` and Supabase).
+  spot (saved to `content/translations/fr.json` and Supabase; start the admin with `ADMIN_LANG=es`
+  to work on the Spanish ones).
 - **Supprimer**: remove from the app (readers' progress on the story is deleted) and/or delete
   the file.
 
@@ -205,7 +218,7 @@ Then Mia sees her neighbour, Mr Green.
 
 ### Translation file
 
-`content/translations/fr.json`:
+`content/translations/<lang>.json` (`fr.json`, `es.json`):
 
 ```json
 {
@@ -251,7 +264,7 @@ right lemma. Then republish the affected stories and translate the new lemma.
 | `npm run grant-admin -- <email>`     | Give admin access (`--revoke` to remove)     |
 | `npm run publish-story -- <file.md>` | Publish a story (`--dry-run` to check only)  |
 | `npm run align-audio -- <file.md>`   | Align voice-overs with the text (read-along) |
-| `npm run seed-translations`          | Import `content/translations/fr.json`        |
+| `npm run seed-translations`          | Import translations (`-- --lang es`)         |
 | `npm run lint`                       | ESLint + Prettier on all packages            |
 | `npm run typecheck`                  | TypeScript on all packages                   |
 | `npm run format`                     | Format the whole repo                        |

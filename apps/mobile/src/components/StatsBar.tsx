@@ -1,6 +1,7 @@
 import { Flame, Target, Zap } from 'lucide-react-native';
 import { StyleSheet, View } from 'react-native';
 
+import { useI18n } from '@/i18n';
 import { displayedStreak } from '@/lib/gamification';
 import { useStats } from '@/lib/stats';
 import { Badge, Card, Icon, ProgressBar, Text, colors, spacing } from '@/theme';
@@ -8,6 +9,7 @@ import { Badge, Card, Icon, ProgressBar, Text, colors, spacing } from '@/theme';
 /** Streak, total XP and today's goal — shown at the top of the home screen. */
 export function StatsBar() {
   const { stats, todayXp } = useStats();
+  const { t } = useI18n();
   const streak = stats ? displayedStreak(stats) : 0;
   const goal = stats?.daily_goal_xp ?? 30;
   const reached = todayXp >= goal;
@@ -22,7 +24,7 @@ export function StatsBar() {
         <View style={styles.goalHeader}>
           <View style={styles.goalTitle}>
             <Icon icon={Target} size={18} color={reached ? colors.successShade : colors.xpShade} />
-            <Text variant="bodyBold">{reached ? 'Objectif atteint !' : 'Objectif du jour'}</Text>
+            <Text variant="bodyBold">{reached ? t.stats.goalReached : t.stats.dailyGoal}</Text>
           </View>
           <Text variant="caption" color={colors.textSecondary}>
             {Math.min(todayXp, goal)} / {goal} XP

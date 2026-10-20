@@ -1,4 +1,3 @@
-import { TRANSLATION_LANG } from '../config';
 import { endOfToday } from '../dates';
 import type { SrsResult } from '../srs';
 import { currentUserId, supabase, unwrap } from '../supabase';
@@ -73,24 +72,25 @@ function toItem(r: RawVocab): VocabularyItem {
   };
 }
 
-export async function fetchVocabulary(): Promise<VocabularyItem[]> {
+/** The user's words, with their `lang` translation. */
+export async function fetchVocabulary(lang: string): Promise<VocabularyItem[]> {
   const rows = unwrap(
     await supabase
       .from('user_vocabulary')
       .select(VOCAB_SELECT)
-      .eq('lemmas.translations.lang', TRANSLATION_LANG)
+      .eq('lemmas.translations.lang', lang)
       .order('added_at', { ascending: false }),
   ) as unknown as RawVocab[];
   return rows.map(toItem);
 }
 
 /** Words due today (oldest due first). */
-export async function fetchDueVocabulary(limit: number): Promise<VocabularyItem[]> {
+export async function fetchDueVocabulary(limit: number, lang: string): Promise<VocabularyItem[]> {
   const rows = unwrap(
     await supabase
       .from('user_vocabulary')
       .select(VOCAB_SELECT)
-      .eq('lemmas.translations.lang', TRANSLATION_LANG)
+      .eq('lemmas.translations.lang', lang)
       .lte('due_at', endOfToday().toISOString())
       .order('due_at')
       .limit(limit),
@@ -102,14 +102,14 @@ export async function fetchDueVocabulary(limit: number): Promise<VocabularyItem[
  * Words for a review session: due words first, then — so the user can practise
  * whenever they want — the words whose next review is the soonest.
  */
-export async function fetchReviewSession(limit: number): Promise<VocabularyItem[]> {
-  const due = await fetchDueVocabulary(limit);
+export async function fetchReviewSession(limit: number, lang: string): Promise<VocabularyItem[]> {
+  const due = await fetchDueVocabulary(limit, lang);
   if (due.length >= limit) return due;
   const upcoming = unwrap(
     await supabase
       .from('user_vocabulary')
       .select(VOCAB_SELECT)
-      .eq('lemmas.translations.lang', TRANSLATION_LANG)
+      .eq('lemmas.translations.lang', lang)
       .gt('due_at', endOfToday().toISOString())
       .order('due_at')
       .limit(limit - due.length),
@@ -144,12 +144,12 @@ export async function saveReview(lemmaId: number, result: SrsResult) {
 export type DistractorEntry = { word: string; translation: string };
 
 /** A pool of (word, translation) pairs used to build wrong MCQ answers. */
-export async function fetchDistractorPool(): Promise<DistractorEntry[]> {
+export async function fetchDistractorPool(lang: string): Promise<DistractorEntry[]> {
   const rows = unwrap(
     await supabase
       .from('translations')
       .select('translation, lemmas(word, pos)')
-      .eq('lang', TRANSLATION_LANG)
+      .eq('lang', lang)
       .limit(400),
   ) as unknown as { translation: string; lemmas: { word: string; pos: string } | null }[];
   return rows

@@ -7,9 +7,10 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { StoryCover } from '@/components/StoryCover';
 import { TableOfContents } from '@/components/TableOfContents';
+import { useI18n } from '@/i18n';
 import { fetchStoryWithChapters } from '@/lib/api/content';
 import { fetchChapterProgress } from '@/lib/api/progress';
-import { LEVEL_NAMES, formatNumber, plural, readingMinutes } from '@/lib/labels';
+import { readingMinutes } from '@/lib/labels';
 import { useTour } from '@/lib/tour';
 import type { ChapterProgress, ChapterSummary, StorySummary } from '@/lib/types';
 import {
@@ -28,6 +29,7 @@ import {
 /** A story: cover, summary, overall progress and the table of contents of its chapters. */
 export default function StoryScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
+  const { t } = useI18n();
   const [story, setStory] = useState<StorySummary | null>(null);
   const [chapters, setChapters] = useState<ChapterSummary[]>([]);
   const [progress, setProgress] = useState(new Map<string, ChapterProgress>());
@@ -56,7 +58,7 @@ export default function StoryScreen() {
             <Text align="center" color={colors.danger}>
               {error}
             </Text>
-            <Button label="Retour" variant="secondary" onPress={() => router.back()} />
+            <Button label={t.common.back} variant="secondary" onPress={() => router.back()} />
           </View>
         ) : (
           <ActivityIndicator color={colors.primary} />
@@ -79,10 +81,10 @@ export default function StoryScreen() {
           onPress={() => router.back()}
           hitSlop={12}
           accessibilityRole="button"
-          accessibilityLabel="Retour">
+          accessibilityLabel={t.common.back}>
           <Icon icon={ChevronLeft} size={30} color={colors.textMuted} />
         </Pressable>
-        <Badge label={`${story.level} · ${LEVEL_NAMES[story.level]}`} level={story.level} solid />
+        <Badge label={`${story.level} · ${t.levels[story.level]}`} level={story.level} solid />
       </View>
 
       <ScrollView contentContainerStyle={styles.content}>
@@ -97,14 +99,14 @@ export default function StoryScreen() {
                     <View style={styles.meta}>
                       <Icon icon={BookOpen} size={16} color={c.shade} />
                       <Text variant="caption" color={colors.textSecondary} style={styles.shrink}>
-                        {formatNumber(story.word_count)} mots ·{' '}
-                        {plural(story.chapter_count, 'chapitre', 'chapitres')}
+                        {t.common.words(story.word_count)} ·{' '}
+                        {t.common.chapters(story.chapter_count)}
                       </Text>
                     </View>
                     <View style={styles.meta}>
                       <Icon icon={Clock} size={16} color={c.shade} />
                       <Text variant="caption" color={colors.textSecondary} style={styles.shrink}>
-                        ≈ {readingMinutes(story.word_count)} min
+                        {t.story.readingTime(readingMinutes(story.word_count))}
                       </Text>
                     </View>
                   </View>

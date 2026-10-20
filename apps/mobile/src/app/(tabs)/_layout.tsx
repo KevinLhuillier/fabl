@@ -1,9 +1,11 @@
 import { Tabs } from 'expo-router';
 import { CircleUserRound, LibraryBig, Map as MapIcon } from 'lucide-react-native';
 
+import { useI18n } from '@/i18n';
 import { Icon, colors, fonts, haptics } from '@/theme';
 
 export default function TabsLayout() {
+  const { t } = useI18n();
   return (
     <Tabs
       screenListeners={{ tabPress: () => haptics.select() }}
@@ -24,21 +26,21 @@ export default function TabsLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: 'Histoires',
+          title: t.tabs.stories,
           tabBarIcon: ({ color }) => <Icon icon={MapIcon} size={26} color={color} />,
         }}
       />
       <Tabs.Screen
         name="vocabulary"
         options={{
-          title: 'Mes mots',
+          title: t.tabs.vocabulary,
           tabBarIcon: ({ color }) => <Icon icon={LibraryBig} size={26} color={color} />,
         }}
       />
       <Tabs.Screen
         name="profile"
         options={{
-          title: 'Profil',
+          title: t.tabs.profile,
           tabBarIcon: ({ color }) => <Icon icon={CircleUserRound} size={26} color={color} />,
         }}
       />
