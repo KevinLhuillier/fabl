@@ -1,5 +1,6 @@
-import { Fragment, memo } from 'react';
+import { memo } from 'react';
 import { StyleSheet, View } from 'react-native';
+import Animated from 'react-native-reanimated';
 
 import type { Token } from '@/lib/types';
 import { Text, colors, fonts, haptics, radii, spacing } from '@/theme';
@@ -25,8 +26,9 @@ const QUOTE = /^["“”]$/;
 type Segment = { token: Token; spoken: boolean; quote?: 'open' | 'close' };
 
 /**
- * Renders a passage from its tokens. Each line is a paragraph; tokens with a
- * lemma are nested <Text> with onPress, so lines still wrap naturally.
+ * Renders a passage from its tokens. Each line is a paragraph laid out as a
+ * wrapping row of words (glued tokens stay together); tokens with a lemma
+ * are pressable.
  *
  * Spoken words (between quotation marks, quotes included) are shown in
  * italics; the narration around them keeps the normal style.
@@ -44,55 +46,116 @@ export const PassageText = memo(function PassageText({
   currentColor,
   onWordLongPress,
 }: Props) {
-  const paragraphs = splitParagraphs(tokens).map(markDialogue);
+  const paragraphs = splitParagraphs(tokens).map(markDialogue).map(splitWords);
 
   return (
     <View style={styles.wrap}>
-      {paragraphs.map((segments, i) => (
-        <Text key={i} variant="reading">
-          {segments.map(({ token: t, spoken, quote }) => {
-            const style = [
-              spoken && styles.spoken,
-              readAlong && t.position <= readAlong.readUpTo && { color: readColor },
-              readAlong?.current === t.position && {
-                backgroundColor: currentColor,
-                borderRadius: radii.sm,
-              },
-              t.position === selectedPosition && styles.selected,
-            ];
-            const label = quote === 'open' ? '“' : quote === 'close' ? '”' : t.text;
-            return (
-              <Fragment key={t.position}>
-                {t.lemma ? (
-                  <Text
-                    variant="reading"
-                    suppressHighlighting
-                    onPress={() => {
-                      haptics.select();
-                      onWordPress(t);
-                    }}
-                    onLongPress={
-                      onWordLongPress && t.startMs !== null
-                        ? () => {
-                            haptics.tap();
-                            onWordLongPress(t);
-                          }
-                        : undefined
-                    }
-                    style={style}>
-                    {label}
-                  </Text>
-                ) : (
-                  <Text variant="reading" style={style}>
-                    {label}
-                  </Text>
-                )}
-                {t.whitespace.replace(/\n/g, '')}
-              </Fragment>
-            );
-          })}
-        </Text>
+      {paragraphs.map((words, i) => (
+        <View key={i} style={styles.paragraph}>
+          {words.map((segments) => (
+            <View key={segments[0]!.token.position} style={styles.word}>
+              {segments.map(({ token: t, spoken, quote }, j) => (
+                <Word
+                  key={t.position}
+                  token={t}
+                  label={quote === 'open' ? '“' : quote === 'close' ? '”' : t.text}
+                  spoken={spoken}
+                  read={!!readAlong && t.position <= readAlong.readUpTo}
+                  current={readAlong?.current === t.position}
+                  selected={t.position === selectedPosition}
+                  padLeft={j === 0}
+                  padRight={j === segments.length - 1}
+                  readColor={readColor}
+                  currentColor={currentColor}
+                  onWordPress={onWordPress}
+                  onWordLongPress={onWordLongPress}
+                />
+              ))}
+              <Text variant="reading">
+                {segments[segments.length - 1]!.token.whitespace.replace(/\n/g, '')}
+              </Text>
+            </View>
+          ))}
+        </View>
       ))}
+    </View>
+  );
+});
+
+type WordProps = {
+  token: Token;
+  label: string;
+  spoken: boolean;
+  read: boolean;
+  current: boolean;
+  selected: boolean;
+  /** The highlight overflows into the surrounding whitespace only, never over a glued neighbor. */
+  padLeft: boolean;
+  padRight: boolean;
+  readColor?: string;
+  currentColor?: string;
+  onWordPress: (token: Token) => void;
+  onWordLongPress?: (token: Token) => void;
+};
+
+/**
+ * One token. The read-along highlight is a rounded pill behind the text that
+ * fades in and out (a nested <Text> can't have padding, radius or animation).
+ */
+const Word = memo(function Word({
+  token: t,
+  label,
+  spoken,
+  read,
+  current,
+  selected,
+  padLeft,
+  padRight,
+  readColor,
+  currentColor,
+  onWordPress,
+  onWordLongPress,
+}: WordProps) {
+  const style = [
+    spoken && styles.spoken,
+    read && { color: readColor },
+    selected && styles.selected,
+  ];
+  return (
+    <View>
+      <Animated.View
+        pointerEvents="none"
+        style={[
+          styles.highlight,
+          padLeft && styles.highlightLeft,
+          padRight && styles.highlightRight,
+          { backgroundColor: currentColor, opacity: current ? 1 : 0 },
+        ]}
+      />
+      {t.lemma ? (
+        <Text
+          variant="reading"
+          suppressHighlighting
+          onPress={() => {
+            haptics.select();
+            onWordPress(t);
+          }}
+          onLongPress={
+            onWordLongPress && t.startMs !== null
+              ? () => {
+                  haptics.tap();
+                  onWordLongPress(t);
+                }
+              : undefined
+          }
+          style={style}>
+          {label}
+        </Text>
+      ) : (
+        <Text variant="reading" style={style}>
+          {label}
+        </Text>
+      )}
     </View>
   );
 });
@@ -119,6 +182,19 @@ function markDialogue(line: Token[]): Segment[] {
 }
 
 /**
+ * Groups glued tokens (no whitespace between them, e.g. “Bonjour or mot,)
+ * so a line never breaks between them.
+ */
+function splitWords(line: Segment[]): Segment[][] {
+  const words: Segment[][] = [[]];
+  for (const s of line) {
+    words[words.length - 1]!.push(s);
+    if (s.token.whitespace) words.push([]);
+  }
+  return words.filter((w) => w.length);
+}
+
+/**
  * Sentence around a token, used as the vocabulary "context". Sentences end
  * with . ! ? (an ellipsis or closing quote stays attached) or a line break.
  */
@@ -139,7 +215,23 @@ export function sentenceAround(tokens: Token[], position: number): string {
 
 const styles = StyleSheet.create({
   wrap: { gap: spacing.lg },
+  paragraph: { flexDirection: 'row', flexWrap: 'wrap' },
+  word: { flexDirection: 'row' },
   spoken: { fontFamily: fonts.italic },
+  // Pill around the glyphs (the line box is much taller than the text).
+  highlight: {
+    position: 'absolute',
+    top: spacing.xs,
+    bottom: spacing.xs,
+    left: 0,
+    right: 0,
+    borderRadius: radii.sm,
+    transitionProperty: 'opacity',
+    transitionDuration: 220,
+    transitionTimingFunction: 'ease-out',
+  },
+  highlightLeft: { left: -spacing.xs - spacing.xxs },
+  highlightRight: { right: -spacing.xs - spacing.xxs },
   selected: {
     backgroundColor: colors.xpSoft,
     color: colors.primary,
