@@ -1,9 +1,10 @@
 import { setAudioModeAsync, useAudioPlayer, useAudioPlayerStatus } from 'expo-audio';
 import { Pause, Play, RotateCcw } from 'lucide-react-native';
 import { useEffect } from 'react';
-import { ActivityIndicator, Pressable, StyleSheet, View } from 'react-native';
+import { ActivityIndicator, Pressable, StyleSheet, View, type ViewStyle } from 'react-native';
+import Svg, { Circle } from 'react-native-svg';
 
-import { Icon, ProgressBar, Text, colors, haptics, radii, spacing } from '@/theme';
+import { Icon, colors, haptics } from '@/theme';
 
 // The voice-over must play even with the iPhone's silent switch on.
 let audioModeSet = false;
@@ -13,19 +14,33 @@ function ensureAudioMode() {
   setAudioModeAsync({ playsInSilentMode: true }).catch((e) => console.warn('setAudioMode', e));
 }
 
-const formatTime = (seconds: number) => {
-  const s = Math.max(0, Math.round(seconds));
-  return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`;
-};
+/** Outer size of the player; the button sits inside the progress ring. */
+export const PAGE_AUDIO_SIZE = 64;
+const RING = 4;
+const RADIUS = (PAGE_AUDIO_SIZE - RING) / 2;
+const CIRCUMFERENCE = 2 * Math.PI * RADIUS;
+const BUTTON = PAGE_AUDIO_SIZE - RING * 2 - 4;
 
 /**
- * Player for a page's recorded voice-over. Mount it with `key={page.id}`: each
+ * Compact player for a page's recorded voice-over: one round button (play / pause /
+ * replay) circled by the playback progress. Mount it with `key={page.id}`: each
  * page gets its own player, released (and silenced) when the page changes.
  */
-export function PageAudio({ uri, color, shade }: { uri: string; color: string; shade: string }) {
+export function PageAudio({
+  uri,
+  color,
+  shade,
+  style,
+}: {
+  uri: string;
+  color: string;
+  shade: string;
+  style?: ViewStyle;
+}) {
   const player = useAudioPlayer(uri);
   const status = useAudioPlayerStatus(player);
   const ended = status.duration > 0 && status.currentTime >= status.duration - 0.25;
+  const progress = status.duration ? Math.min(1, status.currentTime / status.duration) : 0;
 
   useEffect(ensureAudioMode, []);
 
@@ -43,7 +58,32 @@ export function PageAudio({ uri, color, shade }: { uri: string; color: string; s
   const icon = status.playing ? Pause : ended ? RotateCcw : Play;
 
   return (
-    <View style={styles.wrap}>
+    <View style={[styles.wrap, style]}>
+      <Svg width={PAGE_AUDIO_SIZE} height={PAGE_AUDIO_SIZE} style={StyleSheet.absoluteFill}>
+        <Circle
+          cx={PAGE_AUDIO_SIZE / 2}
+          cy={PAGE_AUDIO_SIZE / 2}
+          r={RADIUS}
+          stroke={colors.border}
+          strokeWidth={RING}
+          fill={colors.surface}
+        />
+        {progress > 0 ? (
+          <Circle
+            cx={PAGE_AUDIO_SIZE / 2}
+            cy={PAGE_AUDIO_SIZE / 2}
+            r={RADIUS}
+            stroke={color}
+            strokeWidth={RING}
+            strokeLinecap="round"
+            strokeDasharray={CIRCUMFERENCE}
+            strokeDashoffset={CIRCUMFERENCE * (1 - progress)}
+            fill="none"
+            // Start at 12 o'clock and fill clockwise.
+            transform={`rotate(-90 ${PAGE_AUDIO_SIZE / 2} ${PAGE_AUDIO_SIZE / 2})`}
+          />
+        ) : null}
+      </Svg>
       <Pressable
         onPress={toggle}
         disabled={!status.isLoaded}
@@ -61,44 +101,24 @@ export function PageAudio({ uri, color, shade }: { uri: string; color: string; s
           <Icon icon={icon} size={22} color={colors.textOnColor} />
         )}
       </Pressable>
-      <ProgressBar
-        progress={status.duration ? status.currentTime / status.duration : 0}
-        color={color}
-        height={10}
-        style={styles.bar}
-      />
-      <Text variant="caption" color={colors.textSecondary} style={styles.time}>
-        {formatTime(
-          status.playing || status.currentTime > 0
-            ? status.duration - status.currentTime
-            : status.duration,
-        )}
-      </Text>
     </View>
   );
 }
 
 const styles = StyleSheet.create({
   wrap: {
-    flexDirection: 'row',
+    width: PAGE_AUDIO_SIZE,
+    height: PAGE_AUDIO_SIZE,
     alignItems: 'center',
-    gap: spacing.md,
-    padding: spacing.sm,
-    paddingRight: spacing.lg,
-    borderRadius: radii.pill,
-    borderWidth: 2,
-    borderColor: colors.border,
-    backgroundColor: colors.surface,
+    justifyContent: 'center',
   },
   button: {
-    width: 44,
-    height: 44,
-    borderRadius: 22,
+    width: BUTTON,
+    height: BUTTON,
+    borderRadius: BUTTON / 2,
     borderBottomWidth: 4,
     alignItems: 'center',
     justifyContent: 'center',
   },
   pressed: { borderBottomWidth: 1, transform: [{ translateY: 3 }] },
-  bar: { flex: 1, width: undefined },
-  time: { minWidth: 36, textAlign: 'right', fontVariant: ['tabular-nums'] },
 });

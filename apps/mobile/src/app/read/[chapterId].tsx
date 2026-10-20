@@ -5,7 +5,7 @@ import { ActivityIndicator, Pressable, ScrollView, StyleSheet, View } from 'reac
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
-import { PageAudio } from '@/components/PageAudio';
+import { PAGE_AUDIO_SIZE, PageAudio } from '@/components/PageAudio';
 import { PassageText, sentenceAround } from '@/components/PassageText';
 import { WordSheet, type WordSheetState } from '@/components/WordSheet';
 import { fetchChapterPages, fetchStoryWithChapters } from '@/lib/api/content';
@@ -166,35 +166,41 @@ export default function ChapterReader() {
         <ProgressBar progress={(page + 1) / pages.length} color={level.solid} style={styles.flex} />
       </View>
 
-      <ScrollView ref={scrollRef} contentContainerStyle={styles.body}>
-        <Text variant="caption" color={level.shade}>
-          CHAPITRE {chapter.position + 1} · {chapter.title.toUpperCase()} · PAGE {page + 1}/
-          {pages.length}
-        </Text>
+      <View style={styles.flex}>
+        <ScrollView
+          ref={scrollRef}
+          contentContainerStyle={[styles.body, current.audioUrl ? styles.bodyWithAudio : null]}>
+          <Text variant="caption" color={level.shade}>
+            CHAPITRE {chapter.position + 1} · {chapter.title.toUpperCase()} · PAGE {page + 1}/
+            {pages.length}
+          </Text>
+          <Animated.View key={current.id} entering={enter.up()}>
+            <PassageText
+              tokens={current.tokens}
+              selectedPosition={selected}
+              onWordPress={onWordPress}
+            />
+          </Animated.View>
+          {chapter.position === 0 && page === 0 ? (
+            <Animated.View entering={enter.fade(600)} style={styles.hint}>
+              <Icon icon={Lightbulb} size={16} color={colors.textMuted} />
+              <Text variant="caption" color={colors.textMuted}>
+                Touche un mot pour voir sa traduction
+              </Text>
+            </Animated.View>
+          ) : null}
+        </ScrollView>
+        {/* Floating over the text, so the voice-over can be paused at any scroll position. */}
         {current.audioUrl ? (
           <PageAudio
             key={`audio-${current.id}`}
             uri={current.audioUrl}
             color={level.solid}
             shade={level.shade}
+            style={styles.audio}
           />
         ) : null}
-        <Animated.View key={current.id} entering={enter.up()}>
-          <PassageText
-            tokens={current.tokens}
-            selectedPosition={selected}
-            onWordPress={onWordPress}
-          />
-        </Animated.View>
-        {chapter.position === 0 && page === 0 ? (
-          <Animated.View entering={enter.fade(600)} style={styles.hint}>
-            <Icon icon={Lightbulb} size={16} color={colors.textMuted} />
-            <Text variant="caption" color={colors.textMuted}>
-              Touche un mot pour voir sa traduction
-            </Text>
-          </Animated.View>
-        ) : null}
-      </ScrollView>
+      </View>
 
       <View style={styles.footer}>
         {/* Fixed-width slots so the main button keeps its place when an arrow is hidden. */}
@@ -259,6 +265,9 @@ const styles = StyleSheet.create({
   },
   flex: { flex: 1 },
   body: { padding: spacing.xl, gap: spacing.lg, paddingBottom: spacing.xxxl },
+  // Room under the last line so the floating player never hides it.
+  bodyWithAudio: { paddingBottom: PAGE_AUDIO_SIZE + spacing.xl * 2 },
+  audio: { position: 'absolute', right: spacing.xl, bottom: spacing.lg },
   hint: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: spacing.xs },
   footer: {
     flexDirection: 'row',
