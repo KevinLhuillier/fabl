@@ -126,6 +126,18 @@ export async function countDueVocabulary(): Promise<number> {
   return count ?? 0;
 }
 
+/** Among `lemmaIds`, the words in the user's list that were never reviewed yet. */
+export async function countWordsToLearn(lemmaIds: number[]): Promise<number> {
+  if (!lemmaIds.length) return 0;
+  const { count, error } = await supabase
+    .from('user_vocabulary')
+    .select('lemma_id', { count: 'exact', head: true })
+    .in('lemma_id', lemmaIds)
+    .is('last_reviewed_at', null);
+  if (error) throw new Error(error.message);
+  return count ?? 0;
+}
+
 export async function saveReview(lemmaId: number, result: SrsResult) {
   unwrap(
     await supabase

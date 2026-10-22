@@ -158,6 +158,9 @@ export const es: Messages = {
     streak: (days) => `Racha: ${days} d`,
     goalReached: '¡Objetivo del día cumplido!',
     goalProgress: (xp, goal) => `Objetivo del día: ${xp} / ${goal} XP`,
+    newWords: (n) =>
+      n === 1 ? '1 palabra nueva por aprender' : `${n} palabras nuevas por aprender`,
+    newWordsHint: 'Te esperan en Mis palabras para tu próximo repaso.',
     nextChapter: 'Capítulo siguiente',
     later: 'Más tarde',
   },

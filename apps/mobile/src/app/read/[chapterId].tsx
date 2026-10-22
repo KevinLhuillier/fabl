@@ -17,7 +17,7 @@ import {
   isStoryCompleted,
   saveChapterPage,
 } from '@/lib/api/progress';
-import { addToVocabulary } from '@/lib/api/vocabulary';
+import { addToVocabulary, countWordsToLearn } from '@/lib/api/vocabulary';
 import { XP_RULES } from '@/lib/gamification';
 import { useStats } from '@/lib/stats';
 import { useTour } from '@/lib/tour';
@@ -126,6 +126,14 @@ export default function ChapterReader() {
     const chapterXp = replay ? XP_RULES.chapterReplay : XP_RULES.chapterFirstCompletion;
     await completeChapter(chapterId).catch((e) => console.warn('completeChapter', e));
     await award('chapter', chapterXp);
+    // Words of this chapter the user looked up and has not reviewed yet.
+    const lemmaIds = [
+      ...new Set(pages.flatMap((p) => p.tokens.flatMap((t) => (t.lemma ? [t.lemma.id] : [])))),
+    ];
+    const newWords = await countWordsToLearn(lemmaIds).catch((e) => {
+      console.warn('countWordsToLearn', e);
+      return 0;
+    });
 
     // Last unfinished chapter of the story → story bonus + big celebration.
     const storyDone = chapters.every((c) => c.id === chapterId || progress.get(c.id)?.completed);
@@ -138,6 +146,7 @@ export default function ChapterReader() {
           kind: 'story',
           xp: String(chapterXp + XP_RULES.storyCompletionBonus),
           title: story.title,
+          newWords: String(newWords),
         },
       });
       return;
@@ -150,6 +159,7 @@ export default function ChapterReader() {
         kind: 'chapter',
         xp: String(chapterXp),
         title: t.reader.chapterTitle(chapter.position + 1, chapter.title),
+        newWords: String(newWords),
         ...(nextChapter ? { nextChapterId: nextChapter.id, storyId: story.id } : {}),
       },
     });

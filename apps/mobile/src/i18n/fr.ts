@@ -161,6 +161,9 @@ export const fr = {
     streak: (days: number) => `Série : ${days} j`,
     goalReached: 'Objectif du jour atteint !',
     goalProgress: (xp: number, goal: number) => `Objectif du jour : ${xp} / ${goal} XP`,
+    newWords: (n: number) =>
+      n === 1 ? '1 nouveau mot à apprendre' : `${n} nouveaux mots à apprendre`,
+    newWordsHint: 'Ils t’attendent dans Mes mots pour ta prochaine révision.',
     nextChapter: 'Chapitre suivant',
     later: 'Plus tard',
   },

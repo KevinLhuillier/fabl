@@ -52,7 +52,8 @@ turn this off in **Authentication → Providers → Email → Confirm email**.
   removable (trash icon), with the number of words due today. Practice is possible at any time.
 - **Review**: due words (spaced repetition, simplified SM-2 — `src/lib/srs.ts`): the user types the word's translation,
   alternating English → user's language and back (synonyms, articles, a missing accent or one typo accepted — `src/lib/answer.ts`). Missed words come back at the end.
-- **Celebration** screen after a chapter (with "next chapter"), a whole story or a review.
+- **Celebration** screen after a chapter (with "next chapter" and the number of new words to learn:
+  the chapter's words added to "Mes mots" and not reviewed yet), a whole story or a review.
 
 ### Languages
 

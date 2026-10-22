@@ -1,5 +1,14 @@
 import { router, useLocalSearchParams } from 'expo-router';
-import { BookCheck, Brain, Flame, Target, Trophy, Zap, type LucideIcon } from 'lucide-react-native';
+import {
+  BookCheck,
+  BookOpen,
+  Brain,
+  Flame,
+  Target,
+  Trophy,
+  Zap,
+  type LucideIcon,
+} from 'lucide-react-native';
 import { useEffect, useState } from 'react';
 import { StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
@@ -32,6 +41,8 @@ type Params = {
   /** Chapter only: lets the user chain straight into the next chapter. */
   nextChapterId?: string;
   storyId?: string;
+  /** Chapter and story: words of the chapter added to "Mes mots", not reviewed yet. */
+  newWords?: string;
 };
 
 const HERO: Record<Kind, { icon: LucideIcon; color: string; background: string }> = {
@@ -48,10 +59,12 @@ export default function Celebration() {
     title,
     nextChapterId,
     storyId,
+    newWords,
   } = useLocalSearchParams<Params>();
   const { stats, todayXp } = useStats();
   const { t } = useI18n();
   const gained = Number(xp) || 0;
+  const wordsToLearn = Number(newWords) || 0;
   const shownXp = useCountUp(gained);
 
   useEffect(() => {
@@ -116,6 +129,21 @@ export default function Celebration() {
             </View>
             <ProgressBar progress={todayXp / goal} color={reached ? colors.success : colors.xp} />
           </Card>
+          {wordsToLearn > 0 ? (
+            <Card tint={{ face: colors.infoSoft, edge: colors.info }}>
+              <View style={styles.wordsRow}>
+                <Icon icon={BookOpen} size={22} color={colors.infoShade} />
+                <View style={styles.flex}>
+                  <Text variant="bodyBold" color={colors.infoShade}>
+                    {t.celebration.newWords(wordsToLearn)}
+                  </Text>
+                  <Text variant="caption" color={colors.textSecondary}>
+                    {t.celebration.newWordsHint}
+                  </Text>
+                </View>
+              </View>
+            </Card>
+          ) : null}
         </Animated.View>
       </View>
 
@@ -171,5 +199,7 @@ const styles = StyleSheet.create({
     gap: spacing.xs,
     marginBottom: spacing.sm,
   },
+  wordsRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
+  flex: { flex: 1 },
   footer: { padding: spacing.xl, gap: spacing.md },
 });
