@@ -63,11 +63,13 @@ export type ChapterProgress = {
 };
 
 export type UserStats = {
-  total_xp: number;
+  /** Practice time (reading + review) since the account was created. */
+  total_seconds: number;
   current_streak: number;
   best_streak: number;
   last_active_date: string | null;
-  daily_goal_xp: number;
+  /** Minutes of practice per day; null until chosen at the first sign-in. */
+  daily_goal_minutes: number | null;
   /** Highlight the text while the voice-over plays. */
   read_along: boolean;
   /** Interface and translation language chosen in the profile; null: device language. */

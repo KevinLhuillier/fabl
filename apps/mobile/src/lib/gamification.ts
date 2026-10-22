@@ -1,33 +1,27 @@
 /**
- * XP, streak and daily goal — the single place where gamification rules live.
+ * Daily goal and streak — the single place where gamification rules live.
  * Tweak the constants below to rebalance the game.
+ *
+ * The goal is a number of minutes of practice per day: time spent reading a
+ * chapter or reviewing words (see useActivityTimer). A day counts for the
+ * streak once its goal is reached.
  */
 import { daysBetween, localDateString } from './dates';
 import { currentUserId, supabase, unwrap } from './supabase';
 import type { UserStats } from './types';
 
-export type XpSource = 'chapter' | 'story' | 'review';
+export const DAILY_GOAL_OPTIONS = [10, 15, 30, 45, 60] as const;
+export const DEFAULT_DAILY_GOAL = 10;
 
-/** XP amounts. */
-export const XP_RULES = {
-  /** Finishing a chapter for the first time. */
-  chapterFirstCompletion: 10,
-  /** Finishing a chapter already completed before (replay). */
-  chapterReplay: 3,
-  /** Bonus when the last unfinished chapter of a story is completed. */
-  storyCompletionBonus: 20,
-  /** Each correct answer in a review session (first attempt only). */
-  reviewCorrectAnswer: 2,
-  /** Bonus for completing a review session. */
-  reviewSessionBonus: 5,
-} as const;
+/** Practice time stops counting after this long without any interaction (left the phone). */
+export const IDLE_AFTER_MS = 2 * 60 * 1000;
 
-export const DAILY_GOAL_OPTIONS = [10, 20, 30, 50] as const;
-export const DEFAULT_DAILY_GOAL = 30;
+export const goalSeconds = (stats: Pick<UserStats, 'daily_goal_minutes'> | null) =>
+  (stats?.daily_goal_minutes ?? DEFAULT_DAILY_GOAL) * 60;
 
 /**
- * Streak rule: a day counts as soon as the user earns any XP.
- * Same day → unchanged; the day after the last active day → +1; later → reset to 1.
+ * Streak rule: a day counts once its goal is reached.
+ * Same day → unchanged; the day after the last counted day → +1; later → reset to 1.
  */
 export function nextStreak(
   stats: Pick<UserStats, 'current_streak' | 'best_streak' | 'last_active_date'>,
@@ -38,24 +32,14 @@ export function nextStreak(
   return { current, best: Math.max(stats.best_streak, current), lastActive: today };
 }
 
-/** Streak to display: it is only "alive" if the user was active today or yesterday. */
+/** Streak to display: it is only "alive" if the goal was reached today or yesterday. */
 export function displayedStreak(stats: UserStats, today = localDateString()): number {
   if (!stats.last_active_date) return 0;
   return daysBetween(stats.last_active_date, today) <= 1 ? stats.current_streak : 0;
 }
 
-export type AwardResult = {
-  stats: UserStats;
-  todayXp: number;
-  gained: number;
-  /** True only on the award that crossed the daily goal. */
-  goalJustReached: boolean;
-  /** True when this award extended the streak (first XP of the day). */
-  streakExtended: boolean;
-};
-
 const STATS_COLUMNS =
-  'total_xp, current_streak, best_streak, last_active_date, daily_goal_xp, read_along, lang';
+  'total_seconds, current_streak, best_streak, last_active_date, daily_goal_minutes, read_along, lang';
 
 export async function fetchStats(): Promise<UserStats> {
   const userId = await currentUserId();
@@ -69,84 +53,66 @@ export async function fetchStats(): Promise<UserStats> {
   ) as UserStats;
 }
 
-export async function fetchTodayXp(today = localDateString()): Promise<number> {
-  const rows = unwrap(
-    await supabase.from('xp_events').select('amount').eq('local_date', today),
-  ) as { amount: number }[];
-  return rows.reduce((sum, r) => sum + r.amount, 0);
+/** Seconds of practice today. */
+export async function fetchTodaySeconds(today = localDateString()): Promise<number> {
+  const row = unwrap(
+    await supabase.from('daily_activity').select('seconds').eq('local_date', today).maybeSingle(),
+  ) as { seconds: number } | null;
+  return row?.seconds ?? 0;
 }
 
-/**
- * Records an XP event and updates totals + streak.
- * Two writes (event, then stats): not atomic, but a failure in between only
- * leaves an extra history row — acceptable for a single-player game.
- */
-export async function awardXp(source: XpSource, amount: number): Promise<AwardResult> {
-  const userId = await currentUserId();
+export type ActivityResult = {
+  stats: UserStats;
+  todaySeconds: number;
+  /** True only on the record that crossed the daily goal. */
+  goalJustReached: boolean;
+};
+
+/** Adds practice time to today (and the total), then counts the day for the streak if due. */
+export async function recordActivity(seconds: number): Promise<ActivityResult> {
   const today = localDateString();
-  const [before, todayBefore] = await Promise.all([fetchStats(), fetchTodayXp(today)]);
-
-  unwrap(
-    await supabase.from('xp_events').insert({ user_id: userId, source, amount, local_date: today }),
-  );
-
-  const streak = nextStreak(before, today);
-  const stats = unwrap(
-    await supabase
-      .from('user_stats')
-      .update({
-        total_xp: before.total_xp + amount,
-        current_streak: streak.current,
-        best_streak: streak.best,
-        last_active_date: streak.lastActive,
-      })
-      .eq('user_id', userId)
-      .select(STATS_COLUMNS)
-      .single(),
-  ) as UserStats;
-
-  const todayXp = todayBefore + amount;
+  const todaySeconds = unwrap(
+    await supabase.rpc('record_activity', { p_local_date: today, p_seconds: seconds }),
+  ) as number;
+  const before = await fetchStats();
+  const stats = await countStreakDay(before, todaySeconds, today);
   return {
     stats,
-    todayXp,
-    gained: amount,
-    goalJustReached: todayBefore < before.daily_goal_xp && todayXp >= before.daily_goal_xp,
-    streakExtended: before.last_active_date !== today,
+    todaySeconds,
+    goalJustReached:
+      todaySeconds - seconds < goalSeconds(before) && todaySeconds >= goalSeconds(before),
   };
 }
 
-export async function setDailyGoal(goal: number): Promise<UserStats> {
+/** Extends the streak when today's goal is reached and today isn't counted yet. */
+export async function countStreakDay(
+  stats: UserStats,
+  todaySeconds: number,
+  today = localDateString(),
+): Promise<UserStats> {
+  if (todaySeconds < goalSeconds(stats) || stats.last_active_date === today) return stats;
+  const streak = nextStreak(stats, today);
+  return updateStats({
+    current_streak: streak.current,
+    best_streak: streak.best,
+    last_active_date: streak.lastActive,
+  });
+}
+
+async function updateStats(values: Record<string, unknown>): Promise<UserStats> {
   const userId = await currentUserId();
   return unwrap(
     await supabase
       .from('user_stats')
-      .update({ daily_goal_xp: goal })
+      .update(values)
       .eq('user_id', userId)
       .select(STATS_COLUMNS)
       .single(),
   ) as UserStats;
 }
 
-export async function setUserLang(lang: string): Promise<UserStats> {
-  const userId = await currentUserId();
-  return unwrap(
-    await supabase
-      .from('user_stats')
-      .update({ lang })
-      .eq('user_id', userId)
-      .select(STATS_COLUMNS)
-      .single(),
-  ) as UserStats;
-}
+export const setDailyGoal = (minutes: number) => updateStats({ daily_goal_minutes: minutes });
 
-export async function setReadAlong(enabled: boolean): Promise<UserStats> {
-  const userId = await currentUserId();
-  return unwrap(
-    await supabase
-      .from('user_stats')
-      .update({ read_along: enabled })
-      .eq('user_id', userId)
-      .select(STATS_COLUMNS)
-      .single(),
-  ) as UserStats;
-}
+export const setUserLang = (lang: string) => updateStats({ lang });
+
+export const setReadAlong = (enabled: boolean) => updateStats({ read_along: enabled });

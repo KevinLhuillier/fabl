@@ -7,7 +7,7 @@ import {
   LogOut,
   Target,
   Trophy,
-  Zap,
+  Clock,
   type LucideIcon,
 } from 'lucide-react-native';
 import { ScrollView, StyleSheet, Switch, View } from 'react-native';
@@ -15,6 +15,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { LANGS, LANG_NAMES, useI18n } from '@/i18n';
 import { useAuth } from '@/lib/auth';
+import { formatDuration } from '@/lib/labels';
 import { DAILY_GOAL_OPTIONS, displayedStreak } from '@/lib/gamification';
 import { useStats } from '@/lib/stats';
 import { supabase } from '@/lib/supabase';
@@ -35,9 +36,9 @@ export default function Profile() {
 
         <View style={styles.grid}>
           <Stat
-            icon={Zap}
-            value={stats?.total_xp ?? 0}
-            label={t.profile.totalXp}
+            icon={Clock}
+            value={formatDuration(stats?.total_seconds ?? 0)}
+            label={t.profile.totalTime}
             color={colors.xpShade}
           />
           <Stat
@@ -68,8 +69,9 @@ export default function Profile() {
                 <Button
                   key={goal}
                   label={`${goal}`}
-                  variant={stats?.daily_goal_xp === goal ? 'primary' : 'secondary'}
+                  variant={stats?.daily_goal_minutes === goal ? 'primary' : 'secondary'}
                   haptic="tap"
+                  compact
                   style={styles.goal}
                   onPress={() => updateDailyGoal(goal).catch(console.warn)}
                 />
@@ -156,14 +158,20 @@ function Stat({
   color,
 }: {
   icon: LucideIcon;
-  value: number;
+  value: number | string;
   label: string;
   color: string;
 }) {
   return (
     <Card style={styles.stat} padding={spacing.md}>
       <Icon icon={icon} size={22} color={color} />
-      <Text variant="title" color={color}>
+      {/* One line: a long value ("< 1 min", "12 h 05") shrinks instead of wrapping. */}
+      <Text
+        variant="title"
+        color={color}
+        numberOfLines={1}
+        adjustsFontSizeToFit
+        minimumFontScale={0.6}>
         {value}
       </Text>
       {/* Always one line: shrinks slightly on narrow screens instead of wrapping. */}

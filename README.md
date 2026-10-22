@@ -39,7 +39,7 @@ turn this off in **Authentication → Providers → Email → Confirm email**.
 ### What's in the app
 
 - **Stories** (home): every story as a book — front cover, level badge, word count, reading
-  time and reading progress (%) — plus streak, total XP and today's goal.
+  time and reading progress (%) — plus streak, total practice time and today's goal.
 - **Story**: cover, summary, overall progress and the **table of contents** of its chapters.
   Chapters unlock one after the other (done / current with a bookmark / locked); a finished
   chapter can be read again.
@@ -68,8 +68,13 @@ imported with `seed-translations`.
 
 ### Tuning the game
 
-All XP / streak / daily-goal rules live in `apps/mobile/src/lib/gamification.ts` (`XP_RULES`,
-`DAILY_GOAL_OPTIONS`, `nextStreak`). A day counts for the streak as soon as the user earns XP.
+The daily goal is a number of **minutes of practice**: time spent reading a chapter (voice-over
+included) or reviewing words. Time only counts while the app is in the foreground and the user
+interacted less than 2 minutes ago (`src/lib/activity.ts`); it is saved every 30 s in
+`daily_activity` (one row per local day). A day counts for the streak once its goal is reached. New accounts choose their goal at the first sign-in,
+right after their language (`src/app/daily-goal.tsx`; `daily_goal_minutes` is null until then).
+The rules live in `apps/mobile/src/lib/gamification.ts` (`DAILY_GOAL_OPTIONS`, `IDLE_AFTER_MS`,
+`nextStreak`).
 
 ## Supabase
 
@@ -89,10 +94,10 @@ All XP / streak / daily-goal rules live in `apps/mobile/src/lib/gamification.ts`
 
 ### Data model
 
-| Table                                                                                  | Access                                     |
-| -------------------------------------------------------------------------------------- | ------------------------------------------ |
-| `stories`, `chapters`, `passages` (pages), `tokens`, `lemmas`, `translations`          | public read, written by the publish script |
-| `user_progress`, `user_chapter_progress`, `user_vocabulary`, `user_stats`, `xp_events` | owner only (RLS on `auth.uid()`)           |
+| Table                                                                                       | Access                                     |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| `stories`, `chapters`, `passages` (pages), `tokens`, `lemmas`, `translations`               | public read, written by the publish script |
+| `user_progress`, `user_chapter_progress`, `user_vocabulary`, `user_stats`, `daily_activity` | owner only (RLS on `auth.uid()`)           |
 
 A `user_stats` row is created automatically when an account signs up.
 

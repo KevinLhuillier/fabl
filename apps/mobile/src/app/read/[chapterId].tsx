@@ -9,6 +9,7 @@ import { PAGE_AUDIO_SIZE, PageAudio, type PageAudioHandle } from '@/components/P
 import { PassageText, sentenceAround, type ReadAlong } from '@/components/PassageText';
 import { WordSheet, type WordSheetState } from '@/components/WordSheet';
 import { useI18n } from '@/i18n';
+import { saveChapterTime, takeChapterTime, useActivityTimer } from '@/lib/activity';
 import { fetchChapterPages, fetchStoryWithChapters } from '@/lib/api/content';
 import {
   completeChapter,
@@ -18,7 +19,6 @@ import {
   saveChapterPage,
 } from '@/lib/api/progress';
 import { addToVocabulary, countWordsToLearn } from '@/lib/api/vocabulary';
-import { XP_RULES } from '@/lib/gamification';
 import { useStats } from '@/lib/stats';
 import { useTour } from '@/lib/tour';
 import type { ChapterProgress, ChapterSummary, Page, StorySummary, Token } from '@/lib/types';
@@ -33,10 +33,23 @@ type Loaded = {
   storyCompleted: boolean;
 };
 
-/** Reads one chapter, page by page; XP are awarded when the chapter is finished. */
+/** Reads one chapter, page by page; the reading time counts towards the daily goal. */
 export default function ChapterReader() {
   const { chapterId, storyId } = useLocalSearchParams<{ chapterId: string; storyId: string }>();
-  const { award, stats } = useStats();
+  const { stats } = useStats();
+  const {
+    touch: touchActivity,
+    flush: flushActivity,
+    seconds: activitySeconds,
+  } = useActivityTimer();
+  // Closing the reader before the end keeps the time read for the celebration.
+  const finishedRef = useRef(false);
+  useEffect(
+    () => () => {
+      if (!finishedRef.current) void saveChapterTime(chapterId, activitySeconds());
+    },
+    [chapterId, activitySeconds],
+  );
   const { t, lang } = useI18n();
   const readAlongEnabled = stats?.read_along ?? true;
 
@@ -52,13 +65,18 @@ export default function ChapterReader() {
   // Read-along: which words the voice-over has reached (null when not playing).
   const [readAlong, setReadAlong] = useState<ReadAlong | null>(null);
   const timedRef = useRef<Token[]>([]);
-  const onAudioTime = useCallback((ms: number | null) => {
-    const next = ms === null ? null : locate(timedRef.current, ms);
-    // Re-render the text only when the highlighted word changes, not on every tick.
-    setReadAlong((prev) =>
-      prev?.readUpTo === next?.readUpTo && prev?.current === next?.current ? prev : next,
-    );
-  }, []);
+  const onAudioTime = useCallback(
+    (ms: number | null) => {
+      // Listening to the voice-over is reading too.
+      if (ms !== null) touchActivity();
+      const next = ms === null ? null : locate(timedRef.current, ms);
+      // Re-render the text only when the highlighted word changes, not on every tick.
+      setReadAlong((prev) =>
+        prev?.readUpTo === next?.readUpTo && prev?.current === next?.current ? prev : next,
+      );
+    },
+    [touchActivity],
+  );
   useEffect(() => {
     timedRef.current = data?.pages[page]?.tokens.filter((t) => t.startMs !== null) ?? [];
   }, [data, page]);
@@ -112,6 +130,7 @@ export default function ChapterReader() {
   const aligned = !!current.audioUrl && current.tokens.some((t) => t.startMs !== null);
 
   function goTo(target: number) {
+    touchActivity();
     setPage(target);
     setSelected(null);
     setReadAlong(null);
@@ -122,10 +141,12 @@ export default function ChapterReader() {
 
   async function finish() {
     setFinishing(true);
-    const replay = !!progress.get(chapterId)?.completed;
-    const chapterXp = replay ? XP_RULES.chapterReplay : XP_RULES.chapterFirstCompletion;
     await completeChapter(chapterId).catch((e) => console.warn('completeChapter', e));
-    await award('chapter', chapterXp);
+    // The celebration shows today's goal: send the time read first.
+    await flushActivity();
+    finishedRef.current = true;
+    // Time read in this chapter, earlier sessions included.
+    const seconds = String((await takeChapterTime(chapterId)) + activitySeconds());
     // Words and expressions of this chapter the user looked up and has not reviewed yet.
     const lemmaIds = [
       ...new Set(pages.flatMap((p) => p.tokens.flatMap((t) => [t.lemma?.id, t.phrase?.lemma.id]))),
@@ -135,16 +156,15 @@ export default function ChapterReader() {
       return 0;
     });
 
-    // Last unfinished chapter of the story → story bonus + big celebration.
+    // Last unfinished chapter of the story → big celebration.
     const storyDone = chapters.every((c) => c.id === chapterId || progress.get(c.id)?.completed);
     if (storyDone && !storyCompleted) {
       await completeStory(story.id).catch((e) => console.warn('completeStory', e));
-      await award('story', XP_RULES.storyCompletionBonus);
       router.replace({
         pathname: '/celebration',
         params: {
           kind: 'story',
-          xp: String(chapterXp + XP_RULES.storyCompletionBonus),
+          seconds,
           title: story.title,
           newWords: String(newWords),
         },
@@ -157,7 +177,7 @@ export default function ChapterReader() {
       pathname: '/celebration',
       params: {
         kind: 'chapter',
-        xp: String(chapterXp),
+        seconds,
         title: t.reader.chapterTitle(chapter.position + 1, chapter.title),
         newWords: String(newWords),
         ...(nextChapter ? { nextChapterId: nextChapter.id, storyId: story.id } : {}),
@@ -166,6 +186,7 @@ export default function ChapterReader() {
   }
 
   function onWordPress(token: Token) {
+    touchActivity();
     if (!token.lemma) return;
     const lemma = token.lemma;
     // A word of an expression adds the expression ("shut up"), not the word alone.
@@ -204,6 +225,7 @@ export default function ChapterReader() {
       <View style={styles.flex}>
         <ScrollView
           ref={scrollRef}
+          onScrollBeginDrag={touchActivity}
           contentContainerStyle={[styles.body, current.audioUrl ? styles.bodyWithAudio : null]}>
           <Text variant="caption" color={level.shade}>
             {t.reader.header(chapter.position + 1, chapter.title, page + 1, pages.length)}

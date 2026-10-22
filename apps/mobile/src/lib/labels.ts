@@ -30,5 +30,13 @@ export function toRoman(n: number) {
   return out;
 }
 
+/** Practice time: "< 1 min", "12 min", "2 h 05" (same in every interface language). */
+export function formatDuration(seconds: number) {
+  const minutes = Math.floor(seconds / 60);
+  if (minutes < 1) return '< 1 min';
+  if (minutes < 60) return `${minutes} min`;
+  return `${Math.floor(minutes / 60)} h ${String(minutes % 60).padStart(2, '0')}`;
+}
+
 /** Reading time at a comfortable learner pace (150 words per minute). */
 export const readingMinutes = (words: number) => Math.max(1, Math.round(words / 150));

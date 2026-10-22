@@ -6,7 +6,7 @@ import {
   Flame,
   Target,
   Trophy,
-  Zap,
+  Clock,
   type LucideIcon,
 } from 'lucide-react-native';
 import { useEffect, useState } from 'react';
@@ -16,7 +16,8 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { Confetti } from '@/components/Confetti';
 import { useI18n } from '@/i18n';
-import { displayedStreak } from '@/lib/gamification';
+import { displayedStreak, goalSeconds } from '@/lib/gamification';
+import { formatDuration } from '@/lib/labels';
 import { useStats } from '@/lib/stats';
 import {
   Badge,
@@ -36,7 +37,8 @@ type Kind = 'chapter' | 'story' | 'review';
 
 type Params = {
   kind?: Kind;
-  xp?: string;
+  /** Practice time counted on the screen just finished. */
+  seconds?: string;
   title?: string;
   /** Chapter only: lets the user chain straight into the next chapter. */
   nextChapterId?: string;
@@ -55,24 +57,24 @@ const HERO: Record<Kind, { icon: LucideIcon; color: string; background: string }
 export default function Celebration() {
   const {
     kind = 'story',
-    xp = '0',
+    seconds = '0',
     title,
     nextChapterId,
     storyId,
     newWords,
   } = useLocalSearchParams<Params>();
-  const { stats, todayXp } = useStats();
+  const { stats, todaySeconds } = useStats();
   const { t } = useI18n();
-  const gained = Number(xp) || 0;
+  const spent = Number(seconds) || 0;
   const wordsToLearn = Number(newWords) || 0;
-  const shownXp = useCountUp(gained);
+  const shownSeconds = useCountUp(spent);
 
   useEffect(() => {
     haptics.success();
   }, []);
 
-  const goal = stats?.daily_goal_xp ?? 30;
-  const reached = todayXp >= goal;
+  const goal = goalSeconds(stats);
+  const reached = todaySeconds >= goal;
   const streak = stats ? displayedStreak(stats) : 0;
 
   return (
@@ -100,19 +102,22 @@ export default function Celebration() {
 
         <Animated.View entering={enter.up(240)}>
           <Card tint={{ face: colors.xpSoft, edge: colors.xp }} padding={spacing.xl}>
-            <View style={styles.xpRow}>
-              <Icon icon={Zap} size={36} color={colors.xpShade} />
+            <View style={styles.timeRow}>
+              <Icon icon={Clock} size={36} color={colors.xpShade} />
               <Text variant="display" color={colors.xpShade}>
-                +{shownXp} XP
+                {formatDuration(shownSeconds)}
               </Text>
             </View>
+            <Text align="center" color={colors.xpShade}>
+              {kind === 'review' ? t.celebration.reviewTime : t.celebration.readingTime}
+            </Text>
           </Card>
         </Animated.View>
 
         <Animated.View entering={enter.up(360)} style={styles.stats}>
           <View style={styles.row}>
             <Badge icon={Flame} label={t.celebration.streak(streak)} tone="streak" />
-            <Badge icon={Zap} label={`${stats?.total_xp ?? 0} XP`} tone="xp" />
+            <Badge icon={Clock} label={formatDuration(stats?.total_seconds ?? 0)} tone="xp" />
           </View>
           <Card>
             <View style={styles.goalTitle}>
@@ -124,10 +129,13 @@ export default function Celebration() {
               <Text variant="bodyBold">
                 {reached
                   ? t.celebration.goalReached
-                  : t.celebration.goalProgress(Math.min(todayXp, goal), goal)}
+                  : t.celebration.goalProgress(Math.floor(todaySeconds / 60), goal / 60)}
               </Text>
             </View>
-            <ProgressBar progress={todayXp / goal} color={reached ? colors.success : colors.xp} />
+            <ProgressBar
+              progress={todaySeconds / goal}
+              color={reached ? colors.success : colors.xp}
+            />
           </Card>
           {wordsToLearn > 0 ? (
             <Card tint={{ face: colors.infoSoft, edge: colors.info }}>
@@ -190,7 +198,12 @@ const styles = StyleSheet.create({
   safe: { flex: 1, backgroundColor: colors.background },
   content: { flex: 1, justifyContent: 'center', padding: spacing.xl, gap: spacing.xl },
   titles: { gap: spacing.sm },
-  xpRow: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: spacing.sm },
+  timeRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: spacing.sm,
+  },
   stats: { gap: spacing.md },
   row: { flexDirection: 'row', justifyContent: 'center', gap: spacing.sm },
   goalTitle: {

@@ -15,13 +15,12 @@ import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { useI18n } from '@/i18n';
+import { useActivityTimer } from '@/lib/activity';
 import { checkAnswer, type AnswerResult } from '@/lib/answer';
 import { fetchReviewSession, saveReview } from '@/lib/api/vocabulary';
 import { endOfToday } from '@/lib/dates';
-import { XP_RULES } from '@/lib/gamification';
 import { posLabel } from '@/lib/labels';
 import { scheduleReview } from '@/lib/srs';
-import { useStats } from '@/lib/stats';
 import type { VocabularyItem } from '@/lib/types';
 import {
   Badge,
@@ -58,7 +57,7 @@ type Exercise = {
 };
 
 export default function Review() {
-  const { award } = useStats();
+  const { touch, flush, seconds } = useActivityTimer();
   const { t, lang } = useI18n();
   const [exercises, setExercises] = useState<Exercise[] | null>(null);
   const [cursor, setCursor] = useState(0);
@@ -108,6 +107,7 @@ export default function Review() {
 
   /** Records an answer, schedules a retry if missed, then moves on. */
   async function answer(ex: Exercise, result: AnswerResult) {
+    touch();
     const isCorrect = result !== 'wrong';
     let queue = exercises!;
     if (!ex.retry) {
@@ -135,15 +135,15 @@ export default function Review() {
 
   async function finish(correctCount: number) {
     setFinishing(true);
-    const xp = correctCount * XP_RULES.reviewCorrectAnswer + XP_RULES.reviewSessionBonus;
-    await award('review', xp);
+    // The celebration shows today's goal: send the review time first.
+    await flush();
     // Retries are extra practice: only first attempts count in the score.
     const total = exercises!.filter((e) => !e.retry).length;
     router.replace({
       pathname: '/celebration',
       params: {
         kind: 'review',
-        xp: String(xp),
+        seconds: String(seconds()),
         title: t.review.score(correctCount, total),
       },
     });
@@ -174,7 +174,12 @@ export default function Review() {
             <ActivityIndicator color={colors.primary} />
           </View>
         ) : (
-          <Question key={current.key} ex={current} onDone={(r) => answer(current, r)} />
+          <Question
+            key={current.key}
+            ex={current}
+            onActivity={touch}
+            onDone={(r) => answer(current, r)}
+          />
         )}
       </KeyboardAvoidingView>
     </SafeAreaView>
@@ -225,7 +230,16 @@ const hideEnglishNotes = (translation: string) =>
 // Typed answer
 // ---------------------------------------------------------------------------
 
-function Question({ ex, onDone }: { ex: Exercise; onDone: (result: AnswerResult) => void }) {
+function Question({
+  ex,
+  onActivity,
+  onDone,
+}: {
+  ex: Exercise;
+  /** Typing and answering keep the review time counting. */
+  onActivity: () => void;
+  onDone: (result: AnswerResult) => void;
+}) {
   const { t } = useI18n();
   const [typed, setTyped] = useState('');
   const [result, setResult] = useState<AnswerResult | null>(null);
@@ -234,6 +248,7 @@ function Question({ ex, onDone }: { ex: Exercise; onDone: (result: AnswerResult)
   const passed = result === 'exact' || result === 'close';
 
   function check(giveUp = false) {
+    onActivity();
     if (result || (!giveUp && !typed.trim())) return;
     const r = giveUp ? 'wrong' : checkAnswer(typed, ex.answer, ex.answerLang);
     setResult(r);
@@ -264,7 +279,10 @@ function Question({ ex, onDone }: { ex: Exercise; onDone: (result: AnswerResult)
       <Animated.View entering={enter.up(80)} style={styles.answerBox}>
         <TextField
           value={typed}
-          onChangeText={setTyped}
+          onChangeText={(text) => {
+            onActivity();
+            setTyped(text);
+          }}
           placeholder={frToEn ? t.review.typeEnglish : t.review.typeTranslation}
           autoFocus
           autoCapitalize="none"

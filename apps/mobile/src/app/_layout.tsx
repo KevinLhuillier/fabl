@@ -6,6 +6,7 @@ import { useEffect } from 'react';
 import { ActivityIndicator, StyleSheet, View } from 'react-native';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 
+import { GoalToast } from '@/components/GoalToast';
 import { I18nProvider, useI18n } from '@/i18n';
 import { AuthProvider, useAuth } from '@/lib/auth';
 import { StatsProvider, useStats } from '@/lib/stats';
@@ -52,8 +53,9 @@ function RootNavigator() {
   }
 
   const signedIn = !!session;
-  // First sign-in (no language saved on the account yet): choose it first.
+  // First sign-in: choose the language, then the daily goal (null = not chosen yet).
   const needsLang = signedIn && stats?.lang === null;
+  const needsGoal = signedIn && !needsLang && stats?.daily_goal_minutes === null;
   return (
     <>
       <StatusBar style="dark" />
@@ -63,7 +65,7 @@ function RootNavigator() {
           contentStyle: { backgroundColor: colors.background },
         }}>
         {/* Guards switch screens automatically when the session changes. */}
-        <Stack.Protected guard={signedIn && !needsLang}>
+        <Stack.Protected guard={signedIn && !needsLang && !needsGoal}>
           <Stack.Screen name="(tabs)" />
           <Stack.Screen name="story/[id]" />
           <Stack.Screen name="read/[chapterId]" options={{ gestureEnabled: false }} />
@@ -76,10 +78,15 @@ function RootNavigator() {
         <Stack.Protected guard={needsLang}>
           <Stack.Screen name="language" options={{ animation: 'fade' }} />
         </Stack.Protected>
+        <Stack.Protected guard={needsGoal}>
+          <Stack.Screen name="daily-goal" options={{ animation: 'fade' }} />
+        </Stack.Protected>
         <Stack.Protected guard={!signedIn}>
           <Stack.Screen name="sign-in" />
         </Stack.Protected>
       </Stack>
+      {/* Above every screen: today's goal can be reached while reading or reviewing. */}
+      {signedIn ? <GoalToast /> : null}
     </>
   );
 }

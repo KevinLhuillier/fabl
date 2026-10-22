@@ -38,6 +38,8 @@ export type ButtonProps = {
   haptic?: 'press' | 'tap' | 'none';
   /** Keeps the original casing (for labels that are sentences, e.g. quiz answers). */
   sentence?: boolean;
+  /** Small side padding and a one-line label, for a row of short choices (e.g. "15"). */
+  compact?: boolean;
   style?: ViewStyle;
 };
 
@@ -52,6 +54,7 @@ export function Button({
   loading,
   haptic = 'press',
   sentence,
+  compact,
   style,
 }: ButtonProps) {
   const inactive = disabled || loading;
@@ -78,6 +81,7 @@ export function Button({
       <Animated.View
         style={[
           styles.face,
+          compact && styles.compact,
           { backgroundColor: face },
           v.border && !inactive && { borderWidth: 2, borderColor: v.border },
           faceStyle,
@@ -91,6 +95,7 @@ export function Button({
               variant={sentence ? 'bodyBold' : 'button'}
               color={textColor}
               align="center"
+              numberOfLines={compact ? 1 : undefined}
               style={styles.label}>
               {label}
             </Text>
@@ -119,5 +124,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     gap: spacing.sm,
   },
+  compact: { paddingHorizontal: spacing.sm },
   label: { flexShrink: 1 },
 });

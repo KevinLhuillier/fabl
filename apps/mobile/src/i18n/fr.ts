@@ -84,6 +84,9 @@ export const fr = {
   stats: {
     goalReached: 'Objectif atteint !',
     dailyGoal: 'Objectif du jour',
+    goalToastTitle: 'Objectif du jour atteint !',
+    goalToastText: (minutes: number, streak: number) =>
+      `${minutes} min aujourd’hui · série : ${streak} j. Bravo !`,
   },
   storyTile: {
     a11y: (title: string, level: string, percent: number) =>
@@ -162,7 +165,9 @@ export const fr = {
     review: 'Révision terminée !',
     streak: (days: number) => `Série : ${days} j`,
     goalReached: 'Objectif du jour atteint !',
-    goalProgress: (xp: number, goal: number) => `Objectif du jour : ${xp} / ${goal} XP`,
+    goalProgress: (minutes: number, goal: number) => `Objectif du jour : ${minutes} / ${goal} min`,
+    readingTime: 'de lecture',
+    reviewTime: 'de révision',
     newWords: (n: number) =>
       n === 1 ? '1 nouveau mot à apprendre' : `${n} nouveaux mots à apprendre`,
     newWordsHint: 'Ils t’attendent dans Mes mots pour ta prochaine révision.',
@@ -173,13 +178,26 @@ export const fr = {
     title: 'Choisis ta langue',
     hint: 'Pour l’application et la traduction des mots. Tu pourras la changer dans ton profil.',
   },
+  dailyGoal: {
+    title: 'Choisis ton objectif quotidien',
+    hint: 'Combien de minutes veux-tu lire ou réviser chaque jour ? Tu pourras le changer dans ton profil.',
+    perDay: 'par jour',
+    /** One word per goal of DAILY_GOAL_OPTIONS. */
+    levels: {
+      10: 'Tranquille',
+      15: 'Régulier',
+      30: 'Sérieux',
+      45: 'Intensif',
+      60: 'Passionné',
+    } as Record<number, string>,
+  },
   profile: {
     title: 'Profil',
-    totalXp: 'XP au total',
+    totalTime: 'Temps total',
     currentStreak: 'Série actuelle',
     bestStreak: 'Meilleure série',
     dailyGoal: 'Objectif quotidien',
-    dailyGoalHint: 'XP à gagner chaque jour.',
+    dailyGoalHint: 'Minutes de lecture ou de révision par jour.',
     readAlong: 'Surlignage audio',
     readAlongHint: 'Surligne le texte et le mot lu pendant l’écoute.',
     language: 'Langue',
@@ -192,7 +210,7 @@ export const fr = {
     home: {
       stats: {
         title: 'Ta progression',
-        text: 'Ta série de jours, tes XP et ton objectif du jour. Lis ou révise chaque jour pour garder ta série !',
+        text: 'Ta série de jours, ton temps total et ton objectif du jour. Lis ou révise chaque jour pour l’atteindre et garder ta série !',
       },
       stories: {
         title: 'Choisis une histoire',
@@ -224,13 +242,13 @@ export const fr = {
       },
       next: {
         title: 'Page suivante',
-        text: 'Avance page par page. À la fin du chapitre, tu gagnes des XP !',
+        text: 'Avance page par page. Ton temps de lecture compte pour ton objectif du jour !',
       },
     },
     vocabulary: {
       review: {
         title: 'Révise tes mots',
-        text: 'Les mots reviennent juste avant que tu les oublies. Réviser te fait aussi gagner des XP.',
+        text: 'Les mots reviennent juste avant que tu les oublies. Le temps de révision compte aussi pour ton objectif.',
       },
       search: {
         title: 'Retrouve un mot',
@@ -240,7 +258,7 @@ export const fr = {
     profile: {
       goal: {
         title: 'Ton objectif',
-        text: 'Choisis combien d’XP gagner chaque jour.',
+        text: 'Choisis combien de minutes lire ou réviser chaque jour.',
       },
       readAlong: {
         title: 'Surlignage audio',

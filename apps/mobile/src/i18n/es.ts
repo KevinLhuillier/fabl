@@ -82,6 +82,8 @@ export const es: Messages = {
   },
   stats: {
     goalReached: '¡Objetivo cumplido!',
+    goalToastTitle: '¡Objetivo del día cumplido!',
+    goalToastText: (minutes, streak) => `${minutes} min hoy · racha: ${streak} d. ¡Bien hecho!`,
     dailyGoal: 'Objetivo del día',
   },
   storyTile: {
@@ -159,7 +161,9 @@ export const es: Messages = {
     review: '¡Repaso terminado!',
     streak: (days) => `Racha: ${days} d`,
     goalReached: '¡Objetivo del día cumplido!',
-    goalProgress: (xp, goal) => `Objetivo del día: ${xp} / ${goal} XP`,
+    goalProgress: (minutes, goal) => `Objetivo del día: ${minutes} / ${goal} min`,
+    readingTime: 'de lectura',
+    reviewTime: 'de repaso',
     newWords: (n) =>
       n === 1 ? '1 palabra nueva por aprender' : `${n} palabras nuevas por aprender`,
     newWordsHint: 'Te esperan en Mis palabras para tu próximo repaso.',
@@ -170,13 +174,25 @@ export const es: Messages = {
     title: 'Elige tu idioma',
     hint: 'Para la aplicación y la traducción de las palabras. Podrás cambiarlo en tu perfil.',
   },
+  dailyGoal: {
+    title: 'Elige tu objetivo diario',
+    hint: '¿Cuántos minutos quieres leer o repasar cada día? Podrás cambiarlo en tu perfil.',
+    perDay: 'al día',
+    levels: {
+      10: 'Tranquilo',
+      15: 'Constante',
+      30: 'Serio',
+      45: 'Intensivo',
+      60: 'Apasionado',
+    },
+  },
   profile: {
     title: 'Perfil',
-    totalXp: 'XP en total',
+    totalTime: 'Tiempo total',
     currentStreak: 'Racha actual',
     bestStreak: 'Mejor racha',
     dailyGoal: 'Objetivo diario',
-    dailyGoalHint: 'XP que quieres ganar cada día.',
+    dailyGoalHint: 'Minutos de lectura o repaso al día.',
     readAlong: 'Resaltado del audio',
     readAlongHint: 'Resalta el texto y la palabra leída mientras escuchas.',
     language: 'Idioma',
@@ -188,7 +204,7 @@ export const es: Messages = {
     home: {
       stats: {
         title: 'Tu progreso',
-        text: 'Tu racha de días, tus XP y tu objetivo del día. ¡Lee o repasa cada día para mantener tu racha!',
+        text: 'Tu racha de días, tu tiempo total y tu objetivo del día. ¡Lee o repasa cada día para alcanzarlo y mantener tu racha!',
       },
       stories: {
         title: 'Elige una historia',
@@ -220,13 +236,13 @@ export const es: Messages = {
       },
       next: {
         title: 'Página siguiente',
-        text: 'Avanza página a página. ¡Al final del capítulo ganas XP!',
+        text: 'Avanza página a página. ¡Tu tiempo de lectura cuenta para tu objetivo del día!',
       },
     },
     vocabulary: {
       review: {
         title: 'Repasa tus palabras',
-        text: 'Las palabras vuelven justo antes de que las olvides. Repasar también te da XP.',
+        text: 'Las palabras vuelven justo antes de que las olvides. El tiempo de repaso también cuenta para tu objetivo.',
       },
       search: {
         title: 'Encuentra una palabra',
@@ -236,7 +252,7 @@ export const es: Messages = {
     profile: {
       goal: {
         title: 'Tu objetivo',
-        text: 'Elige cuántos XP quieres ganar cada día.',
+        text: 'Elige cuántos minutos leer o repasar cada día.',
       },
       readAlong: {
         title: 'Resaltado del audio',
