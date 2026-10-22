@@ -2,6 +2,7 @@
 title: Hollow Wilds
 level: C1
 summary: In the ancient forest of the Hollow Wilds, fourteen-year-old Rowan Ashby counts the days until the Marking. But whispers of vanished families, a strange wood shaving and a letter hidden beneath the hearth suggest his uncle has been keeping a dangerous secret.
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/c1-hollow-wilds/1792650072397.png
 ---
 
 # The Woodcutter's Nephew
