@@ -1,17 +1,22 @@
 import { router } from 'expo-router';
-import { Check, PartyPopper, Sparkles, X, Dumbbell } from 'lucide-react-native';
+import { PartyPopper, Sparkles, X, Dumbbell } from 'lucide-react-native';
 import { useEffect, useState } from 'react';
-import { ActivityIndicator, Pressable, StyleSheet, View } from 'react-native';
+import {
+  ActivityIndicator,
+  Keyboard,
+  KeyboardAvoidingView,
+  Platform,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  View,
+} from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { useI18n } from '@/i18n';
-import {
-  fetchDistractorPool,
-  fetchReviewSession,
-  saveReview,
-  type DistractorEntry,
-} from '@/lib/api/vocabulary';
+import { checkAnswer, type AnswerResult } from '@/lib/answer';
+import { fetchReviewSession, saveReview } from '@/lib/api/vocabulary';
 import { endOfToday } from '@/lib/dates';
 import { XP_RULES } from '@/lib/gamification';
 import { posLabel } from '@/lib/labels';
@@ -26,6 +31,7 @@ import {
   IconBubble,
   ProgressBar,
   Text,
+  TextField,
   colors,
   enter,
   haptics,
@@ -41,9 +47,10 @@ type Exercise = {
   key: string;
   direction: Direction;
   item: VocabularyItem;
-  /** 4 shuffled options, one equals `answer`. */
-  options: string[];
+  /** Expected word or translation (synonyms separated by commas). */
   answer: string;
+  /** Language the answer is typed in. */
+  answerLang: string;
   /** Retries of missed words don't update the spaced-repetition schedule. */
   retry: boolean;
   /** False for words practised ahead of schedule (free practice). */
@@ -60,8 +67,8 @@ export default function Review() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    Promise.all([fetchReviewSession(SESSION_SIZE, lang), fetchDistractorPool(lang)])
-      .then(([items, pool]) => setExercises(buildSession(items, pool)))
+    fetchReviewSession(SESSION_SIZE, lang)
+      .then((items) => setExercises(buildSession(items, lang)))
       .catch((e: unknown) => setError(e instanceof Error ? e.message : String(e)));
   }, [lang]);
 
@@ -100,15 +107,19 @@ export default function Review() {
   const current = exercises[cursor];
 
   /** Records an answer, schedules a retry if missed, then moves on. */
-  async function answer(ex: Exercise, isCorrect: boolean) {
+  async function answer(ex: Exercise, result: AnswerResult) {
+    const isCorrect = result !== 'wrong';
     let queue = exercises!;
     if (!ex.retry) {
       if (isCorrect) setCorrect((n) => n + 1);
       // Practising ahead of schedule: a right answer keeps the planned date
       // (no inflated interval), a wrong one brings the word back tomorrow.
       if (ex.due || !isCorrect) {
-        const result = scheduleReview(ex.item, isCorrect ? 'good' : 'again');
-        saveReview(ex.item.lemmaId, result).catch((e) => console.warn('saveReview', e));
+        // A misspelt answer passes, but the word comes back a bit sooner.
+        const grade = result === 'exact' ? 'good' : result === 'close' ? 'hard' : 'again';
+        saveReview(ex.item.lemmaId, scheduleReview(ex.item, grade)).catch((e) =>
+          console.warn('saveReview', e),
+        );
       }
     }
     if (!isCorrect) {
@@ -140,24 +151,32 @@ export default function Review() {
 
   return (
     <SafeAreaView style={styles.safe}>
-      <View style={styles.header}>
-        <Pressable
-          onPress={() => router.back()}
-          hitSlop={12}
-          accessibilityRole="button"
-          accessibilityLabel={t.review.quit}>
-          <Icon icon={X} size={28} color={colors.textMuted} />
-        </Pressable>
-        <ProgressBar progress={cursor / exercises.length} color={colors.info} style={styles.flex} />
-      </View>
-
-      {finishing || !current ? (
-        <View style={styles.center}>
-          <ActivityIndicator color={colors.primary} />
+      <KeyboardAvoidingView
+        style={styles.flex}
+        behavior={Platform.OS === 'ios' ? 'padding' : undefined}>
+        <View style={styles.header}>
+          <Pressable
+            onPress={() => router.back()}
+            hitSlop={12}
+            accessibilityRole="button"
+            accessibilityLabel={t.review.quit}>
+            <Icon icon={X} size={28} color={colors.textMuted} />
+          </Pressable>
+          <ProgressBar
+            progress={cursor / exercises.length}
+            color={colors.info}
+            style={styles.flex}
+          />
         </View>
-      ) : (
-        <Mcq key={current.key} ex={current} onDone={(ok) => answer(current, ok)} />
-      )}
+
+        {finishing || !current ? (
+          <View style={styles.center}>
+            <ActivityIndicator color={colors.primary} />
+          </View>
+        ) : (
+          <Question key={current.key} ex={current} onDone={(r) => answer(current, r)} />
+        )}
+      </KeyboardAvoidingView>
     </SafeAreaView>
   );
 }
@@ -175,58 +194,56 @@ function shuffle<T>(items: T[]): T[] {
   return a;
 }
 
-/**
- * One multiple-choice question per due word, alternating directions.
- * Wrong options come from the translation pool and the session's other words.
- */
-function buildSession(items: VocabularyItem[], pool: DistractorEntry[]): Exercise[] {
+/** One question per due word, alternating directions. */
+function buildSession(items: VocabularyItem[], lang: string): Exercise[] {
   const dueLimit = endOfToday().getTime();
-  // A word without translation can't be asked as a MCQ.
+  // A word without translation can't be asked.
   const askable = shuffle(items.filter((i) => i.translation));
-  return askable.flatMap((item, i): Exercise[] => {
+  return askable.map((item, i): Exercise => {
     const direction: Direction = i % 2 === 0 ? 'enFr' : 'frEn';
-    const pick = (e: { word: string; translation: string | null }) =>
-      direction === 'frEn' ? e.word : (e.translation ?? '');
-    const answer = pick(item);
-    const candidates = [...pool, ...askable]
-      .map(pick)
-      .filter((c) => c && c.toLowerCase() !== answer.toLowerCase());
-    const distractors = [...new Set(shuffle(candidates))].slice(0, 3);
-    if (distractors.length < 3) return [];
-    return [
-      {
-        key: `${item.lemmaId}`,
-        direction,
-        item,
-        answer,
-        options: shuffle([answer, ...distractors]),
-        retry: false,
-        due: new Date(item.dueAt).getTime() <= dueLimit,
-      },
-    ];
+    const frToEn = direction === 'frEn';
+    return {
+      key: `${item.lemmaId}`,
+      direction,
+      item,
+      answer: frToEn ? item.word : item.translation!,
+      answerLang: frToEn ? 'en' : lang,
+      retry: false,
+      due: new Date(item.dueAt).getTime() <= dueLimit,
+    };
   });
 }
 
+/** Notes quoting the English ("« by accident » : par accident") would give the answer away. */
+const hideEnglishNotes = (translation: string) =>
+  translation
+    .replace(/\([^)]*«[^)]*\)/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
 // ---------------------------------------------------------------------------
-// Multiple choice question
+// Typed answer
 // ---------------------------------------------------------------------------
 
-function Mcq({ ex, onDone }: { ex: Exercise; onDone: (correct: boolean) => void }) {
+function Question({ ex, onDone }: { ex: Exercise; onDone: (result: AnswerResult) => void }) {
   const { t } = useI18n();
-  const [picked, setPicked] = useState<string | null>(null);
+  const [typed, setTyped] = useState('');
+  const [result, setResult] = useState<AnswerResult | null>(null);
   const frToEn = ex.direction === 'frEn';
-  const prompt = frToEn ? (ex.item.translation ?? '') : ex.item.word;
-  const isCorrect = picked === ex.answer;
+  const prompt = frToEn ? hideEnglishNotes(ex.item.translation ?? '') : ex.item.word;
+  const passed = result === 'exact' || result === 'close';
 
-  function pick(option: string) {
-    if (picked) return;
-    setPicked(option);
-    if (option === ex.answer) haptics.success();
-    else haptics.error();
+  function check(giveUp = false) {
+    if (result || (!giveUp && !typed.trim())) return;
+    const r = giveUp ? 'wrong' : checkAnswer(typed, ex.answer, ex.answerLang);
+    setResult(r);
+    Keyboard.dismiss();
+    if (r === 'wrong') haptics.error();
+    else haptics.success();
   }
 
   return (
-    <View style={styles.exercise}>
+    <ScrollView contentContainerStyle={styles.exercise} keyboardShouldPersistTaps="handled">
       <Animated.View entering={enter.up()} style={styles.promptBox}>
         <Text variant="heading" align="center" color={colors.textSecondary}>
           {frToEn ? t.review.howDoYouSay : t.review.whatDoesItMean}
@@ -244,67 +261,49 @@ function Mcq({ ex, onDone }: { ex: Exercise; onDone: (correct: boolean) => void 
         ) : null}
       </Animated.View>
 
-      <View style={styles.options}>
-        {ex.options.map((option, i) => {
-          const state =
-            picked === null
-              ? 'idle'
-              : option === ex.answer
-                ? 'right'
-                : option === picked
-                  ? 'wrong'
-                  : 'dim';
-          return (
-            <Animated.View key={option} entering={enter.up(80 + i * 50)}>
-              <Button
-                label={option}
-                sentence
-                haptic="none"
-                variant={state === 'idle' || state === 'dim' ? 'secondary' : undefined}
-                colorOverride={
-                  state === 'right'
-                    ? { face: colors.success, edge: colors.successShade }
-                    : state === 'wrong'
-                      ? { face: colors.danger, edge: colors.dangerShade }
-                      : undefined
-                }
-                icon={
-                  state === 'right' ? (
-                    <Icon icon={Check} size={20} color={colors.textOnColor} />
-                  ) : state === 'wrong' ? (
-                    <Icon icon={X} size={20} color={colors.textOnColor} />
-                  ) : undefined
-                }
-                style={state === 'dim' ? styles.dim : undefined}
-                onPress={() => pick(option)}
-              />
-            </Animated.View>
-          );
-        })}
-      </View>
+      <Animated.View entering={enter.up(80)} style={styles.answerBox}>
+        <TextField
+          value={typed}
+          onChangeText={setTyped}
+          placeholder={frToEn ? t.review.typeEnglish : t.review.typeTranslation}
+          autoFocus
+          autoCapitalize="none"
+          autoCorrect={false}
+          spellCheck={false}
+          returnKeyType="done"
+          editable={!result}
+          onSubmitEditing={() => check()}
+          accessibilityLabel={t.review.yourAnswer}
+        />
+        {!result ? (
+          <>
+            <Button label={t.review.check} disabled={!typed.trim()} onPress={() => check()} />
+            <Button label={t.review.dontKnow} variant="ghost" onPress={() => check(true)} />
+          </>
+        ) : null}
+      </Animated.View>
 
       <View style={styles.footerArea}>
-        {picked ? (
+        {result ? (
           <Animated.View entering={enter.up()}>
             <Card
               tint={
-                isCorrect
+                passed
                   ? { face: colors.successSoft, edge: colors.success }
                   : { face: colors.accentSoft, edge: colors.danger }
               }>
               <View style={styles.feedbackTitle}>
                 <Icon
-                  icon={isCorrect ? PartyPopper : Dumbbell}
+                  icon={passed ? PartyPopper : Dumbbell}
                   size={22}
-                  color={isCorrect ? colors.successShade : colors.dangerShade}
+                  color={passed ? colors.successShade : colors.dangerShade}
                 />
-                <Text
-                  variant="heading"
-                  color={isCorrect ? colors.successShade : colors.dangerShade}>
-                  {isCorrect ? t.review.right : t.review.almost}
+                <Text variant="heading" color={passed ? colors.successShade : colors.dangerShade}>
+                  {passed ? t.review.right : t.review.almost}
                 </Text>
               </View>
-              {!isCorrect ? (
+              {result === 'close' ? <Text>{t.review.watchSpelling}</Text> : null}
+              {result !== 'exact' ? (
                 <Text>
                   {t.review.correctAnswer}
                   <Text variant="bodyBold">{ex.answer}</Text>
@@ -312,15 +311,15 @@ function Mcq({ ex, onDone }: { ex: Exercise; onDone: (correct: boolean) => void 
               ) : null}
               <Button
                 label={t.common.continue}
-                variant={isCorrect ? 'success' : 'danger'}
+                variant={passed ? 'success' : 'danger'}
                 style={styles.continue}
-                onPress={() => onDone(isCorrect)}
+                onPress={() => onDone(result)}
               />
             </Card>
           </Animated.View>
         ) : null}
       </View>
-    </View>
+    </ScrollView>
   );
 }
 
@@ -336,12 +335,11 @@ const styles = StyleSheet.create({
     paddingVertical: spacing.md,
   },
   flex: { flex: 1 },
-  exercise: { flex: 1, padding: spacing.xl, gap: spacing.xl },
+  exercise: { flexGrow: 1, padding: spacing.xl, gap: spacing.xl },
   promptBox: { gap: spacing.sm, paddingVertical: spacing.lg },
   pos: { alignSelf: 'center' },
   italic: { fontStyle: 'italic', marginTop: spacing.xs },
-  options: { gap: spacing.md },
-  dim: { opacity: 0.5 },
+  answerBox: { gap: spacing.md },
   footerArea: { marginTop: 'auto', gap: spacing.md },
   feedbackTitle: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm },
   continue: { marginTop: spacing.md },

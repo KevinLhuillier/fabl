@@ -140,19 +140,3 @@ export async function saveReview(lemmaId: number, result: SrsResult) {
       .eq('lemma_id', lemmaId),
   );
 }
-
-export type DistractorEntry = { word: string; translation: string };
-
-/** A pool of (word, translation) pairs used to build wrong MCQ answers. */
-export async function fetchDistractorPool(lang: string): Promise<DistractorEntry[]> {
-  const rows = unwrap(
-    await supabase
-      .from('translations')
-      .select('translation, lemmas(word, pos)')
-      .eq('lang', lang)
-      .limit(400),
-  ) as unknown as { translation: string; lemmas: { word: string; pos: string } | null }[];
-  return rows
-    .filter((r) => r.lemmas && r.lemmas.pos !== 'PROPN')
-    .map((r) => ({ word: r.lemmas!.word, translation: r.translation }));
-}

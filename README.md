@@ -50,8 +50,8 @@ turn this off in **Authentication → Providers → Email → Confirm email**.
   are read and a long press on a word plays from there.
 - **Mes mots**: every word looked up, with translation, context sentence and story, searchable,
   removable (trash icon), with the number of words due today. Practice is possible at any time.
-- **Review**: due words (spaced repetition, simplified SM-2 — `src/lib/srs.ts`) as multiple-choice
-  questions, alternating English → user's language and back. Missed words come back at the end.
+- **Review**: due words (spaced repetition, simplified SM-2 — `src/lib/srs.ts`): the user types the word's translation,
+  alternating English → user's language and back (synonyms, articles, a missing accent or one typo accepted — `src/lib/answer.ts`). Missed words come back at the end.
 - **Celebration** screen after a chapter (with "next chapter"), a whole story or a review.
 
 ### Languages

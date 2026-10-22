@@ -146,6 +146,12 @@ export const fr = {
     right: 'Bravo !',
     almost: 'Presque !',
     correctAnswer: 'Bonne réponse : ',
+    typeEnglish: 'Écris le mot en anglais',
+    typeTranslation: 'Écris la traduction',
+    yourAnswer: 'Ta réponse',
+    check: 'Valider',
+    dontKnow: 'Je ne sais pas',
+    watchSpelling: 'Attention à l’orthographe.',
     quote: (sentence: string) => `« ${sentence} »`,
   },
   celebration: {

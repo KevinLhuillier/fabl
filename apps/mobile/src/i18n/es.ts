@@ -143,6 +143,12 @@ export const es: Messages = {
     right: '¡Muy bien!',
     almost: '¡Casi!',
     correctAnswer: 'Respuesta correcta: ',
+    typeEnglish: 'Escribe la palabra en inglés',
+    typeTranslation: 'Escribe la traducción',
+    yourAnswer: 'Tu respuesta',
+    check: 'Comprobar',
+    dontKnow: 'No lo sé',
+    watchSpelling: 'Cuidado con la ortografía.',
     quote: (sentence) => `«${sentence}»`,
   },
   celebration: {
