@@ -62,6 +62,8 @@ export const pt: Messages = {
     signUp: 'Cadastrar-se',
     noAccount: 'Ainda não tem conta? Cadastre-se',
     haveAccount: 'Já tenho uma conta',
+    username: 'Nome de usuário',
+    forgotPassword: 'Esqueceu a senha?',
     accountCreated: 'Conta criada! Clique no link que você recebeu por e-mail e depois entre.',
     errors: {
       invalidCredentials: 'E-mail ou senha incorretos.',
@@ -69,6 +71,11 @@ export const pt: Messages = {
       alreadyRegistered: 'Já existe uma conta com este e-mail.',
       passwordTooShort: 'A senha deve ter pelo menos 6 caracteres.',
       invalidEmail: 'E-mail inválido.',
+      usernameTaken: 'Este nome de usuário já está em uso.',
+      invalidUsername: 'De 3 a 20 caracteres: letras, números ou _.',
+      invalidCode: 'Código inválido ou expirado.',
+      samePassword: 'Escolha uma senha diferente da anterior.',
+      tooManyRequests: 'Muitas tentativas. Tente de novo em alguns minutos.',
     },
   },
   home: {
@@ -171,6 +178,20 @@ export const pt: Messages = {
   language: {
     title: 'Escolha seu idioma',
     hint: 'Para o aplicativo e a tradução das palavras. Você poderá mudar no seu perfil.',
+  },
+  username: {
+    title: 'Escolha seu nome de usuário',
+    hint: 'É o seu nome no Fabl. Ninguém mais poderá usá-lo.',
+  },
+  forgotPassword: {
+    title: 'Esqueci a senha',
+    hint: 'Digite seu e-mail: enviaremos um código para você escolher uma nova senha.',
+    sendCode: 'Receber o código',
+    codeSent: (email: string) => `Código enviado para ${email}. Confira também a pasta de spam.`,
+    code: 'Código recebido por e-mail',
+    newPassword: 'Nova senha (mín. 6 caracteres)',
+    confirm: 'Alterar a senha',
+    resend: 'Reenviar o código',
   },
   dailyGoal: {
     title: 'Escolha sua meta diária',

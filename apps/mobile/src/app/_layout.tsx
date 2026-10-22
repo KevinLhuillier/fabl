@@ -56,6 +56,9 @@ function RootNavigator() {
   // First sign-in: choose the language, then the daily goal (null = not chosen yet).
   const needsLang = signedIn && stats?.lang === null;
   const needsGoal = signedIn && !needsLang && stats?.daily_goal_minutes === null;
+  // Accounts created before usernames choose one (new accounts pick it at sign-up).
+  const needsUsername = signedIn && !needsLang && !needsGoal && stats?.username === null;
+  const onboarding = needsLang || needsGoal || needsUsername;
   return (
     <>
       <StatusBar style="dark" />
@@ -65,7 +68,7 @@ function RootNavigator() {
           contentStyle: { backgroundColor: colors.background },
         }}>
         {/* Guards switch screens automatically when the session changes. */}
-        <Stack.Protected guard={signedIn && !needsLang && !needsGoal}>
+        <Stack.Protected guard={signedIn && !onboarding}>
           <Stack.Screen name="(tabs)" />
           <Stack.Screen name="story/[id]" />
           <Stack.Screen name="read/[chapterId]" options={{ gestureEnabled: false }} />
@@ -81,8 +84,12 @@ function RootNavigator() {
         <Stack.Protected guard={needsGoal}>
           <Stack.Screen name="daily-goal" options={{ animation: 'fade' }} />
         </Stack.Protected>
+        <Stack.Protected guard={needsUsername}>
+          <Stack.Screen name="username" options={{ animation: 'fade' }} />
+        </Stack.Protected>
         <Stack.Protected guard={!signedIn}>
           <Stack.Screen name="sign-in" />
+          <Stack.Screen name="forgot-password" />
         </Stack.Protected>
       </Stack>
       {/* Above every screen: today's goal can be reached while reading or reviewing. */}

@@ -32,6 +32,11 @@ export default function Profile() {
     <SafeAreaView style={styles.safe} edges={['top']}>
       <ScrollView contentContainerStyle={styles.content}>
         <Text variant="title">{t.profile.title}</Text>
+        {stats?.username ? (
+          <Text variant="heading" color={colors.primary}>
+            @{stats.username}
+          </Text>
+        ) : null}
         <Text color={colors.textSecondary}>{session?.user.email}</Text>
 
         <View style={styles.grid}>

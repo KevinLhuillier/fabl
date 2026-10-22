@@ -74,6 +74,8 @@ export type UserStats = {
   read_along: boolean;
   /** Interface and translation language chosen in the profile; null: device language. */
   lang: string | null;
+  /** Unique public name; null for accounts created before usernames (asked at launch). */
+  username: string | null;
 };
 
 export type VocabularyItem = {

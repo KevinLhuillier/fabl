@@ -62,6 +62,8 @@ export const it: Messages = {
     signUp: 'Registrati',
     noAccount: 'Non hai ancora un account? Registrati',
     haveAccount: 'Ho già un account',
+    username: 'Nome utente',
+    forgotPassword: 'Password dimenticata?',
     accountCreated: 'Account creato! Clicca sul link che hai ricevuto per e-mail, poi accedi.',
     errors: {
       invalidCredentials: 'E-mail o password errate.',
@@ -69,6 +71,11 @@ export const it: Messages = {
       alreadyRegistered: 'Esiste già un account con questa e-mail.',
       passwordTooShort: 'La password deve avere almeno 6 caratteri.',
       invalidEmail: 'E-mail non valida.',
+      usernameTaken: 'Questo nome utente è già in uso.',
+      invalidUsername: 'Da 3 a 20 caratteri: lettere, numeri o _.',
+      invalidCode: 'Codice non valido o scaduto.',
+      samePassword: 'Scegli una password diversa da quella precedente.',
+      tooManyRequests: 'Troppi tentativi. Riprova tra qualche minuto.',
     },
   },
   home: {
@@ -171,6 +178,20 @@ export const it: Messages = {
   language: {
     title: 'Scegli la tua lingua',
     hint: "Per l'app e la traduzione delle parole. Potrai cambiarla nel tuo profilo.",
+  },
+  username: {
+    title: 'Scegli il tuo nome utente',
+    hint: 'È il tuo nome su Fabl. Nessun altro potrà usarlo.',
+  },
+  forgotPassword: {
+    title: 'Password dimenticata',
+    hint: 'Inserisci la tua e-mail: ti inviamo un codice per scegliere una nuova password.',
+    sendCode: 'Ricevi il codice',
+    codeSent: (email: string) => `Codice inviato a ${email}. Controlla anche la cartella spam.`,
+    code: 'Codice ricevuto per e-mail',
+    newPassword: 'Nuova password (min. 6 caratteri)',
+    confirm: 'Cambia la password',
+    resend: 'Invia di nuovo il codice',
   },
   dailyGoal: {
     title: 'Scegli il tuo obiettivo giornaliero',

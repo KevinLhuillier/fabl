@@ -11,6 +11,7 @@ import {
   setDailyGoal,
   setReadAlong,
   setUserLang,
+  setUsername,
 } from './gamification';
 import type { UserStats } from './types';
 
@@ -29,6 +30,8 @@ type StatsContextValue = {
   updateDailyGoal: (minutes: number) => Promise<void>;
   updateReadAlong: (enabled: boolean) => Promise<void>;
   updateLang: (lang: string) => Promise<void>;
+  /** Rejects with `USERNAME_TAKEN` when another account has the name. */
+  updateUsername: (username: string) => Promise<void>;
 };
 
 const StatsContext = createContext<StatsContextValue | null>(null);
@@ -92,6 +95,10 @@ export function StatsProvider({ children }: { children: ReactNode }) {
     setStats(await setUserLang(lang));
   }, []);
 
+  const updateUsername = useCallback(async (username: string) => {
+    setStats(await setUsername(username));
+  }, []);
+
   return (
     // Signed out: hide the previous user's numbers.
     <StatsContext.Provider
@@ -106,6 +113,7 @@ export function StatsProvider({ children }: { children: ReactNode }) {
         updateDailyGoal,
         updateReadAlong,
         updateLang,
+        updateUsername,
       }}>
       {children}
     </StatsContext.Provider>

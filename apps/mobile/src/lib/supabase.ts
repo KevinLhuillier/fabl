@@ -1,7 +1,7 @@
 import 'react-native-url-polyfill/auto';
 
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { createClient } from '@supabase/supabase-js';
+import { createClient, type Session } from '@supabase/supabase-js';
 import { AppState, Platform } from 'react-native';
 
 const url = process.env.EXPO_PUBLIC_SUPABASE_URL;
@@ -14,15 +14,40 @@ if (!url || !key) {
   );
 }
 
+// supabase-js default key, made explicit so `storedSession` can read it back.
+const storageKey = `sb-${new URL(url).hostname.split('.')[0]}-auth-token`;
+
 export const supabase = createClient(url, key, {
   auth: {
     // Session lives in AsyncStorage (SecureStore is limited to 2 KB per value).
     storage: Platform.OS === 'web' && typeof window === 'undefined' ? undefined : AsyncStorage,
+    storageKey,
     autoRefreshToken: true,
     persistSession: true,
     detectSessionInUrl: false,
   },
 });
+
+/** Session saved on the device, even when its access token has expired. */
+export async function storedSession(): Promise<Session | null> {
+  try {
+    const raw = await AsyncStorage.getItem(storageKey);
+    return raw ? (JSON.parse(raw) as Session) : null;
+  } catch {
+    return null;
+  }
+}
+
+/** Client whose session stays in memory, apart from the app's (see `resetPassword`). */
+export const createEphemeralClient = () =>
+  createClient(url, key, {
+    auth: {
+      storageKey: 'fabl-ephemeral',
+      autoRefreshToken: false,
+      persistSession: false,
+      detectSessionInUrl: false,
+    },
+  });
 
 // Only refresh the token while the app is in the foreground.
 AppState.addEventListener('change', (state) => {

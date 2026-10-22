@@ -8,6 +8,7 @@
  */
 import { daysBetween, localDateString } from './dates';
 import { currentUserId, supabase, unwrap } from './supabase';
+import { USERNAME_TAKEN } from './username';
 import type { UserStats } from './types';
 
 export const DAILY_GOAL_OPTIONS = [10, 15, 30, 45, 60] as const;
@@ -39,7 +40,7 @@ export function displayedStreak(stats: UserStats, today = localDateString()): nu
 }
 
 const STATS_COLUMNS =
-  'total_seconds, current_streak, best_streak, last_active_date, daily_goal_minutes, read_along, lang';
+  'total_seconds, current_streak, best_streak, last_active_date, daily_goal_minutes, read_along, lang, username';
 
 export async function fetchStats(): Promise<UserStats> {
   const userId = await currentUserId();
@@ -116,3 +117,15 @@ export const setDailyGoal = (minutes: number) => updateStats({ daily_goal_minute
 export const setUserLang = (lang: string) => updateStats({ lang });
 
 export const setReadAlong = (enabled: boolean) => updateStats({ read_along: enabled });
+
+/** Throws the "already taken" message when another account got the name first. */
+export async function setUsername(username: string): Promise<UserStats> {
+  try {
+    return await updateStats({ username });
+  } catch (e) {
+    if (e instanceof Error && /duplicate key|user_stats_username_key/i.test(e.message)) {
+      throw new Error(USERNAME_TAKEN);
+    }
+    throw e;
+  }
+}
