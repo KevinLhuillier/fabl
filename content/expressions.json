@@ -28,6 +28,8 @@
     "for example",
     "get rid of",
     "had better",
+    "ice cream",
+    "in a hurry",
     "in case",
     "in case of",
     "in fact",
@@ -38,6 +40,8 @@
     "kind of",
     "look forward to",
     "make sure",
+    "next door",
+    "next to",
     "no longer",
     "of course",
     "on purpose",
@@ -47,6 +51,7 @@
     "take care of",
     "take place",
     "thank you",
+    "up close",
     "used to"
   ],
   "ignore": ["crash down", "gallop down", "peer up", "sidle up"]

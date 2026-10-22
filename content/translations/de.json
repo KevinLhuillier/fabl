@@ -673,6 +673,12 @@
       "example": "He lost his balance, Hugh's lance hit him in the chest, and the old knight crashed to the ground."
     },
     {
+      "word": "balcony",
+      "pos": "NOUN",
+      "translation": "der Balkon",
+      "example": "Nuage knew every path: which tiles moved, which windows were open, which balcony had a bowl of food for street cats."
+    },
+    {
       "word": "bandit",
       "pos": "NOUN",
       "translation": "der Bandit, der Räuber",
@@ -733,6 +739,12 @@
       "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
     },
     {
+      "word": "beat",
+      "pos": "VERB",
+      "translation": "schlagen, klopfen",
+      "example": "My heart was beating like a drum."
+    },
+    {
       "word": "because",
       "pos": "SCONJ",
       "translation": "weil",
@@ -786,6 +798,12 @@
       "example": "I was twenty, and I believed that being a knight meant winning."
     },
     {
+      "word": "belly",
+      "pos": "NOUN",
+      "translation": "der Bauch",
+      "example": "I walked very slowly, my belly close to the stone."
+    },
+    {
       "word": "belong",
       "pos": "VERB",
       "translation": "gehören",
@@ -802,6 +820,12 @@
       "pos": "ADV",
       "translation": "unten, darunter",
       "example": "Below, the fire had sunk to a sullen red glow, and by its light he could make out the bulk of his uncle kneeling on the floor."
+    },
+    {
+      "word": "below",
+      "pos": "ADP",
+      "translation": "unter, unterhalb",
+      "example": "Below me, there was a narrow ledge, and from the ledge, a gutter led to the roof next door."
     },
     {
       "word": "bend",
@@ -1428,6 +1452,12 @@
       "example": "In the old days, the songs claimed, the trees of the Hollow Wilds had grown so tall that their crowns brushed the clouds, and the people who lived beneath them could ask a root to part or a branch to bend, and be answered."
     },
     {
+      "word": "claw",
+      "pos": "NOUN",
+      "translation": "die Kralle",
+      "example": "Then my claws touched the tiles, and I was on the roof."
+    },
+    {
       "word": "clean",
       "pos": "ADJ",
       "translation": "sauber, rein",
@@ -1506,6 +1536,12 @@
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
     },
     {
+      "word": "coffee",
+      "pos": "NOUN",
+      "translation": "der Kaffee",
+      "example": "She opened the kitchen window to let some air in, drank her coffee in two seconds and ran downstairs."
+    },
+    {
       "word": "coin",
       "pos": "NOUN",
       "translation": "die Münze",
@@ -1552,6 +1588,12 @@
       "pos": "PHRASE",
       "translation": "herunterkommen, hinuntergehen",
       "example": "Light came down through the canopy in long, slanting columns, thick with drifting pollen."
+    },
+    {
+      "word": "come on",
+      "pos": "PHRASE",
+      "translation": "komm!, los!",
+      "example": "Come on, Ice Cream."
     },
     {
       "word": "command",
@@ -1744,6 +1786,18 @@
       "pos": "NOUN",
       "translation": "die Sahne; (Farbe) cremefarben",
       "example": "Pinned to the board beside the shrine was a sheet of heavy cream paper bearing the seal of Thornhall: a thorned branch encircling a well."
+    },
+    {
+      "word": "Cream",
+      "pos": "PROPN",
+      "translation": "„Cream“ (im Spitznamen „Ice Cream“: Eis)",
+      "example": "Come on, Ice Cream."
+    },
+    {
+      "word": "Croix",
+      "pos": "PROPN",
+      "translation": "Croix (in „Croix-Rousse“, Hügel in Lyon)",
+      "example": "We ran along the rooftops of the Croix-Rousse, the old hill where silk workers lived a long time ago."
     },
     {
       "word": "Crooked",
@@ -2094,6 +2148,12 @@
       "example": "Last week, my brother saw one of them pay for his drinks with a silver coin."
     },
     {
+      "word": "drink",
+      "pos": "VERB",
+      "translation": "trinken",
+      "example": "She opened the kitchen window to let some air in, drank her coffee in two seconds and ran downstairs."
+    },
+    {
       "word": "drop",
       "pos": "NOUN",
       "translation": "der Tropfen",
@@ -2104,6 +2164,12 @@
       "pos": "VERB",
       "translation": "fallen lassen, fallen",
       "example": "But it landed in the small room like a log dropped on the hearth, and Rowan let the question die."
+    },
+    {
+      "word": "drum",
+      "pos": "NOUN",
+      "translation": "die Trommel",
+      "example": "My heart was beating like a drum."
     },
     {
       "word": "dry",
@@ -2152,6 +2218,12 @@
       "pos": "PROPN",
       "translation": "die Erde (Element)",
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
+    },
+    {
+      "word": "east",
+      "pos": "NOUN",
+      "translation": "der Osten",
+      "example": "In the east, it was starting to turn pink."
     },
     {
       "word": "easy",
@@ -2908,6 +2980,12 @@
       "example": "She was a head shorter than him, freckled, and permanently windswept, as though she had just come in from a gale even on the stillest of days."
     },
     {
+      "word": "free",
+      "pos": "ADJ",
+      "translation": "frei",
+      "example": "\"And you look free,\" I answered."
+    },
+    {
       "word": "fresh",
       "pos": "ADJ",
       "translation": "frisch",
@@ -3211,6 +3289,12 @@
       "pos": "NOUN",
       "translation": "die Wache",
       "example": "Edwin jumped over the wooden barrier and ran towards him, ignoring the guards who were shouting at him to stop."
+    },
+    {
+      "word": "gutter",
+      "pos": "NOUN",
+      "translation": "die Dachrinne",
+      "example": "Below me, there was a narrow ledge, and from the ledge, a gutter led to the roof next door."
     },
     {
       "word": "had better",
@@ -3596,6 +3680,12 @@
       "example": "\"Whoever did this was not hungry,\" he said quietly."
     },
     {
+      "word": "hurry",
+      "pos": "NOUN",
+      "translation": "die Eile",
+      "example": "The night was warm, and Léa was in a hurry."
+    },
+    {
       "word": "hurt",
       "pos": "VERB",
       "translation": "wehtun, verletzen",
@@ -3612,6 +3702,24 @@
       "pos": "PRON",
       "translation": "ich („me“: mich, mir)",
       "example": "I have a cat. — Ich habe eine Katze."
+    },
+    {
+      "word": "ice",
+      "pos": "NOUN",
+      "translation": "das Eis",
+      "example": "\"Pistache? Like the ice cream?\""
+    },
+    {
+      "word": "Ice",
+      "pos": "PROPN",
+      "translation": "„Ice“ (im Spitznamen „Ice Cream“: Eis)",
+      "example": "Come on, Ice Cream."
+    },
+    {
+      "word": "ice cream",
+      "pos": "PHRASE",
+      "translation": "das Eis (Speiseeis)",
+      "example": "\"Pistache? Like the ice cream?\""
     },
     {
       "word": "if",
@@ -3660,6 +3768,12 @@
       "pos": "ADV",
       "translation": "herein, hinein („come in“: hereinkommen)",
       "example": "Only the smell of fresh bread climbs up the walls and comes in through the window."
+    },
+    {
+      "word": "in a hurry",
+      "pos": "PHRASE",
+      "translation": "in Eile",
+      "example": "The night was warm, and Léa was in a hurry."
     },
     {
       "word": "in case",
@@ -4046,6 +4160,12 @@
       "pos": "VERB",
       "translation": "gehen, verlassen",
       "example": "\"Serve him well,\" his mother had whispered as he left."
+    },
+    {
+      "word": "ledge",
+      "pos": "NOUN",
+      "translation": "der Sims, der Mauervorsprung",
+      "example": "Below me, there was a narrow ledge, and from the ledge, a gutter led to the roof next door."
     },
     {
       "word": "ledger",
@@ -4700,6 +4820,12 @@
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
     },
     {
+      "word": "narrow",
+      "pos": "ADJ",
+      "translation": "schmal, eng",
+      "example": "Below me, there was a narrow ledge, and from the ledge, a gutter led to the roof next door."
+    },
+    {
       "word": "near",
       "pos": "ADJ",
       "translation": "nah („nearest“: der nächste)",
@@ -4800,6 +4926,24 @@
       "pos": "ADJ",
       "translation": "neben (in „next to“)",
       "example": "She is next to Leo. — Sie ist neben Leo."
+    },
+    {
+      "word": "next",
+      "pos": "ADV",
+      "translation": "als Nächstes, danach („next to“: neben)",
+      "example": "She was sitting next to a chimney, looking at me with her yellow eyes."
+    },
+    {
+      "word": "next door",
+      "pos": "PHRASE",
+      "translation": "nebenan",
+      "example": "Below me, there was a narrow ledge, and from the ledge, a gutter led to the roof next door."
+    },
+    {
+      "word": "next to",
+      "pos": "PHRASE",
+      "translation": "neben",
+      "example": "She was sitting next to a chimney, looking at me with her yellow eyes."
     },
     {
       "word": "night",
@@ -4910,6 +5054,12 @@
       "example": "Now she is next to Leo. — Jetzt ist sie neben Leo."
     },
     {
+      "word": "Nuage",
+      "pos": "PROPN",
+      "translation": "Nuage (Name; „Wolke“ auf Französisch)",
+      "example": "I'm Nuage."
+    },
+    {
       "word": "o'clock",
       "pos": "NOUN",
       "translation": "Uhr („three o'clock“: drei Uhr)",
@@ -4926,6 +5076,12 @@
       "pos": "NOUN",
       "translation": "der Eid, der Schwur",
       "example": "Sir Hugh of Blackmoor, you have betrayed your oath, your king and the people you were supposed to protect."
+    },
+    {
+      "word": "October",
+      "pos": "PROPN",
+      "translation": "Oktober",
+      "example": "It happened on a Tuesday in October."
     },
     {
       "word": "of",
@@ -5365,6 +5521,12 @@
       "example": "Edwin picked up his weapon, his face red with frustration."
     },
     {
+      "word": "pigeon",
+      "pos": "NOUN",
+      "translation": "die Taube",
+      "example": "She showed me a terrace full of tomato plants, a pigeon who thought he was a king, and a place on top of a high wall where you could see the two rivers, the Rhône and the Saône, shining in the dark."
+    },
+    {
       "word": "pile",
       "pos": "NOUN",
       "translation": "der Haufen",
@@ -5375,6 +5537,12 @@
       "pos": "VERB",
       "translation": "anheften, feststecken",
       "example": "Pinned to the board beside the shrine was a sheet of heavy cream paper bearing the seal of Thornhall: a thorned branch encircling a well."
+    },
+    {
+      "word": "pink",
+      "pos": "ADJ",
+      "translation": "rosa",
+      "example": "In the east, it was starting to turn pink."
     },
     {
       "word": "Pistache",
@@ -5399,6 +5567,12 @@
       "pos": "NOUN",
       "translation": "die Planke, das Brett",
       "example": "But his hands, which had been gripping a plank to lift it from the cart, had gone utterly still."
+    },
+    {
+      "word": "plant",
+      "pos": "NOUN",
+      "translation": "die Pflanze",
+      "example": "She showed me a terrace full of tomato plants, a pigeon who thought he was a king, and a place on top of a high wall where you could see the two rivers, the Rhône and the Saône, shining in the dark."
     },
     {
       "word": "play",
@@ -5513,6 +5687,12 @@
       "pos": "ADJ",
       "translation": "vorherig",
       "example": "He had been Marked the previous autumn: Fire, as everyone had predicted, since his father had Fire and his grandfather before him."
+    },
+    {
+      "word": "prince",
+      "pos": "NOUN",
+      "translation": "der Prinz",
+      "example": "\"You look like a prince in a tower.\""
     },
     {
       "word": "prisoner",
@@ -5658,6 +5838,12 @@
       "translation": "statt, eher als"
     },
     {
+      "word": "reach",
+      "pos": "VERB",
+      "translation": "erreichen",
+      "example": "When I reached the gutter, I jumped."
+    },
+    {
       "word": "read",
       "pos": "VERB",
       "translation": "lesen",
@@ -5668,6 +5854,12 @@
       "pos": "ADJ",
       "translation": "bereit, fertig",
       "example": "When Edwin arrived at Little Fenwick, the villagers were already packing their belongings, ready to flee into the forest."
+    },
+    {
+      "word": "real",
+      "pos": "ADJ",
+      "translation": "echt, wirklich",
+      "example": "I'll show you the real city."
     },
     {
       "word": "realise",
@@ -5838,6 +6030,12 @@
       "example": "Every man reveals his intentions before he strikes."
     },
     {
+      "word": "Rhône",
+      "pos": "PROPN",
+      "translation": "die Rhone (Fluss)",
+      "example": "She showed me a terrace full of tomato plants, a pigeon who thought he was a king, and a place on top of a high wall where you could see the two rivers, the Rhône and the Saône, shining in the dark."
+    },
+    {
       "word": "rich",
       "pos": "ADJ",
       "translation": "reich",
@@ -5946,6 +6144,12 @@
       "example": "He had turned fourteen at midsummer: lean where his uncle was broad, with a shock of dark hair that defeated every comb and hands already roughened by years of rope and bark."
     },
     {
+      "word": "Rousse",
+      "pos": "PROPN",
+      "translation": "Rousse (in „Croix-Rousse“, Hügel in Lyon)",
+      "example": "We ran along the rooftops of the Croix-Rousse, the old hill where silk workers lived a long time ago."
+    },
+    {
       "word": "Rowan",
       "pos": "PROPN",
       "translation": "Rowan (Vorname)",
@@ -6018,6 +6222,12 @@
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
     },
     {
+      "word": "Saône",
+      "pos": "PROPN",
+      "translation": "die Saône (Fluss)",
+      "example": "She showed me a terrace full of tomato plants, a pigeon who thought he was a king, and a place on top of a high wall where you could see the two rivers, the Rhône and the Saône, shining in the dark."
+    },
+    {
       "word": "Saturday",
       "pos": "PROPN",
       "translation": "Samstag",
@@ -6088,6 +6298,12 @@
       "pos": "ADJ",
       "translation": "zweiter",
       "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
+    },
+    {
+      "word": "second",
+      "pos": "NOUN",
+      "translation": "die Sekunde",
+      "example": "For one terrible second, there was nothing under me."
     },
     {
       "word": "secret",
@@ -6264,6 +6480,12 @@
       "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
     },
     {
+      "word": "shine",
+      "pos": "VERB",
+      "translation": "glänzen, scheinen",
+      "example": "She showed me a terrace full of tomato plants, a pigeon who thought he was a king, and a place on top of a high wall where you could see the two rivers, the Rhône and the Saône, shining in the dark."
+    },
+    {
       "word": "shiver",
       "pos": "NOUN",
       "translation": "der Schauer",
@@ -6372,6 +6594,12 @@
       "example": "The crowd fell silent as the two horses began to gallop towards each other, the ground shaking beneath their hooves."
     },
     {
+      "word": "silk",
+      "pos": "NOUN",
+      "translation": "die Seide",
+      "example": "We ran along the rooftops of the Croix-Rousse, the old hill where silk workers lived a long time ago."
+    },
+    {
       "word": "silver",
       "pos": "ADJ",
       "translation": "silbern",
@@ -6454,6 +6682,12 @@
       "pos": "NUM",
       "translation": "sechzehn",
       "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "sky",
+      "pos": "NOUN",
+      "translation": "der Himmel",
+      "example": "She just looked at the sky."
     },
     {
       "word": "slant",
@@ -7133,6 +7367,18 @@
       "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
     },
     {
+      "word": "terrace",
+      "pos": "NOUN",
+      "translation": "die Terrasse",
+      "example": "She showed me a terrace full of tomato plants, a pigeon who thought he was a king, and a place on top of a high wall where you could see the two rivers, the Rhône and the Saône, shining in the dark."
+    },
+    {
+      "word": "terrible",
+      "pos": "ADJ",
+      "translation": "schrecklich, furchtbar",
+      "example": "For one terrible second, there was nothing under me."
+    },
+    {
       "word": "terribly",
       "pos": "ADV",
       "translation": "schrecklich",
@@ -7385,6 +7631,12 @@
       "example": "Godfrey simply smiled and bowed his head, but Edwin noticed that his hand had tightened around the hilt of his sword."
     },
     {
+      "word": "tile",
+      "pos": "NOUN",
+      "translation": "der Dachziegel, die Fliese",
+      "example": "Then my claws touched the tiles, and I was on the roof."
+    },
+    {
       "word": "till",
       "pos": "SCONJ",
       "translation": "bis",
@@ -7457,6 +7709,12 @@
       "example": "They go home together. — Sie gehen zusammen nach Hause."
     },
     {
+      "word": "tomato",
+      "pos": "NOUN",
+      "translation": "die Tomate",
+      "example": "She showed me a terrace full of tomato plants, a pigeon who thought he was a king, and a place on top of a high wall where you could see the two rivers, the Rhône and the Saône, shining in the dark."
+    },
+    {
       "word": "tomorrow",
       "pos": "NOUN",
       "translation": "morgen",
@@ -7503,6 +7761,12 @@
       "pos": "ADP",
       "translation": "zu, auf … zu",
       "example": "She glanced nervously towards the door."
+    },
+    {
+      "word": "tower",
+      "pos": "NOUN",
+      "translation": "der Turm",
+      "example": "\"You look like a prince in a tower.\""
     },
     {
       "word": "town",
@@ -7589,6 +7853,12 @@
       "example": "Someone had tried to kill his master, and he was almost sure he knew who."
     },
     {
+      "word": "Tuesday",
+      "pos": "PROPN",
+      "translation": "Dienstag",
+      "example": "It happened on a Tuesday in October."
+    },
+    {
       "word": "tunic",
       "pos": "NOUN",
       "translation": "die Tunika",
@@ -7599,6 +7869,12 @@
       "pos": "VERB",
       "translation": "sich umdrehen; werden („turned white“: wurde weiß)",
       "example": "As soon as their eyes met, the squire turned and disappeared into the crowd."
+    },
+    {
+      "word": "turn around",
+      "pos": "PHRASE",
+      "translation": "sich umdrehen",
+      "example": "I turned around."
     },
     {
       "word": "twenty",
@@ -7703,6 +7979,18 @@
       "example": "She looks up. — Sie schaut nach oben."
     },
     {
+      "word": "up",
+      "pos": "ADV",
+      "translation": "hoch, nach oben",
+      "example": "Up close, she was even thinner than I thought."
+    },
+    {
+      "word": "up close",
+      "pos": "PHRASE",
+      "translation": "aus der Nähe",
+      "example": "Up close, she was even thinner than I thought."
+    },
+    {
       "word": "upward",
       "pos": "ADV",
       "translation": "nach oben, aufwärts",
@@ -7713,6 +8001,12 @@
       "pos": "ADJ",
       "translation": "dringend, eindringlich",
       "example": "Bram had drawn the cart up beside the cooper's yard to unload, and a pedlar Rowan didn't recognise — a stooped, sharp-eyed woman with a tray of tin pots and needles slung from her neck — had sidled up to him and was talking in a low, urgent voice."
+    },
+    {
+      "word": "use",
+      "pos": "VERB",
+      "translation": "benutzen, verwenden („used to“: früher etw. tun)",
+      "example": "Humans used to call me that, a long time ago."
     },
     {
       "word": "used to",
@@ -7978,6 +8272,12 @@
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
     },
     {
+      "word": "wet",
+      "pos": "ADJ",
+      "translation": "nass, feucht",
+      "example": "The air smelled of wet leaves, bread and something else, something wild."
+    },
+    {
       "word": "what",
       "pos": "PRON",
       "translation": "was",
@@ -8092,6 +8392,12 @@
       "example": "Doors left wide open, supper still on the table."
     },
     {
+      "word": "wild",
+      "pos": "ADJ",
+      "translation": "wild",
+      "example": "The air smelled of wet leaves, bread and something else, something wild."
+    },
+    {
       "word": "Wilds",
       "pos": "PROPN",
       "translation": "Wilds („Wildnis“, in „Hollow Wilds“)",
@@ -8126,6 +8432,12 @@
       "pos": "NOUN",
       "translation": "das Fenster",
       "example": "Sir Godfrey, who lived to a very old age, watched them from his window and laughed."
+    },
+    {
+      "word": "windowsill",
+      "pos": "NOUN",
+      "translation": "die Fensterbank",
+      "example": "I sat on the windowsill for a long time."
     },
     {
       "word": "windswept",
@@ -8218,6 +8530,12 @@
       "example": "They worked through the morning."
     },
     {
+      "word": "worker",
+      "pos": "NOUN",
+      "translation": "der Arbeiter",
+      "example": "We ran along the rooftops of the Croix-Rousse, the old hill where silk workers lived a long time ago."
+    },
+    {
       "word": "world",
       "pos": "NOUN",
       "translation": "die Welt",
@@ -8282,6 +8600,12 @@
       "pos": "VERB",
       "translation": "vergilben",
       "example": "Inside lay a folded letter, its paper yellowed with age, and pressed flat between its pages was a single leaf — not oak, not ash, not any tree Rowan knew, but long and silvery and veined with the faintest trace of gold."
+    },
+    {
+      "word": "yellow",
+      "pos": "ADJ",
+      "translation": "gelb",
+      "example": "She was sitting next to a chimney, looking at me with her yellow eyes."
     },
     {
       "word": "yes",
