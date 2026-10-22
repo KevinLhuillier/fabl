@@ -111,7 +111,7 @@ export default function Profile() {
             <Text color={colors.textSecondary} style={styles.hint}>
               {t.profile.languageHint}
             </Text>
-            <View style={styles.goals}>
+            <View style={styles.langs}>
               {LANGS.map((l) => (
                 <Button
                   key={l}
@@ -119,7 +119,7 @@ export default function Profile() {
                   sentence
                   variant={lang === l ? 'primary' : 'secondary'}
                   haptic="tap"
-                  style={styles.goal}
+                  style={styles.lang}
                   onPress={() => setLang(l).catch(console.warn)}
                 />
               ))}
@@ -197,4 +197,7 @@ const styles = StyleSheet.create({
   hint: { marginTop: spacing.xs, marginBottom: spacing.md },
   goals: { flexDirection: 'row', gap: spacing.sm },
   goal: { flex: 1 },
+  // Two per row: the names do not fit five abreast.
+  langs: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm },
+  lang: { flexGrow: 1, flexBasis: '40%' },
 });

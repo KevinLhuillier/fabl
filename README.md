@@ -57,11 +57,11 @@ turn this off in **Authentication → Providers → Email → Confirm email**.
 
 ### Languages
 
-The interface and the word translations are in **French** or **Spanish**: the language chosen in
+The interface and the word translations are in **French**, **Spanish**, **Portuguese** (Brazil), **Italian** or **German**: the language chosen in
 **Profil → Langue** (saved on the account, `user_stats.lang`), else the phone's language (French
-when it is neither). On the first sign-in, a **language screen** asks for it (shown while
+when it is none of them). On the first sign-in, a **language screen** asks for it (shown while
 `user_stats.lang` is empty, the phone's language preselected). Interface texts live in
-`apps/mobile/src/i18n/` — `fr.ts` is the reference, `es.ts` must have the same keys (TypeScript
+`apps/mobile/src/i18n/` — `fr.ts` is the reference, the other dictionaries (`es.ts`, `pt.ts`, `it.ts`, `de.ts`) must have the same keys (TypeScript
 checks it). To add a language: a new dictionary, its code in `LANGS` (`i18n/index.tsx`) and in
 the `user_stats.lang` check constraint (migration), and a `content/translations/<lang>.json`
 imported with `seed-translations`.
@@ -144,7 +144,7 @@ For each story the script:
    with `--lang es` for Spanish).
 
 Add the missing ones to `content/translations/<lang>.json`, then run `npm run seed-translations`
-(`-- --lang es` for Spanish).
+(`-- --lang es` for Spanish, `pt`, `it`, `de` for the others): every language needs its own run.
 
 ### Admin (web)
 
@@ -226,7 +226,7 @@ Then Mia sees her neighbour, Mr Green.
 
 ### Translation file
 
-`content/translations/<lang>.json` (`fr.json`, `es.json`):
+`content/translations/<lang>.json` (`fr.json`, `es.json`, `pt.json`, `it.json`, `de.json`):
 
 ```json
 {

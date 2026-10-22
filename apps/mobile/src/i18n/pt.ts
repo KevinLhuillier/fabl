@@ -1,0 +1,269 @@
+import type { Messages } from './fr';
+
+/** Portuguese (Brazil) interface texts (same keys as `fr`). */
+
+/** "2.699": Portuguese thousands separator (no Intl dependency). */
+const number = (n: number) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, '.');
+/** Portuguese plural: only 1 is singular. */
+const count = (n: number, one: string, many: string) => `${number(n)} ${n === 1 ? one : many}`;
+
+export const pt: Messages = {
+  number,
+  common: {
+    back: 'Voltar',
+    continue: 'Continuar',
+    close: 'Fechar',
+    cancel: 'Cancelar',
+    gotIt: 'Entendi',
+    next: 'Próximo',
+    skip: 'Pular',
+    retry: 'Tentar de novo',
+    chapters: (n) => count(n, 'capítulo', 'capítulos'),
+    pages: (n) => count(n, 'página', 'páginas'),
+    words: (n) => count(n, 'palavra', 'palavras'),
+    minutes: (n) => `${n} min`,
+  },
+  levels: {
+    A1: 'Iniciante',
+    A2: 'Básico',
+    B1: 'Intermediário',
+    B2: 'Intermediário avançado',
+    C1: 'Avançado',
+    C2: 'Proficiente',
+  },
+  pos: {
+    NOUN: 'substantivo',
+    PROPN: 'nome próprio',
+    VERB: 'verbo',
+    ADJ: 'adjetivo',
+    ADV: 'advérbio',
+    PRON: 'pronome',
+    DET: 'determinante',
+    ADP: 'preposição',
+    CCONJ: 'conjunção',
+    SCONJ: 'conjunção',
+    NUM: 'número',
+    INTJ: 'interjeição',
+    PART: 'partícula',
+    PHRASE: 'expressão',
+  },
+  tabs: {
+    stories: 'Histórias',
+    vocabulary: 'Minhas palavras',
+    profile: 'Perfil',
+  },
+  signIn: {
+    tagline: 'Aprenda inglês vivendo histórias em que você é o herói.',
+    welcomeBack: 'Que bom te ver de novo!',
+    createAccount: 'Crie sua conta',
+    email: 'E-mail',
+    password: 'Senha (mín. 6 caracteres)',
+    signIn: 'Entrar',
+    signUp: 'Cadastrar-se',
+    noAccount: 'Ainda não tem conta? Cadastre-se',
+    haveAccount: 'Já tenho uma conta',
+    accountCreated: 'Conta criada! Clique no link que você recebeu por e-mail e depois entre.',
+    errors: {
+      invalidCredentials: 'E-mail ou senha incorretos.',
+      emailNotConfirmed: 'Confirme seu e-mail (com o link que você recebeu) e entre de novo.',
+      alreadyRegistered: 'Já existe uma conta com este e-mail.',
+      passwordTooShort: 'A senha deve ter pelo menos 6 caracteres.',
+      invalidEmail: 'E-mail inválido.',
+    },
+  },
+  home: {
+    title: 'Suas histórias',
+    toReviewToday: (n) => `${count(n, 'palavra', 'palavras')} para revisar hoje`,
+    review: 'Revisar',
+    loadError: (message) => `Não foi possível carregar as histórias: ${message}`,
+    comingSoon: 'Novas histórias em breve',
+  },
+  stats: {
+    goalReached: 'Meta cumprida!',
+    goalToastTitle: 'Meta do dia cumprida!',
+    goalToastText: (minutes, streak) => `${minutes} min hoje · sequência: ${streak} d. Mandou bem!`,
+    dailyGoal: 'Meta do dia',
+  },
+  storyTile: {
+    a11y: (title, level, percent) => `${title}, nível ${level}, ${percent} % lido`,
+  },
+  story: {
+    readingTime: (minutes) => `≈ ${minutes} min`,
+  },
+  toc: {
+    contents: 'Sumário',
+    storyDone: 'História concluída!',
+    end: 'Fim',
+    chapterA11y: (n, title) => `Capítulo ${n}: ${title}`,
+    resume: (page, total) => `CONTINUAR · PÁGINA ${page} / ${total}`,
+    start: 'COMEÇAR A LER',
+  },
+  reader: {
+    close: 'Fechar o capítulo',
+    notFound: 'Capítulo não encontrado: publique a história de novo.',
+    header: (n, title, page, total) =>
+      `CAPÍTULO ${n} · ${title.toUpperCase()} · PÁGINA ${page}/${total}`,
+    longPressHint: 'Mantenha uma palavra pressionada para ouvir a partir dela',
+    tapHint: 'Toque em uma palavra para ver a tradução',
+    finish: 'Terminar o capítulo',
+    previousPage: 'Página anterior',
+    nextPage: 'Próxima página',
+    chapterTitle: (n, title) => `Capítulo ${n} · ${title}`,
+    play: 'Ouvir a página',
+    pause: 'Pausar a leitura',
+  },
+  wordSheet: {
+    wordAlone: 'Palavra sozinha: ',
+    baseForm: 'forma base: ',
+    translationSoon: 'Tradução disponível em breve',
+    added: 'Adicionada às suas palavras',
+    alreadyAdded: 'Já está nas suas palavras',
+  },
+  vocabulary: {
+    title: 'Minhas palavras',
+    toReview: (n) => `${count(n, 'palavra', 'palavras')} para revisar`,
+    allReviewed: 'Tudo revisado',
+    learned: (n) => count(n, 'palavra aprendida', 'palavras aprendidas'),
+    review: 'Revisar',
+    practice: 'Praticar',
+    search: 'Buscar uma palavra ou uma tradução',
+    noMatch: 'Nenhuma palavra encontrada.',
+    empty: 'Toque em uma palavra de uma história para ver a tradução: ela aparecerá aqui.',
+    due: 'Para revisar',
+    removeA11y: (word) => `Remover “${word}”`,
+    removeTitle: 'Remover esta palavra?',
+    removeMessage: (word) => `“${word}” não estará mais nas suas palavras nem nas suas revisões.`,
+    remove: 'Remover',
+  },
+  review: {
+    quit: 'Sair da revisão',
+    nothingTitle: 'Nada para revisar',
+    nothingText: 'Leia uma história e toque nas palavras para encher sua lista.',
+    score: (correct, total) => `${correct} / ${total} respostas certas`,
+    howDoYouSay: 'Como se diz em inglês…?',
+    whatDoesItMean: 'O que significa…?',
+    right: 'Muito bem!',
+    almost: 'Quase!',
+    correctAnswer: 'Resposta certa: ',
+    typeEnglish: 'Escreva a palavra em inglês',
+    typeTranslation: 'Escreva a tradução',
+    yourAnswer: 'Sua resposta',
+    check: 'Verificar',
+    dontKnow: 'Não sei',
+    watchSpelling: 'Cuidado com a ortografia.',
+    quote: (sentence) => `“${sentence}”`,
+  },
+  celebration: {
+    chapter: 'Capítulo concluído!',
+    story: 'História concluída!',
+    review: 'Revisão concluída!',
+    streak: (days) => `Sequência: ${days} d`,
+    goalReached: 'Meta do dia cumprida!',
+    goalProgress: (minutes, goal) => `Meta do dia: ${minutes} / ${goal} min`,
+    readingTime: 'de leitura',
+    reviewTime: 'de revisão',
+    newWords: (n) =>
+      n === 1 ? '1 palavra nova para aprender' : `${number(n)} palavras novas para aprender`,
+    newWordsHint: 'Elas te esperam em Minhas palavras para a próxima revisão.',
+    nextChapter: 'Próximo capítulo',
+    later: 'Mais tarde',
+  },
+  language: {
+    title: 'Escolha seu idioma',
+    hint: 'Para o aplicativo e a tradução das palavras. Você poderá mudar no seu perfil.',
+  },
+  dailyGoal: {
+    title: 'Escolha sua meta diária',
+    hint: 'Quantos minutos você quer ler ou revisar por dia? Você poderá mudar no seu perfil.',
+    perDay: 'por dia',
+    levels: {
+      10: 'Tranquilo',
+      15: 'Constante',
+      30: 'Sério',
+      45: 'Intensivo',
+      60: 'Apaixonado',
+    },
+  },
+  profile: {
+    title: 'Perfil',
+    totalTime: 'Tempo total',
+    currentStreak: 'Sequência atual',
+    bestStreak: 'Melhor sequência',
+    dailyGoal: 'Meta diária',
+    dailyGoalHint: 'Minutos de leitura ou revisão por dia.',
+    readAlong: 'Destaque do áudio',
+    readAlongHint: 'Destaca o texto e a palavra lida enquanto você ouve.',
+    language: 'Idioma',
+    languageHint: 'Idioma do aplicativo e das traduções.',
+    replay: 'Ver a demo de novo',
+    signOut: 'Sair',
+  },
+  tour: {
+    home: {
+      stats: {
+        title: 'Seu progresso',
+        text: 'Sua sequência de dias, seu tempo total e sua meta do dia. Leia ou revise todo dia para cumpri-la e manter sua sequência!',
+      },
+      stories: {
+        title: 'Escolha uma história',
+        text: 'Cada história tem um nível (A1, A2…). Toque em uma capa para ver os capítulos.',
+      },
+      tabs: {
+        title: 'Suas palavras e seu perfil',
+        text: 'Embaixo, a aba “Minhas palavras” reúne seu vocabulário e “Perfil”, suas configurações.',
+      },
+    },
+    story: {
+      summary: {
+        title: 'A história',
+        text: 'O resumo, o tempo de leitura e seu avanço na história.',
+      },
+      chapters: {
+        title: 'Os capítulos',
+        text: 'Toque em um capítulo para lê-lo. Sua página fica salva: você continua de onde parou.',
+      },
+    },
+    reader: {
+      text: {
+        title: 'Toque em uma palavra',
+        text: 'A tradução aparece e a palavra é adicionada a “Minhas palavras” para você revisar depois.',
+      },
+      audio: {
+        title: 'Ouça a página',
+        text: 'Inicie a leitura: o texto é destacado no ritmo da voz. Mantenha uma palavra pressionada para ouvir a partir dela.',
+      },
+      next: {
+        title: 'Próxima página',
+        text: 'Avance página por página. Seu tempo de leitura conta para a meta do dia!',
+      },
+    },
+    vocabulary: {
+      review: {
+        title: 'Revise suas palavras',
+        text: 'As palavras voltam pouco antes de você esquecê-las. O tempo de revisão também conta para a sua meta.',
+      },
+      search: {
+        title: 'Encontre uma palavra',
+        text: 'Busque uma palavra ou a tradução. Cada cartão lembra a frase onde você a encontrou.',
+      },
+    },
+    profile: {
+      goal: {
+        title: 'Sua meta',
+        text: 'Escolha quantos minutos ler ou revisar por dia.',
+      },
+      readAlong: {
+        title: 'Destaque do áudio',
+        text: 'Prefere ouvir sem o texto destacado? Desative aqui.',
+      },
+      language: {
+        title: 'Idioma',
+        text: 'Mude o idioma do aplicativo e das traduções.',
+      },
+      replay: {
+        title: 'Ver a demo de novo',
+        text: 'Você pode rever esta apresentação quando quiser.',
+      },
+    },
+  },
+};

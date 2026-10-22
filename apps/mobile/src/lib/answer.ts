@@ -16,6 +16,9 @@ const LEADING: Record<string, RegExp> = {
   en: /^(the|an?|to) /,
   fr: /^(le|la|les|un|une|des) |^l'/,
   es: /^(el|la|los|las|un|una|unos|unas) /,
+  pt: /^(o|a|os|as|um|uma|uns|umas) /,
+  it: /^(il|lo|la|i|gli|le|un|uno|una) |^(l|un)'/,
+  de: /^(der|die|das|ein|eine|einen) /,
 };
 
 const clean = (s: string) =>

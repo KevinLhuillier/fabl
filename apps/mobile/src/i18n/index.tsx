@@ -4,19 +4,28 @@ import { createContext, useCallback, useContext, useEffect, useState, type React
 
 import { useStats } from '@/lib/stats';
 
+import { de } from './de';
 import { es } from './es';
 import { fr, type Messages } from './fr';
+import { it } from './it';
+import { pt } from './pt';
 
 export type { Messages };
 
 /** Languages of the interface, which are also the languages of the word translations. */
-export const LANGS = ['fr', 'es'] as const;
+export const LANGS = ['fr', 'es', 'pt', 'it', 'de'] as const;
 export type Lang = (typeof LANGS)[number];
 
 /** Each language in its own name, for the language picker. */
-export const LANG_NAMES: Record<Lang, string> = { fr: 'Français', es: 'Español' };
+export const LANG_NAMES: Record<Lang, string> = {
+  fr: 'Français',
+  es: 'Español',
+  pt: 'Português',
+  it: 'Italiano',
+  de: 'Deutsch',
+};
 
-export const MESSAGES: Record<Lang, Messages> = { fr, es };
+export const MESSAGES: Record<Lang, Messages> = { fr, es, pt, it, de };
 /** When none of the device languages is supported yet. */
 const DEFAULT_LANG: Lang = 'fr';
 const STORAGE_KEY = 'fabl.lang';
