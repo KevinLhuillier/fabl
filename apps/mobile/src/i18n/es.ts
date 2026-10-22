@@ -45,6 +45,7 @@ export const es: Messages = {
     NUM: 'número',
     INTJ: 'interjección',
     PART: 'partícula',
+    PHRASE: 'expresión',
   },
   tabs: {
     stories: 'Historias',
@@ -112,6 +113,7 @@ export const es: Messages = {
     pause: 'Pausar la lectura',
   },
   wordSheet: {
+    wordAlone: 'Palabra sola: ',
     baseForm: 'forma base: ',
     translationSoon: 'Traducción disponible pronto',
     added: 'Añadida a tus palabras',

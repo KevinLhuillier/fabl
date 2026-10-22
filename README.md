@@ -232,6 +232,23 @@ Then Mia sees her neighbour, Mr Green.
 
 `word` + `pos` must match the lemma printed by the publish script.
 
+### Expressions
+
+Phrasal verbs and fixed phrases are translated as a whole: tapping "shut" in "Shut up!" shows
+_shut up — se taire_ (the word alone below it), highlights both words and adds the expression to
+"Mes mots", so it is reviewed as such. An expression is a lemma with the pos `PHRASE`, translated
+in the same files: `{ "word": "shut up", "pos": "PHRASE", "translation": "se taire, la fermer" }`.
+The publish script lists the untranslated ones with the other lemmas.
+
+- **Phrasal verbs** are found by spaCy's dependency parser: a particle attached to its verb, even
+  when separated ("She picked it up" → _pick up_).
+- **Fixed phrases** ("of course", "in front of", "be about to") are listed in
+  `content/expressions.json` and matched on consecutive words, each by its text or its base form
+  ("took care of" → _take care of_). The longest match wins.
+- `ignore` in the same file lists phrasal verbs that mean nothing more than their words.
+
+After changing `content/expressions.json`, republish the stories and translate the new expressions.
+
 ### Read-along (voice-over alignment)
 
 After adding a voice-over to a page, align it with the text so the reader can highlight the

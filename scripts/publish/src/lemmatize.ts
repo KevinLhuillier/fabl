@@ -2,9 +2,18 @@ import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 
 import { REPO_ROOT } from './env.js';
+import { markPhrases, type Dependency } from './phrases.js';
 import { runPythonScript } from './python.js';
 
-type SpacyToken = { text: string; ws: string; lemma: string; pos: string };
+type SpacyToken = {
+  text: string;
+  ws: string;
+  lemma: string;
+  pos: string;
+  dep: string;
+  /** Index of the head token in the line. */
+  head: number;
+};
 
 export type LemmaKey = { word: string; pos: string };
 
@@ -14,6 +23,8 @@ export type Token = {
   /** Whitespace after the token ('\n' between lines of a passage). */
   whitespace: string;
   lemma: LemmaKey | null;
+  /** The expression the token belongs to ("up" in "pick it up"), and its first token's position. */
+  phrase?: { lemma: LemmaKey; start: number };
   /** When the word is read in the page's voice-over (from content/alignments). */
   startMs?: number;
   endMs?: number;
@@ -25,7 +36,8 @@ const HAS_LETTER = /\p{L}/u;
 
 /**
  * Tokenizes + lemmatizes every passage in a single Python call (loading the
- * spaCy model is the slow part). Returns one token list per passage.
+ * spaCy model is the slow part), and marks its expressions. Returns one token
+ * list per passage.
  */
 export async function lemmatizePassages(passages: string[][]): Promise<Token[][]> {
   const lines = passages.flat();
@@ -34,9 +46,12 @@ export async function lemmatizePassages(passages: string[][]): Promise<Token[][]
   let cursor = 0;
   return passages.map((passageLines) => {
     const tokens: Token[] = [];
+    const deps: Dependency[] = [];
     passageLines.forEach((_, lineIndex) => {
       const lineTokens = output[cursor++] ?? [];
+      const lineStart = tokens.length;
       lineTokens.forEach((t, i) => {
+        deps.push({ dep: t.dep, head: lineStart + t.head });
         const isLastOfLine = i === lineTokens.length - 1;
         const isLastLine = lineIndex === passageLines.length - 1;
         tokens.push({
@@ -47,6 +62,7 @@ export async function lemmatizePassages(passages: string[][]): Promise<Token[][]
         });
       });
     });
+    markPhrases(tokens, deps);
     return tokens;
   });
 }

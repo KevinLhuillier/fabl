@@ -143,7 +143,10 @@ export async function publishStory(
   const allTokens = [...tokensByPage.values()].flat();
   const lemmaIds = await upsertLemmas(
     db,
-    allTokens.flatMap((t) => (t.lemma ? [t.lemma] : [])),
+    allTokens.flatMap((t) => [
+      ...(t.lemma ? [t.lemma] : []),
+      ...(t.phrase ? [t.phrase.lemma] : []),
+    ]),
   );
 
   // Replace tokens wholesale: simpler and safer than diffing positions.
@@ -157,6 +160,8 @@ export async function publishStory(
       text: t.text,
       whitespace: t.whitespace,
       lemma_id: t.lemma ? lemmaIds.get(lemmaKeyId(t.lemma))! : null,
+      phrase_lemma_id: t.phrase ? lemmaIds.get(lemmaKeyId(t.phrase.lemma))! : null,
+      phrase_start: t.phrase?.start ?? null,
       start_ms: t.startMs ?? null,
       end_ms: t.endMs ?? null,
     })),

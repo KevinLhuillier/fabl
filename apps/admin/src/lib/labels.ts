@@ -24,6 +24,7 @@ const POS_LABELS: Record<string, string> = {
   NUM: 'nombre',
   INTJ: 'interjection',
   PART: 'particule',
+  PHRASE: 'expression',
 };
 
 export const posLabel = (pos: string) => POS_LABELS[pos] ?? pos.toLowerCase();

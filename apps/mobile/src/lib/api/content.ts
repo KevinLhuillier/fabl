@@ -57,13 +57,19 @@ type RawToken = {
   whitespace: string;
   start_ms: number | null;
   end_ms: number | null;
-  lemmas: RawLemma | null;
+  phrase_start: number | null;
+  word: RawLemma | null;
+  phrase: RawLemma | null;
 };
 type RawPage = { id: string; page_index: number; audio_url: string | null; tokens: RawToken[] };
 
+const LEMMA_COLUMNS = 'id, word, pos, translations(translation, example)';
+
 /**
- * Loads a chapter with every page, token, lemma and its `lang` translation in
- * one request (a chapter is a few hundred tokens).
+ * Loads a chapter with every page, token, lemma, expression and their `lang`
+ * translation in one request (a chapter is a few hundred tokens). Tokens point
+ * to lemmas twice (word and expression), hence the explicit foreign keys and
+ * the distinct aliases: the `lang` filters only apply through an alias.
  */
 export async function fetchChapterPages(chapterId: string, lang: string): Promise<Page[]> {
   const row = unwrap(
@@ -71,11 +77,13 @@ export async function fetchChapterPages(chapterId: string, lang: string): Promis
       .from('chapters')
       .select(
         `id, passages(id, page_index, audio_url,
-           tokens(position, text, whitespace, start_ms, end_ms,
-             lemmas(id, word, pos, translations(translation, example))))`,
+           tokens(position, text, whitespace, start_ms, end_ms, phrase_start,
+             word:lemmas!tokens_lemma_id_fkey(${LEMMA_COLUMNS}),
+             phrase:lemmas!tokens_phrase_lemma_id_fkey(${LEMMA_COLUMNS})))`,
       )
       .eq('id', chapterId)
-      .eq('passages.tokens.lemmas.translations.lang', lang)
+      .eq('passages.tokens.word.translations.lang', lang)
+      .eq('passages.tokens.phrase.translations.lang', lang)
       .single(),
   ) as { id: string; passages: RawPage[] };
 
@@ -93,7 +101,11 @@ export async function fetchChapterPages(chapterId: string, lang: string): Promis
           whitespace: t.whitespace,
           startMs: t.start_ms,
           endMs: t.end_ms,
-          lemma: t.lemmas ? toLemma(t.lemmas) : null,
+          lemma: t.word ? toLemma(t.word) : null,
+          phrase:
+            t.phrase && t.phrase_start !== null
+              ? { start: t.phrase_start, lemma: toLemma(t.phrase) }
+              : null,
         })),
     }));
 }

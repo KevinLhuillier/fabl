@@ -163,7 +163,7 @@ function report(
   published: boolean,
   missing: Lemma[],
 ): AnalysisReport {
-  // First paragraph using each lemma: the example offered for its translation.
+  // First paragraph using each lemma or expression: the example offered for its translation.
   const context = new Map<string, string>();
   for (const tokens of tokensByPage.values()) {
     let line: typeof tokens = [];
@@ -172,8 +172,11 @@ function report(
         .map((t) => t.text + t.whitespace)
         .join('')
         .trim();
-      for (const t of line)
-        if (t.lemma && !context.has(lemmaKeyId(t.lemma))) context.set(lemmaKeyId(t.lemma), text);
+      for (const t of line) {
+        for (const lemma of [t.lemma, t.phrase?.lemma]) {
+          if (lemma && !context.has(lemmaKeyId(lemma))) context.set(lemmaKeyId(lemma), text);
+        }
+      }
       line = [];
     };
     for (const t of tokens) {

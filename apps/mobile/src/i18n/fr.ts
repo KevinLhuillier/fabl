@@ -48,6 +48,7 @@ export const fr = {
     NUM: 'nombre',
     INTJ: 'interjection',
     PART: 'particule',
+    PHRASE: 'expression',
   } as Record<string, string>,
   tabs: {
     stories: 'Histoires',
@@ -115,6 +116,7 @@ export const fr = {
   },
   wordSheet: {
     baseForm: 'forme de base : ',
+    wordAlone: 'Mot seul : ',
     translationSoon: 'Traduction bientôt disponible',
     added: 'Ajouté à tes mots',
     alreadyAdded: 'Déjà dans tes mots',

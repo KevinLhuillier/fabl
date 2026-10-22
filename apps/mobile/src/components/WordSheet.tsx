@@ -11,19 +11,25 @@ import { Badge, Button, Icon, Text, colors, enter, exit, radii, spacing } from '
 export type WordSheetState = {
   surface: string;
   lemma: Lemma;
+  /** Expression the word belongs to: shown first, and the one added to the user's words. */
+  phrase: Lemma | null;
   /** null while the vocabulary insert is pending. */
   added: 'new' | 'existing' | null;
 };
 
 type Props = { word: WordSheetState | null; onClose: () => void };
 
-/** Bottom sheet with the translation of the tapped word (slides up). */
+/**
+ * Bottom sheet with the translation of the tapped word (slides up). For a word
+ * of an expression, the expression comes first and the word alone below it.
+ */
 export function WordSheet({ word, onClose }: Props) {
   const insets = useSafeAreaInsets();
   const { t } = useI18n();
   if (!word) return null;
-  const { lemma, surface, added } = word;
-  const showLemma = surface.toLowerCase() !== lemma.word.toLowerCase();
+  const { lemma, surface, phrase, added } = word;
+  const entry = phrase ?? lemma;
+  const showLemma = !phrase && surface.toLowerCase() !== lemma.word.toLowerCase();
 
   return (
     <View style={StyleSheet.absoluteFill} pointerEvents="box-none">
@@ -40,8 +46,8 @@ export function WordSheet({ word, onClose }: Props) {
         style={[styles.sheet, { paddingBottom: insets.bottom + spacing.lg }]}>
         <View style={styles.handle} />
         <View style={styles.header}>
-          <Text variant="title">{surface}</Text>
-          <Badge label={posLabel(t, lemma.pos)} tone="primary" />
+          <Text variant="title">{phrase ? phrase.word : surface}</Text>
+          <Badge label={posLabel(t, entry.pos)} tone="primary" />
         </View>
         {showLemma ? (
           <Text color={colors.textSecondary}>
@@ -50,12 +56,19 @@ export function WordSheet({ word, onClose }: Props) {
           </Text>
         ) : null}
         <Text variant="heading" color={colors.primary}>
-          {lemma.translation ?? t.wordSheet.translationSoon}
+          {entry.translation ?? t.wordSheet.translationSoon}
         </Text>
-        {lemma.example ? (
+        {entry.example ? (
           <View style={styles.example}>
-            <Text color={colors.textSecondary}>{lemma.example}</Text>
+            <Text color={colors.textSecondary}>{entry.example}</Text>
           </View>
+        ) : null}
+        {phrase && lemma.translation ? (
+          <Text color={colors.textSecondary}>
+            {t.wordSheet.wordAlone}
+            <Text variant="bodyBold">{lemma.word}</Text>
+            {` — ${lemma.translation}`}
+          </Text>
         ) : null}
         <View style={styles.status}>
           {added === 'new' ? <Icon icon={Check} size={16} color={colors.successShade} /> : null}

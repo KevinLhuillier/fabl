@@ -126,10 +126,10 @@ export default function ChapterReader() {
     const chapterXp = replay ? XP_RULES.chapterReplay : XP_RULES.chapterFirstCompletion;
     await completeChapter(chapterId).catch((e) => console.warn('completeChapter', e));
     await award('chapter', chapterXp);
-    // Words of this chapter the user looked up and has not reviewed yet.
+    // Words and expressions of this chapter the user looked up and has not reviewed yet.
     const lemmaIds = [
-      ...new Set(pages.flatMap((p) => p.tokens.flatMap((t) => (t.lemma ? [t.lemma.id] : [])))),
-    ];
+      ...new Set(pages.flatMap((p) => p.tokens.flatMap((t) => [t.lemma?.id, t.phrase?.lemma.id]))),
+    ].filter((id): id is number => id !== undefined);
     const newWords = await countWordsToLearn(lemmaIds).catch((e) => {
       console.warn('countWordsToLearn', e);
       return 0;
@@ -168,16 +168,21 @@ export default function ChapterReader() {
   function onWordPress(token: Token) {
     if (!token.lemma) return;
     const lemma = token.lemma;
+    // A word of an expression adds the expression ("shut up"), not the word alone.
+    const phrase = token.phrase?.lemma ?? null;
+    const entry = phrase ?? lemma;
     setSelected(token.position);
-    setSheet({ surface: token.text, lemma, added: null });
+    setSheet({ surface: token.text, lemma, phrase, added: null });
     addToVocabulary({
-      lemmaId: lemma.id,
+      lemmaId: entry.id,
       contextSentence: sentenceAround(current.tokens, token.position),
       storyId: story.id,
     })
       .then((isNew) =>
         setSheet((s) =>
-          s && s.lemma.id === lemma.id ? { ...s, added: isNew ? 'new' : 'existing' } : s,
+          s && (s.phrase ?? s.lemma).id === entry.id
+            ? { ...s, added: isNew ? 'new' : 'existing' }
+            : s,
         ),
       )
       .catch((e) => console.warn('addToVocabulary', e));

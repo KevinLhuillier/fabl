@@ -10,6 +10,7 @@ export type ReadAlong = { readUpTo: number; current: number | null };
 
 type Props = {
   tokens: Token[];
+  /** Tapped token; when it belongs to an expression, the whole expression is highlighted. */
   selectedPosition: number | null;
   onWordPress: (token: Token) => void;
   readAlong?: ReadAlong | null;
@@ -30,6 +31,9 @@ type Segment = { token: Token; spoken: boolean; quote?: 'open' | 'close' };
  * wrapping row of words (glued tokens stay together); tokens with a lemma
  * are pressable.
  *
+ * Tapping a word of an expression ("shut" in "shut up") selects the whole
+ * expression, even when it is split ("pick it up").
+ *
  * Spoken words (between quotation marks, quotes included) are shown in
  * italics; the narration around them keeps the normal style.
  * Straight quotes become “curly” ones.
@@ -47,6 +51,9 @@ export const PassageText = memo(function PassageText({
   onWordLongPress,
 }: Props) {
   const paragraphs = splitParagraphs(tokens).map(markDialogue).map(splitWords);
+  const tapped = selectedPosition === null ? null : tokens[selectedPosition];
+  const isSelected = (t: Token) =>
+    tapped?.phrase ? t.phrase?.start === tapped.phrase.start : t.position === selectedPosition;
 
   return (
     <View style={styles.wrap}>
@@ -62,7 +69,7 @@ export const PassageText = memo(function PassageText({
                   spoken={spoken}
                   read={!!readAlong && t.position <= readAlong.readUpTo}
                   current={readAlong?.current === t.position}
-                  selected={t.position === selectedPosition}
+                  selected={isSelected(t)}
                   padLeft={j === 0}
                   padRight={j === segments.length - 1}
                   readColor={readColor}

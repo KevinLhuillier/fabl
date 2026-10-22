@@ -14,6 +14,22 @@
       "example": "Mia has a cat. — Mia tiene un gato."
     },
     {
+      "word": "a bit",
+      "pos": "PHRASE",
+      "translation": "un poco"
+    },
+    {
+      "word": "a few",
+      "pos": "PHRASE",
+      "translation": "unos pocos, algunos"
+    },
+    {
+      "word": "a lot of",
+      "pos": "PHRASE",
+      "translation": "mucho, muchos",
+      "example": "\"Your cousin says a lot of things.\""
+    },
+    {
       "word": "abandon",
       "pos": "VERB",
       "translation": "abandonar",
@@ -28,7 +44,7 @@
     {
       "word": "about",
       "pos": "ADJ",
-      "translation": "a punto de (en «be about to»)",
+      "translation": "a punto de",
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
     },
     {
@@ -64,13 +80,19 @@
     {
       "word": "accident",
       "pos": "NOUN",
-      "translation": "el accidente («by accident»: por accidente)",
+      "translation": "el accidente",
       "example": "My master did not fall by accident, Your Majesty."
     },
     {
       "word": "according",
       "pos": "ADP",
-      "translation": "según («according to»)",
+      "translation": "según",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "according to",
+      "pos": "PHRASE",
+      "translation": "según",
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
     },
     {
@@ -120,6 +142,11 @@
       "pos": "ADP",
       "translation": "después de",
       "example": "After breakfast, Sir Godfrey called him to the courtyard for sword practice."
+    },
+    {
+      "word": "after all",
+      "pos": "PHRASE",
+      "translation": "después de todo"
     },
     {
       "word": "afternoon",
@@ -190,8 +217,19 @@
     {
       "word": "all",
       "pos": "DET",
-      "translation": "todo, todos («all the way»: hasta el final)",
+      "translation": "todo, todos",
       "example": "While the doctors carried him to his tent, Edwin went back to examine the horse. Something about the fall had seemed strange to him."
+    },
+    {
+      "word": "all right",
+      "pos": "PHRASE",
+      "translation": "de acuerdo, bien"
+    },
+    {
+      "word": "all the way",
+      "pos": "PHRASE",
+      "translation": "hasta el final, todo el camino",
+      "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
     },
     {
       "word": "almost",
@@ -382,8 +420,38 @@
     {
       "word": "as",
       "pos": "ADV",
-      "translation": "tan, como («as well»: también)",
+      "translation": "tan, como",
       "example": "\"His Majesty is holding a great tournament at Winchester at the end of the month. Every knight in the kingdom has been invited to take part.\""
+    },
+    {
+      "word": "as if",
+      "pos": "PHRASE",
+      "translation": "como si",
+      "example": "For a long time afterwards Bram stayed where he was, kneeling on the floor with both hands pressed flat against the hearthstone, as if holding it down."
+    },
+    {
+      "word": "as long as",
+      "pos": "PHRASE",
+      "translation": "mientras, siempre que",
+      "example": "Rowan had known the date for as long as he could remember."
+    },
+    {
+      "word": "as soon as",
+      "pos": "PHRASE",
+      "translation": "en cuanto, tan pronto como",
+      "example": "As soon as their eyes met, the squire turned and disappeared into the crowd."
+    },
+    {
+      "word": "as though",
+      "pos": "PHRASE",
+      "translation": "como si",
+      "example": "She was a head shorter than him, freckled, and permanently windswept, as though she had just come in from a gale even on the stillest of days."
+    },
+    {
+      "word": "as well",
+      "pos": "PHRASE",
+      "translation": "también",
+      "example": "And Edwin, sharpen your own sword as well."
     },
     {
       "word": "ash",
@@ -438,6 +506,33 @@
       "pos": "ADP",
       "translation": "en, a",
       "example": "At my house. — En casa."
+    },
+    {
+      "word": "at all",
+      "pos": "PHRASE",
+      "translation": "en absoluto (« not at all » : nada en absoluto)"
+    },
+    {
+      "word": "at first",
+      "pos": "PHRASE",
+      "translation": "al principio",
+      "example": "At first, nobody listened to him."
+    },
+    {
+      "word": "at last",
+      "pos": "PHRASE",
+      "translation": "por fin",
+      "example": "\"This is a serious accusation,\" he said at last."
+    },
+    {
+      "word": "at least",
+      "pos": "PHRASE",
+      "translation": "al menos, por lo menos"
+    },
+    {
+      "word": "at once",
+      "pos": "PHRASE",
+      "translation": "enseguida, de inmediato ; a la vez"
     },
     {
       "word": "attack",
@@ -584,6 +679,12 @@
       "example": "Leo is small. — Leo es pequeño."
     },
     {
+      "word": "be about to",
+      "pos": "PHRASE",
+      "translation": "estar a punto de",
+      "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
       "word": "beam",
       "pos": "NOUN",
       "translation": "la viga; el rayo (de luz)",
@@ -600,6 +701,11 @@
       "pos": "SCONJ",
       "translation": "porque",
       "example": "I chased a defeated enemy into a forest because I wanted the glory of capturing him."
+    },
+    {
+      "word": "because of",
+      "pos": "PHRASE",
+      "translation": "a causa de, por"
     },
     {
       "word": "become",
@@ -772,7 +878,13 @@
     {
       "word": "blow",
       "pos": "VERB",
-      "translation": "soplar («blow out»: apagar soplando)",
+      "translation": "soplar",
+      "example": "He caught Rowan watching and made a great show of blowing the spark out like a birthday candle."
+    },
+    {
+      "word": "blow out",
+      "pos": "PHRASE",
+      "translation": "apagar (soplando), soplar",
       "example": "He caught Rowan watching and made a great show of blowing the spark out like a birthday candle."
     },
     {
@@ -992,6 +1104,12 @@
       "example": "\"By waiting,\" the knight replied calmly."
     },
     {
+      "word": "by accident",
+      "pos": "PHRASE",
+      "translation": "por accidente, sin querer",
+      "example": "\"My master did not fall by accident, Your Majesty."
+    },
+    {
       "word": "cabbage",
       "pos": "NOUN",
       "translation": "la col, el repollo",
@@ -1090,7 +1208,7 @@
     {
       "word": "case",
       "pos": "NOUN",
-      "translation": "el caso («in case of»: en caso de)",
+      "translation": "el caso",
       "example": "The women gathered buckets of water in case of fire."
     },
     {
@@ -1358,6 +1476,12 @@
       "example": "Come here, Leo! — ¡Ven aquí, Leo!"
     },
     {
+      "word": "come down",
+      "pos": "PHRASE",
+      "translation": "bajar, descender",
+      "example": "Light came down through the canopy in long, slanting columns, thick with drifting pollen."
+    },
+    {
       "word": "command",
       "pos": "VERB",
       "translation": "ordenar, dominar",
@@ -1504,7 +1628,7 @@
     {
       "word": "course",
       "pos": "ADV",
-      "translation": "claro (en «of course»)",
+      "translation": "claro",
       "example": "Of course! — ¡Claro!"
     },
     {
@@ -1850,6 +1974,12 @@
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
     },
     {
+      "word": "draw up",
+      "pos": "PHRASE",
+      "translation": "detener, acercar (un vehículo) ; redactar (un documento)",
+      "example": "Bram had drawn the cart up beside the cooper's yard to unload."
+    },
+    {
       "word": "dress",
       "pos": "NOUN",
       "translation": "el vestido",
@@ -1900,7 +2030,13 @@
     {
       "word": "each",
       "pos": "DET",
-      "translation": "cada («each other»: el uno al otro)",
+      "translation": "cada",
+      "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
+    },
+    {
+      "word": "each other",
+      "pos": "PHRASE",
+      "translation": "el uno al otro, mutuamente",
       "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
     },
     {
@@ -2040,6 +2176,16 @@
       "pos": "ADV",
       "translation": "incluso, hasta",
       "example": "\"Not even a hero.\""
+    },
+    {
+      "word": "even if",
+      "pos": "PHRASE",
+      "translation": "aunque, incluso si"
+    },
+    {
+      "word": "even though",
+      "pos": "PHRASE",
+      "translation": "aunque"
     },
     {
       "word": "evening",
@@ -2428,7 +2574,7 @@
     {
       "word": "first",
       "pos": "ADV",
-      "translation": "primero («at first»: al principio)",
+      "translation": "primero",
       "example": "At first, nobody listened to him."
     },
     {
@@ -2632,7 +2778,7 @@
     {
       "word": "front",
       "pos": "NOUN",
-      "translation": "la parte delantera («in front of»: delante de)",
+      "translation": "la parte delantera",
       "example": "When Sir Hugh passed in front of them, he looked at Godfrey with open contempt."
     },
     {
@@ -2714,6 +2860,17 @@
       "example": "\"Do you know how I got this?\""
     },
     {
+      "word": "get rid of",
+      "pos": "PHRASE",
+      "translation": "deshacerse de"
+    },
+    {
+      "word": "get up",
+      "pos": "PHRASE",
+      "translation": "levantarse",
+      "example": "Twice he got up to check the shutters."
+    },
+    {
       "word": "ghost",
       "pos": "NOUN",
       "translation": "el fantasma",
@@ -2760,6 +2917,24 @@
       "pos": "VERB",
       "translation": "ir",
       "example": "Mia goes to the park. — Mia va al parque."
+    },
+    {
+      "word": "go down",
+      "pos": "PHRASE",
+      "translation": "bajar ; (sol) ponerse",
+      "example": "As the sun went down, Edwin remembered Godfrey's lesson."
+    },
+    {
+      "word": "go on",
+      "pos": "PHRASE",
+      "translation": "continuar, seguir ; pasar («what's going on?»: ¿qué pasa?)",
+      "example": "\"Marked twice, those folk were,\" the pedlar went on."
+    },
+    {
+      "word": "go out",
+      "pos": "PHRASE",
+      "translation": "salir ; (fuego, luz) apagarse",
+      "example": "Mia goes out into the street."
     },
     {
       "word": "Godfrey",
@@ -2868,6 +3043,11 @@
       "pos": "NOUN",
       "translation": "el guardia",
       "example": "Edwin jumped over the wooden barrier and ran towards him, ignoring the guards who were shouting at him to stop."
+    },
+    {
+      "word": "had better",
+      "pos": "PHRASE",
+      "translation": "más vale que, sería mejor que"
     },
     {
       "word": "haggle",
@@ -3110,6 +3290,18 @@
       "example": "His Majesty is holding a great tournament at Winchester at the end of the month."
     },
     {
+      "word": "hold down",
+      "pos": "PHRASE",
+      "translation": "sujetar, mantener (en su sitio)",
+      "example": "Bram stayed where he was, kneeling on the floor with both hands pressed flat against the hearthstone, as if holding it down."
+    },
+    {
+      "word": "hold up",
+      "pos": "PHRASE",
+      "translation": "levantar, alzar ; sostener ; retrasar",
+      "example": "Bram held the blade up to the firelight, examined its edge, and seemed displeased with it."
+    },
+    {
       "word": "hollow",
       "pos": "ADJ",
       "translation": "hueco; («the hollow»: el hueco, la cavidad)",
@@ -3290,6 +3482,39 @@
       "example": "Leo is in the tree. — Leo está en el árbol."
     },
     {
+      "word": "in case",
+      "pos": "PHRASE",
+      "translation": "por si acaso, en caso de que"
+    },
+    {
+      "word": "in case of",
+      "pos": "PHRASE",
+      "translation": "en caso de",
+      "example": "The women gathered buckets of water in case of fire."
+    },
+    {
+      "word": "in fact",
+      "pos": "PHRASE",
+      "translation": "de hecho"
+    },
+    {
+      "word": "in front of",
+      "pos": "PHRASE",
+      "translation": "delante de, frente a",
+      "example": "When Sir Hugh passed in front of them, he looked at Godfrey with open contempt."
+    },
+    {
+      "word": "in spite of",
+      "pos": "PHRASE",
+      "translation": "a pesar de"
+    },
+    {
+      "word": "in the end",
+      "pos": "PHRASE",
+      "translation": "al final",
+      "example": "But Edwin refused to leave, and in the end, the king agreed to see him."
+    },
+    {
       "word": "indifferent",
       "pos": "ADJ",
       "translation": "indiferente",
@@ -3324,6 +3549,11 @@
       "pos": "ADV",
       "translation": "en cambio, en su lugar",
       "example": "Instead, as they galloped down the main road, Edwin gave the signal, and the villagers set fire to the branches in the ditch."
+    },
+    {
+      "word": "instead of",
+      "pos": "PHRASE",
+      "translation": "en lugar de, en vez de"
     },
     {
       "word": "intention",
@@ -3431,6 +3661,12 @@
       "word": "kind",
       "pos": "NOUN",
       "translation": "el tipo, la clase",
+      "example": "Rowan Ashby felt it before he heard it: a faint shudder through the soles of his boots, the kind of tremor that runs ahead of a fall the way a rumour runs ahead of a storm."
+    },
+    {
+      "word": "kind of",
+      "pos": "PHRASE",
+      "translation": "una especie de ; un poco, algo",
       "example": "Rowan Ashby felt it before he heard it: a faint shudder through the soles of his boots, the kind of tremor that runs ahead of a fall the way a rumour runs ahead of a storm."
     },
     {
@@ -3544,7 +3780,7 @@
     {
       "word": "last",
       "pos": "ADV",
-      "translation": "en último lugar («at last»: por fin)",
+      "translation": "en último lugar",
       "example": "\"Your mother,\" he said at last, \"was very good at what she did.\""
     },
     {
@@ -3800,6 +4036,17 @@
       "example": "She looks under the table. — Mira debajo de la mesa."
     },
     {
+      "word": "look forward to",
+      "pos": "PHRASE",
+      "translation": "tener ganas de, esperar con ilusión"
+    },
+    {
+      "word": "look up",
+      "pos": "PHRASE",
+      "translation": "levantar la vista, alzar la mirada ; buscar (una palabra)",
+      "example": "She looks up."
+    },
+    {
       "word": "lord",
       "pos": "NOUN",
       "translation": "el señor",
@@ -3814,7 +4061,7 @@
     {
       "word": "lot",
       "pos": "NOUN",
-      "translation": "«a lot of»: mucho, muchos",
+      "translation": "mucho («a lot»)",
       "example": "\"Your cousin says a lot of things.\""
     },
     {
@@ -3826,7 +4073,7 @@
     {
       "word": "loud",
       "pos": "ADV",
-      "translation": "fuerte («out loud»: en voz alta)",
+      "translation": "fuerte",
       "example": "That was the first rule of the Ashby household, and very nearly the only one Bram had ever bothered to say out loud."
     },
     {
@@ -3880,8 +4127,19 @@
     {
       "word": "make",
       "pos": "VERB",
-      "translation": "hacer; («make out»: distinguir)",
+      "translation": "hacer",
       "example": "It was the name in the last lines that made him read the notice twice."
+    },
+    {
+      "word": "make out",
+      "pos": "PHRASE",
+      "translation": "distinguir, divisar ; entender",
+      "example": "By its light he could make out the bulk of his uncle kneeling on the floor."
+    },
+    {
+      "word": "make sure",
+      "pos": "PHRASE",
+      "translation": "asegurarse"
     },
     {
       "word": "man",
@@ -4346,6 +4604,12 @@
       "example": "No, sorry. — No, lo siento."
     },
     {
+      "word": "no longer",
+      "pos": "PHRASE",
+      "translation": "ya no",
+      "example": "He realised that he was no longer afraid of fighting."
+    },
+    {
       "word": "nobody",
       "pos": "PRON",
       "translation": "nadie",
@@ -4438,8 +4702,14 @@
     {
       "word": "of",
       "pos": "ADV",
-      "translation": "de (en «of course»)",
+      "translation": "de",
       "example": "Of course! — ¡Claro!"
+    },
+    {
+      "word": "of course",
+      "pos": "PHRASE",
+      "translation": "por supuesto, claro",
+      "example": "\"Of course!\""
     },
     {
       "word": "off",
@@ -4478,9 +4748,20 @@
       "example": "He sleeps on her bed. — Duerme en su cama."
     },
     {
+      "word": "on purpose",
+      "pos": "PHRASE",
+      "translation": "a propósito"
+    },
+    {
       "word": "once",
       "pos": "ADV",
       "translation": "una vez, antiguamente",
+      "example": "A week later, Edwin stood once again in front of the king, this time with Sir Godfrey sitting beside him on a wooden chair, and the young bandit kneeling at his side."
+    },
+    {
+      "word": "once again",
+      "pos": "PHRASE",
+      "translation": "una vez más, de nuevo",
       "example": "A week later, Edwin stood once again in front of the king, this time with Sir Godfrey sitting beside him on a wooden chair, and the young bandit kneeling at his side."
     },
     {
@@ -4588,8 +4869,14 @@
     {
       "word": "out",
       "pos": "ADV",
-      "translation": "fuera; («slip out»: escaparse)",
+      "translation": "fuera",
       "example": "The question slipped out before he could stop it."
+    },
+    {
+      "word": "out loud",
+      "pos": "PHRASE",
+      "translation": "en voz alta",
+      "example": "That was the first rule of the Ashby household, and very nearly the only one Bram had ever bothered to say out loud."
     },
     {
       "word": "outside",
@@ -4804,7 +5091,13 @@
     {
       "word": "pick",
       "pos": "VERB",
-      "translation": "recoger («pick up»)",
+      "translation": "recoger, elegir",
+      "example": "Edwin picked up his weapon, his face red with frustration."
+    },
+    {
+      "word": "pick up",
+      "pos": "PHRASE",
+      "translation": "recoger, coger ; ir a buscar",
       "example": "Edwin picked up his weapon, his face red with frustration."
     },
     {
@@ -4828,7 +5121,7 @@
     {
       "word": "place",
       "pos": "NOUN",
-      "translation": "el lugar («take place»: tener lugar)",
+      "translation": "el lugar",
       "example": "The ceremony took place in the great hall of the castle, in front of the king, the lords of the realm and, to Edwin's astonishment, his own parents, whom the king had invited from Ashford."
     },
     {
@@ -5012,6 +5305,12 @@
       "example": "He puts his arms up. — Levanta los brazos."
     },
     {
+      "word": "put up",
+      "pos": "PHRASE",
+      "translation": "levantar, alzar ; montar (una tienda) ; alojar",
+      "example": "He puts his long arms up."
+    },
+    {
       "word": "question",
       "pos": "NOUN",
       "translation": "la pregunta",
@@ -5076,6 +5375,11 @@
       "pos": "VERB",
       "translation": "raspar, chirriar",
       "example": "Across from him, Bram sharpened the axe he had already sharpened that morning, the whetstone rasping in long, slow strokes."
+    },
+    {
+      "word": "rather than",
+      "pos": "PHRASE",
+      "translation": "en lugar de, más que"
     },
     {
       "word": "read",
@@ -5396,6 +5700,12 @@
       "example": "She runs to the park. — Corre al parque."
     },
     {
+      "word": "run down",
+      "pos": "PHRASE",
+      "translation": "bajar (por), recorrer ; agotar, criticar",
+      "example": "He felt a cold shiver run down his spine."
+    },
+    {
       "word": "rust",
       "pos": "NOUN",
       "translation": "el óxido",
@@ -5554,8 +5864,20 @@
     {
       "word": "set",
       "pos": "VERB",
-      "translation": "instalar («set up»); poner («set fire to»: prender fuego a)",
+      "translation": "poner, colocar, instalar («set fire to»: prender fuego a)",
       "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "set down",
+      "pos": "PHRASE",
+      "translation": "dejar, posar",
+      "example": "Bram set the plank down very carefully."
+    },
+    {
+      "word": "set up",
+      "pos": "PHRASE",
+      "translation": "montar, instalar",
+      "example": "Hundreds of colourful tents had been set up outside the city walls."
     },
     {
       "word": "settle",
@@ -5580,6 +5902,12 @@
       "pos": "VERB",
       "translation": "sacudir, temblar («shook his head»: negó con la cabeza)",
       "example": "Edwin shook his head."
+    },
+    {
+      "word": "shake off",
+      "pos": "PHRASE",
+      "translation": "sacudir ; quitarse de encima",
+      "example": "He shook it off into the fire, where it flared and was gone."
     },
     {
       "word": "shall",
@@ -5828,6 +6156,12 @@
       "example": "In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail."
     },
     {
+      "word": "sit down",
+      "pos": "PHRASE",
+      "translation": "sentarse",
+      "example": "She sat down opposite Edwin and lowered her voice."
+    },
+    {
       "word": "sixteen",
       "pos": "NUM",
       "translation": "dieciséis",
@@ -5868,6 +6202,12 @@
       "pos": "VERB",
       "translation": "resbalar, deslizarse",
       "example": "Just before the impact, Godfrey's saddle suddenly slipped to one side."
+    },
+    {
+      "word": "slip out",
+      "pos": "PHRASE",
+      "translation": "escaparse («the question slipped out»: se le escapó la pregunta) ; salir sin ser visto",
+      "example": "The question slipped out before he could stop it."
     },
     {
       "word": "slow",
@@ -5998,7 +6338,7 @@
     {
       "word": "soon",
       "pos": "ADV",
-      "translation": "pronto («as soon as»: en cuanto)",
+      "translation": "pronto",
       "example": "As soon as their eyes met, the squire turned and disappeared into the crowd."
     },
     {
@@ -6398,6 +6738,17 @@
       "example": "He takes Leo. — Coge a Leo."
     },
     {
+      "word": "take care of",
+      "pos": "PHRASE",
+      "translation": "cuidar de, ocuparse de"
+    },
+    {
+      "word": "take place",
+      "pos": "PHRASE",
+      "translation": "tener lugar",
+      "example": "By order of the Wardens of Thornhall Academy, the Marking of all children of Brackenford and the surrounding villages who have attained their fourteenth year shall take place at the Standing Stone of Brackenford on the first morning of Leaf-Fall."
+    },
+    {
       "word": "talk",
       "pos": "VERB",
       "translation": "hablar",
@@ -6492,6 +6843,12 @@
       "pos": "VERB",
       "translation": "agradecer",
       "example": "Thank you! — ¡Gracias!"
+    },
+    {
+      "word": "thank you",
+      "pos": "PHRASE",
+      "translation": "gracias",
+      "example": "\"Thank you, Mr Green!\""
     },
     {
       "word": "that",
@@ -6640,7 +6997,7 @@
     {
       "word": "though",
       "pos": "SCONJ",
-      "translation": "aunque; («as though»: como si)",
+      "translation": "aunque",
       "example": "She was a head shorter than him, freckled, and permanently windswept, as though she had just come in from a gale even on the stillest of days."
     },
     {
@@ -7026,6 +7383,11 @@
       "pos": "ADJ",
       "translation": "apremiante, urgente",
       "example": "Bram had drawn the cart up beside the cooper's yard to unload, and a pedlar Rowan didn't recognise — a stooped, sharp-eyed woman with a tray of tin pots and needles slung from her neck — had sidled up to him and was talking in a low, urgent voice."
+    },
+    {
+      "word": "used to",
+      "pos": "PHRASE",
+      "translation": "soler (en pasado) ; estar acostumbrado a"
     },
     {
       "word": "useless",

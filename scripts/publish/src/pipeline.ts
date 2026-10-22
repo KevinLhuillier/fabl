@@ -15,7 +15,7 @@ import { loadTranslations } from './translations.js';
 export type StoryAnalysis = {
   story: ParsedStory;
   tokensByPage: Map<string, Token[]>;
-  /** Distinct lemmas of the story, sorted by word. */
+  /** Distinct lemmas of the story, expressions included, sorted by word. */
   lemmas: LemmaKey[];
   words: number;
   /** Word count of each chapter, in order. */
@@ -63,6 +63,9 @@ export async function publishAnalysis(
 
 function uniqueLemmas(tokens: Token[]): LemmaKey[] {
   const map = new Map<string, LemmaKey>();
-  for (const t of tokens) if (t.lemma) map.set(lemmaKeyId(t.lemma), t.lemma);
+  for (const t of tokens) {
+    if (t.lemma) map.set(lemmaKeyId(t.lemma), t.lemma);
+    if (t.phrase) map.set(lemmaKeyId(t.phrase.lemma), t.phrase.lemma);
+  }
   return [...map.values()].sort((a, b) => a.word.localeCompare(b.word));
 }
