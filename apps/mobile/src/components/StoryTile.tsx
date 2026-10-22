@@ -37,6 +37,7 @@ export function StoryTile({ story, progress, onPress }: Props) {
 
   return (
     <Pressable
+      style={styles.tile}
       accessibilityRole="button"
       accessibilityLabel={t.storyTile.a11y(story.title, story.level, Math.round(fraction * 100))}
       onPressIn={pressIn}
@@ -86,13 +87,15 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  // Two lines reserved so tiles of a row stay aligned.
-  title: { marginTop: spacing.md, minHeight: 46 },
+  // Fills the row height, so the progress bars of a row stay aligned whatever the title length.
+  tile: { flex: 1 },
+  title: { marginTop: spacing.md },
   progress: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: spacing.sm,
-    marginTop: spacing.sm,
+    marginTop: 'auto',
+    paddingTop: spacing.sm,
   },
   flex: { flex: 1 },
 });
