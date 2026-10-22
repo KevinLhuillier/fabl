@@ -43,6 +43,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "climbs",
+      "pos": "NOUN",
+      "word": "climb",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "clothes",
       "pos": "NOUN",
       "word": "clothes",
@@ -103,6 +109,18 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "ginger",
+      "pos": "NOUN",
+      "word": "ginger",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "groans",
+      "pos": "NOUN",
+      "word": "groan",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "I.",
       "pos": "NOUN",
       "word": "I",
@@ -127,6 +145,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Léa",
+      "pos": "ADJ",
+      "word": "Léa",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "moss",
       "pos": "ADJ",
       "word": "moss",
@@ -137,6 +161,12 @@
       "pos": "PROPN",
       "word": "moss",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "moves",
+      "pos": "NOUN",
+      "word": "move",
+      "lemmaPos": "VERB"
     },
     {
       "text": "none",
@@ -245,6 +275,12 @@
       "pos": "NOUN",
       "word": "unfurl",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "us",
+      "pos": "PROPN",
+      "word": "we",
+      "lemmaPos": "PRON"
     },
     {
       "text": "Watch",

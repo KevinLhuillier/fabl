@@ -209,6 +209,18 @@
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
     },
     {
+      "word": "alarm",
+      "pos": "NOUN",
+      "translation": "le réveil, l'alarme",
+      "example": "Every night at three o'clock, her alarm rings."
+    },
+    {
+      "word": "Albert",
+      "pos": "PROPN",
+      "translation": "Albert (prénom)",
+      "example": "His name is written on the letterbox: Albert Morel."
+    },
+    {
       "word": "alive",
       "pos": "ADJ",
       "translation": "vivant, en vie",
@@ -254,6 +266,12 @@
       "pos": "ADV",
       "translation": "déjà",
       "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "also",
+      "pos": "ADV",
+      "translation": "aussi, également",
+      "example": "It is also where I keep my secrets."
     },
     {
       "word": "altar",
@@ -350,6 +368,12 @@
       "pos": "ADV",
       "translation": "chacun, par personne",
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
+    },
+    {
+      "word": "appear",
+      "pos": "VERB",
+      "translation": "apparaître",
+      "example": "Every night, a small grey cat appears on the roof opposite."
     },
     {
       "word": "applause",
@@ -631,6 +655,18 @@
       "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
     },
     {
+      "word": "baker",
+      "pos": "NOUN",
+      "translation": "le boulanger, la boulangère",
+      "example": "She is a baker, so she gets up when the whole city is still asleep."
+    },
+    {
+      "word": "bakery",
+      "pos": "NOUN",
+      "translation": "la boulangerie",
+      "example": "I am a ginger cat with one white sock on my left paw, and I live on the third floor of an old building in Lyon, just above a bakery."
+    },
+    {
       "word": "balance",
       "pos": "NOUN",
       "translation": "l'équilibre",
@@ -840,6 +876,12 @@
       "example": "The old knight moved slowly these days, but his blade was still faster than most young men's."
     },
     {
+      "word": "blanket",
+      "pos": "NOUN",
+      "translation": "la couverture",
+      "example": "I stay in bed for a few more minutes, because the blanket is still warm."
+    },
+    {
       "word": "bleed",
       "pos": "VERB",
       "translation": "saigner",
@@ -922,6 +964,12 @@
       "pos": "VERB",
       "translation": "incliner, s'incliner",
       "example": "Godfrey simply smiled and bowed his head, but Edwin noticed that his hand had tightened around the hilt of his sword."
+    },
+    {
+      "word": "bowl",
+      "pos": "NOUN",
+      "translation": "le bol, la gamelle",
+      "example": "I have a bowl that is never empty, a sofa, a sunny spot in the afternoon and a human who loves me."
     },
     {
       "word": "boy",
@@ -1056,6 +1104,12 @@
       "example": "My grandfather built this house."
     },
     {
+      "word": "building",
+      "pos": "NOUN",
+      "translation": "l'immeuble, le bâtiment",
+      "example": "I am a ginger cat with one white sock on my left paw, and I live on the third floor of an old building in Lyon, just above a bakery."
+    },
+    {
       "word": "bulk",
       "pos": "NOUN",
       "translation": "la masse, la silhouette imposante",
@@ -1096,6 +1150,12 @@
       "pos": "SCONJ",
       "translation": "sauf, à part (« nothing but » : rien d'autre que)",
       "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "butter",
+      "pos": "NOUN",
+      "translation": "le beurre",
+      "example": "It smells like butter and home."
     },
     {
       "word": "by",
@@ -1326,6 +1386,12 @@
       "example": "Children play in the park. — Des enfants jouent dans le parc."
     },
     {
+      "word": "chimney",
+      "pos": "NOUN",
+      "translation": "la cheminée",
+      "example": "I can see the street, the rooftops and the chimneys, and far away, the lights of the city."
+    },
+    {
       "word": "chocolate",
       "pos": "NOUN",
       "translation": "le chocolat",
@@ -1450,6 +1516,12 @@
       "pos": "ADJ",
       "translation": "froid",
       "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
+    },
+    {
+      "word": "collar",
+      "pos": "NOUN",
+      "translation": "le collier (d'un animal) ; le col",
+      "example": "She has no collar."
     },
     {
       "word": "colourful",
@@ -1740,6 +1812,12 @@
       "example": "That evening, Rowan sat by the hearth with his whittling knife and a block of lime wood, working on a figure he had been carving for a week: a fox, curled nose to tail, asleep."
     },
     {
+      "word": "curtain",
+      "pos": "NOUN",
+      "translation": "le rideau",
+      "example": "For example, I know that the man in the ground-floor flat across the street never opens his curtains."
+    },
+    {
       "word": "cut",
       "pos": "VERB",
       "translation": "couper (« cut » au passé et participe : coupé)",
@@ -1752,6 +1830,12 @@
       "example": "Leo is very cute. — Leo est très mignon."
     },
     {
+      "word": "dangerous",
+      "pos": "ADJ",
+      "translation": "dangereux",
+      "example": "Léa says the city is too dangerous for a cat like me."
+    },
+    {
       "word": "dare",
       "pos": "VERB",
       "translation": "oser",
@@ -1762,6 +1846,12 @@
       "pos": "ADJ",
       "translation": "sombre, foncé, brun (cheveux)",
       "example": "He had turned fourteen at midsummer: lean where his uncle was broad, with a shock of dark hair that defeated every comb and hands already roughened by years of rope and bark."
+    },
+    {
+      "word": "dark",
+      "pos": "NOUN",
+      "translation": "l'obscurité, le noir",
+      "example": "Then she jumps onto another roof and disappears into the dark."
     },
     {
       "word": "darkness",
@@ -1950,6 +2040,12 @@
       "example": "He can't come down. — Il ne peut pas descendre."
     },
     {
+      "word": "downstairs",
+      "pos": "ADV",
+      "translation": "en bas, au rez-de-chaussée (« go downstairs » : descendre)",
+      "example": "Léa groans, puts on her slippers and goes downstairs to make bread."
+    },
+    {
       "word": "dozen",
       "pos": "NOUN",
       "translation": "la douzaine",
@@ -2046,6 +2142,12 @@
       "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
     },
     {
+      "word": "ear",
+      "pos": "NOUN",
+      "translation": "l'oreille",
+      "example": "Her tail is long and thin, and one of her ears has a little cut at the top."
+    },
+    {
       "word": "Earth",
       "pos": "PROPN",
       "translation": "la Terre (élément)",
@@ -2122,6 +2224,12 @@
       "pos": "NOUN",
       "translation": "la braise",
       "example": "It had been underlined so hard that the pen had torn the page, and as Bram tilted the letter towards the embers, it caught the light for a moment."
+    },
+    {
+      "word": "empty",
+      "pos": "ADJ",
+      "translation": "vide",
+      "example": "I have a bowl that is never empty, a sofa, a sunny spot in the afternoon and a human who loves me."
     },
     {
       "word": "encircle",
@@ -2242,6 +2350,12 @@
       "example": "Master Corvin Hale, Head of Fire, will preside, with the examiners of the Academy in attendance."
     },
     {
+      "word": "example",
+      "pos": "NOUN",
+      "translation": "l'exemple",
+      "example": "For example, I know that the man in the ground-floor flat across the street never opens his curtains."
+    },
+    {
       "word": "except",
       "pos": "SCONJ",
       "translation": "sauf, excepté (« except for » : à part)",
@@ -2252,6 +2366,12 @@
       "pos": "NOUN",
       "translation": "l'excitation, l'enthousiasme",
       "example": "Edwin felt a mixture of excitement and fear."
+    },
+    {
+      "word": "exciting",
+      "pos": "ADJ",
+      "translation": "passionnant, palpitant",
+      "example": "My other secret is more exciting."
     },
     {
       "word": "excuse",
@@ -2362,6 +2482,12 @@
       "example": "Not far away, Hugh's squire, a thin young man with nervous eyes, was watching him."
     },
     {
+      "word": "far away",
+      "pos": "PHRASE",
+      "translation": "au loin, loin",
+      "example": "I can see the street, the rooftops and the chimneys, and far away, the lights of the city."
+    },
+    {
       "word": "farm",
       "pos": "NOUN",
       "translation": "la ferme",
@@ -2392,6 +2518,12 @@
       "example": "His father, a poor farmer, had sold two cows to pay for the journey."
     },
     {
+      "word": "favourite",
+      "pos": "ADJ",
+      "translation": "préféré, favori",
+      "example": "Then I go to my favourite place in the world: the kitchen window."
+    },
+    {
       "word": "fear",
       "pos": "NOUN",
       "translation": "la peur",
@@ -2408,6 +2540,12 @@
       "pos": "VERB",
       "translation": "se sentir, sentir",
       "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "feel like",
+      "pos": "PHRASE",
+      "translation": "avoir l'impression de, se sentir comme ; avoir envie de",
+      "example": "They feel like they want to follow her."
     },
     {
       "word": "feeling",
@@ -2450,6 +2588,12 @@
       "pos": "NOUN",
       "translation": "la fougère",
       "example": "Instead, the shaving curled upward, slowly, the way a fern unfurls in spring, and wound itself once, lightly, around the tip of his finger."
+    },
+    {
+      "word": "few",
+      "pos": "ADJ",
+      "translation": "peu de (« a few » : quelques)",
+      "example": "I stay in bed for a few more minutes, because the blanket is still warm."
     },
     {
       "word": "field",
@@ -2650,6 +2794,12 @@
       "example": "\"Marked twice, those folk were,\" the pedlar went on."
     },
     {
+      "word": "follow",
+      "pos": "VERB",
+      "translation": "suivre",
+      "example": "They feel like they want to follow her."
+    },
+    {
       "word": "food",
       "pos": "NOUN",
       "translation": "la nourriture",
@@ -2666,6 +2816,12 @@
       "pos": "ADP",
       "translation": "pour, pendant",
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "for example",
+      "pos": "PHRASE",
+      "translation": "par exemple",
+      "example": "For example, I know that the man in the ground-floor flat across the street never opens his curtains."
     },
     {
       "word": "force",
@@ -2750,6 +2906,12 @@
       "pos": "VERB",
       "translation": "« freckled » : couvert de taches de rousseur",
       "example": "She was a head shorter than him, freckled, and permanently windswept, as though she had just come in from a gale even on the stillest of days."
+    },
+    {
+      "word": "fresh",
+      "pos": "ADJ",
+      "translation": "frais",
+      "example": "Only the smell of fresh bread climbs up the walls and comes in through the window."
     },
     {
       "word": "friend",
@@ -2881,6 +3043,12 @@
       "pos": "NOUN",
       "translation": "le cadeau",
       "example": "Sir Godfrey fastened a pair of golden spurs to Edwin's boots, a gift that had once belonged to Godfrey's own master."
+    },
+    {
+      "word": "ginger",
+      "pos": "ADJ",
+      "translation": "roux (pelage, cheveux)",
+      "example": "I am a ginger cat with one white sock on my left paw, and I live on the third floor of an old building in Lyon, just above a bakery."
     },
     {
       "word": "girl",
@@ -3398,6 +3566,12 @@
       "example": "Among them, one man attracted more attention than the others: Sir Hugh of Blackmoor, a tall knight in silver armour who owned vast lands in the south."
     },
     {
+      "word": "human",
+      "pos": "NOUN",
+      "translation": "l'humain, l'être humain",
+      "example": "My human is called Léa."
+    },
+    {
       "word": "humming",
       "pos": "NOUN",
       "translation": "le bourdonnement",
@@ -3482,6 +3656,12 @@
       "example": "Leo is in the tree. — Leo est dans l'arbre."
     },
     {
+      "word": "in",
+      "pos": "ADV",
+      "translation": "dedans, à l'intérieur (« come in » : entrer)",
+      "example": "Only the smell of fresh bread climbs up the walls and comes in through the window."
+    },
+    {
       "word": "in case",
       "pos": "PHRASE",
       "translation": "au cas où"
@@ -3519,6 +3699,12 @@
       "pos": "ADJ",
       "translation": "indifférent",
       "example": "The forest remained, vast and ancient and indifferent."
+    },
+    {
+      "word": "indoor",
+      "pos": "ADJ",
+      "translation": "d'intérieur (« indoor cat » : chat d'appartement)",
+      "example": "\"You're an indoor cat, Pistache,\" she tells me, scratching my head."
     },
     {
       "word": "inn",
@@ -3644,6 +3830,12 @@
       "pos": "ADV",
       "translation": "juste",
       "example": "Just before the impact, Godfrey's saddle suddenly slipped to one side."
+    },
+    {
+      "word": "keep",
+      "pos": "VERB",
+      "translation": "garder, conserver",
+      "example": "It is also where I keep my secrets."
     },
     {
       "word": "kill",
@@ -3910,6 +4102,12 @@
       "example": "He carried a letter sealed with the red wax of the king himself."
     },
     {
+      "word": "letterbox",
+      "pos": "NOUN",
+      "translation": "la boîte aux lettres",
+      "example": "His name is written on the letterbox: Albert Morel."
+    },
+    {
       "word": "lever",
       "pos": "VERB",
       "translation": "soulever avec un levier",
@@ -3992,6 +4190,12 @@
       "pos": "PROPN",
       "translation": "Little (« petit », dans un nom de village)",
       "example": "The bandits are heading for Little Fenwick."
+    },
+    {
+      "word": "little",
+      "pos": "ADJ",
+      "translation": "petit",
+      "example": "Her tail is long and thin, and one of her ears has a little cut at the top."
     },
     {
       "word": "live",
@@ -4083,6 +4287,12 @@
       "example": "Sir Hugh, who was present, laughed loudly."
     },
     {
+      "word": "love",
+      "pos": "VERB",
+      "translation": "aimer, adorer",
+      "example": "I have a bowl that is never empty, a sofa, a sunny spot in the afternoon and a human who loves me."
+    },
+    {
       "word": "low",
       "pos": "ADJ",
       "translation": "bas",
@@ -4105,6 +4315,18 @@
       "pos": "PROPN",
       "translation": "Luna (prénom)",
       "example": "Her name is Luna. — Elle s'appelle Luna."
+    },
+    {
+      "word": "Lyon",
+      "pos": "PROPN",
+      "translation": "Lyon (ville)",
+      "example": "I am a ginger cat with one white sock on my left paw, and I live on the third floor of an old building in Lyon, just above a bakery."
+    },
+    {
+      "word": "Léa",
+      "pos": "PROPN",
+      "translation": "Léa (prénom)",
+      "example": "My human is called Léa."
     },
     {
       "word": "mail",
@@ -4356,6 +4578,12 @@
       "pos": "ADV",
       "translation": "plus",
       "example": "He paused, and his expression became more serious."
+    },
+    {
+      "word": "Morel",
+      "pos": "PROPN",
+      "translation": "Morel (nom de famille)",
+      "example": "His name is written on the letterbox: Albert Morel."
     },
     {
       "word": "morning",
@@ -4682,6 +4910,12 @@
       "example": "Now she is next to Leo. — Maintenant, elle est à côté de Leo."
     },
     {
+      "word": "o'clock",
+      "pos": "NOUN",
+      "translation": "heure(s) pile (« three o'clock » : trois heures)",
+      "example": "Every night at three o'clock, her alarm rings."
+    },
+    {
       "word": "oak",
       "pos": "NOUN",
       "translation": "le chêne",
@@ -4789,10 +5023,22 @@
       "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
     },
     {
+      "word": "onto",
+      "pos": "ADP",
+      "translation": "sur (avec mouvement)",
+      "example": "Then she jumps onto another roof and disappears into the dark."
+    },
+    {
       "word": "open",
       "pos": "ADJ",
       "translation": "ouvert, non dissimulé",
       "example": "When Sir Hugh passed in front of them, he looked at Godfrey with open contempt."
+    },
+    {
+      "word": "open",
+      "pos": "VERB",
+      "translation": "ouvrir",
+      "example": "For example, I know that the man in the ground-floor flat across the street never opens his curtains."
     },
     {
       "word": "opponent",
@@ -4805,6 +5051,12 @@
       "pos": "ADP",
       "translation": "en face de",
       "example": "While Godfrey went to see to the horses, she sat down opposite Edwin and lowered her voice."
+    },
+    {
+      "word": "opposite",
+      "pos": "ADV",
+      "translation": "en face",
+      "example": "Every night, a small grey cat appears on the roof opposite."
     },
     {
       "word": "or",
@@ -4883,6 +5135,12 @@
       "pos": "ADP",
       "translation": "à l'extérieur de",
       "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "outside",
+      "pos": "ADV",
+      "translation": "dehors",
+      "example": "I have never been outside."
     },
     {
       "word": "over",
@@ -5041,6 +5299,12 @@
       "example": "He paused, and his expression became more serious."
     },
     {
+      "word": "paw",
+      "pos": "NOUN",
+      "translation": "la patte",
+      "example": "I am a ginger cat with one white sock on my left paw, and I live on the third floor of an old building in Lyon, just above a bakery."
+    },
+    {
       "word": "pay",
       "pos": "VERB",
       "translation": "payer",
@@ -5111,6 +5375,12 @@
       "pos": "VERB",
       "translation": "épingler, punaiser",
       "example": "Pinned to the board beside the shrine was a sheet of heavy cream paper bearing the seal of Thornhall: a thorned branch encircling a well."
+    },
+    {
+      "word": "Pistache",
+      "pos": "PROPN",
+      "translation": "Pistache (prénom)",
+      "example": "My name is Pistache."
     },
     {
       "word": "pitchfork",
@@ -5303,6 +5573,12 @@
       "pos": "VERB",
       "translation": "mettre, poser",
       "example": "He puts his arms up. — Il lève les bras."
+    },
+    {
+      "word": "put on",
+      "pos": "PHRASE",
+      "translation": "mettre, enfiler (un vêtement)",
+      "example": "Léa groans, puts on her slippers and goes downstairs to make bread."
     },
     {
       "word": "put up",
@@ -5640,6 +5916,12 @@
       "example": "The village sat where the forest thinned beside a slow brown river: a huddle of timber houses with roofs of moss-green thatch, a mill, a forge, and a market square that was crowded twice a week and deserted the rest of the time."
     },
     {
+      "word": "rooftop",
+      "pos": "NOUN",
+      "translation": "le toit",
+      "example": "I can see the street, the rooftops and the chimneys, and far away, the lights of the city."
+    },
+    {
       "word": "room",
       "pos": "NOUN",
       "translation": "la pièce, la salle",
@@ -5776,6 +6058,12 @@
       "pos": "NOUN",
       "translation": "le raclement",
       "example": "Rowan woke some time after midnight to the scrape of the hearthstone."
+    },
+    {
+      "word": "scratch",
+      "pos": "VERB",
+      "translation": "gratter",
+      "example": "\"You're an indoor cat, Pistache,\" she tells me, scratching my head."
     },
     {
       "word": "script",
@@ -6210,6 +6498,12 @@
       "example": "The question slipped out before he could stop it."
     },
     {
+      "word": "slipper",
+      "pos": "NOUN",
+      "translation": "le chausson, la pantoufle",
+      "example": "Léa groans, puts on her slippers and goes downstairs to make bread."
+    },
+    {
       "word": "slow",
       "pos": "ADJ",
       "translation": "lent",
@@ -6232,6 +6526,12 @@
       "pos": "NOUN",
       "translation": "l'odeur",
       "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "smell",
+      "pos": "VERB",
+      "translation": "sentir (une odeur) (« smell like » : sentir le, la)",
+      "example": "It smells like butter and home."
     },
     {
       "word": "smile",
@@ -6282,6 +6582,18 @@
       "example": "\"I never wanted to burn anything,\" he sobbed."
     },
     {
+      "word": "sock",
+      "pos": "NOUN",
+      "translation": "la chaussette",
+      "example": "I am a ginger cat with one white sock on my left paw, and I live on the third floor of an old building in Lyon, just above a bakery."
+    },
+    {
+      "word": "sofa",
+      "pos": "NOUN",
+      "translation": "le canapé",
+      "example": "I have a bowl that is never empty, a sofa, a sunny spot in the afternoon and a human who loves me."
+    },
+    {
       "word": "soft",
       "pos": "ADJ",
       "translation": "doux, mou",
@@ -6316,6 +6628,12 @@
       "pos": "PRON",
       "translation": "quelque chose",
       "example": "But there is something else."
+    },
+    {
+      "word": "sometimes",
+      "pos": "ADV",
+      "translation": "parfois",
+      "example": "Sometimes she stops and looks straight at me."
     },
     {
       "word": "somewhere",
@@ -6664,6 +6982,12 @@
       "pos": "NOUN",
       "translation": "le soleil",
       "example": "The sun is hot. — Le soleil est chaud."
+    },
+    {
+      "word": "sunny",
+      "pos": "ADJ",
+      "translation": "ensoleillé",
+      "example": "I have a bowl that is never empty, a sofa, a sunny spot in the afternoon and a human who loves me."
     },
     {
       "word": "supper",
@@ -7149,6 +7473,12 @@
       "pos": "ADV",
       "translation": "aussi",
       "example": "I have a cat too. — J'ai un chat aussi."
+    },
+    {
+      "word": "top",
+      "pos": "NOUN",
+      "translation": "le haut, le sommet",
+      "example": "Her tail is long and thin, and one of her ears has a little cut at the top."
     },
     {
       "word": "torch",
@@ -7888,6 +8218,12 @@
       "example": "They worked through the morning."
     },
     {
+      "word": "world",
+      "pos": "NOUN",
+      "translation": "le monde",
+      "example": "Then I go to my favourite place in the world: the kitchen window."
+    },
+    {
       "word": "worried",
       "pos": "ADJ",
       "translation": "inquiet",
@@ -7916,6 +8252,12 @@
       "pos": "VERB",
       "translation": "rider, froisser (« wrinkled » : ridé, fripé)",
       "example": "At noon they sat on the stump to eat — black bread, a wedge of hard cheese, two wrinkled apples from the cellar."
+    },
+    {
+      "word": "write",
+      "pos": "VERB",
+      "translation": "écrire",
+      "example": "His name is written on the letterbox: Albert Morel."
     },
     {
       "word": "wrong",
