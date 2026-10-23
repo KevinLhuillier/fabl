@@ -9,6 +9,9 @@ Whisper transcribes the audio with a timestamp per recognized word; both texts a
 reduced to letters/digits and matched character by character (difflib), so
 tokenization differences ("didn't" vs "did" + "n't") don't matter. Words the
 recognizer missed are interpolated between their neighbours.
+The page text is given to Whisper as a prompt (spelling of names); when that
+throws the transcription off (low match), the page is transcribed again
+without it and the better of the two alignments is kept.
 Called by scripts/publish/src/align.ts.
 """
 
@@ -35,28 +38,19 @@ def fetch(audio: str) -> str:
     return path
 
 
-def transcribe(path: str, model_name: str, prompt: str):
-    model = WhisperModel(model_name, device="cpu", compute_type="int8")
+# Below this share of matched characters, the prompt-free transcription is tried too.
+RETRY_BELOW = 0.9
+
+
+def transcribe(model: WhisperModel, path: str, prompt: str | None):
     # The page text as prompt steers the spelling of names (Rowan, Bram…).
     segments, _ = model.transcribe(
-        path, language="en", word_timestamps=True, initial_prompt=prompt[:800]
+        path, language="en", word_timestamps=True, initial_prompt=prompt[:800] if prompt else None
     )
     return [w for s in segments for w in (s.words or [])]
 
 
-def main() -> None:
-    sys.stdin.reconfigure(encoding="utf-8")
-    sys.stdout.reconfigure(encoding="utf-8")
-    req = json.load(sys.stdin)
-    words: list[str] = req["words"]
-
-    path = fetch(req["audio"])
-    try:
-        heard = transcribe(path, req.get("model", "small.en"), " ".join(words))
-    finally:
-        if path != req["audio"]:
-            os.remove(path)
-
+def align(words: list[str], heard) -> tuple[list, float]:
     # Character streams: page text (char -> word index) and transcript (char -> time).
     text_chars, text_owner = [], []
     for i, w in enumerate(words):
@@ -96,11 +90,28 @@ def main() -> None:
         [round(s * 1000), round(e * 1000)] if s is not None and e is not None else None
         for s, e in zip(starts, ends)
     ]
-    json.dump(
-        {"timings": timings, "matched": matched_chars / max(1, len(text_chars))},
-        sys.stdout,
-        ensure_ascii=False,
-    )
+    return timings, matched_chars / max(1, len(text_chars))
+
+
+def main() -> None:
+    sys.stdin.reconfigure(encoding="utf-8")
+    sys.stdout.reconfigure(encoding="utf-8")
+    req = json.load(sys.stdin)
+    words: list[str] = req["words"]
+
+    model = WhisperModel(req.get("model", "small.en"), device="cpu", compute_type="int8")
+    path = fetch(req["audio"])
+    try:
+        timings, matched = align(words, transcribe(model, path, " ".join(words)))
+        if matched < RETRY_BELOW:
+            retry = align(words, transcribe(model, path, None))
+            if retry[1] > matched:
+                timings, matched = retry
+    finally:
+        if path != req["audio"]:
+            os.remove(path)
+
+    json.dump({"timings": timings, "matched": matched}, sys.stdout, ensure_ascii=False)
 
 
 if __name__ == "__main__":

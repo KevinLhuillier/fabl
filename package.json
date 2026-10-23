@@ -12,6 +12,7 @@
     "grant-admin": "npm run grant-admin -w admin --",
     "publish-story": "npm run publish-story -w publish --",
     "align-audio": "npm run align-audio -w publish --",
+    "generate-audio": "npm run generate-audio -w publish --",
     "seed-translations": "npm run seed-translations -w publish --",
     "lint": "npm run lint --workspaces --if-present",
     "typecheck": "npm run typecheck --workspaces --if-present",

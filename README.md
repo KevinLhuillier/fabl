@@ -254,6 +254,22 @@ The publish script lists the untranslated ones with the other lemmas.
 
 After changing `content/expressions.json`, republish the stories and translate the new expressions.
 
+### Generated voice-overs (ElevenLabs)
+
+Instead of uploading MP3s in the admin, the voice-overs can be generated with ElevenLabs
+text-to-speech (`ELEVENLABS_API_KEY` and `ELEVENLABS_VOICE_ID` in `.env`; the voice settings
+live in `scripts/publish/src/generateAudio.ts`):
+
+```bash
+npm run generate-audio -- content/stories/c1-my-story.md --dry-run                  # pages and characters to bill
+npm run generate-audio -- content/stories/c1-my-story.md                            # every page without @audio
+npm run generate-audio -- content/stories/c1-my-story.md --page chapter_2.page_1   # one page
+```
+
+Each page is generated, uploaded to the `audio` bucket and its `@audio` line added to the file
+(saved after every page). Pages that already have an `@audio` line are skipped: remove the line to
+regenerate one. Then run `align-audio` and publish.
+
 ### Read-along (voice-over alignment)
 
 After adding a voice-over to a page, align it with the text so the reader can highlight the
@@ -287,14 +303,15 @@ except before a comma:
 
 ## Scripts
 
-| Command                              | What it does                                 |
-| ------------------------------------ | -------------------------------------------- |
-| `npm run mobile`                     | Start the Expo dev server                    |
-| `npm run admin`                      | Start the web admin (localhost:5180)         |
-| `npm run grant-admin -- <email>`     | Give admin access (`--revoke` to remove)     |
-| `npm run publish-story -- <file.md>` | Publish a story (`--dry-run` to check only)  |
-| `npm run align-audio -- <file.md>`   | Align voice-overs with the text (read-along) |
-| `npm run seed-translations`          | Import translations (`-- --lang es`)         |
-| `npm run lint`                       | ESLint + Prettier on all packages            |
-| `npm run typecheck`                  | TypeScript on all packages                   |
-| `npm run format`                     | Format the whole repo                        |
+| Command                               | What it does                                 |
+| ------------------------------------- | -------------------------------------------- |
+| `npm run mobile`                      | Start the Expo dev server                    |
+| `npm run admin`                       | Start the web admin (localhost:5180)         |
+| `npm run grant-admin -- <email>`      | Give admin access (`--revoke` to remove)     |
+| `npm run publish-story -- <file.md>`  | Publish a story (`--dry-run` to check only)  |
+| `npm run align-audio -- <file.md>`    | Align voice-overs with the text (read-along) |
+| `npm run generate-audio -- <file.md>` | Generate missing voice-overs (ElevenLabs)    |
+| `npm run seed-translations`           | Import translations (`-- --lang es`)         |
+| `npm run lint`                        | ESLint + Prettier on all packages            |
+| `npm run typecheck`                   | TypeScript on all packages                   |
+| `npm run format`                      | Format the whole repo                        |

@@ -6,6 +6,7 @@
   "scripts": {
     "publish-story": "tsx src/publish.ts",
     "align-audio": "tsx src/align.ts",
+    "generate-audio": "tsx src/generateAudio.ts",
     "seed-translations": "tsx src/seedTranslations.ts",
     "typecheck": "tsc --noEmit"
   },

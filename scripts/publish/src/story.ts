@@ -48,6 +48,8 @@ export type Page = {
   lines: string[];
   /** Voice-over of the page (MP3 URL), or null. */
   audio: string | null;
+  /** Source line (1-based) of the page's first paragraph. */
+  line: number;
 };
 
 export type Chapter = {
@@ -116,6 +118,7 @@ export function parseStory(source: string, fileName: string): ParsedStory {
   const warnings: string[] = [];
   let page: string[] = [];
   let audio: string | null = null;
+  let pageLine = 0;
 
   const closePage = (lineNo: number) => {
     const chapter = chapters[chapters.length - 1];
@@ -126,7 +129,13 @@ export function parseStory(source: string, fileName: string): ParsedStory {
       warnings.push(`${fileName}:${lineNo}: empty page in chapter "${chapter.title}" ignored.`);
     } else {
       const index = chapter.pages.length;
-      chapter.pages.push({ key: `${chapter.key}.page_${index + 1}`, index, lines: page, audio });
+      chapter.pages.push({
+        key: `${chapter.key}.page_${index + 1}`,
+        index,
+        lines: page,
+        audio,
+        line: pageLine,
+      });
     }
     page = [];
     audio = null;
@@ -160,6 +169,7 @@ export function parseStory(source: string, fileName: string): ParsedStory {
       audio = audioLine[1]!;
       continue;
     }
+    if (!page.length) pageLine = i + 1;
     page.push(line);
   }
   closePage(lines.length);
