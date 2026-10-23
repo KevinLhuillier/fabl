@@ -953,3 +953,128 @@ They lean towards me. Why?
 Twenty years ago, his mother had sat in the same glasshouse, among the same saplings, and asked the same question. She had been Marked twice — Water and Air — and someone had scrubbed it out of the records so hard that the paper had nearly torn. The Warden herself had ordered her record sealed. Maren Vell had warned her about something, and had known that someone was hiding in the vault tonight, and had let them go.
 And somewhere beneath the hearthstone in the clearing, there was a letter in his mother's hand that said do not let them test him.
 He folded the sketch very small, and put it inside the oak leaf in Bram's letter, and put both under his pillow. Then he lay back in the dark and listened to the great roots of Hearthside creak and settle around him, and did not sleep at all.
+
+# Blackroot
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_1-1792789809530.mp3
+Bennet Croft disappeared on the first night of the frost.
+Rowan barely knew him. He was a fourth-year, a big, slow-spoken boy from a mining town in the northern mountains, with hands like shovels and a laugh that could rattle the shutters. On Rowan's first evening at Hearthside, when the older Earth students had been eyeing the new Blank from across the common room, it had been Bennet who had strolled over, dropped onto the root beside him, and offered him half a honey cake without a word. After that, he had nodded to Rowan in the corridors, and once, when Seraphine Hale had called out Good morning, Blank on the stairs, he had turned round and looked at her until she went pink and walked away.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_2-1792789823361.mp3
+His alcove was three down from Rowan's. On the morning after the frost, its curtain was pulled back, its blankets were thrown aside, and the narrow window above the bed stood wide open to the cold.
+Bennet was not in the washrooms. He was not at breakfast. He was not in the glasshouses, or the archives, or the long field below the eastern slope where the Earth students practised at dawn. By the middle of the morning, Master Grey was hurrying up and down the corridors with his spectacles on his forehead and his ledger clutched to his chest, and two of the older teachers had gone down to the causeway to look for footprints in the frost.
+They found none.
+"He's gone home," said one of the fourth-years at lunch, too loudly. "His mam's been ill. He said so last week. He'll have walked off in the night to save the fare."
+"Without his boots?" said Tamsin.
+Nobody had an answer to that. Bennet's boots were still standing neatly at the foot of his bed, laced and polished, the way he left them every night.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_3-1792789834470.mp3
+It was Tamsin who found the mark.
+She had gone to Bennet's alcove that evening to fetch the honey-cake tin he had borrowed from her and never returned — or so she said, though Rowan suspected she simply could not bear not to look. A moment later she came back to the common room with a face the colour of whey, took Rowan by the sleeve, and led him back without a word.
+The great oak root that ran up the wall behind Bennet's bed had been polished smooth by generations of students. Low down, just above the pillow, where nobody would see it unless they were lying in the bed, something had been burned into the wood.
+It was no bigger than the palm of Rowan's hand. A knot of black roots, spreading downward into nothing, like a tree turned upside down.
+Rowan's whole body went cold.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_4-1792789845599.mp3
+"I've seen that before," Tamsin whispered. "Haven't I? The pedlar in Brackenford. She said there were roots drawn on the doors in Ashwater. Burned into the wood." She turned to look at him, and her eyes were very bright. "Rowan. You've gone white. What do you know?"
+He thought of Maren's voice in the dark, low and hard. Not one word. Not to your friends, not to the Wardens, not to your families in your letters. He thought of the child's fingers pressed against a gap in the boards, and a pleasant, ordinary voice saying not worth the stop.
+And he thought of Bennet, offering him half a honey cake on a night when nobody else would sit beside him.
+"Get Jory," he said. "And Ilse. Not here. Somewhere nobody can hear."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_5-1792789857733.mp3
+They met in the fifth glasshouse after the ninth bell, among the ferns, with a single lamp turned low on the stone floor between them. Old Moss's lean-to was dark; the old man went to bed with the sun in winter.
+Rowan told them about the night wagons. He told them everything: the waystation at the crossroads, the hooded drivers, the rod of dark wood that twitched and pointed, the mist that Maren had raised to hide them, the black roots burned into the tailboard, and the small fingers in the gap between the boards. He did not tell them about the leaning saplings or the seed or the Root Books beneath the floor. Ilse, sitting cross-legged beside him, said nothing at all, but once, when his voice faltered, she put her scarred hand very briefly on his arm.
+When he had finished, nobody spoke for a long time.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_6-1792789868823.mp3
+"Vell knew," Jory said at last. His round, cheerful face looked strange without its grin. "She knew, and she told you to keep your mouths shut, and now Bennet's gone."
+"She couldn't have stopped them," said Ilse quietly. "There were twenty of them."
+"She could have told the Warden! She could have told someone!"
+"Maybe she did," said Rowan. He thought of the black, deliberate letters in the Departures book. Record to be sealed. By order of the Warden. "Maybe that's the problem."
+Tamsin had not said a word. She was sitting with her knees drawn up and her arms wrapped around them, staring at the lamp. Now she looked up.
+"Who are they?" she said. "The people with the roots. They must have a name. Everything has a name."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_7-1792789882606.mp3
+"Blackroot."
+The voice came out of the darkness behind the ferns, dry and cracked and very old, and all four of them nearly jumped out of their skins. Jory knocked over the lamp. By the time he had righted it, Old Moss was standing at the edge of the light in a nightshirt and a vast, moth-eaten shawl, leaning on his blackthorn stick, and looking at them with his one bright eye.
+"You'll forgive an old man for listening," he said. "Voices carry, under glass. And I don't sleep as well as I used to."
+He lowered himself onto his upturned bucket with a long creak of joints, and was silent for so long that Rowan began to think he would say nothing more. Then he spoke, slowly, looking not at them but at the lamp.
+"Blackroot," he said again. "That's what they call themselves, when they call themselves anything. My grandmother used to frighten me with them when I was small. Be good, or Blackroot will come for your Well. I thought it was a story. Most folk do." He sucked on his cold pipe. "It isn't."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_8-1792789892307.mp3
+"What do they want?" said Tamsin. "Money?"
+"Wells." Moss turned the word over as though it tasted bitter. "Nobody knows how they do it. Nobody who's seen it has come back to say. But they take people, and somewhere, somehow, they take what's inside them. Your Well, your gift, whatever it is that makes the Stone sing when you touch it. And then—" He shrugged. "Now and again, one of the people they've taken turns up again, years later, wandering some road with no memory of where they've been. Healthy enough. Alive. And empty. Like a cup turned upside down. You can put them in front of a Standing Stone, and it won't so much as shiver."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_9-1792789902806.mp3
+Jory made a small, choked sound.
+"They'll take anyone," Moss went on. "Farmer, miner, a fisherman's lad. Any Well will do, at a pinch. But they've a particular taste for the unusual ones. The deep ones. The strange ones." His eye flicked to Rowan, and away again. "And most of all, they've always hunted the ones with two."
+The glasshouse was very quiet. Rowan could hear the frost ticking on the panes.
+"Bennet only had Earth," Tamsin said. "Just Earth. He wasn't strange."
+"He was deep, though," said Ilse, very softly. "I saw him in the practice field once. He lifted a boulder the size of a cart without even touching it." She swallowed. "Deep is enough."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_10-1792789910251.mp3
+Old Moss heaved himself to his feet.
+"Go to bed," he said. "All of you. Go in pairs, and stay in pairs, and if anyone asks where you've been, you've been helping a silly old man move his cabbages out of the frost. And keep your windows shut." He paused at the edge of the light, his face half in shadow. "They've not come inside Thornhall in twenty years. Not since—" He stopped. "Well. They're inside now. Which means someone opened the door."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_11-1792789919192.mp3
+The next morning, the Warden spoke to the whole school.
+She stood at the high table in the Great Hall beneath the faded green banner, tall and stooped, her white plait wound around her head like a crown, and the hall fell silent before she had even opened her mouth. Beside her, Master Hale stood with his gloved hands clasped behind his back, his face like a closed door. Maren Vell was at the far end of the table. She did not look at Rowan once.
+"Bennet Croft," said Warden Merrow, "has left the Academy."
+A ripple ran down the tables.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_12-1792789934518.mp3
+"He has gone home to his family in the north, where he is needed. These things happen. It is not for us to judge." Her voice was as dry and quiet as ever, and carried just as easily, but Rowan thought it sounded thinner than it had on the first night — like paper stretched too tight. "However. The nights are growing long, and the forest is not kind in winter. From today, no student will leave their house after the tenth bell for any reason whatsoever. The causeway is closed after dark. Master Hale will see to it personally that these rules are kept." She paused. "That is all."
+She sat down. The noise rose again at once, louder than before, crackling with rumour.
+"Gone home," said Jory through his teeth. "Without his boots."
+At the next table, Seraphine Hale was laughing at something one of her friends had said. As Rowan passed her on the way out, she leaned back on her bench and smiled up at him, pleasant as a summer morning.
+"Don't look so worried, Blank," she said. "Whatever took Croft, I'm sure it's only interested in Wells with something in them. You'll be perfectly safe."
+Tamsin had to be held back by both Tanner brothers.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_13-1792789947718.mp3
+Rowan could not sleep that night.
+He lay in his alcove with the curtain drawn, listening to Hearthside breathe around him. The Tanners were snoring. Somewhere down the row, a first-year was crying very quietly into her pillow, and someone else was whispering to her. Three alcoves down, Bennet's curtain had been drawn shut by Master Grey that afternoon, and nobody had gone near it since. In the dark, Rowan could feel it there, like a missing tooth.
+Sometime after midnight, he gave up, knelt on his bed, and looked out of the low window.
+The frost had come down hard. The grass outside lay white and stiff under a high, cold moon, and beyond it the lake was a sheet of black glass, perfectly still. On the far shore, the dark wall of the Elderwood ran away east until it vanished into the night.
+There was a light in it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_14-1792789959882.mp3
+It was very small — so small that at first he thought it was a star, low on the horizon. But stars did not move. This one swung slowly from side to side, three times, and went out.
+Rowan held his breath.
+For a long moment, nothing happened. Then, much closer — down on the near shore, where the causeway met the foot of the hill — a second light answered. Three slow swings. Darkness.
+He pressed his face to the cold glass.
+A figure was walking back up the slope from the water's edge, towards the hedge. Tall, cloaked, its hood pulled low, carrying a shuttered lantern that leaked a thin blade of yellow light across the frost. It walked without hurrying, the way someone walks who has done a thing many times and has never once been caught. It did not go to the iron plate beside the gate. It did not knock.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_9.page_15-1792789968432.mp3
+It simply walked up to the great black wall of thorns, and the hedge drew back for it, branch from branch, with a dry whisper that Rowan could almost hear from here — and then closed again behind it, as though it had never opened at all.
+The figure was gone. The frost glittered. Across the lake, the Elderwood was dark and silent.
+Rowan knelt at the window until his knees ached and his breath had frosted the glass white, and the same thought went round and round in his head like a mill wheel.
+Someone opened the door.
+And whoever it was, Thornhall knew them well enough to let them in.

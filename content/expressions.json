@@ -19,6 +19,7 @@
     "as though",
     "as well",
     "at a glance",
+    "at a pinch",
     "at all",
     "at any rate",
     "at first",
@@ -82,7 +83,9 @@
     "in the end",
     "in the middle of",
     "instead of",
+    "jump out of their skins",
     "keep your head down",
+    "keep your mouth shut",
     "keeper of roots",
     "kind of",
     "let go",
@@ -97,6 +100,7 @@
     "next to",
     "no longer",
     "no use",
+    "now and again",
     "of course",
     "on purpose",
     "once again",
@@ -110,8 +114,10 @@
     "rather than",
     "rise to her feet",
     "root books",
+    "round and round",
     "round on",
     "run dry",
+    "see to it",
     "sense of humour",
     "set fire to",
     "side by side",
@@ -132,7 +138,16 @@
     "upside down",
     "used to",
     "well done",
+    "wide open",
     "you lot"
   ],
-  "ignore": ["crash down", "gallop down", "peer up", "sidle up", "teach up", "turn in"]
+  "ignore": [
+    "alcove down",
+    "crash down",
+    "gallop down",
+    "peer up",
+    "sidle up",
+    "teach up",
+    "turn in"
+  ]
 }

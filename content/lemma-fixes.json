@@ -13,6 +13,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "alcoves",
+      "pos": "VERB",
+      "word": "alcove",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "angles",
       "pos": "VERB",
       "word": "angle",
@@ -194,6 +200,13 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "cross",
+      "pos": "ADJ",
+      "next": "-",
+      "word": "cross-legged",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "crouch",
       "pos": "ADJ",
       "word": "crouch",
@@ -221,6 +234,12 @@
       "text": "Damp",
       "pos": "PROPN",
       "word": "damp",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Deep",
+      "pos": "PROPN",
+      "word": "deep",
       "lemmaPos": "ADJ"
     },
     {
@@ -306,6 +325,12 @@
       "pos": "NOUN",
       "word": "Fall",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Farmer",
+      "pos": "PROPN",
+      "word": "farmer",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "fashioned",
@@ -490,6 +515,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "hurrying",
+      "pos": "NOUN",
+      "word": "hurry",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "I.",
       "pos": "NOUN",
       "word": "I",
@@ -538,6 +569,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "kind",
+      "pos": "ADV",
+      "next": "in",
+      "word": "kind",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "kneeling",
       "pos": "NOUN",
       "word": "kneel",
@@ -546,6 +584,12 @@
     {
       "text": "knelt",
       "pos": "NOUN",
+      "word": "kneel",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "knelt",
+      "pos": "VERB",
       "word": "kneel",
       "lemmaPos": "VERB"
     },
@@ -574,6 +618,12 @@
       "pos": "VERB",
       "next": "again",
       "word": "left",
+      "lemmaPos": "ADV"
+    },
+    {
+      "text": "legged",
+      "pos": "ADJ",
+      "word": "cross-legged",
       "lemmaPos": "ADV"
     },
     {
@@ -873,6 +923,13 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "round",
+      "pos": "NOUN",
+      "next": ",",
+      "word": "round",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "satchel",
       "pos": "PROPN",
       "word": "satchel",
@@ -914,6 +971,12 @@
       "text": "shining",
       "pos": "VERB",
       "word": "shine",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "shiver",
+      "pos": "ADJ",
+      "word": "shiver",
       "lemmaPos": "VERB"
     },
     {
@@ -1148,6 +1211,12 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "Vell",
+      "pos": "NOUN",
+      "word": "Vell",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "wading",
       "pos": "VERB",
       "word": "wade",
@@ -1196,6 +1265,12 @@
       "pos": "PROPN",
       "word": "Well",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "whey",
+      "pos": "PRON",
+      "word": "whey",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Wood",
