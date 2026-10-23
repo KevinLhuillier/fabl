@@ -200,6 +200,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "cloaked",
+      "pos": "VERB",
+      "word": "cloaked",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "close",
       "pos": "NOUN",
       "word": "close",
@@ -228,6 +234,12 @@
       "pos": "PROPN",
       "word": "confetti",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "coppery",
+      "pos": "NOUN",
+      "word": "coppery",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "cross",
@@ -381,6 +393,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Felt",
+      "pos": "VERB",
+      "word": "feel",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "fencepost",
       "pos": "ADV",
       "word": "fencepost",
@@ -477,6 +495,18 @@
       "pos": "NOUN",
       "word": "glasses",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "glassy",
+      "pos": "NOUN",
+      "word": "glassy",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "glistening",
+      "pos": "NOUN",
+      "word": "glisten",
+      "lemmaPos": "VERB"
     },
     {
       "text": "gone",
@@ -777,6 +807,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "motionless",
+      "pos": "NOUN",
+      "word": "motionless",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "move",
       "pos": "NOUN",
       "next": ",",
@@ -867,6 +903,12 @@
       "pos": "PROPN",
       "word": "orange",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Owls",
+      "pos": "PROPN",
+      "word": "owl",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "PASSES",
@@ -1059,6 +1101,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "shaven",
+      "pos": "ADV",
+      "word": "clean-shaven",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "shifts",
       "pos": "NOUN",
       "word": "shift",
@@ -1081,6 +1129,12 @@
       "pos": "ADV",
       "word": "shiver",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "side",
+      "pos": "VERB",
+      "word": "side",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "silvery",
@@ -1125,6 +1179,18 @@
       "pos": "NOUN",
       "word": "smell",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "smoking",
+      "pos": "NOUN",
+      "word": "smoke",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "Snow",
+      "pos": "PROPN",
+      "word": "snow",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "soles",
@@ -1194,9 +1260,21 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "stumble",
+      "pos": "NOUN",
+      "word": "stumble",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "swam",
       "pos": "VERB",
       "word": "swim",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "swinging",
+      "pos": "ADJ",
+      "word": "swing",
       "lemmaPos": "VERB"
     },
     {
@@ -1216,6 +1294,12 @@
       "pos": "NOUN",
       "word": "tax",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "tearing",
+      "pos": "NOUN",
+      "word": "tear",
+      "lemmaPos": "VERB"
     },
     {
       "text": "thorned",
@@ -1376,10 +1460,22 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "wet",
+      "pos": "NOUN",
+      "word": "wet",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "whey",
       "pos": "PRON",
       "word": "whey",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "whirling",
+      "pos": "NOUN",
+      "word": "whirl",
+      "lemmaPos": "VERB"
     },
     {
       "text": "white",

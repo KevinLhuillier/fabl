@@ -1209,3 +1209,184 @@ Rowan thought of the Warden's eyes. Of Hale, staring at the petals. Of a grey ho
 Old Moss looked at him for a long time with his one bright eye. Then he reached out and laid his trembling hand, very gently, on Rowan's head, the way he laid it against the trunk of a tree.
 "Whatever's been sleeping in you, lad," he said, "it's done sleeping. And it'll not be kept quiet much longer, whatever any of us do."
 When Rowan got back to Hearthside, there was a single white blackthorn petal caught in the cuff of his sleeve. He did not remember it getting there. He laid it on the shelf above his bed, beside his father's knife, and lay awake looking at it until the candle burned out.
+
+# Sap and Splinter
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_1-1792791784865.mp3
+Nobody went home for midwinter.
+The Warden announced it the morning after the Trial, in the same dry, quiet voice in which she had announced Bennet's departure. The roads were too dangerous. The snow had come early to the southern forest, and the passes in the north were already closed. Families had been written to. The Academy would keep its students safe within its walls until the spring. The causeway would remain closed after dark, and Master Hale would continue to see to it personally.
+She did not mention Blackroot. She did not need to. Everyone in the hall was thinking it.
+Bram's letter came a few days later, on the last cart up from Mossbridge before the snow closed the road. It was even shorter than the first.
+STAY WHERE YOU ARE. DO NOT COME HOME. DO NOT TRAVEL FOR ANY REASON. I WILL COME WHEN I CAN. — B.
+Rowan read it standing in the cold corridor outside the post room, and then read it again, and felt the floor tilt slightly beneath his feet. In fourteen years, Bram had never once left the clearing for longer than a day.
+I will come when I can.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_2-1792791799219.mp3
+The lake froze on the shortest day of the year.
+It happened in a single night, the way it did, Moss said, perhaps once in a generation: one evening the water lay black and still under a low grey sky, and the next morning it had turned to a single vast sheet of iron-grey ice, so thick and so clear that the students who crept down to the shore could see pale weeds hanging motionless far beneath it, like hair in a sleeping face. From the windows of Hearthside, the Elderwood on the far shore looked suddenly very close — a dark wall of trees no more than a mile away across a road of ice.
+That night, the lantern came back.
+Rowan saw it from his alcove a little after midnight: three slow swings in the darkness of the forest, then nothing. He waited, his face pressed to the cold glass, his heart thudding. But this time there was no answering light on the near shore, and no hooded figure walking up the slope towards the hedge.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_3-1792791809992.mp3
+Instead, after a long time, the light in the Elderwood swung again. Three times. And then once more, very slowly, as if someone over there were growing impatient.
+He woke Tamsin first. Then, because Tamsin insisted, they woke Jory, creeping down the cold stone stairs to the Cistern and rapping on his shutter until his tousled copper head appeared at the window. Ilse was already waiting for them at the foot of the north stair when they got there, fully dressed, her boots on, her thin face pale in the moonlight. Rowan did not ask her how she had known. He was beginning to suspect that Ilse Fenwick always knew.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_4-1792791823060.mp3
+"They're waiting for someone," Rowan whispered. "Whoever let them in last time. Something's gone wrong. Someone hasn't come."
+"And you want to go over there?" Jory's whisper was close to a squeak. "In the middle of the night? Across the ice? To the people who steal Wells?"
+"Bennet's over there," said Tamsin.
+Nobody said anything for a moment.
+"We don't know that," said Jory, but more quietly.
+"We don't know he isn't." Tamsin pulled her scarf up over her chin. Her face was set in the same expression of ferocious concentration that she had worn in the Thorn Ring, holding a boulder in the air. "He gave Rowan half a honey cake on the first night when nobody else would sit with him. He looked at Seraphine Hale until she went pink. And the Warden stood up in front of the whole school and said he'd gone home." Her voice cracked very slightly. "Somebody has to go and look."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_5-1792791832988.mp3
+"We'll only look," said Ilse. "We go to the edge of the forest. We see where the light is coming from. We come back and we tell Moss. That's all."
+"That's all," Rowan agreed.
+It was, he thought afterwards, the stupidest thing any of them had ever said.
+The hedge did not open for them. But Ilse knew a place on the western side, below the glasshouses, where the blackthorn had grown thin around the trunk of a dead oak and a determined person could wriggle through on their stomach, at the cost of a torn coat and a great many scratches. On the far side, the slope ran down steeply through the snow to the shore of the lake.
+They stood at the edge of the ice for a long moment, nobody wanting to be the first.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_6-1792791848804.mp3
+Then Jory crouched, laid his palm flat on the ice, and closed his eyes.
+"It's solid," he said after a moment, and there was something almost reverent in his voice. "All the way down. Three feet, at least. More. It's been cold for a week — it's been freezing from the bottom up." He opened his eyes. "I can feel it. It'll hold."
+So they crossed.
+It was the strangest walk of Rowan's life. The ice was black and glassy and perfectly smooth, and the moon was so bright on it that they cast four long, sharp shadows ahead of them as they went. Their boots made no sound. Under their feet, deep in the clear dark, things drifted and glimmered — weeds, stones, once the long pale shape of a sleeping fish. Behind them, Thornhall rose up on its hill, all towers and living branches and a few lit windows, growing smaller with every step. Ahead of them, the Elderwood grew taller and darker and closer, until it filled the whole sky.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_7-1792791865438.mp3
+They were perhaps a hundred paces from the far shore when Ilse stopped dead.
+"Listen," she breathed.
+Rowan listened. At first he heard nothing but his own heart and the faint, high singing of the ice. Then he heard it: voices, low and murmuring, somewhere in the trees ahead. The creak of a wheel. The stamp and snort of a horse.
+And the light. Not swinging now, but steady, a dull orange glow among the trunks just beyond the shoreline, like the embers of a fire seen through a keyhole.
+They went the last hundred paces on their hands and knees.
+At the edge of the ice, where the frozen reeds gave way to a steep bank of snow and roots, they lay flat on their stomachs in the shadows and looked up into the Elderwood.
+There was a clearing, not twenty yards in. A fire was burning in the middle of it, banked low. Around it, half a dozen figures in dark cloaks were sitting or standing, talking in low voices, their breath smoking in the cold. Beyond the fire stood a wagon — a long, high, covered wagon with its canvas lashed down tight — and on its tailboard, black against the firelight, a shape like a tree turned upside down.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_8-1792791879363.mp3
+In front of the wagon, a tall, lean man was standing quite still, looking out across the ice towards Thornhall. He held a slender rod of dark wood loosely in one hand.
+Rowan knew him at once. He would have known him anywhere. The odd, unhurried precision of the way he stood. The way he turned his head, slowly, like a heron watching the shallows.
+And from inside the wagon, faint and muffled, so that at first Rowan thought he had imagined it, came the sound of someone coughing — a deep, hoarse, northern cough.
+Beside him in the snow, Tamsin went perfectly rigid.
+"That's Bennet," she breathed. "That's Bennet."
+The heron-man turned his head.
+He did not look at them. He could not have seen them, flat in the shadows beneath the bank. But the rod in his hand had begun, very gently, to twitch.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_9-1792791890638.mp3
+It all happened very quickly after that.
+The heron-man said something short and quiet over his shoulder, and the figures around the fire rose to their feet. The rod in his hand swung slowly round until it pointed straight at the shadow beneath the bank, and stopped, quivering like a hound on a scent.
+"Well, now," he said, in that pleasant, ordinary voice that Rowan had heard once before, on a cold night at a crossroads, and had never forgotten. "Look what the ice has brought us."
+"Run," said Ilse.
+They ran. Or tried to. Rowan was halfway to his feet when the snow in front of him exploded upward and a cloaked figure came over the bank in a single bound, and he went down hard on the ice with all the breath knocked out of him.
+After that, it was all noise and light and confusion.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_10-1792791902501.mp3
+He saw Tamsin, on her knees, slam both palms down on the frozen ground, and a ridge of earth and roots and snow rear up out of the bank like the back of some great beast, flinging two of the cloaked figures sideways into the reeds. He saw Jory, white-faced, stamp his heel on the ice — and a long black crack shoot out across it with a sound like a thunderclap, and one of the men who had come down onto the lake after them disappeared up to his waist in freezing water, screaming. He saw Ilse standing on the bank with her scarred hand raised and her eyes blazing, and a wind came howling out of the trees that tore the fire apart into a whirling storm of sparks and smoke and blinded everyone in the clearing.
+For a moment — a single, glorious moment — Rowan thought they might actually win.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_11-1792791917183.mp3
+Then the heron-man lifted one hand, almost lazily, and Ilse's wind simply stopped. It did not die away. It stopped, all at once, as though it had run into a wall, and the sparks hung frozen in the air for a heartbeat before they fell. Ilse staggered as though she had been struck. Two of the cloaked figures were on her before she could recover, pinning her arms. Another had Jory by the collar, dragging him back from the edge of the broken ice. Tamsin's ridge of earth was crumbling. A man had his knee in her back.
+And the heron-man came walking down the bank towards Rowan, unhurried, the rod held out in front of him like a lantern.
+It was not twitching now. It was shaking. Shaking so violently that it thrummed in the air like a plucked string, its forked tip swinging wildly, wildly from side to side, unable to settle — as though whatever it was following were everywhere at once, in the ice and the snow and the roots and the dark trees all around.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_12-1792791927015.mp3
+"There you are," the heron-man said softly. He stopped over Rowan, looking down at him with an expression of mild, delighted interest. Close to, his face was quite ordinary: lean and pale and clean-shaven, the kind of face you would forget the moment you looked away. Only his eyes were strange — very light, almost colourless, like water in a glass. "The boy who cracked the Stone. The boy who made the thorns flower in the dead of winter." He tilted his head. "They told me you were empty."
+He reached down, quite gently, and set the forked tip of the rod against the centre of Rowan's chest.
+And Rowan felt it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_13-1792791939292.mp3
+It was like a hook. Like a fishhook, sunk deep, somewhere far below his ribs, in the dark place where his Well lay — and then pulling. Pulling up and out, steadily, horribly, the way a hand draws water from a well with a rope and a bucket. He felt something begin to rise in him that he had not called. Felt it begin to slide up the rope towards the man's waiting hand.
+And everything in him clenched tight around it, like a fist.
+The heron-man frowned. He leaned on the rod a little harder. The pull grew stronger. Rowan's vision went white at the edges. He could hear someone shouting his name — Tamsin, he thought, very far away. The fist inside him held, and held, and began, very slowly, to slip.
+Don't push, said a dry, cracked voice in his memory. Don't pull. That's how you move a feather. Feathers don't care.
+This does.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_14-1792791954270.mp3
+Rowan let go.
+Not of the Well. Of the fist. He stopped holding on, and stopped fighting, and stopped trying to drag the thing inside him back down out of reach of the hook. Instead — lying flat on his back on the ice, with the stars wheeling overhead and the rod's cold fork pressed against his heart — he did the only thing he had ever been any good at.
+He listened.
+And the Elderwood was there.
+It was so vast that at first he could not understand what it was. It was like listening for a single drop of water and hearing the sea. All around him, in every direction, as far as he could feel and further, the forest was alive — not asleep, not silent, as he had always thought, but waiting. Patient and slow and very, very old, older than the Stones, older than Thornhall, older than anything that had ever had a name, every root and branch and buried seed of it was waiting, and had been waiting for three hundred years, for someone to listen.
+Rowan listened.
+And the Elderwood answered.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_15-1792791963654.mp3
+The first thing that happened was that the rod broke.
+It did not snap. It burst — split from end to end along its grain with a crack like a frozen bough giving way, and then split again, and again, into a hundred pale splinters that sprayed outward through the air like a handful of thrown needles. From the heart of it, where the dark wood had been dead and dry and polished for who knew how many years, a thick bead of sap welled up, golden and glistening, and ran down over the heron-man's fingers.
+He stared at it. For the first time, something moved behind those colourless eyes. It might have been fear.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_16-1792791975431.mp3
+Then the ground came up.
+Roots. Hundreds of them, all at once — bursting up out of the snow along the whole length of the bank, out of the frozen reeds, out of the very edge of the ice, as thick as a man's wrist and as thick as his waist, grey and black and gleaming wet, writhing up into the moonlight like a nest of waking serpents. They took the man who was kneeling on Tamsin's back and plucked him off her as easily as a child plucks a daisy, and flung him tumbling into the snow. They wrapped themselves around the ankles of the two figures holding Ilse and dragged them, shrieking, backwards into the dark. They coiled around the wheels of the wagon and heaved, and the whole wagon groaned and tilted and lifted a foot off the ground, its canvas tearing open along one side with a sound like ripping cloth.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_17-1792791987037.mp3
+And above it all, the Elderwood woke.
+Rowan felt it more than saw it. All around the clearing, the great trees were moving — not swaying, as trees sway in a wind, but moving, their vast branches sweeping down through the darkness with a roar like a waterfall, their trunks groaning and cracking as though they were stretching after a long, long sleep. Snow cascaded from their crowns in sheets. Owls burst shrieking from their hollows. The cloaked figures were running now, scattering into the forest in every direction, and the forest was letting them go, but only just — Rowan saw a branch as thick as a man's body come scything down out of the dark and miss one of them by a hand's breadth, and the man fled screaming into the trees.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_18-1792791994168.mp3
+The heron-man did not scream. He backed away from Rowan slowly, step by step, holding his sap-stained hand against his chest, his pale eyes fixed on Rowan's face. A root lashed at him out of the snow, and he moved — quick and neat and precise as a heron striking — and it missed him.
+"Remarkable," he said softly. "Quite remarkable. They'll pay a great deal more for you than for the miner's boy."
+Then he turned, and stepped into the shadow of the trees, and was gone.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_19-1792792011504.mp3
+The forest went on moving for a long time after the last of them had fled.
+Rowan lay on his back on the ice and could not stop it. He was not sure he wanted to. He could feel the Elderwood all around him, enormous and slow and rejoicing, the way you can feel the sun on your skin with your eyes closed. Every tree in it seemed to be turning towards him, leaning over the edge of the lake, its branches spreading across the stars. Somewhere very deep inside him, in the place where the fist had been, something was pouring out of him and into the forest and back again, like a tide, like breath, and he did not know how to make it stop.
+His nose was bleeding. He could taste it, warm and coppery, running down over his lip. His fingers and toes had gone numb. The stars had begun to swim and blur.
+Someone was kneeling beside him on the ice. Tamsin, her face streaked with mud and snow and tears, gripping his hand so hard that it hurt.
+"Rowan. Rowan, look at me. You have to stop. Stop. You're draining yourself, you'll— Rowan!"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_20-1792792024360.mp3
+Beyond her, he saw Jory and Ilse at the tailboard of the wagon, tearing at the ripped canvas with their bare hands. He saw a big, slow-moving shape stumble out of the wagon and fall to its knees in the snow: a boy with hands like shovels and a face grey with cold and terror, blinking in the moonlight as though he had not seen the sky in weeks.
+"Bennet," Rowan tried to say. It came out as a whisper.
+Bennet Croft lifted his head. He was alive. He was shaking from head to foot. And when he looked across the clearing at Rowan, lying on the ice with the whole forest leaning over him, there was something in his face that Rowan had never seen in anyone's face before.
+"They hadn't started," Bennet croaked. "They said they were waiting. For someone from the hill. Someone who was going to come tonight and — and buy—" He doubled over, coughing.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_21-1792792033928.mp3
+There were lights on the lake.
+Rowan turned his head, slowly, because it seemed very heavy. Out across the ice, from the direction of Thornhall, a line of lanterns was streaming towards them — a dozen, twenty, more, bobbing and swinging, and behind them the dark shapes of running figures. He could hear shouting. At the front of them, a tall figure in a long charcoal coat was running faster than any of the others, and the air around him shimmered with heat, so that the snow hissed and melted under his feet.
+Behind him came a small, wiry woman with a long grey braid, her satchel bouncing against her hip.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_11.page_22-1792792044299.mp3
+Rowan wanted to sit up. He wanted to tell them about the heron-man, and the hook in his chest, and the voice from the hill that was going to come and buy. He wanted to tell Tamsin that it was all right, that he could feel the forest, that it was not angry any more, that it was only glad. But the stars had begun to go out, one by one, the way Ilse's lanterns had gone out in the Thorn Ring.
+The last thing he saw, before the dark closed over him, was the Elderwood: every tree in it, for as far as he could see, bowed low over the frozen lake, its branches spread above him like the roof of a great green hall — awake for the first time in three hundred years.
+Then there was nothing at all.

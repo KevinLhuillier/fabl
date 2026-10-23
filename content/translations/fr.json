@@ -943,6 +943,12 @@
       "example": "He couldn't have said afterwards how he got out of the meadow, only that at some point Tamsin was beside him, gripping his arm, saying things that were meant to be kind — it doesn't matter, it doesn't change anything, Edric's a pig and everyone knows it — and that at some point he had asked her, as gently as he could manage, to leave him alone."
     },
     {
+      "word": "at the cost of",
+      "pos": "PHRASE",
+      "translation": "au prix de",
+      "example": "But Ilse knew a place on the western side, below the glasshouses, where the blackthorn had grown thin around the trunk of a dead oak and a determined person could wriggle through on their stomach, at the cost of a torn coat and a great many scratches."
+    },
+    {
       "word": "at the foot of",
       "pos": "PHRASE",
       "translation": "au pied de",
@@ -1099,10 +1105,22 @@
       "example": "Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters."
     },
     {
+      "word": "back",
+      "pos": "VERB",
+      "translation": "reculer (« back away » : s'éloigner à reculons)",
+      "example": "He backed away from Rowan slowly, step by step, holding his sap-stained hand against his chest, his pale eyes fixed on Rowan's face."
+    },
+    {
       "word": "back and forth",
       "pos": "PHRASE",
       "translation": "d'avant en arrière, de-ci de-là",
       "example": "The rod in his hand jerked one way, then the other, then swung wildly back and forth, unable to settle, as though whatever it had been following were suddenly everywhere at once, spreading through the ground beneath the hall like roots."
+    },
+    {
+      "word": "backwards",
+      "pos": "ADV",
+      "translation": "en arrière, à reculons",
+      "example": "They wrapped themselves around the ankles of the two figures holding Ilse and dragged them, shrieking, backwards into the dark."
     },
     {
       "word": "bad",
@@ -1187,6 +1205,12 @@
       "pos": "NOUN",
       "translation": "la rive, la berge",
       "example": "Late in the afternoon they came out onto a ridge, and below them, spread across both banks of the Brack, lay Mossbridge."
+    },
+    {
+      "word": "bank",
+      "pos": "VERB",
+      "translation": "(feu) couvrir, faire couver (« banked low » : qui couve)",
+      "example": "A fire was burning in the middle of it, banked low."
     },
     {
       "word": "banked",
@@ -1325,6 +1349,12 @@
       "pos": "NOUN",
       "translation": "le maintien, l'allure",
       "example": "The first was a tall man in a long coat of charcoal wool, with close-cropped grey hair and the bearing of someone who had spent his life being obeyed."
+    },
+    {
+      "word": "beast",
+      "pos": "NOUN",
+      "translation": "la bête",
+      "example": "He saw Tamsin, on her knees, slam both palms down on the frozen ground, and a ridge of earth and roots and snow rear up out of the bank like the back of some great beast, flinging two of the cloaked figures sideways into the reeds."
     },
     {
       "word": "beat",
@@ -1662,6 +1692,12 @@
       "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
     },
     {
+      "word": "blink",
+      "pos": "VERB",
+      "translation": "cligner des yeux",
+      "example": "He saw a big, slow-moving shape stumble out of the wagon and fall to its knees in the snow: a boy with hands like shovels and a face grey with cold and terror, blinking in the moonlight as though he had not seen the sky in weeks."
+    },
+    {
       "word": "blister",
       "pos": "NOUN",
       "translation": "l'ampoule (sur la peau)",
@@ -1740,6 +1776,12 @@
       "example": "Four of them he could read at a glance: the brown of Earth, the blue of Water, the pale grey of Air, the deep red of Fire."
     },
     {
+      "word": "blur",
+      "pos": "VERB",
+      "translation": "se brouiller, devenir flou",
+      "example": "The stars had begun to swim and blur."
+    },
+    {
       "word": "boar",
       "pos": "NOUN",
       "translation": "le sanglier",
@@ -1756,6 +1798,12 @@
       "pos": "NOUN",
       "translation": "le bateau",
       "example": "Two little sailors who lost their boat."
+    },
+    {
+      "word": "bob",
+      "pos": "VERB",
+      "translation": "danser, monter et descendre",
+      "example": "Out across the ice, from the direction of Thornhall, a line of lanterns was streaming towards them — a dozen, twenty, more, bobbing and swinging, and behind them the dark shapes of running figures."
     },
     {
       "word": "body",
@@ -2202,6 +2250,12 @@
       "example": "The boy's mother burst into tears."
     },
     {
+      "word": "burst up",
+      "pos": "PHRASE",
+      "translation": "jaillir (du sol)",
+      "example": "Hundreds of them, all at once — bursting up out of the snow along the whole length of the bank, out of the frozen reeds, out of the very edge of the ice, as thick as a man's wrist and as thick as his waist, grey and black and gleaming wet, writhing up into the moonlight like a nest of waking serpents."
+    },
+    {
       "word": "bury",
       "pos": "VERB",
       "translation": "enterrer",
@@ -2472,10 +2526,22 @@
       "example": "At its heart stood the shrine, a ring of seven carved posts so old that the weather had worn their faces into smooth, patient suggestions of faces."
     },
     {
+      "word": "cascade",
+      "pos": "VERB",
+      "translation": "tomber en cascade",
+      "example": "Snow cascaded from their crowns in sheets."
+    },
+    {
       "word": "case",
       "pos": "NOUN",
       "translation": "le cas",
       "example": "The women gathered buckets of water in case of fire."
+    },
+    {
+      "word": "cast",
+      "pos": "VERB",
+      "translation": "jeter, projeter (« cast shadows » : projeter des ombres)",
+      "example": "The ice was black and glassy and perfectly smooth, and the moon was so bright on it that they cast four long, sharp shadows ahead of them as they went."
     },
     {
       "word": "castle",
@@ -2844,6 +2910,12 @@
       "example": "In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail."
     },
     {
+      "word": "clean-shaven",
+      "pos": "ADJ",
+      "translation": "rasé de près, glabre",
+      "example": "Close to, his face was quite ordinary: lean and pale and clean-shaven, the kind of face you would forget the moment you looked away."
+    },
+    {
       "word": "cleanly",
       "pos": "ADV",
       "translation": "net, proprement",
@@ -2970,6 +3042,12 @@
       "example": "He stood there for a long time with his palm against the bark and his good eye half-closed, and Rowan, watching him, felt a jolt of recognition so strong that it was almost painful."
     },
     {
+      "word": "cloth",
+      "pos": "NOUN",
+      "translation": "le tissu, l'étoffe",
+      "example": "They coiled around the wheels of the wagon and heaved, and the whole wagon groaned and tilted and lifted a foot off the ground, its canvas tearing open along one side with a sound like ripping cloth."
+    },
+    {
       "word": "clothes",
       "pos": "NOUN",
       "translation": "les vêtements",
@@ -3054,6 +3132,12 @@
       "example": "Its long, low common room was built around the roots of a single enormous oak, which came down through the ceiling and spread across the walls and floor in great grey coils, polished smooth by generations of students who had sat on them, leaned on them and carved their initials into them."
     },
     {
+      "word": "coil",
+      "pos": "VERB",
+      "translation": "s'enrouler",
+      "example": "They coiled around the wheels of the wagon and heaved, and the whole wagon groaned and tilted and lifted a foot off the ground, its canvas tearing open along one side with a sound like ripping cloth."
+    },
+    {
       "word": "coin",
       "pos": "NOUN",
       "translation": "la pièce de monnaie",
@@ -3112,6 +3196,12 @@
       "pos": "ADJ",
       "translation": "coloré",
       "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "colourless",
+      "pos": "ADJ",
+      "translation": "incolore, sans couleur",
+      "example": "Only his eyes were strange — very light, almost colourless, like water in a glass."
     },
     {
       "word": "column",
@@ -3312,6 +3402,12 @@
       "example": "He thought about it at night in his alcove at Hearthside, lying awake behind the woollen curtain while the Tanner brothers snored on either side of him like a pair of contented bears."
     },
     {
+      "word": "continue",
+      "pos": "VERB",
+      "translation": "continuer",
+      "example": "The causeway would remain closed after dark, and Master Hale would continue to see to it personally."
+    },
+    {
       "word": "control",
       "pos": "VERB",
       "translation": "maîtriser, contrôler",
@@ -3354,6 +3450,12 @@
       "example": "He was round-faced and freckled, with a shock of copper hair and a grin that seemed to take up most of his face."
     },
     {
+      "word": "coppery",
+      "pos": "ADJ",
+      "translation": "cuivré",
+      "example": "He could taste it, warm and coppery, running down over his lip."
+    },
+    {
       "word": "copy",
       "pos": "NOUN",
       "translation": "la copie, l'exemplaire",
@@ -3382,6 +3484,24 @@
       "pos": "PROPN",
       "translation": "Corvin (prénom)",
       "example": "Master Corvin Hale, Head of Fire, will preside, with the examiners of the Academy in attendance."
+    },
+    {
+      "word": "cost",
+      "pos": "NOUN",
+      "translation": "le coût, le prix (« at the cost of » : au prix de)",
+      "example": "But Ilse knew a place on the western side, below the glasshouses, where the blackthorn had grown thin around the trunk of a dead oak and a determined person could wriggle through on their stomach, at the cost of a torn coat and a great many scratches."
+    },
+    {
+      "word": "cough",
+      "pos": "NOUN",
+      "translation": "la toux",
+      "example": "And from inside the wagon, faint and muffled, so that at first Rowan thought he had imagined it, came the sound of someone coughing — a deep, hoarse, northern cough."
+    },
+    {
+      "word": "cough",
+      "pos": "VERB",
+      "translation": "tousser",
+      "example": "And from inside the wagon, faint and muffled, so that at first Rowan thought he had imagined it, came the sound of someone coughing — a deep, hoarse, northern cough."
     },
     {
       "word": "could",
@@ -3588,10 +3708,22 @@
       "example": "Rowan slipped out from under his blanket and crept to the shutters."
     },
     {
+      "word": "creep down",
+      "pos": "PHRASE",
+      "translation": "descendre à pas de loup",
+      "example": "It happened in a single night, the way it did, Moss said, perhaps once in a generation: one evening the water lay black and still under a low grey sky, and the next morning it had turned to a single vast sheet of iron-grey ice, so thick and so clear that the students who crept down to the shore could see pale weeds hanging motionless far beneath it, like hair in a sleeping face."
+    },
+    {
       "word": "crew",
       "pos": "NOUN",
       "translation": "l'équipage, la bande",
       "example": "He came bounding down the gangplank of a cargo barge with a trunk on one shoulder and a half-eaten pie in the other hand, shouting goodbyes over his shoulder to what appeared to be an entire crew of uncles and cousins."
+    },
+    {
+      "word": "croak",
+      "pos": "VERB",
+      "translation": "croasser, dire d'une voix rauque",
+      "example": "\"They hadn't started,\" Bennet croaked."
     },
     {
       "word": "Croft",
@@ -3826,6 +3958,12 @@
       "pos": "ADJ",
       "translation": "mignon",
       "example": "Leo is very cute. — Leo est très mignon."
+    },
+    {
+      "word": "daisy",
+      "pos": "NOUN",
+      "translation": "la pâquerette, la marguerite",
+      "example": "They took the man who was kneeling on Tamsin's back and plucked him off her as easily as a child plucks a daisy, and flung him tumbling into the snow."
     },
     {
       "word": "damp",
@@ -4302,6 +4440,12 @@
       "example": "He was small and bent nearly double, like a tree that has grown for a century against the wind, and he leaned on a stick of polished blackthorn as gnarled as his own knuckles."
     },
     {
+      "word": "double",
+      "pos": "VERB",
+      "translation": "doubler (« double over » : se plier en deux)",
+      "example": "Someone who was going to come tonight and — and buy—\" He doubled over, coughing."
+    },
+    {
       "word": "down",
       "pos": "ADP",
       "translation": "en bas, vers le bas",
@@ -4344,10 +4488,22 @@
       "example": "When the fighting was over, the villagers dragged one of the prisoners into the light of the fire."
     },
     {
+      "word": "drag down",
+      "pos": "PHRASE",
+      "translation": "entraîner vers le bas, tirer en bas",
+      "example": "He stopped holding on, and stopped fighting, and stopped trying to drag the thing inside him back down out of reach of the hook."
+    },
+    {
       "word": "dragon",
       "pos": "NOUN",
       "translation": "le dragon",
       "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
+    },
+    {
+      "word": "drain",
+      "pos": "VERB",
+      "translation": "vider, épuiser",
+      "example": "You're draining yourself, you'll— Rowan!\""
     },
     {
       "word": "drainpipe",
@@ -4582,6 +4738,12 @@
       "pos": "ADJ",
       "translation": "premier, du début (« early spring » : début du printemps)",
       "example": "A tiny sound, sharp and clear, like the first crack of ice on a pond in early spring."
+    },
+    {
+      "word": "early",
+      "pos": "ADV",
+      "translation": "tôt, en avance",
+      "example": "The snow had come early to the southern forest, and the passes in the north were already closed."
     },
     {
       "word": "earth",
@@ -5068,6 +5230,12 @@
       "example": "\"He has won the last three tournaments,\" a merchant explained to Edwin."
     },
     {
+      "word": "explode",
+      "pos": "VERB",
+      "translation": "exploser, jaillir",
+      "example": "Rowan was halfway to his feet when the snow in front of him exploded upward and a cloaked figure came over the bank in a single bound, and he went down hard on the ice with all the breath knocked out of him."
+    },
+    {
       "word": "expression",
       "pos": "NOUN",
       "translation": "l'expression (du visage)",
@@ -5120,6 +5288,12 @@
       "pos": "VERB",
       "translation": "affronter, faire face à",
       "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
+    },
+    {
+      "word": "faced",
+      "pos": "ADJ",
+      "translation": "au visage… (« white-faced » : blême)",
+      "example": "He saw Jory, white-faced, stamp his heel on the ice — and a long black crack shoot out across it with a sound like a thunderclap, and one of the men who had come down onto the lake after them disappeared up to his waist in freezing water, screaming."
     },
     {
       "word": "fact",
@@ -5596,6 +5770,12 @@
       "example": "\"Farmer, miner, a fisherman's lad."
     },
     {
+      "word": "fishhook",
+      "pos": "NOUN",
+      "translation": "l'hameçon",
+      "example": "Like a fishhook, sunk deep, somewhere far below his ribs, in the dark place where his Well lay — and then pulling."
+    },
+    {
       "word": "fishing",
       "pos": "NOUN",
       "translation": "la pêche (« fishing port » : port de pêche)",
@@ -5921,6 +6101,12 @@
     },
     {
       "word": "fork",
+      "pos": "NOUN",
+      "translation": "la fourche, la pointe fourchue",
+      "example": "Instead — lying flat on his back on the ice, with the stars wheeling overhead and the rod's cold fork pressed against his heart — he did the only thing he had ever been any good at."
+    },
+    {
+      "word": "fork",
       "pos": "VERB",
       "translation": "fourcher (« forked » : fourchu)",
       "example": "From inside his coat he drew a slender rod of dark wood, forked at one end, the kind of thing a well-digger might use to find water."
@@ -6098,6 +6284,12 @@
       "pos": "PHRASE",
       "translation": "d'un bout à l'autre",
       "example": "In summer, Jory had been told, the hedge flowered white from end to end, and the whole hollow smelled of honey."
+    },
+    {
+      "word": "from side to side",
+      "pos": "PHRASE",
+      "translation": "d'un côté à l'autre",
+      "example": "This one swung slowly from side to side, three times, and went out."
     },
     {
       "word": "front",
@@ -6393,6 +6585,12 @@
       "example": "The Stone's older than the Wilds and it finally gave up, that's all."
     },
     {
+      "word": "give way",
+      "pos": "PHRASE",
+      "translation": "céder ; laisser place à",
+      "example": "At the edge of the ice, where the frozen reeds gave way to a steep bank of snow and roots, they lay flat on their stomachs in the shadows and looked up into the Elderwood."
+    },
+    {
       "word": "glad",
       "pos": "ADJ",
       "translation": "content, heureux",
@@ -6435,6 +6633,18 @@
       "example": "\"From tomorrow, during Foundations, you will report to the glasshouses on the western terrace."
     },
     {
+      "word": "glassy",
+      "pos": "ADJ",
+      "translation": "vitreux, lisse comme du verre",
+      "example": "The ice was black and glassy and perfectly smooth, and the moon was so bright on it that they cast four long, sharp shadows ahead of them as they went."
+    },
+    {
+      "word": "gleam",
+      "pos": "VERB",
+      "translation": "luire, briller",
+      "example": "Hundreds of them, all at once — bursting up out of the snow along the whole length of the bank, out of the frozen reeds, out of the very edge of the ice, as thick as a man's wrist and as thick as his waist, grey and black and gleaming wet, writhing up into the moonlight like a nest of waking serpents."
+    },
+    {
       "word": "glide",
       "pos": "VERB",
       "translation": "glisser, avancer sans bruit (« glide past » : passer en glissant)",
@@ -6447,10 +6657,22 @@
       "example": "Four colossal trees grew from the corners of the hall, and their branches met and wove together overhead in a vault so dense that only the faintest glimmer of evening sky showed through."
     },
     {
+      "word": "glimmer",
+      "pos": "VERB",
+      "translation": "luire faiblement, miroiter",
+      "example": "Under their feet, deep in the clear dark, things drifted and glimmered — weeds, stones, once the long pale shape of a sleeping fish."
+    },
+    {
       "word": "glimpse",
       "pos": "VERB",
       "translation": "entrevoir, apercevoir",
       "example": "An archway opened in the hedge, wide enough for a wagon, and through it Rowan glimpsed a long green courtyard and a crowd of faces turned towards the gate."
+    },
+    {
+      "word": "glisten",
+      "pos": "VERB",
+      "translation": "luire, scintiller (humide)",
+      "example": "From the heart of it, where the dark wood had been dead and dry and polished for who knew how many years, a thick bead of sap welled up, golden and glistening, and ran down over the heron-man's fingers."
     },
     {
       "word": "glitter",
@@ -6463,6 +6685,12 @@
       "pos": "NOUN",
       "translation": "la pénombre",
       "example": "Inside, the air was warm and heavy and smelled of damp earth and old leaves, and the long tables ran away into a green gloom crowded with pots and trays and tubs."
+    },
+    {
+      "word": "glorious",
+      "pos": "ADJ",
+      "translation": "glorieux, merveilleux",
+      "example": "For a moment — a single, glorious moment — Rowan thought they might actually win."
     },
     {
       "word": "glory",
@@ -6920,6 +7148,12 @@
       "example": "On the fourth day, Moss handed him a seed."
     },
     {
+      "word": "handful",
+      "pos": "NOUN",
+      "translation": "la poignée",
+      "example": "It burst — split from end to end along its grain with a crack like a frozen bough giving way, and then split again, and again, into a hundred pale splinters that sprayed outward through the air like a handful of thrown needles."
+    },
+    {
       "word": "handkerchief",
       "pos": "NOUN",
       "translation": "le mouchoir",
@@ -6936,6 +7170,12 @@
       "pos": "VERB",
       "translation": "manier, manipuler",
       "example": "He unwrapped it the way a man handles something that might break."
+    },
+    {
+      "word": "hands and knees",
+      "pos": "PHRASE",
+      "translation": "(« on hands and knees ») à quatre pattes",
+      "example": "They went the last hundred paces on their hands and knees."
     },
     {
       "word": "handwriting",
@@ -7286,6 +7526,12 @@
       "example": "And then she was gone, out into the blue dusk, and the door swung shut behind her on its old leather hinges."
     },
     {
+      "word": "hip",
+      "pos": "NOUN",
+      "translation": "la hanche",
+      "example": "Behind him came a small, wiry woman with a long grey braid, her satchel bouncing against her hip."
+    },
+    {
       "word": "hire",
       "pos": "VERB",
       "translation": "louer, engager (« hired » : de location)",
@@ -7322,6 +7568,12 @@
       "example": "What stood beside the shrine, nose to tail, were four long, high-sided farm wagons, each with a canvas hood patched in three different colours and hitched to a pair of shaggy brown oxen who were chewing with the slow, profound indifference of creatures that had seen everything and been impressed by none of it."
     },
     {
+      "word": "hoarse",
+      "pos": "ADJ",
+      "translation": "rauque, enroué",
+      "example": "And from inside the wagon, faint and muffled, so that at first Rowan thought he had imagined it, came the sound of someone coughing — a deep, hoarse, northern cough."
+    },
+    {
       "word": "Hob",
       "pos": "PROPN",
       "translation": "Hob (dans « Hob's Ford », village)",
@@ -7356,6 +7608,12 @@
       "pos": "PHRASE",
       "translation": "retenir son souffle",
       "example": "Here, at the edge of the Deepwood, the night seemed to be holding its breath."
+    },
+    {
+      "word": "hold on",
+      "pos": "PHRASE",
+      "translation": "s'accrocher, tenir bon",
+      "example": "He stopped holding on, and stopped fighting, and stopped trying to drag the thing inside him back down out of reach of the hook."
     },
     {
       "word": "hold out",
@@ -7442,6 +7700,12 @@
       "example": "The crowd fell silent as the two horses began to gallop towards each other, the ground shaking beneath their hooves."
     },
     {
+      "word": "hook",
+      "pos": "NOUN",
+      "translation": "le crochet, l'hameçon",
+      "example": "It was like a hook."
+    },
+    {
       "word": "hope",
       "pos": "NOUN",
       "translation": "l'espoir",
@@ -7470,6 +7734,12 @@
       "pos": "ADJ",
       "translation": "horizontal",
       "example": "And here and there, a short horizontal stroke."
+    },
+    {
+      "word": "horribly",
+      "pos": "ADV",
+      "translation": "horriblement",
+      "example": "Pulling up and out, steadily, horribly, the way a hand draws water from a well with a rope and a bucket."
     },
     {
       "word": "horse",
@@ -7542,6 +7812,12 @@
       "pos": "ADV",
       "translation": "cependant",
       "example": "The king, however, studied the strap carefully."
+    },
+    {
+      "word": "howl",
+      "pos": "VERB",
+      "translation": "hurler",
+      "example": "He saw Ilse standing on the bank with her scarred hand raised and her eyes blazing, and a wind came howling out of the trees that tore the fire apart into a whirling storm of sparks and smoke and blinded everyone in the clearing."
     },
     {
       "word": "huddle",
@@ -7919,6 +8195,12 @@
       "example": "The words pressed against the inside of his teeth, demanding to be let out."
     },
     {
+      "word": "insist",
+      "pos": "VERB",
+      "translation": "insister",
+      "example": "Then, because Tamsin insisted, they woke Jory, creeping down the cold stone stairs to the Cistern and rapping on his shutter until his tousled copper head appeared at the window."
+    },
+    {
       "word": "instead",
       "pos": "ADV",
       "translation": "au lieu de cela, plutôt",
@@ -8186,6 +8468,12 @@
       "pos": "NOUN",
       "translation": "la clé",
       "example": "The far vault lay at the very end of the archive, behind a door of iron-bound oak that Ilse opened with a key she should not have had."
+    },
+    {
+      "word": "keyhole",
+      "pos": "NOUN",
+      "translation": "le trou de serrure",
+      "example": "Not swinging now, but steady, a dull orange glow among the trunks just beyond the shoreline, like the embers of a fire seen through a keyhole."
     },
     {
       "word": "kill",
@@ -8486,6 +8774,12 @@
       "pos": "PHRASE",
       "translation": "exposer, présenter ; étaler",
       "example": "She laid it out for them plainly, the way Bram laid out a day's work."
+    },
+    {
+      "word": "lazily",
+      "pos": "ADV",
+      "translation": "paresseusement, nonchalamment",
+      "example": "Then the heron-man lifted one hand, almost lazily, and Ilse's wind simply stopped."
     },
     {
       "word": "lazy",
@@ -8860,6 +9154,12 @@
       "example": "LISTENING."
     },
     {
+      "word": "little",
+      "pos": "ADV",
+      "translation": "peu (« a little harder » : un peu plus fort)",
+      "example": "He leaned on the rod a little harder."
+    },
+    {
       "word": "Little",
       "pos": "PROPN",
       "translation": "Little (« petit », dans un nom de village)",
@@ -8977,6 +9277,12 @@
       "pos": "ADJ",
       "translation": "détendu, lâche",
       "example": "She simply stood in the centre of the Ring, quite still, with her eyes closed and her scarred hand loose at her side."
+    },
+    {
+      "word": "loosely",
+      "pos": "ADV",
+      "translation": "sans serrer, négligemment",
+      "example": "He held a slender rod of dark wood loosely in one hand."
     },
     {
       "word": "loosen",
@@ -9722,6 +10028,12 @@
       "example": "The wagon creaked into motion."
     },
     {
+      "word": "motionless",
+      "pos": "ADJ",
+      "translation": "immobile",
+      "example": "It happened in a single night, the way it did, Moss said, perhaps once in a generation: one evening the water lay black and still under a low grey sky, and the next morning it had turned to a single vast sheet of iron-grey ice, so thick and so clear that the students who crept down to the shore could see pale weeds hanging motionless far beneath it, like hair in a sleeping face."
+    },
+    {
       "word": "mountain",
       "pos": "NOUN",
       "translation": "la montagne",
@@ -9794,6 +10106,12 @@
       "example": "Some are clear, and some are muddy, and some are so choked with fear and noise that their owners spend years unable to find the bottom."
     },
     {
+      "word": "muffle",
+      "pos": "VERB",
+      "translation": "étouffer, assourdir (« muffled » : étouffé)",
+      "example": "And from inside the wagon, faint and muffled, so that at first Rowan thought he had imagined it, came the sound of someone coughing — a deep, hoarse, northern cough."
+    },
+    {
       "word": "mule",
       "pos": "NOUN",
       "translation": "la mule, le mulet",
@@ -9810,6 +10128,12 @@
       "pos": "VERB",
       "translation": "murmurer",
       "example": "\"Nobody should spend this night completely alone,\" the old knight murmured."
+    },
+    {
+      "word": "murmuring",
+      "pos": "ADJ",
+      "translation": "murmurant",
+      "example": "Then he heard it: voices, low and murmuring, somewhere in the trees ahead."
     },
     {
       "word": "music",
@@ -9978,6 +10302,12 @@
       "pos": "ADV",
       "translation": "nerveusement",
       "example": "She glanced nervously towards the door."
+    },
+    {
+      "word": "nest",
+      "pos": "NOUN",
+      "translation": "le nid",
+      "example": "Hundreds of them, all at once — bursting up out of the snow along the whole length of the bank, out of the frozen reeds, out of the very edge of the ice, as thick as a man's wrist and as thick as his waist, grey and black and gleaming wet, writhing up into the moonlight like a nest of waking serpents."
     },
     {
       "word": "net",
@@ -10248,6 +10578,12 @@
       "pos": "PROPN",
       "translation": "Nuage (prénom)",
       "example": "I'm Nuage."
+    },
+    {
+      "word": "numb",
+      "pos": "ADJ",
+      "translation": "engourdi",
+      "example": "His fingers and toes had gone numb."
     },
     {
       "word": "nursery",
@@ -10661,6 +10997,12 @@
       "pos": "NOUN",
       "translation": "l'extérieur (« from the outside » : de l'extérieur)",
       "example": "I had never seen rain from the outside."
+    },
+    {
+      "word": "outward",
+      "pos": "ADV",
+      "translation": "vers l'extérieur",
+      "example": "It burst — split from end to end along its grain with a crack like a frozen bough giving way, and then split again, and again, into a hundred pale splinters that sprayed outward through the air like a handful of thrown needles."
     },
     {
       "word": "over",
@@ -11329,6 +11671,18 @@
       "example": "She came to the clearing at dusk that same day, on foot, as though she had walked the six miles from Brackenford for the pleasure of it."
     },
     {
+      "word": "pluck",
+      "pos": "VERB",
+      "translation": "cueillir, arracher, pincer (une corde)",
+      "example": "They took the man who was kneeling on Tamsin's back and plucked him off her as easily as a child plucks a daisy, and flung him tumbling into the snow."
+    },
+    {
+      "word": "plucked",
+      "pos": "ADJ",
+      "translation": "pincé (corde)",
+      "example": "Shaking so violently that it thrummed in the air like a plucked string, its forked tip swinging wildly, wildly from side to side, unable to settle — as though whatever it was following were everywhere at once, in the ice and the snow and the roots and the dark trees all around."
+    },
+    {
       "word": "plum",
       "pos": "NOUN",
       "translation": "la prune",
@@ -11731,6 +12085,12 @@
       "example": "He pulled out the dead stems."
     },
     {
+      "word": "pull up",
+      "pos": "PHRASE",
+      "translation": "remonter, tirer vers le haut",
+      "example": "Tamsin pulled her scarf up over her chin."
+    },
+    {
       "word": "pulse",
       "pos": "NOUN",
       "translation": "le pouls",
@@ -12024,6 +12384,12 @@
       "example": "When I reached the gutter, I jumped."
     },
     {
+      "word": "reach down",
+      "pos": "PHRASE",
+      "translation": "se baisser pour atteindre, tendre la main vers le bas",
+      "example": "He reached down, quite gently, and set the forked tip of the rod against the centre of Rowan's chest."
+    },
+    {
       "word": "reach out",
       "pos": "PHRASE",
       "translation": "tendre la main, tendre le bras",
@@ -12090,6 +12456,18 @@
       "example": "Without proof, I cannot punish a knight of the realm."
     },
     {
+      "word": "rear",
+      "pos": "VERB",
+      "translation": "se dresser, se cabrer",
+      "example": "He saw Tamsin, on her knees, slam both palms down on the frozen ground, and a ridge of earth and roots and snow rear up out of the bank like the back of some great beast, flinging two of the cloaked figures sideways into the reeds."
+    },
+    {
+      "word": "rear up",
+      "pos": "PHRASE",
+      "translation": "se dresser, surgir",
+      "example": "He saw Tamsin, on her knees, slam both palms down on the frozen ground, and a ridge of earth and roots and snow rear up out of the bank like the back of some great beast, flinging two of the cloaked figures sideways into the reeds."
+    },
+    {
       "word": "reason",
       "pos": "NOUN",
       "translation": "la raison",
@@ -12150,10 +12528,22 @@
       "example": "Keeper of Records at Thornhall, among other dull titles."
     },
     {
+      "word": "recover",
+      "pos": "VERB",
+      "translation": "se remettre, reprendre ses esprits",
+      "example": "Two of the cloaked figures were on her before she could recover, pinning her arms."
+    },
+    {
       "word": "red",
       "pos": "ADJ",
       "translation": "rouge",
       "example": "A big red bus. — Un grand bus rouge."
+    },
+    {
+      "word": "reed",
+      "pos": "NOUN",
+      "translation": "le roseau",
+      "example": "At the edge of the ice, where the frozen reeds gave way to a steep bank of snow and roots, they lay flat on their stomachs in the shadows and looked up into the Elderwood."
     },
     {
       "word": "Reed",
@@ -12204,6 +12594,12 @@
       "example": "The Marking always fell on the first morning of Leaf-Fall, as regular as the first frost, and he had been counting the days since midsummer."
     },
     {
+      "word": "rejoicing",
+      "pos": "ADJ",
+      "translation": "joyeux, en liesse",
+      "example": "He could feel the Elderwood all around him, enormous and slow and rejoicing, the way you can feel the sun on your skin with your eyes closed."
+    },
+    {
       "word": "relief",
       "pos": "NOUN",
       "translation": "le soulagement",
@@ -12238,6 +12634,12 @@
       "pos": "VERB",
       "translation": "remarquer, faire une remarque",
       "example": "His voice was quite ordinary, pleasant even — the voice of a man remarking on the weather."
+    },
+    {
+      "word": "remarkable",
+      "pos": "ADJ",
+      "translation": "remarquable",
+      "example": "\"Remarkable,\" he said softly."
     },
     {
       "word": "remember",
@@ -12390,6 +12792,12 @@
       "example": "Every man reveals his intentions before he strikes."
     },
     {
+      "word": "reverent",
+      "pos": "ADJ",
+      "translation": "respectueux, plein de révérence",
+      "example": "\"It's solid,\" he said after a moment, and there was something almost reverent in his voice."
+    },
+    {
       "word": "Reyne",
       "pos": "PROPN",
       "translation": "Reyne (nom de famille)",
@@ -12486,6 +12894,12 @@
       "example": "Every year, on the last day before the midwinter holiday, the first-years of Thornhall stood in the Thorn Ring and showed the whole school what they had learned."
     },
     {
+      "word": "rip",
+      "pos": "VERB",
+      "translation": "déchirer",
+      "example": "They coiled around the wheels of the wagon and heaved, and the whole wagon groaned and tilted and lifted a foot off the ground, its canvas tearing open along one side with a sound like ripping cloth."
+    },
+    {
       "word": "ripe",
       "pos": "ADJ",
       "translation": "mûr",
@@ -12514,6 +12928,12 @@
       "pos": "PHRASE",
       "translation": "se lever, se mettre debout",
       "example": "At the high table, a tall, stooped old woman rose to her feet, and the hall fell quiet as though a door had been shut on it."
+    },
+    {
+      "word": "rise up",
+      "pos": "PHRASE",
+      "translation": "s'élever, se dresser",
+      "example": "Behind them, Thornhall rose up on its hill, all towers and living branches and a few lit windows, growing smaller with every step."
     },
     {
       "word": "river",
@@ -12858,6 +13278,12 @@
       "example": "She showed me a terrace full of tomato plants, a pigeon who thought he was a king, and a place on top of a high wall where you could see the two rivers, the Rhône and the Saône, shining in the dark."
     },
     {
+      "word": "sap",
+      "pos": "NOUN",
+      "translation": "la sève",
+      "example": "From the heart of it, where the dark wood had been dead and dry and polished for who knew how many years, a thick bead of sap welled up, golden and glistening, and ran down over the heron-man's fingers."
+    },
+    {
       "word": "sapling",
       "pos": "NOUN",
       "translation": "le jeune arbre, le plant",
@@ -12967,6 +13393,12 @@
     },
     {
       "word": "scratch",
+      "pos": "NOUN",
+      "translation": "l'égratignure",
+      "example": "But Ilse knew a place on the western side, below the glasshouses, where the blackthorn had grown thin around the trunk of a dead oak and a determined person could wriggle through on their stomach, at the cost of a torn coat and a great many scratches."
+    },
+    {
+      "word": "scratch",
       "pos": "VERB",
       "translation": "gratter",
       "example": "\"You're an indoor cat, Pistache,\" she tells me, scratching my head."
@@ -12976,6 +13408,12 @@
       "pos": "NOUN",
       "translation": "le gribouillis, la signature griffonnée",
       "example": "At the bottom, beneath Maren Vell's tidy signature and Master Hale's impatient scrawl, there was a third name, written in large, laborious capitals that had pressed so hard into the paper they had almost gone through it."
+    },
+    {
+      "word": "scream",
+      "pos": "VERB",
+      "translation": "hurler, crier",
+      "example": "He saw Jory, white-faced, stamp his heel on the ice — and a long black crack shoot out across it with a sound like a thunderclap, and one of the men who had come down onto the lake after them disappeared up to his waist in freezing water, screaming."
     },
     {
       "word": "screw",
@@ -13012,6 +13450,18 @@
       "pos": "VERB",
       "translation": "trottiner, courir à petits pas",
       "example": "\"He was most entertaining about it at dinner last night — the woodcutter's boy who couldn't make a Standing Stone so much as yawn, and old Vell, scurrying about the meadow with her little book, determined to make a scholar out of a stump.\""
+    },
+    {
+      "word": "scythe",
+      "pos": "VERB",
+      "translation": "faucher",
+      "example": "The cloaked figures were running now, scattering into the forest in every direction, and the forest was letting them go, but only just — Rowan saw a branch as thick as a man's body come scything down out of the dark and miss one of them by a hand's breadth, and the man fled screaming into the trees."
+    },
+    {
+      "word": "scythe down",
+      "pos": "PHRASE",
+      "translation": "s'abattre (comme une faux)",
+      "example": "The cloaked figures were running now, scattering into the forest in every direction, and the forest was letting them go, but only just — Rowan saw a branch as thick as a man's body come scything down out of the dark and miss one of them by a hand's breadth, and the man fled screaming into the trees."
     },
     {
       "word": "sea",
@@ -13404,6 +13854,12 @@
       "example": "For a long while he lay awake in the dark, listening to the strange new sounds of Thornhall settling around him: the breathing of a dozen sleepers behind their curtains, the creak of great branches in the wind, the far-off murmur of the lake, the slow, deep groan of old wood shifting in its sleep."
     },
     {
+      "word": "shimmer",
+      "pos": "VERB",
+      "translation": "miroiter, trembloter (air chaud)",
+      "example": "At the front of them, a tall figure in a long charcoal coat was running faster than any of the others, and the air around him shimmered with heat, so that the snow hissed and melted under his feet."
+    },
+    {
       "word": "shine",
       "pos": "VERB",
       "translation": "briller",
@@ -13446,10 +13902,28 @@
       "example": "A pale green shoot, no longer than his fingernail, had pushed its way up through the clay."
     },
     {
+      "word": "shoot",
+      "pos": "VERB",
+      "translation": "tirer ; filer, jaillir",
+      "example": "He saw Jory, white-faced, stamp his heel on the ice — and a long black crack shoot out across it with a sound like a thunderclap, and one of the men who had come down onto the lake after them disappeared up to his waist in freezing water, screaming."
+    },
+    {
+      "word": "shoot out",
+      "pos": "PHRASE",
+      "translation": "jaillir, filer (à toute vitesse)",
+      "example": "He saw Jory, white-faced, stamp his heel on the ice — and a long black crack shoot out across it with a sound like a thunderclap, and one of the men who had come down onto the lake after them disappeared up to his waist in freezing water, screaming."
+    },
+    {
       "word": "shore",
       "pos": "NOUN",
       "translation": "la rive, le rivage",
       "example": "A causeway of grey stone ran out across the lake from the southern shore, so low and so narrow that the wagons seemed to be rolling across the surface of the water itself."
+    },
+    {
+      "word": "shoreline",
+      "pos": "NOUN",
+      "translation": "le rivage, la ligne du rivage",
+      "example": "Not swinging now, but steady, a dull orange glow among the trunks just beyond the shoreline, like the embers of a fire seen through a keyhole."
     },
     {
       "word": "short",
@@ -13510,6 +13984,12 @@
       "pos": "PHRASE",
       "translation": "transparaître, apparaître à travers",
       "example": "Four colossal trees grew from the corners of the hall, and their branches met and wove together overhead in a vault so dense that only the faintest glimmer of evening sky showed through."
+    },
+    {
+      "word": "shriek",
+      "pos": "VERB",
+      "translation": "hurler, pousser des cris perçants",
+      "example": "They wrapped themselves around the ankles of the two figures holding Ilse and dragged them, shrieking, backwards into the dark."
     },
     {
       "word": "shrine",
@@ -13788,6 +14268,12 @@
       "example": "She sat down opposite Edwin and lowered her voice."
     },
     {
+      "word": "sit up",
+      "pos": "PHRASE",
+      "translation": "s'asseoir, se redresser",
+      "example": "Rowan wanted to sit up."
+    },
+    {
       "word": "six",
       "pos": "NUM",
       "translation": "six",
@@ -13854,6 +14340,18 @@
       "example": "Her father, a great slab of a man, lifted her off the ground and roared."
     },
     {
+      "word": "slam",
+      "pos": "VERB",
+      "translation": "claquer, frapper violemment",
+      "example": "He saw Tamsin, on her knees, slam both palms down on the frozen ground, and a ridge of earth and roots and snow rear up out of the bank like the back of some great beast, flinging two of the cloaked figures sideways into the reeds."
+    },
+    {
+      "word": "slam down",
+      "pos": "PHRASE",
+      "translation": "plaquer violemment (au sol)",
+      "example": "He saw Tamsin, on her knees, slam both palms down on the frozen ground, and a ridge of earth and roots and snow rear up out of the bank like the back of some great beast, flinging two of the cloaked figures sideways into the reeds."
+    },
+    {
       "word": "slant",
       "pos": "VERB",
       "translation": "être incliné (« slanting » : oblique, penché)",
@@ -13918,6 +14416,12 @@
       "pos": "PHRASE",
       "translation": "glisser (hors de)",
       "example": "When Ilse lifted the ledger to close it, it slid out and fluttered to the floor at Rowan's feet."
+    },
+    {
+      "word": "slide up",
+      "pos": "PHRASE",
+      "translation": "remonter en glissant",
+      "example": "Felt it begin to slide up the rope towards the man's waiting hand."
     },
     {
       "word": "slight",
@@ -14062,6 +14566,12 @@
       "pos": "NOUN",
       "translation": "la fumée",
       "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
+    },
+    {
+      "word": "smoke",
+      "pos": "VERB",
+      "translation": "fumer",
+      "example": "Around it, half a dozen figures in dark cloaks were sitting or standing, talking in low voices, their breath smoking in the cold."
     },
     {
       "word": "smooth",
@@ -14484,6 +14994,12 @@
       "example": "Around him the others slept — the Tanner brothers still snoring in harmony, Jory sprawled on his back with one arm flung over his face, Tamsin curled into a tight ball under her mother's quilt."
     },
     {
+      "word": "spray",
+      "pos": "VERB",
+      "translation": "jaillir, être projeté",
+      "example": "It burst — split from end to end along its grain with a crack like a frozen bough giving way, and then split again, and again, into a hundred pale splinters that sprayed outward through the air like a handful of thrown needles."
+    },
+    {
       "word": "spread",
       "pos": "VERB",
       "translation": "(se) répandre, (s')étendre",
@@ -14532,6 +15048,12 @@
       "example": "There were Standing Stones all across the Hollow Wilds — a dozen or so in the southern forest alone, and hundreds more scattered throughout the land: squat grey pillars on the passes of the northern mountains, needles of black basalt rising from the shallows off the western coast, slender white spires on the windswept eastern heights."
     },
     {
+      "word": "squeak",
+      "pos": "NOUN",
+      "translation": "le couinement",
+      "example": "Jory's whisper was close to a squeak."
+    },
+    {
       "word": "squeeze",
       "pos": "VERB",
       "translation": "se faufiler, serrer, presser",
@@ -14568,6 +15090,12 @@
       "example": "They collected their last passenger at the Mossbridge landing stage."
     },
     {
+      "word": "stagger",
+      "pos": "VERB",
+      "translation": "tituber, chanceler",
+      "example": "Ilse staggered as though she had been struck."
+    },
+    {
       "word": "stain",
       "pos": "NOUN",
       "translation": "la tache",
@@ -14584,6 +15112,12 @@
       "pos": "NOUN",
       "translation": "la marche (« the stairs » : l'escalier)",
       "example": "I listened from my place on the stairs."
+    },
+    {
+      "word": "stamp",
+      "pos": "NOUN",
+      "translation": "le piétinement, le coup de sabot",
+      "example": "The stamp and snort of a horse."
     },
     {
       "word": "stamp",
@@ -14652,10 +15186,22 @@
       "example": "If we stay together, we have a chance."
     },
     {
+      "word": "steadily",
+      "pos": "ADV",
+      "translation": "régulièrement, sans relâche",
+      "example": "Pulling up and out, steadily, horribly, the way a hand draws water from a well with a rope and a bucket."
+    },
+    {
       "word": "steady",
       "pos": "ADJ",
       "translation": "ferme, assuré",
       "example": "\"I swear it,\" Edwin answered, his voice steady."
+    },
+    {
+      "word": "steal",
+      "pos": "VERB",
+      "translation": "voler, dérober",
+      "example": "To the people who steal Wells?\""
     },
     {
       "word": "steam",
@@ -14668,6 +15214,18 @@
       "pos": "VERB",
       "translation": "fumer, faire de la vapeur",
       "example": "He could see slices of it through the archway: rows of faces, scarves, breath steaming in the cold."
+    },
+    {
+      "word": "steep",
+      "pos": "ADJ",
+      "translation": "raide, escarpé",
+      "example": "At the edge of the ice, where the frozen reeds gave way to a steep bank of snow and roots, they lay flat on their stomachs in the shadows and looked up into the Elderwood."
+    },
+    {
+      "word": "steeply",
+      "pos": "ADV",
+      "translation": "en pente raide",
+      "example": "On the far side, the slope ran down steeply through the snow to the shore of the lake."
     },
     {
       "word": "stem",
@@ -14686,6 +15244,12 @@
       "pos": "VERB",
       "translation": "faire un pas, s'avancer",
       "example": "Then an old shepherd stepped forward."
+    },
+    {
+      "word": "step by step",
+      "pos": "PHRASE",
+      "translation": "pas à pas",
+      "example": "He backed away from Rowan slowly, step by step, holding his sap-stained hand against his chest, his pale eyes fixed on Rowan's face."
     },
     {
       "word": "stew",
@@ -14808,6 +15372,12 @@
       "example": "Mia stops. — Mia s'arrête."
     },
     {
+      "word": "stop dead",
+      "pos": "PHRASE",
+      "translation": "s'arrêter net",
+      "example": "They were perhaps a hundred paces from the far shore when Ilse stopped dead."
+    },
+    {
       "word": "storage",
       "pos": "NOUN",
       "translation": "le stockage, le rangement",
@@ -14892,6 +15462,12 @@
       "example": "The older Earth students eyed him with a kind of wary curiosity, the way you might eye a stray dog that had followed someone home."
     },
     {
+      "word": "streak",
+      "pos": "VERB",
+      "translation": "strier, maculer (« streaked with » : maculé de)",
+      "example": "Tamsin, her face streaked with mud and snow and tears, gripping his hand so hard that it hurt."
+    },
+    {
       "word": "stream",
       "pos": "VERB",
       "translation": "ruisseler, couler à flots",
@@ -14944,6 +15520,12 @@
       "pos": "VERB",
       "translation": "frapper",
       "example": "Every man reveals his intentions before he strikes."
+    },
+    {
+      "word": "string",
+      "pos": "NOUN",
+      "translation": "la corde (d'instrument), la ficelle",
+      "example": "Shaking so violently that it thrummed in the air like a plucked string, its forked tip swinging wildly, wildly from side to side, unable to settle — as though whatever it was following were everywhere at once, in the ice and the snow and the roots and the dark trees all around."
     },
     {
       "word": "strip",
@@ -15004,6 +15586,12 @@
       "pos": "VERB",
       "translation": "étudier, examiner",
       "example": "The king, however, studied the strap carefully."
+    },
+    {
+      "word": "stumble",
+      "pos": "VERB",
+      "translation": "trébucher, tituber",
+      "example": "He saw a big, slow-moving shape stumble out of the wagon and fall to its knees in the snow: a boy with hands like shovels and a face grey with cold and terror, blinking in the moonlight as though he had not seen the sky in weeks."
     },
     {
       "word": "stump",
@@ -15154,6 +15742,12 @@
       "pos": "VERB",
       "translation": "avaler",
       "example": "Her father can lift a cartwheel out of the mud without touching it.\" He swallowed."
+    },
+    {
+      "word": "sway",
+      "pos": "VERB",
+      "translation": "se balancer, osciller",
+      "example": "All around the clearing, the great trees were moving — not swaying, as trees sway in a wind, but moving, their vast branches sweeping down through the darkness with a roar like a waterfall, their trunks groaning and cracking as though they were stretching after a long, long sleep."
     },
     {
       "word": "swear",
@@ -15441,6 +16035,12 @@
       "pos": "VERB",
       "translation": "terrifier",
       "example": "He was terrified, but he forced himself to watch his opponent, exactly as Godfrey had taught him."
+    },
+    {
+      "word": "terror",
+      "pos": "NOUN",
+      "translation": "la terreur",
+      "example": "He saw a big, slow-moving shape stumble out of the wagon and fall to its knees in the snow: a boy with hands like shovels and a face grey with cold and terror, blinking in the moonlight as though he had not seen the sky in weeks."
     },
     {
       "word": "test",
@@ -15755,6 +16355,12 @@
       "example": "For a single heartbeat, Rowan could have sworn he felt the faint, distant thrum of something alive."
     },
     {
+      "word": "thrum",
+      "pos": "VERB",
+      "translation": "vibrer, bourdonner",
+      "example": "Shaking so violently that it thrummed in the air like a plucked string, its forked tip swinging wildly, wildly from side to side, unable to settle — as though whatever it was following were everywhere at once, in the ice and the snow and the roots and the dark trees all around."
+    },
+    {
       "word": "thud",
       "pos": "VERB",
       "translation": "battre sourdement, cogner",
@@ -15771,6 +16377,12 @@
       "pos": "NOUN",
       "translation": "le tonnerre",
       "example": "The thunder was too loud."
+    },
+    {
+      "word": "thunderclap",
+      "pos": "NOUN",
+      "translation": "le coup de tonnerre",
+      "example": "He saw Jory, white-faced, stamp his heel on the ice — and a long black crack shoot out across it with a sound like a thunderclap, and one of the men who had come down onto the lake after them disappeared up to his waist in freezing water, screaming."
     },
     {
       "word": "thunderstorm",
@@ -15795,6 +16407,12 @@
       "pos": "VERB",
       "translation": "chatouiller (« tickle trout » : pêcher la truite à la main)",
       "example": "Here was the ford where he had learned to tickle trout; there, the hollow oak where he and Tamsin had once hidden from a wild boar for an entire afternoon."
+    },
+    {
+      "word": "tide",
+      "pos": "NOUN",
+      "translation": "la marée",
+      "example": "Somewhere very deep inside him, in the place where the fist had been, something was pouring out of him and into the forest and back again, like a tide, like breath, and he did not know how to make it stop."
     },
     {
       "word": "tidy",
@@ -15947,6 +16565,12 @@
       "example": "Today, Leo does not come. — Aujourd'hui, Leo ne vient pas."
     },
     {
+      "word": "toe",
+      "pos": "NOUN",
+      "translation": "l'orteil",
+      "example": "His fingers and toes had gone numb."
+    },
+    {
       "word": "together",
       "pos": "ADV",
       "translation": "ensemble",
@@ -16035,6 +16659,12 @@
       "pos": "NOUN",
       "translation": "le tournoi",
       "example": "His Majesty is holding a great tournament at Winchester at the end of the month."
+    },
+    {
+      "word": "tousled",
+      "pos": "ADJ",
+      "translation": "ébouriffé",
+      "example": "Then, because Tamsin insisted, they woke Jory, creeping down the cold stone stairs to the Cistern and rapping on his shutter until his tousled copper head appeared at the window."
     },
     {
       "word": "tow",
@@ -16245,6 +16875,12 @@
       "pos": "PROPN",
       "translation": "mardi",
       "example": "It happened on a Tuesday in October."
+    },
+    {
+      "word": "tumble",
+      "pos": "VERB",
+      "translation": "dégringoler, culbuter",
+      "example": "They took the man who was kneeling on Tamsin's back and plucked him off her as easily as a child plucks a daisy, and flung him tumbling into the snow."
     },
     {
       "word": "tunic",
@@ -16792,10 +17428,22 @@
       "example": "When Edwin arrived at Little Fenwick, the villagers were already packing their belongings, ready to flee into the forest."
     },
     {
+      "word": "violently",
+      "pos": "ADV",
+      "translation": "violemment",
+      "example": "Shaking so violently that it thrummed in the air like a plucked string, its forked tip swinging wildly, wildly from side to side, unable to settle — as though whatever it was following were everywhere at once, in the ice and the snow and the roots and the dark trees all around."
+    },
+    {
       "word": "visible",
       "pos": "ADJ",
       "translation": "visible",
       "example": "The village elder cleared his throat, made a speech nobody listened to, and stepped aside with visible relief."
+    },
+    {
+      "word": "vision",
+      "pos": "NOUN",
+      "translation": "la vue, la vision",
+      "example": "Rowan's vision went white at the edges."
     },
     {
       "word": "voice",
@@ -16826,6 +17474,12 @@
       "pos": "NOUN",
       "translation": "le chariot, la charrette",
       "example": "The Academy wagons were waiting in the square at Brackenford when they arrived on Thursday morning, and they were not at all what Rowan had imagined."
+    },
+    {
+      "word": "waist",
+      "pos": "NOUN",
+      "translation": "la taille (du corps) (« up to his waist » : jusqu'à la taille)",
+      "example": "He saw Jory, white-faced, stamp his heel on the ice — and a long black crack shoot out across it with a sound like a thunderclap, and one of the men who had come down onto the lake after them disappeared up to his waist in freezing water, screaming."
     },
     {
       "word": "wait",
@@ -16880,6 +17534,12 @@
       "pos": "PHRASE",
       "translation": "s'approcher (à pied)",
       "example": "Then she walked over to it, slowly, as though her feet hurt, and stood looking down at the page."
+    },
+    {
+      "word": "walk up",
+      "pos": "PHRASE",
+      "translation": "monter (à pied), s'approcher",
+      "example": "But this time there was no answering light on the near shore, and no hooded figure walking up the slope towards the hedge."
     },
     {
       "word": "wall",
@@ -17098,6 +17758,12 @@
       "example": "At noon they sat on the stump to eat — black bread, a wedge of hard cheese, two wrinkled apples from the cellar."
     },
     {
+      "word": "weed",
+      "pos": "NOUN",
+      "translation": "l'herbe (aquatique), la mauvaise herbe",
+      "example": "It happened in a single night, the way it did, Moss said, perhaps once in a generation: one evening the water lay black and still under a low grey sky, and the next morning it had turned to a single vast sheet of iron-grey ice, so thick and so clear that the students who crept down to the shore could see pale weeds hanging motionless far beneath it, like hair in a sleeping face."
+    },
+    {
       "word": "week",
       "pos": "NOUN",
       "translation": "la semaine",
@@ -17152,6 +17818,12 @@
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
     },
     {
+      "word": "well",
+      "pos": "VERB",
+      "translation": "jaillir, sourdre (« well up » : monter, perler)",
+      "example": "From the heart of it, where the dark wood had been dead and dry and polished for who knew how many years, a thick bead of sap welled up, golden and glistening, and ran down over the heron-man's fingers."
+    },
+    {
       "word": "Well",
       "pos": "PROPN",
       "translation": "le Puits (source de magie intérieure)",
@@ -17162,6 +17834,12 @@
       "pos": "PHRASE",
       "translation": "bravo, bien joué",
       "example": "He did not say well done, or I knew it, or anything at all."
+    },
+    {
+      "word": "well up",
+      "pos": "PHRASE",
+      "translation": "monter, perler, sourdre",
+      "example": "From the heart of it, where the dark wood had been dead and dry and polished for who knew how many years, a thick bead of sap welled up, golden and glistening, and ran down over the heron-man's fingers."
     },
     {
       "word": "west",
@@ -17204,6 +17882,12 @@
       "pos": "NOUN",
       "translation": "la roue",
       "example": "\"That's the mill wheel.\""
+    },
+    {
+      "word": "wheel",
+      "pos": "VERB",
+      "translation": "tournoyer, tourner",
+      "example": "Instead — lying flat on his back on the ice, with the stars wheeling overhead and the rod's cold fork pressed against his heart — he did the only thing he had ever been any good at."
     },
     {
       "word": "wheelbarrow",
@@ -17680,6 +18364,18 @@
       "example": "Bram lifted something from the hollow beneath it: a bundle wrapped in oilcloth and tied with twine."
     },
     {
+      "word": "wriggle",
+      "pos": "VERB",
+      "translation": "se tortiller, se faufiler",
+      "example": "But Ilse knew a place on the western side, below the glasshouses, where the blackthorn had grown thin around the trunk of a dead oak and a determined person could wriggle through on their stomach, at the cost of a torn coat and a great many scratches."
+    },
+    {
+      "word": "wriggle through",
+      "pos": "PHRASE",
+      "translation": "se faufiler à travers",
+      "example": "But Ilse knew a place on the western side, below the glasshouses, where the blackthorn had grown thin around the trunk of a dead oak and a determined person could wriggle through on their stomach, at the cost of a torn coat and a great many scratches."
+    },
+    {
       "word": "wrinkle",
       "pos": "VERB",
       "translation": "rider, froisser (« wrinkled » : ridé, fripé)",
@@ -17708,6 +18404,12 @@
       "pos": "PHRASE",
       "translation": "noter, mettre par écrit",
       "example": "\"Everything the Wood-wardens ever wrote down about the Wood — what it is, and how it works, and how they taught it."
+    },
+    {
+      "word": "writhe",
+      "pos": "VERB",
+      "translation": "se tordre, onduler",
+      "example": "Hundreds of them, all at once — bursting up out of the snow along the whole length of the bank, out of the frozen reeds, out of the very edge of the ice, as thick as a man's wrist and as thick as his waist, grey and black and gleaming wet, writhing up into the moonlight like a nest of waking serpents."
     },
     {
       "word": "wrong",
@@ -17810,6 +18512,12 @@
       "pos": "PRON",
       "translation": "le tien, le vôtre",
       "example": "The Stone has already told you what lies at the bottom of yours: Earth, or Water, or Air, or Fire."
+    },
+    {
+      "word": "yourself",
+      "pos": "PRON",
+      "translation": "toi-même, vous-même, te",
+      "example": "You're draining yourself, you'll— Rowan!\""
     },
     {
       "word": "yourselves",
