@@ -7,6 +7,12 @@
       "lemmaPos": "ADP"
     },
     {
+      "text": "ache",
+      "pos": "PROPN",
+      "word": "ache",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "angles",
       "pos": "VERB",
       "word": "angle",
@@ -17,6 +23,12 @@
       "pos": "NOUN",
       "word": "answer",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "archive",
+      "pos": "ADJ",
+      "word": "archive",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "ASHBY",
@@ -49,15 +61,33 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "bent",
+      "pos": "VERB",
+      "word": "bend",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "besides",
       "pos": "SCONJ",
       "word": "besides",
       "lemmaPos": "ADV"
     },
     {
+      "text": "blacker",
+      "pos": "PROPN",
+      "word": "black",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "blacksmith",
       "pos": "PROPN",
       "word": "blacksmith",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "blackthorn",
+      "pos": "ADJ",
+      "word": "blackthorn",
       "lemmaPos": "NOUN"
     },
     {
@@ -140,6 +170,18 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "close",
+      "pos": "NOUN",
+      "word": "close",
+      "lemmaPos": "ADV"
+    },
+    {
+      "text": "closes",
+      "pos": "NOUN",
+      "word": "close",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "clothes",
       "pos": "NOUN",
       "word": "clothes",
@@ -156,6 +198,12 @@
       "pos": "ADJ",
       "word": "crouch",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "crumpled",
+      "pos": "NOUN",
+      "word": "crumpled",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "curling",
@@ -188,10 +236,28 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "Departures",
+      "pos": "PROPN",
+      "word": "departure",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "DEPARTURES",
+      "pos": "PROPN",
+      "word": "departure",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "dipping",
       "pos": "NOUN",
       "word": "dip",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "DISCIPLINE",
+      "pos": "PROPN",
+      "word": "discipline",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "don't",
@@ -204,6 +270,12 @@
       "pos": "VERB",
       "word": "do",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "E.",
+      "pos": "NOUN",
+      "word": "E.",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Earth",
@@ -292,6 +364,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "FOREST",
+      "pos": "PROPN",
+      "word": "forest",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "forgets",
       "pos": "NOUN",
       "word": "forget",
@@ -338,6 +416,12 @@
       "pos": "NOUN",
       "word": "glasses",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "gone",
+      "pos": "NOUN",
+      "word": "gone",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "GOT",
@@ -400,6 +484,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "House",
+      "pos": "PROPN",
+      "word": "house",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "I.",
       "pos": "NOUN",
       "word": "I",
@@ -412,6 +502,12 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "Ilse",
+      "pos": "ADV",
+      "word": "Ilse",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "indrawn",
       "pos": "VERB",
       "word": "indrawn",
@@ -419,6 +515,12 @@
     },
     {
       "text": "Infirmary",
+      "pos": "PROPN",
+      "word": "infirmary",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "INFIRMARY",
       "pos": "PROPN",
       "word": "infirmary",
       "lemmaPos": "NOUN"
@@ -517,6 +619,18 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "MARKINGS",
+      "pos": "NOUN",
+      "word": "Marking",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Married",
+      "pos": "ADJ",
+      "word": "marry",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "midwinter",
       "pos": "PROPN",
       "word": "midwinter",
@@ -527,6 +641,12 @@
       "pos": "PROPN",
       "word": "miss",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Mistress",
+      "pos": "ADJ",
+      "word": "Mistress",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Mistress",
@@ -571,6 +691,12 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "NORTHERN",
+      "pos": "PROPN",
+      "word": "northern",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Nuage",
       "pos": "NOUN",
       "word": "Nuage",
@@ -612,6 +738,12 @@
       "pos": "PROPN",
       "word": "orange",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "PASSES",
+      "pos": "PROPN",
+      "word": "pass",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Patience",
@@ -698,6 +830,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "REYNE",
+      "pos": "PROPN",
+      "word": "Reyne",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "riding",
       "pos": "VERB",
       "word": "ride",
@@ -720,6 +858,12 @@
       "text": "rock",
       "pos": "PROPN",
       "word": "rock",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "roof",
+      "pos": "VERB",
+      "word": "roof",
       "lemmaPos": "NOUN"
     },
     {
@@ -798,6 +942,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "slanting",
+      "pos": "NOUN",
+      "word": "slanting",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "slide",
       "pos": "NOUN",
       "next": "beneath",
@@ -818,6 +968,12 @@
     },
     {
       "text": "southern",
+      "pos": "PROPN",
+      "word": "southern",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "SOUTHERN",
       "pos": "PROPN",
       "word": "southern",
       "lemmaPos": "ADJ"
@@ -872,6 +1028,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "swam",
+      "pos": "VERB",
+      "word": "swim",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "talkative",
       "pos": "VERB",
       "word": "talkative",
@@ -906,6 +1068,12 @@
       "pos": "PROPN",
       "word": "though",
       "lemmaPos": "SCONJ"
+    },
+    {
+      "text": "thudding",
+      "pos": "NOUN",
+      "word": "thud",
+      "lemmaPos": "VERB"
     },
     {
       "text": "to",
@@ -1059,6 +1227,12 @@
       "pos": "VERB",
       "word": "wind",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "y.",
+      "pos": "NOUN",
+      "word": "y",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "yawn",

@@ -804,3 +804,152 @@ He turned. The old man was standing among the saplings, one hand resting on the 
 Rowan's mouth had gone dry. "What was her name?"
 "I'm a hundred and something, boy. I can barely remember my own." Moss turned back towards his lean-to. "But she spent half her time in the archives with young Vell, I remember that much. If anyone's kept a record of her, it'll be the Keeper of Records."
 The lamp went out in the lean-to, and Rowan stood alone on the terrace, in the cooling dusk, with the saplings watching him through the glass.
+
+# A Name in the Ledger
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_1-1792788620751.mp3
+For three days, Rowan thought about nothing else.
+He thought about it in the glasshouses, sitting beside Moss's clay pots with his eyes closed, until the old man rapped him on the knee with his blackthorn stick and told him that a seed could hear a mind wandering from a mile off. He thought about it at supper, while Jory described in loving detail the dead eel he was planning to hide in Seraphine Hale's boots. He thought about it at night in his alcove at Hearthside, lying awake behind the woollen curtain while the Tanner brothers snored on either side of him like a pair of contented bears.
+A student came down here to sketch the old frames, and they leaned towards her.
+Clever girl. Asked a great many questions.
+She spent half her time in the archives with young Vell.
+It could have been anyone. Thornhall had five hundred students, and twenty years was a long time. Dozens of girls must have wandered into the glasshouses with a sketchbook. Rowan told himself this at least twice a day, and did not believe it once.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_2-1792788630156.mp3
+The obvious thing would have been to ask Maren Vell. She had known his mother; she had said so, sitting at Bram's table. You have her eyes. I'd have known them anywhere. But Moss's warning sat in his chest like a stone. You'll tell nobody. Not Vell, for all she means well. And there was something else, too — something he did not like to look at directly. Maren had known his mother. She had known, the very day of his Marking, exactly where to find a Writ that had not been used in ninety years. She had carried a copy of it with her for years, just in case.
+In case of what?
+On the fourth day, he went looking for Ilse Fenwick.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_3-1792788644368.mp3
+The archives of Thornhall lay beneath the Great Hall, in a long, low, vaulted cellar that ran the whole length of the building. Rowan had never been inside. First-years were not permitted there without a teacher — but everyone knew that Ilse spent three evenings a week down among the shelves, sorting returned books and mending torn bindings in exchange for the right to read whatever she liked. Nobody was quite sure how she had arranged this. Tamsin's cousin, unusually, had no information on the subject.
+Rowan found her on the stairs outside the archive door, sitting on the bottom step with a lamp beside her and a book open on her knees, as though she had been waiting for him.
+"You took longer than I expected," she said, without looking up.
+"Longer to what?"
+"To come and ask me for something." She turned a page. "You've been staring at the archive door every time you walk past it for three days. Your friend Jory thinks you're in love with someone in the Eyrie. I didn't correct him."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_4-1792788652686.mp3
+Rowan felt his ears go hot. He sat down on the step above her.
+"I need to look at the student rolls," he said. "From about twenty years ago. Maybe a bit less."
+Ilse closed her book.
+"Mistress Vell keeps the rolls in the far vault," she said slowly. "Nobody's allowed back there but her. Not even me." She looked at him for the first time, with her sharp, unreadable face. "Why?"
+"I can't tell you."
+"Then I can't help you."
+They sat in silence for a while. The lamp hissed softly. Somewhere above them, very faintly, the bells were ringing for the end of supper.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_5-1792788661321.mp3
+"The table," Ilse said at last. "In the Great Hall, on the first night. The marks under your hands, like the veins of a leaf. And the night of the wagons, when that man's rod went mad." Her voice was quiet and very level. "I've been watching you, Ashby. Everyone else thinks you're a Blank. I don't think you're a Blank at all. I think you're something nobody has a name for any more, and I think you know it, and I think you're frightened." She paused. "Tell me I'm wrong."
+Rowan opened his mouth, and found that he could not.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_6-1792788673221.mp3
+"I don't know what I am," he said finally. It was the truest thing he had said to anyone since leaving the clearing. "That's why I need the rolls. I think my mother was a student here. I think she might have been… like me. And I think somebody tried very hard to make sure nobody would ever find out."
+Ilse looked at him for a long moment. Then she reached up, almost absently, and ran her thumb along the old white scar on the back of her left hand.
+"My mother's not in any rolls," she said. "I don't even know her name. The herb-woman found me on her doorstep in Fernhollow when I was three, with this on my hand and a blanket that smelled of smoke, and that's all anyone knows." She stood up, picking up the lamp. "Mistress Vell goes up to the Warden's tower every Thursday after the ninth bell. She's usually gone an hour."
+Today was Thursday.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_7-1792788686859.mp3
+The far vault lay at the very end of the archive, behind a door of iron-bound oak that Ilse opened with a key she should not have had.
+"She keeps a spare under the ink pots," Ilse whispered. "She thinks nobody knows."
+Inside, the air was cold and dry and smelled of dust and old leather. The lamp threw their shadows huge and wavering across the vaulted ceiling. Shelves ran from floor to roof on every side, crammed with ledgers — hundreds of them, thousands, bound in faded green and brown and black, their spines labelled in Maren's small, precise hand with years and villages and words Rowan did not understand.
+MARKINGS: SOUTHERN FOREST. MARKINGS: NORTHERN PASSES. ADMISSIONS. DEPARTURES. INFIRMARY. DISCIPLINE.
+"Three hundred years," Ilse breathed. "Every child who ever touched a Stone."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_8-1792788696260.mp3
+They started with the student rolls, because that was what Rowan had asked for, and quickly realised it was hopeless. Each year's roll was as thick as a loaf of bread, and listed every student by name, house and village, in alphabetical order. Without his mother's name before she married — and Rowan realised, with a hollow feeling in his stomach, that he did not know it — they could have searched all night.
+"Departures," said Ilse suddenly. "If she left to get married, she'd be written down under her married name as well. That's how Mistress Vell does it. Everyone who leaves gets a line in the Departures book, and a note to say why."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_9-1792788708101.mp3
+The Departures ledgers were thinner. They found the right decade on the third shelf, and Ilse ran her finger down the A's, page by page, year by year, her lips moving silently. Rowan held the lamp, and tried to keep it from shaking.
+On the fourth page of the fifth year, her finger stopped.
+ASHBY, Elinor (formerly Elinor Reyne, of Mossbridge). Married Cade Ashby, of Brackenford.
+And then, beneath it, in a different hand — harder, blacker, pressed so deep into the paper that the nib had scored it:
+WITHDRAWN. Record to be sealed. By order of the Warden.
+And two initials: A. M.
+Rowan stared at the letters until they swam.
+"Aldith Merrow," Ilse said quietly. "She's been Warden for forty years."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_10-1792788722083.mp3
+"Elinor," said Rowan. He had always known his mother's name; Bram had given him that much, at least. But he had never seen it written down before. It looked smaller than he had imagined. "Elinor Reyne. From Mossbridge."
+Jory's town. They had stopped there on the way north, and he had stood on the landing stage among the barges and never known that his mother had once walked those same streets.
+"Now we can find her in the rolls," said Ilse, already moving.
+It took them a quarter of an hour to find the right year, and another five minutes to find the right page. Ilse laid the heavy ledger open on the reading desk, and Rowan held the lamp close.
+REYNE, Elinor. Mossbridge. House: —
+The space where her house should have been was empty. And in the next column, where every other student on the page had a single neat symbol beside their name — a triangle, a wavy line, a spiral, a small circle — there was only a thick, ugly blot of black ink, scrubbed into the paper so hard that it had worn almost through.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_11-1792788732395.mp3
+Rowan touched it with one fingertip. It felt rough, like a scar.
+"Someone wanted that gone," he said.
+Ilse was frowning. She bent low over the page, so close that her nose almost touched it, and then she did something Rowan did not expect. She took a stub of charcoal from her pocket — the kind the archivists used for marking shelves — and a scrap of thin paper from the desk, laid the paper over the blot, and began very gently to rub the charcoal across it.
+"Whoever wrote the original pressed hard," she murmured. "Mistress Vell always does. You can scrub out the ink, but you can't scrub out the dent."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_12-1792788744106.mp3
+Slowly, line by line, shapes appeared on the paper, pale against the charcoal grey.
+Not one symbol.
+Two.
+A wavy line, and beside it a spiral. Water, and Air.
+For a long moment, neither of them said anything. Rowan could hear his own blood thudding in his ears. Somewhere far off, a long way above them, a door banged.
+"Two," Ilse whispered. "She was Marked twice."
+The pedlar's voice came back to Rowan across the weeks, as clearly as if she were standing in the vault beside him. Marked twice, those folk were. Folk with two never did last long on the open road, did they?
+He had not realised that he was gripping the edge of the desk until his knuckles began to ache.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_13-1792788760243.mp3
+It was Ilse who noticed the paper.
+It had been tucked between the pages of the roll, a little further on, folded so many times that it was barely thicker than a leaf. When Ilse lifted the ledger to close it, it slid out and fluttered to the floor at Rowan's feet.
+He picked it up and unfolded it with clumsy fingers.
+It was a sketch, in brown ink faded almost to nothing: the frame of a glasshouse, drawn with great care, every twist and branch of the living wood traced in fine, quick lines. Beside it, in the margin, someone had drawn a row of small saplings in their tubs, all leaning the same way. And underneath, in a slanting, rapid hand, a single line:
+They lean towards me. Why?
+It was signed with one initial. E.
+Rowan knew that handwriting. He had seen it only once, by the light of dying embers, through a crack in the floor of a loft — on a yellowed letter that Bram had taken from beneath the hearthstone and read twice and hidden away again.
+Whatever happens, Bram — do not let them test him.
+The same quick, slanting letters. The same impatient tail on the y.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_14-1792788773853.mp3
+"Rowan." Ilse's hand closed on his arm. "Someone's coming."
+Footsteps on the archive stairs. Slow, deliberate, and coming closer.
+There was no time to put anything back. Ilse snatched the lamp and blew it out, and they pressed themselves into the narrow gap between the last shelf and the wall, in the cold and the dark, hardly daring to breathe. Rowan still had the sketch crumpled in one fist.
+The vault door creaked. Lamplight spilled across the floor.
+Maren Vell stood in the doorway. She was alone. She did not call out. She simply stood there for a long moment, looking at the reading desk, where the great roll still lay open at the page with the blot of black ink. Then she walked over to it, slowly, as though her feet hurt, and stood looking down at the page.
+She touched the blot with one ink-stained finger, exactly as Rowan had done.
+"Oh, Elinor," she said, so softly that he barely heard it. "I did warn you."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_15-1792788783297.mp3
+She closed the ledger. She carried it back to its place on the shelf — not three feet from where Rowan and Ilse stood frozen in the dark — and slid it home. Then she walked back to the door, and paused there with her hand on the frame.
+"The archive closes at the tenth bell," she said, quite clearly, to the empty room. "I lock the outer door myself. It would be a great pity if anyone were shut in for the night. The vaults are very cold, and the rats have no respect for anybody."
+The door closed behind her. Her footsteps faded up the stairs.
+It was a long time before either of them moved.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_8.page_16-1792788799399.mp3
+That night, in his alcove at Hearthside, with the curtain drawn and a candle stub burning low on the shelf, Rowan smoothed the crumpled sketch out on his knee and looked at it until his eyes ached.
+They lean towards me. Why?
+Twenty years ago, his mother had sat in the same glasshouse, among the same saplings, and asked the same question. She had been Marked twice — Water and Air — and someone had scrubbed it out of the records so hard that the paper had nearly torn. The Warden herself had ordered her record sealed. Maren Vell had warned her about something, and had known that someone was hiding in the vault tonight, and had let them go.
+And somewhere beneath the hearthstone in the clearing, there was a letter in his mother's hand that said do not let them test him.
+He folded the sketch very small, and put it inside the oak leaf in Bram's letter, and put both under his pillow. Then he lay back in the dark and listened to the great roots of Hearthside creak and settle around him, and did not sleep at all.
