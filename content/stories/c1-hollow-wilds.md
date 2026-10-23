@@ -696,3 +696,111 @@ The light was turning orange by the time he reached the end of the last table an
 He turned around, and stopped.
 The saplings along the back wall were no longer leaning towards the windows. Every one of them, all down the row, had turned in its tub — slowly, the way a sunflower follows the sun across a field — and was leaning, very slightly, towards him.
 "Well, now," said a voice from somewhere among the ferns, dry and cracked and very old. "There's a thing I haven't seen in a long, long time."
+
+# The Keeper of Roots
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_1-1792787580065.mp3
+The ferns parted, and an old man shuffled out from between them.
+He was the oldest person Rowan had ever seen — older, surely, than the Warden, whatever Jory's uncle claimed. He was small and bent nearly double, like a tree that has grown for a century against the wind, and he leaned on a stick of polished blackthorn as gnarled as his own knuckles. His face was so wrinkled that his eyes had almost disappeared into it, and one of them was clouded milk-white. The other was a sharp, bright, earthy brown, and it was fixed on the row of saplings with an expression Rowan could not read.
+"I—I'm sorry," Rowan said. "Mistress Crane sent me. She said you needed help. I didn't mean to move anything that—"
+"You didn't move them." The old man limped past him, ignoring him entirely, and stopped in front of the nearest sapling. He reached out a hand that shook like a dry leaf and laid it, very gently, against the slender trunk. "They moved. There's a difference, boy, and it's the only difference that matters in this place."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_2-1792787595504.mp3
+He stood there for a long time with his palm against the bark and his good eye half-closed, and Rowan, watching him, felt a jolt of recognition so strong that it was almost painful. He had seen exactly that gesture a thousand times. Bram, deep in the woods, his hand flat against a trunk. Listening.
+"Seventy-one years," the old man said at last, softly, to the tree. "Seventy-one years I've been coaxing you lot along, and you've never once turned your heads for me." He opened his eye and looked at Rowan properly for the first time, up and down, from his earth-blackened gloves to his untidy hair. "What's your name?"
+"Rowan. Rowan Ashby."
+"Rowan." The old man's mouth twitched. "Of course it is. Somebody had a sense of humour." He held out his trembling hand. "Moss. Old Moss, they call me, though I was young Moss once, before you were thought of. I keep the glasshouses. And a few other things besides."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_3-1792787611669.mp3
+Old Moss, Rowan learned over the following week, had been the gardener at Thornhall for seventy-one years, and his father before him, and his grandmother before that, in a line that went back further than anyone had bothered to count. He was Earth, but only just — "enough to tell a stone from a turnip," he said, "and not a great deal more." He lived in a tiny lean-to at the end of the fifth glasshouse, among sacks of bonemeal and coils of twine, and nobody at the Academy seemed to remember that he was there unless something died.
+He was also, Rowan quickly discovered, the most infuriating teacher he had ever had.
+He did not explain anything. He set Rowan to work — potting, pruning, watering, scraping moss from the cracked panes — and then sat on an upturned bucket and watched him, sucking on an unlit pipe, saying nothing for hours at a time. When Rowan asked a question, Moss would answer it with another question, or a grunt, or not at all. Once, when Rowan asked him directly why the saplings had turned, Moss looked at him for a long moment and said, "Why does a dog wag its tail?" and then refused to say another word for the rest of the afternoon.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_4-1792787624174.mp3
+But he watched. Always, he watched. And slowly, Rowan began to understand that the work was not the point.
+On the fourth day, Moss handed him a seed.
+It was small and dark and wrinkled, like a dried pea, and it lay in the middle of his palm looking utterly unremarkable.
+"Plant it," said Moss. "Over there, in the clay pot. Then sit with it."
+"Sit with it?"
+"You've ears, haven't you? Sit with it." Moss settled back onto his bucket. "Don't push. Don't pull. Don't do any of that nonsense Crane teaches up the hill — find the bottom of your Well, draw a little breath." He spat the words out with mild contempt. "That's how you move a feather. Feathers don't care. This does. Just sit, and listen to it, and let it listen to you."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_5-1792787636418.mp3
+So Rowan planted the seed, and sat beside the pot on the warm stone floor, and listened, feeling extremely foolish.
+Nothing happened. He did not expect anything to happen. He sat for an hour, and then for another, while the sun moved across the glass and the shadows of the twisted wooden frames crept slowly across the floor. After a while, he stopped feeling foolish. After a longer while, he stopped thinking at all. He found himself breathing more slowly, the way he did in the forest at home on the long, still afternoons when he sat on the stump and waited for Bram to finish marking a tree. The glasshouse was very quiet. Somewhere a drop of water fell, and then another.
+And beneath the quiet, so faint that at first he thought it was his own pulse, there was something else.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_6-1792787645572.mp3
+Not a sound. Not quite a feeling. More like the sense you have, in a dark room, that you are not alone in it. Small and slow and patient and very, very far down, something in the clay pot was stirring in its sleep — and, somewhere inside Rowan, in the deep dark place that had clenched like a fist every morning for three weeks, something stirred in answer.
+Not a recoil this time. Not a fist. Just a single, quiet thread, rising on its own.
+Rowan opened his eyes.
+A pale green shoot, no longer than his fingernail, had pushed its way up through the clay.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_7-1792787660457.mp3
+Old Moss did not get up from his bucket. He did not say well done, or I knew it, or anything at all. He simply sat and looked at the shoot for a long time, sucking on his cold pipe, while Rowan's heart hammered against his ribs.
+"Seeds sprout," Moss said at last. "It's warm in here. Damp. Could be nothing."
+"In two hours?"
+"I said could be." The good eye flicked up to Rowan's face, sharp as a needle. "And that's what you'll say too, if anyone asks. Which they won't, if you've the sense you were born with. Seeds sprout. Saplings lean. The glasshouses are old and the wood in the frames shifts with the weather. Nothing to see here but a Blank boy with dirty hands, doing the work nobody else wants." He paused. "Understood?"
+Rowan swallowed. "You sound like my uncle."
+"Then your uncle's a man with his head screwed on." Moss heaved himself to his feet with a grunt and a crackle of old joints. "Come on. Bring the lamp. There's something you should see, and I'd sooner show you now than wait and find I've died first."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_8-1792787672920.mp3
+At the far end of the fifth glasshouse, behind Moss's lean-to and a wall of stacked flowerpots taller than Rowan, there was a door in the floor.
+It was made of the same dark, living wood as the glasshouse frames, and it had no handle and no lock — only a shallow hollow in the centre, the shape of an open palm. Moss lowered himself stiffly to his knees and laid his hand in it. For a moment nothing happened. Then, with a creak like a great tree bending in the wind, the wood shifted beneath his hand, and the door swung slowly upward on hinges Rowan could not see.
+Below, a flight of narrow steps led down into darkness that smelled of earth and old paper.
+"It knows me," said Moss, a little breathlessly. "Took it forty years to make up its mind, mind you. My grandmother said it took her even longer."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_9-1792787683745.mp3
+The cellar was small and round and very dry, and its walls were not walls at all, but roots: hundreds of them, thick and thin, woven together like the strands of a basket, holding back the earth on every side. And in among the roots, tucked into hollows and niches where the woven wood had curled around them like cupped hands, there were books.
+Dozens of them. Perhaps a hundred. Fat and thin, bound in leather and in bark and in what looked like pressed leaves, their spines cracked and darkened with age. Some were no bigger than Rowan's palm. One, on a shelf of root by itself, was so large that it would have taken two people to lift it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_10-1792787696554.mp3
+"The Root Books," said Moss quietly. "Everything the Wood-wardens ever wrote down about the Wood — what it is, and how it works, and how they taught it. When the last of them died, three hundred years ago, the Wardens of the day wanted to burn the lot. Said it was dangerous to keep teaching a thing nobody could do any more. Said it gave the children ideas." He snorted. "So the gardener of the day — my great-great-I-don't-know-how-many-greats-grandfather — carried them down here one night in a wheelbarrow, under a load of manure, and the cellar closed up behind him. And there they've stayed. My family's kept them ever since. Keepers of Roots, the Wood-wardens used to call us. Nobody's called us that in a long time."
+Rowan reached out, very carefully, and touched the spine of the nearest book. The leather was soft and cool. The title had been stamped into it in letters so old-fashioned that he could make out only one word.
+LISTENING.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_11-1792787708626.mp3
+"Can I read them?"
+"You can try. Half of them are in the old hand, and the other half might as well be." Moss lowered himself onto a stool that seemed to have grown out of the floor. "I can make out a little. Not much. I'm a gardener, not a scholar. But I know what they say about the first signs, because my grandmother made me learn it by heart when I was younger than you." He closed his good eye, and recited, in a slow, sing-song voice, like a child repeating a lesson:
+"The Wood does not answer the Stone, for the Wood is older than the Stone. It answers the living. Look not for fire in the hand, nor wind at the call. Look for the green that turns its face, and the seed that wakes before its season."
+In the silence that followed, Rowan could hear his own heartbeat.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_12-1792787719644.mp3
+"I'm not saying that's you," said Moss, opening his eye. "I'm not saying anything. I'm a silly old man who talks to cabbages. But you'll come here every day Crane sends you, and you'll work, and in between the work you'll sit with my seeds, and we'll see what we see. And you'll tell nobody. Not your friends. Not Crane. Not Vell, for all she means well." His voice dropped. "Thornhall's walls are thick, boy, but they've cracks in them, same as any walls. There's folk in this world who go looking for unusual Wells, and they're not looking to give them prizes."
+Rowan thought of a pleasant, ordinary voice in the darkness. Not worth the stop. He nodded.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_13-1792787731770.mp3
+They climbed back up into the warm green light of the glasshouse, and the door in the floor sank shut behind them with a soft wooden sigh. Rowan was halfway to the terrace steps, his head spinning, when Moss spoke again behind him.
+"Ashby."
+He turned. The old man was standing among the saplings, one hand resting on the nearest trunk, his face unreadable in the dusk.
+"I told you I'd not seen them turn in seventy-one years," he said slowly. "That wasn't quite true. They did it once before. Just a little. Just for a moment." He looked down at the sapling under his hand. "Twenty years ago, give or take. There was a student came down here to sketch the old frames, and they leaned towards her, the way they leaned towards you today. She couldn't explain it any more than you can. Clever girl. Asked a great many questions."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_7.page_14-1792787738810.mp3
+Rowan's mouth had gone dry. "What was her name?"
+"I'm a hundred and something, boy. I can barely remember my own." Moss turned back towards his lean-to. "But she spent half her time in the archives with young Vell, I remember that much. If anyone's kept a record of her, it'll be the Keeper of Records."
+The lamp went out in the lean-to, and Rowan stood alone on the terrace, in the cooling dusk, with the saplings watching him through the glass.

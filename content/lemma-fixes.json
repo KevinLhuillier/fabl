@@ -49,9 +49,21 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "besides",
+      "pos": "SCONJ",
+      "word": "besides",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "blacksmith",
       "pos": "PROPN",
       "word": "blacksmith",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "blackthorn",
+      "pos": "VERB",
+      "word": "blackthorn",
       "lemmaPos": "NOUN"
     },
     {
@@ -158,6 +170,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Damp",
+      "pos": "PROPN",
+      "word": "damp",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "deeper",
       "pos": "ADV",
       "word": "deep",
@@ -173,6 +191,12 @@
       "text": "dipping",
       "pos": "NOUN",
       "word": "dip",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "don't",
+      "pos": "NUM",
+      "word": "do",
       "lemmaPos": "VERB"
     },
     {
@@ -210,6 +234,18 @@
       "pos": "NOUN",
       "word": "Fall",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "fashioned",
+      "pos": "ADJ",
+      "word": "old-fashioned",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Fat",
+      "pos": "PROPN",
+      "word": "fat",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "featured",
@@ -370,6 +406,12 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "I'm",
+      "pos": "PRON",
+      "word": "I",
+      "lemmaPos": "PRON"
+    },
+    {
       "text": "indrawn",
       "pos": "VERB",
       "word": "indrawn",
@@ -403,6 +445,19 @@
       "text": "knelt",
       "pos": "NOUN",
       "word": "kneel",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "know",
+      "pos": "NOUN",
+      "word": "know",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "lean",
+      "pos": "ADJ",
+      "next": ".",
+      "word": "lean",
       "lemmaPos": "VERB"
     },
     {
@@ -534,6 +589,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "old",
+      "pos": "ADV",
+      "next": "-",
+      "word": "old",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "olds",
       "pos": "NOUN",
       "word": "year-old",
@@ -576,6 +638,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "potting",
+      "pos": "ADJ",
+      "word": "potting",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Probationary",
       "pos": "PROPN",
       "word": "probationary",
@@ -598,6 +666,12 @@
       "pos": "NOUN",
       "word": "quiet",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "quite",
+      "pos": "DET",
+      "word": "quite",
+      "lemmaPos": "ADV"
     },
     {
       "text": "rang",
@@ -674,11 +748,23 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Seventy",
+      "pos": "NOUN",
+      "word": "seventy",
+      "lemmaPos": "NUM"
+    },
+    {
       "text": "sharp",
       "pos": "ADV",
       "next": "-",
       "word": "sharp",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "shifts",
+      "pos": "NOUN",
+      "word": "shift",
+      "lemmaPos": "VERB"
     },
     {
       "text": "shining",
@@ -696,6 +782,13 @@
       "text": "silvery",
       "pos": "NOUN",
       "word": "silvery",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "sing",
+      "pos": "NOUN",
+      "next": "-",
+      "word": "sing-song",
       "lemmaPos": "ADJ"
     },
     {
@@ -730,6 +823,18 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "spinning",
+      "pos": "NOUN",
+      "word": "spin",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "sprout",
+      "pos": "NOUN",
+      "word": "sprout",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "stared",
       "pos": "VERB",
       "word": "stare",
@@ -740,6 +845,12 @@
       "pos": "VERB",
       "word": "stare",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "stiffly",
+      "pos": "VERB",
+      "word": "stiffly",
+      "lemmaPos": "ADV"
     },
     {
       "text": "stillest",
@@ -797,6 +908,24 @@
       "lemmaPos": "SCONJ"
     },
     {
+      "text": "to",
+      "pos": "NOUN",
+      "word": "lean-to",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Took",
+      "pos": "VERB",
+      "word": "take",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "trembling",
+      "pos": "NOUN",
+      "word": "tremble",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "turf",
       "pos": "ADJ",
       "word": "turf",
@@ -812,6 +941,12 @@
       "text": "twitch",
       "pos": "NOUN",
       "word": "twitch",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "Understood",
+      "pos": "PROPN",
+      "word": "understand",
       "lemmaPos": "VERB"
     },
     {
