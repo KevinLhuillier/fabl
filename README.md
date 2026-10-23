@@ -280,6 +280,11 @@ right lemma. Then republish the affected stories and translate the new lemma.
 { "fixes": [{ "text": "soles", "pos": "NOUN", "word": "sole", "lemmaPos": "NOUN" }] }
 ```
 
+A fix can be limited to one context with `next`, the text of the following token (punctuation
+included); it wins over the fix without `next`. "Well" is always the Well of _Hollow Wilds_,
+except before a comma:
+`{ "text": "Well", "pos": "INTJ", "next": ",", "word": "well", "lemmaPos": "INTJ" }`.
+
 ## Scripts
 
 | Command                              | What it does                                 |

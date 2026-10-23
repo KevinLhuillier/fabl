@@ -2,6 +2,12 @@
   "lang": "de",
   "entries": [
     {
+      "word": "'d better",
+      "pos": "PHRASE",
+      "translation": "sollte besser („you'd better“ = „you had better“: du solltest besser)",
+      "example": "\"Then you'd better hurry,\" said Nuage."
+    },
+    {
       "word": "'s",
       "pos": "PART",
       "translation": "Zeichen des Besitzes („von“)",
@@ -22,6 +28,12 @@
       "word": "a few",
       "pos": "PHRASE",
       "translation": "ein paar, einige"
+    },
+    {
+      "word": "a lot",
+      "pos": "PHRASE",
+      "translation": "viel",
+      "example": "Humans talk a lot, but sometimes what they say is interesting."
     },
     {
       "word": "a lot of",
@@ -228,6 +240,12 @@
     },
     {
       "word": "all",
+      "pos": "ADV",
+      "translation": "ganz, völlig („at all“: überhaupt)",
+      "example": "I could tell she had not slept at all."
+    },
+    {
+      "word": "all",
       "pos": "DET",
       "translation": "alle, ganz",
       "example": "While the doctors carried him to his tent, Edwin went back to examine the horse. Something about the fall had seemed strange to him."
@@ -260,6 +278,12 @@
       "pos": "ADP",
       "translation": "entlang",
       "example": "Bandits have been attacking villages along the southern road."
+    },
+    {
+      "word": "aloud",
+      "pos": "ADV",
+      "translation": "laut („read aloud“: vorlesen)",
+      "example": "\"LOST CAT,\" he read aloud from his phone, where he had taken a photo of the poster."
     },
     {
       "word": "already",
@@ -340,10 +364,22 @@
       "example": "\"I swear it,\" Edwin answered, his voice steady."
     },
     {
+      "word": "answer to the name",
+      "pos": "PHRASE",
+      "translation": "auf den Namen … hören",
+      "example": "Ginger, one white paw, answers to the name Pistache."
+    },
+    {
       "word": "any",
       "pos": "DET",
       "translation": "etwas; irgendein",
       "example": "\"And neither, if you've any sense, do you.\""
+    },
+    {
+      "word": "anymore",
+      "pos": "ADV",
+      "translation": "nicht mehr („not anymore“: nicht mehr)",
+      "example": "I couldn't smell the bread anymore."
     },
     {
       "word": "anyone",
@@ -386,6 +422,12 @@
       "pos": "NOUN",
       "translation": "der Apfel",
       "example": "At noon they sat on the stump to eat — black bread, a wedge of hard cheese, two wrinkled apples from the cellar."
+    },
+    {
+      "word": "apron",
+      "pos": "NOUN",
+      "translation": "die Schürze",
+      "example": "Her apron was covered in flour, and soon my fur was too."
     },
     {
       "word": "argue",
@@ -530,6 +572,12 @@
       "pos": "ADP",
       "translation": "an, bei, in",
       "example": "At my house. — Bei mir zu Hause."
+    },
+    {
+      "word": "at",
+      "pos": "ADV",
+      "translation": "(in „at all“: überhaupt)",
+      "example": "I could tell she had not slept at all."
     },
     {
       "word": "at all",
@@ -745,6 +793,12 @@
       "example": "My heart was beating like a drum."
     },
     {
+      "word": "beautiful",
+      "pos": "ADJ",
+      "translation": "schön, wunderschön",
+      "example": "My beautiful ginger fur looked like an old, dirty carpet."
+    },
+    {
       "word": "because",
       "pos": "SCONJ",
       "translation": "weil",
@@ -796,6 +850,12 @@
       "pos": "VERB",
       "translation": "glauben",
       "example": "I was twenty, and I believed that being a knight meant winning."
+    },
+    {
+      "word": "bell",
+      "pos": "NOUN",
+      "translation": "die Glocke, die Klingel",
+      "example": "When the little bell above the door rang, Léa looked up from the counter."
     },
     {
       "word": "belly",
@@ -856,6 +916,12 @@
       "pos": "ADP",
       "translation": "zwischen",
       "example": "Godfrey was pale with pain, his leg tied between two wooden boards."
+    },
+    {
+      "word": "bicycle",
+      "pos": "NOUN",
+      "translation": "das Fahrrad",
+      "example": "There were old boxes, a broken bicycle and a smell of dust and soap."
     },
     {
       "word": "big",
@@ -954,10 +1020,34 @@
       "example": "He caught Rowan watching and made a great show of blowing the spark out like a birthday candle."
     },
     {
+      "word": "blue",
+      "pos": "ADJ",
+      "translation": "blau",
+      "example": "The next morning, the sky was clean and blue."
+    },
+    {
       "word": "board",
       "pos": "NOUN",
       "translation": "das Brett",
       "example": "Godfrey was pale with pain, his leg tied between two wooden boards."
+    },
+    {
+      "word": "boat",
+      "pos": "NOUN",
+      "translation": "das Boot, das Schiff",
+      "example": "Two little sailors who lost their boat."
+    },
+    {
+      "word": "body",
+      "pos": "NOUN",
+      "translation": "der Körper",
+      "example": "I found a small space under a chimney and pressed my body against the bricks."
+    },
+    {
+      "word": "bone",
+      "pos": "NOUN",
+      "translation": "der Knochen",
+      "example": "I was wet to the bone."
     },
     {
       "word": "boot",
@@ -994,6 +1084,12 @@
       "pos": "NOUN",
       "translation": "die Schüssel, der Napf",
       "example": "I have a bowl that is never empty, a sofa, a sunny spot in the afternoon and a human who loves me."
+    },
+    {
+      "word": "box",
+      "pos": "NOUN",
+      "translation": "die Kiste, die Schachtel",
+      "example": "There were old boxes, a broken bicycle and a smell of dust and soap."
     },
     {
       "word": "boy",
@@ -1054,6 +1150,12 @@
       "pos": "VERB",
       "translation": "atmen",
       "example": "Godfrey was alive, but his leg was badly broken and he could barely breathe."
+    },
+    {
+      "word": "brick",
+      "pos": "NOUN",
+      "translation": "der Ziegel(stein)",
+      "example": "I found a small space under a chimney and pressed my body against the bricks."
     },
     {
       "word": "brief",
@@ -1182,6 +1284,12 @@
       "example": "It smells like butter and home."
     },
     {
+      "word": "buy",
+      "pos": "VERB",
+      "translation": "kaufen",
+      "example": "Then he came to the bakery and bought a croissant."
+    },
+    {
       "word": "by",
       "pos": "ADP",
       "translation": "von, durch („by waiting“: indem man wartet)",
@@ -1248,6 +1356,12 @@
       "example": "There are many cars. — Da sind viele Autos."
     },
     {
+      "word": "care",
+      "pos": "VERB",
+      "translation": "sich kümmern („I don't care“: das ist mir egal)",
+      "example": "I didn't care."
+    },
+    {
       "word": "careful",
       "pos": "ADJ",
       "translation": "vorsichtig („be careful“: pass auf)",
@@ -1264,6 +1378,12 @@
       "pos": "ADJ",
       "translation": "nachlässig, unvorsichtig",
       "example": "Edwin stepped aside, again and again, until the bandit grew tired and careless."
+    },
+    {
+      "word": "carpet",
+      "pos": "NOUN",
+      "translation": "der Teppich",
+      "example": "My beautiful ginger fur looked like an old, dirty carpet."
     },
     {
       "word": "carry",
@@ -1351,6 +1471,12 @@
     },
     {
       "word": "change",
+      "pos": "NOUN",
+      "translation": "die Veränderung",
+      "example": "The first change was small."
+    },
+    {
+      "word": "change",
       "pos": "VERB",
       "translation": "ändern, wechseln („change the subject“: das Thema wechseln)",
       "example": "They said it the way people mention a ghost — quickly, and then they changed the subject."
@@ -1362,10 +1488,22 @@
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
     },
     {
+      "word": "Charbon",
+      "pos": "PROPN",
+      "translation": "Charbon (Katzenname, „Kohle“)",
+      "example": "And that's Charbon."
+    },
+    {
       "word": "chase",
       "pos": "VERB",
       "translation": "verfolgen, jagen",
       "example": "I chased a defeated enemy into a forest because I wanted the glory of capturing him."
+    },
+    {
+      "word": "chase away",
+      "pos": "PHRASE",
+      "translation": "verjagen, wegjagen",
+      "example": "I expected him to shout or to chase us away."
     },
     {
       "word": "cheaply",
@@ -1404,6 +1542,12 @@
       "example": "He lost his balance, Hugh's lance hit him in the chest, and the old knight crashed to the ground."
     },
     {
+      "word": "chicken",
+      "pos": "NOUN",
+      "translation": "das Hähnchen, das Huhn",
+      "example": "Instead, he went back into his flat and returned with an old towel and a plate of chicken."
+    },
+    {
       "word": "child",
       "pos": "NOUN",
       "translation": "das Kind",
@@ -1414,6 +1558,12 @@
       "pos": "NOUN",
       "translation": "der Schornstein",
       "example": "I can see the street, the rooftops and the chimneys, and far away, the lights of the city."
+    },
+    {
+      "word": "chin",
+      "pos": "NOUN",
+      "translation": "das Kinn",
+      "example": "I pressed my head against her chin and purred as loudly as I could."
     },
     {
       "word": "chocolate",
@@ -1492,6 +1642,12 @@
       "pos": "NOUN",
       "translation": "der Umhang, der Mantel",
       "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
+    },
+    {
+      "word": "close",
+      "pos": "ADJ",
+      "translation": "nah („too close“: zu nah)",
+      "example": "She watched Albert from the wall with her yellow eyes, and she ran away when he came too close."
     },
     {
       "word": "close",
@@ -1592,8 +1748,14 @@
     {
       "word": "come on",
       "pos": "PHRASE",
-      "translation": "komm!, los!",
+      "translation": "komm!, los!; (Licht) angehen",
       "example": "Come on, Ice Cream."
+    },
+    {
+      "word": "come up",
+      "pos": "PHRASE",
+      "translation": "hochkommen, heraufkommen („come back up“: wieder hochkommen)",
+      "example": "\"Léa will come back up at seven to feed me.\""
     },
     {
       "word": "command",
@@ -1728,6 +1890,12 @@
       "example": "The Marking always fell on the first morning of Leaf-Fall, as regular as the first frost, and he had been counting the days since midsummer."
     },
     {
+      "word": "counter",
+      "pos": "NOUN",
+      "translation": "die Theke, der Ladentisch",
+      "example": "When the little bell above the door rang, Léa looked up from the counter."
+    },
+    {
       "word": "county",
       "pos": "NOUN",
       "translation": "die Grafschaft",
@@ -1794,6 +1962,12 @@
       "example": "Come on, Ice Cream."
     },
     {
+      "word": "croissant",
+      "pos": "NOUN",
+      "translation": "das Croissant",
+      "example": "Then he came to the bakery and bought a croissant."
+    },
+    {
       "word": "Croix",
       "pos": "PROPN",
       "translation": "Croix (in „Croix-Rousse“, Hügel in Lyon)",
@@ -1852,6 +2026,12 @@
       "pos": "VERB",
       "translation": "weinen, schreien",
       "example": "Then, to everyone's surprise, he began to cry."
+    },
+    {
+      "word": "cupboard",
+      "pos": "NOUN",
+      "translation": "der Schrank",
+      "example": "Albert found an old basket in a cupboard."
     },
     {
       "word": "curl",
@@ -2088,6 +2268,12 @@
       "example": "She glanced nervously towards the door."
     },
     {
+      "word": "doorway",
+      "pos": "NOUN",
+      "translation": "die Türöffnung, der Türrahmen",
+      "example": "An old man stood in the doorway, wearing a brown dressing gown."
+    },
+    {
       "word": "down",
       "pos": "ADP",
       "translation": "hinunter, nach unten",
@@ -2118,6 +2304,12 @@
       "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
     },
     {
+      "word": "drainpipe",
+      "pos": "NOUN",
+      "translation": "das Fallrohr, das Regenrohr",
+      "example": "We went down a drainpipe, crossed a little courtyard and squeezed under a wooden door that didn't close properly."
+    },
+    {
       "word": "draw",
       "pos": "VERB",
       "translation": "zeichnen; schöpfen („draw on“: schöpfen aus)",
@@ -2130,10 +2322,28 @@
       "example": "Bram had drawn the cart up beside the cooper's yard to unload."
     },
     {
+      "word": "dream",
+      "pos": "NOUN",
+      "translation": "der Traum",
+      "example": "Léa told him about her dream of opening a second bakery one day."
+    },
+    {
       "word": "dress",
       "pos": "NOUN",
       "translation": "das Kleid",
       "example": "Her dress is dirty. — Ihr Kleid ist schmutzig."
+    },
+    {
+      "word": "dressing",
+      "pos": "NOUN",
+      "translation": "(in „dressing gown“: Morgenmantel)",
+      "example": "An old man stood in the doorway, wearing a brown dressing gown."
+    },
+    {
+      "word": "dressing gown",
+      "pos": "PHRASE",
+      "translation": "der Morgenmantel, der Bademantel",
+      "example": "An old man stood in the doorway, wearing a brown dressing gown."
     },
     {
       "word": "drift",
@@ -2152,6 +2362,12 @@
       "pos": "VERB",
       "translation": "trinken",
       "example": "She opened the kitchen window to let some air in, drank her coffee in two seconds and ran downstairs."
+    },
+    {
+      "word": "driver",
+      "pos": "NOUN",
+      "translation": "der Fahrer („train driver“: Lokführer)",
+      "example": "He told Léa about Jeanne, about the silk workers of the Croix-Rousse, about his job as a train driver forty years ago."
     },
     {
       "word": "drop",
@@ -2178,10 +2394,22 @@
       "example": "The men dug a ditch across the main road and filled it with dry branches."
     },
     {
+      "word": "dry",
+      "pos": "VERB",
+      "translation": "trocknen, abtrocknen",
+      "example": "But when Albert sat down on a box and started to dry my head with the towel, I began to purr."
+    },
+    {
       "word": "dusk",
       "pos": "NOUN",
       "translation": "die Abenddämmerung",
       "example": "\"Gone between dusk and dawn."
+    },
+    {
+      "word": "dust",
+      "pos": "NOUN",
+      "translation": "der Staub",
+      "example": "There were old boxes, a broken bicycle and a smell of dust and soap."
     },
     {
       "word": "duty",
@@ -2266,6 +2494,18 @@
       "pos": "NOUN",
       "translation": "das Ei",
       "example": "Rowan drifted closer, feigning an interest in a basket of eggs."
+    },
+    {
+      "word": "eh",
+      "pos": "INTJ",
+      "translation": "was?, nicht wahr?",
+      "example": "Answers to the name Pistache, eh?"
+    },
+    {
+      "word": "eighteen",
+      "pos": "NUM",
+      "translation": "achtzehn",
+      "example": "He lived with us for eighteen years."
     },
     {
       "word": "either",
@@ -2578,6 +2818,12 @@
       "example": "The old knight moved slowly these days, but his blade was still faster than most young men's."
     },
     {
+      "word": "fast",
+      "pos": "ADV",
+      "translation": "schnell",
+      "example": "Nuage ate first, very fast, as if someone could take the plate away."
+    },
+    {
       "word": "fasten",
       "pos": "VERB",
       "translation": "befestigen, festmachen",
@@ -2824,6 +3070,12 @@
       "example": "For a long time afterwards Bram stayed where he was, kneeling on the floor with both hands pressed flat against the hearthstone, as if holding it down."
     },
     {
+      "word": "flat",
+      "pos": "NOUN",
+      "translation": "die Wohnung",
+      "example": "Instead, he went back into his flat and returned with an old towel and a plate of chicken."
+    },
+    {
       "word": "flee",
       "pos": "VERB",
       "translation": "fliehen",
@@ -2840,6 +3092,12 @@
       "pos": "NOUN",
       "translation": "der Boden",
       "example": "His hands were not quite steady, and the knife slipped — a clean, shallow stroke that should have taken a curl of wood off the tail and sent it fluttering to the floor."
+    },
+    {
+      "word": "flour",
+      "pos": "NOUN",
+      "translation": "das Mehl",
+      "example": "Her apron was covered in flour, and soon my fur was too."
     },
     {
       "word": "flower",
@@ -2938,6 +3196,12 @@
       "example": "The script was formal and faintly impatient, the way official documents always seemed to be."
     },
     {
+      "word": "forty",
+      "pos": "NUM",
+      "translation": "vierzig",
+      "example": "He told Léa about Jeanne, about the silk workers of the Croix-Rousse, about his job as a train driver forty years ago."
+    },
+    {
       "word": "forward",
       "pos": "ADV",
       "translation": "vorwärts („step forward“: vortreten)",
@@ -3017,6 +3281,12 @@
     },
     {
       "word": "front",
+      "pos": "ADJ",
+      "translation": "vordere („front door“: die Haustür)",
+      "example": "Albert made coffee and opened the front door to look at the weather."
+    },
+    {
+      "word": "front",
       "pos": "NOUN",
       "translation": "die Vorderseite",
       "example": "When Sir Hugh passed in front of them, he looked at Godfrey with open contempt."
@@ -3038,6 +3308,12 @@
       "pos": "ADJ",
       "translation": "voll",
       "example": "He was a boy, younger than Edwin, with a bleeding arm and eyes full of fear."
+    },
+    {
+      "word": "fur",
+      "pos": "NOUN",
+      "translation": "das Fell",
+      "example": "My beautiful ginger fur looked like an old, dirty carpet."
     },
     {
       "word": "further",
@@ -3086,6 +3362,12 @@
       "pos": "NOUN",
       "translation": "die Generation",
       "example": "Her whole family's Earth, four generations back."
+    },
+    {
+      "word": "gentle",
+      "pos": "ADJ",
+      "translation": "sanft, lieb",
+      "example": "Very gentle."
     },
     {
       "word": "gently",
@@ -3147,6 +3429,12 @@
       "example": "She glanced nervously towards the door."
     },
     {
+      "word": "glasses",
+      "pos": "NOUN",
+      "translation": "die Brille",
+      "example": "He put on his glasses, crossed the street and read it."
+    },
+    {
       "word": "glory",
       "pos": "NOUN",
       "translation": "der Ruhm",
@@ -3205,6 +3493,12 @@
       "pos": "ADJ",
       "translation": "gut",
       "example": "Good night! — Gute Nacht!"
+    },
+    {
+      "word": "gown",
+      "pos": "NOUN",
+      "translation": "das Kleid, das Gewand",
+      "example": "An old man stood in the doorway, wearing a brown dressing gown."
     },
     {
       "word": "grandfather",
@@ -3464,6 +3758,12 @@
       "example": "Can you help me? — Kannst du mir helfen?"
     },
     {
+      "word": "help it",
+      "pos": "PHRASE",
+      "translation": "(„can't help it“: nicht anders können)",
+      "example": "I couldn't help it."
+    },
+    {
       "word": "her",
       "pos": "PRON",
       "translation": "sie, ihr; ihr, ihre (von ihr)",
@@ -3686,6 +3986,12 @@
       "example": "The night was warm, and Léa was in a hurry."
     },
     {
+      "word": "hurry",
+      "pos": "VERB",
+      "translation": "sich beeilen",
+      "example": "\"Then you'd better hurry,\" said Nuage."
+    },
+    {
       "word": "hurt",
       "pos": "VERB",
       "translation": "wehtun, verletzen",
@@ -3868,6 +4174,12 @@
       "example": "Rowan drifted closer, feigning an interest in a basket of eggs."
     },
     {
+      "word": "interesting",
+      "pos": "ADJ",
+      "translation": "interessant",
+      "example": "Humans talk a lot, but sometimes what they say is interesting."
+    },
+    {
       "word": "into",
       "pos": "ADP",
       "translation": "in, hinein (mit Bewegung)",
@@ -3914,6 +4226,18 @@
       "pos": "NOUN",
       "translation": "der Kiefer",
       "example": "Bram's jaw worked on a crust of bread for a long moment."
+    },
+    {
+      "word": "Jeanne",
+      "pos": "PROPN",
+      "translation": "Jeanne (Vorname)",
+      "example": "\"That's Jeanne, my wife,\" Albert told us, even though we were cats and couldn't answer."
+    },
+    {
+      "word": "job",
+      "pos": "NOUN",
+      "translation": "der Beruf, die Arbeit",
+      "example": "He told Léa about Jeanne, about the silk workers of the Croix-Rousse, about his job as a train driver forty years ago."
     },
     {
       "word": "journey",
@@ -4180,6 +4504,12 @@
       "example": "the knight finally asked, touching the long scar that crossed his left cheek."
     },
     {
+      "word": "left",
+      "pos": "ADV",
+      "translation": "nach links",
+      "example": "I turned left, then right, then left again."
+    },
+    {
       "word": "leg",
       "pos": "NOUN",
       "translation": "das Bein",
@@ -4238,6 +4568,12 @@
       "pos": "VERB",
       "translation": "liegen („lay“ in der Vergangenheit)",
       "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
+    },
+    {
+      "word": "lie down",
+      "pos": "PHRASE",
+      "translation": "sich hinlegen",
+      "example": "Then, on a cold night in November, when the first frost covered the rooftops, Nuage walked through the door of Albert's flat and lay down next to the radiator."
     },
     {
       "word": "life",
@@ -4360,6 +4696,12 @@
       "example": "She looks under the table. — Sie schaut unter den Tisch."
     },
     {
+      "word": "look down",
+      "pos": "PHRASE",
+      "translation": "hinunterschauen, nach unten blicken",
+      "example": "He looked down at me."
+    },
+    {
       "word": "look forward to",
       "pos": "PHRASE",
       "translation": "sich freuen auf"
@@ -4381,6 +4723,12 @@
       "pos": "VERB",
       "translation": "verlieren",
       "example": "He lost his balance, Hugh's lance hit him in the chest, and the old knight crashed to the ground."
+    },
+    {
+      "word": "lost",
+      "pos": "ADJ",
+      "translation": "verloren, entlaufen („lost cat“: Katze entlaufen)",
+      "example": "\"LOST CAT,\" he read aloud from his phone, where he had taken a photo of the poster."
     },
     {
       "word": "lot",
@@ -4598,6 +4946,12 @@
       "example": "\"Meow!\" — „Miau!“"
     },
     {
+      "word": "meow",
+      "pos": "VERB",
+      "translation": "miauen",
+      "example": "I meowed."
+    },
+    {
       "word": "Meow",
       "pos": "PROPN",
       "translation": "miau",
@@ -4656,6 +5010,12 @@
       "pos": "NOUN",
       "translation": "die Mühle",
       "example": "The village sat where the forest thinned beside a slow brown river: a huddle of timber houses with roofs of moss-green thatch, a mill, a forge, and a market square that was crowded twice a week and deserted the rest of the time."
+    },
+    {
+      "word": "mind",
+      "pos": "VERB",
+      "translation": "etwas dagegen haben („I don't mind“: das macht mir nichts aus)",
+      "example": "I don't mind."
     },
     {
       "word": "minute",
@@ -4764,6 +5124,12 @@
       "pos": "PROPN",
       "translation": "Herr (Hr.)",
       "example": "Mr Green. — Herr Green."
+    },
+    {
+      "word": "much",
+      "pos": "ADV",
+      "translation": "viel („much faster“: viel schneller)",
+      "example": "Then he came back very quickly, much faster than I thought an old man could walk."
     },
     {
       "word": "mud",
@@ -4946,6 +5312,12 @@
       "example": "She was sitting next to a chimney, looking at me with her yellow eyes."
     },
     {
+      "word": "nice",
+      "pos": "ADJ",
+      "translation": "schön, angenehm, nett",
+      "example": "From my window, rain is a nice sound."
+    },
+    {
       "word": "night",
       "pos": "NOUN",
       "translation": "die Nacht",
@@ -5048,6 +5420,12 @@
       "example": "If you are patient enough to notice, you will always be one step ahead."
     },
     {
+      "word": "November",
+      "pos": "PROPN",
+      "translation": "November",
+      "example": "Then, on a cold night in November, when the first frost covered the rooftops, Nuage walked through the door of Albert's flat and lay down next to the radiator."
+    },
+    {
       "word": "now",
       "pos": "ADV",
       "translation": "jetzt",
@@ -5106,6 +5484,12 @@
       "pos": "ADP",
       "translation": "von (weg), herunter von",
       "example": "His hands were not quite steady, and the knife slipped — a clean, shallow stroke that should have taken a curl of wood off the tail and sent it fluttering to the floor."
+    },
+    {
+      "word": "offer",
+      "pos": "VERB",
+      "translation": "anbieten",
+      "example": "Léa offered him a coffee and they talked for twenty minutes."
     },
     {
       "word": "official",
@@ -5297,6 +5681,12 @@
       "pos": "ADV",
       "translation": "draußen, nach draußen",
       "example": "I have never been outside."
+    },
+    {
+      "word": "outside",
+      "pos": "NOUN",
+      "translation": "die Außenseite („from the outside“: von draußen)",
+      "example": "I had never seen rain from the outside."
     },
     {
       "word": "over",
@@ -5503,6 +5893,18 @@
       "example": "By mid-afternoon the cart was loaded, and Patience — a mule whose name had been chosen with considerable irony — was persuaded, after the usual negotiations, to haul it down the track to Brackenford."
     },
     {
+      "word": "phone",
+      "pos": "NOUN",
+      "translation": "das Handy, das Telefon",
+      "example": "\"LOST CAT,\" he read aloud from his phone, where he had taken a photo of the poster."
+    },
+    {
+      "word": "photo",
+      "pos": "NOUN",
+      "translation": "das Foto",
+      "example": "On the wall, there were photos of a smiling woman with short white hair."
+    },
+    {
       "word": "physician",
       "pos": "NOUN",
       "translation": "der Arzt",
@@ -5575,6 +5977,12 @@
       "example": "She showed me a terrace full of tomato plants, a pigeon who thought he was a king, and a place on top of a high wall where you could see the two rivers, the Rhône and the Saône, shining in the dark."
     },
     {
+      "word": "plate",
+      "pos": "NOUN",
+      "translation": "der Teller",
+      "example": "Instead, he went back into his flat and returned with an old towel and a plate of chicken."
+    },
+    {
       "word": "play",
       "pos": "VERB",
       "translation": "spielen",
@@ -5609,6 +6017,12 @@
       "pos": "NOUN",
       "translation": "der Pfosten, der Pfahl; der Posten",
       "example": "At its heart stood the shrine, a ring of seven carved posts so old that the weather had worn their faces into smooth, patient suggestions of faces."
+    },
+    {
+      "word": "poster",
+      "pos": "NOUN",
+      "translation": "das Plakat, der Aushang",
+      "example": "\"LOST CAT,\" he read aloud from his phone, where he had taken a photo of the poster."
     },
     {
       "word": "pot",
@@ -5713,6 +6127,12 @@
       "example": "Without proof, I cannot punish a knight of the realm."
     },
     {
+      "word": "properly",
+      "pos": "ADV",
+      "translation": "richtig, ordentlich",
+      "example": "We went down a drainpipe, crossed a little courtyard and squeezed under a wooden door that didn't close properly."
+    },
+    {
       "word": "protect",
       "pos": "VERB",
       "translation": "beschützen",
@@ -5747,6 +6167,24 @@
       "pos": "VERB",
       "translation": "bestrafen",
       "example": "Without proof, I cannot punish a knight of the realm."
+    },
+    {
+      "word": "purple",
+      "pos": "ADJ",
+      "translation": "lila, violett",
+      "example": "The pink sky became grey, then dark purple."
+    },
+    {
+      "word": "purr",
+      "pos": "VERB",
+      "translation": "schnurren",
+      "example": "But when Albert sat down on a box and started to dry my head with the towel, I began to purr."
+    },
+    {
+      "word": "push",
+      "pos": "VERB",
+      "translation": "schieben, drücken",
+      "example": "A cold wind came from the river and pushed the leaves along the street."
     },
     {
       "word": "put",
@@ -5785,6 +6223,12 @@
       "example": "Edwin wanted to ask more questions, but at that moment Godfrey came back, and Maud quickly returned to the kitchen."
     },
     {
+      "word": "quiet",
+      "pos": "ADJ",
+      "translation": "still, ruhig",
+      "example": "He was quiet for a moment."
+    },
+    {
       "word": "quietly",
       "pos": "ADV",
       "translation": "leise",
@@ -5795,6 +6239,12 @@
       "pos": "ADV",
       "translation": "ziemlich, ganz („not quite“: nicht ganz)",
       "example": "His hands were not quite steady, and the knife slipped — a clean, shallow stroke that should have taken a curl of wood off the tail and sent it fluttering to the floor."
+    },
+    {
+      "word": "radiator",
+      "pos": "NOUN",
+      "translation": "die Heizung, der Heizkörper",
+      "example": "Albert let us sleep in his kitchen, next to the radiator."
     },
     {
       "word": "rain",
@@ -5866,6 +6316,12 @@
       "pos": "VERB",
       "translation": "erkennen, begreifen",
       "example": "He realised that he was no longer afraid of fighting."
+    },
+    {
+      "word": "really",
+      "pos": "ADV",
+      "translation": "wirklich",
+      "example": "For the first time in my life, I was really afraid."
     },
     {
       "word": "realm",
@@ -6062,7 +6518,7 @@
     {
       "word": "right",
       "pos": "ADV",
-      "translation": "direkt, genau („right into“: mitten hinein)",
+      "translation": "direkt, genau („right into“: mitten hinein); nach rechts",
       "example": "Burnt right into the wood.\""
     },
     {
@@ -6076,6 +6532,12 @@
       "pos": "NOUN",
       "translation": "der Kreis, der Ring",
       "example": "At its heart stood the shrine, a ring of seven carved posts so old that the weather had worn their faces into smooth, patient suggestions of faces."
+    },
+    {
+      "word": "ring",
+      "pos": "VERB",
+      "translation": "klingeln, läuten",
+      "example": "When the little bell above the door rang, Léa looked up from the counter."
     },
     {
       "word": "rise",
@@ -6192,6 +6654,12 @@
       "example": "He felt a cold shiver run down his spine."
     },
     {
+      "word": "run out",
+      "pos": "PHRASE",
+      "translation": "hinauslaufen; („run out of“) ausgehen, knapp werden",
+      "example": "When Albert opened the front door, she ran out and jumped onto the wall of the courtyard."
+    },
+    {
       "word": "rust",
       "pos": "NOUN",
       "translation": "der Rost",
@@ -6208,6 +6676,12 @@
       "pos": "ADV",
       "translation": "traurig",
       "example": "Godfrey smiled sadly."
+    },
+    {
+      "word": "sailor",
+      "pos": "NOUN",
+      "translation": "der Seemann, der Matrose",
+      "example": "Two little sailors who lost their boat."
     },
     {
       "word": "Sam",
@@ -6600,6 +7074,12 @@
       "example": "We ran along the rooftops of the Croix-Rousse, the old hill where silk workers lived a long time ago."
     },
     {
+      "word": "silly",
+      "pos": "ADJ",
+      "translation": "dumm, albern",
+      "example": "You were just across the street the whole time, you silly thing."
+    },
+    {
       "word": "silver",
       "pos": "ADJ",
       "translation": "silbern",
@@ -6738,6 +7218,12 @@
       "example": "Léa groans, puts on her slippers and goes downstairs to make bread."
     },
     {
+      "word": "slippery",
+      "pos": "ADJ",
+      "translation": "rutschig, glatt",
+      "example": "The tiles became slippery, the gutters became rivers, and every building suddenly looked the same."
+    },
+    {
       "word": "slow",
       "pos": "ADJ",
       "translation": "langsam",
@@ -6766,6 +7252,12 @@
       "pos": "VERB",
       "translation": "riechen („smell like“: riechen nach)",
       "example": "It smells like butter and home."
+    },
+    {
+      "word": "smile",
+      "pos": "NOUN",
+      "translation": "das Lächeln",
+      "example": "\"In my storage room,\" he said with a small smile."
     },
     {
       "word": "smile",
@@ -6810,6 +7302,12 @@
       "example": "Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters."
     },
     {
+      "word": "soap",
+      "pos": "NOUN",
+      "translation": "die Seife",
+      "example": "There were old boxes, a broken bicycle and a smell of dust and soap."
+    },
+    {
       "word": "sob",
       "pos": "VERB",
       "translation": "schluchzen",
@@ -6832,6 +7330,12 @@
       "pos": "ADJ",
       "translation": "weich, sanft",
       "example": "The stone slid back into place with a soft, final scrape."
+    },
+    {
+      "word": "softly",
+      "pos": "ADV",
+      "translation": "leise, sanft",
+      "example": "\"Well, well,\" he said softly."
     },
     {
       "word": "soldier",
@@ -6936,6 +7440,12 @@
       "example": "Bandits have been attacking villages along the southern road."
     },
     {
+      "word": "space",
+      "pos": "NOUN",
+      "translation": "der Platz, der Raum",
+      "example": "I found a small space under a chimney and pressed my body against the bricks."
+    },
+    {
       "word": "spark",
       "pos": "NOUN",
       "translation": "der Funke",
@@ -6996,10 +7506,22 @@
       "example": "The village sat where the forest thinned beside a slow brown river: a huddle of timber houses with roofs of moss-green thatch, a mill, a forge, and a market square that was crowded twice a week and deserted the rest of the time."
     },
     {
+      "word": "squeeze",
+      "pos": "VERB",
+      "translation": "sich zwängen, drücken",
+      "example": "We went down a drainpipe, crossed a little courtyard and squeezed under a wooden door that didn't close properly."
+    },
+    {
       "word": "squire",
       "pos": "NOUN",
       "translation": "der Knappe",
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "stair",
+      "pos": "NOUN",
+      "translation": "die Stufe („the stairs“: die Treppe)",
+      "example": "I listened from my place on the stairs."
     },
     {
       "word": "stand",
@@ -7102,6 +7624,18 @@
       "pos": "VERB",
       "translation": "anhalten, stehen bleiben",
       "example": "Mia stops. — Mia bleibt stehen."
+    },
+    {
+      "word": "storage",
+      "pos": "NOUN",
+      "translation": "die Lagerung",
+      "example": "We were in the storage room of a building."
+    },
+    {
+      "word": "storage room",
+      "pos": "PHRASE",
+      "translation": "der Abstellraum",
+      "example": "We were in the storage room of a building."
     },
     {
       "word": "storm",
@@ -7613,6 +8147,18 @@
       "example": "For a single heartbeat, Rowan could have sworn he felt the faint, distant thrum of something alive."
     },
     {
+      "word": "thunder",
+      "pos": "NOUN",
+      "translation": "der Donner",
+      "example": "The thunder was too loud."
+    },
+    {
+      "word": "tidy",
+      "pos": "ADJ",
+      "translation": "ordentlich, aufgeräumt",
+      "example": "His flat was dark and very tidy."
+    },
+    {
       "word": "tie",
       "pos": "VERB",
       "translation": "binden",
@@ -7629,6 +8175,12 @@
       "pos": "VERB",
       "translation": "festziehen",
       "example": "Godfrey simply smiled and bowed his head, but Edwin noticed that his hand had tightened around the hilt of his sword."
+    },
+    {
+      "word": "tightly",
+      "pos": "ADV",
+      "translation": "fest, eng",
+      "example": "She ran around the counter, opened the basket and held me so tightly that I could hardly breathe."
     },
     {
       "word": "tile",
@@ -7697,6 +8249,12 @@
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
     },
     {
+      "word": "to the bone",
+      "pos": "PHRASE",
+      "translation": "bis auf die Knochen („wet to the bone“: nass bis auf die Knochen)",
+      "example": "I was wet to the bone."
+    },
+    {
       "word": "today",
       "pos": "NOUN",
       "translation": "heute",
@@ -7763,6 +8321,12 @@
       "example": "She glanced nervously towards the door."
     },
     {
+      "word": "towel",
+      "pos": "NOUN",
+      "translation": "das Handtuch",
+      "example": "Instead, he went back into his flat and returned with an old towel and a plate of chicken."
+    },
+    {
       "word": "tower",
       "pos": "NOUN",
       "translation": "der Turm",
@@ -7791,6 +8355,12 @@
       "pos": "NOUN",
       "translation": "die Tradition",
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "train",
+      "pos": "NOUN",
+      "translation": "der Zug",
+      "example": "He told Léa about Jeanne, about the silk workers of the Croix-Rousse, about his job as a train driver forty years ago."
     },
     {
       "word": "travel",
@@ -8188,6 +8758,12 @@
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
     },
     {
+      "word": "waterfall",
+      "pos": "NOUN",
+      "translation": "der Wasserfall",
+      "example": "On a roof, it is a waterfall."
+    },
+    {
       "word": "wax",
       "pos": "NOUN",
       "translation": "das Wachs",
@@ -8252,6 +8828,12 @@
       "pos": "ADV",
       "translation": "gut",
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "well",
+      "pos": "INTJ",
+      "translation": "nun, na ja („well, well“: sieh mal einer an)",
+      "example": "\"Well, well,\" he said softly."
     },
     {
       "word": "well",
@@ -8392,6 +8974,12 @@
       "example": "Doors left wide open, supper still on the table."
     },
     {
+      "word": "wife",
+      "pos": "NOUN",
+      "translation": "die Ehefrau, die Frau",
+      "example": "\"That's Jeanne, my wife,\" Albert told us, even though we were cats and couldn't answer."
+    },
+    {
       "word": "wild",
       "pos": "ADJ",
       "translation": "wild",
@@ -8420,6 +9008,12 @@
       "pos": "PROPN",
       "translation": "Winchester (Stadt)",
       "example": "His Majesty is holding a great tournament at Winchester at the end of the month."
+    },
+    {
+      "word": "wind",
+      "pos": "NOUN",
+      "translation": "der Wind",
+      "example": "A cold wind came from the river and pushed the leaves along the street."
     },
     {
       "word": "wind",

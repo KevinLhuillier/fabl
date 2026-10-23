@@ -7,6 +7,12 @@
       "lemmaPos": "ADP"
     },
     {
+      "text": "Answers",
+      "pos": "NOUN",
+      "word": "answer",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "axes",
       "pos": "NOUN",
       "word": "axe",
@@ -37,10 +43,23 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "CAT",
+      "pos": "PROPN",
+      "word": "cat",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "change",
       "pos": "NOUN",
       "word": "change",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "change",
+      "pos": "NOUN",
+      "next": "was",
+      "word": "change",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "climbs",
@@ -91,6 +110,20 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "flat",
+      "pos": "ADJ",
+      "next": ",",
+      "word": "flat",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "flat",
+      "pos": "ADJ",
+      "next": "and",
+      "word": "flat",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "forgets",
       "pos": "NOUN",
       "word": "forget",
@@ -109,10 +142,22 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "Ginger",
+      "pos": "NOUN",
+      "word": "ginger",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "ginger",
       "pos": "NOUN",
       "word": "ginger",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "glasses",
+      "pos": "NOUN",
+      "word": "glasses",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "groans",
@@ -139,10 +184,30 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "left",
+      "pos": "ADJ",
+      "next": ",",
+      "word": "left",
+      "lemmaPos": "ADV"
+    },
+    {
+      "text": "left",
+      "pos": "VERB",
+      "next": "again",
+      "word": "left",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "lord",
       "pos": "PROPN",
       "word": "lord",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "LOST",
+      "pos": "PROPN",
+      "word": "lost",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "Léa",
@@ -175,6 +240,12 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "Nuage",
+      "pos": "NOUN",
+      "word": "Nuage",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "oilcloth",
       "pos": "ADJ",
       "word": "oilcloth",
@@ -193,6 +264,24 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "purple",
+      "pos": "NOUN",
+      "word": "purple",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "purr",
+      "pos": "NOUN",
+      "word": "purr",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "rang",
+      "pos": "NOUN",
+      "word": "ring",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Rasp",
       "pos": "PROPN",
       "word": "rasp",
@@ -208,6 +297,19 @@
       "text": "riding",
       "pos": "VERB",
       "word": "ride",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "right",
+      "pos": "INTJ",
+      "next": ",",
+      "word": "right",
+      "lemmaPos": "ADV"
+    },
+    {
+      "text": "rings",
+      "pos": "NOUN",
+      "word": "ring",
       "lemmaPos": "VERB"
     },
     {
@@ -299,6 +401,13 @@
       "pos": "INTJ",
       "word": "Well",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Well",
+      "pos": "INTJ",
+      "next": ",",
+      "word": "well",
+      "lemmaPos": "INTJ"
     },
     {
       "text": "Wood",
