@@ -1078,3 +1078,134 @@ The figure was gone. The frost glittered. Across the lake, the Elderwood was dar
 Rowan knelt at the window until his knees ached and his breath had frosted the glass white, and the same thought went round and round in his head like a mill wheel.
 Someone opened the door.
 And whoever it was, Thornhall knew them well enough to let them in.
+
+# The Trial of Thorns
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_1-1792790766316.mp3
+Every year, on the last day before the midwinter holiday, the first-years of Thornhall stood in the Thorn Ring and showed the whole school what they had learned.
+It was the oldest tradition in the Academy, older than the Warden, older than the causeway, older — so Old Moss claimed — than anything on the hill except the glasshouses and the oaks. The Thorn Ring itself lay on the northern shoulder of the hill: a broad, round hollow in the earth, like a bowl pressed into clay, ringed by a hedge of ancient blackthorn so thick and so old that its trunks had twisted together into a single living wall. Stone benches rose in tiers up the sides of the bowl. In summer, Jory had been told, the hedge flowered white from end to end, and the whole hollow smelled of honey. In winter it was black and bare and bristling, each thorn as long as a finger, and the frost lay grey on its branches.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_2-1792790778235.mp3
+It was called the Trial of Thorns. It was not, strictly speaking, a trial at all — nobody failed it, and nobody was sent home. But every first-year knew that their whole year's reputation would be decided on that cold grey floor, in front of five hundred watching faces, and they had been sick with nerves about it for weeks.
+Rowan had assumed he would be excused.
+"Excused?" Master Hale had looked at him across the corridor outside the Great Hall, three days before, as though he had suggested something faintly indecent. "Certainly not. You are a student of this Academy, Ashby, however provisionally. The Writ that Mistress Vell was so eager to dust off is perfectly clear: a probationer is to be assessed alongside his year." A thin smile. "I am sure we are all looking forward to seeing what you have learned."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_3-1792790792416.mp3
+On the morning of the Trial, the sky over Thornhall was the colour of old pewter, and a few dry flakes of snow were drifting down out of it, too thin to settle.
+The benches were full long before the first bell. Rowan, standing with the other first-years in the low stone passage that led out onto the floor of the Ring, could hear the roar of the crowd above him like the sound of the sea. He could see slices of it through the archway: rows of faces, scarves, breath steaming in the cold. At the top of the bowl, beneath an awning of oiled canvas, sat the teachers, with the Warden in the centre in a great chair of dark wood. Master Hale sat on her left. Mistress Crane sat on her right, folded up like a heron in the cold. Maren Vell was at the very end of the row, with her satchel on her knees.
+And on the lowest bench, almost at the edge of the floor, wrapped in his moth-eaten shawl and leaning on his blackthorn stick, sat Old Moss.
+Rowan had never seen him leave the glasshouses before.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_4-1792790802765.mp3
+The first-years went out in groups of four, called by Master Grey from his ledger, and the Trial went on all morning.
+The Tanner brothers went out together and raised a pillar of earth from the floor of the Ring, so tall and so solid that the front row could have climbed it. A tiny girl from the northern passes called a wind that spun the falling snowflakes into a perfect, glittering spiral and held it there for a full minute. A boy from the western coast made the frost on the floor melt and run together into a single long silver serpent of water, which wound three times around his feet and then, at a flick of his fingers, froze solid again with a sound like breaking glass. The crowd roared. The teachers nodded and made notes.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_5-1792790816481.mp3
+Tamsin went out in the third group, and was magnificent.
+She walked into the middle of the Ring, crouched, and laid both her palms flat on the frozen ground; and the whole bowl shrugged. It was not much — a long, low ripple that ran out from her hands to the edges of the floor and up the tiers of benches, so that every spectator felt it pass beneath them like a wave beneath a boat. Then, as the crowd gasped, a single stone rose out of the earth in front of her: a rough grey boulder the size of a sheep, which climbed slowly into the air until it hung level with her head, turning gently, shedding frost and soil. She held it there, her face set and furious with concentration, for a count of ten. Then she set it down again so softly that it did not make a sound.
+The applause went on for a long time. Up under the awning, Master Hale leaned over and murmured something to the Warden, who nodded slowly.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_6-1792790833592.mp3
+Jory, in the fourth group, poured water from a jug at one end of the Ring into a cup at the other, forty paces away, in a single unbroken arc that glittered in the grey light like a thread of glass, and did not spill a drop. He bowed so low afterwards that he almost fell over, and the crowd laughed, but kindly.
+Ilse went out alone.
+She did not do very much. She simply stood in the centre of the Ring, quite still, with her eyes closed and her scarred hand loose at her side. And one by one, all around the bowl, every lantern that had been lit against the grey morning went out — not blown, not flickering, but simply snuffed, as if a giant had pinched each one between finger and thumb. Then, one by one, in the same order, they relit.
+Nobody cheered at first. There was a long, strange silence. Then, under the awning, Mistress Crane began, slowly, to clap, and the whole Ring broke into applause.
+And then Master Grey looked down at his ledger, cleared his throat, and called, "Ashby, Rowan."
+The noise died away to a murmur, and then to an expectant, unpleasant hush.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_7-1792790847193.mp3
+The floor of the Thorn Ring was wider than it had looked from the passage. Rowan walked out into the middle of it alone, his boots crunching on the frost, and the silence followed him the whole way like a dog at his heels.
+In the centre, on a low stone table, someone had set out four small objects in a row: a shallow dish of water, a stub of candle, a smooth river pebble, and a single white feather.
+It was exactly the same as the first morning in Mistress Crane's classroom. Someone had arranged it that way on purpose. Rowan did not need to look up at the awning to know who.
+Master Hale rose from his seat and came down the steps, unhurried, his gloved hands clasped behind his back. He stopped at the edge of the floor.
+"Since you have no element, Ashby," he said, and his voice carried to every corner of the bowl, "you may choose whichever of these you like. We are not unreasonable. Move one of them. Any one. However slightly." He paused. "We will wait."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_8-1792790857935.mp3
+Someone up on the benches sniggered.
+Rowan looked at the four objects. His heart was thudding so hard that he could feel it in his fingertips. He chose the feather, because it was the lightest, and because it was the one that Ilse had moved on the very first day without even trying. He closed his eyes, the way Mistress Crane had taught them, and went down.
+It was there. It was always there. Deep and dark and full, like the cold of a river before you put your hand in. He reached for it.
+And it shrank from his grip, the way it always did — curled away from him like a fern at a touch — and the whole of it clenched tight around itself like a fist.
+Nothing came up. Nothing at all.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_9-1792790873892.mp3
+He tried again. And again. He could feel the crowd watching him, feel the weight of five hundred pairs of eyes pressing down on the back of his neck like a hand. The silence was beginning to fray at the edges. There was a whisper somewhere to his left, and then a giggle, and then, from high up on the benches, a voice he knew very well.
+"Blank."
+One or two people laughed. Then a few more. Then someone else took it up — Blank. Blank. Blank — low and rhythmic, like a drum, and for a terrible moment it began to spread along the benches.
+Rowan opened his eyes.
+The feather lay where it had been placed. And as he looked at it, it curled at the tip, blackened, and burst into a small, bright, contemptuous flame.
+He snatched his hand back too late. The flame licked across his palm, quick and stinging, and the feather crumbled into ash on the stone. High up on the third tier, among a knot of older students in Fire red, Seraphine Hale lowered one elegant finger and smiled.
+The Ring erupted into laughter.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_10-1792790887980.mp3
+It washed over him like a wave, from every side at once: not all of it cruel, but enough. He stood in the middle of it with his burned hand pressed against his chest, his face blazing, and for a long moment he could not see or hear anything at all except that laughter. Then, at the very edge of it, as though from a great distance, he heard another voice. A slow, deep, familiar voice that was not there at all.
+Some things grow slow.
+He stopped fighting.
+He did not decide to. It simply happened, the way a man stops struggling in deep water and finds, to his astonishment, that he floats. He let go of the feather and the Trial and the laughter and the hundreds of watching faces. He stood very still on the frozen floor of the Thorn Ring, and he breathed the cold, resinous air, and he listened — the way he had listened in the glasshouse, sitting beside a clay pot with his eyes shut, waiting for something small and green and patient to stir in its sleep.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_11-1792790900005.mp3
+And all around him, the Ring stirred.
+It began as a sound. A dry, whispering rustle, like a great many pages turning at once, running round the bowl from one side to the other. The laughter faltered. Heads turned. The ancient blackthorn hedge that ringed the hollow — the twisted, centuries-old wall of black branches and finger-long spines — was moving. All the way round the Ring, every branch was bending slowly inwards, towards the floor, towards the centre, towards him, like a wall of saplings turning their faces to the sun.
+And along the bare black branches, in the dead of winter, buds were swelling. Small and hard and greenish-white, they split as the crowd watched, and opened, one after another, all the way round the hedge, into tiny five-petalled flowers as white as the snow that drifted down between them.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_12-1792790912439.mp3
+The smell of honey filled the Thorn Ring.
+Nobody laughed now. Nobody made a sound. Rowan stood in the middle of the floor with his burned hand against his chest and stared at the hedge, and the hedge, he could have sworn, stared back.
+Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view. When it cleared, a moment later, the branches were still. The blossoms were scattered across the frozen floor like confetti, and the wall of blackthorn stood as black and bare as it had been all winter.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_13-1792790927485.mp3
+"The wind," someone said, uncertainly, up on the benches. "It was only the wind."
+"Blackthorn doesn't flower in winter," someone else said.
+"It does if it's mad. My nan had one that—"
+The murmur rose and swelled. At the far side of the Ring, by the mouth of the passage, Ilse Fenwick stood with her scarred hand still half-raised and her face very pale, and when she saw Rowan looking at her, she lowered it quickly to her side.
+Up under the awning, the Warden had risen from her chair. She was standing quite still, her bright black eyes fixed not on the hedge but on Rowan, with an expression he could not read at all. Beside her, Master Hale had not moved; he was staring at the white petals scattered across the floor as though they were written in a language he had once known and long forgotten. At the end of the row, Maren Vell was gripping her satchel so hard that her knuckles stood out white.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_14-1792790934789.mp3
+And on the lowest bench, at the very edge of the floor, Old Moss was smiling.
+"Next," said Master Grey, in a voice that cracked in the middle. "Next, please."
+Rowan walked back towards the passage. His legs did not seem to belong to him. As he reached the archway, something made him glance up — towards the very top of the bowl, where the highest tier of benches met the hedge.
+A figure in a grey hood was standing there, apart from the rest. As he watched, it turned, slipped through a gap in the blackthorn, and was gone.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_15-1792790947953.mp3
+He found Old Moss in the fifth glasshouse that evening, sitting on his upturned bucket among the saplings with a pot of salve in his lap, as though he had been expecting him.
+"Give me your hand."
+Rowan held out his burned palm. The old man smeared it with something cool and green that smelled of crushed leaves, and wound a strip of clean linen around it with fingers that trembled, but did not fumble.
+"Blackthorn flowers in spring, boy," Moss said quietly, without looking up. "It's the first thing to bloom in the Wilds, before the leaves, before anything. White as frost. My grandmother used to call it the Wood-wardens' flower." He tied off the bandage. "It does not flower in midwinter. Not for wind, nor for weather, nor for anything at all. Not in seventy-one years."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_10.page_16-1792790963579.mp3
+"Ilse made the wind," Rowan said. "To hide it."
+"I know. That girl's got more sense than half the teachers on this hill." Moss sat back on his bucket. "But she couldn't hide it from everyone. Half the school saw that hedge move, and the other half will have heard about it by supper. And there were people sitting under that awning today who know very well what blackthorn does and doesn't do."
+Rowan thought of the Warden's eyes. Of Hale, staring at the petals. Of a grey hood slipping away through a gap in the thorns.
+"What's happening to me?" he whispered.
+Old Moss looked at him for a long time with his one bright eye. Then he reached out and laid his trembling hand, very gently, on Rowan's head, the way he laid it against the trunk of a tree.
+"Whatever's been sleeping in you, lad," he said, "it's done sleeping. And it'll not be kept quiet much longer, whatever any of us do."
+When Rowan got back to Hearthside, there was a single white blackthorn petal caught in the cuff of his sleeve. He did not remember it getting there. He laid it on the shelf above his bed, beside his father's knife, and lay awake looking at it until the candle burned out.

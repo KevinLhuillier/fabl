@@ -430,6 +430,12 @@
       "example": "\"Seventy-one years I've been coaxing you lot along, and you've never once turned your heads for me.\""
     },
     {
+      "word": "alongside",
+      "pos": "ADP",
+      "translation": "neben, zusammen mit",
+      "example": "The Writ that Mistress Vell was so eager to dust off is perfectly clear: a probationer is to be assessed alongside his year.\""
+    },
+    {
       "word": "aloud",
       "pos": "ADV",
       "translation": "laut („read aloud“: vorlesen)",
@@ -652,6 +658,12 @@
       "example": "Her apron was covered in flour, and soon my fur was too."
     },
     {
+      "word": "arc",
+      "pos": "NOUN",
+      "translation": "der Bogen",
+      "example": "Jory, in the fourth group, poured water from a jug at one end of the Ring into a cup at the other, forty paces away, in a single unbroken arc that glittered in the grey light like a thread of glass, and did not spill a drop."
+    },
+    {
       "word": "arch",
       "pos": "NOUN",
       "translation": "der Bogen",
@@ -844,6 +856,18 @@
       "example": "Every first-year at Thornhall, whatever their element, began the same way: with three mornings a week of a class called Foundations of the Well, taught in a long, bare room at the foot of the north stair by a woman who looked as though she had been assembled from coat hangers."
     },
     {
+      "word": "assess",
+      "pos": "VERB",
+      "translation": "beurteilen, prüfen",
+      "example": "The Writ that Mistress Vell was so eager to dust off is perfectly clear: a probationer is to be assessed alongside his year.\""
+    },
+    {
+      "word": "assume",
+      "pos": "VERB",
+      "translation": "annehmen, voraussetzen",
+      "example": "Rowan had assumed he would be excused."
+    },
+    {
       "word": "astonishment",
       "pos": "NOUN",
       "translation": "das Erstaunen, die Verblüffung",
@@ -1015,6 +1039,12 @@
       "example": "There was a short, awful silence."
     },
     {
+      "word": "awning",
+      "pos": "NOUN",
+      "translation": "das Sonnensegel, die Markise",
+      "example": "At the top of the bowl, beneath an awning of oiled canvas, sat the teachers, with the Warden in the centre in a great chair of dark wood."
+    },
+    {
       "word": "axe",
       "pos": "NOUN",
       "translation": "die Axt",
@@ -1133,6 +1163,12 @@
       "pos": "NOUN",
       "translation": "der Ball, die Kugel („curled into a ball“: zusammengerollt)",
       "example": "Around him the others slept — the Tanner brothers still snoring in harmony, Jory sprawled on his back with one arm flung over his face, Tamsin curled into a tight ball under her mother's quilt."
+    },
+    {
+      "word": "bandage",
+      "pos": "NOUN",
+      "translation": "der Verband",
+      "example": "He tied off the bandage."
     },
     {
       "word": "bandit",
@@ -1548,6 +1584,12 @@
       "example": "Moss turned the word over as though it tasted bitter."
     },
     {
+      "word": "bitterly",
+      "pos": "ADV",
+      "translation": "bitter („bitterly cold“: bitterkalt)",
+      "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
+    },
+    {
       "word": "black",
       "pos": "ADJ",
       "translation": "schwarz",
@@ -1602,10 +1644,22 @@
       "example": "I stay in bed for a few more minutes, because the blanket is still warm."
     },
     {
+      "word": "blaze",
+      "pos": "VERB",
+      "translation": "lodern, glühen („his face blazing“: mit glühendem Gesicht)",
+      "example": "He stood in the middle of it with his burned hand pressed against his chest, his face blazing, and for a long moment he could not see or hear anything at all except that laughter."
+    },
+    {
       "word": "bleed",
       "pos": "VERB",
       "translation": "bluten",
       "example": "He was a boy, younger than Edwin, with a bleeding arm and eyes full of fear."
+    },
+    {
+      "word": "blind",
+      "pos": "VERB",
+      "translation": "blenden („blinding“: blendend)",
+      "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
     },
     {
       "word": "blister",
@@ -1630,6 +1684,18 @@
       "pos": "NOUN",
       "translation": "das Blut",
       "example": "Not a drop of blood."
+    },
+    {
+      "word": "bloom",
+      "pos": "VERB",
+      "translation": "blühen, aufblühen",
+      "example": "\"It's the first thing to bloom in the Wilds, before the leaves, before anything."
+    },
+    {
+      "word": "blossom",
+      "pos": "NOUN",
+      "translation": "die Blüte",
+      "example": "The blossoms were scattered across the frozen floor like confetti, and the wall of blackthorn stood as black and bare as it had been all winter."
     },
     {
       "word": "blot",
@@ -1992,6 +2058,12 @@
       "example": "He worked his way down the line of nervous children with the brisk efficiency of a farmer counting sheep, asking each one their name and their element, and directing them to one of four arched doorways around the courtyard."
     },
     {
+      "word": "bristling",
+      "pos": "ADJ",
+      "translation": "gesträubt, starrend (vor Dornen)",
+      "example": "In winter it was black and bare and bristling, each thorn as long as a finger, and the frost lay grey on its branches."
+    },
+    {
       "word": "broad",
       "pos": "ADJ",
       "translation": "breit, kräftig",
@@ -2058,6 +2130,12 @@
       "example": "He had checked every buckle and every strap that morning, as he always did."
     },
     {
+      "word": "bud",
+      "pos": "NOUN",
+      "translation": "die Knospe",
+      "example": "And along the bare black branches, in the dead of winter, buds were swelling."
+    },
+    {
       "word": "build",
       "pos": "VERB",
       "translation": "bauen",
@@ -2098,6 +2176,18 @@
       "pos": "PHRASE",
       "translation": "sich auflösen (Nebel)",
       "example": "The fog had burned off completely now, and the meadow lay bright and green behind him."
+    },
+    {
+      "word": "burn out",
+      "pos": "PHRASE",
+      "translation": "herunterbrennen, ausgehen",
+      "example": "He laid it on the shelf above his bed, beside his father's knife, and lay awake looking at it until the candle burned out."
+    },
+    {
+      "word": "burned",
+      "pos": "ADJ",
+      "translation": "verbrannt",
+      "example": "He stood in the middle of it with his burned hand pressed against his chest, his face blazing, and for a long moment he could not see or hear anything at all except that laughter."
     },
     {
       "word": "burst",
@@ -2466,6 +2556,12 @@
       "example": "For a moment, Edwin was certain that his master was going to win."
     },
     {
+      "word": "certainly",
+      "pos": "ADV",
+      "translation": "sicherlich („certainly not“: auf keinen Fall)",
+      "example": "\"Certainly not."
+    },
+    {
       "word": "chain",
       "pos": "NOUN",
       "translation": "die Kette („chain mail“: das Kettenhemd)",
@@ -2688,6 +2784,12 @@
       "example": "Jory, his tongue clamped between his teeth, coaxed the water in his dish into a slow, wobbling ripple, then a ring, then a small, trembling dome that rose a finger's breadth into the air before collapsing with a splash all over his sleeves."
     },
     {
+      "word": "clap",
+      "pos": "VERB",
+      "translation": "klatschen",
+      "example": "Then, under the awning, Mistress Crane began, slowly, to clap, and the whole Ring broke into applause."
+    },
+    {
       "word": "clasp",
       "pos": "VERB",
       "translation": "umfassen, falten (die Hände)",
@@ -2698,6 +2800,12 @@
       "pos": "NOUN",
       "translation": "der Unterricht, die Klasse",
       "example": "Every first-year at Thornhall, whatever their element, began the same way: with three mornings a week of a class called Foundations of the Well, taught in a long, bare room at the foot of the north stair by a woman who looked as though she had been assembled from coat hangers."
+    },
+    {
+      "word": "classroom",
+      "pos": "NOUN",
+      "translation": "das Klassenzimmer",
+      "example": "It was exactly the same as the first morning in Mistress Crane's classroom."
     },
     {
       "word": "clatter",
@@ -3138,6 +3246,12 @@
       "example": "He tried to protest, but then his own squire stepped forward and confessed that he had cut Godfrey's saddle strap on his master's orders."
     },
     {
+      "word": "confetti",
+      "pos": "NOUN",
+      "translation": "das Konfetti",
+      "example": "The blossoms were scattered across the frozen floor like confetti, and the wall of blackthorn stood as black and bare as it had been all winter."
+    },
+    {
       "word": "confident",
       "pos": "ADJ",
       "translation": "selbstsicher, zuversichtlich",
@@ -3184,6 +3298,12 @@
       "pos": "NOUN",
       "translation": "die Verachtung",
       "example": "When Sir Hugh passed in front of them, he looked at Godfrey with open contempt."
+    },
+    {
+      "word": "contemptuous",
+      "pos": "ADJ",
+      "translation": "verächtlich",
+      "example": "And as he looked at it, it curled at the tip, blackened, and burst into a small, bright, contemptuous flame."
     },
     {
       "word": "contented",
@@ -3270,10 +3390,22 @@
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
     },
     {
+      "word": "could have sworn",
+      "pos": "PHRASE",
+      "translation": "hätte schwören können",
+      "example": "For a single heartbeat, Rowan could have sworn he felt the faint, distant thrum of something alive."
+    },
+    {
       "word": "counsel",
       "pos": "NOUN",
       "translation": "der Rat",
       "example": "Bram studied the table as though the grain of the wood might offer him counsel."
+    },
+    {
+      "word": "count",
+      "pos": "NOUN",
+      "translation": "das Zählen („for a count of ten“: so lange man bis zehn zählt)",
+      "example": "She held it there, her face set and furious with concentration, for a count of ten."
     },
     {
       "word": "count",
@@ -3564,6 +3696,12 @@
       "example": "Nobody at Thornhall was cruel enough, or brave enough, to say it to his face — not with Tamsin sitting beside him, at any rate, cracking her knuckles."
     },
     {
+      "word": "crumble",
+      "pos": "VERB",
+      "translation": "zerbröckeln, zerfallen",
+      "example": "The flame licked across his palm, quick and stinging, and the feather crumbled into ash on the stone."
+    },
+    {
       "word": "crumple",
       "pos": "VERB",
       "translation": "zerknüllen",
@@ -3574,6 +3712,18 @@
       "pos": "ADJ",
       "translation": "zerknittert, zerknüllt",
       "example": "That night, in his alcove at Hearthside, with the curtain drawn and a candle stub burning low on the shelf, Rowan smoothed the crumpled sketch out on his knee and looked at it until his eyes ached."
+    },
+    {
+      "word": "crunch",
+      "pos": "VERB",
+      "translation": "knirschen",
+      "example": "Rowan walked out into the middle of it alone, his boots crunching on the frost, and the silence followed him the whole way like a dog at his heels."
+    },
+    {
+      "word": "crushed",
+      "pos": "ADJ",
+      "translation": "zerdrückt, zerstoßen",
+      "example": "The old man smeared it with something cool and green that smelled of crushed leaves, and wound a strip of clean linen around it with fingers that trembled, but did not fumble."
     },
     {
       "word": "crust",
@@ -3760,6 +3910,18 @@
       "pos": "ADJ",
       "translation": "tot",
       "example": "The oak had been dead for three winters, and the forest had finally decided to let it go."
+    },
+    {
+      "word": "dead",
+      "pos": "NOUN",
+      "translation": "(„the dead of winter“: tiefster Winter); die Toten",
+      "example": "And along the bare black branches, in the dead of winter, buds were swelling."
+    },
+    {
+      "word": "dead of winter",
+      "pos": "PHRASE",
+      "translation": "tiefster Winter",
+      "example": "And along the bare black branches, in the dead of winter, buds were swelling."
     },
     {
       "word": "deal",
@@ -4362,6 +4524,18 @@
       "example": "There were old boxes, a broken bicycle and a smell of dust and soap."
     },
     {
+      "word": "dust",
+      "pos": "VERB",
+      "translation": "abstauben",
+      "example": "The Writ that Mistress Vell was so eager to dust off is perfectly clear: a probationer is to be assessed alongside his year.\""
+    },
+    {
+      "word": "dust off",
+      "pos": "PHRASE",
+      "translation": "entstauben, wieder hervorholen",
+      "example": "The Writ that Mistress Vell was so eager to dust off is perfectly clear: a probationer is to be assessed alongside his year.\""
+    },
+    {
       "word": "duty",
       "pos": "NOUN",
       "translation": "die Pflicht",
@@ -4384,6 +4558,12 @@
       "pos": "PHRASE",
       "translation": "einander, sich gegenseitig",
       "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
+    },
+    {
+      "word": "eager",
+      "pos": "ADJ",
+      "translation": "eifrig, begierig („eager to“: erpicht darauf)",
+      "example": "The Writ that Mistress Vell was so eager to dust off is perfectly clear: a probationer is to be assessed alongside his year.\""
     },
     {
       "word": "eagle",
@@ -4576,6 +4756,12 @@
       "pos": "PROPN",
       "translation": "der Elderwood (Wald, „Altwald“)",
       "example": "\"The Elderwood,\" said Tamsin, leaning over his shoulder."
+    },
+    {
+      "word": "elegant",
+      "pos": "ADJ",
+      "translation": "elegant",
+      "example": "High up on the third tier, among a knot of older students in Fire red, Seraphine Hale lowered one elegant finger and smiled."
     },
     {
       "word": "element",
@@ -4868,6 +5054,12 @@
       "pos": "VERB",
       "translation": "erwarten",
       "example": "They expected an easy victory."
+    },
+    {
+      "word": "expectant",
+      "pos": "ADJ",
+      "translation": "erwartungsvoll",
+      "example": "The noise died away to a murmur, and then to an expectant, unpleasant hush."
     },
     {
       "word": "explain",
@@ -5434,6 +5626,12 @@
       "example": "The other was a sharp, bright, earthy brown, and it was fixed on the row of saplings with an expression Rowan could not read."
     },
     {
+      "word": "flake",
+      "pos": "NOUN",
+      "translation": "die Flocke",
+      "example": "On the morning of the Trial, the sky over Thornhall was the colour of old pewter, and a few dry flakes of snow were drifting down out of it, too thin to settle."
+    },
+    {
       "word": "flame",
       "pos": "NOUN",
       "translation": "die Flamme",
@@ -5483,6 +5681,12 @@
     },
     {
       "word": "flick",
+      "pos": "NOUN",
+      "translation": "das Schnippen („at a flick of his fingers“: mit einem Fingerschnippen)",
+      "example": "A boy from the western coast made the frost on the floor melt and run together into a single long silver serpent of water, which wound three times around his feet and then, at a flick of his fingers, froze solid again with a sound like breaking glass."
+    },
+    {
+      "word": "flick",
       "pos": "VERB",
       "translation": "wegschnippen",
       "example": "She flicked the droplet into the fire without looking, as casually as someone brushing off a fly."
@@ -5510,6 +5714,12 @@
       "pos": "VERB",
       "translation": "werfen, schleudern",
       "example": "\"Jory Penhallow,\" he announced, flinging the trunk into the wagon and himself after it."
+    },
+    {
+      "word": "float",
+      "pos": "VERB",
+      "translation": "treiben, schwimmen",
+      "example": "It simply happened, the way a man stops struggling in deep water and finds, to his astonishment, that he floats."
     },
     {
       "word": "flood",
@@ -5542,6 +5752,12 @@
       "example": "She looks behind the flowers. — Sie schaut hinter die Blumen."
     },
     {
+      "word": "flower",
+      "pos": "VERB",
+      "translation": "blühen",
+      "example": "In summer, Jory had been told, the hedge flowered white from end to end, and the whole hollow smelled of honey."
+    },
+    {
       "word": "flowerpot",
       "pos": "NOUN",
       "translation": "der Blumentopf",
@@ -5570,6 +5786,12 @@
       "pos": "VERB",
       "translation": "falten",
       "example": "Inside lay a folded letter, its paper yellowed with age, and pressed flat between its pages was a single leaf — not oak, not ash, not any tree Rowan knew, but long and silvery and veined with the faintest trace of gold."
+    },
+    {
+      "word": "fold up",
+      "pos": "PHRASE",
+      "translation": "sich zusammenfalten, sich zusammenkauern",
+      "example": "Mistress Crane sat on her right, folded up like a heron in the cold."
     },
     {
       "word": "folded",
@@ -5800,6 +6022,12 @@
       "example": "\"Ember Hall won't take anyone who can't light a candle, and frankly I wouldn't send a dog there.\""
     },
     {
+      "word": "fray",
+      "pos": "VERB",
+      "translation": "ausfransen",
+      "example": "The silence was beginning to fray at the edges."
+    },
+    {
       "word": "freckle",
       "pos": "VERB",
       "translation": "„freckled“: sommersprossig",
@@ -5866,6 +6094,12 @@
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
     },
     {
+      "word": "from end to end",
+      "pos": "PHRASE",
+      "translation": "von einem Ende zum anderen",
+      "example": "In summer, Jory had been told, the hedge flowered white from end to end, and the whole hollow smelled of honey."
+    },
+    {
       "word": "front",
       "pos": "ADJ",
       "translation": "vordere („front door“: die Haustür)",
@@ -5896,6 +6130,12 @@
       "example": "She walked slowly around the Stone, once, twice, three times, studying it with the intent, slightly frowning attention of someone reading a letter in a language she only half knew."
     },
     {
+      "word": "frozen",
+      "pos": "ADJ",
+      "translation": "gefroren",
+      "example": "She walked into the middle of the Ring, crouched, and laid both her palms flat on the frozen ground; and the whole bowl shrugged."
+    },
+    {
       "word": "fruit",
       "pos": "NOUN",
       "translation": "die Frucht, das Obst",
@@ -5920,10 +6160,22 @@
       "example": "He did not fully understand why — only that some secrets, once spoken, could never be put back where they had been, and that he was not ready to find out what this one would break."
     },
     {
+      "word": "fumble",
+      "pos": "VERB",
+      "translation": "fummeln, ungeschickt hantieren",
+      "example": "The old man smeared it with something cool and green that smelled of crushed leaves, and wound a strip of clean linen around it with fingers that trembled, but did not fumble."
+    },
+    {
       "word": "fur",
       "pos": "NOUN",
       "translation": "das Fell",
       "example": "My beautiful ginger fur looked like an old, dirty carpet."
+    },
+    {
+      "word": "furious",
+      "pos": "ADJ",
+      "translation": "wütend, verbissen",
+      "example": "She held it there, her face set and furious with concentration, for a count of ten."
     },
     {
       "word": "further",
@@ -5984,6 +6236,12 @@
       "pos": "NOUN",
       "translation": "der Gärtner",
       "example": "The gardener has been asking for help for years, and nobody has ever been able to spare him any."
+    },
+    {
+      "word": "gasp",
+      "pos": "VERB",
+      "translation": "nach Luft schnappen, aufkeuchen",
+      "example": "Then, as the crowd gasped, a single stone rose out of the earth in front of her: a rough grey boulder the size of a sheep, which climbed slowly into the air until it hung level with her head, turning gently, shedding frost and soil."
     },
     {
       "word": "gate",
@@ -6081,10 +6339,22 @@
       "example": "They said it the way people mention a ghost — quickly, and then they changed the subject."
     },
     {
+      "word": "giant",
+      "pos": "NOUN",
+      "translation": "der Riese",
+      "example": "And one by one, all around the bowl, every lantern that had been lit against the grey morning went out — not blown, not flickering, but simply snuffed, as if a giant had pinched each one between finger and thumb."
+    },
+    {
       "word": "gift",
       "pos": "NOUN",
       "translation": "das Geschenk",
       "example": "Sir Godfrey fastened a pair of golden spurs to Edwin's boots, a gift that had once belonged to Godfrey's own master."
+    },
+    {
+      "word": "giggle",
+      "pos": "NOUN",
+      "translation": "das Kichern",
+      "example": "There was a whisper somewhere to his left, and then a giggle, and then, from high up on the benches, a voice he knew very well."
     },
     {
       "word": "gild",
@@ -6139,6 +6409,12 @@
       "pos": "VERB",
       "translation": "einen Blick werfen",
       "example": "She glanced nervously towards the door."
+    },
+    {
+      "word": "glance up",
+      "pos": "PHRASE",
+      "translation": "aufblicken",
+      "example": "As he reached the archway, something made him glance up — towards the very top of the bowl, where the highest tier of benches met the hedge."
     },
     {
       "word": "glass",
@@ -6537,6 +6813,12 @@
       "example": "\"The guardian's.\""
     },
     {
+      "word": "gust",
+      "pos": "NOUN",
+      "translation": "die Böe, der Windstoß",
+      "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
+    },
+    {
       "word": "gutter",
       "pos": "NOUN",
       "translation": "die Dachrinne",
@@ -6726,6 +7008,12 @@
       "pos": "ADJ",
       "translation": "gehetzt",
       "example": "His name was Master Tobin Grey, and he was a thin, harried man with spectacles pushed up onto his forehead, where he had evidently forgotten them."
+    },
+    {
+      "word": "hat",
+      "pos": "NOUN",
+      "translation": "der Hut",
+      "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
     },
     {
       "word": "hate",
@@ -7080,6 +7368,12 @@
       "pos": "PHRASE",
       "translation": "hochhalten; stützen; aufhalten",
       "example": "Bram held the blade up to the firelight, examined its edge, and seemed displeased with it."
+    },
+    {
+      "word": "holiday",
+      "pos": "NOUN",
+      "translation": "die Ferien, der Feiertag",
+      "example": "Every year, on the last day before the midwinter holiday, the first-years of Thornhall stood in the Thorn Ring and showed the whole school what they had learned."
     },
     {
       "word": "hollow",
@@ -7529,6 +7823,12 @@
       "example": "She inclined her head."
     },
     {
+      "word": "indecent",
+      "pos": "ADJ",
+      "translation": "unanständig",
+      "example": "Master Hale had looked at him across the corridor outside the Great Hall, three days before, as though he had suggested something faintly indecent."
+    },
+    {
       "word": "indeterminate",
       "pos": "ADJ",
       "translation": "unbestimmt",
@@ -7694,6 +7994,12 @@
       "pos": "VERB",
       "translation": "einladen",
       "example": "Every knight in the kingdom has been invited to take part."
+    },
+    {
+      "word": "inwards",
+      "pos": "ADV",
+      "translation": "nach innen",
+      "example": "All the way round the Ring, every branch was bending slowly inwards, towards the floor, towards the centre, towards him, like a wall of saplings turning their faces to the sun."
     },
     {
       "word": "iron",
@@ -7912,6 +8218,12 @@
       "example": "Bram stripped the fallen oak with short, economical strokes while Rowan dragged the branches to the pile and sorted them by thickness: kindling, fencing, firewood, nothing wasted."
     },
     {
+      "word": "kindly",
+      "pos": "ADV",
+      "translation": "freundlich, gutmütig",
+      "example": "He bowed so low afterwards that he almost fell over, and the crowd laughed, but kindly."
+    },
+    {
       "word": "king",
       "pos": "NOUN",
       "translation": "der König",
@@ -8092,6 +8404,12 @@
       "example": "No lanterns."
     },
     {
+      "word": "lap",
+      "pos": "NOUN",
+      "translation": "der Schoß",
+      "example": "He found Old Moss in the fifth glasshouse that evening, sitting on his upturned bucket among the saplings with a pot of salve in his lap, as though he had been expecting him."
+    },
+    {
       "word": "large",
       "pos": "ADJ",
       "translation": "groß",
@@ -8188,6 +8506,12 @@
       "example": "Below, a flight of narrow steps led down into darkness that smelled of earth and old paper."
     },
     {
+      "word": "lead out",
+      "pos": "PHRASE",
+      "translation": "hinausführen",
+      "example": "Rowan, standing with the other first-years in the low stone passage that led out onto the floor of the Ring, could hear the roar of the crowd above him like the sound of the sea."
+    },
+    {
       "word": "leader",
       "pos": "NOUN",
       "translation": "der Anführer",
@@ -8234,6 +8558,12 @@
       "pos": "PHRASE",
       "translation": "sich hinauslehnen, vorspringen",
       "example": "The houses were built of timber and grey stone, three and four storeys high, their upper floors leaning out over narrow streets as though gossiping with their neighbours across the way."
+    },
+    {
+      "word": "lean over",
+      "pos": "PHRASE",
+      "translation": "sich hinüberbeugen",
+      "example": "Up under the awning, Master Hale leaned over and murmured something to the Warden, who nodded slowly."
     },
     {
       "word": "lean-to",
@@ -8294,6 +8624,12 @@
       "pos": "ADV",
       "translation": "nach links",
       "example": "I turned left, then right, then left again."
+    },
+    {
+      "word": "left",
+      "pos": "NOUN",
+      "translation": "die linke Seite",
+      "example": "There was a whisper somewhere to his left, and then a giggle, and then, from high up on the benches, a voice he knew very well."
     },
     {
       "word": "leg",
@@ -8392,6 +8728,12 @@
       "example": "It rose from the meadow beyond the mill like a single grey finger raised in warning: twice the height of a man, crusted with gold and silver lichen, and carved all over with spirals so worn that you could only see them when the sun was low and the shadows did the work."
     },
     {
+      "word": "lick",
+      "pos": "VERB",
+      "translation": "lecken, züngeln",
+      "example": "The flame licked across his palm, quick and stinging, and the feather crumbled into ash on the stone."
+    },
+    {
       "word": "lie",
       "pos": "VERB",
       "translation": "liegen („lay“ in der Vergangenheit)",
@@ -8474,6 +8816,12 @@
       "pos": "NOUN",
       "translation": "die Linie, die Zeile",
       "example": "It was the name in the last lines that made him read the notice twice."
+    },
+    {
+      "word": "linen",
+      "pos": "NOUN",
+      "translation": "das Leinen",
+      "example": "The old man smeared it with something cool and green that smelled of crushed leaves, and wound a strip of clean linen around it with fingers that trembled, but did not fumble."
     },
     {
       "word": "lintel",
@@ -8625,6 +8973,12 @@
       "example": "She looks up."
     },
     {
+      "word": "loose",
+      "pos": "ADJ",
+      "translation": "locker, lose",
+      "example": "She simply stood in the centre of the Ring, quite still, with her eyes closed and her scarred hand loose at her side."
+    },
+    {
       "word": "loosen",
       "pos": "VERB",
       "translation": "lockern, lösen",
@@ -8761,6 +9115,12 @@
       "pos": "ADJ",
       "translation": "verrückt („go mad“: verrückt spielen)",
       "example": "And the night of the wagons, when that man's rod went mad.\""
+    },
+    {
+      "word": "magnificent",
+      "pos": "ADJ",
+      "translation": "großartig, prächtig",
+      "example": "Tamsin went out in the third group, and was magnificent."
     },
     {
       "word": "mail",
@@ -9012,6 +9372,12 @@
       "pos": "NOUN",
       "translation": "das Treffen",
       "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
+    },
+    {
+      "word": "melt",
+      "pos": "VERB",
+      "translation": "schmelzen",
+      "example": "A boy from the western coast made the frost on the floor melt and run together into a single long silver serpent of water, which wound three times around his feet and then, at a flick of his fingers, froze solid again with a sound like breaking glass."
     },
     {
       "word": "memory",
@@ -9500,6 +9866,12 @@
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
     },
     {
+      "word": "nan",
+      "pos": "NOUN",
+      "translation": "die Oma (umgangssprachlich)",
+      "example": "My nan had one that—\""
+    },
+    {
       "word": "narrow",
       "pos": "ADJ",
       "translation": "schmal, eng",
@@ -9588,6 +9960,12 @@
       "pos": "NOUN",
       "translation": "der Neffe",
       "example": "He was a woodcutter's nephew from the deep end of the Wilds."
+    },
+    {
+      "word": "nerve",
+      "pos": "NOUN",
+      "translation": "der Nerv („sick with nerves“: krank vor Aufregung)",
+      "example": "But every first-year knew that their whole year's reputation would be decided on that cold grey floor, in front of five hundred watching faces, and they had been sick with nerves about it for weeks."
     },
     {
       "word": "nervous",
@@ -10501,6 +10879,12 @@
       "example": "On the fourth day, they passed a farm that had been completely destroyed."
     },
     {
+      "word": "passage",
+      "pos": "NOUN",
+      "translation": "der Gang, der Durchgang",
+      "example": "Rowan, standing with the other first-years in the low stone passage that led out onto the floor of the Ring, could hear the roar of the crowd above him like the sound of the sea."
+    },
+    {
       "word": "passenger",
       "pos": "NOUN",
       "translation": "der Fahrgast, der Passagier",
@@ -10699,6 +11083,18 @@
       "example": "By mid-afternoon the cart was loaded, and Patience — a mule whose name had been chosen with considerable irony — was persuaded, after the usual negotiations, to haul it down the track to Brackenford."
     },
     {
+      "word": "petal",
+      "pos": "NOUN",
+      "translation": "das Blütenblatt",
+      "example": "Beside her, Master Hale had not moved; he was staring at the white petals scattered across the floor as though they were written in a language he had once known and long forgotten."
+    },
+    {
+      "word": "petalled",
+      "pos": "ADJ",
+      "translation": "-blättrig („five-petalled“: fünfblättrig)",
+      "example": "Small and hard and greenish-white, they split as the crowd watched, and opened, one after another, all the way round the hedge, into tiny five-petalled flowers as white as the snow that drifted down between them."
+    },
+    {
       "word": "pewter",
       "pos": "NOUN",
       "translation": "das Zinn (zinngrau)",
@@ -10793,6 +11189,12 @@
       "pos": "NOUN",
       "translation": "die Prise („at a pinch“: notfalls)",
       "example": "Any Well will do, at a pinch."
+    },
+    {
+      "word": "pinch",
+      "pos": "VERB",
+      "translation": "kneifen, zwicken",
+      "example": "And one by one, all around the bowl, every lantern that had been lit against the grey morning went out — not blown, not flickering, but simply snuffed, as if a giant had pinched each one between finger and thumb."
     },
     {
       "word": "pink",
@@ -11161,6 +11563,12 @@
       "example": "Inside lay a folded letter, its paper yellowed with age, and pressed flat between its pages was a single leaf — not oak, not ash, not any tree Rowan knew, but long and silvery and veined with the faintest trace of gold."
     },
     {
+      "word": "press down",
+      "pos": "PHRASE",
+      "translation": "herunterdrücken, lasten auf",
+      "example": "He could feel the crowd watching him, feel the weight of five hundred pairs of eyes pressing down on the back of his neck like a hand."
+    },
+    {
       "word": "pressed",
       "pos": "ADJ",
       "translation": "gepresst (Blätter)",
@@ -11275,6 +11683,12 @@
       "example": "Thornhall had an old provision, she explained — so old that most of the current Wardens had forgotten it existed."
     },
     {
+      "word": "provisionally",
+      "pos": "ADV",
+      "translation": "vorläufig",
+      "example": "You are a student of this Academy, Ashby, however provisionally."
+    },
+    {
       "word": "provoke",
       "pos": "VERB",
       "translation": "provozieren, reizen",
@@ -11345,6 +11759,12 @@
       "pos": "ADJ",
       "translation": "lila, violett",
       "example": "The pink sky became grey, then dark purple."
+    },
+    {
+      "word": "purpose",
+      "pos": "NOUN",
+      "translation": "der Zweck („on purpose“: absichtlich)",
+      "example": "Someone had arranged it that way on purpose."
     },
     {
       "word": "purr",
@@ -11790,6 +12210,12 @@
       "example": "The village elder cleared his throat, made a speech nobody listened to, and stepped aside with visible relief."
     },
     {
+      "word": "relight",
+      "pos": "VERB",
+      "translation": "wieder anzünden, wieder aufleuchten",
+      "example": "Then, one by one, in the same order, they relit."
+    },
+    {
       "word": "reluctance",
       "pos": "NOUN",
       "translation": "das Widerstreben",
@@ -11866,6 +12292,18 @@
       "pos": "VERB",
       "translation": "sich melden (bei), berichten",
       "example": "\"From tomorrow, during Foundations, you will report to the glasshouses on the western terrace."
+    },
+    {
+      "word": "reputation",
+      "pos": "NOUN",
+      "translation": "der Ruf",
+      "example": "But every first-year knew that their whole year's reputation would be decided on that cold grey floor, in front of five hundred watching faces, and they had been sick with nerves about it for weeks."
+    },
+    {
+      "word": "resinous",
+      "pos": "ADJ",
+      "translation": "harzig",
+      "example": "He stood very still on the frozen floor of the Thorn Ring, and he breathed the cold, resinous air, and he listened — the way he had listened in the glasshouse, sitting beside a clay pot with his eyes shut, waiting for something small and green and patient to stir in its sleep."
     },
     {
       "word": "respect",
@@ -12042,6 +12480,12 @@
       "example": "When the little bell above the door rang, Léa looked up from the counter."
     },
     {
+      "word": "Ring",
+      "pos": "PROPN",
+      "translation": "Ring („Thorn Ring“: der Dornenring)",
+      "example": "Every year, on the last day before the midwinter holiday, the first-years of Thornhall stood in the Thorn Ring and showed the whole school what they had learned."
+    },
+    {
       "word": "ripe",
       "pos": "ADJ",
       "translation": "reif",
@@ -12088,6 +12532,12 @@
       "pos": "NOUN",
       "translation": "die Straße",
       "example": "Bandits have been attacking villages along the southern road."
+    },
+    {
+      "word": "roar",
+      "pos": "NOUN",
+      "translation": "das Brausen, das Tosen",
+      "example": "Rowan, standing with the other first-years in the low stone passage that led out onto the floor of the Ring, could hear the roar of the crowd above him like the sound of the sea."
     },
     {
       "word": "roar",
@@ -12208,6 +12658,12 @@
       "pos": "ADJ",
       "translation": "rund",
       "example": "The cellar was small and round and very dry, and its walls were not walls at all, but roots: hundreds of them, thick and thin, woven together like the strands of a basket, holding back the earth on every side."
+    },
+    {
+      "word": "round",
+      "pos": "ADP",
+      "translation": "um … herum",
+      "example": "Small and hard and greenish-white, they split as the crowd watched, and opened, one after another, all the way round the hedge, into tiny five-petalled flowers as white as the snow that drifted down between them."
     },
     {
       "word": "round",
@@ -12366,10 +12822,22 @@
       "example": "He chose the safest."
     },
     {
+      "word": "sail",
+      "pos": "NOUN",
+      "translation": "das Segel",
+      "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
+    },
+    {
       "word": "sailor",
       "pos": "NOUN",
       "translation": "der Seemann, der Matrose",
       "example": "Two little sailors who lost their boat."
+    },
+    {
+      "word": "salve",
+      "pos": "NOUN",
+      "translation": "die Salbe",
+      "example": "He found Old Moss in the fifth glasshouse that evening, sitting on his upturned bucket among the saplings with a pot of salve in his lap, as though he had been expecting him."
     },
     {
       "word": "Sam",
@@ -12430,6 +12898,12 @@
       "pos": "ADJ",
       "translation": "ängstlich, verängstigt",
       "example": "Leo is scared. — Leo hat Angst."
+    },
+    {
+      "word": "scarf",
+      "pos": "NOUN",
+      "translation": "der Schal",
+      "example": "He could see slices of it through the archway: rows of faces, scarves, breath steaming in the cold."
     },
     {
       "word": "scarred",
@@ -12576,6 +13050,12 @@
       "example": "And high on the battlements, where a castle would have had banners, whole oaks stood rooted in the stone, their crowns turning bronze and gold with the season."
     },
     {
+      "word": "seat",
+      "pos": "NOUN",
+      "translation": "der Sitz, der Platz",
+      "example": "Master Hale rose from his seat and came down the steps, unhurried, his gloved hands clasped behind his back."
+    },
+    {
       "word": "second",
       "pos": "ADJ",
       "translation": "zweiter",
@@ -12672,6 +13152,12 @@
       "example": "He paused, and his expression became more serious."
     },
     {
+      "word": "serpent",
+      "pos": "NOUN",
+      "translation": "die Schlange",
+      "example": "A boy from the western coast made the frost on the floor melt and run together into a single long silver serpent of water, which wound three times around his feet and then, at a flick of his fingers, froze solid again with a sound like breaking glass."
+    },
+    {
       "word": "servant",
       "pos": "NOUN",
       "translation": "der Diener",
@@ -12706,6 +13192,12 @@
       "pos": "PHRASE",
       "translation": "aufbrechen, losfahren",
       "example": "She sat at the very back of the wagon with her knees drawn up and a book balanced on them, and she had not said a word since they set off."
+    },
+    {
+      "word": "set out",
+      "pos": "PHRASE",
+      "translation": "aufstellen, auslegen",
+      "example": "In the centre, on a low stone table, someone had set out four small objects in a row: a shallow dish of water, a stub of candle, a smooth river pebble, and a single white feather."
     },
     {
       "word": "set up",
@@ -12862,6 +13354,12 @@
       "pos": "PRON",
       "translation": "sie",
       "example": "She is happy. — Sie ist froh."
+    },
+    {
+      "word": "shed",
+      "pos": "VERB",
+      "translation": "abwerfen, verlieren",
+      "example": "Then, as the crowd gasped, a single stone rose out of the earth in front of her: a rough grey boulder the size of a sheep, which climbed slowly into the air until it hung level with her head, turning gently, shedding frost and soil."
     },
     {
       "word": "sheep",
@@ -13084,6 +13582,12 @@
       "pos": "VERB",
       "translation": "die Läden schließen („shuttered“: mit geschlossenen Läden)",
       "example": "He paid the cooper without haggling — something Rowan had never once seen him do — and was back on the cart within minutes, his face closed like a shuttered window."
+    },
+    {
+      "word": "sick",
+      "pos": "ADJ",
+      "translation": "krank („sick with nerves“: krank vor Aufregung)",
+      "example": "But every first-year knew that their whole year's reputation would be decided on that cold grey floor, in front of five hundred watching faces, and they had been sick with nerves about it for weeks."
     },
     {
       "word": "side",
@@ -13512,6 +14016,12 @@
       "example": "Mistress Crane, gliding past on her way to the door, paused beside his desk, looked at the untouched objects, then at the smear of red on his cuff."
     },
     {
+      "word": "smear",
+      "pos": "VERB",
+      "translation": "einschmieren, bestreichen",
+      "example": "The old man smeared it with something cool and green that smelled of crushed leaves, and wound a strip of clean linen around it with fingers that trembled, but did not fumble."
+    },
+    {
       "word": "smell",
       "pos": "NOUN",
       "translation": "der Geruch",
@@ -13606,6 +14116,24 @@
       "pos": "VERB",
       "translation": "schnauben",
       "example": "Edric Vane snorted from the driver's bench."
+    },
+    {
+      "word": "snow",
+      "pos": "NOUN",
+      "translation": "der Schnee",
+      "example": "On the morning of the Trial, the sky over Thornhall was the colour of old pewter, and a few dry flakes of snow were drifting down out of it, too thin to settle."
+    },
+    {
+      "word": "snowflake",
+      "pos": "NOUN",
+      "translation": "die Schneeflocke",
+      "example": "A tiny girl from the northern passes called a wind that spun the falling snowflakes into a perfect, glittering spiral and held it there for a full minute."
+    },
+    {
+      "word": "snuff",
+      "pos": "VERB",
+      "translation": "auslöschen, ersticken (eine Flamme)",
+      "example": "And one by one, all around the bowl, every lantern that had been lit against the grey morning went out — not blown, not flickering, but simply snuffed, as if a giant had pinched each one between finger and thumb."
     },
     {
       "word": "so",
@@ -13926,6 +14454,12 @@
       "example": "They looked exactly as they always had: scratched, calloused, a splinter-scar across one knuckle."
     },
     {
+      "word": "split",
+      "pos": "VERB",
+      "translation": "aufplatzen, sich spalten",
+      "example": "Small and hard and greenish-white, they split as the crowd watched, and opened, one after another, all the way round the hedge, into tiny five-petalled flowers as white as the snow that drifted down between them."
+    },
+    {
       "word": "splitting",
       "pos": "NOUN",
       "translation": "das Spalten (Holz)",
@@ -14064,6 +14598,12 @@
       "example": "Sam stands under the tree. — Sam steht unter dem Baum."
     },
     {
+      "word": "stand out",
+      "pos": "PHRASE",
+      "translation": "hervortreten, sich abheben",
+      "example": "At the end of the row, Maren Vell was gripping her satchel so hard that her knuckles stood out white."
+    },
+    {
       "word": "stand up",
       "pos": "PHRASE",
       "translation": "aufstehen",
@@ -14086,6 +14626,12 @@
       "pos": "VERB",
       "translation": "starren, anstarren",
       "example": "Godfrey stopped his horse and stared at the ruins for a long time."
+    },
+    {
+      "word": "stare back",
+      "pos": "PHRASE",
+      "translation": "zurückstarren",
+      "example": "Rowan stood in the middle of the floor with his burned hand against his chest and stared at the hedge, and the hedge, he could have sworn, stared back."
     },
     {
       "word": "start",
@@ -14116,6 +14662,12 @@
       "pos": "NOUN",
       "translation": "der Dampf",
       "example": "Families had come from Fernhollow and Hob's Ford and the scattered farms along the river, and the fog was lifting off them like steam off a horse."
+    },
+    {
+      "word": "steam",
+      "pos": "VERB",
+      "translation": "dampfen",
+      "example": "He could see slices of it through the archway: rows of faces, scarves, breath steaming in the cold."
     },
     {
       "word": "stem",
@@ -14194,6 +14746,12 @@
       "pos": "PROPN",
       "translation": "Stillwater (See, „stilles Wasser“)",
       "example": "The lake was called Stillwater, Gethin said, and Rowan could see why: not a ripple marked it, not a breath of wind, and the hill and its towers lay reflected in it so perfectly that it was hard to say which Thornhall was the real one and which the echo."
+    },
+    {
+      "word": "stinging",
+      "pos": "ADJ",
+      "translation": "brennend, stechend",
+      "example": "The flame licked across his palm, quick and stinging, and the feather crumbled into ash on the stone."
     },
     {
       "word": "stir",
@@ -14364,6 +14922,18 @@
       "example": "Her voice was as dry and quiet as ever, and carried just as easily, but Rowan thought it sounded thinner than it had on the first night — like paper stretched too tight."
     },
     {
+      "word": "strictly",
+      "pos": "ADV",
+      "translation": "streng, genau",
+      "example": "It was not, strictly speaking, a trial at all — nobody failed it, and nobody was sent home."
+    },
+    {
+      "word": "strictly speaking",
+      "pos": "PHRASE",
+      "translation": "genau genommen, strenggenommen",
+      "example": "It was not, strictly speaking, a trial at all — nobody failed it, and nobody was sent home."
+    },
+    {
       "word": "strike",
       "pos": "NOUN",
       "translation": "der Schlag",
@@ -14374,6 +14944,12 @@
       "pos": "VERB",
       "translation": "schlagen",
       "example": "Every man reveals his intentions before he strikes."
+    },
+    {
+      "word": "strip",
+      "pos": "NOUN",
+      "translation": "der Streifen",
+      "example": "The old man smeared it with something cool and green that smelled of crushed leaves, and wound a strip of clean linen around it with fingers that trembled, but did not fumble."
     },
     {
       "word": "strip",
@@ -14470,6 +15046,12 @@
       "pos": "ADV",
       "translation": "plötzlich",
       "example": "Just before the impact, Godfrey's saddle suddenly slipped to one side."
+    },
+    {
+      "word": "suggest",
+      "pos": "VERB",
+      "translation": "vorschlagen, andeuten",
+      "example": "Master Hale had looked at him across the corridor outside the Great Hall, three days before, as though he had suggested something faintly indecent."
     },
     {
       "word": "suggestion",
@@ -14590,6 +15172,18 @@
       "pos": "VERB",
       "translation": "fegen („sweep away“: davonrauschen)",
       "example": "She turned and swept away, Edric and the other boy trailing behind her."
+    },
+    {
+      "word": "sweep down",
+      "pos": "PHRASE",
+      "translation": "herabfegen",
+      "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
+    },
+    {
+      "word": "swell",
+      "pos": "VERB",
+      "translation": "anschwellen",
+      "example": "And along the bare black branches, in the dead of winter, buds were swelling."
     },
     {
       "word": "swim",
@@ -15029,6 +15623,18 @@
       "example": "It was taller than the wagons and as thick as a wall: a solid barrier of black, glossy thorn, each spine as long as a finger."
     },
     {
+      "word": "Thorn",
+      "pos": "PROPN",
+      "translation": "Dorn („Thorn Ring“: der Dornenring)",
+      "example": "Every year, on the last day before the midwinter holiday, the first-years of Thornhall stood in the Thorn Ring and showed the whole school what they had learned."
+    },
+    {
+      "word": "thorn ring",
+      "pos": "PHRASE",
+      "translation": "der Dornenring",
+      "example": "Every year, on the last day before the midwinter holiday, the first-years of Thornhall stood in the Thorn Ring and showed the whole school what they had learned."
+    },
+    {
       "word": "thorned",
       "pos": "ADJ",
       "translation": "dornig",
@@ -15039,6 +15645,12 @@
       "pos": "PROPN",
       "translation": "Thornhall (Name der Akademie)",
       "example": "Pinned to the board beside the shrine was a sheet of heavy cream paper bearing the seal of Thornhall: a thorned branch encircling a well."
+    },
+    {
+      "word": "Thorns",
+      "pos": "PROPN",
+      "translation": "Dornen („Trial of Thorns“: die Dornenprobe)",
+      "example": "It was called the Trial of Thorns."
     },
     {
       "word": "those",
@@ -15195,6 +15807,18 @@
       "pos": "VERB",
       "translation": "binden",
       "example": "Godfrey was pale with pain, his leg tied between two wooden boards."
+    },
+    {
+      "word": "tie off",
+      "pos": "PHRASE",
+      "translation": "abbinden, verknoten",
+      "example": "He tied off the bandage."
+    },
+    {
+      "word": "tier",
+      "pos": "NOUN",
+      "translation": "der Rang, die Stufe",
+      "example": "Stone benches rose in tiers up the sides of the bowl."
     },
     {
       "word": "tight",
@@ -15527,6 +16151,24 @@
       "example": "Rowan Ashby felt it before he heard it: a faint shudder through the soles of his boots, the kind of tremor that runs ahead of a fall the way a rumour runs ahead of a storm."
     },
     {
+      "word": "trial",
+      "pos": "NOUN",
+      "translation": "die Prüfung; der Prozess",
+      "example": "It was not, strictly speaking, a trial at all — nobody failed it, and nobody was sent home."
+    },
+    {
+      "word": "Trial",
+      "pos": "PROPN",
+      "translation": "Probe („Trial of Thorns“: die Dornenprobe)",
+      "example": "It was called the Trial of Thorns."
+    },
+    {
+      "word": "trial of thorns",
+      "pos": "PHRASE",
+      "translation": "die Dornenprobe",
+      "example": "It was called the Trial of Thorns."
+    },
+    {
       "word": "triangle",
       "pos": "NOUN",
       "translation": "das Dreieck",
@@ -15737,6 +16379,12 @@
       "example": "The rod in his hand jerked one way, then the other, then swung wildly back and forth, unable to settle, as though whatever it had been following were suddenly everywhere at once, spreading through the ground beneath the hall like roots."
     },
     {
+      "word": "unbroken",
+      "pos": "ADJ",
+      "translation": "ununterbrochen",
+      "example": "Jory, in the fourth group, poured water from a jug at one end of the Ring into a cup at the other, forty paces away, in a single unbroken arc that glittered in the grey light like a thread of glass, and did not spill a drop."
+    },
+    {
       "word": "uncertain",
       "pos": "ADJ",
       "translation": "ungewiss",
@@ -15747,6 +16395,12 @@
       "pos": "PROPN",
       "translation": "(„Writ of Uncertain Marking“: Erlass über ungewisse Zeichnung)",
       "example": "It was called the Writ of Uncertain Marking."
+    },
+    {
+      "word": "uncertainly",
+      "pos": "ADV",
+      "translation": "unsicher, zögernd",
+      "example": "\"The wind,\" someone said, uncertainly, up on the benches."
     },
     {
       "word": "uncle",
@@ -15863,10 +16517,22 @@
       "example": "\"Unmarked.\""
     },
     {
+      "word": "unpleasant",
+      "pos": "ADJ",
+      "translation": "unangenehm",
+      "example": "The noise died away to a murmur, and then to an expectant, unpleasant hush."
+    },
+    {
       "word": "unreadable",
       "pos": "ADJ",
       "translation": "undurchschaubar",
       "example": "Ilse Fenwick, fully dressed, her boots on, her thin face unreadable."
+    },
+    {
+      "word": "unreasonable",
+      "pos": "ADJ",
+      "translation": "unvernünftig",
+      "example": "We are not unreasonable."
     },
     {
       "word": "unremarkable",
@@ -16108,6 +16774,12 @@
       "example": "They expected an easy victory."
     },
     {
+      "word": "view",
+      "pos": "NOUN",
+      "translation": "die Sicht, der Blick",
+      "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
+    },
+    {
       "word": "village",
       "pos": "NOUN",
       "translation": "das Dorf",
@@ -16198,6 +16870,12 @@
       "example": "He'll have walked off in the night to save the fare.\""
     },
     {
+      "word": "walk out",
+      "pos": "PHRASE",
+      "translation": "hinausgehen",
+      "example": "Rowan walked out into the middle of it alone, his boots crunching on the frost, and the silence followed him the whole way like a dog at his heels."
+    },
+    {
       "word": "walk over",
       "pos": "PHRASE",
       "translation": "hinübergehen",
@@ -16268,6 +16946,12 @@
       "pos": "ADJ",
       "translation": "misstrauisch, vorsichtig",
       "example": "The older Earth students eyed him with a kind of wary curiosity, the way you might eye a stray dog that had followed someone home."
+    },
+    {
+      "word": "wash",
+      "pos": "VERB",
+      "translation": "waschen („wash over“: überspülen, überfluten)",
+      "example": "It washed over him like a wave, from every side at once: not all of it cruel, but enough."
     },
     {
       "word": "washbasin",
@@ -16420,6 +17104,12 @@
       "example": "Last week, my brother saw one of them pay for his drinks with a silver coin."
     },
     {
+      "word": "weight",
+      "pos": "NOUN",
+      "translation": "das Gewicht",
+      "example": "He could feel the crowd watching him, feel the weight of five hundred pairs of eyes pressing down on the back of his neck like a hand."
+    },
+    {
       "word": "welcome",
       "pos": "INTJ",
       "translation": "willkommen!",
@@ -16564,6 +17254,12 @@
       "example": "Godfrey nodded, which, from him, was almost a compliment."
     },
     {
+      "word": "whichever",
+      "pos": "DET",
+      "translation": "welche(r) auch immer",
+      "example": "\"Since you have no element, Ashby,\" he said, and his voice carried to every corner of the bowl, \"you may choose whichever of these you like."
+    },
+    {
       "word": "while",
       "pos": "NOUN",
       "translation": "eine Weile („for a while“: eine Weile)",
@@ -16580,6 +17276,12 @@
       "pos": "NOUN",
       "translation": "die Peitsche",
       "example": "Gethin pointed ahead with his whip."
+    },
+    {
+      "word": "whirl",
+      "pos": "VERB",
+      "translation": "herumwirbeln",
+      "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
     },
     {
       "word": "whisper",

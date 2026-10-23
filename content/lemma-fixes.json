@@ -97,10 +97,28 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Blackthorn",
+      "pos": "ADJ",
+      "word": "blackthorn",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Blackthorn",
+      "pos": "PROPN",
+      "word": "blackthorn",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "blackthorn",
       "pos": "VERB",
       "word": "blackthorn",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Blank",
+      "pos": "ADJ",
+      "word": "Blank",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "boy",
@@ -143,6 +161,12 @@
       "pos": "PROPN",
       "word": "breathe",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "bristling",
+      "pos": "NOUN",
+      "word": "bristling",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "calloused",
@@ -198,6 +222,12 @@
       "pos": "NOUN",
       "word": "colossal",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "confetti",
+      "pos": "PROPN",
+      "word": "confetti",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "cross",
@@ -401,6 +431,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "fumble",
+      "pos": "ADJ",
+      "word": "fumble",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "further",
       "pos": "ADJ",
       "word": "further",
@@ -539,6 +575,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "indecent",
+      "pos": "NOUN",
+      "word": "indecent",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "indrawn",
       "pos": "VERB",
       "word": "indrawn",
@@ -561,6 +603,12 @@
       "pos": "PROPN",
       "word": "inn",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "inwards",
+      "pos": "NOUN",
+      "word": "inwards",
+      "lemmaPos": "ADV"
     },
     {
       "text": "ivy",
@@ -598,6 +646,12 @@
       "pos": "NOUN",
       "word": "know",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "lad",
+      "pos": "ADJ",
+      "word": "lad",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "lean",
@@ -681,6 +735,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "melt",
+      "pos": "NOUN",
+      "word": "melt",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "midwinter",
       "pos": "PROPN",
       "word": "midwinter",
@@ -717,6 +777,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "move",
+      "pos": "NOUN",
+      "next": ",",
+      "word": "move",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "moves",
       "pos": "NOUN",
       "word": "move",
@@ -732,6 +799,18 @@
       "text": "MULE",
       "pos": "ADJ",
       "word": "mule",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "murmur",
+      "pos": "ADJ",
+      "word": "murmur",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "nan",
+      "pos": "PROPN",
+      "word": "nan",
       "lemmaPos": "NOUN"
     },
     {
@@ -814,6 +893,18 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "petal",
+      "pos": "ADJ",
+      "word": "petal",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "petalled",
+      "pos": "VERB",
+      "word": "petalled",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Pie",
       "pos": "PROPN",
       "word": "pie",
@@ -878,6 +969,12 @@
       "pos": "NOUN",
       "word": "red",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "relit",
+      "pos": "VERB",
+      "word": "relight",
+      "lemmaPos": "VERB"
     },
     {
       "text": "REYNE",
@@ -1022,6 +1119,12 @@
       "pos": "PROPN",
       "word": "slow",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "smelled",
+      "pos": "NOUN",
+      "word": "smell",
+      "lemmaPos": "VERB"
     },
     {
       "text": "soles",
@@ -1187,6 +1290,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "unhurried",
+      "pos": "VERB",
+      "word": "unhurried",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Unmarked",
       "pos": "ADJ",
       "word": "unmarked",
@@ -1271,6 +1380,13 @@
       "pos": "PRON",
       "word": "whey",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "white",
+      "pos": "ADV",
+      "next": "blackthorn",
+      "word": "white",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "Wood",
