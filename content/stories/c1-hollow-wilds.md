@@ -580,3 +580,119 @@ That night, curled up in his alcove at Hearthside with the curtain drawn, Rowan 
 It was harder than he had expected. There was so much he could not say. Not the night wagons, or the child's fingers pressed against the boards, because Maren had made him promise. Not the table, or the hedge, because Bram had written show no one, and putting something on paper felt dangerously like showing it. In the end he wrote about the causeway and the living walls and the Warden who looked like a heron, and about Tamsin and Jory, and said that the food was good and his bed was warm. He did not mention Seraphine Hale.
 They've put me in Hearthside with Tamsin and the Tanners, he wrote at the end. The beds are tucked in among the roots of a huge old oak. I think you'd like it. It smells like the woodshed.
 He signed it, folded it, and blew out the candle. For a long while he lay awake in the dark, listening to the strange new sounds of Thornhall settling around him: the breathing of a dozen sleepers behind their curtains, the creak of great branches in the wind, the far-off murmur of the lake, the slow, deep groan of old wood shifting in its sleep.
+
+# The Shallow Well
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_1-1792786021206.mp3
+Every first-year at Thornhall, whatever their element, began the same way: with three mornings a week of a class called Foundations of the Well, taught in a long, bare room at the foot of the north stair by a woman who looked as though she had been assembled from coat hangers.
+Mistress Ottoline Crane was the tallest person Rowan had ever seen, taller even than Bram, and so thin that her grey robe seemed to hang from her shoulders rather than rest on them. She was Air, and she taught as though she were faintly surprised that anyone needed to be taught anything at all. On the first morning she walked to the front of the room, turned to face forty nervous fourteen-year-olds, and said, without introduction:
+"Close your eyes."
+They closed their eyes.
+"Somewhere inside you," said Mistress Crane, "there is a Well. It is not in your heart, or your stomach, or your head, whatever your grandmother may have told you. It is not a place at all, in the way that this room is a place. But you will feel it as though it were. Deep down. Below thought. Breathe slowly, and go looking for it."
+Rowan breathed slowly. He went looking.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_2-1792786038329.mp3
+"Every Well is different," Mistress Crane went on, her voice drifting down the room between the benches. "Some are deep, and some are shallow. Some are clear, and some are muddy, and some are so choked with fear and noise that their owners spend years unable to find the bottom. The Stone has already told you what lies at the bottom of yours: Earth, or Water, or Air, or Fire. What it cannot tell you is how much. That, you will discover for yourselves. And you will discover it carefully, because there is one thing about a Well that every one of you must learn before you learn anything else."
+She paused. Somewhere near the front, a boy sneezed.
+"A Well can run dry," said Mistress Crane.
+The silence in the room changed quality.
+"The power you draw is not borrowed from the sky or the stones or the sea. It is yours. It is you. Draw a little, and you will be tired, as though you had run a mile. Draw a great deal, and you will sleep for a day and wake up with a headache that makes you wish you hadn't. Draw too much, too fast, before your Well has learned to fill again—" She let the sentence hang. "Well. There is a reason the Academy keeps a very good infirmary. You may open your eyes."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_3-1792786053670.mp3
+They opened their eyes. On the bench beside Rowan, Jory let out a long, slow breath and muttered, "Cheerful."
+On each desk, while their eyes had been closed, someone had placed four small objects in a row: a shallow dish of water, a stub of candle, a smooth river pebble, and a single white feather.
+"Your first task," said Mistress Crane, "is to move one of them. Not far. Not fast. Simply enough to know that you were the one who moved it. Find the bottom of your Well, and draw the smallest breath you can from it. You have until the bell."
+For a long moment, nobody did anything. Then, at the end of Rowan's bench, Ilse Fenwick lifted one finger, and her feather rose from the desk, turned over twice in the air, and settled again as gently as a falling leaf.
+Mistress Crane glanced at her, raised one eyebrow by perhaps a hair's breadth, and moved on.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_4-1792786066172.mp3
+After that, it happened all around the room, like popcorn in a pan. A pebble skittered across a desk and fell off the edge. A candle wick sputtered into a tiny flame, and its owner yelped and knocked it over. Jory, his tongue clamped between his teeth, coaxed the water in his dish into a slow, wobbling ripple, then a ring, then a small, trembling dome that rose a finger's breadth into the air before collapsing with a splash all over his sleeves. "Did you see that?" he said, dripping and delighted. "Did you see that?"
+Two benches ahead, Tamsin had laid her palm flat beside her pebble and was frowning at it so ferociously that Rowan half expected it to crack. It did not crack. It rolled — slowly, sulkily, like a dog called in from the garden — all the way across her desk and into her hand.
+Rowan closed his eyes again, and went looking for his Well.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_5-1792786082832.mp3
+It was not that he could not find it. That was the strange part — the part he could never quite explain afterwards, not even to himself.
+He breathed, as Mistress Crane had told them, and let the noise of the room fade, and went down. And there it was, almost at once: a darkness deep inside him that was not empty, but full. He could feel it the way you feel the cold of a river before you put your hand in. It was deep. Much deeper, he thought, than it had any right to be in a boy who could not make a pebble twitch.
+But when he reached for it, it moved.
+Not towards him. Away. The moment he tried to take hold of it and pull, the way Mistress Crane had told them, it shrank from his grip like a fern curling up at a touch, and the whole Well clenched tight around itself like a fist, until nothing came up at all.
+He tried the feather. He tried the candle, and the water, and the pebble. He tried them in order and out of order, with his eyes open and his eyes shut, holding his breath and breathing so slowly that the room began to swim. Each time, he felt the same thing: the reaching, the recoil, the clenching, the stillness. It was like trying to shout with two hands clamped over his mouth.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_6-1792786094161.mp3
+When the bell rang, his feather lay exactly where it had been placed, and there was a thin line of blood running from his left nostril.
+"Rowan." Tamsin was staring at him. "Your nose."
+He wiped it on his sleeve. Mistress Crane, gliding past on her way to the door, paused beside his desk, looked at the untouched objects, then at the smear of red on his cuff. Her expression did not change.
+"Infirmary," she said. "And tomorrow, try to draw a little less."
+"I didn't draw anything," Rowan said. "That's the problem."
+Mistress Crane considered him for a long moment, with her head tilted slightly to one side, like a heron studying a ripple it could not quite account for. Then she left without another word.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_7-1792786105833.mp3
+It did not get better.
+By the end of the first week, every student in the class except one could move at least one of the four objects. By the end of the second, they had moved on from feathers and pebbles to things that were larger, and harder, and more interesting: lifting a jug of water and pouring it into a cup without spilling a drop; holding a candle flame steady while Mistress Crane opened the window; persuading a brick to stand on its end. Tamsin, it turned out, was very good at bricks. Jory could pour water from one cup to another across the width of the room. Ilse could put out every candle on her bench with a single breath that she never seemed to take.
+Rowan sat at the end of the bench with his four small objects, and the dull, familiar ache behind his eyes, and tried not to listen to the whispers.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_8-1792786118235.mp3
+They were not loud. Nobody at Thornhall was cruel enough, or brave enough, to say it to his face — not with Tamsin sitting beside him, at any rate, cracking her knuckles. But the word followed him down the corridors like a draught under a door. In the dining hall. On the stairs. In the queue for the washrooms in the morning. Blank. Seraphine Hale had taken to greeting him with it whenever they passed, in a light, friendly voice, as though it were simply his name. Good morning, Blank. Lovely weather, Blank. After a while, some of the first-years began to do it too, and they did not always sound as though they meant it unkindly, which was somehow worse.
+At night he lay in his alcove at Hearthside, listening to the others breathing in the dark, and wondered what was wrong with him.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_9-1792786127368.mp3
+The only good thing about the second week was the letter.
+It arrived on the Thursday, carried up the hill from Mossbridge with the rest of the post, and it was so short that Rowan read it four times in case he had missed something. The handwriting was Bram's: large, laborious capitals, pressed deep into the paper.
+GOT YOUR LETTER. GLAD THE FOOD IS GOOD. THE MULE MISSES YOU, THOUGH SHE WOULD NEVER SAY SO. KEEP YOUR HEAD DOWN. DON'T LET THEM RUSH YOU. SOME THINGS GROW SLOW. — B.
+Folded inside it, pressed flat and dry, was a single oak leaf from the clearing.
+Rowan put it under his pillow. It was a stupid thing to do, and he knew it, and he did it anyway.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_10-1792786141130.mp3
+At the end of the third week, Mistress Crane kept him behind after class.
+She waited until the room had emptied, until the last of the students had clattered off down the corridor and the door had swung shut behind them. Then she sat down on the edge of the desk in front of him, folding her long body like a carpenter's rule, and looked at him for some time without speaking.
+"I have been teaching this class for nineteen years," she said at last. "In that time, I have had students who were frightened, and students who were lazy, and students who were so clumsy with their gifts that they set fire to their own eyebrows. I have had students whose Wells were so shallow that it took them a whole year to move a feather. I have never had a student who could not move it at all." She paused. "Do you know what I think, Ashby?"
+Rowan shook his head. He did not trust his voice.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_11-1792786154466.mp3
+"I think your Well is not shallow." She said it quietly, almost reluctantly, as though it were a fact she would have preferred not to know. "I have watched you. Every lesson, you go down, and you find something, and it fights you. I can see it in your face. I have no idea what it is. I am not sure that anyone in this building does. But I know that sitting in this room three mornings a week, bleeding on my desks while forty other children practise pouring water, is not going to help you find out."
+She took a folded slip of paper from her sleeve and held it out to him.
+"From tomorrow, during Foundations, you will report to the glasshouses on the western terrace. The gardener has been asking for help for years, and nobody has ever been able to spare him any. You have strong hands, and you grew up in a forest. You will be more use there than here." She hesitated. "And you may find it… quieter."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_12-1792786162349.mp3
+Rowan took the paper. His face was burning.
+"You're sending me to dig," he said.
+"I am sending you somewhere you will not be called a name three times an hour," said Mistress Crane, with sudden sharpness. "Do not mistake the two." She rose, smoothed her robe, and went to the door. On the threshold she paused, without turning.
+"Ashby. The glasshouses were built by the Wood-wardens. Very little grows in them now. Nobody has ever known quite why." A pause. "I thought you might like to know that."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_13-1792786182081.mp3
+The glasshouses lay on a broad stone terrace on the western flank of the hill, below the Great Hall, where the afternoon sun struck the slope full on. There were five of them, long and high-roofed, built of thousands of small panes of greenish glass set in frames of dark, twisting wood — wood that, Rowan realised as he came closer, had not been cut and joined at all, but had grown into those shapes, bending and branching and interlacing like the walls of Thornhall itself.
+Half the panes were cracked. A few were missing altogether, and someone had patched the gaps with oiled canvas that flapped in the wind. Inside, the air was warm and heavy and smelled of damp earth and old leaves, and the long tables ran away into a green gloom crowded with pots and trays and tubs.
+Almost everything in them was struggling.
+Rowan saw it at once, the way Bram would have seen it. Seedlings that had come up thin and pale and then simply stopped. Herbs gone leggy and yellow at the tips. A row of young saplings in tubs along the back wall, each one no taller than his knee, each one bent in the same direction, towards the light of the cracked windows, as though they were trying with all their strength to lean out of their pots and escape.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_6.page_14-1792786200287.mp3
+Nobody seemed to be about. He found a pair of old gloves hanging on a nail, and a trowel, and a stack of empty pots, and — because he did not know what else to do, and because his hands needed something to do — he started at the nearest table and worked his way along it. He pulled out the dead stems. He loosened the soil where it had packed hard. He moved the pots that were drowning in shadow into the patches of sun, and turned the ones that had grown crooked, the way Bram had shown him with the young trees in the nursery bed behind the cabin. He did not think about the Well, or the feather, or the word that followed him along the corridors. For the first time in three weeks, he did not think about anything at all.
+The light was turning orange by the time he reached the end of the last table and straightened up, his back aching pleasantly, his hands black with earth.
+He turned around, and stopped.
+The saplings along the back wall were no longer leaning towards the windows. Every one of them, all down the row, had turned in its tub — slowly, the way a sunflower follows the sun across a field — and was leaning, very slightly, towards him.
+"Well, now," said a voice from somewhere among the ferns, dry and cracked and very old. "There's a thing I haven't seen in a long, long time."

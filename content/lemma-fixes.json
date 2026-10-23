@@ -91,6 +91,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Breathe",
+      "pos": "PROPN",
+      "word": "breathe",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "calloused",
       "pos": "VERB",
       "word": "calloused",
@@ -140,10 +146,22 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "curling",
+      "pos": "NOUN",
+      "word": "curl",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "cut",
       "pos": "NOUN",
       "word": "cut",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "deeper",
+      "pos": "ADV",
+      "word": "deep",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "Deepwood",
@@ -155,6 +173,12 @@
       "text": "dipping",
       "pos": "NOUN",
       "word": "dip",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "DON'T",
+      "pos": "VERB",
+      "word": "do",
       "lemmaPos": "VERB"
     },
     {
@@ -174,6 +198,12 @@
       "pos": "PROPN",
       "word": "examiner",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "fade",
+      "pos": "NOUN",
+      "word": "fade",
+      "lemmaPos": "VERB"
     },
     {
       "text": "Fall",
@@ -262,10 +292,22 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "GLAD",
+      "pos": "PROPN",
+      "word": "glad",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "glasses",
       "pos": "NOUN",
       "word": "glasses",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "GOT",
+      "pos": "VERB",
+      "word": "get",
+      "lemmaPos": "VERB"
     },
     {
       "text": "grained",
@@ -298,6 +340,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "hang",
+      "pos": "NOUN",
+      "word": "hang",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "hated",
       "pos": "VERB",
       "word": "hate",
@@ -326,6 +374,12 @@
       "pos": "VERB",
       "word": "indrawn",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Infirmary",
+      "pos": "PROPN",
+      "word": "infirmary",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "inn",
@@ -414,6 +468,18 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "MISSES",
+      "pos": "PROPN",
+      "word": "miss",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "Mistress",
+      "pos": "NOUN",
+      "word": "Mistress",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "moss",
       "pos": "ADJ",
       "word": "moss",
@@ -433,6 +499,12 @@
     },
     {
       "text": "mule",
+      "pos": "ADJ",
+      "word": "mule",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "MULE",
       "pos": "ADJ",
       "word": "mule",
       "lemmaPos": "NOUN"
@@ -462,6 +534,18 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "olds",
+      "pos": "NOUN",
+      "word": "year-old",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "orange",
+      "pos": "ADV",
+      "word": "orange",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "orange",
       "pos": "PROPN",
       "word": "orange",
@@ -472,6 +556,12 @@
       "pos": "NOUN",
       "word": "Patience",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "pebble",
+      "pos": "ADJ",
+      "word": "pebble",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "perfect",
@@ -502,6 +592,12 @@
       "pos": "NOUN",
       "word": "purr",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "quieter",
+      "pos": "NOUN",
+      "word": "quiet",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "rang",
@@ -551,6 +647,12 @@
       "pos": "PROPN",
       "word": "rock",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "roofed",
+      "pos": "VERB",
+      "word": "roofed",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "satchel",
@@ -608,6 +710,12 @@
       "next": "beneath",
       "word": "slide",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "SLOW",
+      "pos": "PROPN",
+      "word": "slow",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "soles",
@@ -683,6 +791,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "THOUGH",
+      "pos": "PROPN",
+      "word": "though",
+      "lemmaPos": "SCONJ"
+    },
+    {
       "text": "turf",
       "pos": "ADJ",
       "word": "turf",
@@ -693,6 +807,12 @@
       "pos": "DET",
       "word": "twice",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "twitch",
+      "pos": "NOUN",
+      "word": "twitch",
+      "lemmaPos": "VERB"
     },
     {
       "text": "unfurls",
@@ -738,6 +858,12 @@
     },
     {
       "text": "Well",
+      "pos": "ADJ",
+      "word": "Well",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Well",
       "pos": "INTJ",
       "word": "Well",
       "lemmaPos": "PROPN"
@@ -748,6 +874,25 @@
       "next": ",",
       "word": "well",
       "lemmaPos": "INTJ"
+    },
+    {
+      "text": "Well",
+      "pos": "INTJ",
+      "next": ".",
+      "word": "well",
+      "lemmaPos": "INTJ"
+    },
+    {
+      "text": "Well",
+      "pos": "NOUN",
+      "word": "Well",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Wells",
+      "pos": "PROPN",
+      "word": "Well",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Wood",
@@ -785,6 +930,18 @@
       "pos": "ADJ",
       "word": "yawn",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "yours",
+      "pos": "NOUN",
+      "word": "yours",
+      "lemmaPos": "PRON"
+    },
+    {
+      "text": "yourselves",
+      "pos": "NOUN",
+      "word": "yourselves",
+      "lemmaPos": "PRON"
     }
   ]
 }
