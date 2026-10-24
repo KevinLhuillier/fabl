@@ -3,7 +3,7 @@ import { createContext, useContext, useEffect, useState, type ReactNode } from '
 
 import type { Messages } from '@/i18n';
 
-import { storedSession, supabase } from './supabase';
+import { storedSession, supabase, unwrap } from './supabase';
 import { USERNAME_TAKEN } from './username';
 
 type AuthContextValue = {
@@ -38,6 +38,13 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 }
 
 export const useAuth = () => useContext(AuthContext);
+
+/** Deletes the signed-in user's account and all their data, then signs out on this device. */
+export async function deleteAccount(): Promise<void> {
+  unwrap(await supabase.rpc('delete_account'));
+  // The user no longer exists on the server: only the local session is left to clear.
+  await supabase.auth.signOut({ scope: 'local' });
+}
 
 /** Supabase auth errors, in the interface language. */
 export function authErrorMessage(t: Messages, message: string): string {

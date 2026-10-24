@@ -225,6 +225,12 @@ export const fr = {
     languageHint: 'Langue de l’application et des traductions.',
     replay: 'Revoir la démo',
     signOut: 'Se déconnecter',
+    deleteAccount: 'Supprimer mon compte',
+    deleteTitle: 'Supprimer ton compte ?',
+    deleteMessage:
+      'Ton compte et toutes tes données (progression, mots, séries) seront définitivement effacés. Cette action est irréversible.',
+    deleteConfirm: 'Supprimer définitivement',
+    deleteError: 'La suppression a échoué. Vérifie ta connexion et réessaie.',
   },
   /** Guided tour, per screen then per step id (see `TOUR_STEPS`). */
   tour: {

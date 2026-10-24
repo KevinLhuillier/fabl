@@ -220,6 +220,12 @@ export const de: Messages = {
     languageHint: 'Sprache der App und der Übersetzungen.',
     replay: 'Demo noch einmal ansehen',
     signOut: 'Abmelden',
+    deleteAccount: 'Mein Konto löschen',
+    deleteTitle: 'Dein Konto löschen?',
+    deleteMessage:
+      'Dein Konto und alle deine Daten (Fortschritt, Wörter, Serien) werden endgültig gelöscht. Das kann nicht rückgängig gemacht werden.',
+    deleteConfirm: 'Endgültig löschen',
+    deleteError: 'Löschen fehlgeschlagen. Prüfe deine Verbindung und versuch es noch einmal.',
   },
   tour: {
     home: {

@@ -8,13 +8,16 @@ import {
   Target,
   Trophy,
   Clock,
+  UserX,
   type LucideIcon,
 } from 'lucide-react-native';
+import { useState } from 'react';
 import { ScrollView, StyleSheet, Switch, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+import { ConfirmSheet } from '@/components/ConfirmSheet';
 import { LANGS, LANG_NAMES, useI18n } from '@/i18n';
-import { useAuth } from '@/lib/auth';
+import { deleteAccount, useAuth } from '@/lib/auth';
 import { formatDuration } from '@/lib/labels';
 import { DAILY_GOAL_OPTIONS, displayedStreak } from '@/lib/gamification';
 import { useStats } from '@/lib/stats';
@@ -27,6 +30,23 @@ export default function Profile() {
   const { t, lang, setLang } = useI18n();
   const { stats, updateDailyGoal, updateReadAlong } = useStats();
   const { target, replay } = useTour('profile', stats !== null);
+  const [confirmDelete, setConfirmDelete] = useState(false);
+  const [deleting, setDeleting] = useState(false);
+  const [deleteError, setDeleteError] = useState(false);
+
+  const removeAccount = async () => {
+    setConfirmDelete(false);
+    setDeleting(true);
+    setDeleteError(false);
+    try {
+      // Signed out on success: the auth guard leaves for the sign-in screen.
+      await deleteAccount();
+    } catch (e) {
+      console.warn(e);
+      setDeleteError(true);
+      setDeleting(false);
+    }
+  };
 
   return (
     <SafeAreaView style={styles.safe} edges={['top']}>
@@ -151,7 +171,31 @@ export default function Profile() {
           icon={<Icon icon={LogOut} size={20} color={colors.textOnColor} />}
           onPress={() => supabase.auth.signOut()}
         />
+
+        <Button
+          label={t.profile.deleteAccount}
+          variant="ghost"
+          haptic="tap"
+          loading={deleting}
+          disabled={deleting}
+          onPress={() => setConfirmDelete(true)}
+        />
+        {deleteError ? (
+          <Text align="center" color={colors.danger}>
+            {t.profile.deleteError}
+          </Text>
+        ) : null}
       </ScrollView>
+      <ConfirmSheet
+        visible={confirmDelete}
+        icon={UserX}
+        tone="danger"
+        title={t.profile.deleteTitle}
+        message={t.profile.deleteMessage}
+        confirmLabel={t.profile.deleteConfirm}
+        onConfirm={removeAccount}
+        onCancel={() => setConfirmDelete(false)}
+      />
     </SafeAreaView>
   );
 }

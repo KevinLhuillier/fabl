@@ -218,6 +218,12 @@ export const pt: Messages = {
     languageHint: 'Idioma do aplicativo e das traduções.',
     replay: 'Ver a demo de novo',
     signOut: 'Sair',
+    deleteAccount: 'Excluir minha conta',
+    deleteTitle: 'Excluir sua conta?',
+    deleteMessage:
+      'Sua conta e todos os seus dados (progresso, palavras, sequências) serão apagados para sempre. Essa ação não pode ser desfeita.',
+    deleteConfirm: 'Excluir definitivamente',
+    deleteError: 'Não foi possível excluir. Verifique sua conexão e tente novamente.',
   },
   tour: {
     home: {

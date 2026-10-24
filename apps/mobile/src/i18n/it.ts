@@ -218,6 +218,12 @@ export const it: Messages = {
     languageHint: "Lingua dell'app e delle traduzioni.",
     replay: 'Rivedi la demo',
     signOut: 'Esci',
+    deleteAccount: 'Elimina il mio account',
+    deleteTitle: 'Eliminare il tuo account?',
+    deleteMessage:
+      'Il tuo account e tutti i tuoi dati (progressi, parole, serie) saranno cancellati per sempre. Questa azione è irreversibile.',
+    deleteConfirm: 'Elimina definitivamente',
+    deleteError: 'Eliminazione non riuscita. Controlla la connessione e riprova.',
   },
   tour: {
     home: {

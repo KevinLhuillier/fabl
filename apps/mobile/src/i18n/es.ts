@@ -220,6 +220,12 @@ export const es: Messages = {
     languageHint: 'Idioma de la aplicación y de las traducciones.',
     replay: 'Ver la demo otra vez',
     signOut: 'Cerrar sesión',
+    deleteAccount: 'Eliminar mi cuenta',
+    deleteTitle: '¿Eliminar tu cuenta?',
+    deleteMessage:
+      'Tu cuenta y todos tus datos (progreso, palabras, rachas) se borrarán para siempre. Esta acción no se puede deshacer.',
+    deleteConfirm: 'Eliminar definitivamente',
+    deleteError: 'No se pudo eliminar. Revisa tu conexión e inténtalo de nuevo.',
   },
   tour: {
     home: {
