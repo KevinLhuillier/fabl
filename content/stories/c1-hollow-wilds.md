@@ -1390,3 +1390,160 @@ Behind him came a small, wiry woman with a long grey braid, her satchel bouncing
 Rowan wanted to sit up. He wanted to tell them about the heron-man, and the hook in his chest, and the voice from the hill that was going to come and buy. He wanted to tell Tamsin that it was all right, that he could feel the forest, that it was not angry any more, that it was only glad. But the stars had begun to go out, one by one, the way Ilse's lanterns had gone out in the Thorn Ring.
 The last thing he saw, before the dark closed over him, was the Elderwood: every tree in it, for as far as he could see, bowed low over the frozen lake, its branches spread above him like the roof of a great green hall — awake for the first time in three hundred years.
 Then there was nothing at all.
+
+# The Boy Who Woke the Wood
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_1-1792823709293.mp3
+He woke to the smell of lavender and the sound of someone arguing in a whisper.
+"—three days, Jory. Three days, and his lips were blue when they carried him in. Don't you dare tell me he's fine—"
+"I didn't say he was fine! I said he looked peaceful. That's different. My gran looked peaceful for a week once, and she—"
+"If you finish that sentence I will put you through the floor."
+Rowan opened his eyes. He was lying in a narrow white bed in a long, quiet room full of grey winter light. There were more white beds on either side of him, most of them empty, and at the far end a fire was burning in a wide stone hearth. On the windowsill beside his head, in a small clay pot, someone had planted a sprig of blackthorn. It was in flower.
+Tamsin and Jory were sitting on the end of his bed, glaring at each other. Ilse was in a chair by the window with a book open on her knees, not reading it.
+She was the first to notice. She closed the book.
+"He's awake," she said quietly.
+Tamsin made a sound that was half a sob and half a laugh, and nearly knocked him out of the bed again.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_2-1792823718938.mp3
+He had slept for three days. The infirmary healer — a stout, brisk, kindly woman called Mother Rook, who smelled of camphor and treated every student as though they were a slightly disappointing nephew — told him so, at length, while she peered into his eyes and felt the pulse at his wrist and pronounced him, with deep suspicion, to be recovering.
+"You drew far too much and far too fast," she said. "Your Well was as dry as a summer ditch when they brought you in. Another hour on that ice, and I wouldn't have been mending a boy. I'd have been burying one." She sniffed. "Mistress Crane will no doubt have something to say about it. So will I, when you're strong enough to hear it."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_3-1792823727216.mp3
+He learned the rest from the others, in pieces, over the course of that long, grey afternoon.
+They had all been punished, of course. Leaving Hearthside after the tenth bell, crossing the ice, going into the Elderwood — Master Hale had listed their crimes in the Warden's study the following morning in a voice like a frost, and Tamsin, Jory and Ilse had been given a month of scrubbing pans in the kitchens. But nobody had been sent home. Nobody, Rowan gathered, had even seriously suggested it.
+Because Bennet Croft had walked back across the ice that night alive.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_4-1792823738638.mp3
+He was in the infirmary too, three beds down, sleeping off the cold and the terror and a week of half-rations in the back of a wagon. His Well, Mother Rook said, was untouched. They had not had time. And Bennet, before he fell asleep, had told everyone who would listen — and by the following morning, that was everyone in Thornhall — exactly what he had seen on the shore of the frozen lake.
+"The roots," Jory said, his eyes shining. "The trees. The whole forest, Rowan. Bennet says it stood up like a giant getting out of bed. He says you were lying on the ice like a dead thing with your arms out, and the Elderwood came up all round you and threw those men about like straw. Half the school went down to the shore in the morning to look. The whole bank's torn up for a quarter of a mile. There are roots sticking out of the ice as thick as Hob."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_5-1792823749597.mp3
+"And the trees are still leaning," said Ilse, from the window. "All along the shore. Towards Thornhall. Towards here." She glanced at him, and away. "Old Moss says they won't straighten up again until spring. Maybe not then."
+Rowan lay back against the pillow and looked at the ceiling. He felt very strange. Light and hollow, like a bell after it has been rung. When he closed his eyes, he could still feel it, very faintly, at the edge of hearing — the Elderwood, vast and slow and patient on the far side of the lake, like the breathing of someone asleep in the next room.
+"What are they saying?" he asked. "About me?"
+There was a short silence. Tamsin and Jory looked at each other.
+"Well," said Jory, "nobody's calling you Blank any more."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_6-1792823759157.mp3
+They were calling him a great many other things instead.
+He heard them the day Mother Rook finally let him out of the infirmary and he walked, slowly and a little unsteadily, down to supper in the Great Hall. The noise in the hall dropped the moment he came through the doors, as though someone had thrown a blanket over it. Then it rose again — louder, faster, crackling with a new kind of whispering. Heads turned all the way down the tables. Students stood up on the benches to see.
+That's him.
+The Wood-boy.
+The one who woke the Elderwood.
+They say he's the first in three hundred years.
+They say he can make a tree walk.
+They say his mother was—
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_7-1792823770453.mp3
+He sat down at the end of the Hearthside table with his face burning, and found that there was suddenly a great deal of room around him. Some of the older students were looking at him with something like awe. Some of the younger ones looked frightened. A third-year he had never spoken to in his life came over, red-faced, and asked whether he would mind very much making her potted geranium flower before her sister's birthday.
+And at the Fire table, Seraphine Hale was not laughing.
+She sat very straight among her friends, her supper untouched, her fair face perfectly composed. But her eyes followed him the whole length of the hall, and when he glanced up and met them, he saw something there that was much worse than contempt. It looked, he thought, almost like hunger.
+Beside her, Edric Vane was staring down at his plate, and did not look up once.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_8-1792823780339.mp3
+The summons came the next morning, carried by Master Grey, who delivered it with his spectacles on his forehead and an expression of profound unease, as though the note might bite.
+The Warden's study was at the top of the tallest tower of Thornhall, at the end of a stair so long that Rowan had to stop twice to rest. It was a round room, crowded with books and maps and strange instruments of brass and glass, and its great window looked out over the frozen lake to the Elderwood. In the grey morning light, Rowan could see the line of the shore quite clearly from up here: the torn-up bank, the black tangle of roots thrust up through the ice, and the trees beyond, every one of them still bowed towards the hill.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_9-1792823794022.mp3
+They were all waiting for him. The Warden, in a high-backed chair by the fire. Master Hale, standing by the window with his gloved hands clasped behind him. Mistress Crane, folded into a corner like a grey umbrella. Maren Vell, at a writing desk with a great green ledger open in front of her. And, to Rowan's astonishment, Old Moss, perched on a stool by the hearth in his moth-eaten shawl, looking as out of place among the brass instruments as a turnip on a silver plate.
+"Sit down, Mr Ashby," said the Warden. "Before you fall down."
+He sat.
+For a long moment, she simply looked at him with her bright black eyes, the way she had looked at him from under the awning in the Thorn Ring. Then she reached out and took something from the table beside her chair, and held it out to him. It was a twig. A short, dry, grey twig of blackthorn, quite dead.
+"Show me," she said.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_10-1792823806181.mp3
+Rowan's mouth went dry. He took the twig. He held it in both hands and closed his eyes, and the whole room seemed to lean in towards him, waiting.
+He did not reach. He did not pull. He tried very hard not to try at all. He sat and breathed and listened, the way he had on the ice, and for a long and terrible moment he heard nothing but the crackle of the fire and the beating of his own heart.
+Then, very faintly, something in the twig stirred.
+It was so much smaller than the Elderwood — a single, tiny, sleepy thread of life, curled up tight in the dead wood like a seed in a husk. He listened to it. It listened back. And slowly, so slowly that he hardly felt it happen, a single green bud swelled at the tip of the twig, split, and opened into a small white five-petalled flower.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_11-1792823816902.mp3
+Rowan opened his eyes. He was trembling, and there was a thin warm line of blood on his upper lip again.
+Nobody spoke. Master Hale had turned from the window. Mistress Crane had unfolded herself and was leaning forward in her corner. At the writing desk, Maren Vell had put down her pen.
+And Old Moss, on his stool by the fire, gave a small, dry chuckle.
+"Told you," he said.
+"Yes, Alaric," said the Warden quietly. "You did."
+She took the flowering twig back from Rowan, very gently, and turned it over in her long fingers. "Three hundred years," she murmured. "Three hundred years we have kept that banner in the hall. And I confess that in my more honest moments, I had stopped believing anybody would ever come home to it."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_12-1792823829522.mp3
+"With respect, Warden." Master Hale's voice was flat and cold. "This is not a homecoming. It is a catastrophe."
+"Corvin—"
+"Every Blackroot agent between the mountains and the sea will have heard of that night on the ice by now. You know it, and I know it. A boy who drew Wood out of the Elderwood like water out of a pump, and who doesn't know how to stop. They will come for him. They will come over the walls, and under them, and through any door that anyone is foolish enough to leave open." He turned his fierce gaze on Rowan. "And you, boy, have spent the last three months doing your very best to leave them all open."
+"They are already here, Corvin," said the Warden. "They were here before he was. Bennet Croft did not walk out of Hearthside on his own."
+The silence after that was long and cold.
+"Then what do you propose?" said Hale, at last.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_13-1792823838206.mp3
+"I propose," said the Warden, "that we do what this Academy was built to do." She turned to Rowan. "Mr Ashby. You came to us under the Writ of Uncertain Marking, which states that if the Stone answers, the student stays. The Stone did not answer you. I do not think any Stone ever will." She held up the flowering twig. "But the Elderwood did. And as far as I am concerned, that is answer enough."
+At the writing desk, Maren dipped her pen in the ink. In the margin of the great green ledger, beside a name Rowan could not quite read upside down, she drew a small, careful shape. It took him a moment to recognise it.
+A leaf.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_14-1792823851067.mp3
+"You will continue in the glasshouses with Alaric," the Warden went on, "who knows more about the Wood than anyone living, though he has spent seventy years pretending to know nothing at all. Mistress Crane will teach you to control what you draw, before it kills you. You will not leave the hill. You will not go anywhere alone. And you will tell no one outside this room anything about what you can do." Her eyes held his. "Do you understand?"
+"Yes, Warden." Rowan swallowed. Then, before he could lose his nerve: "Warden. My mother's record. In the Departures book. It says it was sealed by your order."
+Something moved behind the Warden's bright eyes. Across the room, Maren Vell had gone very still.
+"Yes," said Aldith Merrow, after a long moment. "It was."
+"Why?"
+"Not today, Mr Ashby." Her voice was quite gentle, and quite final. "You have had enough for one day. And there are things that are not mine alone to tell."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_15-1792823864690.mp3
+Master Hale caught him on the stairs.
+Rowan heard the quick, hard footsteps coming down behind him and flattened himself against the wall to let the Head of Fire pass. But Hale stopped two steps above him, and for a moment the two of them simply looked at each other in the dim, curving stairwell, while the warmth that always hung around Hale crept out over the cold stone like breath.
+"You think I want you gone," Hale said. It was not a question.
+Rowan said nothing.
+"I examined you at the Stone, Ashby. I wrote Unmarked in my book and signed it, and the next day a woman who has been meddling in this Academy's affairs for twenty-six years walked into my supper with a Writ nobody had seen in ninety, and asked me to put my name to it." His mouth twisted. "I did. I have regretted it every day since. Not because I think you do not belong here. Because I think you are going to get people killed."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_16-1792823870760.mp3
+He leaned down, very slightly.
+"Something on this hill is rotten," he said quietly. "I do not yet know what. But until I do, you would be wise to trust no one. Not your friends. Not the Warden. Not that old fool in the glasshouses." A pause. "And certainly not Maren Vell."
+Then he was gone, his footsteps ringing away down the stairs, and Rowan was left alone in the cold with his heart pounding.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_17-1792823879317.mp3
+The letters began arriving the following week, in spite of the snow.
+They came from all over the Hollow Wilds, carried up from Mossbridge on sledges by carters who charged three times the usual rate and were glad to get it. Letters from village elders asking whether the Wood-boy might visit and bless their orchards. Letters from families whose fields had failed, asking whether he might come and make them grow. Letters from scholars in Rootholm asking to examine him. A letter from a rich merchant on the western coast, offering him a house and a pension for life if he would come and live under his protection. Master Grey brought them up to Hearthside in armfuls, and the Warden had every one of them burned unanswered.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_18-1792823885190.mp3
+There was one from Tamsin's mother, too, which said that the whole of Brackenford was talking of nothing else, and that someone had left a ring of acorns around the foot of the Standing Stone, all the way round, in the middle of the snow.
+And there was none from Bram.
+Rowan told himself that the roads were closed. That the snow lay three feet deep on the forest tracks. That Bram had never been much of a letter-writer even in summer.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_12.page_19-1792823893350.mp3
+On the ninth evening after he left the infirmary, he was sitting in the common room at Hearthside with Tamsin and the Tanners, trying to ignore the cluster of first-years who were watching him from across the room in case he made something bloom, when the door banged open and Master Grey came in on a gust of snow.
+His spectacles were crooked. His face was pink with cold and running.
+"Ashby," he panted. "There's a man at the hedge. Came across the causeway on foot, in this weather, if you can believe it — walked the whole way up from the south, by the look of him. Hale's down there with him now." He took a breath. "He says he's your uncle."

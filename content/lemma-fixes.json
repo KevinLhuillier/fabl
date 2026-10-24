@@ -43,6 +43,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "awe",
+      "pos": "PROPN",
+      "word": "awe",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "axes",
       "pos": "NOUN",
       "word": "axe",
@@ -119,6 +125,13 @@
       "pos": "ADJ",
       "word": "Blank",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "bloom",
+      "pos": "NOUN",
+      "next": ",",
+      "word": "bloom",
+      "lemmaPos": "VERB"
     },
     {
       "text": "boy",
@@ -242,6 +255,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "crooked",
+      "pos": "VERB",
+      "word": "crooked",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "cross",
       "pos": "ADJ",
       "next": "-",
@@ -307,6 +326,12 @@
       "pos": "PROPN",
       "word": "departure",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "dim",
+      "pos": "NOUN",
+      "word": "dim",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "dipping",
@@ -615,6 +640,12 @@
       "pos": "VERB",
       "word": "indrawn",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "infirmary",
+      "pos": "ADJ",
+      "word": "infirmary",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Infirmary",
@@ -1264,6 +1295,18 @@
       "pos": "NOUN",
       "word": "stumble",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "summons",
+      "pos": "NOUN",
+      "word": "summons",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "supper",
+      "pos": "VERB",
+      "word": "supper",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "swam",
