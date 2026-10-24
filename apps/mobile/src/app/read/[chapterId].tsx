@@ -1,7 +1,14 @@
 import { router, useLocalSearchParams } from 'expo-router';
 import { ChevronLeft, ChevronRight, Lightbulb, X } from 'lucide-react-native';
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { ActivityIndicator, Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import {
+  ActivityIndicator,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  View,
+  type ScrollViewInstance,
+} from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -60,7 +67,7 @@ export default function ChapterReader() {
   const { target } = useTour('reader', data !== null);
   const [sheet, setSheet] = useState<WordSheetState | null>(null);
   const [selected, setSelected] = useState<number | null>(null);
-  const scrollRef = useRef<ScrollView>(null);
+  const scrollRef = useRef<ScrollViewInstance>(null);
   const audioRef = useRef<PageAudioHandle>(null);
   // Read-along: which words the voice-over has reached (null when not playing).
   const [readAlong, setReadAlong] = useState<ReadAlong | null>(null);

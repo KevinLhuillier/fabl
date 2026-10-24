@@ -10,7 +10,7 @@ import {
   useState,
   type ReactNode,
 } from 'react';
-import { BackHandler, StyleSheet, View } from 'react-native';
+import { BackHandler, StyleSheet, View, type HostInstance } from 'react-native';
 import { useSafeAreaInsets, type EdgeInsets } from 'react-native-safe-area-context';
 
 import { Spotlight, type Rect } from '@/components/Spotlight';
@@ -32,7 +32,7 @@ type Active = {
 };
 
 type TourContextValue = {
-  targets: Map<string, View>;
+  targets: Map<string, HostInstance>;
   start: (screen: TourScreen) => void;
   replay: () => void;
 };
@@ -54,10 +54,10 @@ export function TourProvider({ children }: { children: ReactNode }) {
   const userId = session?.user.id ?? null;
   const [stored, setStored] = useState<Stored | null>(null);
   const [active, setActive] = useState<Active | null>(null);
-  const targets = useMemo(() => new Map<string, View>(), []);
+  const targets = useMemo(() => new Map<string, HostInstance>(), []);
   // The overlay covers this view: targets are measured relative to it, as
   // window coordinates may be offset (e.g. by the Android status bar).
-  const rootRef = useRef<View>(null);
+  const rootRef = useRef<HostInstance>(null);
   const insets = useSafeAreaInsets();
   const { t } = useI18n();
   // Null until loaded (and when signed out): nothing is shown meanwhile.
@@ -202,7 +202,7 @@ export function useTour(screen: TourScreen, ready = true) {
 export function useTourTarget(screen: TourScreen) {
   const { targets } = useTourContext();
   return useCallback(
-    (id: string) => (node: View | null) => {
+    (id: string) => (node: HostInstance | null) => {
       if (!node) return;
       const key = `${screen}.${id}`;
       targets.set(key, node);
