@@ -47,7 +47,7 @@ turn this off in **Authentication → Providers → Email → Confirm email**.
   choices). Tap any word to see its translation in a bottom sheet; the word is added to
   "Mes mots" (once). The current page is saved and resumed on reopen. A page with a voice-over
   has a round play button (bottom right); once the page is aligned, the words light up as they
-  are read and a long press on a word plays from there.
+  are read and a double tap on a word plays from there.
 - **Mes mots**: every word looked up, with translation, context sentence and story, searchable,
   removable (trash icon), with the number of words due today. Practice is possible at any time.
 - **Review**: due words (spaced repetition, simplified SM-2 — `src/lib/srs.ts`): the user types the word's translation,

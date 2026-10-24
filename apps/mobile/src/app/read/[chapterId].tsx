@@ -246,7 +246,7 @@ export default function ChapterReader() {
                 readAlong={readAlongEnabled ? readAlong : null}
                 readColor={level.shade}
                 currentColor={level.soft}
-                onWordLongPress={
+                onWordDoubleTap={
                   aligned
                     ? (t) => t.startMs !== null && audioRef.current?.playFrom(t.startMs)
                     : undefined
@@ -258,7 +258,7 @@ export default function ChapterReader() {
             <View style={styles.hint}>
               <Icon icon={Lightbulb} size={16} color={colors.textMuted} />
               <Text variant="caption" color={colors.textMuted}>
-                {t.reader.longPressHint}
+                {t.reader.doubleTapHint}
               </Text>
             </View>
           ) : null}

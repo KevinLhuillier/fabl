@@ -112,7 +112,7 @@ export const es: Messages = {
     notFound: 'Capítulo no encontrado: vuelve a publicar la historia.',
     header: (n, title, page, total) =>
       `CAPÍTULO ${n} · ${title.toUpperCase()} · PÁGINA ${page}/${total}`,
-    longPressHint: 'Mantén pulsada una palabra para escuchar desde ahí',
+    doubleTapHint: 'Toca dos veces una palabra para escuchar desde ahí',
     tapHint: 'Toca una palabra para ver su traducción',
     finish: 'Terminar el capítulo',
     previousPage: 'Página anterior',
@@ -259,7 +259,7 @@ export const es: Messages = {
       },
       audio: {
         title: 'Escucha la página',
-        text: 'Inicia la lectura: el texto se resalta al ritmo de la voz. Mantén pulsada una palabra para escuchar desde ahí.',
+        text: 'Inicia la lectura: el texto se resalta al ritmo de la voz. Toca dos veces una palabra para escuchar desde ahí.',
       },
       next: {
         title: 'Página siguiente',

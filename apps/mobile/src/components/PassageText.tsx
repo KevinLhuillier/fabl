@@ -1,4 +1,4 @@
-import { memo } from 'react';
+import { memo, useEffect, useRef } from 'react';
 import { StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 
@@ -17,9 +17,12 @@ type Props = {
   /** Text color of the words already read, background of the word being read. */
   readColor?: string;
   currentColor?: string;
-  /** Long press on a word with a timing (aligned voice-over): play from there. */
-  onWordLongPress?: (token: Token) => void;
+  /** Double tap on a word with a timing (aligned voice-over): play from there. */
+  onWordDoubleTap?: (token: Token) => void;
 };
+
+/** Second tap within this delay = double tap. A single tap waits for it before translating. */
+const DOUBLE_TAP_MS = 250;
 
 const QUOTE = /^["“”]$/;
 
@@ -48,7 +51,7 @@ export const PassageText = memo(function PassageText({
   readAlong,
   readColor,
   currentColor,
-  onWordLongPress,
+  onWordDoubleTap,
 }: Props) {
   const paragraphs = splitParagraphs(tokens).map(markDialogue).map(splitWords);
   const tapped = selectedPosition === null ? null : tokens[selectedPosition];
@@ -75,7 +78,7 @@ export const PassageText = memo(function PassageText({
                   readColor={readColor}
                   currentColor={currentColor}
                   onWordPress={onWordPress}
-                  onWordLongPress={onWordLongPress}
+                  onWordDoubleTap={onWordDoubleTap}
                 />
               ))}
               <Text variant="reading">
@@ -102,7 +105,7 @@ type WordProps = {
   readColor?: string;
   currentColor?: string;
   onWordPress: (token: Token) => void;
-  onWordLongPress?: (token: Token) => void;
+  onWordDoubleTap?: (token: Token) => void;
 };
 
 /**
@@ -121,8 +124,33 @@ const Word = memo(function Word({
   readColor,
   currentColor,
   onWordPress,
-  onWordLongPress,
+  onWordDoubleTap,
 }: WordProps) {
+  // First tap of a possible double tap, waiting for the second one.
+  const pendingTap = useRef<ReturnType<typeof setTimeout> | null>(null);
+  useEffect(() => () => clearTimeout(pendingTap.current ?? undefined), []);
+
+  const onPress = () => {
+    // Without an aligned voice-over there is no double tap: translate at once.
+    if (!onWordDoubleTap || t.startMs === null) {
+      haptics.select();
+      onWordPress(t);
+      return;
+    }
+    if (pendingTap.current) {
+      clearTimeout(pendingTap.current);
+      pendingTap.current = null;
+      haptics.tap();
+      onWordDoubleTap(t);
+      return;
+    }
+    haptics.select();
+    pendingTap.current = setTimeout(() => {
+      pendingTap.current = null;
+      onWordPress(t);
+    }, DOUBLE_TAP_MS);
+  };
+
   const style = [
     spoken && styles.spoken,
     read && { color: readColor },
@@ -140,22 +168,7 @@ const Word = memo(function Word({
         ]}
       />
       {t.lemma ? (
-        <Text
-          variant="reading"
-          suppressHighlighting
-          onPress={() => {
-            haptics.select();
-            onWordPress(t);
-          }}
-          onLongPress={
-            onWordLongPress && t.startMs !== null
-              ? () => {
-                  haptics.tap();
-                  onWordLongPress(t);
-                }
-              : undefined
-          }
-          style={style}>
+        <Text variant="reading" suppressHighlighting onPress={onPress} style={style}>
           {label}
         </Text>
       ) : (

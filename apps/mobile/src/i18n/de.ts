@@ -112,7 +112,7 @@ export const de: Messages = {
     notFound: 'Kapitel nicht gefunden: Veröffentliche die Geschichte erneut.',
     header: (n, title, page, total) =>
       `KAPITEL ${n} · ${title.toUpperCase()} · SEITE ${page}/${total}`,
-    longPressHint: 'Halte ein Wort gedrückt, um ab dort zu hören',
+    doubleTapHint: 'Tippe zweimal auf ein Wort, um ab dort zu hören',
     tapHint: 'Tippe auf ein Wort, um die Übersetzung zu sehen',
     finish: 'Kapitel beenden',
     previousPage: 'Vorherige Seite',
@@ -259,7 +259,7 @@ export const de: Messages = {
       },
       audio: {
         title: 'Hör dir die Seite an',
-        text: 'Starte das Vorlesen: Der Text wird im Takt der Stimme hervorgehoben. Halte ein Wort gedrückt, um ab dort zu hören.',
+        text: 'Starte das Vorlesen: Der Text wird im Takt der Stimme hervorgehoben. Tippe zweimal auf ein Wort, um ab dort zu hören.',
       },
       next: {
         title: 'Nächste Seite',
