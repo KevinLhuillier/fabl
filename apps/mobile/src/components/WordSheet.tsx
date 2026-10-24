@@ -58,7 +58,7 @@ export function WordSheet({ word, onClose, onSpeak }: Props) {
             texts={phrase ? [phrase.word] : [surface, lemma.word]}
             onPlay={onSpeak}
           />
-          <Badge label={posLabel(t, entry.pos)} tone="primary" />
+          <Badge label={posLabel(t, entry.pos)} tone="primary" style={styles.badge} />
         </View>
         {showLemma ? (
           <Text color={colors.textSecondary}>
@@ -119,6 +119,8 @@ const styles = StyleSheet.create({
     marginBottom: spacing.xs,
   },
   header: { flexDirection: 'row', alignItems: 'center', gap: spacing.md, flexWrap: 'wrap' },
+  // Badge pins itself to the top by default; centered on the speaker's height here.
+  badge: { alignSelf: 'center' },
   example: {
     backgroundColor: colors.background,
     borderRadius: radii.md,
