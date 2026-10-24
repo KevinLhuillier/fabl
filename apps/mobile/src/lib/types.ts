@@ -62,6 +62,9 @@ export type ChapterProgress = {
   completed: boolean;
 };
 
+/** Gesture that plays the voice-over from a word; the other one translates it. */
+export type PlayFromWord = 'double_tap' | 'tap';
+
 export type UserStats = {
   /** Practice time (reading + review) since the account was created. */
   total_seconds: number;
@@ -72,6 +75,8 @@ export type UserStats = {
   daily_goal_minutes: number | null;
   /** Highlight the text while the voice-over plays. */
   read_along: boolean;
+  /** Gesture on a word that plays the voice-over from there (aligned pages); the other translates. */
+  play_from_word: PlayFromWord;
   /** Interface and translation language chosen in the profile; null: device language. */
   lang: string | null;
   /** Unique public name; null for accounts created before usernames (asked at launch). */

@@ -9,11 +9,12 @@ import {
   fetchTodaySeconds,
   recordActivity,
   setDailyGoal,
+  setPlayFromWord,
   setReadAlong,
   setUserLang,
   setUsername,
 } from './gamification';
-import type { UserStats } from './types';
+import type { PlayFromWord, UserStats } from './types';
 
 type StatsContextValue = {
   stats: UserStats | null;
@@ -29,6 +30,7 @@ type StatsContextValue = {
   addActivity: (seconds: number) => Promise<void>;
   updateDailyGoal: (minutes: number) => Promise<void>;
   updateReadAlong: (enabled: boolean) => Promise<void>;
+  updatePlayFromWord: (gesture: PlayFromWord) => Promise<void>;
   updateLang: (lang: string) => Promise<void>;
   /** Rejects with `USERNAME_TAKEN` when another account has the name. */
   updateUsername: (username: string) => Promise<void>;
@@ -91,6 +93,10 @@ export function StatsProvider({ children }: { children: ReactNode }) {
     setStats(await setReadAlong(enabled));
   }, []);
 
+  const updatePlayFromWord = useCallback(async (gesture: PlayFromWord) => {
+    setStats(await setPlayFromWord(gesture));
+  }, []);
+
   const updateLang = useCallback(async (lang: string) => {
     setStats(await setUserLang(lang));
   }, []);
@@ -112,6 +118,7 @@ export function StatsProvider({ children }: { children: ReactNode }) {
         addActivity,
         updateDailyGoal,
         updateReadAlong,
+        updatePlayFromWord,
         updateLang,
         updateUsername,
       }}>

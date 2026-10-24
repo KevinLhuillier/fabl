@@ -113,6 +113,8 @@ export const de: Messages = {
     header: (n, title, page, total) =>
       `KAPITEL ${n} · ${title.toUpperCase()} · SEITE ${page}/${total}`,
     doubleTapHint: 'Tippe zweimal auf ein Wort, um ab dort zu hören',
+    tapPlayHint: 'Tippe auf ein Wort, um ab dort zu hören',
+    doubleTapTranslateHint: 'Tippe zweimal auf ein Wort, um die Übersetzung zu sehen',
     tapHint: 'Tippe auf ein Wort, um die Übersetzung zu sehen',
     finish: 'Kapitel beenden',
     previousPage: 'Vorherige Seite',
@@ -216,6 +218,10 @@ export const de: Messages = {
     dailyGoalHint: 'Minuten Lesen oder Wiederholen pro Tag.',
     readAlong: 'Mitlesen',
     readAlongHint: 'Hebt beim Zuhören den Text und das gelesene Wort hervor.',
+    gestures: 'Lesegesten',
+    translateWord: 'Wort übersetzen',
+    playFromWord: 'Ab einem Wort hören',
+    gestureNames: { tap: 'Tippen', double_tap: 'Doppeltippen' },
     language: 'Sprache',
     languageHint: 'Sprache der App und der Übersetzungen.',
     replay: 'Demo noch einmal ansehen',
@@ -259,7 +265,7 @@ export const de: Messages = {
       },
       audio: {
         title: 'Hör dir die Seite an',
-        text: 'Starte das Vorlesen: Der Text wird im Takt der Stimme hervorgehoben. Tippe zweimal auf ein Wort, um ab dort zu hören.',
+        text: 'Starte das Vorlesen: Der Text wird im Takt der Stimme hervorgehoben. Tippe zweimal auf ein Wort, um ab dort zu hören (Gesten im Profil änderbar).',
       },
       next: {
         title: 'Nächste Seite',

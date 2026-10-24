@@ -116,6 +116,8 @@ export const fr = {
     header: (n: number, title: string, page: number, total: number) =>
       `CHAPITRE ${n} · ${title.toUpperCase()} · PAGE ${page}/${total}`,
     doubleTapHint: 'Touche deux fois un mot pour écouter à partir de là',
+    tapPlayHint: 'Touche un mot pour écouter à partir de là',
+    doubleTapTranslateHint: 'Touche deux fois un mot pour voir sa traduction',
     tapHint: 'Touche un mot pour voir sa traduction',
     finish: 'Terminer le chapitre',
     previousPage: 'Page précédente',
@@ -221,6 +223,10 @@ export const fr = {
     dailyGoalHint: 'Minutes de lecture ou de révision par jour.',
     readAlong: 'Surlignage audio',
     readAlongHint: 'Surligne le texte et le mot lu pendant l’écoute.',
+    gestures: 'Gestes de lecture',
+    translateWord: 'Traduire un mot',
+    playFromWord: 'Écouter à partir d’un mot',
+    gestureNames: { tap: 'Touche', double_tap: 'Double touche' },
     language: 'Langue',
     languageHint: 'Langue de l’application et des traductions.',
     replay: 'Revoir la démo',
@@ -265,7 +271,7 @@ export const fr = {
       },
       audio: {
         title: 'Écoute la page',
-        text: 'Lance la lecture : le texte est surligné au fil de la voix. Touche deux fois un mot pour lancer l’écoute à partir de là.',
+        text: 'Lance la lecture : le texte est surligné au fil de la voix. Touche deux fois un mot pour lancer l’écoute à partir de là (gestes modifiables dans ton profil).',
       },
       next: {
         title: 'Page suivante',

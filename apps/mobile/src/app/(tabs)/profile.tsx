@@ -5,6 +5,7 @@ import {
   GraduationCap,
   Languages,
   LogOut,
+  Pointer,
   Target,
   Trophy,
   Clock,
@@ -23,13 +24,22 @@ import { DAILY_GOAL_OPTIONS, displayedStreak } from '@/lib/gamification';
 import { useStats } from '@/lib/stats';
 import { supabase } from '@/lib/supabase';
 import { useTour } from '@/lib/tour';
+import type { PlayFromWord } from '@/lib/types';
 import { Button, Card, Icon, Text, colors, spacing } from '@/theme';
+
+const GESTURES: PlayFromWord[] = ['tap', 'double_tap'];
+const otherGesture = (g: PlayFromWord): PlayFromWord => (g === 'tap' ? 'double_tap' : 'tap');
+const GESTURE_ROWS = [
+  { action: 'translate', label: 'translateWord' },
+  { action: 'play', label: 'playFromWord' },
+] as const;
 
 export default function Profile() {
   const { session } = useAuth();
   const { t, lang, setLang } = useI18n();
-  const { stats, updateDailyGoal, updateReadAlong } = useStats();
+  const { stats, updateDailyGoal, updateReadAlong, updatePlayFromWord } = useStats();
   const { target, replay } = useTour('profile', stats !== null);
+  const playGesture = stats?.play_from_word ?? 'double_tap';
   const [confirmDelete, setConfirmDelete] = useState(false);
   const [deleting, setDeleting] = useState(false);
   const [deleteError, setDeleteError] = useState(false);
@@ -126,6 +136,37 @@ export default function Profile() {
             </Text>
           </Card>
         </View>
+
+        <Card>
+          <View style={styles.titleRow}>
+            <Icon icon={Pointer} size={22} color={colors.primary} />
+            <Text variant="heading">{t.profile.gestures}</Text>
+          </View>
+          {/* Choosing a gesture for one action gives the other gesture to the other action. */}
+          {GESTURE_ROWS.map(({ action, label }) => (
+            <View key={action} style={styles.gestureRow}>
+              <Text variant="bodyBold">{t.profile[label]}</Text>
+              <View style={styles.goals}>
+                {GESTURES.map((gesture) => {
+                  const play = action === 'play' ? gesture : otherGesture(gesture);
+                  return (
+                    <Button
+                      key={gesture}
+                      label={t.profile.gestureNames[gesture]}
+                      sentence
+                      compact
+                      variant={playGesture === play ? 'primary' : 'secondary'}
+                      haptic="tap"
+                      disabled={!stats}
+                      style={styles.goal}
+                      onPress={() => updatePlayFromWord(play).catch(console.warn)}
+                    />
+                  );
+                })}
+              </View>
+            </View>
+          ))}
+        </Card>
 
         <View ref={target('language')} collapsable={false}>
           <Card>
@@ -249,4 +290,5 @@ const styles = StyleSheet.create({
   // Two per row: the names do not fit five abreast.
   langs: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm },
   lang: { flexGrow: 1, flexBasis: '40%' },
+  gestureRow: { gap: spacing.sm, marginTop: spacing.sm },
 });

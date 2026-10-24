@@ -2,7 +2,7 @@ import { memo, useEffect, useRef } from 'react';
 import { StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 
-import type { Token } from '@/lib/types';
+import type { PlayFromWord, Token } from '@/lib/types';
 import { Text, colors, fonts, haptics, radii, spacing } from '@/theme';
 
 /** Voice-over progress: tokens up to `readUpTo` are read, `current` is being spoken. */
@@ -17,11 +17,12 @@ type Props = {
   /** Text color of the words already read, background of the word being read. */
   readColor?: string;
   currentColor?: string;
-  /** Double tap on a word with a timing (aligned voice-over): play from there. */
-  onWordDoubleTap?: (token: Token) => void;
+  /** Gesture `playGesture` on a word with a timing (aligned voice-over): play from there. */
+  onWordPlay?: (token: Token) => void;
+  playGesture?: PlayFromWord;
 };
 
-/** Second tap within this delay = double tap. A single tap waits for it before translating. */
+/** Second tap within this delay = double tap. A single tap waits for it before acting. */
 const DOUBLE_TAP_MS = 250;
 
 const QUOTE = /^["“”]$/;
@@ -51,7 +52,8 @@ export const PassageText = memo(function PassageText({
   readAlong,
   readColor,
   currentColor,
-  onWordDoubleTap,
+  onWordPlay,
+  playGesture = 'double_tap',
 }: Props) {
   const paragraphs = splitParagraphs(tokens).map(markDialogue).map(splitWords);
   const tapped = selectedPosition === null ? null : tokens[selectedPosition];
@@ -78,7 +80,8 @@ export const PassageText = memo(function PassageText({
                   readColor={readColor}
                   currentColor={currentColor}
                   onWordPress={onWordPress}
-                  onWordDoubleTap={onWordDoubleTap}
+                  onWordPlay={onWordPlay}
+                  playGesture={playGesture}
                 />
               ))}
               <Text variant="reading">
@@ -105,7 +108,8 @@ type WordProps = {
   readColor?: string;
   currentColor?: string;
   onWordPress: (token: Token) => void;
-  onWordDoubleTap?: (token: Token) => void;
+  onWordPlay?: (token: Token) => void;
+  playGesture: PlayFromWord;
 };
 
 /**
@@ -124,30 +128,38 @@ const Word = memo(function Word({
   readColor,
   currentColor,
   onWordPress,
-  onWordDoubleTap,
+  onWordPlay,
+  playGesture,
 }: WordProps) {
   // First tap of a possible double tap, waiting for the second one.
   const pendingTap = useRef<ReturnType<typeof setTimeout> | null>(null);
   useEffect(() => () => clearTimeout(pendingTap.current ?? undefined), []);
 
+  const playable = !!onWordPlay && t.startMs !== null;
+
+  const translate = () => onWordPress(t);
+  const play = () => onWordPlay!(t);
+
   const onPress = () => {
-    // Without an aligned voice-over there is no double tap: translate at once.
-    if (!onWordDoubleTap || t.startMs === null) {
+    // Without an aligned voice-over a tap can only translate: no double tap to wait for.
+    if (!playable) {
       haptics.select();
-      onWordPress(t);
+      translate();
       return;
     }
     if (pendingTap.current) {
       clearTimeout(pendingTap.current);
       pendingTap.current = null;
       haptics.tap();
-      onWordDoubleTap(t);
+      if (playGesture === 'double_tap') play();
+      else translate();
       return;
     }
     haptics.select();
     pendingTap.current = setTimeout(() => {
       pendingTap.current = null;
-      onWordPress(t);
+      if (playGesture === 'tap') play();
+      else translate();
     }, DOUBLE_TAP_MS);
   };
 

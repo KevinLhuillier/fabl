@@ -59,6 +59,7 @@ export default function ChapterReader() {
   );
   const { t, lang } = useI18n();
   const readAlongEnabled = stats?.read_along ?? true;
+  const playGesture = stats?.play_from_word ?? 'double_tap';
 
   const [data, setData] = useState<Loaded | null>(null);
   const [page, setPage] = useState(0);
@@ -246,11 +247,12 @@ export default function ChapterReader() {
                 readAlong={readAlongEnabled ? readAlong : null}
                 readColor={level.shade}
                 currentColor={level.soft}
-                onWordDoubleTap={
+                onWordPlay={
                   aligned
                     ? (t) => t.startMs !== null && audioRef.current?.playFrom(t.startMs)
                     : undefined
                 }
+                playGesture={playGesture}
               />
             </View>
           </Animated.View>
@@ -258,7 +260,7 @@ export default function ChapterReader() {
             <View style={styles.hint}>
               <Icon icon={Lightbulb} size={16} color={colors.textMuted} />
               <Text variant="caption" color={colors.textMuted}>
-                {t.reader.doubleTapHint}
+                {playGesture === 'tap' ? t.reader.tapPlayHint : t.reader.doubleTapHint}
               </Text>
             </View>
           ) : null}
@@ -266,7 +268,9 @@ export default function ChapterReader() {
             <Animated.View entering={enter.fade(600)} style={styles.hint}>
               <Icon icon={Lightbulb} size={16} color={colors.textMuted} />
               <Text variant="caption" color={colors.textMuted}>
-                {t.reader.tapHint}
+                {aligned && playGesture === 'tap'
+                  ? t.reader.doubleTapTranslateHint
+                  : t.reader.tapHint}
               </Text>
             </Animated.View>
           ) : null}

@@ -111,6 +111,8 @@ export const pt: Messages = {
     header: (n, title, page, total) =>
       `CAPÍTULO ${n} · ${title.toUpperCase()} · PÁGINA ${page}/${total}`,
     doubleTapHint: 'Toque duas vezes em uma palavra para ouvir a partir dela',
+    tapPlayHint: 'Toque em uma palavra para ouvir a partir dela',
+    doubleTapTranslateHint: 'Toque duas vezes em uma palavra para ver a tradução',
     tapHint: 'Toque em uma palavra para ver a tradução',
     finish: 'Terminar o capítulo',
     previousPage: 'Página anterior',
@@ -214,6 +216,10 @@ export const pt: Messages = {
     dailyGoalHint: 'Minutos de leitura ou revisão por dia.',
     readAlong: 'Destaque do áudio',
     readAlongHint: 'Destaca o texto e a palavra lida enquanto você ouve.',
+    gestures: 'Gestos de leitura',
+    translateWord: 'Traduzir uma palavra',
+    playFromWord: 'Ouvir a partir de uma palavra',
+    gestureNames: { tap: 'Toque', double_tap: 'Toque duplo' },
     language: 'Idioma',
     languageHint: 'Idioma do aplicativo e das traduções.',
     replay: 'Ver a demo de novo',
@@ -257,7 +263,7 @@ export const pt: Messages = {
       },
       audio: {
         title: 'Ouça a página',
-        text: 'Inicie a leitura: o texto é destacado no ritmo da voz. Toque duas vezes em uma palavra para ouvir a partir dela.',
+        text: 'Inicie a leitura: o texto é destacado no ritmo da voz. Toque duas vezes em uma palavra para ouvir a partir dela (você pode mudar os gestos no seu perfil).',
       },
       next: {
         title: 'Próxima página',
