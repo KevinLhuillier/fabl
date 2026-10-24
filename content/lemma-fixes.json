@@ -55,6 +55,18 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Aye",
+      "pos": "PROPN",
+      "word": "aye",
+      "lemmaPos": "INTJ"
+    },
+    {
+      "text": "bareheaded",
+      "pos": "VERB",
+      "word": "bareheaded",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Bargemen",
       "pos": "PROPN",
       "word": "bargeman",
@@ -480,6 +492,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "furred",
+      "pos": "VERB",
+      "word": "furred",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "further",
       "pos": "ADJ",
       "word": "further",
@@ -564,6 +582,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "grizzled",
+      "pos": "VERB",
+      "word": "grizzled",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "groans",
       "pos": "NOUN",
       "word": "groan",
@@ -588,6 +612,18 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "haze",
+      "pos": "ADV",
+      "word": "haze",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "heaven",
+      "pos": "PROPN",
+      "word": "heaven",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "hill",
       "pos": "PROPN",
       "word": "hill",
@@ -610,6 +646,12 @@
       "pos": "NOUN",
       "word": "hurry",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "hush",
+      "pos": "ADJ",
+      "word": "hush",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "I.",
@@ -703,6 +745,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Knew",
+      "pos": "PROPN",
+      "word": "know",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "know",
       "pos": "NOUN",
       "word": "know",
@@ -752,6 +800,12 @@
       "pos": "INTJ",
       "word": "like",
       "lemmaPos": "ADP"
+    },
+    {
+      "text": "loft",
+      "pos": "PROPN",
+      "word": "loft",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "lord",
@@ -838,6 +892,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "mother'd",
+      "pos": "NOUN",
+      "word": "mother",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "motionless",
       "pos": "NOUN",
       "word": "motionless",
@@ -879,6 +939,18 @@
       "pos": "PROPN",
       "word": "nan",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "nobody'd",
+      "pos": "NOUN",
+      "word": "nobody",
+      "lemmaPos": "PRON"
+    },
+    {
+      "text": "nobody'd",
+      "pos": "PROPN",
+      "word": "nobody",
+      "lemmaPos": "PRON"
     },
     {
       "text": "none",
@@ -981,6 +1053,12 @@
       "text": "Pie",
       "pos": "PROPN",
       "word": "pie",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "pine",
+      "pos": "ADJ",
+      "word": "pine",
       "lemmaPos": "NOUN"
     },
     {
@@ -1093,6 +1171,18 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "rosemary",
+      "pos": "ADJ",
+      "word": "rosemary",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "round",
+      "pos": "NOUN",
+      "word": "round",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "round",
       "pos": "NOUN",
       "next": ",",
@@ -1100,10 +1190,22 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "sacking",
+      "pos": "VERB",
+      "word": "sacking",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "satchel",
       "pos": "PROPN",
       "word": "satchel",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "scraped",
+      "pos": "VERB",
+      "word": "scrape",
+      "lemmaPos": "VERB"
     },
     {
       "text": "scraping",
@@ -1168,6 +1270,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "sill",
+      "pos": "ADJ",
+      "word": "sill",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "silvery",
       "pos": "NOUN",
       "word": "silvery",
@@ -1204,6 +1312,12 @@
       "pos": "PROPN",
       "word": "slow",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "slung",
+      "pos": "ADJ",
+      "word": "sling",
+      "lemmaPos": "VERB"
     },
     {
       "text": "smelled",
@@ -1336,6 +1450,12 @@
       "text": "taxes",
       "pos": "NOUN",
       "word": "tax",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Tea",
+      "pos": "PROPN",
+      "word": "tea",
       "lemmaPos": "NOUN"
     },
     {
@@ -1543,6 +1663,12 @@
       "text": "woodshed",
       "pos": "ADJ",
       "word": "woodshed",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "woodsmoke",
+      "pos": "PROPN",
+      "word": "woodsmoke",
       "lemmaPos": "NOUN"
     },
     {

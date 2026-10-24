@@ -1547,3 +1547,260 @@ Rowan told himself that the roads were closed. That the snow lay three feet deep
 On the ninth evening after he left the infirmary, he was sitting in the common room at Hearthside with Tamsin and the Tanners, trying to ignore the cluster of first-years who were watching him from across the room in case he made something bloom, when the door banged open and Master Grey came in on a gust of snow.
 His spectacles were crooked. His face was pink with cold and running.
 "Ashby," he panted. "There's a man at the hedge. Came across the causeway on foot, in this weather, if you can believe it — walked the whole way up from the south, by the look of him. Hale's down there with him now." He took a breath. "He says he's your uncle."
+
+# What Bram Knew
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_1-1792824995213.mp3
+Rowan did not remember deciding to run. One moment he was standing in the common room with the door banging in the wind, and the next he was halfway down the hill in the dark, with no cloak and no lantern, and the snow coming at him sideways out of the night like a swarm of white bees. Master Grey was shouting something far behind him. Tamsin was shouting too. He did not stop.
+The path wound down between the great oaks, and the oaks creaked and groaned above him in the wind, and once — he was almost sure of it — a low branch lifted itself out of his way just before he ran into it. Then the trees fell back, and the hedge rose out of the storm in front of him like a black cliff.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_2-1792825007842.mp3
+Where the causeway met the hedge, there was a gate. It was not a gate of wood or iron, but a place where the vast, twisted trunks of the thorn drew apart, when they chose to, wide enough for a wagon to pass. Tonight they had drawn apart no wider than a man's shoulders. Lanterns hung from hooks driven into the living wood, swinging and hissing in the wind, and in their jumping light Rowan saw two figures facing each other across the gap.
+One was Master Hale, bareheaded in the snow. The warmth rose off him in a faint, shimmering haze, so that the flakes melted into nothing a hand's breadth before they touched him. The other stood on the far side of the hedge, out on the causeway: a big, broad, stooping shape with snow heaped on its shoulders and its hat, leaning on a tall staff. Rowan knew that staff. He had watched it being cut, three winters ago, from a straight young ash at the top of the clearing.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_3-1792825018550.mp3
+"Uncle Bram!"
+Bram looked up. His face was grey with cold, and there was frost in his beard, and he looked older than Rowan had ever seen him — older, and smaller, somehow, as though the long road had worn him down the way a river wears down a stone. There was an axe slung across his back, its head wrapped in sacking. But when he saw Rowan, his whole face changed.
+"There you are," he said. Just that. As though Rowan had wandered off on market day and turned up again by the pie stall.
+Rowan tried to push through the gap. Hale's arm came down in front of him like the bar of a gate.
+"Not yet."
+"He's my uncle!"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_4-1792825028364.mp3
+"So he says." Hale did not take his eyes off the man on the causeway. "And a few weeks ago, a person nobody saw walked into this Academy as easily as a fox walks into a henhouse, and walked out again with a fourth-year boy. You will forgive me, Mr Ashby, if I am no longer in the habit of taking people's word for things." He raised his voice over the wind. "You have not answered my question."
+For a moment there was no sound but the hiss of snow in the lanterns.
+"You asked what business I have on this hill," said Bram at last, slowly, in the voice he kept for things that mattered. "My business is him. I've had no other these twelve years."
+"And how am I to know that you are who you claim to be?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_5-1792825038584.mp3
+Bram looked at him for a long moment. Then he reached, very slowly, inside his coat. Hale's gloved hand came up, and the air between them rippled like the air above a forge — but what Bram drew out was only a folded square of paper, soft and grey with handling. He held it out across the gap.
+Rowan knew what it was before Hale had even unfolded it. It was the guardian's copy of the Writ of Uncertain Marking. At the bottom of it were three signatures: Maren Vell's neat, looping hand; Bram's own heavy capitals; and Master Hale's name, sharp and black, signed at a supper table in Brackenford on the evening of the Marking.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_6-1792825051825.mp3
+Hale looked at it for a long time. Then he looked at the snow piled on Bram's shoulders, and at his boots, which were bound round with strips of sacking where the leather had split.
+"You walked," he said. "From Brackenford. In this."
+"The roads are shut. Carters won't go. My legs still work."
+"That is more than a hundred miles."
+"Hundred and thirty, by the forest road," said Bram. "I came the short way."
+For the first time since Rowan had known him, Master Hale seemed not to know what to say. He folded the Writ, and handed it back across the gap, and stood aside.
+"The axe stays at the gatehouse," he said.
+"The axe stays with me," said Bram. "It's a tool, not a weapon. I've never yet met a tree that complained."
+There was a pause. Somewhere behind them, Master Grey arrived at last, wheezing, with Tamsin at his heels carrying Rowan's cloak.
+Then the great thorns creaked, and shifted, and opened a little wider.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_7-1792825059946.mp3
+Rowan hit him so hard that they both nearly went over in the snow.
+Bram's arms closed round him, and for a while neither of them said anything at all. Bram smelled of woodsmoke and wet wool and pine resin and twelve days of walking, and it was the smell of the clearing, and the cabin, and every winter evening Rowan could remember, and he found, to his horror, that he was crying into his uncle's coat like a small child, and that he did not care in the least who saw.
+"You're thin," said Bram gruffly, into his hair. "Don't they feed you up here?"
+"You're frozen."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_8-1792825068068.mp3
+"Aye. Well." Bram let him go and held him at arm's length, and looked at him for a long time, the way he looked at a tree before he felled it — slowly, all the way up and all the way down, measuring. "I heard," he said quietly. "About the ice."
+"Everyone's heard."
+"Aye," said Bram. "That's the trouble."
+Behind them, Master Hale cleared his throat. "The Warden will wish to see you, Mr Ashby. Tonight."
+Bram straightened up, and the snow slid off his shoulders.
+"I'd imagine she would," he said. "I'd like a word with her and all."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_9-1792825082146.mp3
+Rowan was not allowed into the study. He sat on the stairs outside it instead, with Tamsin on one side of him and Jory on the other — Jory had appeared from nowhere in a nightshirt and two cloaks, demanding to know what he had missed — and Ilse a few steps below, leaning against the curving wall with her arms folded, saying nothing.
+The door was thick, and old, and very well made. But it had not been made to keep out Bram.
+Rowan had never once, in fourteen years, heard his uncle raise his voice. He heard it now. Not the words, mostly — only the deep, slow rumble of it, going on and on like a cart over a wooden bridge, and then, cutting across it, the Warden's voice, low and clear and cold. Once, quite distinctly, he heard Bram say sealed. Once he heard the Warden say to keep it out of the wrong hands. And once, after a long silence, Bram's voice came through the door so clearly that all four of them jumped.
+"Then you know whose hands."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_10-1792825090622.mp3
+The Warden's answer was too quiet to make out. But the silence after it went on for a very long time.
+When the door finally opened, Bram came out alone. His face was like a shut door itself. He looked down at the four of them sitting on the stairs, and something in his expression eased very slightly.
+"She says I can stop till the roads open," he said. "There's a gardener down the hill with a spare bunk, apparently." He frowned. "Is he right in the head, this gardener? She said he'd asked for me."
+"No," said Jory, Tamsin and Ilse, all together.
+"He's the best person on the hill," said Rowan.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_11-1792825102473.mp3
+Rowan had wondered, on the long walk down through the snow, what Old Moss and his uncle would make of each other. In the end, it took them about the space of a breath.
+Moss was waiting at the door of the fifth glasshouse with a lantern, his shawl pulled up round his ears. Bram stopped on the path in front of him. For a long moment the two old men simply looked at one another — the one huge and broad and grizzled, the other small and bent and wrinkled as a walnut — like two old dogs meeting in a lane, each deciding whether the other was worth the trouble of a growl.
+"You'll be the woodcutter," said Moss.
+"You'll be the gardener," said Bram.
+Moss looked at the axe on Bram's back. Bram looked at the soil packed under Moss's fingernails.
+"Tea?" said Moss.
+"Aye," said Bram, and that, apparently, was that.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_12-1792825113722.mp3
+It was very late when Moss finally knocked out his pipe and announced, to nobody in particular, that he was going to see to the roots. He took his lantern and shuffled away down the long aisle between the benches, and the darkness at the far end of the glasshouse swallowed him up, and Rowan understood that he would not be coming back for some time.
+The little iron stove ticked and glowed. Outside, the snow had stopped at last, and the glass above them was thick with it, so that the whole glasshouse lay in a soft, deep, muffled hush, like the inside of an egg. Bram sat on an upturned bucket with his big hands wrapped round a mug, steam rising into his beard. Rowan sat on the bench opposite. And all around them, in their pots and their trays and their long beds of dark earth, the saplings leaned.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_13-1792825126510.mp3
+Bram had noticed. Rowan had watched him notice, an hour ago, and say nothing. Now his uncle looked at the nearest of them — a young beech, bent towards Rowan's shoulder like someone trying to overhear a secret — and set down his mug.
+"They do that for you," he said.
+"Yes."
+"They did that for you when you were a babe." Bram's voice was very quiet. "In your cradle. Your mother kept a row of pots on the sill — rosemary and thyme, and a little bay tree she'd grown from a cutting. Every morning she'd turn them round to face the window. And every evening, there they'd be again. Leaning. Towards you."
+Rowan did not move. He was afraid that if he moved, or spoke, or so much as breathed too loudly, his uncle would remember himself and stop.
+"Are they dead?" he said at last. His voice came out very small. "My mother and father. Are they really dead?"
+Bram looked at the stove for a long time.
+"I don't know," he said.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_14-1792825139020.mp3
+He told it the way he did everything: slowly, and plainly, and in the right order, the way you take down a tree.
+His brother Cade had been eight years younger than him — "the clever one, and the restless one, and the one that got all the looks in the family, which wasn't hard." Every autumn, when he was nineteen and twenty and twenty-one, Cade had driven a wagon of seasoned oak up the long road to Thornhall, for the frames of the glasshouses. And one autumn, in the third glasshouse, he had found a girl in her last year at the Academy, sitting cross-legged on the floor among the seedlings, talking to them.
+"Elinor Reyne," said Bram. "From Mossbridge. Marked twice — Water and Air. First Multiple they'd seen on this hill in a generation, and they made no end of fuss of her. Cade came home that winter and didn't talk about anything else till spring. Drove me half mad."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_15-1792825150140.mp3
+When her schooling was finished, Elinor had stayed on at Thornhall. She had a head for it, Bram said — for ledgers and lists and long columns of names. So she had gone to work in the Records, under a young Keeper called Maren Vell.
+"And that," said Bram heavily, "is where it went wrong."
+Rowan's mouth had gone dry. "What happened?"
+"She found something." Bram turned the mug round in his hands. "In the Departures books. Students written down as went home. Not many. One every year or two, maybe. Always the strong ones — the deep Wells, the strange ones. The ones with two." He looked up. "And not one of them ever got there. The families had a letter from the Academy saying the child had run off. The Academy had a line in its book saying the child had gone home. And nobody ever thought to put the two side by side. Except your mother."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_16-1792825161826.mp3
+Bennet Croft has left the Academy. Rowan heard the Warden's dry voice in the Great Hall as clearly as if she were standing behind him. He has gone home. He felt suddenly very cold, in spite of the stove.
+"She told someone," Bram went on. "Someone on the hill. Someone she trusted. I don't know who — she'd never say. Said it was safer for me not to know, and I reckon she was right about that, as she was about most things." His jaw tightened. "A week later, they came for her. On the causeway, at night. Three of them, with a wagon. She fought them off with wind and water, and it was only by luck that Cade was there with his cart to get her away. They never went back. They were gone by morning, the pair of them, and the Academy wrote her down as withdrawn and sealed it up, and that was that."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_17-1792825171321.mp3
+"By order of the Warden," said Rowan quietly.
+Bram's eyes flicked to him. "Aye. So I've heard. And so I've just been told, at some length."
+For six years, Bram said, Cade and Elinor had moved from place to place under other names. In the end they had settled in a little fishing village on the western coast, at the end of a road that went nowhere else, where nobody asked questions and everyone smelled of fish. Rowan had been born there, in a cottage with a blue door.
+And one morning, when Rowan was two years old, Cade had opened that blue door and found a mark painted on it, at about the height of a man's heart. A black root, twisting.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_18-1792825178321.mp3
+"They came to me that same week," said Bram. "In the middle of the night, in the snow, the way I came here. With you asleep in a basket." He was looking into the stove, and the light lay red across his face. "Your mother sat at my table and wrote a letter, and put it under the hearthstone with her own hands. You've read it. I know you have — I saw your face the morning after, and I'm not so stupid as I look. Whatever happens, Bram, do not let them test him."
+"Why?" said Rowan. "Why not the test?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_19-1792825187539.mp3
+"Because every Stone in the Wilds sends its records here." Bram nodded up at the dark glass, towards the towers they could not see. "To this hill. Whoever was selling names to Blackroot — they read the Records, lad. That's where they found the deep ones. She'd seen those pots on the sill. She knew what you were, or guessed it. And she knew that if you ever stood in front of a Stone and something strange happened, your name would end up in a book on this hill, and somebody would read it."
+Rowan thought of Maren Vell's green ledger, and the small, careful leaf she had drawn in its margin. He said nothing.
+"And my father?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_20-1792825194971.mp3
+"Cade stood at my door with you in his arms," said Bram, "and he said: If we're not back by spring, tell folk we're dead. Tell him too, when he's old enough to ask. It's kinder than waiting." His voice roughened. "Then he gave you to me. And they went west again, the pair of them, the way they'd come — loud, so they'd be seen. Leading whoever it was away from the forest. Away from you."
+The stove ticked.
+"They never came back," said Bram. "So in the spring I told Brackenford there'd been a fever on the coast. And when you were old enough to ask, I told you the same."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_21-1792825203881.mp3
+For a long time, Rowan could not speak at all.
+He had imagined this conversation a hundred times, in the dark in the cabin loft, in the swaying wagon, in his narrow bed at Hearthside. In every version of it he had been angry — shouting, the way he had shouted at the kitchen table the night of the Marking. Then tell me! And now that it had come at last, he found that the anger was there, but it was very small and very far away, like a fire seen across a valley. What was close was something else. Something that felt like the ice on the lake, just before it cracked.
+"You let me think they were dead," he said. "For twelve years."
+"I did."
+"You could have told me—"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_22-1792825212506.mp3
+"Told you what?" Bram did not raise his voice. "That your mother and father were out there somewhere, or weren't? That they might walk in the door any evening, or might be lying at the bottom of the sea? I did that, lad. I did it for six years. I watched the road every night till my eyes ached. I wasn't going to give you that." He stopped. Rubbed his face with one big hand. "Or that's what I told myself. I don't know. I'm a woodcutter. I know how to fell a tree so it lands where I want it to. I never knew how to do this."
+"At the Stone," said Rowan. "When they said Unmarked. You were glad."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_23-1792825220196.mp3
+"I was the gladdest man alive," said Bram simply. "I thought the Stone had done what she couldn't. Hidden you. I thought you'd come home, and cut wood with me, and marry Tamsin Reed, heaven help you, and nobody'd ever write your name in any book on this hill." He let out a long breath. "Then that Vell woman walked into my kitchen with a Writ nobody'd seen in ninety years. And I knew it wasn't over. I knew it the minute I saw her face."
+"Then why did you sign?"
+Bram looked at him across the stove.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_24-1792825233966.mp3
+"Because of the shaving," he said. "The one that curled round your finger, that night by the fire. I've watched your mother make a cup of water stand up and dance, lad. I've watched her stop the rain over a whole field so Cade could get the hay in. But I never saw anything like what that shaving did." He shook his head slowly. "Whatever you are, it was never going to stay hidden in a cabin in the woods. I reckoned it was better you learned to hold it here, with people round you, than had it come out of you one day in the clearing with nobody but me to see." He paused. "Your mother'd have said I was wrong. But she wasn't there. I was."
+There was a long silence. Then Rowan got up off the bench, and crossed the little space between them, and sat down on the floor beside the upturned bucket with his back against his uncle's knee, the way he had sat every winter evening of his life. After a moment, Bram's heavy hand came down and rested on his shoulder, and stayed there.
+Around them, the saplings leaned a little closer.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_25-1792825242409.mp3
+"There's something else," said Bram, after a while. "The reason I came."
+He told it quickly, almost flatly, as though he wanted it over with. Ten days ago, coming home at dusk from the village, he had found the cabin door standing open. Nothing taken. Nothing broken. But the ashes in the hearth had been raked out across the floor, and the hearthstone itself had been levered up with something hard and pointed, and set back down again, crooked.
+"Someone knew," said Bram. "Knew there'd been something under there. And came looking for it the same month half the Wilds heard there was a Wood-boy on Thornhall hill."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_26-1792825253114.mp3
+Rowan's heart was pounding. "The letter—"
+"—hasn't been under that stone since the morning you left." Bram reached into his coat, and drew out a flat bundle wrapped in oilcloth and tied with twine. "I've carried it on me since. Every day. Slept with it." He untied the twine with his thick, careful fingers, and unfolded the oilcloth on his knee.
+There were two letters inside. One was the letter Rowan had already seen in the firelight, a lifetime ago: worn soft, its folds furred, Whatever happens, Bram showing faintly through the paper. The other was smaller, and thicker, and it had never been opened. It was sealed with a blot of green wax, pressed — Rowan saw it with a jolt — with the shape of a leaf. On the front, in the same slanting hand, it said:
+Rowan. When the Wood wakes.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_27-1792825261980.mp3
+"She gave me that the same night," said Bram. "Said I'd know when. I never did know, all these years. Not for certain." He held it out. "I reckon I know now."
+Rowan took it. His hands were shaking so badly that he could barely break the seal. Inside there was a single sheet, closely written on both sides. He tilted it towards the glow of the stove.
+My darling boy,
+If Bram has given you this, then the Wood has woken in you. I was right to be afraid, and right to hope, and I am so sorry that I am not there to see it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_28-1792825275342.mp3
+I do not think the Wood was ever quite lost, Rowan. I think it went quiet — in families that forgot what they carried, in children who were told to hush. I think there was a little of it in me. I think there is a great deal of it in you. When you were three weeks old, the bay tree on our windowsill put out a flower in December, and I sat up all night and cried, and your father thought I had gone mad.
+There will be people who want what you have. Some of them will be kind to you. Some of them will smile. Learn the difference slowly, the way you would learn the trees.
+Do not come looking for us. Not yet. Grow first. Grow strong and slow and deep, the way your father's oaks do, and let nobody hurry you.
+There is one person on the hill who knows the whole of it. She kept my secrets once. I do not know whether she keeps them still.
+All my love, always, wherever I am —
+your mother
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_29-1792825284628.mp3
+Rowan read it twice. Then a third time. Then he folded it very carefully along its old creases, and held it against his chest, and sat looking at nothing for a long time.
+Do not come looking for us. Not we are gone. Not we are dead. Do not come looking for us. Not yet.
+She kept my secrets once.
+He thought of Maren Vell at Bram's kitchen table, saying you have her eyes. He thought of the Warden in her high tower, turning a flowering twig over and over in her long fingers. There are things that are not mine alone to tell. He thought of Master Hale on the dark stairs. Trust no one.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_30-1792825292575.mp3
+"Uncle," he said at last. "Who did she tell? On the hill. When she found out."
+"I don't know, lad," said Bram. "I've wondered for fifteen years. And tonight I stood in a room at the top of a tower and asked the one person who might, and she looked at me like I'd asked her to cut off her own hand." He was quiet for a moment. "I'll tell you what I think, though. I think whoever it was is still up here. And I think they've been waiting a long time for you."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_31-1792825304423.mp3
+They did not sleep much that night.
+Some time after the third bell, Rowan woke from a doze on the floor by the stove to find his uncle standing at the end of the glasshouse with his face close to the glass, perfectly still. Rowan got up and went to stand beside him. Bram had scraped a small, clear patch in the frost with his thumbnail, and through it, far down the white slope of the hill, the frozen lake lay grey and endless under the stars.
+"Watch," said Bram softly. "Up there. The east tower."
+Rowan looked. For a while there was nothing. Then, high up in the dark bulk of Thornhall, a light showed in a window where no light should have been. It blinked — once, twice, three times — and went out.
+And far away across the ice, at the black edge of the Elderwood, another light answered it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_13.page_32-1792825315679.mp3
+Rowan's breath fogged the glass. He wiped it away with his sleeve. The far light was gone. There was nothing out there now but the snow and the stars and the dark line of the trees, still bowed, every one of them, towards the hill.
+"That's why I walked, lad," said Bram quietly. "Not for the letters. For that."
+He went back to his upturned bucket by the stove, and unwrapped the sacking from the head of his axe, and laid it across his knees. And he sat there like that, with his hands resting on the haft and his eyes on the door, until the grey light came.
+From somewhere at the far end of the glasshouse, out of the darkness, Old Moss's voice drifted back to them, dry and quiet and not at all sleepy.
+"Roots are restless tonight," he said.

@@ -78,6 +78,12 @@
       "example": "\"Your cousin says a lot of things.\""
     },
     {
+      "word": "a word with",
+      "pos": "PHRASE",
+      "translation": "due parole con («I'd like a word with her»: vorrei scambiare due parole con lei)",
+      "example": "\"I'd like a word with her and all.\""
+    },
+    {
       "word": "A.",
       "pos": "PROPN",
       "translation": "A. (iniziale di Aldith)",
@@ -264,6 +270,12 @@
       "example": "After breakfast, Sir Godfrey called him to the courtyard for sword practice."
     },
     {
+      "word": "after",
+      "pos": "ADV",
+      "translation": "dopo («the morning after»: la mattina dopo)",
+      "example": "I know you have — I saw your face the morning after, and I'm not so stupid as I look."
+    },
+    {
       "word": "after all",
       "pos": "PHRASE",
       "translation": "dopotutto"
@@ -339,6 +351,12 @@
       "pos": "PROPN",
       "translation": "l'Aria (elemento)",
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
+    },
+    {
+      "word": "aisle",
+      "pos": "NOUN",
+      "translation": "la corsia, il corridoio",
+      "example": "He took his lantern and shuffled away down the long aisle between the benches, and the darkness at the far end of the glasshouse swallowed him up, and Rowan understood that he would not be coming back for some time."
     },
     {
       "word": "Alaric",
@@ -532,6 +550,12 @@
       "example": "Leo is black and white. — Leo è bianco e nero."
     },
     {
+      "word": "anger",
+      "pos": "NOUN",
+      "translation": "la rabbia",
+      "example": "And now that it had come at last, he found that the anger was there, but it was very small and very far away, like a fire seen across a valley."
+    },
+    {
       "word": "angle",
       "pos": "NOUN",
       "translation": "l'angolo",
@@ -638,6 +662,12 @@
       "pos": "ADV",
       "translation": "ciascuno, a testa",
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
+    },
+    {
+      "word": "apparently",
+      "pos": "ADV",
+      "translation": "a quanto pare",
+      "example": "There's a gardener down the hill with a spare bunk, apparently."
     },
     {
       "word": "appear",
@@ -939,6 +969,12 @@
       "example": "Nobody at Thornhall was cruel enough, or brave enough, to say it to his face — not with Tamsin sitting beside him, at any rate, cracking her knuckles."
     },
     {
+      "word": "at arm 's length",
+      "pos": "PHRASE",
+      "translation": "a distanza di braccio",
+      "example": "Bram let him go and held him at arm's length, and looked at him for a long time, the way he looked at a tree before he felled it — slowly, all the way up and all the way down, measuring."
+    },
+    {
       "word": "at first",
       "pos": "PHRASE",
       "translation": "all'inizio, dapprima",
@@ -1105,10 +1141,22 @@
       "example": "Then he heard it: the creak of axles, the soft clop of hooves on packed earth."
     },
     {
+      "word": "aye",
+      "pos": "INTJ",
+      "translation": "sì (dialettale)",
+      "example": "Aye."
+    },
+    {
       "word": "B.",
       "pos": "PROPN",
       "translation": "B. (iniziale di Bram)",
       "example": "SOME THINGS GROW SLOW. — B."
+    },
+    {
+      "word": "babe",
+      "pos": "NOUN",
+      "translation": "il bimbo, il neonato",
+      "example": "They did that for you when you were a babe."
     },
     {
       "word": "baby",
@@ -1267,10 +1315,22 @@
       "example": "And high on the battlements, where a castle would have had banners, whole oaks stood rooted in the stone, their crowns turning bronze and gold with the season."
     },
     {
+      "word": "bar",
+      "pos": "NOUN",
+      "translation": "la sbarra",
+      "example": "Hale's arm came down in front of him like the bar of a gate."
+    },
+    {
       "word": "bare",
       "pos": "ADJ",
       "translation": "spoglio, nudo",
       "example": "Every first-year at Thornhall, whatever their element, began the same way: with three mornings a week of a class called Foundations of the Well, taught in a long, bare room at the foot of the north stair by a woman who looked as though she had been assembled from coat hangers."
+    },
+    {
+      "word": "bareheaded",
+      "pos": "ADJ",
+      "translation": "a capo scoperto",
+      "example": "One was Master Hale, bareheaded in the snow."
     },
     {
       "word": "barely",
@@ -1345,6 +1405,12 @@
       "example": "And on its crown, half wall and half living thing, its towers wound about with ivy and its battlements crowned with trees, stood Thornhall."
     },
     {
+      "word": "bay",
+      "pos": "NOUN",
+      "translation": "l'alloro («bay tree»: l'albero di alloro)",
+      "example": "Your mother kept a row of pots on the sill — rosemary and thyme, and a little bay tree she'd grown from a cutting."
+    },
+    {
       "word": "be",
       "pos": "VERB",
       "translation": "essere",
@@ -1385,6 +1451,12 @@
       "pos": "VERB",
       "translation": "nascere («be born»), portare, sopportare",
       "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
+    },
+    {
+      "word": "beard",
+      "pos": "NOUN",
+      "translation": "la barba",
+      "example": "His face was grey with cold, and there was frost in his beard, and he looked older than Rowan had ever seen him — older, and smaller, somehow, as though the long road had worn him down the way a river wears down a stone."
     },
     {
       "word": "bearing",
@@ -1438,6 +1510,18 @@
       "pos": "NOUN",
       "translation": "il letto",
       "example": "He sleeps on her bed. — Dorme sul suo letto."
+    },
+    {
+      "word": "bee",
+      "pos": "NOUN",
+      "translation": "l'ape",
+      "example": "One moment he was standing in the common room with the door banging in the wind, and the next he was halfway down the hill in the dark, with no cloak and no lantern, and the snow coming at him sideways out of the night like a swarm of white bees."
+    },
+    {
+      "word": "beech",
+      "pos": "NOUN",
+      "translation": "il faggio",
+      "example": "Now his uncle looked at the nearest of them — a young beech, bent towards Rowan's shoulder like someone trying to overhear a secret — and set down his mug."
     },
     {
       "word": "before",
@@ -2286,6 +2370,12 @@
       "example": "Bram lifted something from the hollow beneath it: a bundle wrapped in oilcloth and tied with twine."
     },
     {
+      "word": "bunk",
+      "pos": "NOUN",
+      "translation": "la cuccetta",
+      "example": "There's a gardener down the hill with a spare bunk, apparently."
+    },
+    {
       "word": "burn",
       "pos": "VERB",
       "translation": "bruciare, incendiare",
@@ -2338,6 +2428,12 @@
       "pos": "NOUN",
       "translation": "l'autobus",
       "example": "There is a big red bus. — C'è un grande autobus rosso."
+    },
+    {
+      "word": "business",
+      "pos": "NOUN",
+      "translation": "l'affare («what business I have»: che cosa sono venuto a fare)",
+      "example": "\"You asked what business I have on this hill,\" said Bram at last, slowly, in the voice he kept for things that mattered."
     },
     {
       "word": "but",
@@ -3072,6 +3168,12 @@
       "example": "Clever girl."
     },
     {
+      "word": "cliff",
+      "pos": "NOUN",
+      "translation": "la scogliera, la rupe",
+      "example": "Then the trees fell back, and the hedge rose out of the storm in front of him like a black cliff."
+    },
+    {
       "word": "climb",
       "pos": "VERB",
       "translation": "arrampicarsi",
@@ -3142,6 +3244,12 @@
       "pos": "ADJ",
       "translation": "chiuso («half-closed»: socchiuso)",
       "example": "He stood there for a long time with his palm against the bark and his good eye half-closed, and Rowan, watching him, felt a jolt of recognition so strong that it was almost painful."
+    },
+    {
+      "word": "closely",
+      "pos": "ADV",
+      "translation": "fittamente («closely written»: scritto fitto)",
+      "example": "Inside there was a single sheet, closely written on both sides."
     },
     {
       "word": "cloth",
@@ -3546,6 +3654,12 @@
       "example": "How convenient."
     },
     {
+      "word": "conversation",
+      "pos": "NOUN",
+      "translation": "la conversazione",
+      "example": "He had imagined this conversation a hundred times, in the dark in the cabin loft, in the swaying wagon, in his narrow bed at Hearthside."
+    },
+    {
       "word": "convoy",
       "pos": "NOUN",
       "translation": "il convoglio",
@@ -3616,6 +3730,12 @@
       "pos": "NOUN",
       "translation": "il costo («at the cost of»: a costo di)",
       "example": "But Ilse knew a place on the western side, below the glasshouses, where the blackthorn had grown thin around the trunk of a dead oak and a determined person could wriggle through on their stomach, at the cost of a torn coat and a great many scratches."
+    },
+    {
+      "word": "cottage",
+      "pos": "NOUN",
+      "translation": "il cottage, la casetta",
+      "example": "Rowan had been born there, in a cottage with a blue door."
     },
     {
       "word": "cough",
@@ -3766,6 +3886,12 @@
       "pos": "VERB",
       "translation": "crepitare, scoppiettare («crackling with rumour»: brulicante di voci)",
       "example": "The noise rose again at once, louder than before, crackling with rumour."
+    },
+    {
+      "word": "cradle",
+      "pos": "NOUN",
+      "translation": "la culla",
+      "example": "In your cradle."
     },
     {
       "word": "cram",
@@ -4092,10 +4218,22 @@
       "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
     },
     {
+      "word": "cut off",
+      "pos": "PHRASE",
+      "translation": "tagliare, mozzare",
+      "example": "And tonight I stood in a room at the top of a tower and asked the one person who might, and she looked at me like I'd asked her to cut off her own hand."
+    },
+    {
       "word": "cute",
       "pos": "ADJ",
       "translation": "carino, tenero",
       "example": "Leo is very cute. — Leo è molto carino."
+    },
+    {
+      "word": "cutting",
+      "pos": "NOUN",
+      "translation": "la talea",
+      "example": "Not the words, mostly — only the deep, slow rumble of it, going on and on like a cart over a wooden bridge, and then, cutting across it, the Warden's voice, low and clear and cold."
     },
     {
       "word": "daisy",
@@ -4158,6 +4296,12 @@
       "example": "Within minutes, the remaining bandits had fled into the darkness."
     },
     {
+      "word": "darling",
+      "pos": "NOUN",
+      "translation": "il caro («my darling boy»: mio caro bambino)",
+      "example": "My darling boy,"
+    },
+    {
       "word": "date",
       "pos": "NOUN",
       "translation": "la data",
@@ -4210,6 +4354,12 @@
       "pos": "NOUN",
       "translation": "il decennio",
       "example": "They found the right decade on the third shelf, and Ilse ran her finger down the A's, page by page, year by year, her lips moving silently."
+    },
+    {
+      "word": "December",
+      "pos": "PROPN",
+      "translation": "dicembre",
+      "example": "When you were three weeks old, the bay tree on our windowsill put out a flower in December, and I sat up all night and cried, and your father thought I had gone mad."
     },
     {
       "word": "decide",
@@ -4536,6 +4686,12 @@
       "example": "For a single heartbeat, Rowan could have sworn he felt the faint, distant thrum of something alive."
     },
     {
+      "word": "distinctly",
+      "pos": "ADV",
+      "translation": "distintamente, chiaramente",
+      "example": "Once, quite distinctly, he heard Bram say sealed."
+    },
+    {
       "word": "ditch",
       "pos": "NOUN",
       "translation": "il fosso",
@@ -4633,6 +4789,12 @@
     },
     {
       "word": "doze",
+      "pos": "NOUN",
+      "translation": "il pisolino, il dormiveglia",
+      "example": "Some time after the third bell, Rowan woke from a doze on the floor by the stove to find his uncle standing at the end of the glasshouse with his face close to the glass, perfectly still."
+    },
+    {
+      "word": "doze",
       "pos": "VERB",
       "translation": "sonnecchiare",
       "example": "She paused at the edge of the clearing and looked around with frank curiosity, taking in the woodpile, the stump, the mule dozing in her lean-to, the thin blue thread of smoke from the chimney."
@@ -4690,6 +4852,12 @@
       "pos": "PHRASE",
       "translation": "ritrarsi, arretrare",
       "example": "Then, with a dry, whispering rustle, like a great many pages turning at once, the thorns drew back."
+    },
+    {
+      "word": "draw out",
+      "pos": "PHRASE",
+      "translation": "tirare fuori",
+      "example": "Hale's gloved hand came up, and the air between them rippled like the air above a forge — but what Bram drew out was only a folded square of paper, soft and grey with handling."
     },
     {
       "word": "draw up",
@@ -4762,6 +4930,12 @@
       "pos": "ADJ",
       "translation": "gocciolante, fradicio",
       "example": "\"Did you see that?\" he said, dripping and delighted."
+    },
+    {
+      "word": "drive",
+      "pos": "VERB",
+      "translation": "guidare; conficcare («hooks driven into»: ganci piantati in; «drove me half mad»: mi faceva impazzire)",
+      "example": "Lanterns hung from hooks driven into the living wood, swinging and hissing in the wind, and in their jumping light Rowan saw two figures facing each other across the gap."
     },
     {
       "word": "driver",
@@ -4930,6 +5104,12 @@
       "pos": "NOUN",
       "translation": "la facilità, la disinvoltura",
       "example": "His voice was not loud, but it carried across the meadow with unsettling ease."
+    },
+    {
+      "word": "ease",
+      "pos": "VERB",
+      "translation": "distendersi, addolcirsi",
+      "example": "He looked down at the four of them sitting on the stairs, and something in his expression eased very slightly."
     },
     {
       "word": "easily",
@@ -5152,6 +5332,12 @@
       "pos": "VERB",
       "translation": "finire, terminare",
       "example": "Great grey trunks, wider than Bram's cabin, rose out of the hillside and fused with the masonry so seamlessly that it was impossible to tell where living wood ended and dressed stone began."
+    },
+    {
+      "word": "end up",
+      "pos": "PHRASE",
+      "translation": "finire, andare a finire",
+      "example": "And she knew that if you ever stood in front of a Stone and something strange happened, your name would end up in a book on this hill, and somebody would read it."
     },
     {
       "word": "endless",
@@ -5728,6 +5914,12 @@
       "example": "She had gone to Bennet's alcove that evening to fetch the honey-cake tin he had borrowed from her and never returned — or so she said, though Rowan suspected she simply could not bear not to look."
     },
     {
+      "word": "fever",
+      "pos": "NOUN",
+      "translation": "la febbre",
+      "example": "So in the spring I told Brackenford there'd been a fever on the coast."
+    },
+    {
       "word": "few",
       "pos": "ADJ",
       "translation": "pochi («a few»: alcuni, qualche)",
@@ -5786,6 +5978,12 @@
       "pos": "VERB",
       "translation": "combattere, lottare",
       "example": "He is the man who knows which battles are worth fighting."
+    },
+    {
+      "word": "fight off",
+      "pos": "PHRASE",
+      "translation": "respingere",
+      "example": "She fought them off with wind and water, and it was only by luck that Cade was there with his cart to get her away."
     },
     {
       "word": "fighting",
@@ -6028,6 +6226,12 @@
       "example": "Instead, he went back into his flat and returned with an old towel and a plate of chicken."
     },
     {
+      "word": "flatly",
+      "pos": "ADV",
+      "translation": "con tono piatto",
+      "example": "He told it quickly, almost flatly, as though he wanted it over with."
+    },
+    {
       "word": "flatten",
       "pos": "VERB",
       "translation": "appiattire («flatten oneself against»: schiacciarsi contro)",
@@ -6140,6 +6344,18 @@
       "pos": "NOUN",
       "translation": "la nebbia",
       "example": "The first morning of Leaf-Fall arrived wrapped in fog, as if the forest had pulled a blanket over its head and had no intention of getting up."
+    },
+    {
+      "word": "fog",
+      "pos": "VERB",
+      "translation": "appannare",
+      "example": "Rowan's breath fogged the glass."
+    },
+    {
+      "word": "fold",
+      "pos": "NOUN",
+      "translation": "la piega",
+      "example": "One was the letter Rowan had already seen in the firelight, a lifetime ago: worn soft, its folds furred, Whatever happens, Bram showing faintly through the paper."
     },
     {
       "word": "fold",
@@ -6472,6 +6688,12 @@
       "example": "In summer, Jory had been told, the hedge flowered white from end to end, and the whole hollow smelled of honey."
     },
     {
+      "word": "from place to place",
+      "pos": "PHRASE",
+      "translation": "da un posto all'altro",
+      "example": "For six years, Bram said, Cade and Elinor had moved from place to place under other names."
+    },
+    {
       "word": "from side to side",
       "pos": "PHRASE",
       "translation": "da una parte all'altra",
@@ -6554,6 +6776,12 @@
       "pos": "ADJ",
       "translation": "furioso, accanito",
       "example": "She held it there, her face set and furious with concentration, for a count of ten."
+    },
+    {
+      "word": "furred",
+      "pos": "ADJ",
+      "translation": "sfilacciato, consunto",
+      "example": "One was the letter Rowan had already seen in the firelight, a lifetime ago: worn soft, its folds furred, Whatever happens, Bram showing faintly through the paper."
     },
     {
       "word": "further",
@@ -6686,6 +6914,12 @@
       "pos": "VERB",
       "translation": "ottenere, ricevere («got this»: mi sono fatto questo)",
       "example": "\"Do you know how I got this?\""
+    },
+    {
+      "word": "get in",
+      "pos": "PHRASE",
+      "translation": "raccogliere, mettere al riparo (il raccolto)",
+      "example": "I've watched her stop the rain over a whole field so Cade could get the hay in."
     },
     {
       "word": "get married",
@@ -6969,6 +7203,12 @@
       "example": "Mia goes out into the street."
     },
     {
+      "word": "go over",
+      "pos": "PHRASE",
+      "translation": "cadere, finire a terra",
+      "example": "Rowan hit him so hard that they both nearly went over in the snow."
+    },
+    {
       "word": "go to bed",
       "pos": "PHRASE",
       "translation": "andare a letto",
@@ -7185,6 +7425,12 @@
       "example": "But his hands, which had been gripping a plank to lift it from the cart, had gone utterly still."
     },
     {
+      "word": "grizzled",
+      "pos": "ADJ",
+      "translation": "brizzolato",
+      "example": "For a long moment the two old men simply looked at one another — the one huge and broad and grizzled, the other small and bent and wrinkled as a walnut — like two old dogs meeting in a lane, each deciding whether the other was worth the trouble of a growl."
+    },
+    {
       "word": "groan",
       "pos": "NOUN",
       "translation": "il gemito, lo scricchiolio",
@@ -7221,6 +7467,18 @@
       "example": "You have strong hands, and you grew up in a forest."
     },
     {
+      "word": "growl",
+      "pos": "NOUN",
+      "translation": "il ringhio",
+      "example": "For a long moment the two old men simply looked at one another — the one huge and broad and grizzled, the other small and bent and wrinkled as a walnut — like two old dogs meeting in a lane, each deciding whether the other was worth the trouble of a growl."
+    },
+    {
+      "word": "gruffly",
+      "pos": "ADV",
+      "translation": "burberamente",
+      "example": "\"You're thin,\" said Bram gruffly, into his hair."
+    },
+    {
       "word": "grunt",
       "pos": "NOUN",
       "translation": "il grugnito",
@@ -7245,6 +7503,12 @@
       "example": "\"The guardian's.\""
     },
     {
+      "word": "guess",
+      "pos": "VERB",
+      "translation": "indovinare",
+      "example": "She knew what you were, or guessed it."
+    },
+    {
       "word": "gust",
       "pos": "NOUN",
       "translation": "la raffica",
@@ -7257,9 +7521,21 @@
       "example": "Below me, there was a narrow ledge, and from the ledge, a gutter led to the roof next door."
     },
     {
+      "word": "habit",
+      "pos": "NOUN",
+      "translation": "l'abitudine",
+      "example": "You will forgive me, Mr Ashby, if I am no longer in the habit of taking people's word for things."
+    },
+    {
       "word": "had better",
       "pos": "PHRASE",
       "translation": "faresti meglio a («you had better»: faresti meglio a)"
+    },
+    {
+      "word": "haft",
+      "pos": "NOUN",
+      "translation": "il manico (di un'ascia)",
+      "example": "And he sat there like that, with his hands resting on the haft and his eyes on the door, until the grey light came."
     },
     {
       "word": "haggle",
@@ -7376,6 +7652,12 @@
       "example": "He unwrapped it the way a man handles something that might break."
     },
     {
+      "word": "handling",
+      "pos": "NOUN",
+      "translation": "la manipolazione («grey with handling»: grigio a forza di essere maneggiato)",
+      "example": "Hale's gloved hand came up, and the air between them rippled like the air above a forge — but what Bram drew out was only a folded square of paper, soft and grey with handling."
+    },
+    {
       "word": "hands and knees",
       "pos": "PHRASE",
       "translation": "(«on hands and knees») a carponi",
@@ -7478,6 +7760,12 @@
       "example": "Mia has a cat. — Mia ha un gatto."
     },
     {
+      "word": "have a head for",
+      "pos": "PHRASE",
+      "translation": "essere portato per",
+      "example": "She had a head for it, Bram said — for ledgers and lists and long columns of names."
+    },
+    {
       "word": "have no idea",
       "pos": "PHRASE",
       "translation": "non avere idea",
@@ -7488,6 +7776,12 @@
       "pos": "PHRASE",
       "translation": "non avere nessuna intenzione di",
       "example": "The first morning of Leaf-Fall arrived wrapped in fog, as if the forest had pulled a blanket over its head and had no intention of getting up."
+    },
+    {
+      "word": "hay",
+      "pos": "NOUN",
+      "translation": "il fieno",
+      "example": "I've watched her stop the rain over a whole field so Cade could get the hay in."
     },
     {
       "word": "haze",
@@ -7544,6 +7838,12 @@
       "example": "Healthy enough."
     },
     {
+      "word": "heap",
+      "pos": "VERB",
+      "translation": "ammucchiare («heaped»: ammucchiato)",
+      "example": "The other stood on the far side of the hedge, out on the causeway: a big, broad, stooping shape with snow heaped on its shoulders and its hat, leaning on a tall staff."
+    },
+    {
       "word": "hear",
       "pos": "VERB",
       "translation": "sentire, udire",
@@ -7598,6 +7898,24 @@
       "example": "Moss heaved himself to his feet with a grunt and a crackle of old joints."
     },
     {
+      "word": "heaven",
+      "pos": "NOUN",
+      "translation": "il cielo",
+      "example": "I thought you'd come home, and cut wood with me, and marry Tamsin Reed, heaven help you, and nobody'd ever write your name in any book on this hill."
+    },
+    {
+      "word": "heaven help you",
+      "pos": "PHRASE",
+      "translation": "che il cielo ti aiuti",
+      "example": "I thought you'd come home, and cut wood with me, and marry Tamsin Reed, heaven help you, and nobody'd ever write your name in any book on this hill."
+    },
+    {
+      "word": "heavily",
+      "pos": "ADV",
+      "translation": "pesantemente, con aria grave",
+      "example": "\"And that,\" said Bram heavily, \"is where it went wrong.\""
+    },
+    {
       "word": "heavy",
       "pos": "ADJ",
       "translation": "pesante",
@@ -7646,6 +7964,12 @@
       "example": "I couldn't help it."
     },
     {
+      "word": "henhouse",
+      "pos": "NOUN",
+      "translation": "il pollaio",
+      "example": "And a few weeks ago, a person nobody saw walked into this Academy as easily as a fox walks into a henhouse, and walked out again with a fourth-year boy."
+    },
+    {
       "word": "her",
       "pos": "PRON",
       "translation": "lei, la; suo, sua, suoi (di lei)",
@@ -7692,6 +8016,12 @@
       "pos": "VERB",
       "translation": "esitare",
       "example": "The villagers hesitated, then slowly lowered their weapons."
+    },
+    {
+      "word": "hidden",
+      "pos": "ADJ",
+      "translation": "nascosto",
+      "example": "Hidden you."
     },
     {
       "word": "hide",
@@ -7962,6 +8292,12 @@
       "pos": "ADV",
       "translation": "orribilmente",
       "example": "Pulling up and out, steadily, horribly, the way a hand draws water from a well with a rope and a bucket."
+    },
+    {
+      "word": "horror",
+      "pos": "NOUN",
+      "translation": "l'orrore («to his horror»: con suo grande orrore)",
+      "example": "Bram smelled of woodsmoke and wet wool and pine resin and twelve days of walking, and it was the smell of the clearing, and the cabin, and every winter evening Rowan could remember, and he found, to his horror, that he was crying into his uncle's coat like a small child, and that he did not care in the least who saw."
     },
     {
       "word": "horse",
@@ -8327,6 +8663,18 @@
       "example": "But Edwin refused to leave, and in the end, the king agreed to see him."
     },
     {
+      "word": "in the habit of",
+      "pos": "PHRASE",
+      "translation": "avere l'abitudine di",
+      "example": "You will forgive me, Mr Ashby, if I am no longer in the habit of taking people's word for things."
+    },
+    {
+      "word": "in the least",
+      "pos": "PHRASE",
+      "translation": "minimamente, per niente",
+      "example": "Bram smelled of woodsmoke and wet wool and pine resin and twelve days of walking, and it was the smell of the clearing, and the cabin, and every winter evening Rowan could remember, and he found, to his horror, that he was crying into his uncle's coat like a small child, and that he did not care in the least who saw."
+    },
+    {
       "word": "in the middle of",
       "pos": "PHRASE",
       "translation": "in mezzo a, nel mezzo di",
@@ -8662,6 +9010,12 @@
       "example": "The voice came out of the darkness behind the ferns, dry and cracked and very old, and all four of them nearly jumped out of their skins."
     },
     {
+      "word": "jumping",
+      "pos": "NOUN",
+      "translation": "il salto («jumping light»: luce tremolante)",
+      "example": "Lanterns hung from hooks driven into the living wood, swinging and hissing in the wind, and in their jumping light Rowan saw two figures facing each other across the gap."
+    },
+    {
       "word": "junior",
       "pos": "ADJ",
       "translation": "subalterno, principiante",
@@ -8678,6 +9032,12 @@
       "pos": "VERB",
       "translation": "tenere, custodire",
       "example": "It is also where I keep my secrets."
+    },
+    {
+      "word": "keep out",
+      "pos": "PHRASE",
+      "translation": "tenere fuori",
+      "example": "But it had not been made to keep out Bram."
     },
     {
       "word": "keep your head down",
@@ -8812,6 +9172,12 @@
       "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
     },
     {
+      "word": "knock out",
+      "pos": "PHRASE",
+      "translation": "svuotare (la pipa, battendola)",
+      "example": "It was very late when Moss finally knocked out his pipe and announced, to nobody in particular, that he was going to see to the roots."
+    },
+    {
       "word": "knock over",
       "pos": "PHRASE",
       "translation": "rovesciare, far cadere",
@@ -8924,6 +9290,12 @@
       "pos": "NOUN",
       "translation": "il proprietario terriero",
       "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
+    },
+    {
+      "word": "lane",
+      "pos": "NOUN",
+      "translation": "il viottolo, la stradina",
+      "example": "For a long moment the two old men simply looked at one another — the one huge and broad and grizzled, the other small and bent and wrinkled as a walnut — like two old dogs meeting in a lane, each deciding whether the other was worth the trouble of a growl."
     },
     {
       "word": "language",
@@ -9286,6 +9658,12 @@
       "example": "The broad, flat stone in front of the hearth — the one Rowan had sat on every winter evening of his life — had been levered aside."
     },
     {
+      "word": "lever up",
+      "pos": "PHRASE",
+      "translation": "sollevare (facendo leva)",
+      "example": "But the ashes in the hearth had been raked out across the floor, and the hearthstone itself had been levered up with something hard and pointed, and set back down again, crooked."
+    },
+    {
       "word": "lichen",
       "pos": "NOUN",
       "translation": "il lichene",
@@ -9314,6 +9692,12 @@
       "pos": "NOUN",
       "translation": "la vita",
       "example": "He had never checked the shutters in his life."
+    },
+    {
+      "word": "lifetime",
+      "pos": "NOUN",
+      "translation": "la vita («a lifetime ago»: una vita fa)",
+      "example": "One was the letter Rowan had already seen in the firelight, a lifetime ago: worn soft, its folds furred, Whatever happens, Bram showing faintly through the paper."
     },
     {
       "word": "lift",
@@ -9404,6 +9788,12 @@
       "pos": "NOUN",
       "translation": "il labbro",
       "example": "They found the right decade on the third shelf, and Ilse ran her finger down the A's, page by page, year by year, her lips moving silently."
+    },
+    {
+      "word": "list",
+      "pos": "NOUN",
+      "translation": "la lista",
+      "example": "She had a head for it, Bram said — for ledgers and lists and long columns of names."
     },
     {
       "word": "list",
@@ -9541,6 +9931,12 @@
       "pos": "PHRASE",
       "translation": "alzare gli occhi; cercare (una parola)",
       "example": "She looks up."
+    },
+    {
+      "word": "loop",
+      "pos": "VERB",
+      "translation": "fare occhielli («looping hand»: calligrafia piena di svolazzi)",
+      "example": "At the bottom of it were three signatures: Maren Vell's neat, looping hand; Bram's own heavy capitals; and Master Hale's name, sharp and black, signed at a supper table in Brackenford on the evening of the Marking."
     },
     {
       "word": "loose",
@@ -9930,6 +10326,12 @@
       "pos": "PHRASE",
       "translation": "avere buone intenzioni («for all she means well»: per quanto sia ben intenzionata)",
       "example": "Not Vell, for all she means well.\""
+    },
+    {
+      "word": "measure",
+      "pos": "VERB",
+      "translation": "misurare, soppesare",
+      "example": "Bram let him go and held him at arm's length, and looked at him for a long time, the way he looked at a tree before he felled it — slowly, all the way up and all the way down, measuring."
     },
     {
       "word": "meat",
@@ -10400,10 +10802,22 @@
       "example": "And from inside the wagon, faint and muffled, so that at first Rowan thought he had imagined it, came the sound of someone coughing — a deep, hoarse, northern cough."
     },
     {
+      "word": "mug",
+      "pos": "NOUN",
+      "translation": "la tazza",
+      "example": "Bram sat on an upturned bucket with his big hands wrapped round a mug, steam rising into his beard."
+    },
+    {
       "word": "mule",
       "pos": "NOUN",
       "translation": "il mulo, la mula",
       "example": "By mid-afternoon the cart was loaded, and Patience — a mule whose name had been chosen with considerable irony — was persuaded, after the usual negotiations, to haul it down the track to Brackenford."
+    },
+    {
+      "word": "Multiple",
+      "pos": "PROPN",
+      "translation": "Multiplo (allievo marcato da più elementi)",
+      "example": "First Multiple they'd seen on this hill in a generation, and they made no end of fuss of her."
     },
     {
       "word": "murmur",
@@ -10716,6 +11130,12 @@
       "pos": "PHRASE",
       "translation": "senza dubbio",
       "example": "Mistress Crane will no doubt have something to say about it."
+    },
+    {
+      "word": "no end of",
+      "pos": "PHRASE",
+      "translation": "un'infinità di («made no end of fuss»: ne fecero un gran parlare)",
+      "example": "First Multiple they'd seen on this hill in a generation, and they made no end of fuss of her."
     },
     {
       "word": "no longer",
@@ -11144,6 +11564,12 @@
     },
     {
       "word": "opposite",
+      "pos": "ADJ",
+      "translation": "di fronte, opposto",
+      "example": "Rowan sat on the bench opposite."
+    },
+    {
+      "word": "opposite",
       "pos": "ADP",
       "translation": "di fronte a",
       "example": "While Godfrey went to see to the horses, she sat down opposite Edwin and lowered her voice."
@@ -11335,6 +11761,12 @@
       "example": "He learned the rest from the others, in pieces, over the course of that long, grey afternoon."
     },
     {
+      "word": "over with",
+      "pos": "PHRASE",
+      "translation": "finito («want it over with»: volerla fare finita)",
+      "example": "He told it quickly, almost flatly, as though he wanted it over with."
+    },
+    {
       "word": "overgrow",
       "pos": "VERB",
       "translation": "invadere (di vegetazione)",
@@ -11351,6 +11783,12 @@
       "pos": "ADV",
       "translation": "sopra la testa, in alto",
       "example": "Branches arched overhead to form galleries and bridges between the towers."
+    },
+    {
+      "word": "overhear",
+      "pos": "VERB",
+      "translation": "origliare, udire per caso",
+      "example": "Now his uncle looked at the nearest of them — a young beech, bent towards Rowan's shoulder like someone trying to overhear a secret — and set down his mug."
     },
     {
       "word": "owl",
@@ -11845,6 +12283,12 @@
       "example": "Bram stripped the fallen oak with short, economical strokes while Rowan dragged the branches to the pile and sorted them by thickness: kindling, fencing, firewood, nothing wasted."
     },
     {
+      "word": "pile",
+      "pos": "VERB",
+      "translation": "accumulare, ammucchiare",
+      "example": "Then he looked at the snow piled on Bram's shoulders, and at his boots, which were bound round with strips of sacking where the leather had split."
+    },
+    {
       "word": "pillar",
       "pos": "NOUN",
       "translation": "il pilastro, la colonna",
@@ -11873,6 +12317,12 @@
       "pos": "VERB",
       "translation": "pizzicare",
       "example": "And one by one, all around the bowl, every lantern that had been lit against the grey morning went out — not blown, not flickering, but simply snuffed, as if a giant had pinched each one between finger and thumb."
+    },
+    {
+      "word": "pine",
+      "pos": "NOUN",
+      "translation": "il pino",
+      "example": "Bram smelled of woodsmoke and wet wool and pine resin and twelve days of walking, and it was the smell of the clearing, and the cabin, and every winter evening Rowan could remember, and he found, to his horror, that he was crying into his uncle's coat like a small child, and that he did not care in the least who saw."
     },
     {
       "word": "pink",
@@ -12673,6 +13123,18 @@
       "example": "The king raised his sword and touched him lightly on each shoulder."
     },
     {
+      "word": "rake",
+      "pos": "VERB",
+      "translation": "rastrellare («raked out»: sparso)",
+      "example": "But the ashes in the hearth had been raked out across the floor, and the hearthstone itself had been levered up with something hard and pointed, and set back down again, crooked."
+    },
+    {
+      "word": "rake out",
+      "pos": "PHRASE",
+      "translation": "tirare fuori (col rastrello), spargere",
+      "example": "But the ashes in the hearth had been raked out across the floor, and the hearthstone itself had been levered up with something hard and pointed, and set back down again, crooked."
+    },
+    {
       "word": "rap",
       "pos": "VERB",
       "translation": "bussare, picchiare",
@@ -13074,6 +13536,12 @@
       "example": "But every first-year knew that their whole year's reputation would be decided on that cold grey floor, in front of five hundred watching faces, and they had been sick with nerves about it for weeks."
     },
     {
+      "word": "resin",
+      "pos": "NOUN",
+      "translation": "la resina",
+      "example": "Bram smelled of woodsmoke and wet wool and pine resin and twelve days of walking, and it was the smell of the clearing, and the cabin, and every winter evening Rowan could remember, and he found, to his horror, that he was crying into his uncle's coat like a small child, and that he did not care in the least who saw."
+    },
+    {
       "word": "resinous",
       "pos": "ADJ",
       "translation": "resinoso",
@@ -13126,6 +13594,12 @@
       "pos": "VERB",
       "translation": "riposare, poggiare",
       "example": "Rowan looked at the sliver of stone, and then at his own hands, which were resting on the table."
+    },
+    {
+      "word": "restless",
+      "pos": "ADJ",
+      "translation": "irrequieto, agitato",
+      "example": "His brother Cade had been eight years younger than him — \"the clever one, and the restless one, and the one that got all the looks in the family, which wasn't hard.\""
     },
     {
       "word": "result",
@@ -13240,6 +13714,12 @@
       "pos": "VERB",
       "translation": "raddrizzare, rimettere in piedi",
       "example": "By the time he had righted it, Old Moss was standing at the edge of the light in a nightshirt and a vast, moth-eaten shawl, leaning on his blackthorn stick, and looking at them with his one bright eye."
+    },
+    {
+      "word": "right in the head",
+      "pos": "PHRASE",
+      "translation": "a posto con la testa",
+      "example": "Is he right in the head, this gardener?"
     },
     {
       "word": "rigid",
@@ -13446,6 +13926,12 @@
       "example": "A rope was brought."
     },
     {
+      "word": "rosemary",
+      "pos": "NOUN",
+      "translation": "il rosmarino",
+      "example": "Your mother kept a row of pots on the sill — rosemary and thyme, and a little bay tree she'd grown from a cutting."
+    },
+    {
       "word": "rotten",
       "pos": "ADJ",
       "translation": "marcio",
@@ -13542,6 +14028,12 @@
       "example": "That was the first rule of the Ashby household, and very nearly the only one Bram had ever bothered to say out loud."
     },
     {
+      "word": "rumble",
+      "pos": "NOUN",
+      "translation": "il brontolio, il rombo",
+      "example": "Not the words, mostly — only the deep, slow rumble of it, going on and on like a cart over a wooden bridge, and then, cutting across it, the Warden's voice, low and clear and cold."
+    },
+    {
       "word": "rumour",
       "pos": "NOUN",
       "translation": "la voce, la diceria",
@@ -13564,6 +14056,12 @@
       "pos": "PHRASE",
       "translation": "prosciugarsi, esaurirsi",
       "example": "\"A Well can run dry,\" said Mistress Crane."
+    },
+    {
+      "word": "run off",
+      "pos": "PHRASE",
+      "translation": "scappare",
+      "example": "The families had a letter from the Academy saying the child had run off."
     },
     {
       "word": "run out",
@@ -13612,6 +14110,12 @@
       "pos": "NOUN",
       "translation": "il sacco",
       "example": "Every child Marked at the Stone that autumn was going, and the first three wagons were already crowded with trunks, sacks and nervous faces."
+    },
+    {
+      "word": "sacking",
+      "pos": "NOUN",
+      "translation": "la tela di sacco",
+      "example": "There was an axe slung across his back, its head wrapped in sacking."
     },
     {
       "word": "saddle",
@@ -13752,6 +14256,12 @@
       "example": "The school is closed. — La scuola è chiusa."
     },
     {
+      "word": "schooling",
+      "pos": "NOUN",
+      "translation": "gli studi, la formazione",
+      "example": "When her schooling was finished, Elinor had stayed on at Thornhall."
+    },
+    {
       "word": "score",
       "pos": "VERB",
       "translation": "incidere, rigare; segnare (punti)",
@@ -13872,6 +14382,12 @@
       "example": "He carried a letter sealed with the red wax of the king himself."
     },
     {
+      "word": "seal up",
+      "pos": "PHRASE",
+      "translation": "sigillare",
+      "example": "They were gone by morning, the pair of them, and the Academy wrote her down as withdrawn and sealed it up, and that was that."
+    },
+    {
       "word": "seamlessly",
       "pos": "ADV",
       "translation": "senza giunture, perfettamente",
@@ -13888,6 +14404,12 @@
       "pos": "NOUN",
       "translation": "la stagione",
       "example": "And high on the battlements, where a castle would have had banners, whole oaks stood rooted in the stone, their crowns turning bronze and gold with the season."
+    },
+    {
+      "word": "seasoned",
+      "pos": "ADJ",
+      "translation": "stagionato (legno); esperto",
+      "example": "Every autumn, when he was nineteen and twenty and twenty-one, Cade had driven a wagon of seasoned oak up the long road to Thornhall, for the frames of the glasshouses."
     },
     {
       "word": "seat",
@@ -14437,6 +14959,12 @@
     },
     {
       "word": "shut",
+      "pos": "ADJ",
+      "translation": "chiuso",
+      "example": "The roads are shut."
+    },
+    {
+      "word": "shut",
       "pos": "VERB",
       "translation": "chiudere",
       "example": "For a moment Rowan genuinely thought his uncle would shut the door in her face."
@@ -14554,6 +15082,12 @@
       "pos": "NOUN",
       "translation": "la seta",
       "example": "We ran along the rooftops of the Croix-Rousse, the old hill where silk workers lived a long time ago."
+    },
+    {
+      "word": "sill",
+      "pos": "NOUN",
+      "translation": "il davanzale",
+      "example": "Your mother kept a row of pots on the sill — rosemary and thyme, and a little bay tree she'd grown from a cutting."
     },
     {
       "word": "silly",
@@ -15073,6 +15607,12 @@
     },
     {
       "word": "so",
+      "pos": "CCONJ",
+      "translation": "così, quindi",
+      "example": "So in the spring I told Brackenford there'd been a fever on the coast."
+    },
+    {
+      "word": "so",
       "pos": "SCONJ",
       "translation": "perché, affinché",
       "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
@@ -15552,6 +16092,12 @@
       "example": "But Hale stopped two steps above him, and for a moment the two of them simply looked at each other in the dim, curving stairwell, while the warmth that always hung around Hale crept out over the cold stone like breath."
     },
     {
+      "word": "stall",
+      "pos": "NOUN",
+      "translation": "la bancarella («pie stall»: la bancarella dei pasticci)",
+      "example": "As though Rowan had wandered off on market day and turned up again by the pie stall."
+    },
+    {
       "word": "stamp",
       "pos": "NOUN",
       "translation": "lo scalpitio, il pestare",
@@ -15628,6 +16174,12 @@
       "pos": "VERB",
       "translation": "restare, rimanere",
       "example": "If we stay together, we have a chance."
+    },
+    {
+      "word": "stay on",
+      "pos": "PHRASE",
+      "translation": "restare, fermarsi (più a lungo)",
+      "example": "When her schooling was finished, Elinor had stayed on at Thornhall."
     },
     {
       "word": "steadily",
@@ -15868,6 +16420,18 @@
       "pos": "ADJ",
       "translation": "corpulento, robusto",
       "example": "The infirmary healer — a stout, brisk, kindly woman called Mother Rook, who smelled of camphor and treated every student as though they were a slightly disappointing nephew — told him so, at length, while she peered into his eyes and felt the pulse at his wrist and pronounced him, with deep suspicion, to be recovering."
+    },
+    {
+      "word": "stove",
+      "pos": "NOUN",
+      "translation": "la stufa",
+      "example": "The little iron stove ticked and glowed."
+    },
+    {
+      "word": "straight",
+      "pos": "ADJ",
+      "translation": "dritto",
+      "example": "He had watched it being cut, three winters ago, from a straight young ash at the top of the clearing."
     },
     {
       "word": "straight",
@@ -16230,6 +16794,18 @@
       "example": "Her father can lift a cartwheel out of the mud without touching it.\" He swallowed."
     },
     {
+      "word": "swallow up",
+      "pos": "PHRASE",
+      "translation": "inghiottire",
+      "example": "He took his lantern and shuffled away down the long aisle between the benches, and the darkness at the far end of the glasshouse swallowed him up, and Rowan understood that he would not be coming back for some time."
+    },
+    {
+      "word": "swarm",
+      "pos": "NOUN",
+      "translation": "lo sciame",
+      "example": "One moment he was standing in the common room with the door banging in the wind, and the next he was halfway down the hill in the dark, with no cloak and no lantern, and the snow coming at him sideways out of the night like a swarm of white bees."
+    },
+    {
       "word": "sway",
       "pos": "VERB",
       "translation": "ondeggiare, oscillare",
@@ -16337,6 +16913,12 @@
       "translation": "prendersi cura di, occuparsi di"
     },
     {
+      "word": "take down",
+      "pos": "PHRASE",
+      "translation": "abbattere (un albero)",
+      "example": "He told it the way he did everything: slowly, and plainly, and in the right order, the way you take down a tree."
+    },
+    {
       "word": "take hold of",
       "pos": "PHRASE",
       "translation": "afferrare, prendere",
@@ -16437,6 +17019,12 @@
       "pos": "NOUN",
       "translation": "la tassa, l'imposta",
       "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
+    },
+    {
+      "word": "tea",
+      "pos": "NOUN",
+      "translation": "il tè",
+      "example": "\"Tea?\" said Moss."
     },
     {
       "word": "teach",
@@ -16542,6 +17130,12 @@
     },
     {
       "word": "test",
+      "pos": "NOUN",
+      "translation": "la prova, il test",
+      "example": "Whatever happens, Bram, do not let them test him."
+    },
+    {
+      "word": "test",
       "pos": "VERB",
       "translation": "mettere alla prova, esaminare",
       "example": "Whatever happens, Bram — do not let them test him."
@@ -16581,6 +17175,12 @@
       "pos": "SCONJ",
       "translation": "che",
       "example": "the knight finally asked, touching the long scar that crossed his left cheek."
+    },
+    {
+      "word": "that was that",
+      "pos": "PHRASE",
+      "translation": "e la cosa finì lì",
+      "example": "They were gone by morning, the pair of them, and the Academy wrote her down as withdrawn and sealed it up, and that was that."
     },
     {
       "word": "thatch",
@@ -16707,6 +17307,12 @@
       "pos": "ADJ",
       "translation": "terzo",
       "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
+    },
+    {
+      "word": "thirty",
+      "pos": "NUM",
+      "translation": "trenta",
+      "example": "\"Hundred and thirty, by the forest road,\" said Bram."
     },
     {
       "word": "this",
@@ -16877,6 +17483,12 @@
       "example": "Then she reached up, almost absently, and ran her thumb along the old white scar on the back of her left hand."
     },
     {
+      "word": "thumbnail",
+      "pos": "NOUN",
+      "translation": "l'unghia del pollice",
+      "example": "Bram had scraped a small, clear patch in the frost with his thumbnail, and through it, far down the white slope of the hill, the frozen lake lay grey and endless under the stars."
+    },
+    {
       "word": "thunder",
       "pos": "NOUN",
       "translation": "il tuono",
@@ -16899,6 +17511,12 @@
       "pos": "PROPN",
       "translation": "giovedì",
       "example": "We leave for Brackenford on Thursday."
+    },
+    {
+      "word": "thyme",
+      "pos": "NOUN",
+      "translation": "il timo",
+      "example": "Your mother kept a row of pots on the sill — rosemary and thyme, and a little bay tree she'd grown from a cutting."
     },
     {
       "word": "tick",
@@ -17123,6 +17741,12 @@
       "example": "I have a cat too. — Anch'io ho un gatto."
     },
     {
+      "word": "tool",
+      "pos": "NOUN",
+      "translation": "l'attrezzo, lo strumento",
+      "example": "It's a tool, not a weapon."
+    },
+    {
       "word": "tooth",
       "pos": "NOUN",
       "translation": "il dente",
@@ -17313,6 +17937,12 @@
       "pos": "NOUN",
       "translation": "il triangolo",
       "example": "Rowan saw columns of names in a neat, cramped hand, and beside each a single symbol: a wavy line, a triangle, a spiral, a small circle."
+    },
+    {
+      "word": "trouble",
+      "pos": "NOUN",
+      "translation": "il problema, il guaio; la fatica («worth the trouble»: che vale la pena)",
+      "example": "\"That's the trouble.\""
     },
     {
       "word": "trouser",
@@ -17729,6 +18359,12 @@
       "example": "He opened his eye and looked at Rowan properly for the first time, up and down, from his earth-blackened gloves to his untidy hair."
     },
     {
+      "word": "untie",
+      "pos": "VERB",
+      "translation": "slegare, sciogliere",
+      "example": "He untied the twine with his thick, careful fingers, and unfolded the oilcloth on his knee."
+    },
+    {
       "word": "until",
       "pos": "ADP",
       "translation": "fino a",
@@ -17932,6 +18568,12 @@
       "example": "\"Maren Vell.\""
     },
     {
+      "word": "version",
+      "pos": "NOUN",
+      "translation": "la versione",
+      "example": "In every version of it he had been angry — shouting, the way he had shouted at the kitchen table the night of the Marking."
+    },
+    {
       "word": "very",
       "pos": "ADJ",
       "translation": "stesso («the very day»: il giorno stesso; «the very end»: in fondo in fondo)",
@@ -18088,16 +18730,34 @@
       "example": "But this time there was no answering light on the near shore, and no hooded figure walking up the slope towards the hedge."
     },
     {
+      "word": "walking",
+      "pos": "NOUN",
+      "translation": "il cammino, la camminata",
+      "example": "Bram smelled of woodsmoke and wet wool and pine resin and twelve days of walking, and it was the smell of the clearing, and the cabin, and every winter evening Rowan could remember, and he found, to his horror, that he was crying into his uncle's coat like a small child, and that he did not care in the least who saw."
+    },
+    {
       "word": "wall",
       "pos": "NOUN",
       "translation": "il muro, le mura",
       "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
     },
     {
+      "word": "walnut",
+      "pos": "NOUN",
+      "translation": "la noce",
+      "example": "For a long moment the two old men simply looked at one another — the one huge and broad and grizzled, the other small and bent and wrinkled as a walnut — like two old dogs meeting in a lane, each deciding whether the other was worth the trouble of a growl."
+    },
+    {
       "word": "wander",
       "pos": "VERB",
       "translation": "vagare, gironzolare",
       "example": "He thought about it in the glasshouses, sitting beside Moss's clay pots with his eyes closed, until the old man rapped him on the knee with his blackthorn stick and told him that a seed could hear a mind wandering from a mile off."
+    },
+    {
+      "word": "wander off",
+      "pos": "PHRASE",
+      "translation": "allontanarsi",
+      "example": "As though Rowan had wandered off on market day and turned up again by the pie stall."
     },
     {
       "word": "want",
@@ -18280,6 +18940,12 @@
       "example": "Edwin knelt in front of the altar, wearing a simple white tunic, his sword lying on the cold stone in front of him."
     },
     {
+      "word": "wear down",
+      "pos": "PHRASE",
+      "translation": "logorare, consumare",
+      "example": "His face was grey with cold, and there was frost in his beard, and he looked older than Rowan had ever seen him — older, and smaller, somehow, as though the long road had worn him down the way a river wears down a stone."
+    },
+    {
       "word": "weather",
       "pos": "NOUN",
       "translation": "il tempo (meteo), le intemperie",
@@ -18389,6 +19055,12 @@
     },
     {
       "word": "west",
+      "pos": "ADV",
+      "translation": "verso ovest",
+      "example": "And they went west again, the pair of them, the way they'd come — loud, so they'd be seen."
+    },
+    {
+      "word": "west",
       "pos": "NOUN",
       "translation": "l'ovest",
       "example": "The Cistern, west door."
@@ -18442,6 +19114,12 @@
       "example": "\"So the gardener of the day — my great-great-I-don't-know-how-many-greats-grandfather — carried them down here one night in a wheelbarrow, under a load of manure, and the cellar closed up behind him."
     },
     {
+      "word": "wheezing",
+      "pos": "NOUN",
+      "translation": "il respiro affannoso («wheezing»: ansimando)",
+      "example": "Somewhere behind them, Master Grey arrived at last, wheezing, with Tamsin at his heels carrying Rowan's cloak."
+    },
+    {
       "word": "when",
       "pos": "SCONJ",
       "translation": "quando",
@@ -18458,6 +19136,12 @@
       "pos": "SCONJ",
       "translation": "dove",
       "example": "Where is Leo? — Dov'è Leo?"
+    },
+    {
+      "word": "wherever",
+      "pos": "SCONJ",
+      "translation": "ovunque",
+      "example": "All my love, always, wherever I am —"
     },
     {
       "word": "whether",
@@ -18748,6 +19432,12 @@
       "example": "Leo eats with Mia. — Leo mangia con Mia."
     },
     {
+      "word": "withdraw",
+      "pos": "VERB",
+      "translation": "ritirare («withdrawn»: ritirata)",
+      "example": "They were gone by morning, the pair of them, and the Academy wrote her down as withdrawn and sealed it up, and that was that."
+    },
+    {
       "word": "withdrawn",
       "pos": "ADJ",
       "translation": "ritirato",
@@ -18986,6 +19676,12 @@
       "pos": "ADJ",
       "translation": "sbagliato («go wrong»: andare storto)",
       "example": "Then, on the third pass, something went terribly wrong."
+    },
+    {
+      "word": "wrong",
+      "pos": "ADV",
+      "translation": "male («go wrong»: andare storto)",
+      "example": "\"And that,\" said Bram heavily, \"is where it went wrong.\""
     },
     {
       "word": "y",
