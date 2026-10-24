@@ -18,6 +18,7 @@ export const de: Messages = {
     next: 'Weiter',
     skip: 'Überspringen',
     retry: 'Erneut versuchen',
+    listen: (word: string) => `„${word}“ anhören`,
     chapters: (n) => count(n, 'Kapitel', 'Kapitel'),
     pages: (n) => count(n, 'Seite', 'Seiten'),
     words: (n) => count(n, 'Wort', 'Wörter'),

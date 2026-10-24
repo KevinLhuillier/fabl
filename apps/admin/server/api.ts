@@ -4,7 +4,9 @@ import { HTTPException } from 'hono/http-exception';
 import { upsertTranslations } from '../../../scripts/publish/src/db.js';
 import {
   analyzeStory,
+  canPronounce,
   missingInTranslationFile,
+  pronounceStory,
   publishAnalysis,
   type StoryAnalysis,
 } from '../../../scripts/publish/src/pipeline.js';
@@ -111,6 +113,13 @@ api.post('/stories/:slug/publish', async (c) => {
   const client = requireDb();
   const analysis = await analyze(slug);
   const missing = await publishAnalysis(client, slug, analysis, LANG);
+  // Pronunciations of the new words (ElevenLabs): in the background, a new story can take minutes.
+  if (canPronounce()) {
+    pronounceStory(client, analysis, (line) => console.log(`[${slug}]${line}`)).catch(
+      (e: unknown) =>
+        console.error(`[${slug}] Pronunciations:`, e instanceof Error ? e.message : e),
+    );
+  }
   return c.json(report(analysis, true, missing));
 });
 

@@ -5,6 +5,9 @@
  *
  * --dry-run  parse + lemmatize only, no database access; missing translations
  *            are then checked against content/translations/<lang>.json.
+ *
+ * After publishing, the pronunciation clips of the story's new words are generated
+ * (ElevenLabs, see generateWordAudio.ts).
  */
 import { readFileSync } from 'node:fs';
 import path from 'node:path';
@@ -12,7 +15,14 @@ import { parseArgs } from 'node:util';
 
 import { adminClient } from './db.js';
 import { resolveUserPath } from './env.js';
-import { analyzeStory, missingInTranslationFile, publishAnalysis } from './pipeline.js';
+import {
+  analyzeStory,
+  canPronounce,
+  missingInTranslationFile,
+  missingStoryPronunciations,
+  pronounceStory,
+  publishAnalysis,
+} from './pipeline.js';
 import type { LemmaKey } from './lemmatize.js';
 
 const { values, positionals } = parseArgs({
@@ -59,9 +69,13 @@ async function publishFile(file: string) {
   if (values['dry-run']) {
     missing = missingInTranslationFile(lemmas, values.lang);
     console.log('   (dry run: nothing written)');
+    console.log(`   ${missingStoryPronunciations(analysis).length} word(s) without pronunciation`);
   } else {
-    missing = await publishAnalysis(adminClient(), slug, analysis, values.lang);
+    const db = adminClient();
+    missing = await publishAnalysis(db, slug, analysis, values.lang);
     console.log('   ✅ published');
+    if (canPronounce()) await pronounceStory(db, analysis);
+    else console.warn('   ⚠️  No ElevenLabs key in .env: pronunciations not generated.');
   }
 
   if (missing.length) {

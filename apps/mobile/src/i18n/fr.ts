@@ -20,6 +20,7 @@ export const fr = {
     next: 'Suivant',
     skip: 'Passer',
     retry: 'Réessayer',
+    listen: (word: string) => `Écouter « ${word} »`,
     chapters: (n: number) => count(n, 'chapitre', 'chapitres'),
     pages: (n: number) => count(n, 'page', 'pages'),
     words: (n: number) => count(n, 'mot', 'mots'),

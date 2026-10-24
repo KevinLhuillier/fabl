@@ -9,6 +9,11 @@ import type { SupabaseClient } from '@supabase/supabase-js';
 import { applyAlignments } from './alignments.js';
 import { lemmasWithoutTranslation, publishStory, wordCount } from './db.js';
 import { lemmaKeyId, lemmatizePassages, type LemmaKey, type Token } from './lemmatize.js';
+import {
+  generatePronunciations,
+  missingPronunciations,
+  storyPronunciationTexts,
+} from './pronunciations.js';
 import { parseStory, type ParsedStory } from './story.js';
 import { loadTranslations } from './translations.js';
 
@@ -60,6 +65,21 @@ export async function publishAnalysis(
   );
   return lemmas.filter((l) => missingIds.has(lemmaIds.get(lemmaKeyId(l))!));
 }
+
+/** Story texts (words, spelled forms, expressions) without a pronunciation clip yet. */
+export const missingStoryPronunciations = ({ tokensByPage }: StoryAnalysis) =>
+  missingPronunciations(storyPronunciationTexts(tokensByPage));
+
+/** Generates the missing pronunciation clips of a story (ElevenLabs); returns how many. */
+export const pronounceStory = (
+  db: SupabaseClient,
+  { tokensByPage }: StoryAnalysis,
+  log?: (line: string) => void,
+) => generatePronunciations(db, storyPronunciationTexts(tokensByPage), { log });
+
+/** ElevenLabs is set up in .env (otherwise publishing skips the pronunciations). */
+export const canPronounce = () =>
+  Boolean(process.env.ELEVENLABS_API_KEY && process.env.ELEVENLABS_VOICE_ID);
 
 function uniqueLemmas(tokens: Token[]): LemmaKey[] {
   const map = new Map<string, LemmaKey>();

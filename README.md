@@ -14,6 +14,7 @@ apps/admin          Local web admin to write and publish stories (Vite + React, 
 content/stories     Stories in Markdown (.md)
 content/translations Translations per language (fr.json, es.json)
 content/alignments  Text ↔ voice-over timings per story (align-audio)
+content/pronunciations.json Word pronunciation clips (generate-word-audio)
 scripts/publish     Publishing pipeline (Markdown → Supabase)
 supabase/migrations SQL schema
 ```
@@ -47,9 +48,10 @@ turn this off in **Authentication → Providers → Email → Confirm email**.
   choices). Tap any word to see its translation in a bottom sheet; the word is added to
   "Mes mots" (once). The current page is saved and resumed on reopen. A page with a voice-over
   has a round play button (bottom right); once the page is aligned, the words light up as they
-  are read and a double tap on a word plays from there.
+  are read and a double tap on a word plays from there. The sheet's speaker plays the word's
+  pronunciation (as spelled in the text — "took" — else its lemma) and pauses the voice-over.
 - **Mes mots**: every word looked up, with translation, context sentence and story, searchable,
-  removable (trash icon), with the number of words due today. Practice is possible at any time.
+  removable (trash icon), with a speaker to hear each word, and the number of words due today. Practice is possible at any time.
 - **Review**: due words (spaced repetition, simplified SM-2 — `src/lib/srs.ts`): the user types the word's translation,
   alternating English → user's language and back (synonyms, articles, a missing accent or one typo accepted — `src/lib/answer.ts`). Missed words come back at the end.
 - **Celebration** screen after a chapter (with "next chapter" and the number of new words to learn:
@@ -177,7 +179,8 @@ cookies; every API call checks it against Supabase, so the Supabase keys in `.en
 - **Vérifier** (dry run) / **Publier**: same pipeline as `publish-story`; the report lists the
   words without translation, with the story sentence as suggested example, to translate on the
   spot (saved to `content/translations/fr.json` and Supabase; start the admin with `ADMIN_LANG=es`
-  to work on the Spanish ones).
+  to work on the Spanish ones). Publishing also generates, in the background, the pronunciations
+  of the story's new words (see [Word pronunciations](#word-pronunciations-elevenlabs)).
 - **Supprimer**: remove from the app (readers' progress on the story is deleted) and/or delete
   the file.
 
@@ -270,6 +273,26 @@ Each page is generated, uploaded to the `audio` bucket and its `@audio` line add
 (saved after every page). Pages that already have an `@audio` line are skipped: remove the line to
 regenerate one. Then run `align-audio` and publish.
 
+### Word pronunciations (ElevenLabs)
+
+The speaker of the translation sheet and of the vocabulary cards plays a short clip per spelled
+form: every lemma and expression of the dictionary, and every form read in the stories ("took",
+"knelt"). Contraction pieces ("n't", "'ll") have none: the app plays their lemma. Clips use the
+narrator voice, are uploaded to `audio/words/` and listed in `content/pronunciations.json` (commit
+it), copied to the `pronunciations` table.
+
+**`publish-story` (and the admin's Publier) generates the clips of the story's new words**, so
+adding a story or a chapter needs nothing more. To fill or repair by hand:
+
+```bash
+npm run generate-word-audio -- --dry-run                         # what is missing, characters to bill
+npm run generate-word-audio                                      # the whole dictionary (database)
+npm run generate-word-audio -- content/stories/c1-my-story.md    # the words of a story
+npm run generate-word-audio -- --word took --word "pick up"      # redo these clips
+```
+
+The file is saved every 25 clips: an interrupted run resumes where it stopped.
+
 ### Read-along (voice-over alignment)
 
 After adding a voice-over to a page, align it with the text so the reader can highlight the
@@ -311,6 +334,7 @@ except before a comma:
 | `npm run publish-story -- <file.md>`  | Publish a story (`--dry-run` to check only)  |
 | `npm run align-audio -- <file.md>`    | Align voice-overs with the text (read-along) |
 | `npm run generate-audio -- <file.md>` | Generate missing voice-overs (ElevenLabs)    |
+| `npm run generate-word-audio`         | Generate missing word pronunciations         |
 | `npm run seed-translations`           | Import translations (`-- --lang es`)         |
 | `npm run lint`                        | ESLint + Prettier on all packages            |
 | `npm run typecheck`                   | TypeScript on all packages                   |

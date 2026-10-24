@@ -6,10 +6,12 @@ import Animated, { LinearTransition } from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { ConfirmSheet } from '@/components/ConfirmSheet';
+import { SpeakButton } from '@/components/SpeakButton';
 import { useI18n } from '@/i18n';
 import { fetchVocabulary, removeFromVocabulary } from '@/lib/api/vocabulary';
 import { endOfToday } from '@/lib/dates';
 import { posLabel } from '@/lib/labels';
+import { loadPronunciations } from '@/lib/pronunciation';
 import { useTour } from '@/lib/tour';
 import type { VocabularyItem } from '@/lib/types';
 import {
@@ -43,7 +45,11 @@ export default function Vocabulary() {
   useFocusEffect(
     useCallback(() => {
       fetchVocabulary(lang)
-        .then((v) => {
+        .then(async (v) => {
+          // All the cards' speakers at once, rather than one request per card.
+          await loadPronunciations(v.map((i) => i.word)).catch((e: unknown) =>
+            console.warn('pronunciations', e),
+          );
           setItems(v);
           setError(null);
         })
@@ -171,6 +177,7 @@ function WordCard({
     <Card>
       <View style={styles.cardTop}>
         <Text variant="heading">{item.word}</Text>
+        <SpeakButton texts={[item.word]} size={32} />
         <Text variant="caption" color={colors.textMuted}>
           {posLabel(t, item.pos)}
         </Text>

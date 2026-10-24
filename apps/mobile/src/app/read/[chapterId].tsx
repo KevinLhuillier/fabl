@@ -335,6 +335,7 @@ export default function ChapterReader() {
           setSheet(null);
           setSelected(null);
         }}
+        onSpeak={() => audioRef.current?.pause()}
       />
     </SafeAreaView>
   );

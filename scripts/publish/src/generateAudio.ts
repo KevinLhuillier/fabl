@@ -15,6 +15,7 @@ import { parseArgs } from 'node:util';
 
 import { adminClient } from './db.js';
 import { requireEnv, resolveUserPath } from './env.js';
+import { VOICE_SETTINGS } from './pronunciations.js';
 import { parseStory, type Page } from './story.js';
 
 const { values, positionals } = parseArgs({
@@ -26,14 +27,6 @@ const { values, positionals } = parseArgs({
 });
 
 const AUDIO_BUCKET = 'audio';
-
-/** Settings of the narrator voice, as chosen in the ElevenLabs app. */
-const VOICE_SETTINGS = {
-  stability: 0.5,
-  similarity_boost: 0.75,
-  // "Clone strength: Low".
-  clone_strength: 0,
-};
 
 const pageText = (page: Page) => page.lines.join('\n');
 

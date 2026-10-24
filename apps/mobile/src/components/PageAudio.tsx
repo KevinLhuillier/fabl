@@ -1,22 +1,15 @@
-import { setAudioModeAsync, useAudioPlayer, useAudioPlayerStatus } from 'expo-audio';
+import { useAudioPlayer, useAudioPlayerStatus } from 'expo-audio';
 import { Pause, Play, RotateCcw } from 'lucide-react-native';
 import { useEffect, useImperativeHandle, type Ref } from 'react';
 import { ActivityIndicator, Pressable, StyleSheet, View, type ViewStyle } from 'react-native';
 import Svg, { Circle } from 'react-native-svg';
 
 import { useI18n } from '@/i18n';
+import { ensureAudioMode } from '@/lib/audioMode';
 import { Icon, colors, haptics } from '@/theme';
 
-// The voice-over must play even with the iPhone's silent switch on.
-let audioModeSet = false;
-function ensureAudioMode() {
-  if (audioModeSet) return;
-  audioModeSet = true;
-  setAudioModeAsync({ playsInSilentMode: true }).catch((e) => console.warn('setAudioMode', e));
-}
-
-/** Lets the reader start the voice-over from a word. */
-export type PageAudioHandle = { playFrom: (ms: number) => void };
+/** Lets the reader start the voice-over from a word, or pause it (a word's pronunciation plays). */
+export type PageAudioHandle = { playFrom: (ms: number) => void; pause: () => void };
 
 /** Outer size of the player; the button sits inside the progress ring. */
 export const PAGE_AUDIO_SIZE = 64;
@@ -69,6 +62,7 @@ export function PageAudio({
         void player.seekTo(ms / 1000);
         player.play();
       },
+      pause: () => player.pause(),
     }),
     [player],
   );

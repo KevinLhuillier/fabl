@@ -3,6 +3,7 @@ import { Pressable, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
+import { SpeakButton } from '@/components/SpeakButton';
 import { useI18n } from '@/i18n';
 import { posLabel } from '@/lib/labels';
 import type { Lemma } from '@/lib/types';
@@ -17,13 +18,19 @@ export type WordSheetState = {
   added: 'new' | 'existing' | null;
 };
 
-type Props = { word: WordSheetState | null; onClose: () => void };
+type Props = {
+  word: WordSheetState | null;
+  onClose: () => void;
+  /** Called before the word's pronunciation plays. */
+  onSpeak?: () => void;
+};
 
 /**
  * Bottom sheet with the translation of the tapped word (slides up). For a word
  * of an expression, the expression comes first and the word alone below it.
+ * The speaker plays the word as spelled in the text ("took"), else its lemma.
  */
-export function WordSheet({ word, onClose }: Props) {
+export function WordSheet({ word, onClose, onSpeak }: Props) {
   const insets = useSafeAreaInsets();
   const { t } = useI18n();
   if (!word) return null;
@@ -47,6 +54,10 @@ export function WordSheet({ word, onClose }: Props) {
         <View style={styles.handle} />
         <View style={styles.header}>
           <Text variant="title">{phrase ? phrase.word : surface}</Text>
+          <SpeakButton
+            texts={phrase ? [phrase.word] : [surface, lemma.word]}
+            onPlay={onSpeak}
+          />
           <Badge label={posLabel(t, entry.pos)} tone="primary" />
         </View>
         {showLemma ? (
