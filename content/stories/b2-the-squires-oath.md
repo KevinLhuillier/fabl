@@ -2,10 +2,12 @@
 title: The Squire's Oath
 level: B2
 summary: In medieval England, young Edwin has served a knight for four years. A tournament, a betrayal and a night of fire will decide whether he is worthy of the sword.
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b2-the-squires-oath/1792828743462.png
 ---
 
 # The Squire
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_1.page_1-1792829569414.mp3
 Long before the sun had risen over the hills of Ashford, Edwin was already awake.
 For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way.
 He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather.
@@ -16,6 +18,7 @@ Edwin had never forgotten those words.
 
 ---
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_1.page_2-1792829580959.mp3
 After breakfast, Sir Godfrey called him to the courtyard for sword practice.
 The old knight moved slowly these days, but his blade was still faster than most young men's.
 "You are attacking like an angry bull," Godfrey said, after knocking Edwin's sword out of his hand for the third time. "Strength is useless if you cannot control it."
@@ -27,6 +30,7 @@ Godfrey nodded, which, from him, was almost a compliment.
 
 ---
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_1.page_3-1792829591077.mp3
 In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail.
 Godfrey sat beside him, which was unusual, and for a while neither of them spoke.
 "Do you know how I got this?" the knight finally asked, touching the long scar that crossed his left cheek.
@@ -37,6 +41,7 @@ Godfrey smiled sadly.
 
 # The King's Letter
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_2.page_1-1792829602615.mp3
 Three days later, a messenger arrived at the gates, covered in mud and exhausted from riding through the night.
 He carried a letter sealed with the red wax of the king himself.
 Sir Godfrey read it twice before he spoke.
@@ -48,6 +53,7 @@ Edwin felt a mixture of excitement and fear. He had never been further than the 
 
 ---
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_2.page_2-1792829613623.mp3
 The road to Winchester was longer and harder than Edwin had imagined.
 For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby.
 It rained almost constantly. Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters.
@@ -59,6 +65,7 @@ Edwin did not understand what he meant, but he felt a cold shiver run down his s
 
 ---
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_2.page_3-1792829623533.mp3
 That evening, they found shelter at a small inn called the Crooked Crown.
 The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew.
 While Godfrey went to see to the horses, she sat down opposite Edwin and lowered her voice.
@@ -71,6 +78,7 @@ Edwin wanted to ask more questions, but at that moment Godfrey came back, and Ma
 
 # The Tournament
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_3.page_1-1792829633820.mp3
 Winchester was unlike anything Edwin had ever seen.
 Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat.
 Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons.
@@ -82,6 +90,7 @@ Godfrey simply smiled and bowed his head, but Edwin noticed that his hand had ti
 
 ---
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_3.page_2-1792829643639.mp3
 On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust.
 The crowd fell silent as the two horses began to gallop towards each other, the ground shaking beneath their hooves.
 On the first pass, both lances broke against the shields. On the second, Godfrey struck Hugh so hard that the younger knight almost fell from his saddle.
@@ -93,6 +102,7 @@ Edwin jumped over the wooden barrier and ran towards him, ignoring the guards wh
 
 ---
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_3.page_3-1792829654447.mp3
 Godfrey was alive, but his leg was badly broken and he could barely breathe.
 While the doctors carried him to his tent, Edwin went back to examine the horse. Something about the fall had seemed strange to him.
 He knew that saddle better than anyone. He had checked every buckle and every strap that morning, as he always did.
@@ -103,6 +113,7 @@ Edwin's hands were trembling. Someone had tried to kill his master, and he was a
 
 # Without Proof
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_4.page_1-1792829665968.mp3
 That evening, Edwin asked to speak to the king.
 Everyone told him it was impossible, that a squire had no right to address His Majesty directly. But Edwin refused to leave, and in the end, the king agreed to see him.
 Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap.
@@ -114,6 +125,7 @@ Several lords laughed with him. The king, however, studied the strap carefully.
 
 ---
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_4.page_2-1792829675515.mp3
 Two days later, as Godfrey and Edwin began the slow journey home in a hired cart, they met a group of terrified travellers coming from the south.
 "Don't go that way!" a woman shouted. "The bandits are heading for Little Fenwick. They say they will burn it tonight!"
 Edwin knew the name. Little Fenwick was a village of farmers and shepherds, less than an hour away, with no walls and no soldiers to protect it.
@@ -124,6 +136,7 @@ For a long moment, neither of them spoke. Then Godfrey looked him straight in th
 
 ---
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_4.page_3-1792829686441.mp3
 When Edwin arrived at Little Fenwick, the villagers were already packing their belongings, ready to flee into the forest.
 "Running will not save you," he told them, trying to sound more confident than he felt. "If you leave, they will burn everything you own. If we stay together, we have a chance."
 At first, nobody listened to him. He was only a boy with a sword that was too big for him.
@@ -133,6 +146,7 @@ As the sun went down, Edwin remembered Godfrey's lesson. Watch, wait and be pati
 
 # Fire in the Night
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_5.page_1-1792829697462.mp3
 The bandits came shortly after midnight, about fifteen men on horseback, carrying torches.
 They expected an easy victory. Instead, as they galloped down the main road, Edwin gave the signal, and the villagers set fire to the branches in the ditch.
 A wall of flames rose in front of the horses. The animals panicked, throwing several riders to the ground, while the others tried desperately to turn back.
@@ -143,6 +157,7 @@ Within minutes, the remaining bandits had fled into the darkness.
 
 ---
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_5.page_2-1792829708988.mp3
 When the fighting was over, the villagers dragged one of the prisoners into the light of the fire. He was a boy, younger than Edwin, with a bleeding arm and eyes full of fear.
 "Hang him!" someone shouted. "Hang him from the oak tree, as a warning to the others!"
 Several voices agreed. A rope was brought.
@@ -154,6 +169,7 @@ The boy stared at Edwin in disbelief. Then, to everyone's surprise, he began to 
 
 ---
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_5.page_3-1792829723202.mp3
 A week later, Edwin stood once again in front of the king, this time with Sir Godfrey sitting beside him on a wooden chair, and the young bandit kneeling at his side.
 The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor.
 When he had finished, there was complete silence.
@@ -164,6 +180,7 @@ As the guards led Hugh away, the king turned towards Edwin, and for the first ti
 
 # Sir Edwin
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_6.page_1-1792829734631.mp3
 According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept.
 Edwin knelt in front of the altar, wearing a simple white tunic, his sword lying on the cold stone in front of him.
 The candles flickered, and the hours passed slowly. His knees hurt, and twice he almost fell asleep.
@@ -174,6 +191,7 @@ Just before dawn, he heard the door open behind him. Sir Godfrey limped inside, 
 
 ---
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_6.page_2-1792829745032.mp3
 The ceremony took place in the great hall of the castle, in front of the king, the lords of the realm and, to Edwin's astonishment, his own parents, whom the king had invited from Ashford.
 Edwin knelt before the throne. The king raised his sword and touched him lightly on each shoulder.
 "Do you swear to protect the weak, to defend the truth, and to show mercy even to your enemies?"
@@ -185,6 +203,7 @@ He understood, at that moment, that her words had finally come true.
 
 ---
 
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-squires-oath/chapter_6.page_3-1792829754552.mp3
 Many years later, people across the kingdom still told the story of the night at Little Fenwick.
 Sir Edwin became one of the most respected knights in England, known not for the tournaments he won, but for the battles he chose to fight.
 He never forgot where he had come from. When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born.
