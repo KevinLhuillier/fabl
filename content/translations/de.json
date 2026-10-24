@@ -258,6 +258,12 @@
       "example": "How did you admit you had been watching?"
     },
     {
+      "word": "advice",
+      "pos": "NOUN",
+      "translation": "der Rat, der Ratschlag",
+      "example": "TEST 10: he followed the pencil's advice, relaxed his wrist and slowed the gesture down until it felt almost lazy."
+    },
+    {
       "word": "adviser",
       "pos": "NOUN",
       "translation": "der Berater",
@@ -441,6 +447,12 @@
       "pos": "PHRASE",
       "translation": "auf einmal, plötzlich",
       "example": "And then all at once."
+    },
+    {
+      "word": "all by itself",
+      "pos": "PHRASE",
+      "translation": "ganz von allein",
+      "example": "After forty minutes and a dozen failures, it rolled ten centimetres across his desk, all by itself, and dropped onto the carpet."
     },
     {
       "word": "all right",
@@ -1018,6 +1030,12 @@
       "example": "Any Well will do, at a pinch."
     },
     {
+      "word": "at a time",
+      "pos": "PHRASE",
+      "translation": "auf einmal („one thing at a time“: eins nach dem anderen)",
+      "example": "He had spent enough nights reading game wikis and patch notes to know how you work out the rules of a system nobody has explained to you: you change one thing at a time, you write everything down, and you never trust a result you can't repeat."
+    },
+    {
       "word": "at all",
       "pos": "PHRASE",
       "translation": "überhaupt („not at all“: überhaupt nicht)"
@@ -1337,6 +1355,12 @@
       "pos": "NOUN",
       "translation": "der Ball, die Kugel („curled into a ball“: zusammengerollt)",
       "example": "Around him the others slept — the Tanner brothers still snoring in harmony, Jory sprawled on his back with one arm flung over his face, Tamsin curled into a tight ball under her mother's quilt."
+    },
+    {
+      "word": "banana",
+      "pos": "NOUN",
+      "translation": "die Banane",
+      "example": "At breakfast he ate four slices of bread and butter, two bowls of cereal and a banana, while his mother, still in her dressing gown, watched him in astonishment."
     },
     {
       "word": "bandage",
@@ -1816,6 +1840,12 @@
       "pos": "NOUN",
       "translation": "der Geburtstag",
       "example": "He caught Rowan watching and made a great show of blowing the spark out like a birthday candle."
+    },
+    {
+      "word": "biscuit",
+      "pos": "NOUN",
+      "translation": "der Keks",
+      "example": "Then he went to the kitchen, ate a yoghurt and half a packet of biscuits, and came back to his desk."
     },
     {
       "word": "bit",
@@ -2934,6 +2964,12 @@
       "example": "Several farms have been burned, and the king's soldiers have failed to catch the men responsible."
     },
     {
+      "word": "catch up with",
+      "pos": "PHRASE",
+      "translation": "einholen",
+      "example": "Or had the lamp flickered by coincidence, and the exhaustion been nothing more than a bad day catching up with him?"
+    },
+    {
       "word": "causeway",
       "pos": "NOUN",
       "translation": "der Damm, der Dammweg",
@@ -2958,6 +2994,12 @@
       "example": "At noon they sat on the stump to eat — black bread, a wedge of hard cheese, two wrinkled apples from the cellar."
     },
     {
+      "word": "centimetre",
+      "pos": "NOUN",
+      "translation": "der Zentimeter",
+      "example": "It was tiny, no bigger than a firefly, a pale gold point floating a centimetre above the centre of his palm."
+    },
+    {
       "word": "centre",
       "pos": "NOUN",
       "translation": "die Mitte",
@@ -2968,6 +3010,12 @@
       "pos": "NOUN",
       "translation": "das Jahrhundert",
       "example": "\"Between us, and the records we keep at Thornhall, we can account for every Marking in the Hollow Wilds for the past three centuries.\""
+    },
+    {
+      "word": "cereal",
+      "pos": "NOUN",
+      "translation": "die Cornflakes, das Müsli",
+      "example": "At breakfast he ate four slices of bread and butter, two bowls of cereal and a banana, while his mother, still in her dressing gown, watched him in astonishment."
     },
     {
       "word": "ceremony",
@@ -3612,6 +3660,12 @@
       "example": "Last week, my brother saw one of them pay for his drinks with a silver coin."
     },
     {
+      "word": "coincidence",
+      "pos": "NOUN",
+      "translation": "der Zufall („by coincidence“: zufällig)",
+      "example": "Or had the lamp flickered by coincidence, and the exhaustion been nothing more than a bad day catching up with him?"
+    },
+    {
       "word": "cold",
       "pos": "ADJ",
       "translation": "kalt",
@@ -3702,6 +3756,12 @@
       "example": "Nineteen children stood in a ragged line before the Stone, scrubbed and combed and dressed in clothes that had clearly been borrowed for the occasion."
     },
     {
+      "word": "combo",
+      "pos": "NOUN",
+      "translation": "die Kombo (Videospiel)",
+      "example": "He filmed his hand with his phone and compared it with the diagram, frame by frame, the way he used to study combos in fighting games."
+    },
+    {
       "word": "come",
       "pos": "VERB",
       "translation": "kommen",
@@ -3774,6 +3834,12 @@
       "example": "No one had commanded Wood in over three hundred years."
     },
     {
+      "word": "comment",
+      "pos": "NOUN",
+      "translation": "der Kommentar",
+      "example": "In the margin, the pencil had added a single comment: Start small."
+    },
+    {
       "word": "common",
       "pos": "ADJ",
       "translation": "gemeinsam („common room“: Gemeinschaftsraum)",
@@ -3798,6 +3864,12 @@
       "example": "The médiathèque occupied the old offices of the mining company, a heavy brick building with tall windows and an iron staircase that rang under your feet."
     },
     {
+      "word": "compare",
+      "pos": "VERB",
+      "translation": "vergleichen",
+      "example": "He filmed his hand with his phone and compared it with the diagram, frame by frame, the way he used to study combos in fighting games."
+    },
+    {
       "word": "complain",
       "pos": "VERB",
       "translation": "sich beschweren",
@@ -3814,6 +3886,12 @@
       "pos": "ADV",
       "translation": "völlig, ganz",
       "example": "On the fourth day, they passed a farm that had been completely destroyed."
+    },
+    {
+      "word": "complicated",
+      "pos": "ADJ",
+      "translation": "kompliziert",
+      "example": "It was more complicated than the first: two hands instead of one, a pushing movement, five words instead of three."
     },
     {
       "word": "compliment",
@@ -3838,6 +3916,12 @@
       "pos": "ADJ",
       "translation": "Pflicht, obligatorisch",
       "example": "Attendance is compulsory."
+    },
+    {
+      "word": "concentrate",
+      "pos": "VERB",
+      "translation": "sich konzentrieren",
+      "example": "In class, he couldn't concentrate."
     },
     {
       "word": "concentration",
@@ -4300,6 +4384,12 @@
       "pos": "NOUN",
       "translation": "das Geschöpf, das Wesen",
       "example": "What stood beside the shrine, nose to tail, were four long, high-sided farm wagons, each with a canvas hood patched in three different colours and hitched to a pair of shaggy brown oxen who were chewing with the slow, profound indifference of creatures that had seen everything and been impressed by none of it."
+    },
+    {
+      "word": "credit",
+      "pos": "NOUN",
+      "translation": "der Kredit („it never gives credit“: es gibt nie Kredit)",
+      "example": "The body pays for everything the mind asks of it, and it never gives credit."
     },
     {
       "word": "creep",
@@ -6100,6 +6190,12 @@
       "example": "Excuse me! — Entschuldigung!"
     },
     {
+      "word": "exercise",
+      "pos": "NOUN",
+      "translation": "die Übung",
+      "example": "He looked around the room and chose the heaviest thing on his desk: his maths textbook, more than a kilo of paper and exercises."
+    },
+    {
       "word": "exhaust",
       "pos": "VERB",
       "translation": "erschöpfen („exhausted“: erschöpft)",
@@ -6128,6 +6224,12 @@
       "pos": "ADJ",
       "translation": "erwartungsvoll",
       "example": "The noise died away to a murmur, and then to an expectant, unpleasant hush."
+    },
+    {
+      "word": "experiment",
+      "pos": "NOUN",
+      "translation": "das Experiment, der Versuch",
+      "example": "That evening, he started the experiments properly."
     },
     {
       "word": "explain",
@@ -6224,6 +6326,12 @@
       "pos": "VERB",
       "translation": "scheitern, versagen",
       "example": "Several farms have been burned, and the king's soldiers have failed to catch the men responsible."
+    },
+    {
+      "word": "failure",
+      "pos": "NOUN",
+      "translation": "der Fehlschlag, der Fehlversuch",
+      "example": "After forty minutes and a dozen failures, it rolled ten centimetres across his desk, all by itself, and dropped onto the carpet."
     },
     {
       "word": "faint",
@@ -6370,6 +6478,12 @@
       "example": "His father, a poor farmer, had sold two cows to pay for the journey."
     },
     {
+      "word": "fatigue",
+      "pos": "NOUN",
+      "translation": "die Müdigkeit, die Erschöpfung",
+      "example": "Fatigue: 7/10."
+    },
+    {
       "word": "favourite",
       "pos": "ADJ",
       "translation": "Lieblings-",
@@ -6472,6 +6586,12 @@
       "example": "Two benches ahead, Tamsin had laid her palm flat beside her pebble and was frowning at it so ferociously that Rowan half expected it to crack."
     },
     {
+      "word": "Ferrand",
+      "pos": "PROPN",
+      "translation": "Ferrand (Nachname)",
+      "example": "During philosophy, while Madame Ferrand talked about freedom and responsibility, he kept rubbing his thumb against his middle finger under the desk, tracing tiny half-circles in the air."
+    },
+    {
       "word": "fetch",
       "pos": "VERB",
       "translation": "holen",
@@ -6556,6 +6676,12 @@
       "example": "When the fighting was over, the villagers dragged one of the prisoners into the light of the fire."
     },
     {
+      "word": "fighting game",
+      "pos": "PHRASE",
+      "translation": "das Kampfspiel (Videospiel)",
+      "example": "He filmed his hand with his phone and compared it with the diagram, frame by frame, the way he used to study combos in fighting games."
+    },
+    {
       "word": "figure",
       "pos": "NOUN",
       "translation": "die Figur, die Gestalt; die Zahl",
@@ -6578,6 +6704,12 @@
       "pos": "PHRASE",
       "translation": "sich füllen",
       "example": "Around them, the square was filling up."
+    },
+    {
+      "word": "film",
+      "pos": "VERB",
+      "translation": "filmen",
+      "example": "He filmed his hand with his phone and compared it with the diagram, frame by frame, the way he used to study combos in fighting games."
     },
     {
       "word": "final",
@@ -6934,6 +7066,12 @@
       "example": "She flicked the droplet into the fire without looking, as casually as someone brushing off a fly."
     },
     {
+      "word": "focus",
+      "pos": "NOUN",
+      "translation": "die Konzentration",
+      "example": "Not just the right movement and the right sound, but total focus, the kind he only ever reached at two in the morning in the final round of a tournament, when the rest of the world simply disappeared."
+    },
+    {
       "word": "fog",
       "pos": "NOUN",
       "translation": "der Nebel",
@@ -7016,6 +7154,12 @@
       "pos": "NOUN",
       "translation": "der Fuß (Plural: feet)",
       "example": "His shoulders move, his eyes change, his feet prepare."
+    },
+    {
+      "word": "footballer",
+      "pos": "NOUN",
+      "translation": "der Fußballspieler",
+      "example": "He was so delighted that he punched the air like a footballer after a goal."
     },
     {
       "word": "footprint",
@@ -7228,6 +7372,12 @@
       "example": "There were five of them, long and high-roofed, built of thousands of small panes of greenish glass set in frames of dark, twisting wood — wood that, Rowan realised as he came closer, had not been cut and joined at all, but had grown into those shapes, bending and branching and interlacing like the walls of Thornhall itself."
     },
     {
+      "word": "frame by frame",
+      "pos": "PHRASE",
+      "translation": "Bild für Bild",
+      "example": "He filmed his hand with his phone and compared it with the diagram, frame by frame, the way he used to study combos in fighting games."
+    },
+    {
       "word": "frank",
       "pos": "ADJ",
       "translation": "offen, unverhohlen",
@@ -7264,6 +7414,12 @@
       "example": "\"And you look free,\" I answered."
     },
     {
+      "word": "freedom",
+      "pos": "NOUN",
+      "translation": "die Freiheit",
+      "example": "During philosophy, while Madame Ferrand talked about freedom and responsibility, he kept rubbing his thumb against his middle finger under the desk, tracing tiny half-circles in the air."
+    },
+    {
       "word": "freeze",
       "pos": "VERB",
       "translation": "frieren, erstarren („frozen“: erstarrt)",
@@ -7286,6 +7442,12 @@
       "pos": "ADV",
       "translation": "frisch",
       "example": "On the other side, the stone was raw and pale and freshly broken."
+    },
+    {
+      "word": "Friday",
+      "pos": "PROPN",
+      "translation": "Freitag",
+      "example": "On Friday night, he turned the page and found the second gesture."
     },
     {
       "word": "friend",
@@ -7484,6 +7646,12 @@
       "pos": "NOUN",
       "translation": "die Partie, das Spiel",
       "example": "Rowan was playing a half-hearted game of draughts with Tamsin, and losing, when the door opened and Master Grey came in with the storm at his back."
+    },
+    {
+      "word": "gamer",
+      "pos": "NOUN",
+      "translation": "der Gamer, die Gamerin",
+      "example": "Noé practised every evening as soon as he had finished his homework, and the results formed a pattern that any gamer would have recognised."
     },
     {
       "word": "gangplank",
@@ -7935,6 +8103,12 @@
       "example": "\"Mistress Vell goes up to the Warden's tower every Thursday after the ninth bell."
     },
     {
+      "word": "goal",
+      "pos": "NOUN",
+      "translation": "das Tor",
+      "example": "He was so delighted that he punched the air like a footballer after a goal."
+    },
+    {
       "word": "Godfrey",
       "pos": "PROPN",
       "translation": "Godfrey (Vorname)",
@@ -8043,6 +8217,12 @@
       "example": "That's what my grandmother says."
     },
     {
+      "word": "graph",
+      "pos": "NOUN",
+      "translation": "das Diagramm, die Kurve",
+      "example": "On the last page of the week, he drew a graph, and the line went steadily up."
+    },
+    {
       "word": "grass",
       "pos": "NOUN",
       "translation": "das Gras",
@@ -8133,6 +8313,12 @@
       "example": "Bram was already up when Rowan came down the ladder, stirring a pot of porridge with the grim concentration of a man defusing something dangerous."
     },
     {
+      "word": "grimoire",
+      "pos": "NOUN",
+      "translation": "das Zauberbuch, der Grimoire",
+      "example": "Later, unable to get back to sleep, he switched the light on and opened the grimoire at the end of the first chapter."
+    },
+    {
       "word": "grin",
       "pos": "NOUN",
       "translation": "das breite Grinsen",
@@ -8209,6 +8395,18 @@
       "pos": "NOUN",
       "translation": "das Knurren",
       "example": "For a long moment the two old men simply looked at one another — the one huge and broad and grizzled, the other small and bent and wrinkled as a walnut — like two old dogs meeting in a lane, each deciding whether the other was worth the trouble of a growl."
+    },
+    {
+      "word": "growth",
+      "pos": "NOUN",
+      "translation": "das Wachstum",
+      "example": "\"Are you having a growth spurt or something?\""
+    },
+    {
+      "word": "growth spurt",
+      "pos": "PHRASE",
+      "translation": "der Wachstumsschub",
+      "example": "\"Are you having a growth spurt or something?\""
     },
     {
       "word": "gruffly",
@@ -9014,6 +9212,12 @@
       "example": "This is not a homecoming."
     },
     {
+      "word": "homework",
+      "pos": "NOUN",
+      "translation": "die Hausaufgaben",
+      "example": "Noé practised every evening as soon as he had finished his homework, and the results formed a pattern that any gamer would have recognised."
+    },
+    {
       "word": "honest",
       "pos": "ADJ",
       "translation": "ehrlich",
@@ -9258,6 +9462,12 @@
       "pos": "NUM",
       "translation": "hundert",
       "example": "No one had commanded Wood in over three hundred years."
+    },
+    {
+      "word": "hundredth",
+      "pos": "ADJ",
+      "translation": "hundertster",
+      "example": "It was while he was examining the diagram for the hundredth time that he noticed the pencil marks."
     },
     {
       "word": "hunger",
@@ -9665,6 +9875,12 @@
       "example": "Then, because Tamsin insisted, they woke Jory, creeping down the cold stone stairs to the Cistern and rapping on his shutter until his tousled copper head appeared at the window."
     },
     {
+      "word": "instantly",
+      "pos": "ADV",
+      "translation": "sofort, augenblicklich",
+      "example": "But just as he was starting to get excited, he thought of Maxence's shoe pressing the sketchbook into the puddle, and the warmth vanished instantly."
+    },
+    {
       "word": "instead",
       "pos": "ADV",
       "translation": "stattdessen",
@@ -9982,6 +10198,12 @@
       "example": "Someone had tried to kill his master, and he was almost sure he knew who."
     },
     {
+      "word": "kilo",
+      "pos": "NOUN",
+      "translation": "das Kilo",
+      "example": "He looked around the room and chose the heaviest thing on his desk: his maths textbook, more than a kilo of paper and exercises."
+    },
+    {
       "word": "kind",
       "pos": "ADJ",
       "translation": "nett, freundlich",
@@ -10256,6 +10478,12 @@
       "pos": "ADV",
       "translation": "zuletzt",
       "example": "\"Your mother,\" he said at last, \"was very good at what she did.\""
+    },
+    {
+      "word": "last",
+      "pos": "VERB",
+      "translation": "dauern",
+      "example": "The light lasted longer each time: six seconds, then ten, then twenty."
     },
     {
       "word": "latch",
@@ -11073,6 +11301,12 @@
       "example": "And the night of the wagons, when that man's rod went mad.\""
     },
     {
+      "word": "Madame",
+      "pos": "PROPN",
+      "translation": "Frau (im Original französisch: „madame“)",
+      "example": "During philosophy, while Madame Ferrand talked about freedom and responsibility, he kept rubbing his thumb against his middle finger under the desk, tracing tiny half-circles in the air."
+    },
+    {
       "word": "magic",
       "pos": "NOUN",
       "translation": "die Magie",
@@ -11178,6 +11412,12 @@
       "pos": "NOUN",
       "translation": "die Landkarte",
       "example": "It was a round room, crowded with books and maps and strange instruments of brass and glass, and its great window looked out over the frozen lake to the Elderwood."
+    },
+    {
+      "word": "marathon",
+      "pos": "NOUN",
+      "translation": "der Marathon",
+      "example": "Noé slept for eleven hours that night and still woke up feeling as if he had run a marathon in his sleep."
     },
     {
       "word": "march",
@@ -11649,6 +11889,12 @@
     },
     {
       "word": "mistake",
+      "pos": "NOUN",
+      "translation": "der Fehler",
+      "example": "That was when he made his mistake."
+    },
+    {
+      "word": "mistake",
       "pos": "VERB",
       "translation": "verwechseln („mistake A for B“: A für B halten)",
       "example": "\"Do not mistake the two.\""
@@ -11918,6 +12164,12 @@
       "example": "First Multiple they'd seen on this hill in a generation, and they made no end of fuss of her."
     },
     {
+      "word": "mumble",
+      "pos": "VERB",
+      "translation": "murmeln, nuscheln",
+      "example": "\"Something like that,\" he mumbled."
+    },
+    {
       "word": "murmur",
       "pos": "NOUN",
       "translation": "das Murmeln",
@@ -11934,6 +12186,12 @@
       "pos": "ADJ",
       "translation": "murmelnd",
       "example": "Then he heard it: voices, low and murmuring, somewhere in the trees ahead."
+    },
+    {
+      "word": "muscle",
+      "pos": "NOUN",
+      "translation": "der Muskel",
+      "example": "Every muscle in his body ached, as if he had spent the evening carrying sacks of coal up from the bottom of a mine."
     },
     {
       "word": "music",
@@ -12482,6 +12740,12 @@
       "example": "Maren Vell reached into her satchel again and took out a small object wrapped in a handkerchief."
     },
     {
+      "word": "obsess",
+      "pos": "VERB",
+      "translation": "besessen sein („obsessed with“: besessen von)",
+      "example": "Small details, but the book was obsessed with small details."
+    },
+    {
       "word": "obvious",
       "pos": "ADJ",
       "translation": "offensichtlich, naheliegend",
@@ -12632,6 +12896,12 @@
       "example": "It had been tucked between the pages of the roll, a little further on, folded so many times that it was barely thicker than a leaf."
     },
     {
+      "word": "on an empty stomach",
+      "pos": "PHRASE",
+      "translation": "auf nüchternen Magen",
+      "example": "And at the bottom of the page, underlined twice: Never try this on an empty stomach."
+    },
+    {
       "word": "on her way",
       "pos": "PHRASE",
       "translation": "unterwegs",
@@ -12773,6 +13043,12 @@
       "pos": "PHRASE",
       "translation": "ungefähr („a dozen or so“: etwa ein Dutzend)",
       "example": "There were Standing Stones all across the Hollow Wilds — a dozen or so in the southern forest alone, and hundreds more scattered throughout the land: squat grey pillars on the passes of the northern mountains, needles of black basalt rising from the shallows off the western coast, slender white spires on the windswept eastern heights."
+    },
+    {
+      "word": "or something",
+      "pos": "PHRASE",
+      "translation": "oder so",
+      "example": "\"Are you having a growth spurt or something?\""
     },
     {
       "word": "orange",
@@ -13039,6 +13315,12 @@
       "example": "\"Prepare the horses and pack the armour,\" Godfrey ordered."
     },
     {
+      "word": "packet",
+      "pos": "NOUN",
+      "translation": "die Packung, die Tüte",
+      "example": "Then he went to the kitchen, ate a yoghurt and half a packet of biscuits, and came back to his desk."
+    },
+    {
       "word": "paddock",
       "pos": "NOUN",
       "translation": "die Koppel",
@@ -13135,6 +13417,12 @@
       "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
     },
     {
+      "word": "paragraph",
+      "pos": "NOUN",
+      "translation": "der Absatz",
+      "example": "Then he went back to the book, to the paragraph he had skipped because it seemed too vague to be useful."
+    },
+    {
       "word": "parcel",
       "pos": "NOUN",
       "translation": "das Paket, das Päckchen",
@@ -13223,6 +13511,12 @@
       "pos": "VERB",
       "translation": "flicken",
       "example": "What stood beside the shrine, nose to tail, were four long, high-sided farm wagons, each with a canvas hood patched in three different colours and hitched to a pair of shaggy brown oxen who were chewing with the slow, profound indifference of creatures that had seen everything and been impressed by none of it."
+    },
+    {
+      "word": "patch notes",
+      "pos": "PHRASE",
+      "translation": "die Patchnotes (Videospiel)",
+      "example": "He had spent enough nights reading game wikis and patch notes to know how you work out the rules of a system nobody has explained to you: you change one thing at a time, you write everything down, and you never trust a result you can't repeat."
     },
     {
       "word": "path",
@@ -13333,6 +13627,12 @@
       "example": "It had been underlined so hard that the pen had torn the page, and as Bram tilted the letter towards the embers, it caught the light for a moment."
     },
     {
+      "word": "pencil",
+      "pos": "NOUN",
+      "translation": "der Bleistift",
+      "example": "It was while he was examining the diagram for the hundredth time that he noticed the pencil marks."
+    },
+    {
       "word": "Penhallow",
       "pos": "PROPN",
       "translation": "Penhallow (Nachname)",
@@ -13429,10 +13729,22 @@
       "example": "The new students were sorted in the courtyard, under a sky the colour of pewter, by a steward with a ledger."
     },
     {
+      "word": "philosophy",
+      "pos": "NOUN",
+      "translation": "die Philosophie",
+      "example": "During philosophy, while Madame Ferrand talked about freedom and responsibility, he kept rubbing his thumb against his middle finger under the desk, tracing tiny half-circles in the air."
+    },
+    {
       "word": "phone",
       "pos": "NOUN",
       "translation": "das Handy, das Telefon",
       "example": "\"LOST CAT,\" he read aloud from his phone, where he had taken a photo of the poster."
+    },
+    {
+      "word": "phonetically",
+      "pos": "ADV",
+      "translation": "phonetisch",
+      "example": "Beside the three strange words, the pencil had rewritten each one phonetically, with the stressed syllables underlined."
     },
     {
       "word": "photo",
@@ -14227,6 +14539,12 @@
       "example": "She punched his arm, not gently."
     },
     {
+      "word": "punch the air",
+      "pos": "PHRASE",
+      "translation": "die Faust in die Luft recken (vor Freude)",
+      "example": "He was so delighted that he punched the air like a footballer after a goal."
+    },
+    {
       "word": "punish",
       "pos": "VERB",
       "translation": "bestrafen",
@@ -14766,6 +15084,12 @@
       "example": "He could feel the Elderwood all around him, enormous and slow and rejoicing, the way you can feel the sun on your skin with your eyes closed."
     },
     {
+      "word": "relax",
+      "pos": "VERB",
+      "translation": "entspannen, lockern",
+      "example": "TEST 10: he followed the pencil's advice, relaxed his wrist and slowed the gesture down until it felt almost lazy."
+    },
+    {
       "word": "release",
       "pos": "VERB",
       "translation": "freilassen, loslassen",
@@ -15004,6 +15328,12 @@
       "pos": "ADJ",
       "translation": "ehrfürchtig",
       "example": "\"It's solid,\" he said after a moment, and there was something almost reverent in his voice."
+    },
+    {
+      "word": "rewrite",
+      "pos": "VERB",
+      "translation": "umschreiben, neu schreiben",
+      "example": "Beside the three strange words, the pencil had rewritten each one phonetically, with the stressed syllables underlined."
     },
     {
       "word": "Reyne",
@@ -16764,6 +17094,12 @@
       "example": "The voice came out of the darkness behind the ferns, dry and cracked and very old, and all four of them nearly jumped out of their skins."
     },
     {
+      "word": "skip",
+      "pos": "VERB",
+      "translation": "überspringen",
+      "example": "Then he went back to the book, to the paragraph he had skipped because it seemed too vague to be useful."
+    },
+    {
       "word": "skitter",
       "pos": "VERB",
       "translation": "huschen, schlittern",
@@ -16978,6 +17314,12 @@
       "pos": "ADV",
       "translation": "langsam („slow-spoken“: bedächtig sprechend)",
       "example": "He was a fourth-year, a big, slow-spoken boy from a mining town in the northern mountains, with hands like shovels and a laugh that could rattle the shutters."
+    },
+    {
+      "word": "slow",
+      "pos": "VERB",
+      "translation": "verlangsamen",
+      "example": "TEST 10: he followed the pencil's advice, relaxed his wrist and slowed the gesture down until it felt almost lazy."
     },
     {
       "word": "slowly",
@@ -17272,6 +17614,12 @@
       "pos": "PRON",
       "translation": "etwas",
       "example": "But there is something else."
+    },
+    {
+      "word": "something like that",
+      "pos": "PHRASE",
+      "translation": "so was in der Art",
+      "example": "\"Something like that,\" he mumbled."
     },
     {
       "word": "sometime",
@@ -17580,6 +17928,12 @@
       "example": "Sir Godfrey fastened a pair of golden spurs to Edwin's boots, a gift that had once belonged to Godfrey's own master."
     },
     {
+      "word": "spurt",
+      "pos": "NOUN",
+      "translation": "der Schub",
+      "example": "\"Are you having a growth spurt or something?\""
+    },
+    {
       "word": "sputter",
       "pos": "VERB",
       "translation": "zischen, knistern, stottern",
@@ -17680,6 +18034,18 @@
       "pos": "NOUN",
       "translation": "der Stand („pie stall“: der Pastetenstand)",
       "example": "As though Rowan had wandered off on market day and turned up again by the pie stall."
+    },
+    {
+      "word": "stamina",
+      "pos": "NOUN",
+      "translation": "die Ausdauer",
+      "example": "It was exactly like a stamina bar."
+    },
+    {
+      "word": "stamina bar",
+      "pos": "PHRASE",
+      "translation": "die Ausdauerleiste (Videospiel)",
+      "example": "It was exactly like a stamina bar."
     },
     {
       "word": "stamp",
@@ -18138,6 +18504,12 @@
       "example": "\"Strength is useless if you cannot control it.\""
     },
     {
+      "word": "stress",
+      "pos": "VERB",
+      "translation": "betonen",
+      "example": "Beside the three strange words, the pencil had rewritten each one phonetically, with the stressed syllables underlined."
+    },
+    {
       "word": "stretch",
       "pos": "VERB",
       "translation": "spannen, dehnen",
@@ -18274,6 +18646,12 @@
       "pos": "NOUN",
       "translation": "das Thema",
       "example": "They said it the way people mention a ghost — quickly, and then they changed the subject."
+    },
+    {
+      "word": "success",
+      "pos": "NOUN",
+      "translation": "der Erfolg",
+      "example": "TEST 11 — SUCCESS."
     },
     {
       "word": "such",
@@ -18496,6 +18874,18 @@
       "pos": "VERB",
       "translation": "schwingen („swing shut“: zufallen)",
       "example": "And then she was gone, out into the blue dusk, and the door swung shut behind her on its old leather hinges."
+    },
+    {
+      "word": "switch",
+      "pos": "VERB",
+      "translation": "schalten",
+      "example": "Later, unable to get back to sleep, he switched the light on and opened the grimoire at the end of the first chapter."
+    },
+    {
+      "word": "switch on",
+      "pos": "PHRASE",
+      "translation": "einschalten",
+      "example": "Later, unable to get back to sleep, he switched the light on and opened the grimoire at the end of the first chapter."
     },
     {
       "word": "sword",
@@ -18821,6 +19211,12 @@
       "example": "Whatever happens, Bram — do not let them test him."
     },
     {
+      "word": "textbook",
+      "pos": "NOUN",
+      "translation": "das Lehrbuch, das Schulbuch",
+      "example": "He looked around the room and chose the heaviest thing on his desk: his maths textbook, more than a kilo of paper and exercises."
+    },
+    {
       "word": "than",
       "pos": "ADP",
       "translation": "als (Vergleich)",
@@ -18837,6 +19233,12 @@
       "pos": "PHRASE",
       "translation": "danke",
       "example": "\"Thank you, Mr Green!\""
+    },
+    {
+      "word": "thanks",
+      "pos": "INTJ",
+      "translation": "danke",
+      "example": "\"Thanks.\""
     },
     {
       "word": "that",
@@ -19343,6 +19745,12 @@
       "example": "Edwin stepped aside, again and again, until the bandit grew tired and careless."
     },
     {
+      "word": "tiredness",
+      "pos": "NOUN",
+      "translation": "die Müdigkeit",
+      "example": "Then it went out, and the tiredness hit him like a wave crashing against a wall."
+    },
+    {
       "word": "title",
       "pos": "NOUN",
       "translation": "der Titel",
@@ -19473,6 +19881,12 @@
       "pos": "VERB",
       "translation": "werfen, zuwerfen",
       "example": "He tossed something through the closing gap."
+    },
+    {
+      "word": "total",
+      "pos": "ADJ",
+      "translation": "völlig, total",
+      "example": "Not just the right movement and the right sound, but total focus, the kind he only ever reached at two in the morning in the final round of a tournament, when the rest of the world simply disappeared."
     },
     {
       "word": "touch",
@@ -19815,6 +20229,18 @@
       "pos": "NOUN",
       "translation": "die Rübe",
       "example": "He was Earth, but only just — \"enough to tell a stone from a turnip,\" he said, \"and not a great deal more.\""
+    },
+    {
+      "word": "tutorial",
+      "pos": "ADJ",
+      "translation": "Tutorial- (Videospiel)",
+      "example": "Pencils were tutorial level."
+    },
+    {
+      "word": "tutorial level",
+      "pos": "PHRASE",
+      "translation": "das Tutorial-Level (Übungslevel eines Spiels)",
+      "example": "Pencils were tutorial level."
     },
     {
       "word": "twelve",
@@ -20278,6 +20704,12 @@
       "translation": "früher (Gewohnheit); gewöhnt sein an"
     },
     {
+      "word": "useful",
+      "pos": "ADJ",
+      "translation": "nützlich",
+      "example": "Then he went back to the book, to the paragraph he had skipped because it seemed too vague to be useful."
+    },
+    {
       "word": "useless",
       "pos": "ADJ",
       "translation": "nutzlos",
@@ -20300,6 +20732,12 @@
       "pos": "ADV",
       "translation": "völlig, total",
       "example": "But his hands, which had been gripping a plank to lift it from the cart, had gone utterly still."
+    },
+    {
+      "word": "vague",
+      "pos": "ADJ",
+      "translation": "vage, unklar",
+      "example": "Then he went back to the book, to the paragraph he had skipped because it seemed too vague to be useful."
     },
     {
       "word": "valley",
@@ -21154,6 +21592,12 @@
       "example": "\"That's Jeanne, my wife,\" Albert told us, even though we were cats and couldn't answer."
     },
     {
+      "word": "wiki",
+      "pos": "NOUN",
+      "translation": "das Wiki",
+      "example": "He had spent enough nights reading game wikis and patch notes to know how you work out the rules of a system nobody has explained to you: you change one thing at a time, you write everything down, and you never trust a result you can't repeat."
+    },
+    {
       "word": "wild",
       "pos": "ADJ",
       "translation": "wild",
@@ -21638,6 +22082,12 @@
       "pos": "ADV",
       "translation": "noch („not yet“: noch nicht)",
       "example": "Not yet."
+    },
+    {
+      "word": "yoghurt",
+      "pos": "NOUN",
+      "translation": "der Joghurt",
+      "example": "Then he went to the kitchen, ate a yoghurt and half a packet of biscuits, and came back to his desk."
     },
     {
       "word": "you",

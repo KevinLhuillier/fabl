@@ -43,6 +43,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "astonishment",
+      "pos": "PROPN",
+      "word": "astonishment",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "awe",
       "pos": "PROPN",
       "word": "awe",
@@ -291,6 +297,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "cramped",
+      "pos": "VERB",
+      "word": "cramped",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "crooked",
       "pos": "VERB",
       "word": "crooked",
@@ -448,6 +460,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "excited",
+      "pos": "VERB",
+      "word": "excited",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "facing",
       "pos": "NOUN",
       "word": "face",
@@ -544,6 +562,18 @@
       "next": "and",
       "word": "flat",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "flicker",
+      "pos": "ADJ",
+      "word": "flicker",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "flickered",
+      "pos": "ADJ",
+      "word": "flicker",
+      "lemmaPos": "VERB"
     },
     {
       "text": "flowering",
@@ -1122,6 +1152,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "neater",
+      "pos": "NOUN",
+      "word": "neat",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "nightclothes",
       "pos": "NOUN",
       "word": "nightclothes",
@@ -1531,6 +1567,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "sloping",
+      "pos": "VERB",
+      "word": "sloping",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "SLOW",
       "pos": "PROPN",
       "word": "slow",
@@ -1634,6 +1676,13 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "stranger",
+      "pos": "NOUN",
+      "next": "happened",
+      "word": "strange",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "streaming",
       "pos": "NOUN",
       "word": "stream",
@@ -1650,6 +1699,12 @@
       "pos": "NOUN",
       "word": "stumble",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "SUCCESS",
+      "pos": "PROPN",
+      "word": "success",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "sudden",
@@ -1722,6 +1777,12 @@
       "pos": "PROPN",
       "word": "test",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Thanks",
+      "pos": "NOUN",
+      "word": "thanks",
+      "lemmaPos": "INTJ"
     },
     {
       "text": "thorned",

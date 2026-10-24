@@ -81,3 +81,77 @@ The lamp flickered.
 Only once, very briefly. It could have been the old wiring in the building; that happened sometimes. But at that exact moment, a wave of exhaustion hit Noé so hard that he had to grab the edge of the desk. His heart was racing. His legs felt heavy, as if he had just climbed all three hundred steps of the slag heap behind the school.
 He sat very still for a long time, breathing slowly, looking at his hand.
 Then he took a notebook out of his bag, opened it at a clean page, and wrote at the top, in capital letters: TEST 1.
+
+# Trial and Error
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_2.page_1-1792858974635.mp3
+Noé slept for eleven hours that night and still woke up feeling as if he had run a marathon in his sleep. At breakfast he ate four slices of bread and butter, two bowls of cereal and a banana, while his mother, still in her dressing gown, watched him in astonishment.
+"Are you having a growth spurt or something?" she asked.
+"Something like that," he mumbled.
+In class, he couldn't concentrate. During philosophy, while Madame Ferrand talked about freedom and responsibility, he kept rubbing his thumb against his middle finger under the desk, tracing tiny half-circles in the air. Had it really happened? Or had the lamp flickered by coincidence, and the exhaustion been nothing more than a bad day catching up with him?
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_2.page_2-1792858982065.mp3
+"You look terrible," Inès whispered.
+"Thanks."
+"I mean it. Did you sleep?"
+"Too much, apparently."
+He didn't tell her anything. He wasn't sure there was anything to tell.
+That evening, he started the experiments properly. He had spent enough nights reading game wikis and patch notes to know how you work out the rules of a system nobody has explained to you: you change one thing at a time, you write everything down, and you never trust a result you can't repeat.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_2.page_3-1792858994042.mp3
+TEST 2: same gesture, same words, same lamp. Nothing.
+TEST 3 to TEST 9: nothing. He tried standing up, sitting down, using his left hand, speaking louder, speaking more softly. He filmed his hand with his phone and compared it with the diagram, frame by frame, the way he used to study combos in fighting games. His half-circle was too fast. His palm wasn't quite flat. Small details, but the book was obsessed with small details.
+It was while he was examining the diagram for the hundredth time that he noticed the pencil marks. They were tiny and very faint, squeezed into the margins in a cramped, sloping handwriting that was nothing like the elegant ink of the book itself. Someone had read this book before him, and had taken notes. In French. And, it seemed, with a sense of humour.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_2.page_4-1792859005727.mp3
+Beside the three strange words, the pencil had rewritten each one phonetically, with the stressed syllables underlined. Next to the drawing of the hand: The wrist matters more than the fingers. And at the bottom of the page, underlined twice: Never try this on an empty stomach. Trust me.
+Noé laughed out loud, alone in his room. Then he went to the kitchen, ate a yoghurt and half a packet of biscuits, and came back to his desk.
+TEST 10: he followed the pencil's advice, relaxed his wrist and slowed the gesture down until it felt almost lazy. The lamp didn't flicker. Instead, something stranger happened: the air above his palm grew warm, like the air above a candle. But just as he was starting to get excited, he thought of Maxence's shoe pressing the sketchbook into the puddle, and the warmth vanished instantly.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_2.page_5-1792859014117.mp3
+He stared at his hand. Then he went back to the book, to the paragraph he had skipped because it seemed too vague to be useful. It was about attention.
+The gesture is the door, and the word is the key. But attention is the hand that turns it. If the mind leaves, the door closes.
+So that was the third rule. Not just the right movement and the right sound, but total focus, the kind he only ever reached at two in the morning in the final round of a tournament, when the rest of the world simply disappeared.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_2.page_6-1792859023993.mp3
+TEST 11. He breathed slowly. He emptied his head of Maxence, of the canteen, of his history presentation, of everything except his hand, the warmth and the three words. He spoke them so quietly that he could barely hear himself.
+And a light appeared.
+It was tiny, no bigger than a firefly, a pale gold point floating a centimetre above the centre of his palm. It didn't burn. It didn't make a sound. It simply existed, impossible and perfectly calm, for four seconds. Then it went out, and the tiredness hit him like a wave crashing against a wall.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_2.page_7-1792859035882.mp3
+This time he was ready for it. He didn't fall off his chair. He sat with his head between his knees, breathing hard, until the room stopped spinning. Then, with a hand that wasn't quite steady, he opened his notebook and wrote:
+TEST 11 — SUCCESS. Light, about 4 seconds. Fatigue: 7/10. Needed food afterwards (the pencil was right).
+Over the following week, the notebook filled up fast. Noé practised every evening as soon as he had finished his homework, and the results formed a pattern that any gamer would have recognised. The light lasted longer each time: six seconds, then ten, then twenty. And each time, the fatigue came a little later and hit a little less hard. It was exactly like a stamina bar. It could be trained. On the last page of the week, he drew a graph, and the line went steadily up.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_2.page_8-1792859044557.mp3
+On Friday night, he turned the page and found the second gesture. It was more complicated than the first: two hands instead of one, a pushing movement, five words instead of three. In the margin, the pencil had added a single comment: Start small. Very small. I mean it.
+Noé started with a pencil. After forty minutes and a dozen failures, it rolled ten centimetres across his desk, all by itself, and dropped onto the carpet. He was so delighted that he punched the air like a footballer after a goal.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_2.page_9-1792859057200.mp3
+That was when he made his mistake. Pencils were easy, he told himself. Pencils were tutorial level. He looked around the room and chose the heaviest thing on his desk: his maths textbook, more than a kilo of paper and exercises. He raised both hands, pushed, and said the five words with all the focus he had.
+The textbook slid ten centimetres. Then the floor rose up to meet him.
+When he opened his eyes, his cheek was pressed against the carpet, and his phone, still in his hand, said 02:14. He had lost almost four hours. Every muscle in his body ached, as if he had spent the evening carrying sacks of coal up from the bottom of a mine. He crawled to his bed and lay there in the dark, too tired even to be frightened.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_2.page_10-1792859067360.mp3
+Later, unable to get back to sleep, he switched the light on and opened the grimoire at the end of the first chapter. He had been so excited by the diagrams that he had never read the last page carefully. The pencil had written something there too, longer than the other notes, and the handwriting was neater, as if this one really mattered.
+You will want to go too fast. Everyone does. The body pays for everything the mind asks of it, and it never gives credit. And one more thing: what you learn alone, you learn badly. Find the others.
+Noé read the last three words several times.
+The others. What others?
