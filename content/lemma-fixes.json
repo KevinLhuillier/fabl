@@ -194,6 +194,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "bursar",
+      "pos": "PROPN",
+      "word": "bursar",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "calloused",
       "pos": "VERB",
       "word": "calloused",
@@ -238,6 +244,12 @@
     },
     {
       "text": "closes",
+      "pos": "NOUN",
+      "word": "close",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "closing",
       "pos": "NOUN",
       "word": "close",
       "lemmaPos": "VERB"
@@ -382,6 +394,18 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "east",
+      "pos": "PROPN",
+      "word": "east",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Edric",
+      "pos": "ADJ",
+      "word": "Edric",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "Enough",
       "pos": "PROPN",
       "word": "enough",
@@ -392,6 +416,12 @@
       "pos": "PROPN",
       "word": "examiner",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "facing",
+      "pos": "NOUN",
+      "word": "face",
+      "lemmaPos": "VERB"
     },
     {
       "text": "fade",
@@ -474,6 +504,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "fool",
+      "pos": "VERB",
+      "next": ".",
+      "word": "fool",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "FOREST",
       "pos": "PROPN",
       "word": "forest",
@@ -552,6 +589,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "go",
+      "pos": "NOUN",
+      "word": "go",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "gone",
       "pos": "NOUN",
       "word": "gone",
@@ -618,16 +661,40 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Heads",
+      "pos": "PROPN",
+      "word": "Head",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "hearted",
+      "pos": "ADJ",
+      "word": "half-hearted",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "heaven",
       "pos": "PROPN",
       "word": "heaven",
       "lemmaPos": "NOUN"
     },
     {
+      "text": "hers",
+      "pos": "NOUN",
+      "word": "hers",
+      "lemmaPos": "PRON"
+    },
+    {
       "text": "hill",
       "pos": "PROPN",
       "word": "hill",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "holding",
+      "pos": "NOUN",
+      "word": "hold",
+      "lemmaPos": "VERB"
     },
     {
       "text": "hoped",
@@ -717,6 +784,18 @@
       "text": "ivy",
       "pos": "PRON",
       "word": "ivy",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "jingling",
+      "pos": "NOUN",
+      "word": "jingle",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "Keys",
+      "pos": "PROPN",
+      "word": "key",
       "lemmaPos": "NOUN"
     },
     {
@@ -850,6 +929,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Masters",
+      "pos": "PROPN",
+      "word": "Master",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "melt",
       "pos": "NOUN",
       "word": "melt",
@@ -875,6 +960,12 @@
     },
     {
       "text": "Mistress",
+      "pos": "NOUN",
+      "word": "Mistress",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Mistresses",
       "pos": "NOUN",
       "word": "Mistress",
       "lemmaPos": "PROPN"
@@ -938,6 +1029,12 @@
       "text": "nan",
       "pos": "PROPN",
       "word": "nan",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "nightclothes",
+      "pos": "NOUN",
+      "word": "nightclothes",
       "lemmaPos": "NOUN"
     },
     {
@@ -1024,6 +1121,12 @@
       "pos": "NOUN",
       "word": "Patience",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "patient",
+      "pos": "NOUN",
+      "word": "patient",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "pebble",
@@ -1227,6 +1330,12 @@
       "lemmaPos": "NUM"
     },
     {
+      "text": "Shallow",
+      "pos": "PROPN",
+      "word": "shallow",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "sharp",
       "pos": "ADV",
       "next": "-",
@@ -1262,6 +1371,12 @@
       "pos": "ADV",
       "word": "shiver",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "sickening",
+      "pos": "VERB",
+      "word": "sickening",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "side",
@@ -1405,6 +1520,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "streaming",
+      "pos": "NOUN",
+      "word": "stream",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "stumble",
       "pos": "NOUN",
       "word": "stumble",
@@ -1426,6 +1547,12 @@
       "text": "swam",
       "pos": "VERB",
       "word": "swim",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "Swept",
+      "pos": "PROPN",
+      "word": "sweep",
       "lemmaPos": "VERB"
     },
     {
@@ -1621,6 +1748,12 @@
       "pos": "PROPN",
       "word": "Well",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "west",
+      "pos": "PROPN",
+      "word": "west",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "wet",

@@ -1804,3 +1804,230 @@ Rowan's breath fogged the glass. He wiped it away with his sleeve. The far light
 He went back to his upturned bucket by the stove, and unwrapped the sacking from the head of his axe, and laid it across his knees. And he sat there like that, with his hands resting on the haft and his eyes on the door, until the grey light came.
 From somewhere at the far end of the glasshouse, out of the darkness, Old Moss's voice drifted back to them, dry and quiet and not at all sleepy.
 "Roots are restless tonight," he said.
+
+# The Thorns Come Calling
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_1-1792826691215.mp3
+Master Hale searched the east tower himself the next morning, with Bram at his shoulder and the axe on Bram's back, and found nothing.
+The tower had been empty for years. It had once held the Academy's offices — the bursar, the clerks, the secretary who wrote the letters home — but the offices had moved down into the main building long ago, and now the tower held nothing but dust and broken chairs and a great many spiders. The room at the top, where the light had shown, had a single narrow window facing east across the lake. There was a lamp on the sill. It was cold. There were no footprints in the dust, because someone had swept the floor.
+"Swept," said Bram, when Rowan found him afterwards in the woodyard behind the kitchens. He brought the axe down, and a log fell neatly in two. "Nobody sweeps a room they don't mean to come back to."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_2-1792826701176.mp3
+The Warden doubled the watch on the causeway. Hale walked the hedge every night until the small hours, a faint haze of heat drifting after him through the falling snow. The Academy went on. Classes resumed. The first-years stopped staring at Rowan quite so hard, and found other things to whisper about — chiefly the huge silent woodcutter who had appeared from nowhere, and who split more logs for the kitchen fires before breakfast than the porters managed in a week, and who had been seen, on two separate occasions, sharing a pipe with Old Moss on an upturned barrow and laughing until he wheezed.
+And every afternoon, in a bare stone room at the top of the west stair, Mistress Crane taught Rowan to stop.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_3-1792826713275.mp3
+"You know how to open," she said, on the first day. "Anyone can see that. You opened on the ice wide enough to drown in. What you do not know is how to close."
+She made him sit on the floor with his eyes shut. She made him find his Well — and this time it did not clench or flinch away from him, but lay there quiet and deep and green, like a forest pool — and then she made him draw from it, a little, and then stop.
+It was much harder than drawing. Drawing was like letting go of a rope. Stopping was like catching it again while it burned through his hands. The first day, he could not do it at all. The second day, he did it once, and was sick in the corner afterwards. On the third day, Mistress Crane sat down on the floor opposite him, folded her long grey legs beneath her like a heron settling on a nest, and took both his hands in hers.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_4-1792826725756.mp3
+"Listen to me, Ashby. Every Blackroot rod ever made works in the same way. It hooks your Well, and then it waits for you to struggle. You pull back, and it uses your own pulling to drag the water out of you. The harder you fight, the faster you empty." Her thin fingers tightened. "So you do not fight. You close. You make your Well into a fist, and you hold it shut, and you let the hook slide off the knuckles. Do you understand?"
+Rowan thought of the very first lesson, months ago, when his Well had curled up tight in the dark like a frightened animal. He had thought then that it was the worst thing about him.
+"It used to do that," he said slowly. "Close. On its own. I couldn't stop it."
+"Then perhaps," said Mistress Crane, with the faintest twitch of a smile, "it knew something you did not."
+By the end of the week, he could close it in the space of a breath.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_5-1792826738300.mp3
+It was Edric Vane who found him in the glasshouses, on the sixth evening.
+Rowan was alone, for once. Moss and Bram had gone up to the kitchens to argue with the cook about onions, and he was sitting among the saplings with his eyes closed, practising — open, close, open, close — when the door at the far end creaked, and a cold draught swept down the aisle, and he looked up to see Edric standing just inside it, snow on his shoulders, looking as though he would rather be almost anywhere else.
+For a long moment, neither of them said anything.
+"I called you Blank," said Edric at last. His voice was stiff. "At the Stone. And in the wagon. And at the Trial, I—" He stopped. His jaw worked. "I started that. The chanting. I wanted you to know that I started it."
+"I know," said Rowan. "I was there."
+Edric flushed dark red to the roots of his hair. But he did not leave.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_6-1792826750150.mp3
+"That's not why I came," he said. "Or not only." He glanced over his shoulder at the closed door, and lowered his voice. "The night Bennet went. I was awake. I don't sleep much, in Ember Hall — the chimneys roar all night. I was at the window, and I saw a lantern going down the hill. From the Hearthside side. Down towards the hedge."
+Rowan went very still.
+"I couldn't see who it was. Too far, and too dark. But I watched them go all the way down. And when they got to the hedge—" Edric swallowed. "The hedge opened for them. Just like that. Like a door. And they went through, and it closed behind them. And I heard—" He hesitated. "This sounds stupid."
+"Say it."
+"Keys," said Edric. "A big ring of keys, jingling. The wind carried it right up the hill. Only the Masters carry keys like that. The Heads of House."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_7-1792826763000.mp3
+Hale, thought Rowan, before he could stop himself. Hale, who walked the hedge every night. Hale, who had wanted him gone from the very first day.
+"Why didn't you tell anyone?"
+"Who would I tell?" Edric's voice cracked with something that was almost anger. "The Masters? It was one of the Masters. And next morning the Warden stood up in the hall and said Bennet had gone home, and everybody believed her, and I thought — I thought maybe I'd dreamed it. Maybe I was wrong." He looked down at his boots. "And then you went out on the ice and brought him back, and I knew I wasn't. And I'd said nothing. I'd just stood there in the Thorn Ring, shouting Blank at the only person who actually did anything."
+He turned to go. At the door he stopped, with his hand on the latch.
+"Be careful, Ashby," he said, without looking round. "Whoever it was, they've still got their keys."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_8-1792826775167.mp3
+The blizzard came on the eighth night.
+It came out of the north with a howl like a wolf, and by nightfall the snow was so thick that the lamps in the Great Hall could not be seen from Hearthside, fifty paces away. The windows rattled in their frames. Somewhere above the common room a loose shutter banged and banged. The fire roared in the great hearth among the oak roots, and the Hearthside students huddled round it in blankets, telling each other ghost stories and pretending not to listen to the wind.
+Rowan was playing a half-hearted game of draughts with Tamsin, and losing, when the door opened and Master Grey came in with the storm at his back.
+He was white from head to foot. His spectacles were fogged, and he took them off and wiped them on his scarf with fingers that were shaking with cold, and his round, kind face was creased with worry.
+"Ashby," he said. "Get your cloak. Quickly, now."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_9-1792826788661.mp3
+Rowan was on his feet before he knew it. "What's happened?"
+"It's your uncle, I'm afraid. He went down to the glasshouses to see to Alaric's stove, and he's slipped on the ice path — taken a nasty fall, by the look of him. Mother Rook's on her way down, but he's asking for you." Grey put his spectacles back on, and gave a small, unhappy smile. "Don't look like that. He'll mend. Your uncle's built like an oak. But I think he'd rather see your face than mine."
+Tamsin was already scrambling up. "I'll come—"
+"You will not, Miss Reed." For the first time since Rowan had known him, there was something firm in Master Grey's mild voice. "It's past the tenth bell, there's a blizzard on, and I am not having two of my students wandering about the hill tonight. One is quite enough." He held the door open. "Come along, Ashby."
+Rowan caught Ilse's eye across the common room as he went. She was sitting on the window seat with her knees drawn up, and she was watching Grey with an expression he could not read.
+Then the door closed behind him, and there was nothing but the snow.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_10-1792826797024.mp3
+They went down the hill together, heads bowed into the wind, Grey's lantern swinging between them. Grey kept up a gentle, breathless stream of talk as they walked — about the weather, about Bram, about how the glasshouses had always been the warmest place on the hill in winter, even when he had been a young man and the old Warden had kept the whole Academy on half-rations of coal. His keys jingled at his belt. Rowan barely heard him. He was thinking of Bram lying on the ice path in the dark.
+It was a while before he noticed that the oaks had gone quiet.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_11-1792826811188.mp3
+All the way down from Hearthside they had been groaning and creaking in the wind, the way they always did in a storm. Now they were silent. Not still — the wind was tearing at them as hard as ever — but silent in a way that Rowan felt rather than heard, like a room full of people who have stopped talking because someone has walked in. And as he passed beneath them, he felt something else. Something he had never felt from the trees before, not even on the ice.
+They were leaning away.
+Not from him. From the man beside him.
+Rowan stopped walking.
+The lantern swung on a few paces, and then stopped too. Grey turned round. Snow was settling on his hat and his shoulders and the round lenses of his spectacles, and behind them his eyes were quite calm.
+"Is something the matter, Ashby?"
+"This isn't the way to the glasshouses," said Rowan. His voice sounded very far away. "The glasshouses are to the left. This path goes down to the hedge."
+There was a pause. The wind howled through the silent oaks.
+"Yes," said Master Grey gently. "I'm afraid it does."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_12-1792826820853.mp3
+Rowan ran.
+He got perhaps three steps. Then something hit him in the back like a great soft hand — not a blow, but a weight, the dead heavy pull of the earth itself — and his legs folded under him and he went face down in the snow. He tried to rise, and could not. It was as though the ground had grown hungry and was holding him down. Earth, he thought dimly. Grey's Earth. Shallow, everyone said. Barely a Well at all. But it was more than enough for this.
+Grey crouched down beside him in the snow. He set the lantern down carefully, and took off his spectacles, and wiped them again.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_13-1792826830470.mp3
+"I am sorry about your uncle," he said. "That was unkind. He's perfectly well — snoring in Alaric's lean-to, I should think, with his axe across his knees. I'd have liked to think of something better, but you're a hard boy to get alone, Ashby, and I'm an old man with very little imagination." He sighed. "I really am sorry. I want you to know that. I've always been fond of you."
+"It was you," said Rowan, into the snow. "Bennet. The lantern. The east tower."
+"Yes."
+"And my mother." He twisted his head round to look up at the kind round face. "She came to you. Didn't she? Twenty years ago. With the Departures books."
+For a long moment, Grey said nothing at all. Then he put his spectacles back on, very slowly.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_14-1792826841762.mp3
+"I was the Academy's secretary in those days," he said. "Did you know that? Long before I was Head of Hearthside. Every letter that went out of Thornhall went out under my hand. Every line in the Departures books was written by my pen. And for years, nobody ever thought to put the two side by side." A faint, sad smile. "Except Elinor. She came into my office one evening with two pieces of paper and an expression on her face that I shall never forget, and asked me, very politely, whether I could explain the discrepancy."
+"And you told them," said Rowan. "You told Blackroot."
+"I told her I would look into it. And then I told them, yes." Grey looked away into the snow. "I liked her very much, you know. Everyone did. She was the only one who ever noticed."
+"Why?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_15-1792826856933.mp3
+Grey was quiet for a moment.
+"Do you know what an Academy secretary is paid, Ashby? No — it wasn't money. Not really. Not at the start." He rubbed his eyes. "I was twenty-four. My Well was so shallow the Stone barely blinked at me. I spent my whole life watching children with ten times my gift walk in through that hedge and walk out again as Masters and Mistresses, and nobody ever looked at me twice. And one day a pleasant man came to my office and asked me, very courteously, for a name. Just one name. A girl who was going home anyway, he said. Where was the harm?" He spread his hands. "And once you have sold one name, Ashby, they own all the rest of you. Every year after that, they came back for another. And every year, I gave it to them. Because the alternative was to stand up in the Great Hall and tell everyone what I had done."
+He stood up, and picked up the lantern, and lifted it high, and swung it slowly — once, twice, three times.
+From somewhere ahead, through the whirling snow, a light answered.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_16-1792826870906.mp3
+The weight on Rowan's back did not lift. But Grey had to walk to carry him, and Grey was old, and his Well was shallow, and when he bent to drag Rowan up by the collar, the pressure eased for a moment, just enough for Rowan to get his knees under him. Grey hauled him the last twenty paces down to the hedge, stumbling and gasping, while the oaks stood silent above them and leaned away.
+The hedge rose out of the storm. Grey set his hand flat against the black wood, and spoke a word Rowan could not catch, and the great thorns creaked and drew apart.
+On the causeway beyond, there were lanterns. Five — six — a dozen, in a ragged half-circle on the snow, and dark cloaked shapes behind them. And in the middle of them stood a tall, stooped man in a grey coat, with a long neck and a narrow, patient face, holding in one gloved hand a slender black rod as long as his forearm.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_17-1792826884017.mp3
+"Ah," said the heron-man, pleasantly. "The Wood-boy. You will forgive me if I don't come closer. The last time we met, you threw a tree at me."
+Grey pushed Rowan through the gap. He fell to his knees on the stones of the causeway. Behind him, the thorns began to close.
+"The agreed price, Tobin," said the heron-man, without taking his eyes from Rowan. He tossed something through the closing gap. It landed in the snow at Grey's feet with a heavy chink. "And the usual arrangement for the list. We'll want the girl with the scar too, in the spring. The Fenwick girl. Our friends are very curious about her."
+Ilse. Rowan's head snapped up.
+The heron-man raised the rod.
+Rowan felt it hook him. It was exactly as it had been on the ice — that cold, sickening tug deep in his chest, as though a fish-hook had caught behind his ribs — and every nerve in his body screamed at him to pull away, to fight, to run.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_18-1792826896115.mp3
+He did not fight.
+He closed.
+He made his Well into a fist, the way Mistress Crane had taught him, a small hard knot of green in the dark, and he held it shut, and he felt the hook scrape across it and find nothing to catch on, and slide away.
+The heron-man's patient face changed. He gave the rod a sharp twist. Rowan gasped — the pull was like a hand closing round his heart — but he held, and held, and the hook slid off again.
+"Interesting," said the heron-man softly. "Somebody has been teaching you."
+"Take him!" Grey's voice came high and thin through the thorns. "For pity's sake, just take him, the watch will be round in—"
+And Rowan, kneeling in the snow with his Well clenched tight inside him like a seed in a husk, did the only other thing he knew how to do.
+He listened.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_19-1792826907233.mp3
+He had listened to the Elderwood, and it had been vast and slow and very far away, and it had nearly killed him to reach it. He had listened to a dead twig of blackthorn in the Warden's tower, and it had been tiny and sleepy and close. This was neither.
+The hedge was right behind him.
+It was the oldest living thing on the hill. Older than the Academy. Older than the causeway, older than the glasshouses, older than anything except the oaks. The Wood-wardens had not built it. They had asked it to grow. And for three hundred years, since the last of them had died, it had stood around Thornhall in the dark and the snow and the summer heat, keeping out whatever it was told to keep out, opening for whoever spoke the word — obedient, patient, and so deeply asleep that nobody alive remembered it had ever been anything else.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_20-1792826917939.mp3
+Rowan did not reach for it. He did not pull. He did not open his Well by so much as a crack. He only knelt there, with his back to the thorns, and let the hedge feel him. Let it feel what he was.
+And very slowly, the way an old dog lifts its head when it hears a step it has not heard in many years, the hedge woke up.
+He heard it before he felt it — a long, low, creaking groan that started somewhere far away along the shore and came rolling towards him through the dark like thunder under the earth. Then the causeway shook. The heron-man staggered. Somebody shouted. And all along the line of the hedge, as far as Rowan could see in either direction, the great black thorns began to move.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_21-1792826932530.mp3
+They did not lash about like the Elderwood. They were too old for that, and too slow, and far too deliberate. They simply grew. Long, twisting branches as thick as a man's arm came crawling out of the hedge across the snow, unhurried, inexorable, bristling with thorns as long as knives. They wound round ankles. They coiled round wrists. They closed over the cloaked figures on the causeway one by one, the way a hand closes over a moth — not crushing, but holding, tighter and tighter, until the men who had been shouting were not shouting any more, only standing very, very still, while the thorns pricked at their throats.
+The heron-man was quicker than the rest. He was already running, his grey coat flapping, out along the causeway towards the frozen lake. A branch came snaking after him and caught the hem of his coat, and he tore free and kept going, and was swallowed up by the storm.
+And on the far side of the hedge, Rowan heard a thin, high, terrible cry.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_22-1792826947140.mp3
+The gap had closed. But not all the way.
+Master Grey was caught in it.
+He had tried to step back as the thorns began to move, and the hedge had not let him. It had closed around him the way water closes over a stone — one arm pinned behind his back, the other trapped above his head, the bag of coins spilled glittering in the snow at his feet. His spectacles had fallen off. Without them, his round, kind face looked naked and very old.
+"Let me go," he whispered. "Ashby. Please. I'm an old man. Please."
+Rowan got slowly to his feet. He was shaking all over, and there was blood on his lip again, but his Well was still closed tight inside him, and it was still full. He had not drawn a drop. He looked at the man in the thorns, and he thought of a cottage with a blue door, and a black root painted on it at the height of a man's heart. He thought of Bennet Croft in the back of a wagon. He thought of the Fenwick girl, in the spring.
+"No," he said.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_23-1792826961900.mp3
+Then there were lights coming down the hill, a great many of them, bobbing and swinging through the snow — and voices shouting his name — and a roar of flame that lit up the whole hillside orange, and turned the falling snow to steam. Edric Vane came skidding down the path with fire streaming from both his hands like banners, his face white and set. Behind him came Master Hale, bareheaded, and Ilse, with the wind whipping round her so fiercely that the snow parted before her like a curtain, and Tamsin, and Jory, and half of Hearthside in their nightclothes. And at the very front of them all, bellowing like a bull, his axe in his hands, came Bram.
+"I saw Grey come in," Ilse was saying, breathless, to anyone who would listen. "I saw his face. He wasn't worried. He was pretending to be worried. I've seen enough people pretend, at the herb-woman's—"
+"—and I saw the lantern from Ember Hall," Edric was saying, "going down, same as before, so I ran to the Warden's tower, and Hale was there, and—"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_24-1792826968822.mp3
+But Rowan was not really listening. He was looking at Master Hale.
+Hale had stopped dead in the path. He was staring at the man caught in the hedge, and the coins in the snow, and the fallen spectacles, and for a long moment his fierce, cold face showed nothing at all. Then something moved behind it — something that looked, to Rowan's astonishment, very much like grief.
+"Tobin," said Hale quietly. "Oh, Tobin. You fool."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_25-1792826982051.mp3
+The Warden came last of all, very slowly, leaning on Mother Rook's arm, with her white plait whipping in the wind. She stood in front of the hedge for a long time, looking at the man caught in it. Grey would not meet her eyes.
+"Fifteen years," she said at last. Her voice was very quiet. "Fifteen years, I have been looking for you, Tobin. Every name in every book. Every Master. Every clerk. Every porter on the causeway. Corvin, I suspected. Ottoline. Even Maren — heaven forgive me, even Maren. Never once you."
+"No," whispered Grey. "Nobody ever did. That was rather the point."
+Hale stooped and picked up the leather satchel that had fallen into the snow beside the coins. He opened it, and drew out a slim black notebook, and turned a few pages by the light of Edric's fire. His face went grey. Without a word, he handed it to the Warden.
+She did not open it. She only held it, in both hands, the way one might hold something that had died.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_26-1792826991057.mp3
+Then she turned to Rowan.
+"Mr Ashby," she said. "I believe the hedge is waiting for you."
+And Rowan realised that it was. All along the shore, the thorns stood motionless in the storm, holding the men they had caught, holding Grey — not tightening, not loosening, simply waiting, with a vast, slow, patient attention that he could feel against his skin like warmth from a fire. Waiting to be told.
+He put his hand flat against the black wood, the way Grey had done.
+Thank you, he thought. You can let them go now. Gently.
+The hedge considered this. Then, with a long, low, reluctant creak, the thorns withdrew.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_14.page_27-1792826999530.mp3
+They released the cloaked men into the hands of Hale and the watch. They released Grey, who sagged to his knees in the snow and stayed there. And then they drew themselves back into the great black wall of the hedge, branch by branch, until it stood once more exactly as it had stood for three hundred years.
+Or almost exactly.
+In the morning, when the storm had blown itself out and the sun came up over the frozen lake, the students of Thornhall came down the hill in their hundreds to look. And all along the hedge, from one end of the shore to the other, in the deepest dead of winter, the blackthorn was in flower.
