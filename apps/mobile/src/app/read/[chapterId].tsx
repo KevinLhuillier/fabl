@@ -254,7 +254,7 @@ export default function ChapterReader() {
               />
             </View>
           </Animated.View>
-          {aligned ? (
+          {aligned && page === 0 ? (
             <View style={styles.hint}>
               <Icon icon={Lightbulb} size={16} color={colors.textMuted} />
               <Text variant="caption" color={colors.textMuted}>
