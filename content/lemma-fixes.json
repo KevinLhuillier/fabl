@@ -328,6 +328,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "D'AUBRECOURT",
+      "pos": "ADV",
+      "word": "Aubrecourt",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "dais",
       "pos": "NOUN",
       "word": "dais",
@@ -367,6 +373,12 @@
       "text": "DEPARTURES",
       "pos": "PROPN",
       "word": "departure",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "deputy",
+      "pos": "ADJ",
+      "word": "deputy",
       "lemmaPos": "NOUN"
     },
     {
@@ -508,6 +520,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "First",
+      "pos": "PROPN",
+      "word": "first",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "fist",
       "pos": "ADJ",
       "word": "fist",
@@ -580,6 +598,12 @@
       "text": "fuss",
       "pos": "PROPN",
       "word": "fuss",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Gesture",
+      "pos": "PROPN",
+      "word": "gesture",
       "lemmaPos": "NOUN"
     },
     {
@@ -945,6 +969,12 @@
       "pos": "ADJ",
       "word": "Léa",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Magic",
+      "pos": "PROPN",
+      "word": "magic",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Marked",
@@ -1328,6 +1358,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Romain",
+      "pos": "NOUN",
+      "word": "Romain",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "roof",
       "pos": "VERB",
       "word": "roof",
@@ -1616,6 +1652,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "sudden",
+      "pos": "ADV",
+      "word": "sudden",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "summons",
       "pos": "NOUN",
       "word": "summons",
@@ -1674,6 +1716,12 @@
       "pos": "NOUN",
       "word": "tear",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "TEST",
+      "pos": "PROPN",
+      "word": "test",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "thorned",
@@ -1758,6 +1806,12 @@
       "pos": "VERB",
       "word": "unhurried",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "uninstalling",
+      "pos": "VERB",
+      "word": "uninstall",
+      "lemmaPos": "VERB"
     },
     {
       "text": "Unmarked",
