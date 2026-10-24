@@ -261,6 +261,18 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "coast",
+      "pos": "PROPN",
+      "word": "coast",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "colder",
+      "pos": "VERB",
+      "word": "cold",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "colossal",
       "pos": "NOUN",
       "word": "colossal",
@@ -314,6 +326,12 @@
       "pos": "NOUN",
       "word": "cut",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "dais",
+      "pos": "NOUN",
+      "word": "dais",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Damp",
@@ -490,6 +508,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "fist",
+      "pos": "ADJ",
+      "word": "fist",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "flat",
       "pos": "ADJ",
       "next": ",",
@@ -502,6 +526,12 @@
       "next": "and",
       "word": "flat",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "flowering",
+      "pos": "NOUN",
+      "word": "flower",
+      "lemmaPos": "VERB"
     },
     {
       "text": "fool",
@@ -583,6 +613,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "glinting",
+      "pos": "NOUN",
+      "word": "glint",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "glistening",
       "pos": "NOUN",
       "word": "glisten",
@@ -621,6 +657,12 @@
     {
       "text": "grey",
       "pos": "PROPN",
+      "word": "grey",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "grey",
+      "pos": "VERB",
       "word": "grey",
       "lemmaPos": "ADJ"
     },
@@ -923,6 +965,18 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "Markings",
+      "pos": "NOUN",
+      "word": "Marking",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Markings",
+      "pos": "PROPN",
+      "word": "Marking",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "Married",
       "pos": "ADJ",
       "word": "marry",
@@ -945,6 +999,12 @@
       "pos": "PROPN",
       "word": "midwinter",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "mine",
+      "pos": "NOUN",
+      "word": "mine",
+      "lemmaPos": "PRON"
     },
     {
       "text": "MISSES",
@@ -1076,6 +1136,12 @@
     {
       "text": "oilcloth",
       "pos": "ADJ",
+      "word": "oilcloth",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "oilcloth",
+      "pos": "PROPN",
       "word": "oilcloth",
       "lemmaPos": "NOUN"
     },
@@ -1293,6 +1359,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "runs",
+      "pos": "NOUN",
+      "word": "run",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "sacking",
       "pos": "VERB",
       "word": "sacking",
@@ -1471,6 +1543,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "spidery",
+      "pos": "NOUN",
+      "word": "spidery",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "spinning",
       "pos": "NOUN",
       "word": "spin",
@@ -1524,6 +1602,12 @@
       "pos": "NOUN",
       "word": "stream",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Stubborner",
+      "pos": "PROPN",
+      "word": "stubborn",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "stumble",
@@ -1656,6 +1740,12 @@
       "pos": "PROPN",
       "word": "understand",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Undrawn",
+      "pos": "NOUN",
+      "word": "undrawn",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "unfurls",

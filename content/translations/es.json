@@ -222,6 +222,12 @@
       "example": "\"Some of us actually belong here.\""
     },
     {
+      "word": "add",
+      "pos": "VERB",
+      "translation": "añadir",
+      "example": "And under it, in the same spidery hand, in smaller letters, someone had added two more lines."
+    },
+    {
       "word": "address",
       "pos": "VERB",
       "translation": "dirigirse a",
@@ -256,6 +262,12 @@
       "pos": "NOUN",
       "translation": "el asunto («meddling in … affairs»: entrometerse en los asuntos de)",
       "example": "I wrote Unmarked in my book and signed it, and the next day a woman who has been meddling in this Academy's affairs for twenty-six years walked into my supper with a Writ nobody had seen in ninety, and asked me to put my name to it."
+    },
+    {
+      "word": "afford",
+      "pos": "VERB",
+      "translation": "permitirse («could not afford to be wrong»: no podía permitirse equivocarse)",
+      "example": "She could not afford to be wrong twice."
     },
     {
       "word": "afraid",
@@ -417,6 +429,12 @@
       "pos": "DET",
       "translation": "todo, todos",
       "example": "While the doctors carried him to his tent, Edwin went back to examine the horse. Something about the fall had seemed strange to him."
+    },
+    {
+      "word": "all at once",
+      "pos": "PHRASE",
+      "translation": "de golpe, de repente",
+      "example": "And then all at once."
     },
     {
       "word": "all right",
@@ -608,6 +626,12 @@
       "pos": "VERB",
       "translation": "responder",
       "example": "\"I swear it,\" Edwin answered, his voice steady."
+    },
+    {
+      "word": "answer for",
+      "pos": "PHRASE",
+      "translation": "responder de, rendir cuentas por",
+      "example": "He would be sent south when the roads opened, the Warden said, to answer for what he had done."
     },
     {
       "word": "answer to the name",
@@ -1524,6 +1548,12 @@
       "example": "\"One day, you may become more than we ever were.\""
     },
     {
+      "word": "become of",
+      "pos": "PHRASE",
+      "translation": "ser de («what became of him»: qué fue de él)",
+      "example": "I don't know what became of him."
+    },
+    {
       "word": "bed",
       "pos": "NOUN",
       "translation": "la cama",
@@ -1908,10 +1938,22 @@
       "example": "The blossoms were scattered across the frozen floor like confetti, and the wall of blackthorn stood as black and bare as it had been all winter."
     },
     {
+      "word": "Blossom",
+      "pos": "PROPN",
+      "translation": "Blossom («floración»; «Blossom-Month»: el Mes de las Flores, la primavera)",
+      "example": "Bram left on a bright, blowing morning at the start of Blossom-Month."
+    },
+    {
       "word": "blot",
       "pos": "NOUN",
       "translation": "el borrón, la mancha",
       "example": "And in the next column, where every other student on the page had a single neat symbol beside their name — a triangle, a wavy line, a spiral, a small circle — there was only a thick, ugly blot of black ink, scrubbed into the paper so hard that it had worn almost through."
+    },
+    {
+      "word": "blot",
+      "pos": "VERB",
+      "translation": "secar (la tinta) con papel secante",
+      "example": "The Writ of Uncertain Marking was declared fulfilled at the end of the spring term, by order of the Warden, in a short ceremony in her study that consisted entirely of Maren Vell writing one line in the great green ledger and blotting it carefully."
     },
     {
       "word": "blow",
@@ -2008,6 +2050,12 @@
       "pos": "PROPN",
       "translation": "Libros («Root Books»: Libros de las Raíces)",
       "example": "\"The Root Books,\" said Moss quietly."
+    },
+    {
+      "word": "boom",
+      "pos": "VERB",
+      "translation": "retumbar",
+      "example": "The snow went from the hill almost overnight, and the frozen lake groaned and boomed and cracked for three days and nights, and then one morning it was water again, grey and rippling and full of sky."
     },
     {
       "word": "boot",
@@ -2334,6 +2382,12 @@
       "example": "And high on the battlements, where a castle would have had banners, whole oaks stood rooted in the stone, their crowns turning bronze and gold with the season."
     },
     {
+      "word": "brook",
+      "pos": "NOUN",
+      "translation": "el arroyo",
+      "example": "Where the bright water meets the dark, and the dark runs under the brook, there the first Wood-wardens laid their roots."
+    },
+    {
       "word": "brother",
       "pos": "NOUN",
       "translation": "el hermano",
@@ -2542,6 +2596,12 @@
       "pos": "PHRASE",
       "translation": "por orden de",
       "example": "By order of the Wardens of Thornhall Academy, the Marking of all children of Brackenford and the surrounding villages who have attained their fourteenth year shall take place at the Standing Stone of Brackenford on the first morning of Leaf-Fall."
+    },
+    {
+      "word": "by rights",
+      "pos": "PHRASE",
+      "translation": "en rigor, por derecho",
+      "example": "It had not stopped flowering since the night of the storm, though by rights every blossom should have dropped weeks ago, and the whole length of the shore smelled of honey."
     },
     {
       "word": "by the look of",
@@ -2904,6 +2964,12 @@
       "example": "They said it the way people mention a ghost — quickly, and then they changed the subject."
     },
     {
+      "word": "chant",
+      "pos": "VERB",
+      "translation": "corear",
+      "example": "He was walking back from the glasshouses one evening, a week after the storm, and found himself at the gatehouse instead, and the guard on the door — a fifth-year Fire boy called Dunstan, who had been one of the loudest in the Thorn Ring chanting Blank — looked at him for a long moment, and then looked away, and stepped aside."
+    },
+    {
       "word": "chanting",
       "pos": "NOUN",
       "translation": "los cánticos, el coreo",
@@ -3088,6 +3154,12 @@
       "pos": "NOUN",
       "translation": "la sidra",
       "example": "The crowd was breaking up into families and drifting towards the inn, where the village elder had promised cider for everyone — the Marked and the Unmarked alike."
+    },
+    {
+      "word": "Cinder",
+      "pos": "PROPN",
+      "translation": "Cinder («ceniza»; «the Cinder Marches»: las Marcas de Ceniza, región)",
+      "example": "Twins from the Cinder Marches, both Fire: root, drop, root, drop."
     },
     {
       "word": "circle",
@@ -3702,6 +3774,12 @@
       "example": "By mid-afternoon the cart was loaded, and Patience — a mule whose name had been chosen with considerable irony — was persuaded, after the usual negotiations, to haul it down the track to Brackenford."
     },
     {
+      "word": "consist",
+      "pos": "VERB",
+      "translation": "consistir",
+      "example": "The Writ of Uncertain Marking was declared fulfilled at the end of the spring term, by order of the Warden, in a short ceremony in her study that consisted entirely of Maren Vell writing one line in the great green ledger and blotting it carefully."
+    },
+    {
       "word": "conspiracy",
       "pos": "NOUN",
       "translation": "la conspiración, el complot",
@@ -3832,6 +3910,12 @@
       "pos": "NOUN",
       "translation": "el costo («at the cost of»: a costa de)",
       "example": "But Ilse knew a place on the western side, below the glasshouses, where the blackthorn had grown thin around the trunk of a dead oak and a determined person could wriggle through on their stomach, at the cost of a torn coat and a great many scratches."
+    },
+    {
+      "word": "cot",
+      "pos": "NOUN",
+      "translation": "el catre",
+      "example": "Grey was sitting on a narrow cot with a blanket round him."
     },
     {
       "word": "cottage",
@@ -3994,6 +4078,12 @@
       "pos": "VERB",
       "translation": "crepitar, chisporrotear («crackling with rumour»: lleno de rumores)",
       "example": "The noise rose again at once, louder than before, crackling with rumour."
+    },
+    {
+      "word": "crackling",
+      "pos": "NOUN",
+      "translation": "el crepitar, el chisporroteo",
+      "example": "He was aware of the fire crackling, and the snow sliding off the tower roof, and the Warden and Maren Vell watching him in silence."
     },
     {
       "word": "cradle",
@@ -4368,6 +4458,12 @@
       "example": "Not the words, mostly — only the deep, slow rumble of it, going on and on like a cart over a wooden bridge, and then, cutting across it, the Warden's voice, low and clear and cold."
     },
     {
+      "word": "dais",
+      "pos": "NOUN",
+      "translation": "el estrado",
+      "example": "When they were all there, and the doors were closed, and the great hall had fallen so quiet that Rowan could hear the snow sliding off the roof, Aldith Merrow rose from her high carved chair, and walked to the front of the dais, and told them the truth."
+    },
+    {
       "word": "daisy",
       "pos": "NOUN",
       "translation": "la margarita",
@@ -4500,6 +4596,12 @@
       "example": "Sir Godfrey never complained, so Edwin decided that he would not complain either."
     },
     {
+      "word": "declare",
+      "pos": "VERB",
+      "translation": "declarar",
+      "example": "The Writ of Uncertain Marking was declared fulfilled at the end of the spring term, by order of the Warden, in a short ceremony in her study that consisted entirely of Maren Vell writing one line in the great green ledger and blotting it carefully."
+    },
+    {
       "word": "deep",
       "pos": "ADJ",
       "translation": "profundo",
@@ -4612,6 +4714,12 @@
       "pos": "VERB",
       "translation": "desertar, abandonar («deserted»: desierto)",
       "example": "The village sat where the forest thinned beside a slow brown river: a huddle of timber houses with roofs of moss-green thatch, a mill, a forge, and a market square that was crowded twice a week and deserted the rest of the time."
+    },
+    {
+      "word": "deserve",
+      "pos": "VERB",
+      "translation": "merecer",
+      "example": "Then she bowed her head, very slightly, like someone receiving a gift they did not think they deserved."
     },
     {
       "word": "desk",
@@ -5160,6 +5268,12 @@
       "example": "A sullen boy whom Rowan didn't know made two of the spirals flare a dull, angry orange, and Edric Vane, watching from the edge of the crowd with his arms folded, nodded approvingly, as one Fire to another."
     },
     {
+      "word": "Dunstan",
+      "pos": "PROPN",
+      "translation": "Dunstan (nombre)",
+      "example": "He was walking back from the glasshouses one evening, a week after the storm, and found himself at the gatehouse instead, and the guard on the door — a fifth-year Fire boy called Dunstan, who had been one of the loudest in the Thorn Ring chanting Blank — looked at him for a long moment, and then looked away, and stepped aside."
+    },
+    {
       "word": "during",
       "pos": "ADP",
       "translation": "durante",
@@ -5242,6 +5356,12 @@
       "pos": "ADV",
       "translation": "temprano, pronto",
       "example": "The snow had come early to the southern forest, and the passes in the north were already closed."
+    },
+    {
+      "word": "earn",
+      "pos": "VERB",
+      "translation": "ganarse, merecer",
+      "example": "I do not think I have earned it."
     },
     {
       "word": "earth",
@@ -5446,6 +5566,12 @@
       "pos": "NOUN",
       "translation": "el elemento",
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
+    },
+    {
+      "word": "eleven",
+      "pos": "NUM",
+      "translation": "once",
+      "example": "Taken, eleven winters past."
     },
     {
       "word": "Elinor",
@@ -5708,6 +5834,12 @@
       "pos": "NOUN",
       "translation": "el intercambio («in exchange for»: a cambio de)",
       "example": "First-years were not permitted there without a teacher — but everyone knew that Ilse spent three evenings a week down among the shelves, sorting returned books and mending torn bindings in exchange for the right to read whatever she liked."
+    },
+    {
+      "word": "exchange",
+      "pos": "VERB",
+      "translation": "intercambiar",
+      "example": "The Warden and Maren exchanged a look."
     },
     {
       "word": "excitement",
@@ -6322,6 +6454,12 @@
       "example": "At first, nobody listened to him."
     },
     {
+      "word": "first thing",
+      "pos": "PHRASE",
+      "translation": "a primera hora",
+      "example": "First thing."
+    },
+    {
       "word": "fish",
       "pos": "NOUN",
       "translation": "el pez, el pescado",
@@ -6730,6 +6868,12 @@
       "example": "\"You'll forgive an old man for listening,\" he said."
     },
     {
+      "word": "forgiveness",
+      "pos": "NOUN",
+      "translation": "el perdón",
+      "example": "I will not ask your forgiveness."
+    },
+    {
       "word": "fork",
       "pos": "NOUN",
       "translation": "la horquilla, la punta bífida",
@@ -6982,6 +7126,12 @@
       "example": "Edwin picked up his weapon, his face red with frustration."
     },
     {
+      "word": "fulfil",
+      "pos": "VERB",
+      "translation": "cumplir («declared fulfilled»: declarado cumplido)",
+      "example": "The Writ of Uncertain Marking was declared fulfilled at the end of the spring term, by order of the Warden, in a short ceremony in her study that consisted entirely of Maren Vell writing one line in the great green ledger and blotting it carefully."
+    },
+    {
       "word": "full",
       "pos": "ADJ",
       "translation": "lleno",
@@ -7112,6 +7262,12 @@
       "pos": "NOUN",
       "translation": "la mirada",
       "example": "And then, hard on its heels, a look of such shame that Bram had to drop his gaze to the grass."
+    },
+    {
+      "word": "generally",
+      "pos": "ADV",
+      "translation": "generalmente, por lo general",
+      "example": "I told her the Academy had its ways, and that clerks who went looking for trouble in the Departures books generally found it."
     },
     {
       "word": "generation",
@@ -7339,6 +7495,12 @@
       "pos": "VERB",
       "translation": "vislumbrar",
       "example": "An archway opened in the hedge, wide enough for a wagon, and through it Rowan glimpsed a long green courtyard and a crowd of faces turned towards the gate."
+    },
+    {
+      "word": "glint",
+      "pos": "VERB",
+      "translation": "brillar, destellar",
+      "example": "The old man was standing at the end of the aisle with his lantern, his one good eye glinting."
     },
     {
       "word": "glisten",
@@ -7687,6 +7849,12 @@
       "pos": "VERB",
       "translation": "gemir, crujir",
       "example": "The tree groaned."
+    },
+    {
+      "word": "groom",
+      "pos": "NOUN",
+      "translation": "el mozo de cuadra",
+      "example": "The cooks and the porters and the grooms and the girls who scrubbed the floors."
     },
     {
       "word": "ground",
@@ -8672,6 +8840,12 @@
       "example": "The fire roared in the great hearth among the oak roots, and the Hearthside students huddled round it in blankets, telling each other ghost stories and pretending not to listen to the wind."
     },
     {
+      "word": "hug",
+      "pos": "NOUN",
+      "translation": "el abrazo",
+      "example": "He pulled Rowan into a hug that lifted him clean off the ground, and held him there, and set him down again."
+    },
+    {
       "word": "huge",
       "pos": "ADJ",
       "translation": "enorme",
@@ -8987,6 +9161,12 @@
       "example": "She inclined her head."
     },
     {
+      "word": "inclined",
+      "pos": "ADJ",
+      "translation": "inclinado («I am inclined to believe him»: me inclino a creerle)",
+      "example": "For once, I am inclined to believe him."
+    },
+    {
       "word": "indecent",
       "pos": "ADJ",
       "translation": "indecente",
@@ -9069,6 +9249,12 @@
       "pos": "NOUN",
       "translation": "el posadero",
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "inside",
+      "pos": "ADJ",
+      "translation": "interior («inside pocket»: el bolsillo interior)",
+      "example": "He had his staff, and his axe, and a sack of bread and cheese from the kitchens that the cook had pressed on him with tears in her eyes, and in the inside pocket of his coat, wrapped in oilcloth, a copy of page forty-one that Maren Vell had made for him in her own neat hand."
     },
     {
       "word": "inside",
@@ -10526,6 +10712,12 @@
       "example": "She practically marched to the Stone."
     },
     {
+      "word": "Marches",
+      "pos": "PROPN",
+      "translation": "Marcas (regiones fronterizas; «the Cinder Marches»: las Marcas de Ceniza)",
+      "example": "Twins from the Cinder Marches, both Fire: root, drop, root, drop."
+    },
+    {
       "word": "Maren",
       "pos": "PROPN",
       "translation": "Maren (nombre)",
@@ -10950,6 +11142,12 @@
       "pos": "NOUN",
       "translation": "el mes",
       "example": "His Majesty is holding a great tournament at Winchester at the end of the month."
+    },
+    {
+      "word": "Month",
+      "pos": "PROPN",
+      "translation": "Month («mes»; «Thaw-Month»: el Mes del Deshielo)",
+      "example": "The roads opened at the end of Thaw-Month."
     },
     {
       "word": "moon",
@@ -12103,6 +12301,12 @@
       "example": "Then the cold of the Stone pressed against it, and it shrank back the way a fern curls up at a touch, and sank out of reach."
     },
     {
+      "word": "out of spite",
+      "pos": "PHRASE",
+      "translation": "por despecho, por pura terquedad",
+      "example": "If there was a way to stay alive, he'd have found it out of spite."
+    },
+    {
       "word": "outer",
       "pos": "ADJ",
       "translation": "exterior",
@@ -12187,6 +12391,12 @@
       "example": "Now his uncle looked at the nearest of them — a young beech, bent towards Rowan's shoulder like someone trying to overhear a secret — and set down his mug."
     },
     {
+      "word": "overnight",
+      "pos": "ADV",
+      "translation": "de la noche a la mañana",
+      "example": "The snow went from the hill almost overnight, and the frozen lake groaned and boomed and cracked for three days and nights, and then one morning it was water again, grey and rippling and full of sky."
+    },
+    {
       "word": "owl",
       "pos": "NOUN",
       "translation": "el búho, la lechuza",
@@ -12209,6 +12419,12 @@
       "pos": "NOUN",
       "translation": "el dueño, el propietario",
       "example": "Some are clear, and some are muddy, and some are so choked with fear and noise that their owners spend years unable to find the bottom."
+    },
+    {
+      "word": "ox",
+      "pos": "NOUN",
+      "translation": "el buey",
+      "example": "Not when the old ox died."
     },
     {
       "word": "oxen",
@@ -12437,6 +12653,12 @@
       "pos": "ADJ",
       "translation": "paciente",
       "example": "If you are patient enough to notice, you will always be one step ahead."
+    },
+    {
+      "word": "patiently",
+      "pos": "ADV",
+      "translation": "pacientemente",
+      "example": "The great thorns drew apart for them without a word being spoken — wide, this time, wide enough for a wagon and four oxen — and stayed open, patiently, while Bram stood on the causeway with his hands on Rowan's shoulders and looked at him for a long, long time."
     },
     {
       "word": "pattern",
@@ -12763,6 +12985,12 @@
       "example": "You will place both hands flat against the Stone."
     },
     {
+      "word": "plain",
+      "pos": "ADJ",
+      "translation": "sencillo, liso",
+      "example": "The notebook was small and plain, bound in black leather worn shiny at the corners."
+    },
+    {
       "word": "plainly",
       "pos": "ADV",
       "translation": "claramente, sin rodeos",
@@ -12875,6 +13103,12 @@
       "pos": "NOUN",
       "translation": "el bolsillo",
       "example": "She took a stub of charcoal from her pocket — the kind the archivists used for marking shelves — and a scrap of thin paper from the desk, laid the paper over the blot, and began very gently to rub the charcoal across it."
+    },
+    {
+      "word": "poetry",
+      "pos": "NOUN",
+      "translation": "la poesía",
+      "example": "Always thought it was poetry."
     },
     {
       "word": "point",
@@ -13175,6 +13409,12 @@
       "pos": "NOUN",
       "translation": "el premio",
       "example": "There's folk in this world who go looking for unusual Wells, and they're not looking to give them prizes.\""
+    },
+    {
+      "word": "probably",
+      "pos": "ADV",
+      "translation": "probablemente",
+      "example": "Old Moss said they would lean that way now for as long as they lived, and probably longer."
     },
     {
       "word": "probationary",
@@ -14388,6 +14628,12 @@
       "example": "He had turned fourteen at midsummer: lean where his uncle was broad, with a shock of dark hair that defeated every comb and hands already roughened by years of rope and bark."
     },
     {
+      "word": "roughly",
+      "pos": "ADV",
+      "translation": "bruscamente, con rudeza",
+      "example": "Bram wiped his face roughly with his sleeve."
+    },
+    {
       "word": "round",
       "pos": "ADJ",
       "translation": "redondo",
@@ -15264,6 +15510,18 @@
       "example": "She showed me a terrace full of tomato plants, a pigeon who thought he was a king, and a place on top of a high wall where you could see the two rivers, the Rhône and the Saône, shining in the dark."
     },
     {
+      "word": "shiny",
+      "pos": "ADJ",
+      "translation": "brillante, lustroso",
+      "example": "The notebook was small and plain, bound in black leather worn shiny at the corners."
+    },
+    {
+      "word": "ship",
+      "pos": "NOUN",
+      "translation": "el barco, el navío",
+      "example": "Instead he walked along the shore, slowly, under the leaning trees, until he came to the place where the roots of the Elderwood still stood up out of the shallows like the ribs of some vast sunken ship."
+    },
+    {
       "word": "shirt",
       "pos": "NOUN",
       "translation": "la camisa",
@@ -15426,6 +15684,12 @@
       "example": "Rowan Ashby felt it before he heard it: a faint shudder through the soles of his boots, the kind of tremor that runs ahead of a fall the way a rumour runs ahead of a storm."
     },
     {
+      "word": "shudder",
+      "pos": "VERB",
+      "translation": "estremecerse («shuddering breath»: respiración entrecortada)",
+      "example": "He drew a long, shuddering breath."
+    },
+    {
       "word": "shuffle",
       "pos": "VERB",
       "translation": "arrastrar los pies",
@@ -15544,6 +15808,12 @@
       "pos": "NOUN",
       "translation": "la firma",
       "example": "It wants only one more signature."
+    },
+    {
+      "word": "Silas",
+      "pos": "PROPN",
+      "translation": "Silas (nombre)",
+      "example": "Silas Varrow."
     },
     {
       "word": "silence",
@@ -15852,6 +16122,12 @@
       "example": "The stone slid back into place with a soft, final scrape."
     },
     {
+      "word": "slide down",
+      "pos": "PHRASE",
+      "translation": "resbalar hacia abajo",
+      "example": "Someone had found him a new pair of spectacles; they were too big for him, and kept sliding down his nose."
+    },
+    {
       "word": "slide out",
       "pos": "PHRASE",
       "translation": "deslizarse (fuera)",
@@ -15928,6 +16204,12 @@
       "pos": "NOUN",
       "translation": "la pendiente, la ladera",
       "example": "In the middle of the morning the road climbed a long wooded slope, and at the top the whole line of wagons came to a halt."
+    },
+    {
+      "word": "sloping",
+      "pos": "ADJ",
+      "translation": "inclinado (letra)",
+      "example": "A thin, sloping, spidery hand, in ink that had gone brown with age."
     },
     {
       "word": "slow",
@@ -16132,6 +16414,12 @@
       "pos": "VERB",
       "translation": "empapar («soaked»: empapado)",
       "example": "Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters."
+    },
+    {
+      "word": "soaked to the skin",
+      "pos": "PHRASE",
+      "translation": "calado hasta los huesos",
+      "example": "How, one winter night twenty years ago, she had come to the Warden's door in the small hours, soaked to the skin and shaking, with a young woodcutter from Brackenford at her side, and told her that three men had tried to take her on the causeway."
     },
     {
       "word": "soap",
@@ -16384,6 +16672,12 @@
       "pos": "NOUN",
       "translation": "la araña",
       "example": "It had once held the Academy's offices — the bursar, the clerks, the secretary who wrote the letters home — but the offices had moved down into the main building long ago, and now the tower held nothing but dust and broken chairs and a great many spiders."
+    },
+    {
+      "word": "spidery",
+      "pos": "ADJ",
+      "translation": "de trazo fino y anguloso (letra), de patas de araña",
+      "example": "A thin, sloping, spidery hand, in ink that had gone brown with age."
     },
     {
       "word": "spill",
@@ -16674,6 +16968,12 @@
       "example": "When he lifted the leather, his heart started to pound."
     },
     {
+      "word": "start off",
+      "pos": "PHRASE",
+      "translation": "ponerse en camino",
+      "example": "Then he turned away, quickly, and started off along the causeway with his long, steady woodcutter's stride, and he did not look back until he was almost at the far shore."
+    },
+    {
       "word": "startlingly",
       "pos": "ADV",
       "translation": "sorprendentemente",
@@ -16732,6 +17032,12 @@
       "pos": "ADJ",
       "translation": "empinado, escarpado",
       "example": "At the edge of the ice, where the frozen reeds gave way to a steep bank of snow and roots, they lay flat on their stomachs in the shadows and looked up into the Elderwood."
+    },
+    {
+      "word": "steeple",
+      "pos": "VERB",
+      "translation": "juntar en punta («fingers steepled»: con las yemas de los dedos unidas)",
+      "example": "She told it quietly, sitting in her high-backed chair by the fire, with her long fingers steepled in front of her."
     },
     {
       "word": "steeply",
@@ -16956,6 +17262,12 @@
       "example": "Then Godfrey looked him straight in the eyes."
     },
     {
+      "word": "straight away",
+      "pos": "PHRASE",
+      "translation": "enseguida, de inmediato",
+      "example": "He did not go back up the hill straight away."
+    },
+    {
       "word": "straighten",
       "pos": "VERB",
       "translation": "enderezar(se)",
@@ -17064,6 +17376,12 @@
       "example": "It was not, strictly speaking, a trial at all — nobody failed it, and nobody was sent home."
     },
     {
+      "word": "stride",
+      "pos": "NOUN",
+      "translation": "la zancada, el paso largo",
+      "example": "Then he turned away, quickly, and started off along the causeway with his long, steady woodcutter's stride, and he did not look back until he was almost at the far shore."
+    },
+    {
       "word": "strike",
       "pos": "NOUN",
       "translation": "el golpe",
@@ -17128,6 +17446,12 @@
       "pos": "NOUN",
       "translation": "el cabo, el resto («a stub of candle»: un cabo de vela)",
       "example": "On each desk, while their eyes had been closed, someone had placed four small objects in a row: a shallow dish of water, a stub of candle, a smooth river pebble, and a single white feather."
+    },
+    {
+      "word": "stubborn",
+      "pos": "ADJ",
+      "translation": "terco, testarudo",
+      "example": "Stubbornest man I ever knew, mind."
     },
     {
       "word": "student",
@@ -17242,6 +17566,12 @@
       "pos": "NOUN",
       "translation": "el girasol",
       "example": "Every one of them, all down the row, had turned in its tub — slowly, the way a sunflower follows the sun across a field — and was leaning, very slightly, towards him."
+    },
+    {
+      "word": "sunken",
+      "pos": "ADJ",
+      "translation": "hundido",
+      "example": "Instead he walked along the shore, slowly, under the leaning trees, until he came to the place where the roots of the Elderwood still stood up out of the shallows like the ribs of some vast sunken ship."
     },
     {
       "word": "sunny",
@@ -17591,6 +17921,12 @@
       "example": "In the grey morning light, Rowan could see the line of the shore quite clearly from up here: the torn-up bank, the black tangle of roots thrust up through the ice, and the trees beyond, every one of them still bowed towards the hill."
     },
     {
+      "word": "teardrop",
+      "pos": "NOUN",
+      "translation": "la lágrima (forma de gota)",
+      "example": "A single small, neat teardrop, filled in solid with ink."
+    },
+    {
       "word": "tell",
       "pos": "VERB",
       "translation": "decir, contar",
@@ -17625,6 +17961,12 @@
       "pos": "ADJ",
       "translation": "décimo",
       "example": "\"The archive closes at the tenth bell,\" she said, quite clearly, to the empty room."
+    },
+    {
+      "word": "term",
+      "pos": "NOUN",
+      "translation": "el trimestre",
+      "example": "The Writ of Uncertain Marking was declared fulfilled at the end of the spring term, by order of the Warden, in a short ceremony in her study that consisted entirely of Maren Vell writing one line in the great green ledger and blotting it carefully."
     },
     {
       "word": "terrace",
@@ -17723,6 +18065,12 @@
       "example": "The village sat where the forest thinned beside a slow brown river: a huddle of timber houses with roofs of moss-green thatch, a mill, a forge, and a market square that was crowded twice a week and deserted the rest of the time."
     },
     {
+      "word": "Thaw",
+      "pos": "PROPN",
+      "translation": "Thaw («deshielo»; «Thaw-Month»: el Mes del Deshielo, fin del invierno)",
+      "example": "The roads opened at the end of Thaw-Month."
+    },
+    {
       "word": "the",
       "pos": "DET",
       "translation": "el, la, los, las",
@@ -17793,6 +18141,12 @@
       "pos": "ADJ",
       "translation": "grueso, espeso",
       "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
+    },
+    {
+      "word": "thickly",
+      "pos": "ADV",
+      "translation": "con la voz tomada",
+      "example": "\"Alive,\" said Bram, thickly."
     },
     {
       "word": "thickness",
@@ -18407,6 +18761,12 @@
       "example": "He told Léa about Jeanne, about the silk workers of the Croix-Rousse, about his job as a train driver forty years ago."
     },
     {
+      "word": "train",
+      "pos": "VERB",
+      "translation": "formar, instruir",
+      "example": "How she had been the brightest student of her year, and then the best clerk Maren had ever trained."
+    },
+    {
       "word": "trap",
       "pos": "VERB",
       "translation": "atrapar, aprisionar",
@@ -18485,6 +18845,12 @@
       "example": "Rowan saw columns of names in a neat, cramped hand, and beside each a single symbol: a wavy line, a triangle, a spiral, a small circle."
     },
     {
+      "word": "triumph",
+      "pos": "NOUN",
+      "translation": "el triunfo",
+      "example": "He had thought he would feel something — anger, or triumph, or pity."
+    },
+    {
       "word": "trouble",
       "pos": "NOUN",
       "translation": "el problema; la molestia («worth the trouble»: que vale la pena)",
@@ -18513,6 +18879,12 @@
       "pos": "ADJ",
       "translation": "verdadero («come true»: hacerse realidad)",
       "example": "He understood, at that moment, that her words had finally come true."
+    },
+    {
+      "word": "truly",
+      "pos": "ADV",
+      "translation": "de verdad, sinceramente",
+      "example": "I truly am."
     },
     {
       "word": "trunk",
@@ -18567,6 +18939,12 @@
       "pos": "NOUN",
       "translation": "el tirón",
       "example": "It was exactly as it had been on the ice — that cold, sickening tug deep in his chest, as though a fish-hook had caught behind his ribs — and every nerve in his body screamed at him to pull away, to fight, to run."
+    },
+    {
+      "word": "tug",
+      "pos": "VERB",
+      "translation": "tirar («tugged at the corner of his mouth»: le tiró de la comisura de los labios)",
+      "example": "Something that was almost a smile tugged at the corner of his mouth."
     },
     {
       "word": "tumble",
@@ -18767,6 +19145,12 @@
       "example": "She looks under the table. — Mira debajo de la mesa."
     },
     {
+      "word": "Underbrook",
+      "pos": "PROPN",
+      "translation": "Underbrook (lugar desconocido; «bajo el arroyo»)",
+      "example": "Held at Underbrook."
+    },
+    {
       "word": "underline",
       "pos": "VERB",
       "translation": "subrayar",
@@ -18780,6 +19164,12 @@
     },
     {
       "word": "underneath",
+      "pos": "ADP",
+      "translation": "debajo, por debajo",
+      "example": "And for a moment — only a moment, so faint and so brief that afterwards he could never be sure he had not imagined it — Rowan thought he felt something else, very far away, underneath it."
+    },
+    {
+      "word": "underneath",
       "pos": "ADV",
       "translation": "debajo",
       "example": "And underneath, in a slanting, rapid hand, a single line:"
@@ -18789,6 +19179,12 @@
       "pos": "VERB",
       "translation": "entender, comprender",
       "example": "Edwin did not understand what he meant, but he felt a cold shiver run down his spine."
+    },
+    {
+      "word": "undrawn",
+      "pos": "ADJ",
+      "translation": "no extraída (su Pozo no ha sido vaciado)",
+      "example": "Undrawn."
     },
     {
       "word": "unease",
@@ -18917,6 +19313,12 @@
       "example": "He heard them the day Mother Rook finally let him out of the infirmary and he walked, slowly and a little unsteadily, down to supper in the Great Hall."
     },
     {
+      "word": "unsteady",
+      "pos": "ADJ",
+      "translation": "tembloroso, vacilante",
+      "example": "At the writing desk, Maren Vell drew a long, unsteady breath."
+    },
+    {
       "word": "untidy",
       "pos": "ADJ",
       "translation": "desordenado, despeinado",
@@ -18999,6 +19401,12 @@
       "pos": "ADJ",
       "translation": "superior, de arriba",
       "example": "The houses were built of timber and grey stone, three and four storeys high, their upper floors leaning out over narrow streets as though gossiping with their neighbours across the way."
+    },
+    {
+      "word": "upright",
+      "pos": "ADV",
+      "translation": "erguido, muy derecho",
+      "example": "This time, there was nobody else in the round room at the top of the tower but the Warden herself, and Maren Vell, sitting very upright at the writing desk by the window with her ink-stained hands folded in her lap."
     },
     {
       "word": "upside",
@@ -19094,6 +19502,12 @@
       "pos": "NOUN",
       "translation": "la variación, la variante",
       "example": "He had asked it before, in different ways and at different ages, and the answer had always been some variation on the same silence."
+    },
+    {
+      "word": "Varrow",
+      "pos": "PROPN",
+      "translation": "Varrow (apellido)",
+      "example": "\"Varrow,\" he said at last."
     },
     {
       "word": "vast",
@@ -19550,6 +19964,12 @@
       "pos": "NOUN",
       "translation": "la semana",
       "example": "Last week, my brother saw one of them pay for his drinks with a silver coin."
+    },
+    {
+      "word": "weep",
+      "pos": "VERB",
+      "translation": "llorar",
+      "example": "Then he put his big hands over his face, and his broad shoulders began to shake, and Rowan realised, with a shock like cold water, that his uncle was weeping."
     },
     {
       "word": "weight",
@@ -20204,6 +20624,12 @@
       "pos": "ADJ",
       "translation": "que vale («worth fighting»: que merece la pena librar)",
       "example": "He is the man who knows which battles are worth fighting."
+    },
+    {
+      "word": "worth the name",
+      "pos": "PHRASE",
+      "translation": "digno de ese nombre",
+      "example": "Never a Well worth the name."
     },
     {
       "word": "would",

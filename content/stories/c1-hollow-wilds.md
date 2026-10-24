@@ -2031,3 +2031,176 @@ The hedge considered this. Then, with a long, low, reluctant creak, the thorns w
 They released the cloaked men into the hands of Hale and the watch. They released Grey, who sagged to his knees in the snow and stayed there. And then they drew themselves back into the great black wall of the hedge, branch by branch, until it stood once more exactly as it had stood for three hundred years.
 Or almost exactly.
 In the morning, when the storm had blown itself out and the sun came up over the frozen lake, the students of Thornhall came down the hill in their hundreds to look. And all along the hedge, from one end of the shore to the other, in the deepest dead of winter, the blackthorn was in flower.
+
+# Underbrook
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_1-1792828020940.mp3
+The Warden did not wait for the roads to open.
+She called the whole Academy into the Great Hall on the morning after the storm, while the blackthorn was still flowering white along the shore and the students who had gone down to look at it were still stamping the snow off their boots in the doorway. Every student. Every Master and Mistress. The cooks and the porters and the grooms and the girls who scrubbed the floors. Old Moss, in his shawl, at the back. Bram, in his patched coat, standing beside him with his arms folded. When they were all there, and the doors were closed, and the great hall had fallen so quiet that Rowan could hear the snow sliding off the roof, Aldith Merrow rose from her high carved chair, and walked to the front of the dais, and told them the truth.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_2-1792828026315.mp3
+She told them about Tobin Grey. She told them about the letters home, and the lines in the Departures books, and the names that had been sold, one every year or two, for longer than most of the students in the hall had been alive. She told them that Bennet Croft had not gone home, and that she had known it, and had said so anyway.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_3-1792828039029.mp3
+"I lied to you," she said. Her dry, quiet voice carried to every corner of the hall. "I told myself that it was to keep you calm, and to keep whoever was doing this from knowing that I was looking for them. Both of those things were true. But I have kept a great many secrets on this hill, for a great many years, and I have always told myself that I was keeping them for good reasons. And while I was keeping them, a man I had trusted for thirty years was walking your brothers and sisters out through the hedge in the dark." She paused. "I will not ask your forgiveness. I do not think I have earned it. I will only tell you this: there will be no more secrets in this hall about who has gone, and where. Not while I am Warden."
+Nobody spoke. Then, at the end of the Earth table, Bennet Croft stood up — still thin and pale from the infirmary, with a blanket round his shoulders — and began, slowly, to clap.
+It was a long time before anyone joined him. But in the end, they all did.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_4-1792828051007.mp3
+They kept Grey in the cellar under the gatehouse, behind a door of iron-bound oak, with Hale's men outside it day and night. He would be sent south when the roads opened, the Warden said, to answer for what he had done. Until then, nobody was to speak with him.
+Rowan went anyway.
+He did not plan it. He was walking back from the glasshouses one evening, a week after the storm, and found himself at the gatehouse instead, and the guard on the door — a fifth-year Fire boy called Dunstan, who had been one of the loudest in the Thorn Ring chanting Blank — looked at him for a long moment, and then looked away, and stepped aside.
+Grey was sitting on a narrow cot with a blanket round him. He looked smaller than ever. Someone had found him a new pair of spectacles; they were too big for him, and kept sliding down his nose.
+"Ashby," he said. He did not seem surprised.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_5-1792828065163.mp3
+"The man on the causeway," said Rowan. "The one with the rod. What's his name?"
+Grey looked at him for a while.
+"Varrow," he said at last. "Silas Varrow. Or that is the name he gave me, thirty years ago, and I have never heard him called anything else. He finds the deep ones, and he carries them away, and what happens after that, I was always careful not to ask." He pushed his spectacles back up. "He will not forget you, you know. You are the first thing in thirty years that he has failed to bring home."
+"And my father?"
+Grey was silent for a long time.
+"Your father was never on any list of mine," he said finally. "Blackroot has no interest in men without Wells. I don't know what became of him. I am sorry. I truly am." He looked up. "It is the one thing I have not lied to you about, Ashby. I would like you to believe that, at least."
+Rowan turned and left without answering. He was not sure, even afterwards, whether he believed it or not.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_6-1792828076849.mp3
+The Warden sent for him three days later. This time, there was nobody else in the round room at the top of the tower but the Warden herself, and Maren Vell, sitting very upright at the writing desk by the window with her ink-stained hands folded in her lap. On the desk in front of her lay Grey's black notebook.
+"Sit down, Mr Ashby," said the Warden. "I have kept you waiting long enough."
+She told him about his mother.
+She told it quietly, sitting in her high-backed chair by the fire, with her long fingers steepled in front of her. How a girl from Mossbridge had come up the hill at fourteen and set the Stone ringing with two voices at once. How she had been the brightest student of her year, and then the best clerk Maren had ever trained. How, one winter night twenty years ago, she had come to the Warden's door in the small hours, soaked to the skin and shaking, with a young woodcutter from Brackenford at her side, and told her that three men had tried to take her on the causeway.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_7-1792828088377.mp3
+"She would not tell me why," said the Warden. "She said she had found something, and that she had already told the one person she thought she could trust with it, and that she had been wrong. She would not tell me who." Her mouth tightened. "I understand now. She did not know whether I was part of it. She could not afford to be wrong twice."
+"So you sealed her record," said Rowan.
+"I sealed her record. I scrubbed both her Markings out of every book on this hill with my own hands, and I wrote withdrawn, and I made sure that no list, no ledger, no Departures book in the Wilds would ever lead anyone to Elinor Reyne again. I gave her money, and a horse, and a road out of the Wilds that nobody watched. And I never heard from her again." She looked at the fire. "I told myself it was the best I could do. Perhaps it was. But I let her go out into the dark alone, and I never once asked myself who she had been running from."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_8-1792828105524.mp3
+"She kept my secrets once," said Rowan quietly.
+The Warden's eyes came back to him. Something moved in her face.
+"Is that what she wrote?"
+"Yes."
+For a long moment Aldith Merrow said nothing at all. Then she bowed her head, very slightly, like someone receiving a gift they did not think they deserved.
+At the writing desk, Maren Vell drew a long, unsteady breath.
+"I warned her," she said. It was the first time she had spoken. Her voice was hoarse. "In the vault. That night, when you and the Fenwick girl came to find her name — you heard me say it. I did warn you. She came to me first, you see, before she went to Grey. With the two pieces of paper. And I told her to leave it alone. I told her the Academy had its ways, and that clerks who went looking for trouble in the Departures books generally found it." She looked down at her hands. "I thought I was protecting her. So she went to the secretary instead. Because he was kind. Because everyone always went to Tobin."
+She pushed the black notebook across the desk towards Rowan.
+"You should be the one to see it," she said. "Page forty-one."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_9-1792828116623.mp3
+The notebook was small and plain, bound in black leather worn shiny at the corners. Inside, page after page, in Grey's neat, round, kindly hand, there were names.
+Rowan had seen lists like it before — in Maren's notebook, on the night she came to the cabin, and in the student rolls in the vault. Each name had its village beside it, and its year, and the small marks of its Marking: a wavy line for Water, a spiral for Air, a triangle for Fire, a little circle for Earth. Here and there, two marks side by side.
+But beside every name in this book there was another mark as well. A tiny black root, drawn with a few quick strokes of the pen.
+And beside most of the roots, there was a drop. A single small, neat teardrop, filled in solid with ink.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_10-1792828128805.mp3
+Rowan did not need anyone to tell him what the drops meant. He turned the pages slowly, and his hands grew colder and colder. A girl from the northern passes, twenty-two years ago: root, drop. A boy from the western coast: root, drop. Twins from the Cinder Marches, both Fire: root, drop, root, drop. Page after page after page of them. Children who had gone home.
+On page forty-one, near the bottom, there was a line written in a different hand. Not Grey's. A thin, sloping, spidery hand, in ink that had gone brown with age.
+REYNE, Elinor (Ashby). Mossbridge. Water — Air.
+There was a root beside it.
+There was no drop.
+And under it, in the same spidery hand, in smaller letters, someone had added two more lines.
+Taken, eleven winters past. Held at Underbrook.
+Living. Undrawn.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_11-1792828145901.mp3
+Rowan did not remember, afterwards, how long he sat there.
+He was aware of the fire crackling, and the snow sliding off the tower roof, and the Warden and Maren Vell watching him in silence. He was aware that his hands were shaking, and that he had read the two lines perhaps twenty times, and that each time the words were exactly the same.
+Living.
+Undrawn.
+"Eleven winters," he heard himself say. "Eleven years. They've had her for eleven years, and they haven't—" His voice cracked. "Why haven't they?"
+"I do not know," said the Warden quietly. "I have read that line a hundred times since Corvin put this book in my hands, and I do not know. Perhaps they cannot. A Multiple's Well is deeper than most, and stranger. Perhaps they are keeping her for some purpose of their own." She paused. "Or perhaps, Mr Ashby, your mother learned to close her Well long before Ottoline Crane ever taught you how. She was always very clever."
+Rowan thought of a small hard fist of green in the dark, and a hook scraping across it and finding nothing to hold. Eleven years. Eleven years of holding it shut.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_12-1792828162869.mp3
+"Where is Underbrook?"
+The Warden and Maren exchanged a look.
+"That is the other thing I do not know," said the Warden. "There is no town of that name in the Wilds. Not on any map in this tower, nor any book in Maren's vault, nor in the memory of anyone I have asked. Grey swears he has never heard of it. For once, I am inclined to believe him." She leaned forward. "But I will find it. I give you my word. And when I do—"
+"I'm going," said Rowan.
+"When I do," the Warden went on, as though he had not spoken, "you will be told. And you will not go. Not this year. Not until you can do what you did at the hedge without bleeding from the nose afterwards. Not until Silas Varrow cannot hook you in a single breath and drag you onto the ice." Her bright black eyes held his. "Your mother has held on for eleven years, Mr Ashby. She did it so that you could grow up. Do not throw that away by hurrying."
+Do not come looking for us. Not yet. Grow first.
+Rowan looked down at the page for a long time. Then, very carefully, he closed the notebook, and slid it back across the desk.
+"Not yet," he said.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_13-1792828180525.mp3
+He told Bram that night, in the glasshouse.
+Bram listened to all of it without a word, sitting on his upturned bucket by the stove. When Rowan had finished, he sat for a long time, looking at nothing. Then he put his big hands over his face, and his broad shoulders began to shake, and Rowan realised, with a shock like cold water, that his uncle was weeping. He had never once seen Bram cry. Not when the old ox died. Not when the river took the bridge. Not on the morning Rowan left.
+Rowan went and sat on the floor beside him, with his back against his knee, and said nothing. After a while, Bram's hand came down onto his shoulder.
+"Alive," said Bram, thickly. "Your mother. Eleven years." He drew a long, shuddering breath. "And not a word of Cade."
+"Grey says he was never on any list."
+"Aye." Bram wiped his face roughly with his sleeve. "Well. Cade was never on anybody's list, his whole life. Never a mark on him. Never a Well worth the name." Something that was almost a smile tugged at the corner of his mouth. "Stubbornest man I ever knew, mind. Stubborner than me. If there was a way to stay alive, he'd have found it out of spite."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_14-1792828198086.mp3
+From the far end of the glasshouse, out of the darkness, came the dry, rasping sound of Old Moss clearing his throat.
+"Underbrook," said Moss.
+They both turned. The old man was standing at the end of the aisle with his lantern, his one good eye glinting.
+"Underbrook," he said again, slowly. "There's a line in the old books. In the Root Books. Down in the cellar. I never knew what it meant." He shuffled closer, frowning, as though he were trying to remember the words of a song. "Where the bright water meets the dark, and the dark runs under the brook, there the first Wood-wardens laid their roots." He scratched his head. "Always thought it was poetry. Most of it is."
+Rowan stared at him. "Where is it?"
+"Couldn't tell you, boy. I'm a gardener, not a scholar." Moss lowered himself onto his stool with a grunt. "But I'll tell you who could. Whoever can read the rest of those books. And there's only one person on this hill I can think of who's got the right to." He fixed Rowan with his good eye. "So I reckon you'd better start learning the old hand. Tomorrow. First thing."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_15-1792828215883.mp3
+The roads opened at the end of Thaw-Month.
+The snow went from the hill almost overnight, and the frozen lake groaned and boomed and cracked for three days and nights, and then one morning it was water again, grey and rippling and full of sky. The trees along the far shore were still leaning towards Thornhall. Old Moss said they would lean that way now for as long as they lived, and probably longer.
+They took Tobin Grey south on the first day the causeway was clear, in a closed wagon, with Master Hale riding beside it. Rowan watched it go from the top of the hill. He had thought he would feel something — anger, or triumph, or pity. In the end he felt only tired, and a little sick, and glad that it was over.
+The Writ of Uncertain Marking was declared fulfilled at the end of the spring term, by order of the Warden, in a short ceremony in her study that consisted entirely of Maren Vell writing one line in the great green ledger and blotting it carefully. Rowan never did have to stand in front of the Stone again. Beside his name, in the column where the other students' Markings were written, there was a small, careful drawing of a leaf.
+It was the only one in the book.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_16-1792828229222.mp3
+Bram left on a bright, blowing morning at the start of Blossom-Month.
+He would not take a wagon. He had walked up, he said, and he would walk down, and the Academy could keep its oxen for people who needed them. He had his staff, and his axe, and a sack of bread and cheese from the kitchens that the cook had pressed on him with tears in her eyes, and in the inside pocket of his coat, wrapped in oilcloth, a copy of page forty-one that Maren Vell had made for him in her own neat hand.
+They said goodbye at the hedge.
+It was still flowering. It had not stopped flowering since the night of the storm, though by rights every blossom should have dropped weeks ago, and the whole length of the shore smelled of honey. The great thorns drew apart for them without a word being spoken — wide, this time, wide enough for a wagon and four oxen — and stayed open, patiently, while Bram stood on the causeway with his hands on Rowan's shoulders and looked at him for a long, long time.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_17-1792828240013.mp3
+"You've grown," he said.
+"It's only been half a year."
+"Aye. Well." Bram's beard twitched. "Some things grow slow. And then all at once."
+He pulled Rowan into a hug that lifted him clean off the ground, and held him there, and set him down again. Then he turned away, quickly, and started off along the causeway with his long, steady woodcutter's stride, and he did not look back until he was almost at the far shore. Then he stopped, and turned, and raised his staff once over his head, high.
+Rowan raised his hand.
+Then Bram was gone into the trees, and the thorns drew softly closed, and Rowan was alone on the shore with the blackthorn flowering over his head and the wind coming in off the water.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_18-1792828251480.mp3
+He did not go back up the hill straight away.
+Instead he walked along the shore, slowly, under the leaning trees, until he came to the place where the roots of the Elderwood still stood up out of the shallows like the ribs of some vast sunken ship. He sat down on one of them, with his boots almost touching the water, and took out the two things he always carried now: his father's knife, and his mother's letter.
+He did not read the letter. He knew it by heart. He only held it, and looked out across the bright, moving water to the dark line of the Elderwood on the far side, where somewhere — deeper than anyone had walked in three hundred years, under trees that remembered things no living person did — there might be a place where bright water met dark, and the dark ran under the brook.
+He listened.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-hollow-wilds/chapter_15.page_19-1792828265578.mp3
+The Elderwood was there, as it always was now, at the very edge of hearing. Vast, and slow, and patient. Like the breathing of someone asleep in the next room. And for a moment — only a moment, so faint and so brief that afterwards he could never be sure he had not imagined it — Rowan thought he felt something else, very far away, underneath it. Something small and stubborn and alive, holding on in the dark the way a seed holds on through winter.
+Like a fist, closed tight.
+Not yet, he told it, though he did not know whether anything could hear. But I'm coming. I'm growing as fast as I can.
+Then he put the letter away, and stood up, and turned his back on the lake, and walked up the hill towards Thornhall, where Old Moss was waiting in the fifth glasshouse with a book that nobody had read in three hundred years, and a lamp, and a great deal of patience.
+Behind him, all along the shore, the trees leaned after him as he went.
