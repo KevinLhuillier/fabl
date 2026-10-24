@@ -1,4 +1,4 @@
-# Fabl
+# Taleway
 
 Learn English through interactive mini-stories (CEFR A1 → C2).
 
@@ -154,7 +154,7 @@ npm run admin    # → http://localhost:5180
 
 A local web app, styled like the mobile app, to manage stories without touching the Markdown.
 
-**Access**: sign in with a Fabl account (the same as in the mobile app) that is an **admin**.
+**Access**: sign in with a Taleway account (the same as in the mobile app) that is an **admin**.
 Grant it once (the account must exist; `--revoke` takes it back):
 
 ```bash

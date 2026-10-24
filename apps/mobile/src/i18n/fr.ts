@@ -187,7 +187,7 @@ export const fr = {
   },
   username: {
     title: 'Choisis ton pseudo',
-    hint: 'C’est ton nom dans Fabl. Personne d’autre ne pourra le prendre.',
+    hint: 'C’est ton nom dans Taleway. Personne d’autre ne pourra le prendre.',
   },
   forgotPassword: {
     title: 'Mot de passe oublié',

@@ -1,5 +1,5 @@
 /**
- * Fabl admin: local web app to write and publish stories.
+ * Taleway admin: local web app to write and publish stories.
  *
  *   npm run admin   →   http://localhost:5180
  *
@@ -36,5 +36,5 @@ const vite = await createVite({
 });
 
 server.listen(PORT, HOST, () => {
-  console.log(`\n  📚 Fabl admin  →  http://localhost:${PORT}\n`);
+  console.log(`\n  📚 Taleway admin  →  http://localhost:${PORT}\n`);
 });

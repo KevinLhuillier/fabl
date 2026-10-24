@@ -5,7 +5,7 @@ import type { AdminUser, ServerStatus } from '../../shared/api';
 import { Button, Field } from '../components/ui';
 import { api } from '../lib/api';
 
-/** Admin sign-in, with the same Fabl account as in the mobile app. */
+/** Admin sign-in, with the same Taleway account as in the mobile app. */
 export function SignInPage({
   server,
   onSignedIn,
@@ -40,9 +40,9 @@ export function SignInPage({
           <BookOpen size={32} />
         </span>
         <h1 className="t-display" style={{ color: 'var(--primary)' }}>
-          Fabl Admin
+          Taleway Admin
         </h1>
-        <p className="c-secondary">Connecte-toi avec un compte Fabl administrateur.</p>
+        <p className="c-secondary">Connecte-toi avec un compte Taleway administrateur.</p>
       </div>
 
       <form className="card stack" onSubmit={submit}>

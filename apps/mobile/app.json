@@ -1,16 +1,19 @@
 {
   "expo": {
-    "name": "Fabl",
-    "slug": "fabl",
+    "name": "Taleway",
+    "slug": "taleway",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "fabl",
+    "scheme": "taleway",
     "userInterfaceStyle": "light",
     "ios": {
+      "bundleIdentifier": "com.taleway.app",
       "icon": "./assets/expo.icon"
     },
     "android": {
+      "package": "com.taleway.app",
+      "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#6C4BF4",
         "foregroundImage": "./assets/images/android-icon-foreground.png",

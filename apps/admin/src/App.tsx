@@ -43,7 +43,7 @@ export function App() {
             <span className="brand-mark">
               <BookOpen size={20} />
             </span>
-            Fabl
+            Taleway
           </a>
           <Badge tone="primary">Admin</Badge>
           <span className="spacer" />

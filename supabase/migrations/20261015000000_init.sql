@@ -1,5 +1,5 @@
 -- =============================================================================
--- Fabl — initial schema
+-- Taleway — initial schema
 --
 -- Content (stories, passages, tokens, lemmas, translations):
 --   public read, written only by the publish script (service_role bypasses RLS).

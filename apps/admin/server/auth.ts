@@ -1,5 +1,5 @@
 /**
- * Admin access: sign in with a Fabl account (Supabase Auth, same accounts as
+ * Admin access: sign in with a Taleway account (Supabase Auth, same accounts as
  * the mobile app) that has `app_metadata.admin = true`.
  *
  * The browser never sees Supabase: the server signs in on its behalf and keeps

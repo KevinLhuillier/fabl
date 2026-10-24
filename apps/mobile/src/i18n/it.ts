@@ -181,7 +181,7 @@ export const it: Messages = {
   },
   username: {
     title: 'Scegli il tuo nome utente',
-    hint: 'È il tuo nome su Fabl. Nessun altro potrà usarlo.',
+    hint: 'È il tuo nome su Taleway. Nessun altro potrà usarlo.',
   },
   forgotPassword: {
     title: 'Password dimenticata',

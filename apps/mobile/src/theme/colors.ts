@@ -1,5 +1,5 @@
 /**
- * Fabl palette. Each "solid" color comes with a darker `shade` used for the
+ * Taleway palette. Each "solid" color comes with a darker `shade` used for the
  * 3D bottom edge of buttons/cards (the pressed effect moves the face down onto it).
  */
 export const palette = {

@@ -247,7 +247,7 @@ otp_expiry = 3600
 # Forgotten password: the app asks for the code ({{ .Token }}), not a link.
 # On the hosted project, paste the same content in Authentication > Email Templates > Reset Password.
 [auth.email.template.recovery]
-subject = "Ton code Fabl pour changer de mot de passe"
+subject = "Ton code Taleway pour changer de mot de passe"
 content_path = "./supabase/templates/recovery.html"
 
 # Uncomment to customize email template
@@ -276,7 +276,7 @@ max_frequency = "5s"
 # 4152127777 = "123456"
 
 # Configure logged in session timeouts.
-# Fabl keeps users signed in for good: leave both unset (hosted: Authentication > Sessions).
+# Taleway keeps users signed in for good: leave both unset (hosted: Authentication > Sessions).
 # [auth.sessions]
 # Force log out after the specified duration.
 # timebox = "24h"

@@ -78,7 +78,7 @@ export default function SignIn() {
           <Animated.View entering={enter.up()} style={styles.hero}>
             <IconBubble icon={BookOpen} />
             <Text variant="display" color={colors.primary}>
-              Fabl
+              Taleway
             </Text>
             <Text align="center" color={colors.textSecondary}>
               {t.signIn.tagline}

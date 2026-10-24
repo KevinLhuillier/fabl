@@ -1,5 +1,5 @@
 /**
- * Gives (or takes back) admin access to a Fabl account.
+ * Gives (or takes back) admin access to a Taleway account.
  *
  *   npm run grant-admin -- someone@example.com
  *   npm run grant-admin -- someone@example.com --revoke

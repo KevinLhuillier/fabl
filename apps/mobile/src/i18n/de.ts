@@ -183,7 +183,7 @@ export const de: Messages = {
   },
   username: {
     title: 'Wähle deinen Benutzernamen',
-    hint: 'Das ist dein Name in Fabl. Niemand sonst kann ihn nehmen.',
+    hint: 'Das ist dein Name in Taleway. Niemand sonst kann ihn nehmen.',
   },
   forgotPassword: {
     title: 'Passwort vergessen',
