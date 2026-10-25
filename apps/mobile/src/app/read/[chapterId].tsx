@@ -286,6 +286,8 @@ export default function ChapterReader() {
               color={level.solid}
               shade={level.shade}
               onTime={aligned && readAlongEnabled ? onAudioTime : undefined}
+              // Replaying from the start: back to the top to follow the voice.
+              onRestart={() => scrollRef.current?.scrollTo({ y: 0, animated: true })}
               ref={audioRef}
             />
           </View>

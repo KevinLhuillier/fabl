@@ -25,6 +25,7 @@ const BUTTON = PAGE_AUDIO_SIZE - RING * 2 - 4;
  *
  * `onTime` reports the playback position (ms) for the read-along highlighting,
  * or null before the first play and once the recording has ended.
+ * `onRestart` fires when the replay button starts the recording over.
  */
 export function PageAudio({
   uri,
@@ -32,6 +33,7 @@ export function PageAudio({
   shade,
   style,
   onTime,
+  onRestart,
   ref,
 }: {
   uri: string;
@@ -39,6 +41,7 @@ export function PageAudio({
   shade: string;
   style?: ViewStyle;
   onTime?: (ms: number | null) => void;
+  onRestart?: () => void;
   ref?: Ref<PageAudioHandle>;
 }) {
   const { t } = useI18n();
@@ -73,7 +76,10 @@ export function PageAudio({
       player.pause();
       return;
     }
-    if (ended) void player.seekTo(0);
+    if (ended) {
+      void player.seekTo(0);
+      onRestart?.();
+    }
     player.play();
   }
 
