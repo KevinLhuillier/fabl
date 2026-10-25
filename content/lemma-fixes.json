@@ -297,6 +297,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "CHRISTMAS",
+      "pos": "PROPN",
+      "word": "Christmas",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "climbs",
       "pos": "NOUN",
       "word": "climb",
@@ -434,6 +440,12 @@
       "pos": "PROPN",
       "word": "day",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Dear",
+      "pos": "PROPN",
+      "word": "dear",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "Deep",
@@ -590,6 +602,12 @@
       "pos": "PROPN",
       "word": "fat",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "FATHER",
+      "pos": "PROPN",
+      "word": "Father",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "featured",
@@ -1052,6 +1070,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "key",
+      "pos": "ADJ",
+      "next": "sleeps",
+      "word": "key",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Keys",
       "pos": "PROPN",
       "word": "key",
@@ -1406,6 +1431,18 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "NORTH",
+      "pos": "ADJ",
+      "word": "North",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "NORTH",
+      "pos": "PROPN",
+      "word": "North",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "NORTHERN",
       "pos": "PROPN",
       "word": "northern",
@@ -1530,6 +1567,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Perfect",
+      "pos": "VERB",
+      "word": "perfect",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "petal",
       "pos": "ADJ",
       "word": "petal",
@@ -1548,6 +1591,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Pike",
+      "pos": "INTJ",
+      "word": "Pike",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "pine",
       "pos": "ADJ",
       "word": "pine",
@@ -1560,10 +1609,22 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "please",
+      "pos": "NOUN",
+      "word": "please",
+      "lemmaPos": "INTJ"
+    },
+    {
       "text": "POINT",
       "pos": "PROPN",
       "word": "point",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "POLE",
+      "pos": "PROPN",
+      "word": "Pole",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "potting",
@@ -2120,6 +2181,12 @@
       "lemmaPos": "INTJ"
     },
     {
+      "text": "thanks",
+      "pos": "NOUN",
+      "word": "thanks",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "thorned",
       "pos": "VERB",
       "word": "thorned",
@@ -2186,6 +2253,12 @@
       "lemmaPos": "NUM"
     },
     {
+      "text": "TWENTY",
+      "pos": "PROPN",
+      "word": "twenty",
+      "lemmaPos": "NUM"
+    },
+    {
       "text": "twice",
       "pos": "DET",
       "word": "twice",
@@ -2246,10 +2319,22 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "unsure",
+      "pos": "NOUN",
+      "word": "unsure",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "uppies",
       "pos": "NOUN",
       "word": "keepy-uppy",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "URGENT",
+      "pos": "PROPN",
+      "word": "urgent",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "us",
@@ -2264,9 +2349,21 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "VERY",
+      "pos": "PROPN",
+      "word": "very",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "wading",
       "pos": "VERB",
       "word": "wade",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "waits",
+      "pos": "NOUN",
+      "word": "wait",
       "lemmaPos": "VERB"
     },
     {
