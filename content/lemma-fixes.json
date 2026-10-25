@@ -7,10 +7,28 @@
       "lemmaPos": "ADP"
     },
     {
+      "text": "ACE",
+      "pos": "PROPN",
+      "word": "ace",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "ache",
       "pos": "PROPN",
       "word": "ache",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Adrenaline",
+      "pos": "PROPN",
+      "word": "adrenaline",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "aisle",
+      "pos": "PROPN",
+      "word": "aisle",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "alcoves",
@@ -85,6 +103,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Been",
+      "pos": "VERB",
+      "word": "be",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "belongings",
       "pos": "NOUN",
       "word": "belongings",
@@ -101,6 +125,12 @@
       "pos": "SCONJ",
       "word": "besides",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "bin",
+      "pos": "PROPN",
+      "word": "bin",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "blacker",
@@ -145,6 +175,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "BLAZE",
+      "pos": "PROPN",
+      "word": "blaze",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "blocky",
       "pos": "NOUN",
       "word": "blocky",
@@ -167,6 +203,12 @@
       "text": "box",
       "pos": "PROPN",
       "word": "box",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "boxing",
+      "pos": "VERB",
+      "word": "boxing",
       "lemmaPos": "NOUN"
     },
     {
@@ -210,6 +252,12 @@
       "pos": "PROPN",
       "word": "breathe",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "BRIGADE",
+      "pos": "ADV",
+      "word": "brigade",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "bristling",
@@ -382,6 +430,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Day",
+      "pos": "PROPN",
+      "word": "day",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Deep",
       "pos": "PROPN",
       "word": "deep",
@@ -494,6 +548,12 @@
       "pos": "VERB",
       "word": "excited",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "EXPERIMENT",
+      "pos": "PROPN",
+      "word": "experiment",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "facing",
@@ -800,6 +860,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "Halcyon",
+      "pos": "NOUN",
+      "word": "Halcyon",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "hang",
       "pos": "NOUN",
       "word": "hang",
@@ -858,6 +924,12 @@
       "pos": "NOUN",
       "word": "hold",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "HOLLOW",
+      "pos": "PROPN",
+      "word": "hollow",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "hoodie",
@@ -974,6 +1046,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "keepy",
+      "pos": "NOUN",
+      "word": "keepy-uppy",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Keys",
       "pos": "PROPN",
       "word": "key",
@@ -991,6 +1069,12 @@
       "pos": "NOUN",
       "word": "kneel",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "knees",
+      "pos": "VERB",
+      "word": "knee",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "knelt",
@@ -1020,6 +1104,12 @@
       "text": "lad",
       "pos": "ADJ",
       "word": "lad",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "lamp",
+      "pos": "PROPN",
+      "word": "lamp",
       "lemmaPos": "NOUN"
     },
     {
@@ -1063,6 +1153,18 @@
     },
     {
       "text": "like",
+      "pos": "ADJ",
+      "word": "like",
+      "lemmaPos": "ADP"
+    },
+    {
+      "text": "like",
+      "pos": "INTJ",
+      "word": "like",
+      "lemmaPos": "ADP"
+    },
+    {
+      "text": "Like",
       "pos": "INTJ",
       "word": "like",
       "lemmaPos": "ADP"
@@ -1250,6 +1352,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Muscle",
+      "pos": "PROPN",
+      "word": "muscle",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "nan",
       "pos": "PROPN",
       "word": "nan",
@@ -1260,6 +1368,12 @@
       "pos": "NOUN",
       "word": "neat",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "NIGHT",
+      "pos": "PROPN",
+      "word": "night",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "nightclothes",
@@ -1359,6 +1473,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Park",
+      "pos": "PROPN",
+      "word": "park",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "PASSES",
       "pos": "PROPN",
       "word": "pass",
@@ -1377,6 +1497,13 @@
       "next": ".",
       "word": "past",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "past",
+      "pos": "NOUN",
+      "next": "midnight",
+      "word": "past",
+      "lemmaPos": "ADP"
     },
     {
       "text": "Patience",
@@ -1433,6 +1560,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "POINT",
+      "pos": "PROPN",
+      "word": "point",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "potting",
       "pos": "ADJ",
       "word": "potting",
@@ -1443,6 +1576,12 @@
       "pos": "PROPN",
       "word": "probationary",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "puffing",
+      "pos": "NOUN",
+      "word": "puff",
+      "lemmaPos": "VERB"
     },
     {
       "text": "purple",
@@ -1461,6 +1600,12 @@
       "pos": "NOUN",
       "word": "purr",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "pyjamas",
+      "pos": "NOUN",
+      "word": "pyjamas",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "quieter",
@@ -1683,6 +1828,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Shortcut",
+      "pos": "PROPN",
+      "word": "shortcut",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "sickening",
       "pos": "VERB",
       "word": "sickening",
@@ -1897,6 +2048,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "sweating",
+      "pos": "NOUN",
+      "word": "sweat",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Swept",
       "pos": "PROPN",
       "word": "sweep",
@@ -1987,6 +2144,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "tights",
+      "pos": "NOUN",
+      "word": "tights",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "to",
       "pos": "NOUN",
       "word": "lean-to",
@@ -2015,6 +2178,12 @@
       "pos": "PROPN",
       "word": "TV",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "twelve",
+      "pos": "PROPN",
+      "word": "twelve",
+      "lemmaPos": "NUM"
     },
     {
       "text": "twice",
@@ -2075,6 +2244,12 @@
       "pos": "VERB",
       "word": "unmarked",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "uppies",
+      "pos": "NOUN",
+      "word": "keepy-uppy",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "us",

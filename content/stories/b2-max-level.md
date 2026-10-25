@@ -89,3 +89,68 @@ He stopped only when he reached the metal fence at the edge of the railway land.
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_1.page_15-1792909564944.mp3
 His phone buzzed in his pocket. Lily again: I'm leaving in two minutes and I'm telling Mum. Max looked at the fence, two metres of metal with sharp points at the top, and then at the leisure centre on the other side of the field. Something warm moved in his legs, like the humming of the grey console. "Okay," he said quietly to nobody. "Let's see." And he ran at the fence.
+
+# Muscle Memory
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_2.page_1-1792911188080.mp3
+Lily was standing at the entrance of the leisure centre with two sports bags at her feet and her arms crossed. When she saw her brother come jogging across the car park, she opened her mouth to shout at him, and then she closed it again. Max was not red. He was not sweating. He did not look like a zombie. He looked, for the first time she could remember, almost awake. "Where did you come from?" she asked. "You weren't on the road."
+"Shortcut," Max said, picking up both bags at once. He did not tell her about the wall, or the fence with the sharp points that he had climbed in about three seconds without touching the top. He did not know how to say it without sounding mad. On the walk home Lily talked about her tournament, a goal she had scored and a girl from another school who had elbowed her in the face, and Max nodded and said "really?" in the right places while his mind went round and round.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_2.page_2-1792911208679.mp3
+Adrenaline, he decided. That had to be it. He had read about it somewhere: a mother who lifted a car off her child, a man who ran a mile with a broken leg. When people were in a panic, their bodies could do amazing things. He had been in a panic about Lily. That was all. The game had nothing to do with it. Games were pictures on a screen. They did not climb into your body while you slept.
+But that evening at work, the strange feeling was still there. He pushed the heavy cages up and down the long aisles and his legs did not complain. When a pallet of bottled water fell over at the end of aisle twelve, he jumped over it without thinking, landed on the other side and kept walking, and his supervisor, a large silent man called Gaz, stared at him with his mouth open. "Since when can you do that?" Gaz asked. Max shrugged. "Been practising," he said.
+Around three in the morning, the feeling began to fade. It happened slowly, like the light at the end of a summer evening. First his steps became heavier. Then his breathing changed. By the time his shift finished, he was walking like the old Max again, shoulders bent, knees clicking. And when he sat down on the bus, a deep, heavy ache spread through his legs, so strong that he had to bite his lip. It felt as if he had run a marathon. In a way, he thought, perhaps he had.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_2.page_3-1792911229420.mp3
+He slept until four in the afternoon and woke up starving. He ate four bowls of cereal, two bananas and a whole packet of biscuits, standing in the kitchen in his pyjamas, while the cat watched him from the windowsill with something like respect. Then he went upstairs, closed his door and sat on the floor in front of the Halcyon. The grey box looked completely ordinary. The crack in the lid. The little metal plate. The cardboard box of cartridges with their handwritten names.
+He took out ROOFTOP RUSH and turned it over in his hands. Then he put it back and looked at the others. GOLDEN BOOT. ACE POINT. IRON GLOVE. BLAZE BRIGADE. NIGHT HOLLOW. There were about fifteen of them. If his theory was crazy, he would play a football game for a couple of hours and nothing would happen, and he could forget about the whole thing. If his theory was not crazy... He did not finish the thought. He pushed GOLDEN BOOT into the slot.
+The game put him in control of a small, stocky midfielder with a shaved head and the number 10 on his shirt. Max had played hundreds of football games, but this one was different, just as the rooftop game had been. The player's feet seemed to think. He could stop a long ball dead with the side of his boot, flick it over a defender's head and hit it into the top corner before it touched the ground. Max played two full seasons, and the console hummed warmly the whole time.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_2.page_4-1792911243073.mp3
+It was nearly midnight when he finished. He was not working that night. He crept downstairs, took Lily's old football from the cupboard under the stairs and went out into the street. The park at the end of the road was empty and dark, lit only by one orange lamp near the gate. Max dropped the ball onto his right foot. He had tried to do keepy-uppies as a boy and his record had been seven. He took a breath and began to count.
+At fifty he stopped counting, because counting was distracting him from the pleasure of it. The ball went from his right foot to his left, up to his knee, to his chest, onto his head and down again, as if it was tied to him with an invisible string. He kicked it high into the air, as high as the lamp, and caught it on the back of his neck. Then he let it fall to the grass and stood there laughing, alone in a dark park at midnight, like a lunatic.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_2.page_5-1792911260863.mp3
+There was only one person Max could tell. Priya Shah had lived three doors down from the Turners for most of their childhood, before her family moved across the city to Roundhay. They had been in the same class at primary school, and she was the only friend from those days he still saw regularly. She was in her final year of a sports science degree at Leeds Beckett, she ran half-marathons for fun, and she believed in nothing she could not measure. She was perfect.
+He sent her a message at half past midnight: Need to show you something. Not a joke. Park on Ashley Road, tomorrow 10am? Her answer arrived thirty seconds later: Is this about a game? Max looked at the screen for a long time before he typed: Sort of. The reply was a single eye-rolling face. And then, a minute later: Fine. Bring coffee. Two sugars.
+She arrived on her bicycle at five to ten, wearing running tights and a waterproof jacket, her long black hair tied up in a knot on the top of her head. She took the coffee, looked him up and down and frowned. "You look terrible," she said. "Lily already told me," said Max. "Listen. I need you to not say anything until I've finished. And then I need you to not call an ambulance." Priya raised an eyebrow, sat on a bench and gestured for him to begin.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_2.page_6-1792911273805.mp3
+He told her everything: the market, the strange old man, the grey console, the rooftop game, the wall, the fence, the pallet at work, the pain afterwards, the football at midnight. Priya listened without moving, her coffee cup halfway to her mouth. When he had finished, there was a long silence. A dog barked somewhere. A bus went past on the main road. "Max," she said at last, very gently, "how much have you been sleeping recently?"
+"I knew you'd say that," he said. "That's why I didn't come here to talk." He had played GOLDEN BOOT for another hour before leaving the house, just to be sure. He took the football out of his bag, dropped it onto his foot and began. Priya's face went through several expressions, one after another: boredom, surprise, confusion and finally something close to fear. After three minutes, Max kicked the ball high, caught it on his forehead, held it there and walked slowly in a circle around her bench.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_2.page_7-1792911286334.mp3
+When he let the ball drop, Priya was standing up. She had put her coffee down on the ground and forgotten it. "Do that again," she said. "With your left foot. Only your left foot." He did. "Now stand on one leg and do it." He did. "Kick it at that bin. The small one, by the gate." The bin was at least thirty metres away. The ball flew through the air in a perfect curve and dropped into it with a hollow bang. A woman walking her dog stopped and clapped politely.
+Priya sat down again, very slowly. "Okay," she said. "Okay. I don't believe in magic consoles. I want that to be clear. But I've known you since we were five, and you couldn't do that. Nobody can learn that in a weekend. Elite footballers train for fifteen years to have that kind of touch." She looked at his legs as if they belonged to someone else. "Your muscles haven't changed. It's not strength. It's control. It's coordination. It's as if..."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_2.page_8-1792911303416.mp3
+"As if someone had copied a footballer's instincts into me," said Max. "Muscle memory. Like when you learn to ride a bike and you never forget. Except I didn't learn it. I downloaded it." He laughed nervously. "Two hours of game, and my body just knows." Priya was not laughing. She took a small notebook out of her jacket pocket, the one she used to record her running times, and turned to a clean page.
+"If this is real," she said, "then it follows rules. Everything in the body follows rules. How long does it last? Does it depend on how long you play? What happens if you lose in the game? What does it cost you? Because it costs you something, Max. You said it yourself. The pain afterwards. The hunger. Your body is paying for this somehow." She wrote the date at the top of the page and, under it, in neat capital letters: EXPERIMENT 1.
+Max looked at her notebook and felt something he had not felt in a long time. It was not fear, although there was some fear in it. It was excitement, the kind he used to feel at the start of a new game, when the map was still dark and anything was possible. "So what do we do?" he asked. Priya closed the notebook and stood up. "We go to my university gym," she said, "and we find out exactly what you are."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_2.page_9-1792911321195.mp3
+They did not go that day. Priya had a lecture in the afternoon, and Max needed to sleep before his night shift. But she made him promise three things before she cycled away. First, he would not play any more games on the Halcyon until Sunday, so that they could start their tests with his body at zero. Second, he would write down everything he ate and how many hours he slept. And third, he would tell absolutely nobody.
+"Not even Lily?" he asked. "Especially not Lily," said Priya. "She's fourteen. She'll have you on the internet in five minutes." Max had to admit she was right. He watched her ride away down Ashley Road, her bright yellow jacket getting smaller and smaller, and then he picked up the football and walked home. In his bag, his phone buzzed. It was Priya, already: Also, eat some vegetables. Your diet is a crime.
+The next two days were the longest of his life. Every time he passed his bedroom door, he felt the grey console waiting for him behind it. At work, he walked slowly up and down the aisles like before, puffing and sweating, and he realised for the first time how much he hated it. He had tasted something else now. He had felt what it was like to move without pain, to trust his own body. Going back to the old Max was like putting on wet clothes.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_2.page_10-1792911336550.mp3
+On Saturday night, unable to sleep, he took the cardboard box of cartridges onto his bed and looked through them one by one, reading the handwritten names under the light of his phone. Some were obvious. ACE POINT had to be tennis. IRON GLOVE was boxing, surely. BLAZE BRIGADE had a little drawing of a fire engine in the corner. But others were mysterious. One just said NIGHT HOLLOW, written in shaky letters, and when he held it, he felt a small, cold shiver run down his back.
+He put it at the bottom of the box. At the very bottom, under all the others, his fingers touched something else: a folded piece of paper, soft and old. He opened it carefully. It was a page torn from a notebook, and on it someone had written, in the same shaky hand: Day 41. I can't remember how I used to run. Below that, nothing else. Max read it three times. Then he folded it up again, put it back exactly where he had found it, and lay awake until the sun came up.

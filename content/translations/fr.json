@@ -43,6 +43,12 @@
       "translation": "un peu"
     },
     {
+      "word": "a couple of",
+      "pos": "PHRASE",
+      "translation": "quelques, deux ou trois (« a couple of hours » : deux ou trois heures)",
+      "example": "If his theory was crazy, he would play a football game for a couple of hours and nothing would happen, and he could forget about the whole thing."
+    },
+    {
       "word": "a few",
       "pos": "PHRASE",
       "translation": "quelques, quelques-uns"
@@ -144,6 +150,12 @@
       "example": "Then she reached up, almost absently, and ran her thumb along the old white scar on the back of her left hand."
     },
     {
+      "word": "absolutely",
+      "pos": "ADV",
+      "translation": "absolument (« absolutely nobody » : absolument personne)",
+      "example": "And third, he would tell absolutely nobody."
+    },
+    {
       "word": "absorb",
       "pos": "VERB",
       "translation": "absorber, amortir (« absorb the impact » : amortir le choc)",
@@ -202,6 +214,12 @@
       "pos": "NOUN",
       "translation": "l'accusation",
       "example": "\"This is a serious accusation,\" he said at last."
+    },
+    {
+      "word": "ace",
+      "pos": "NOUN",
+      "translation": "l'as ; (tennis) l'ace, le service gagnant",
+      "example": "ACE POINT."
     },
     {
       "word": "ache",
@@ -268,6 +286,12 @@
       "pos": "VERB",
       "translation": "admettre, avouer ; laisser entrer",
       "example": "How did you admit you had been watching?"
+    },
+    {
+      "word": "adrenaline",
+      "pos": "NOUN",
+      "translation": "l'adrénaline",
+      "example": "Adrenaline, he decided."
     },
     {
       "word": "advice",
@@ -578,6 +602,24 @@
       "pos": "ADV",
       "translation": "toujours",
       "example": "If you are patient enough to notice, you will always be one step ahead."
+    },
+    {
+      "word": "am",
+      "pos": "ADV",
+      "translation": "du matin (« 10am » : 10 h du matin)",
+      "example": "Park on Ashley Road, tomorrow 10am?"
+    },
+    {
+      "word": "amazing",
+      "pos": "ADJ",
+      "translation": "incroyable, étonnant",
+      "example": "When people were in a panic, their bodies could do amazing things."
+    },
+    {
+      "word": "ambulance",
+      "pos": "NOUN",
+      "translation": "l'ambulance",
+      "example": "And then I need you to not call an ambulance."
     },
     {
       "word": "among",
@@ -1424,6 +1466,12 @@
     },
     {
       "word": "bang",
+      "pos": "NOUN",
+      "translation": "le bruit sourd, le boum",
+      "example": "The ball flew through the air in a perfect curve and dropped into it with a hollow bang."
+    },
+    {
+      "word": "bang",
       "pos": "VERB",
       "translation": "claquer, cogner",
       "example": "Somewhere far off, a long way above them, a door banged."
@@ -1499,6 +1547,12 @@
       "pos": "NOUN",
       "translation": "l'écorce",
       "example": "He had turned fourteen at midsummer: lean where his uncle was broad, with a shock of dark hair that defeated every comb and hands already roughened by years of rope and bark."
+    },
+    {
+      "word": "bark",
+      "pos": "VERB",
+      "translation": "aboyer",
+      "example": "A dog barked somewhere."
     },
     {
       "word": "barrier",
@@ -1654,6 +1708,12 @@
       "word": "because of",
       "pos": "PHRASE",
       "translation": "à cause de"
+    },
+    {
+      "word": "Beckett",
+      "pos": "PROPN",
+      "translation": "Beckett (dans « Leeds Beckett », université de Leeds)",
+      "example": "She was in her final year of a sports science degree at Leeds Beckett, she ran half-marathons for fun, and she believed in nothing she could not measure."
     },
     {
       "word": "become",
@@ -1872,10 +1932,22 @@
       "example": "The park is big. — Le parc est grand."
     },
     {
+      "word": "bike",
+      "pos": "NOUN",
+      "translation": "le vélo",
+      "example": "Like when you learn to ride a bike and you never forget."
+    },
+    {
       "word": "bill",
       "pos": "NOUN",
       "translation": "la facture, la note",
       "example": "Bram picked up the Writ, looked at it without unfolding it, and put it on the mantelpiece beside the unfinished fox, as though it were a bill he had no intention of paying."
+    },
+    {
+      "word": "bin",
+      "pos": "NOUN",
+      "translation": "la poubelle",
+      "example": "Kick it at that bin."
     },
     {
       "word": "bind",
@@ -1924,6 +1996,12 @@
       "pos": "VERB",
       "translation": "mordre",
       "example": "\"I don't know how they died, or where they're buried, or whether—\" He bit the sentence off."
+    },
+    {
+      "word": "bite his lip",
+      "pos": "PHRASE",
+      "translation": "se mordre la lèvre",
+      "example": "And when he sat down on the bus, a deep, heavy ache spread through his legs, so strong that he had to bite his lip."
     },
     {
       "word": "bite off",
@@ -1996,6 +2074,12 @@
       "pos": "NOUN",
       "translation": "la couverture",
       "example": "I stay in bed for a few more minutes, because the blanket is still warm."
+    },
+    {
+      "word": "blaze",
+      "pos": "NOUN",
+      "translation": "l'incendie, le brasier, les flammes",
+      "example": "BLAZE BRIGADE."
     },
     {
       "word": "blaze",
@@ -2208,6 +2292,12 @@
       "example": "A Well does not settle until around the fourteenth year, which was why the Marking waited until then: before that age the Stones stayed silent, and afterwards they simply gave the same answer again, as though faintly bored at being asked twice."
     },
     {
+      "word": "boredom",
+      "pos": "NOUN",
+      "translation": "l'ennui",
+      "example": "Priya's face went through several expressions, one after another: boredom, surprise, confusion and finally something close to fear."
+    },
+    {
       "word": "borrow",
       "pos": "VERB",
       "translation": "emprunter",
@@ -2242,6 +2332,12 @@
       "pos": "NOUN",
       "translation": "la bouteille",
       "example": "He had been on his feet for nine hours, pushing heavy cages of tins, bottles and frozen chips from one end of the building to the other."
+    },
+    {
+      "word": "bottled",
+      "pos": "ADJ",
+      "translation": "en bouteille (« bottled water » : eau en bouteille)",
+      "example": "When a pallet of bottled water fell over at the end of aisle twelve, he jumped over it without thinking, landed on the other side and kept walking, and his supervisor, a large silent man called Gaz, stared at him with his mouth open."
     },
     {
       "word": "bottom",
@@ -2302,6 +2398,12 @@
       "pos": "NOUN",
       "translation": "la boîte, le carton",
       "example": "There were old boxes, a broken bicycle and a smell of dust and soap."
+    },
+    {
+      "word": "boxing",
+      "pos": "NOUN",
+      "translation": "la boxe",
+      "example": "IRON GLOVE was boxing, surely."
     },
     {
       "word": "boy",
@@ -2476,6 +2578,12 @@
       "pos": "ADV",
       "translation": "brièvement",
       "example": "A girl Rowan didn't know was saying goodbye to a tall, stooped man at the edge of the crowd — briefly, without fuss, the way you might say goodbye to someone you would see again at supper."
+    },
+    {
+      "word": "brigade",
+      "pos": "NOUN",
+      "translation": "la brigade (« fire brigade » : les pompiers)",
+      "example": "BLAZE BRIGADE."
     },
     {
       "word": "bright",
@@ -2928,6 +3036,12 @@
       "example": "There are many cars. — Il y a beaucoup de voitures."
     },
     {
+      "word": "car park",
+      "pos": "PHRASE",
+      "translation": "le parking",
+      "example": "When she saw her brother come jogging across the car park, she opened her mouth to shout at him, and then she closed it again."
+    },
+    {
       "word": "card",
       "pos": "NOUN",
       "translation": "la carte, la fiche",
@@ -3376,6 +3490,12 @@
       "pos": "NOUN",
       "translation": "l'enfant",
       "example": "Children play in the park. — Des enfants jouent dans le parc."
+    },
+    {
+      "word": "childhood",
+      "pos": "NOUN",
+      "translation": "l'enfance",
+      "example": "Priya Shah had lived three doors down from the Turners for most of their childhood, before her family moved across the city to Roundhay."
     },
     {
       "word": "chill",
@@ -4284,6 +4404,12 @@
       "example": "Bram had drawn the cart up beside the cooper's yard to unload, and a pedlar Rowan didn't recognise — a stooped, sharp-eyed woman with a tray of tin pots and needles slung from her neck — had sidled up to him and was talking in a low, urgent voice."
     },
     {
+      "word": "coordination",
+      "pos": "NOUN",
+      "translation": "la coordination",
+      "example": "It's coordination."
+    },
+    {
       "word": "copper",
       "pos": "NOUN",
       "translation": "le cuivre (« copper hair » : cheveux cuivrés)",
@@ -4336,6 +4462,12 @@
       "pos": "NOUN",
       "translation": "le coût, le prix (« at the cost of » : au prix de)",
       "example": "But Ilse knew a place on the western side, below the glasshouses, where the blackthorn had grown thin around the trunk of a dead oak and a determined person could wriggle through on their stomach, at the cost of a torn coat and a great many scratches."
+    },
+    {
+      "word": "cost",
+      "pos": "VERB",
+      "translation": "coûter",
+      "example": "What does it cost you?"
     },
     {
       "word": "cot",
@@ -4552,6 +4684,12 @@
       "pos": "VERB",
       "translation": "ramper",
       "example": "Long, twisting branches as thick as a man's arm came crawling out of the hedge across the snow, unhurried, inexorable, bristling with thorns as long as knives."
+    },
+    {
+      "word": "crazy",
+      "pos": "ADJ",
+      "translation": "fou, dingue",
+      "example": "If his theory was crazy, he would play a football game for a couple of hours and nothing would happen, and he could forget about the whole thing."
     },
     {
       "word": "creak",
@@ -4867,6 +5005,12 @@
     },
     {
       "word": "curve",
+      "pos": "NOUN",
+      "translation": "la courbe",
+      "example": "The ball flew through the air in a perfect curve and dropped into it with a hollow bang."
+    },
+    {
+      "word": "curve",
       "pos": "VERB",
       "translation": "se courber (« curving » : en courbe, en colimaçon)",
       "example": "But Hale stopped two steps above him, and for a moment the two of them simply looked at each other in the dim, curving stairwell, while the warmth that always hung around Hale crept out over the cold stone like breath."
@@ -4900,6 +5044,12 @@
       "pos": "NOUN",
       "translation": "la bouture",
       "example": "Not the words, mostly — only the deep, slow rumble of it, going on and on like a cart over a wooden bridge, and then, cutting across it, the Warden's voice, low and clear and cold."
+    },
+    {
+      "word": "cycle",
+      "pos": "VERB",
+      "translation": "faire du vélo, pédaler (« cycled away » : partit à vélo)",
+      "example": "But she made him promise three things before she cycled away."
     },
     {
       "word": "dais",
@@ -5100,10 +5250,22 @@
       "example": "If we kill a prisoner who cannot defend himself, we are no better than the men who attacked us."
     },
     {
+      "word": "defender",
+      "pos": "NOUN",
+      "translation": "le défenseur",
+      "example": "He could stop a long ball dead with the side of his boot, flick it over a defender's head and hit it into the top corner before it touched the ground."
+    },
+    {
       "word": "defuse",
       "pos": "VERB",
       "translation": "désamorcer",
       "example": "Bram was already up when Rowan came down the ladder, stirring a pot of porridge with the grim concentration of a man defusing something dangerous."
+    },
+    {
+      "word": "degree",
+      "pos": "NOUN",
+      "translation": "le diplôme, la licence ; le degré",
+      "example": "She was in her final year of a sports science degree at Leeds Beckett, she ran half-marathons for fun, and she believed in nothing she could not measure."
     },
     {
       "word": "Delattre",
@@ -5164,6 +5326,12 @@
       "pos": "NOUN",
       "translation": "le départ (« Departures » : registre des Départs)",
       "example": "DEPARTURES."
+    },
+    {
+      "word": "depend",
+      "pos": "VERB",
+      "translation": "dépendre (« depend on » : dépendre de)",
+      "example": "Does it depend on how long you play?"
     },
     {
       "word": "deputy",
@@ -5290,6 +5458,12 @@
       "pos": "VERB",
       "translation": "mourir (« let the question die » : laisser tomber la question)",
       "example": "But it landed in the small room like a log dropped on the hearth, and Rowan let the question die."
+    },
+    {
+      "word": "diet",
+      "pos": "NOUN",
+      "translation": "l'alimentation, le régime",
+      "example": "Your diet is a crime."
     },
     {
       "word": "difference",
@@ -5460,6 +5634,12 @@
       "example": "Once, quite distinctly, he heard Bram say sealed."
     },
     {
+      "word": "distract",
+      "pos": "VERB",
+      "translation": "distraire, détourner",
+      "example": "At fifty he stopped counting, because counting was distracting him from the pleasure of it."
+    },
+    {
       "word": "ditch",
       "pos": "NOUN",
       "translation": "le fossé",
@@ -5560,6 +5740,12 @@
       "pos": "ADV",
       "translation": "en bas, vers le bas",
       "example": "A pull, deep down, as if something were rising towards the surface of a dark pool, slow and patient and very old."
+    },
+    {
+      "word": "download",
+      "pos": "VERB",
+      "translation": "télécharger",
+      "example": "I downloaded it."
     },
     {
       "word": "downstairs",
@@ -6102,6 +6288,12 @@
       "example": "He had shaved, which he did twice a year at most, and put on the good coat — the brown one with the mended elbow that smelled faintly of cedar from the chest where it lived."
     },
     {
+      "word": "elbow",
+      "pos": "VERB",
+      "translation": "donner un coup de coude",
+      "example": "On the walk home Lily talked about her tournament, a goal she had scored and a girl from another school who had elbowed her in the face, and Max nodded and said \"really?\""
+    },
+    {
       "word": "elder",
       "pos": "NOUN",
       "translation": "l'ancien, le doyen (« village elder » : l'ancien du village)",
@@ -6154,6 +6346,12 @@
       "pos": "PROPN",
       "translation": "Elinor (prénom)",
       "example": "ASHBY, Elinor (formerly Elinor Reyne, of Mossbridge)."
+    },
+    {
+      "word": "elite",
+      "pos": "ADJ",
+      "translation": "d'élite, de haut niveau",
+      "example": "Elite footballers train for fifteen years to have that kind of touch."
     },
     {
       "word": "else",
@@ -6700,6 +6898,12 @@
       "example": "His spectacles had fallen off."
     },
     {
+      "word": "fall over",
+      "pos": "PHRASE",
+      "translation": "tomber, se renverser",
+      "example": "When a pallet of bottled water fell over at the end of aisle twelve, he jumped over it without thinking, landed on the other side and kept walking, and his supervisor, a large silent man called Gaz, stared at him with his mouth open."
+    },
+    {
       "word": "fallen",
       "pos": "ADJ",
       "translation": "tombé, abattu",
@@ -7066,6 +7270,12 @@
       "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
     },
     {
+      "word": "fine",
+      "pos": "INTJ",
+      "translation": "d'accord, bon",
+      "example": "And then, a minute later: Fine."
+    },
+    {
       "word": "finely",
       "pos": "ADV",
       "translation": "finement",
@@ -7118,6 +7328,12 @@
       "pos": "PROPN",
       "translation": "le Feu (élément)",
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
+    },
+    {
+      "word": "fire engine",
+      "pos": "PHRASE",
+      "translation": "le camion de pompiers",
+      "example": "BLAZE BRIGADE had a little drawing of a fire engine in the corner."
     },
     {
       "word": "firefighter",
@@ -7432,6 +7648,12 @@
       "example": "She flicked the droplet into the fire without looking, as casually as someone brushing off a fly."
     },
     {
+      "word": "fly",
+      "pos": "VERB",
+      "translation": "voler",
+      "example": "The ball flew through the air in a perfect curve and dropped into it with a hollow bang."
+    },
+    {
       "word": "focus",
       "pos": "NOUN",
       "translation": "la concentration",
@@ -7558,6 +7780,12 @@
       "example": "For example, I know that the man in the ground-floor flat across the street never opens his curtains."
     },
     {
+      "word": "for fun",
+      "pos": "PHRASE",
+      "translation": "pour le plaisir, pour s'amuser",
+      "example": "She was in her final year of a sports science degree at Leeds Beckett, she ran half-marathons for fun, and she believed in nothing she could not measure."
+    },
+    {
       "word": "for life",
       "pos": "PHRASE",
       "translation": "à vie",
@@ -7580,6 +7808,12 @@
       "pos": "PHRASE",
       "translation": "à louer",
       "example": "The mines had closed forty years earlier, but the town still lived in their shadow: rows of identical red-brick houses, a church that was far too big for the people who still went to it, and a main street where every third shop had a \"For Rent\" sign in the window."
+    },
+    {
+      "word": "for the first time",
+      "pos": "PHRASE",
+      "translation": "pour la première fois",
+      "example": "He looked, for the first time she could remember, almost awake."
     },
     {
       "word": "force",
@@ -7960,6 +8194,12 @@
       "example": "The old man smeared it with something cool and green that smelled of crushed leaves, and wound a strip of clean linen around it with fingers that trembled, but did not fumble."
     },
     {
+      "word": "fun",
+      "pos": "NOUN",
+      "translation": "l'amusement, le plaisir (« for fun » : pour le plaisir)",
+      "example": "She was in her final year of a sports science degree at Leeds Beckett, she ran half-marathons for fun, and she believed in nothing she could not measure."
+    },
+    {
       "word": "fur",
       "pos": "NOUN",
       "translation": "la fourrure, le pelage",
@@ -8078,6 +8318,12 @@
       "pos": "VERB",
       "translation": "rassembler",
       "example": "The women gathered buckets of water in case of fire."
+    },
+    {
+      "word": "Gaz",
+      "pos": "PROPN",
+      "translation": "Gaz (surnom, diminutif de Gary)",
+      "example": "When a pallet of bottled water fell over at the end of aisle twelve, he jumped over it without thinking, landed on the other side and kept walking, and his supervisor, a large silent man called Gaz, stared at him with his mouth open."
     },
     {
       "word": "gaze",
@@ -8853,6 +9099,12 @@
       "example": "Below me, there was a narrow ledge, and from the ledge, a gutter led to the roof next door."
     },
     {
+      "word": "gym",
+      "pos": "NOUN",
+      "translation": "la salle de sport",
+      "example": "\"We go to my university gym,\" she said, \"and we find out exactly what you are.\""
+    },
+    {
       "word": "habit",
       "pos": "NOUN",
       "translation": "l'habitude",
@@ -9030,6 +9282,12 @@
       "pos": "NOUN",
       "translation": "l'écriture",
       "example": "The handwriting was Bram's: large, laborious capitals, pressed deep into the paper."
+    },
+    {
+      "word": "handwritten",
+      "pos": "ADJ",
+      "translation": "écrit à la main, manuscrit",
+      "example": "The cardboard box of cartridges with their handwritten names."
     },
     {
       "word": "hang",
@@ -10100,10 +10358,22 @@
       "example": "The night was warm, and Léa was in a hurry."
     },
     {
+      "word": "in a panic",
+      "pos": "PHRASE",
+      "translation": "paniqué, pris de panique",
+      "example": "When people were in a panic, their bodies could do amazing things."
+    },
+    {
       "word": "in a row",
       "pos": "PHRASE",
       "translation": "en rang, alignés",
       "example": "On each desk, while their eyes had been closed, someone had placed four small objects in a row: a shallow dish of water, a stub of candle, a smooth river pebble, and a single white feather."
+    },
+    {
+      "word": "in a way",
+      "pos": "PHRASE",
+      "translation": "d'une certaine façon, en un sens",
+      "example": "In a way, he thought, perhaps he had."
     },
     {
       "word": "in case",
@@ -10360,6 +10630,12 @@
       "translation": "au lieu de"
     },
     {
+      "word": "instinct",
+      "pos": "NOUN",
+      "translation": "l'instinct, le réflexe",
+      "example": "\"As if someone had copied a footballer's instincts into me,\" said Max."
+    },
+    {
       "word": "instructor",
       "pos": "NOUN",
       "translation": "le moniteur, l'instructeur",
@@ -10414,6 +10690,12 @@
       "example": "There were five of them, long and high-roofed, built of thousands of small panes of greenish glass set in frames of dark, twisting wood — wood that, Rowan realised as he came closer, had not been cut and joined at all, but had grown into those shapes, bending and branching and interlacing like the walls of Thornhall itself."
     },
     {
+      "word": "internet",
+      "pos": "NOUN",
+      "translation": "internet",
+      "example": "She'll have you on the internet in five minutes."
+    },
+    {
       "word": "into",
       "pos": "ADP",
       "translation": "dans (avec mouvement)",
@@ -10436,6 +10718,12 @@
       "pos": "VERB",
       "translation": "inventer",
       "example": "A clumsy squire forgets to check his master's saddle, and now he invents a conspiracy to protect himself."
+    },
+    {
+      "word": "invisible",
+      "pos": "ADJ",
+      "translation": "invisible",
+      "example": "The ball went from his right foot to his left, up to his knee, to his chest, onto his head and down again, as if it was tied to him with an invisible string."
     },
     {
       "word": "invite",
@@ -10484,6 +10772,12 @@
       "pos": "NOUN",
       "translation": "le lierre",
       "example": "And on its crown, half wall and half living thing, its towers wound about with ivy and its battlements crowned with trees, stood Thornhall."
+    },
+    {
+      "word": "jacket",
+      "pos": "NOUN",
+      "translation": "la veste, le blouson",
+      "example": "She arrived on her bicycle at five to ten, wearing running tights and a waterproof jacket, her long black hair tied up in a knot on the top of her head."
     },
     {
       "word": "jaw",
@@ -10684,6 +10978,12 @@
       "example": "Keepers of Roots, the Wood-wardens used to call us."
     },
     {
+      "word": "keepy-uppy",
+      "pos": "NOUN",
+      "translation": "les jongles (avec un ballon) (« do keepy-uppies » : jongler)",
+      "example": "He had tried to do keepy-uppies as a boy and his record had been seven."
+    },
+    {
       "word": "key",
       "pos": "NOUN",
       "translation": "la clé",
@@ -10694,6 +10994,12 @@
       "pos": "NOUN",
       "translation": "le trou de serrure",
       "example": "Not swinging now, but steady, a dull orange glow among the trunks just beyond the shoreline, like the embers of a fire seen through a keyhole."
+    },
+    {
+      "word": "kick",
+      "pos": "VERB",
+      "translation": "donner un coup de pied, frapper (le ballon)",
+      "example": "He kicked it high into the air, as high as the lamp, and caught it on the back of his neck."
     },
     {
       "word": "kill",
@@ -11212,6 +11518,12 @@
       "example": "He dried the pages one by one on the radiator in the maths classroom, the one that actually worked, but the ink had run, and three years of work looked as if they had been left out in a storm."
     },
     {
+      "word": "lecture",
+      "pos": "NOUN",
+      "translation": "le cours (magistral)",
+      "example": "Priya had a lecture in the afternoon, and Max needed to sleep before his night shift."
+    },
+    {
       "word": "ledge",
       "pos": "NOUN",
       "translation": "le rebord, la corniche",
@@ -11408,6 +11720,12 @@
       "pos": "VERB",
       "translation": "être allongé, se trouver (« lay » au passé)",
       "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
+    },
+    {
+      "word": "lie awake",
+      "pos": "PHRASE",
+      "translation": "rester éveillé (au lit)",
+      "example": "Then he folded it up again, put it back exactly where he had found it, and lay awake until the sun came up."
     },
     {
       "word": "lie down",
@@ -11823,6 +12141,12 @@
       "example": "Her name is Luna. — Elle s'appelle Luna."
     },
     {
+      "word": "lunatic",
+      "pos": "NOUN",
+      "translation": "le fou, le cinglé",
+      "example": "Then he let it fall to the grass and stood there laughing, alone in a dark park at midnight, like a lunatic."
+    },
+    {
       "word": "lunch",
       "pos": "NOUN",
       "translation": "le déjeuner",
@@ -11863,6 +12187,12 @@
       "pos": "PROPN",
       "translation": "madame (mot français : Mrs, Ms)",
       "example": "During philosophy, while Madame Ferrand talked about freedom and responsibility, he kept rubbing his thumb against his middle finger under the desk, tracing tiny half-circles in the air."
+    },
+    {
+      "word": "magic",
+      "pos": "ADJ",
+      "translation": "magique",
+      "example": "I don't believe in magic consoles."
     },
     {
       "word": "magic",
@@ -12344,6 +12674,12 @@
       "example": "Then, almost without deciding to, he copied the first diagram with his right hand: thumb against middle finger, palm turned towards the lamp, a slow half-circle from left to right."
     },
     {
+      "word": "midfielder",
+      "pos": "NOUN",
+      "translation": "le milieu de terrain",
+      "example": "The game put him in control of a small, stocky midfielder with a shaved head and the number 10 on his shirt."
+    },
+    {
       "word": "midnight",
       "pos": "NOUN",
       "translation": "minuit",
@@ -12812,6 +13148,12 @@
       "example": "Every muscle in his body ached, as if he had spent the evening carrying sacks of coal up from the bottom of a mine."
     },
     {
+      "word": "muscle memory",
+      "pos": "PHRASE",
+      "translation": "la mémoire musculaire",
+      "example": "Muscle memory."
+    },
+    {
       "word": "music",
       "pos": "NOUN",
       "translation": "la musique",
@@ -12840,6 +13182,12 @@
       "pos": "PRON",
       "translation": "moi-même",
       "example": "I saw him myself, in the forest, three nights ago."
+    },
+    {
+      "word": "mysterious",
+      "pos": "ADJ",
+      "translation": "mystérieux",
+      "example": "But others were mysterious."
     },
     {
       "word": "nail",
@@ -13088,6 +13436,12 @@
       "example": "Good night! — Bonne nuit !"
     },
     {
+      "word": "night shift",
+      "pos": "PHRASE",
+      "translation": "l'équipe de nuit, le service de nuit",
+      "example": "Priya had a lecture in the afternoon, and Max needed to sleep before his night shift."
+    },
+    {
       "word": "nightclothes",
       "pos": "NOUN",
       "translation": "les vêtements de nuit",
@@ -13284,6 +13638,12 @@
       "pos": "PRON",
       "translation": "rien",
       "example": "Nothing. — Rien."
+    },
+    {
+      "word": "nothing to do with",
+      "pos": "PHRASE",
+      "translation": "rien à voir avec",
+      "example": "The game had nothing to do with it."
     },
     {
       "word": "notice",
@@ -14059,6 +14419,12 @@
       "example": "Godfrey was pale with pain, his leg tied between two wooden boards."
     },
     {
+      "word": "pallet",
+      "pos": "NOUN",
+      "translation": "la palette",
+      "example": "When a pallet of bottled water fell over at the end of aisle twelve, he jumped over it without thinking, landed on the other side and kept walking, and his supervisor, a large silent man called Gaz, stared at him with his mouth open."
+    },
+    {
       "word": "palm",
       "pos": "NOUN",
       "translation": "la paume",
@@ -14075,6 +14441,12 @@
       "pos": "NOUN",
       "translation": "la vitre, le carreau",
       "example": "There were five of them, long and high-roofed, built of thousands of small panes of greenish glass set in frames of dark, twisting wood — wood that, Rowan realised as he came closer, had not been cut and joined at all, but had grown into those shapes, bending and branching and interlacing like the walls of Thornhall itself."
+    },
+    {
+      "word": "panic",
+      "pos": "NOUN",
+      "translation": "la panique",
+      "example": "When people were in a panic, their bodies could do amazing things."
     },
     {
       "word": "panic",
@@ -14480,6 +14852,12 @@
     },
     {
       "word": "picture",
+      "pos": "NOUN",
+      "translation": "l'image, le tableau, la photo",
+      "example": "Games were pictures on a screen."
+    },
+    {
+      "word": "picture",
       "pos": "VERB",
       "translation": "imaginer, se représenter",
       "example": "He had never really pictured himself at Thornhall, among the sons and daughters of village elders and merchants and old Marked families."
@@ -14857,6 +15235,12 @@
       "example": "Whoever learns it, possesses it."
     },
     {
+      "word": "possible",
+      "pos": "ADJ",
+      "translation": "possible",
+      "example": "It was excitement, the kind he used to feel at the start of a new game, when the map was still dark and anything was possible."
+    },
+    {
       "word": "post",
       "pos": "NOUN",
       "translation": "le poteau, le pieu ; le poste",
@@ -15049,6 +15433,18 @@
       "example": "They closed over the cloaked figures on the causeway one by one, the way a hand closes over a moth — not crushing, but holding, tighter and tighter, until the men who had been shouting were not shouting any more, only standing very, very still, while the thorns pricked at their throats."
     },
     {
+      "word": "primary",
+      "pos": "ADJ",
+      "translation": "primaire, principal (« primary school » : école primaire)",
+      "example": "They had been in the same class at primary school, and she was the only friend from those days he still saw regularly."
+    },
+    {
+      "word": "primary school",
+      "pos": "PHRASE",
+      "translation": "l'école primaire",
+      "example": "They had been in the same class at primary school, and she was the only friend from those days he still saw regularly."
+    },
+    {
       "word": "prince",
       "pos": "NOUN",
       "translation": "le prince",
@@ -15059,6 +15455,12 @@
       "pos": "NOUN",
       "translation": "le prisonnier",
       "example": "When the fighting was over, the villagers dragged one of the prisoners into the light of the fire."
+    },
+    {
+      "word": "Priya",
+      "pos": "PROPN",
+      "translation": "Priya (prénom)",
+      "example": "Priya Shah had lived three doors down from the Turners for most of their childhood, before her family moved across the city to Roundhay."
     },
     {
       "word": "prize",
@@ -15203,6 +15605,12 @@
       "pos": "NOUN",
       "translation": "la flaque",
       "example": "\"His Well's about as deep as a puddle.\""
+    },
+    {
+      "word": "puff",
+      "pos": "VERB",
+      "translation": "souffler, haleter",
+      "example": "At work, he walked slowly up and down the aisles like before, puffing and sweating, and he realised for the first time how much he hated it."
     },
     {
       "word": "pull",
@@ -15373,6 +15781,12 @@
       "example": "But the Tanner brothers, who had claimed the alcoves on either side of his, seemed to have decided on the long journey north that anyone who could put up with Tamsin was all right by them; and Tamsin herself made it clear to the whole of Hearthside, within the first hour, that anyone who had a problem with Rowan Ashby could bring it to her."
     },
     {
+      "word": "pyjamas",
+      "pos": "NOUN",
+      "translation": "le pyjama",
+      "example": "He ate four bowls of cereal, two bananas and a whole packet of biscuits, standing in the kitchen in his pyjamas, while the cat watched him from the windowsill with something like respect."
+    },
+    {
       "word": "quality",
       "pos": "NOUN",
       "translation": "la qualité, la nature",
@@ -15515,6 +15929,12 @@
       "pos": "VERB",
       "translation": "lever",
       "example": "The king raised his sword and touched him lightly on each shoulder."
+    },
+    {
+      "word": "raise an eyebrow",
+      "pos": "PHRASE",
+      "translation": "hausser un sourcil",
+      "example": "Priya raised an eyebrow, sat on a bench and gestured for him to begin."
     },
     {
       "word": "rake",
@@ -15714,6 +16134,12 @@
       "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
     },
     {
+      "word": "recently",
+      "pos": "ADV",
+      "translation": "récemment, ces derniers temps",
+      "example": "\"Max,\" she said at last, very gently, \"how much have you been sleeping recently?\""
+    },
+    {
       "word": "recite",
       "pos": "VERB",
       "translation": "réciter",
@@ -15832,6 +16258,12 @@
       "pos": "ADJ",
       "translation": "régulier",
       "example": "The Marking always fell on the first morning of Leaf-Fall, as regular as the first frost, and he had been counting the days since midsummer."
+    },
+    {
+      "word": "regularly",
+      "pos": "ADV",
+      "translation": "régulièrement",
+      "example": "They had been in the same class at primary school, and she was the only friend from those days he still saw regularly."
     },
     {
       "word": "rejoicing",
@@ -15964,6 +16396,12 @@
       "pos": "VERB",
       "translation": "remettre en place ; remplacer",
       "example": "Then the letter was folded, the leaf replaced, the twine retied."
+    },
+    {
+      "word": "reply",
+      "pos": "NOUN",
+      "translation": "la réponse",
+      "example": "The reply was a single eye-rolling face."
     },
     {
       "word": "reply",
@@ -16488,6 +16926,12 @@
       "example": "Tamsin rounded on them with a face like thunder."
     },
     {
+      "word": "Roundhay",
+      "pos": "PROPN",
+      "translation": "Roundhay (quartier de Leeds)",
+      "example": "Priya Shah had lived three doors down from the Turners for most of their childhood, before her family moved across the city to Roundhay."
+    },
+    {
       "word": "Rousse",
       "pos": "PROPN",
       "translation": "Rousse (dans « Croix-Rousse », colline de Lyon)",
@@ -16582,6 +17026,12 @@
       "pos": "NOUN",
       "translation": "le coureur, la coureuse",
       "example": "You controlled a runner, a thin young woman in a red hoodie, who had to cross the city by jumping from roof to roof, climbing walls, sliding under pipes and swinging over gaps."
+    },
+    {
+      "word": "running",
+      "pos": "NOUN",
+      "translation": "la course à pied (« running times » : temps de course)",
+      "example": "She took a small notebook out of her jacket pocket, the one she used to record her running times, and turned to a clean page."
     },
     {
       "word": "rush",
@@ -16806,6 +17256,12 @@
       "example": "When her schooling was finished, Elinor had stayed on at Thornhall."
     },
     {
+      "word": "science",
+      "pos": "NOUN",
+      "translation": "la science (« sports science » : sciences du sport, STAPS)",
+      "example": "She was in her final year of a sports science degree at Leeds Beckett, she ran half-marathons for fun, and she believed in nothing she could not measure."
+    },
+    {
       "word": "score",
       "pos": "VERB",
       "translation": "rayer, entailler ; marquer (des points)",
@@ -16990,6 +17446,12 @@
       "pos": "ADJ",
       "translation": "deuxième",
       "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
+    },
+    {
+      "word": "second",
+      "pos": "ADV",
+      "translation": "deuxièmement",
+      "example": "Second, he would write down everything he ate and how many hours he slept."
     },
     {
       "word": "second",
@@ -17232,6 +17694,12 @@
       "example": "What stood beside the shrine, nose to tail, were four long, high-sided farm wagons, each with a canvas hood patched in three different colours and hitched to a pair of shaggy brown oxen who were chewing with the slow, profound indifference of creatures that had seen everything and been impressed by none of it."
     },
     {
+      "word": "Shah",
+      "pos": "PROPN",
+      "translation": "Shah (nom de famille)",
+      "example": "Priya Shah had lived three doors down from the Turners for most of their childhood, before her family moved across the city to Roundhay."
+    },
+    {
       "word": "shake",
       "pos": "VERB",
       "translation": "secouer, trembler (« shook his head » : secoua la tête)",
@@ -17242,6 +17710,12 @@
       "pos": "PHRASE",
       "translation": "secouer (pour faire tomber) ; se débarrasser de",
       "example": "He shook it off into the fire, where it flared and was gone."
+    },
+    {
+      "word": "shaky",
+      "pos": "ADJ",
+      "translation": "tremblant, tremblé",
+      "example": "One just said NIGHT HOLLOW, written in shaky letters, and when he held it, he felt a small, cold shiver run down his back."
     },
     {
       "word": "shall",
@@ -17494,6 +17968,12 @@
       "pos": "ADV",
       "translation": "court (« cut short » : coupé court)",
       "example": "She was perhaps a year older than him, thin and sharp-featured, with black hair cut short as a boy's and a long scar, old and white, running down the back of her left hand."
+    },
+    {
+      "word": "shortcut",
+      "pos": "NOUN",
+      "translation": "le raccourci",
+      "example": "\"Shortcut,\" Max said, picking up both bags at once."
     },
     {
       "word": "shortly",
@@ -18517,9 +18997,21 @@
     },
     {
       "word": "sort",
+      "pos": "ADV",
+      "translation": "(« sort of » : en quelque sorte, plus ou moins)",
+      "example": "Max looked at the screen for a long time before he typed: Sort of."
+    },
+    {
+      "word": "sort",
       "pos": "VERB",
       "translation": "trier",
       "example": "Bram stripped the fallen oak with short, economical strokes while Rowan dragged the branches to the pile and sorted them by thickness: kindling, fencing, firewood, nothing wasted."
+    },
+    {
+      "word": "sort of",
+      "pos": "PHRASE",
+      "translation": "en quelque sorte, plus ou moins",
+      "example": "Max looked at the screen for a long time before he typed: Sort of."
     },
     {
       "word": "sort out",
@@ -18730,6 +19222,12 @@
       "pos": "NOUN",
       "translation": "la cuillère",
       "example": "Halfway through, Bram put down his spoon."
+    },
+    {
+      "word": "sport",
+      "pos": "NOUN",
+      "translation": "le sport (« sports bag » : sac de sport)",
+      "example": "Lily was standing at the entrance of the leisure centre with two sports bags at her feet and her arms crossed."
     },
     {
       "word": "spot",
@@ -18990,6 +19488,12 @@
       "example": "She looked like an old heron: all angles, with a long white plait wound around her head and a pair of startlingly bright black eyes."
     },
     {
+      "word": "starve",
+      "pos": "VERB",
+      "translation": "mourir de faim (« starving » : affamé)",
+      "example": "He slept until four in the afternoon and woke up starving."
+    },
+    {
       "word": "state",
       "pos": "VERB",
       "translation": "stipuler, déclarer",
@@ -19174,6 +19678,12 @@
       "pos": "NOUN",
       "translation": "la souche, la lignée (« farm stock » : gens de la campagne)",
       "example": "Farm stock."
+    },
+    {
+      "word": "stocky",
+      "pos": "ADJ",
+      "translation": "trapu",
+      "example": "The game put him in control of a small, stocky midfielder with a shaved head and the number 10 on his shirt."
     },
     {
       "word": "stomach",
@@ -19548,6 +20058,12 @@
       "example": "Just before the impact, Godfrey's saddle suddenly slipped to one side."
     },
     {
+      "word": "sugar",
+      "pos": "NOUN",
+      "translation": "le sucre",
+      "example": "Two sugars."
+    },
+    {
       "word": "suggest",
       "pos": "VERB",
       "translation": "suggérer, proposer",
@@ -19588,6 +20104,12 @@
       "pos": "NOUN",
       "translation": "le soleil",
       "example": "The sun is hot. — Le soleil est chaud."
+    },
+    {
+      "word": "Sunday",
+      "pos": "PROPN",
+      "translation": "dimanche",
+      "example": "First, he would not play any more games on the Halcyon until Sunday, so that they could start their tests with his body at zero."
     },
     {
       "word": "sunflower",
@@ -19716,6 +20238,12 @@
       "example": "A girl from Hob's Ford brought dew streaming down the Stone like sweat."
     },
     {
+      "word": "sweat",
+      "pos": "VERB",
+      "translation": "transpirer, suer",
+      "example": "He was not sweating."
+    },
+    {
       "word": "sweep",
       "pos": "VERB",
       "translation": "balayer (« sweep away » : s'éloigner d'un pas majestueux)",
@@ -19834,6 +20362,12 @@
       "pos": "VERB",
       "translation": "prendre",
       "example": "He takes Leo. — Il prend Leo."
+    },
+    {
+      "word": "take a breath",
+      "pos": "PHRASE",
+      "translation": "inspirer, prendre son souffle",
+      "example": "He took a breath and began to count."
     },
     {
       "word": "take care of",
@@ -20049,6 +20583,12 @@
       "pos": "ADV",
       "translation": "tendrement",
       "example": "Edric sat up front with the driver, a taciturn old man called Gethin who addressed his oxen far more tenderly than he ever addressed his passengers."
+    },
+    {
+      "word": "tennis",
+      "pos": "NOUN",
+      "translation": "le tennis",
+      "example": "ACE POINT had to be tennis."
     },
     {
       "word": "tent",
@@ -20315,6 +20855,12 @@
       "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
     },
     {
+      "word": "third",
+      "pos": "ADV",
+      "translation": "troisièmement",
+      "example": "And third, he would tell absolutely nobody."
+    },
+    {
       "word": "thirty",
       "pos": "NUM",
       "translation": "trente",
@@ -20567,6 +21113,12 @@
       "example": "He tied off the bandage."
     },
     {
+      "word": "tie up",
+      "pos": "PHRASE",
+      "translation": "attacher, nouer (« hair tied up in a knot » : cheveux noués en chignon)",
+      "example": "She arrived on her bicycle at five to ten, wearing running tights and a waterproof jacket, her long black hair tied up in a knot on the top of her head."
+    },
+    {
       "word": "tier",
       "pos": "NOUN",
       "translation": "le gradin, le rang",
@@ -20595,6 +21147,12 @@
       "pos": "ADV",
       "translation": "fort, étroitement",
       "example": "She ran around the counter, opened the basket and held me so tightly that I could hardly breathe."
+    },
+    {
+      "word": "tights",
+      "pos": "NOUN",
+      "translation": "le collant (« running tights » : collant de course)",
+      "example": "She arrived on her bicycle at five to ten, wearing running tights and a waterproof jacket, her long black hair tied up in a knot on the top of her head."
     },
     {
       "word": "tile",
@@ -21287,6 +21845,12 @@
       "example": "Two branches. — Deux branches."
     },
     {
+      "word": "type",
+      "pos": "VERB",
+      "translation": "taper (au clavier)",
+      "example": "Max looked at the screen for a long time before he typed: Sort of."
+    },
+    {
       "word": "typewriter",
       "pos": "NOUN",
       "translation": "la machine à écrire",
@@ -21453,6 +22017,12 @@
       "pos": "VERB",
       "translation": "désinstaller",
       "example": "\"If they nerf the blacksmiths again, I'm uninstalling,\" Inès said."
+    },
+    {
+      "word": "university",
+      "pos": "NOUN",
+      "translation": "l'université, la fac",
+      "example": "\"We go to my university gym,\" she said, \"and we find out exactly what you are.\""
     },
     {
       "word": "unkind",
@@ -21778,6 +22348,12 @@
       "example": "The archives of Thornhall lay beneath the Great Hall, in a long, low, vaulted cellar that ran the whole length of the building."
     },
     {
+      "word": "vegetable",
+      "pos": "NOUN",
+      "translation": "le légume",
+      "example": "It was Priya, already: Also, eat some vegetables."
+    },
+    {
       "word": "vein",
       "pos": "NOUN",
       "translation": "la veine, la nervure",
@@ -22042,6 +22618,12 @@
       "example": "It was warm."
     },
     {
+      "word": "warmly",
+      "pos": "ADV",
+      "translation": "chaleureusement, avec chaleur",
+      "example": "Max played two full seasons, and the console hummed warmly the whole time."
+    },
+    {
       "word": "warmth",
       "pos": "NOUN",
       "translation": "la chaleur",
@@ -22136,6 +22718,12 @@
       "pos": "NOUN",
       "translation": "l'arrosage",
       "example": "He set Rowan to work — potting, pruning, watering, scraping moss from the cracked panes — and then sat on an upturned bucket and watched him, sucking on an unlit pipe, saying nothing for hours at a time."
+    },
+    {
+      "word": "waterproof",
+      "pos": "ADJ",
+      "translation": "imperméable",
+      "example": "She arrived on her bicycle at five to ten, wearing running tights and a waterproof jacket, her long black hair tied up in a knot on the top of her head."
     },
     {
       "word": "wave",
@@ -22244,6 +22832,12 @@
       "pos": "NOUN",
       "translation": "la semaine",
       "example": "Last week, my brother saw one of them pay for his drinks with a silver coin."
+    },
+    {
+      "word": "weekend",
+      "pos": "NOUN",
+      "translation": "le week-end",
+      "example": "Nobody can learn that in a weekend."
     },
     {
       "word": "weep",
@@ -23150,6 +23744,12 @@
       "pos": "PRON",
       "translation": "vous-mêmes",
       "example": "That, you will discover for yourselves."
+    },
+    {
+      "word": "zero",
+      "pos": "NUM",
+      "translation": "zéro",
+      "example": "First, he would not play any more games on the Halcyon until Sunday, so that they could start their tests with his body at zero."
     },
     {
       "word": "Zola",
