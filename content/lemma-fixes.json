@@ -1,6 +1,18 @@
 {
   "fixes": [
     {
+      "text": "A180",
+      "pos": "NOUN",
+      "word": "A180",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "A9",
+      "pos": "NOUN",
+      "word": "A9",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "According",
       "pos": "VERB",
       "word": "according",
@@ -34,6 +46,12 @@
       "text": "alcoves",
       "pos": "VERB",
       "word": "alcove",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "amber",
+      "pos": "PROPN",
+      "word": "amber",
       "lemmaPos": "NOUN"
     },
     {
@@ -83,6 +101,12 @@
       "pos": "PROPN",
       "word": "aye",
       "lemmaPos": "INTJ"
+    },
+    {
+      "text": "bagged",
+      "pos": "VERB",
+      "word": "bagged",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "bareheaded",
@@ -248,6 +272,13 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "brand",
+      "pos": "NOUN",
+      "next": "-",
+      "word": "brand-new",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Breathe",
       "pos": "ADJ",
       "word": "breathe",
@@ -278,9 +309,21 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "bruised",
+      "pos": "VERB",
+      "word": "bruised",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "bursar",
       "pos": "PROPN",
       "word": "bursar",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "by",
+      "pos": "NOUN",
+      "word": "lay-by",
       "lemmaPos": "NOUN"
     },
     {
@@ -349,6 +392,12 @@
       "pos": "NOUN",
       "word": "close",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "closure",
+      "pos": "PROPN",
+      "word": "closure",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "clothes",
@@ -532,6 +581,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "down",
+      "pos": "NOUN",
+      "word": "down",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "E.",
       "pos": "NOUN",
       "word": "E.",
@@ -590,6 +645,12 @@
       "pos": "PROPN",
       "word": "experiment",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "extinguish",
+      "pos": "ADJ",
+      "word": "extinguish",
+      "lemmaPos": "VERB"
     },
     {
       "text": "facing",
@@ -769,6 +830,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "German",
+      "pos": "ADJ",
+      "next": "Bight",
+      "word": "German",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "Gesture",
       "pos": "PROPN",
       "word": "gesture",
@@ -849,6 +917,12 @@
     {
       "text": "GOT",
       "pos": "VERB",
+      "word": "get",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "Got",
+      "pos": "PROPN",
       "word": "get",
       "lemmaPos": "VERB"
     },
@@ -1082,6 +1156,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "installed",
+      "pos": "VERB",
+      "word": "install",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Interesting",
       "pos": "PROPN",
       "word": "interesting",
@@ -1198,6 +1278,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "lay",
+      "pos": "NOUN",
+      "word": "lay-by",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "lean",
       "pos": "ADJ",
       "next": ".",
@@ -1229,6 +1315,25 @@
       "pos": "ADJ",
       "word": "cross-legged",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "legged",
+      "pos": "ADJ",
+      "next": "from",
+      "word": "stiff-legged",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "lethal",
+      "pos": "VERB",
+      "word": "lethal",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "lift",
+      "pos": "NOUN",
+      "word": "lift",
+      "lemmaPos": "VERB"
     },
     {
       "text": "lifting",
@@ -1295,6 +1400,12 @@
       "text": "Léa",
       "pos": "ADJ",
       "word": "Léa",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "M180",
+      "pos": "NOUN",
+      "word": "M180",
       "lemmaPos": "PROPN"
     },
     {
@@ -1370,9 +1481,21 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "minus",
+      "pos": "CCONJ",
+      "word": "minus",
+      "lemmaPos": "ADP"
+    },
+    {
       "text": "MISSES",
       "pos": "PROPN",
       "word": "miss",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "mistook",
+      "pos": "VERB",
+      "word": "mistake",
       "lemmaPos": "VERB"
     },
     {
@@ -1635,6 +1758,12 @@
       "lemmaPos": "ADP"
     },
     {
+      "text": "Past",
+      "pos": "PROPN",
+      "word": "past",
+      "lemmaPos": "ADP"
+    },
+    {
       "text": "Patience",
       "pos": "NOUN",
       "word": "Patience",
@@ -1797,6 +1926,19 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "rated",
+      "pos": "VERB",
+      "word": "rate",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "re",
+      "pos": "VERB",
+      "next": "-",
+      "word": "re-form",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "recognises",
       "pos": "NOUN",
       "word": "recognise",
@@ -1938,10 +2080,22 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "saintly",
+      "pos": "ADV",
+      "word": "saintly",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "satchel",
       "pos": "PROPN",
       "word": "satchel",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "save",
+      "pos": "NOUN",
+      "word": "save",
+      "lemmaPos": "ADP"
     },
     {
       "text": "Scottish",
@@ -2170,6 +2324,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "squat",
+      "pos": "NOUN",
+      "word": "squat",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "stared",
       "pos": "VERB",
       "word": "stare",
@@ -2179,6 +2339,19 @@
       "text": "staring",
       "pos": "VERB",
       "word": "stare",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "stiff",
+      "pos": "ADV",
+      "next": "-",
+      "word": "stiff-legged",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "stiffen",
+      "pos": "NOUN",
+      "word": "stiffen",
       "lemmaPos": "VERB"
     },
     {
@@ -2198,6 +2371,12 @@
       "pos": "PROPN",
       "word": "Stone",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "stonier",
+      "pos": "NOUN",
+      "word": "stony",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "stranger",
@@ -2292,6 +2471,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "tachograph",
+      "pos": "PROPN",
+      "word": "tachograph",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "talkative",
       "pos": "VERB",
       "word": "talkative",
@@ -2356,6 +2541,12 @@
       "pos": "NOUN",
       "word": "thanks",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "thickening",
+      "pos": "NOUN",
+      "word": "thicken",
+      "lemmaPos": "VERB"
     },
     {
       "text": "thimble",
@@ -2556,10 +2747,22 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "wake",
+      "pos": "NOUN",
+      "word": "wake",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Watch",
       "pos": "PROPN",
       "word": "watch",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Weather",
+      "pos": "PROPN",
+      "word": "weather",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Well",
@@ -2629,6 +2832,12 @@
       "next": "blackthorn",
       "word": "white",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "windscreen",
+      "pos": "ADJ",
+      "word": "windscreen",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Wood",
