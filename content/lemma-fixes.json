@@ -109,6 +109,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "bell",
+      "pos": "PROPN",
+      "word": "bell",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "belongings",
       "pos": "NOUN",
       "word": "belongings",
@@ -192,6 +198,12 @@
       "next": ",",
       "word": "bloom",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "BONG",
+      "pos": "PROPN",
+      "word": "bong",
+      "lemmaPos": "INTJ"
     },
     {
       "text": "BOOT",
@@ -313,6 +325,12 @@
       "pos": "VERB",
       "word": "cloaked",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "CLOCK",
+      "pos": "PROPN",
+      "word": "clock",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "close",
@@ -532,6 +550,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Easy",
+      "pos": "PROPN",
+      "word": "easy",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Edric",
       "pos": "ADJ",
       "word": "Edric",
@@ -709,6 +733,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Frozen",
+      "pos": "PROPN",
+      "word": "frozen",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "fumble",
       "pos": "ADJ",
       "word": "fumble",
@@ -809,6 +839,12 @@
       "pos": "NOUN",
       "word": "gone",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Goodnight",
+      "pos": "PROPN",
+      "word": "goodnight",
+      "lemmaPos": "INTJ"
     },
     {
       "text": "GOT",
@@ -932,6 +968,12 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "higher",
+      "pos": "ADV",
+      "word": "high",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "hill",
       "pos": "PROPN",
       "word": "hill",
@@ -966,6 +1008,12 @@
       "pos": "PROPN",
       "word": "house",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "hung",
+      "pos": "PROPN",
+      "word": "hang",
+      "lemmaPos": "VERB"
     },
     {
       "text": "hurrying",
@@ -1543,6 +1591,13 @@
       "lemmaPos": "ADP"
     },
     {
+      "text": "past",
+      "pos": "NOUN",
+      "next": "four",
+      "word": "past",
+      "lemmaPos": "ADP"
+    },
+    {
       "text": "Patience",
       "pos": "NOUN",
       "word": "Patience",
@@ -1687,6 +1742,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "rang",
+      "pos": "PROPN",
+      "word": "ring",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Rasp",
       "pos": "PROPN",
       "word": "rasp",
@@ -1778,6 +1839,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "ropes",
+      "pos": "VERB",
+      "word": "rope",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "rosemary",
       "pos": "ADJ",
       "word": "rosemary",
@@ -1819,6 +1886,12 @@
       "pos": "PROPN",
       "word": "satchel",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Scottish",
+      "pos": "ADJ",
+      "word": "Scottish",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "scraped",
@@ -1889,10 +1962,28 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "shop",
+      "pos": "PROPN",
+      "word": "shop",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Shop",
+      "pos": "PROPN",
+      "word": "shop",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Shortcut",
       "pos": "PROPN",
       "word": "shortcut",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "shut",
+      "pos": "NOUN",
+      "word": "shut",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "sickening",
@@ -2187,6 +2278,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "thimble",
+      "pos": "ADJ",
+      "word": "thimble",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "thorned",
       "pos": "VERB",
       "word": "thorned",
@@ -2209,6 +2306,12 @@
       "pos": "NOUN",
       "word": "thud",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Tick",
+      "pos": "PROPN",
+      "word": "tick",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "tights",

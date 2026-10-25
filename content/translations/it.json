@@ -610,6 +610,12 @@
       "example": "A few were missing altogether, and someone had patched the gaps with oiled canvas that flapped in the wind."
     },
     {
+      "word": "aluminium",
+      "pos": "NOUN",
+      "translation": "l'alluminio",
+      "example": "It was nine o'clock and the village was asleep when they arrived at St Oswald's with an aluminium ladder and two torches."
+    },
+    {
       "word": "always",
       "pos": "ADV",
       "translation": "sempre",
@@ -650,6 +656,12 @@
       "pos": "NOUN",
       "translation": "il divertimento",
       "example": "He turned a page, and then another, and then stopped, and an odd expression crossed his face — half reluctance, half something that might almost have been amusement."
+    },
+    {
+      "word": "Amy",
+      "pos": "PROPN",
+      "translation": "Amy (nome)",
+      "example": "So I wrote you a card, and Amy, my nurse, put it in the red box on her way home."
     },
     {
       "word": "an",
@@ -848,6 +860,12 @@
       "pos": "ADV",
       "translation": "con approvazione",
       "example": "A sullen boy whom Rowan didn't know made two of the spirals flare a dull, angry orange, and Edric Vane, watching from the edge of the crowd with his arms folded, nodded approvingly, as one Fire to another."
+    },
+    {
+      "word": "April",
+      "pos": "PROPN",
+      "translation": "aprile",
+      "example": "A secret in a small village is like snow in April: everybody knows it will not last long."
     },
     {
       "word": "apron",
@@ -1088,6 +1106,12 @@
       "pos": "VERB",
       "translation": "chiedere, domandare",
       "example": "Mia asks for help. — Mia chiede aiuto."
+    },
+    {
+      "word": "Askew",
+      "pos": "PROPN",
+      "translation": "Askew (cognome)",
+      "example": "She told only three people the truth: Ruth, because it was her church; Harry, who already knew; and Jim Askew, who owned the pub, because he knew everybody and could keep his mouth shut."
     },
     {
       "word": "asleep",
@@ -1337,6 +1361,12 @@
       "pos": "ADJ",
       "translation": "terribile, orribile",
       "example": "There was a short, awful silence."
+    },
+    {
+      "word": "awkwardly",
+      "pos": "ADV",
+      "translation": "goffamente, con imbarazzo",
+      "example": "\"Good morning,\" he said to the queue, a little awkwardly, as if the words were rusty."
     },
     {
       "word": "awning",
@@ -1818,6 +1848,12 @@
       "example": "Now his uncle looked at the nearest of them — a young beech, bent towards Rowan's shoulder like someone trying to overhear a secret — and set down his mug."
     },
     {
+      "word": "beer",
+      "pos": "NOUN",
+      "translation": "la birra",
+      "example": "He was sitting in the pub for the first time in years, with a pint of beer and half the village around him, and he looked almost comfortable."
+    },
+    {
       "word": "before",
       "pos": "ADP",
       "translation": "prima di, davanti a",
@@ -2062,6 +2098,12 @@
       "pos": "PROPN",
       "translation": "Biscuit (nome del gatto)",
       "example": "Inside, her cat Biscuit was waiting for her on the stairs, with the face of a cat who has not eaten for three weeks."
+    },
+    {
+      "word": "bishop",
+      "pos": "NOUN",
+      "translation": "il vescovo",
+      "example": "The bishop will think I'm a genius."
     },
     {
       "word": "bit",
@@ -2328,6 +2370,12 @@
       "example": "I found a small space under a chimney and pressed my body against the bricks."
     },
     {
+      "word": "bolt",
+      "pos": "NOUN",
+      "translation": "il bullone",
+      "example": "Then he needed to fix it with a small bolt."
+    },
+    {
       "word": "bone",
       "pos": "NOUN",
       "translation": "l'osso",
@@ -2338,6 +2386,12 @@
       "pos": "NOUN",
       "translation": "la farina d'ossa (concime)",
       "example": "He lived in a tiny lean-to at the end of the fifth glasshouse, among sacks of bonemeal and coils of twine, and nobody at the Academy seemed to remember that he was there unless something died."
+    },
+    {
+      "word": "bong",
+      "pos": "INTJ",
+      "translation": "don! (suono di campana)",
+      "example": "BONG."
     },
     {
       "word": "book",
@@ -2482,6 +2536,12 @@
       "pos": "NOUN",
       "translation": "il pugilato, la boxe",
       "example": "IRON GLOVE was boxing, surely."
+    },
+    {
+      "word": "boxing day",
+      "pos": "PHRASE",
+      "translation": "Santo Stefano (26 dicembre, festivo britannico)",
+      "example": "On Boxing Day, Margaret went to the post office early, although it was closed, to take the red box in for another year."
     },
     {
       "word": "boy",
@@ -2916,6 +2976,12 @@
       "example": "It smells like butter and home."
     },
     {
+      "word": "button",
+      "pos": "NOUN",
+      "translation": "il bottone",
+      "example": "Mrs Taylor brought a candlestick, and the twins brought a brass button each, very seriously, as if it was the most important gift in the world."
+    },
+    {
       "word": "buttress",
       "pos": "NOUN",
       "translation": "il contrafforte",
@@ -3088,6 +3154,12 @@
       "pos": "NOUN",
       "translation": "la candela",
       "example": "The candles flickered, and the hours passed slowly."
+    },
+    {
+      "word": "candlestick",
+      "pos": "NOUN",
+      "translation": "il candeliere",
+      "example": "Door handles, candlesticks, old taps."
     },
     {
       "word": "canopy",
@@ -3666,6 +3738,12 @@
       "example": "The snow had stopped, and the village lay below her like a picture on a Christmas card: small yellow windows, white roofs, a thin line of smoke from every chimney."
     },
     {
+      "word": "christmas cracker",
+      "pos": "PHRASE",
+      "translation": "il cracker natalizio (tubo a sorpresa che scoppietta)",
+      "example": "Laura was there, with paper crowns from Christmas crackers on her head, and Sam, and Pepper, who was not allowed in the hospital but was hiding under the bed with only her tail outside."
+    },
+    {
       "word": "christmas day",
       "pos": "PHRASE",
       "translation": "il giorno di Natale",
@@ -3883,6 +3961,12 @@
     },
     {
       "word": "click",
+      "pos": "NOUN",
+      "translation": "lo scatto, il clic",
+      "example": "At exactly six o'clock, the new brass wheel turned, there was a loud click, and the hammer began to lift towards the bell... and stopped."
+    },
+    {
+      "word": "click",
       "pos": "VERB",
       "translation": "scricchiolare, fare clic",
       "example": "His stomach pushed against his work fleece, his knees clicked when he climbed stairs, and he got out of breath faster than his mum, who smoked ten cigarettes a day."
@@ -3898,6 +3982,12 @@
       "pos": "VERB",
       "translation": "arrampicarsi",
       "example": "She climbs the tree. — Si arrampica sull'albero."
+    },
+    {
+      "word": "climb up",
+      "pos": "PHRASE",
+      "translation": "salire, arrampicarsi",
+      "example": "Margaret held the ladder while Harry climbed up, slowly, complaining about his knees."
     },
     {
       "word": "clink",
@@ -4208,7 +4298,7 @@
     {
       "word": "come across",
       "pos": "PHRASE",
-      "translation": "imbattersi in, trovare per caso",
+      "translation": "imbattersi in, trovare per caso ; attraversare («came across the snowy roofs»: attraversò i tetti innevati)",
       "example": "\"I came across it years ago, cataloguing a cabinet that hadn't been opened since before I was born, and I've carried a copy with me ever since.\""
     },
     {
@@ -4408,6 +4498,12 @@
       "pos": "ADJ",
       "translation": "fiducioso, sicuro di sé",
       "example": "\"Running will not save you,\" he told them, trying to sound more confident than he felt."
+    },
+    {
+      "word": "confused",
+      "pos": "ADJ",
+      "translation": "confuso, perplesso",
+      "example": "He looked at her, confused."
     },
     {
       "word": "confusion",
@@ -4780,6 +4876,12 @@
       "pos": "VERB",
       "translation": "creparsi, incrinarsi ; (voce) incrinarsi",
       "example": "The Standing Stone of Brackenford,\" she said quietly, \"has cracked."
+    },
+    {
+      "word": "cracker",
+      "pos": "NOUN",
+      "translation": "il cracker («Christmas cracker»: cracker natalizio)",
+      "example": "Laura was there, with paper crowns from Christmas crackers on her head, and Sam, and Pepper, who was not allowed in the hospital but was hiding under the bed with only her tail outside."
     },
     {
       "word": "crackle",
@@ -7762,6 +7864,12 @@
       "example": "Then it was only a wood shaving, dry and pale, and he shook it off into the fire, where it flared and was gone."
     },
     {
+      "word": "flask",
+      "pos": "NOUN",
+      "translation": "il thermos",
+      "example": "This time she brought a flask of hot tea and two mince pies from the bakery, and she sat down on a wooden box without asking."
+    },
+    {
       "word": "flat",
       "pos": "ADJ",
       "translation": "piatto",
@@ -8626,6 +8734,18 @@
       "example": "Her whole family's Earth, four generations back."
     },
     {
+      "word": "generator",
+      "pos": "NOUN",
+      "translation": "il generatore",
+      "example": "And up on the hill, at Fellside, where the hospital had its own generator, one window on the south side was full of light."
+    },
+    {
+      "word": "genius",
+      "pos": "NOUN",
+      "translation": "il genio",
+      "example": "The bishop will think I'm a genius."
+    },
+    {
       "word": "gentle",
       "pos": "ADJ",
       "translation": "dolce, mite",
@@ -8666,6 +8786,12 @@
       "pos": "VERB",
       "translation": "ottenere, ricevere («got this»: mi sono fatto questo)",
       "example": "\"Do you know how I got this?\""
+    },
+    {
+      "word": "get down",
+      "pos": "PHRASE",
+      "translation": "chinarsi, scendere («got down on her knees»: si inginocchiò)",
+      "example": "She got down on her knees and began to search with her hands, centimetre by centimetre."
     },
     {
       "word": "get in",
@@ -9015,6 +9141,12 @@
       "example": "He was so delighted that he punched the air like a footballer after a goal."
     },
     {
+      "word": "God",
+      "pos": "PROPN",
+      "translation": "Dio",
+      "example": "Thank God the clock doesn't need electricity."
+    },
+    {
       "word": "Godfrey",
       "pos": "PROPN",
       "translation": "Godfrey (nome)",
@@ -9067,6 +9199,12 @@
       "pos": "NOUN",
       "translation": "l'addio, il saluto («say goodbye»: salutare)",
       "example": "A girl Rowan didn't know was saying goodbye to a tall, stooped man at the edge of the crowd — briefly, without fuss, the way you might say goodbye to someone you would see again at supper."
+    },
+    {
+      "word": "goodnight",
+      "pos": "INTJ",
+      "translation": "buonanotte",
+      "example": "Goodnight, Mrs Penrose."
     },
     {
       "word": "gossip",
@@ -9409,6 +9547,12 @@
       "pos": "NOUN",
       "translation": "la gomma («chewing gum»: gomma da masticare)",
       "example": "That was the word Maxence Laborde had chosen for them back in collège, and it had stuck the way chewing gum sticks to the sole of a shoe."
+    },
+    {
+      "word": "gun",
+      "pos": "NOUN",
+      "translation": "la pistola, il fucile, lo sparo",
+      "example": "The wind was so strong that the church door banged like a gun, and the snow came sideways, not down."
     },
     {
       "word": "gust",
@@ -10712,6 +10856,12 @@
       "example": "The script was formal and faintly impatient, the way official documents always seemed to be."
     },
     {
+      "word": "important",
+      "pos": "ADJ",
+      "translation": "importante",
+      "example": "Mrs Taylor brought a candlestick, and the twins brought a brass button each, very seriously, as if it was the most important gift in the world."
+    },
+    {
       "word": "impossible",
       "pos": "ADJ",
       "translation": "impossibile",
@@ -10816,6 +10966,12 @@
       "pos": "PHRASE",
       "translation": "in particolare",
       "example": "Rowan was aware of everything at once and of nothing in particular: the damp grass soaking through his boots, the smell of woodsmoke and wet wool, a baby crying somewhere at the back, Bram's stillness behind him like a wall."
+    },
+    {
+      "word": "in pieces",
+      "pos": "PHRASE",
+      "translation": "a pezzi, smontato",
+      "example": "It was full of things in pieces: a radio with no back, three bicycle wheels, a clock from a kitchen, an old sewing machine."
     },
     {
       "word": "in spite of",
@@ -11176,6 +11332,12 @@
       "example": "Bram's jaw worked on a crust of bread for a long moment."
     },
     {
+      "word": "Jean",
+      "pos": "PROPN",
+      "translation": "Jean (nome femminile inglese)",
+      "example": "Then he said, in a different voice: \"When my Jean was ill, Walter brought the post every morning.\""
+    },
+    {
       "word": "Jeanne",
       "pos": "PROPN",
       "translation": "Jeanne (nome)",
@@ -11192,6 +11354,12 @@
       "pos": "VERB",
       "translation": "sobbalzare, scattare",
       "example": "The rod in his hand jerked one way, then the other, then swung wildly back and forth, unable to settle, as though whatever it had been following were suddenly everywhere at once, spreading through the ground beneath the hall like roots."
+    },
+    {
+      "word": "Jim",
+      "pos": "PROPN",
+      "translation": "Jim (nome)",
+      "example": "She told only three people the truth: Ruth, because it was her church; Harry, who already knew; and Jim Askew, who owned the pub, because he knew everybody and could keep his mouth shut."
     },
     {
       "word": "jingle",
@@ -11336,6 +11504,12 @@
       "pos": "VERB",
       "translation": "tenere, custodire",
       "example": "It is also where I keep my secrets."
+    },
+    {
+      "word": "keep his mouth shut",
+      "pos": "PHRASE",
+      "translation": "tenere la bocca chiusa",
+      "example": "She told only three people the truth: Ruth, because it was her church; Harry, who already knew; and Jim Askew, who owned the pub, because he knew everybody and could keep his mouth shut."
     },
     {
       "word": "keep out",
@@ -11626,6 +11800,12 @@
       "example": "But it landed in the small room like a log dropped on the hearth, and Rowan let the question die."
     },
     {
+      "word": "land on",
+      "pos": "PHRASE",
+      "translation": "atterrare su, finire su",
+      "example": "Well, I knew exactly which desk that letter would land on."
+    },
+    {
       "word": "landing",
       "pos": "NOUN",
       "translation": "l'approdo («landing stage»: il pontile)",
@@ -11714,6 +11894,12 @@
       "pos": "VERB",
       "translation": "durare",
       "example": "The light lasted longer each time: six seconds, then ten, then twenty."
+    },
+    {
+      "word": "last orders",
+      "pos": "PHRASE",
+      "translation": "l'ultimo giro (prima della chiusura del pub)",
+      "example": "Jim from the pub brought a door handle and a bell that nobody had rung for \"last orders\" since 1990."
     },
     {
       "word": "latch",
@@ -11816,6 +12002,12 @@
       "pos": "PROPN",
       "translation": "Léa (nome)",
       "example": "My human is called Léa."
+    },
+    {
+      "word": "lead",
+      "pos": "NOUN",
+      "translation": "il guinzaglio",
+      "example": "Laura Pike came in, with Sam behind her and Pepper on a lead."
     },
     {
       "word": "lead",
@@ -12699,6 +12891,12 @@
       "example": "It was the name in the last lines that made him read the notice twice."
     },
     {
+      "word": "make a mess",
+      "pos": "PHRASE",
+      "translation": "sporcare, fare disordine",
+      "example": "They made a mess on the floor and he had to clean it."
+    },
+    {
       "word": "make out",
       "pos": "PHRASE",
       "translation": "distinguere, scorgere; capire",
@@ -12974,6 +13172,12 @@
       "example": "Not Vell, for all she means well.\""
     },
     {
+      "word": "meanwhile",
+      "pos": "ADV",
+      "translation": "nel frattempo, intanto",
+      "example": "Harry, meanwhile, had a different problem."
+    },
+    {
       "word": "measure",
       "pos": "VERB",
       "translation": "misurare, soppesare",
@@ -13088,6 +13292,12 @@
       "example": "\"Warden Aldith Merrow,\" Jory whispered."
     },
     {
+      "word": "mess",
+      "pos": "NOUN",
+      "translation": "il disordine, lo sporco",
+      "example": "They made a mess on the floor and he had to clean it."
+    },
+    {
       "word": "message",
       "pos": "NOUN",
       "translation": "il messaggio",
@@ -13104,6 +13314,12 @@
       "pos": "NOUN",
       "translation": "il metallo",
       "example": "There was no brand name on it, only a small metal plate with one word engraved on it: HALCYON."
+    },
+    {
+      "word": "metallic",
+      "pos": "ADJ",
+      "translation": "metallico",
+      "example": "Down below, somewhere in the dark, they heard a tiny metallic sound."
     },
     {
       "word": "metre",
@@ -13208,6 +13424,18 @@
       "example": "The third blue door was on Mill Lane, the last street before the river."
     },
     {
+      "word": "mince",
+      "pos": "NOUN",
+      "translation": "la carne macinata («mince pie»: tortina natalizia alla frutta secca)",
+      "example": "This time she brought a flask of hot tea and two mince pies from the bakery, and she sat down on a wooden box without asking."
+    },
+    {
+      "word": "mince pie",
+      "pos": "PHRASE",
+      "translation": "la mince pie (tortina natalizia con frutta secca e spezie)",
+      "example": "This time she brought a flask of hot tea and two mince pies from the bakery, and she sat down on a wooden box without asking."
+    },
+    {
       "word": "mind",
       "pos": "NOUN",
       "translation": "la mente («make up one's mind»: decidersi)",
@@ -13266,6 +13494,12 @@
       "pos": "NOUN",
       "translation": "il minuto",
       "example": "Within minutes, the remaining bandits had fled into the darkness."
+    },
+    {
+      "word": "miracle",
+      "pos": "NOUN",
+      "translation": "il miracolo",
+      "example": "A Christmas miracle in my first year!"
     },
     {
       "word": "mirror",
@@ -13730,6 +13964,12 @@
       "example": "He went down to the glasshouses to see to Alaric's stove, and he's slipped on the ice path — taken a nasty fall, by the look of him."
     },
     {
+      "word": "naturally",
+      "pos": "ADV",
+      "translation": "con naturalezza, naturalmente",
+      "example": "Margaret moved very naturally, she hoped, and stood in front of it."
+    },
+    {
       "word": "near",
       "pos": "ADJ",
       "translation": "vicino («nearest»: il più vicino)",
@@ -13874,6 +14114,12 @@
       "example": "A new friend. — Un nuovo amico."
     },
     {
+      "word": "news",
+      "pos": "NOUN",
+      "translation": "le notizie",
+      "example": "Margaret knew this better than anyone, because the post office was where all the village news arrived first."
+    },
+    {
       "word": "newspaper",
       "pos": "NOUN",
       "translation": "il giornale",
@@ -13992,6 +14238,12 @@
       "pos": "INTJ",
       "translation": "no",
       "example": "No, sorry. — No, mi dispiace."
+    },
+    {
+      "word": "no bigger than",
+      "pos": "PHRASE",
+      "translation": "non più grande di",
+      "example": "In her palm there was a tiny piece of shining metal, no bigger than a fingernail."
     },
     {
       "word": "no doubt",
@@ -14372,6 +14624,12 @@
       "example": "\"Oh, Elinor,\" she said, so softly that he barely heard it."
     },
     {
+      "word": "oil",
+      "pos": "NOUN",
+      "translation": "l'olio",
+      "example": "Harry Dent's workshop smelled of oil, wood and cold coffee."
+    },
+    {
       "word": "oilcloth",
       "pos": "NOUN",
       "translation": "la tela cerata",
@@ -14382,6 +14640,12 @@
       "pos": "ADJ",
       "translation": "oliato, cerato",
       "example": "A few were missing altogether, and someone had patched the gaps with oiled canvas that flapped in the wind."
+    },
+    {
+      "word": "oily",
+      "pos": "ADJ",
+      "translation": "unto, oleoso",
+      "example": "Inside, wrapped in an oily cloth, there was a big iron key, as long as Margaret's hand."
     },
     {
       "word": "ok",
@@ -15511,6 +15775,12 @@
       "example": "In the east, it was starting to turn pink."
     },
     {
+      "word": "pint",
+      "pos": "NOUN",
+      "translation": "la pinta (≈ 0,57 l)",
+      "example": "He was sitting in the pub for the first time in years, with a pint of beer and half the village around him, and he looked almost comfortable."
+    },
+    {
       "word": "pipe",
       "pos": "NOUN",
       "translation": "la pipa ; il tubo",
@@ -15533,6 +15803,12 @@
       "pos": "NOUN",
       "translation": "la pietà, la compassione",
       "example": "And across his face, for one unguarded moment, passed something Rowan would remember for the rest of his life: not disappointment, not pity, but relief — vast, shaking, almost painful relief."
+    },
+    {
+      "word": "pivot",
+      "pos": "NOUN",
+      "translation": "il perno, il fulcro",
+      "example": "The pivot is frozen."
     },
     {
       "word": "place",
@@ -15799,6 +16075,12 @@
       "example": "After that, it happened all around the room, like popcorn in a pan."
     },
     {
+      "word": "porch",
+      "pos": "NOUN",
+      "translation": "il portico, il portale",
+      "example": "Every summer, Walter complained about the swallows in the church porch."
+    },
+    {
       "word": "porridge",
       "pos": "NOUN",
       "translation": "il porridge, la pappa d'avena",
@@ -15839,6 +16121,12 @@
       "pos": "NOUN",
       "translation": "il palo; il posto",
       "example": "At its heart stood the shrine, a ring of seven carved posts so old that the weather had worn their faces into smooth, patient suggestions of faces."
+    },
+    {
+      "word": "post",
+      "pos": "VERB",
+      "translation": "spedire, imbucare",
+      "example": "Amy the nurse said she had posted only one card."
     },
     {
       "word": "post office",
@@ -15911,6 +16199,12 @@
       "pos": "NOUN",
       "translation": "il potere",
       "example": "\"The power you draw is not borrowed from the sky or the stones or the sea."
+    },
+    {
+      "word": "power cut",
+      "pos": "PHRASE",
+      "translation": "l'interruzione di corrente, il blackout",
+      "example": "\"Power cut,\" said Ruth, who had come to help, holding a candle."
     },
     {
       "word": "practically",
@@ -16199,6 +16493,12 @@
       "pos": "VERB",
       "translation": "protestare",
       "example": "He tried to protest, but then his own squire stepped forward and confessed that he had cut Godfrey's saddle strap on his master's orders."
+    },
+    {
+      "word": "proud",
+      "pos": "ADJ",
+      "translation": "orgoglioso, fiero",
+      "example": "Walter nodded, a little proud."
     },
     {
       "word": "prove",
@@ -17730,6 +18030,12 @@
       "example": "At home, the forest was never silent: there was always something rustling, calling, creaking."
     },
     {
+      "word": "rusty",
+      "pos": "ADJ",
+      "translation": "arrugginito",
+      "example": "\"Good morning,\" he said to the queue, a little awkwardly, as if the words were rusty."
+    },
+    {
       "word": "rut",
       "pos": "NOUN",
       "translation": "il solco",
@@ -17880,6 +18186,12 @@
       "example": "P.S. My dog says hello."
     },
     {
+      "word": "scale",
+      "pos": "NOUN",
+      "translation": "la scala ; («scales») la bilancia",
+      "example": "The baker brought the old brass weights from his grandfather's scales."
+    },
+    {
       "word": "scan",
       "pos": "VERB",
       "translation": "scansionare",
@@ -17950,6 +18262,12 @@
       "pos": "VERB",
       "translation": "incidere, rigare; segnare (punti)",
       "example": "And then, beneath it, in a different hand — harder, blacker, pressed so deep into the paper that the nib had scored it:"
+    },
+    {
+      "word": "Scottish",
+      "pos": "ADJ",
+      "translation": "scozzese",
+      "example": "He pulled out a flat tin box, the kind that used to hold biscuits, with a picture of a Scottish castle on the lid."
     },
     {
       "word": "scramble",
@@ -18028,6 +18346,12 @@
       "pos": "VERB",
       "translation": "avvitare («head screwed on»: la testa sulle spalle)",
       "example": "\"Then your uncle's a man with his head screwed on.\""
+    },
+    {
+      "word": "screwdriver",
+      "pos": "NOUN",
+      "translation": "il cacciavite",
+      "example": "Harry himself was sitting at a long table under a bright lamp, with a small screwdriver in his hand and glasses on the end of his nose."
     },
     {
       "word": "scribble",
@@ -18258,6 +18582,12 @@
       "example": "Nobody, Rowan gathered, had even seriously suggested it."
     },
     {
+      "word": "sermon",
+      "pos": "NOUN",
+      "translation": "il sermone, la predica",
+      "example": "She gave Margaret all the keys of the tower and promised to say nothing, even in her sermons."
+    },
+    {
       "word": "serpent",
       "pos": "NOUN",
       "translation": "il serpente",
@@ -18364,6 +18694,18 @@
       "pos": "ADJ",
       "translation": "parecchi, diversi",
       "example": "Several farms have been burned, and the king's soldiers have failed to catch the men responsible."
+    },
+    {
+      "word": "sewing",
+      "pos": "NOUN",
+      "translation": "il cucito («sewing machine»: macchina da cucire)",
+      "example": "It was full of things in pieces: a radio with no back, three bicycle wheels, a clock from a kitchen, an old sewing machine."
+    },
+    {
+      "word": "sewing machine",
+      "pos": "PHRASE",
+      "translation": "la macchina da cucire",
+      "example": "It was full of things in pieces: a radio with no back, three bicycle wheels, a clock from a kitchen, an old sewing machine."
     },
     {
       "word": "shabby",
@@ -18496,6 +18838,12 @@
       "pos": "PRON",
       "translation": "lei, ella",
       "example": "She is happy. — È contenta."
+    },
+    {
+      "word": "shed",
+      "pos": "NOUN",
+      "translation": "il capanno",
+      "example": "\"It's a shed.\""
     },
     {
       "word": "shed",
@@ -19524,6 +19872,18 @@
       "example": "On the morning of the Trial, the sky over Thornhall was the colour of old pewter, and a few dry flakes of snow were drifting down out of it, too thin to settle."
     },
     {
+      "word": "snow",
+      "pos": "VERB",
+      "translation": "nevicare",
+      "example": "Outside, it had stopped snowing and the sky was full of stars."
+    },
+    {
+      "word": "snowball",
+      "pos": "NOUN",
+      "translation": "la palla di neve",
+      "example": "Later, Laura took Sam and Pepper to the car park to throw snowballs, and Margaret was alone with Walter."
+    },
+    {
       "word": "snowflake",
       "pos": "NOUN",
       "translation": "il fiocco di neve",
@@ -19534,6 +19894,12 @@
       "pos": "NOUN",
       "translation": "il pupazzo di neve",
       "example": "In the front garden, a boy was building a snowman."
+    },
+    {
+      "word": "snowy",
+      "pos": "ADJ",
+      "translation": "innevato",
+      "example": "Seven strokes, clear and slow, came across the snowy roofs and through her bedroom window."
     },
     {
       "word": "snuff",
@@ -19846,6 +20212,12 @@
       "pos": "VERB",
       "translation": "parlare",
       "example": "Godfrey sat beside him, which was unusual, and for a while neither of them spoke."
+    },
+    {
+      "word": "special",
+      "pos": "ADJ",
+      "translation": "speciale",
+      "example": "That night, Margaret sat by the fire with her best pen and her special red paper."
     },
     {
       "word": "spectacle",
@@ -20832,6 +21204,12 @@
       "example": "Just before the impact, Godfrey's saddle suddenly slipped to one side."
     },
     {
+      "word": "suffering",
+      "pos": "NOUN",
+      "translation": "la sofferenza",
+      "example": "Harry looked at her over his glasses with an expression of deep suffering."
+    },
+    {
       "word": "sugar",
       "pos": "NOUN",
       "translation": "lo zucchero",
@@ -21169,7 +21547,7 @@
     {
       "word": "take in",
       "pos": "PHRASE",
-      "translation": "osservare, abbracciare con lo sguardo ; accogliere",
+      "translation": "osservare, abbracciare con lo sguardo ; accogliere ; portare dentro, ritirare",
       "example": "She paused at the edge of the clearing and looked around with frank curiosity, taking in the woodpile, the stump, the mule dozing in her lean-to, the thin blue thread of smoke from the chimney."
     },
     {
@@ -21249,6 +21627,12 @@
       "pos": "PROPN",
       "translation": "i Tanner (la famiglia)",
       "example": "They've put me in Hearthside with Tamsin and the Tanners, he wrote at the end."
+    },
+    {
+      "word": "tap",
+      "pos": "NOUN",
+      "translation": "il rubinetto",
+      "example": "Door handles, candlesticks, old taps."
     },
     {
       "word": "tap",
@@ -21371,6 +21755,12 @@
       "example": "Ten paces behind him, Uncle Bram lowered his axe, wiped his brow with a forearm as thick as a fencepost, and waited."
     },
     {
+      "word": "tenant",
+      "pos": "NOUN",
+      "translation": "l'inquilino",
+      "example": "He said they were tenants."
+    },
+    {
       "word": "tenderly",
       "pos": "ADV",
       "translation": "teneramente",
@@ -21471,6 +21861,12 @@
       "pos": "VERB",
       "translation": "ringraziare",
       "example": "Thank you! — Grazie!"
+    },
+    {
+      "word": "thank god",
+      "pos": "PHRASE",
+      "translation": "grazie a Dio",
+      "example": "Thank God the clock doesn't need electricity."
     },
     {
       "word": "thank you",
@@ -21587,6 +21983,12 @@
       "example": "There is a cat. — C'è un gatto."
     },
     {
+      "word": "there and then",
+      "pos": "PHRASE",
+      "translation": "su due piedi, seduta stante",
+      "example": "Ruth had given Margaret a key to the tower, and so they climbed it, there and then."
+    },
+    {
       "word": "these",
       "pos": "DET",
       "translation": "questi, queste",
@@ -21621,6 +22023,12 @@
       "pos": "NOUN",
       "translation": "il ladro",
       "example": "People say the bandits are not ordinary thieves."
+    },
+    {
+      "word": "thimble",
+      "pos": "NOUN",
+      "translation": "il ditale",
+      "example": "Inside, there was a small card and a tiny silver bell, no bigger than a thimble."
     },
     {
       "word": "thin",
@@ -21873,6 +22281,12 @@
       "pos": "NOUN",
       "translation": "il timo",
       "example": "Your mother kept a row of pots on the sill — rosemary and thyme, and a little bay tree she'd grown from a cutting."
+    },
+    {
+      "word": "tick",
+      "pos": "NOUN",
+      "translation": "il tic-tac",
+      "example": "Tick."
     },
     {
       "word": "tick",
@@ -23064,6 +23478,12 @@
     },
     {
       "word": "upstairs",
+      "pos": "ADJ",
+      "translation": "di sopra («an upstairs window»: una finestra del piano di sopra)",
+      "example": "On Mill Lane, an upstairs window was wide open, and a small figure in a long red scarf was leaning out of it, with a dog in his arms."
+    },
+    {
+      "word": "upstairs",
       "pos": "ADV",
       "translation": "di sopra, al piano di sopra",
       "example": "From upstairs came the sound of heavy footsteps, a door slamming and someone shouting about a missing school tie."
@@ -23855,6 +24275,12 @@
     },
     {
       "word": "what",
+      "pos": "DET",
+      "translation": "che («what time it is»: che ore sono)",
+      "example": "\"I want to know what time it is again, without getting up,\" she said."
+    },
+    {
+      "word": "what",
       "pos": "PRON",
       "translation": "ciò che, cosa",
       "example": "Edwin did not understand what he meant, but he felt a cold shiver run down his spine."
@@ -24596,6 +25022,12 @@
       "pos": "INTJ",
       "translation": "sì",
       "example": "Yes, please! — Sì, per favore!"
+    },
+    {
+      "word": "yes",
+      "pos": "NOUN",
+      "translation": "il sì («take that as a yes»: prenderlo per un sì)",
+      "example": "She decided to take that as a yes."
     },
     {
       "word": "yesterday",
