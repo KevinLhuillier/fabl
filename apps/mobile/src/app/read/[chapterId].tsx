@@ -230,6 +230,10 @@ export default function ChapterReader() {
           <Icon icon={X} size={28} color={colors.textMuted} />
         </Pressable>
         <ProgressBar progress={(page + 1) / pages.length} color={level.solid} style={styles.flex} />
+        {/* Stays in view while scrolling, unlike the caption above the text. */}
+        <Text variant="caption" color={level.shade} style={styles.pageCount}>
+          {page + 1}/{pages.length}
+        </Text>
       </View>
 
       <View style={styles.flex}>
@@ -370,6 +374,8 @@ const styles = StyleSheet.create({
     paddingVertical: spacing.md,
   },
   flex: { flex: 1 },
+  // Fixed width so the bar does not jump when the page number gains a digit.
+  pageCount: { minWidth: 40, textAlign: 'right', fontVariant: ['tabular-nums'] },
   body: { padding: spacing.xl, gap: spacing.lg, paddingBottom: spacing.xxxl },
   // Room under the last line so the floating player never hides it.
   bodyWithAudio: { paddingBottom: PAGE_AUDIO_SIZE + spacing.xl * 2 },
