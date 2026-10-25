@@ -1082,6 +1082,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Interesting",
+      "pos": "PROPN",
+      "word": "interesting",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "inwards",
       "pos": "NOUN",
       "word": "inwards",
@@ -1121,6 +1127,12 @@
       "text": "key",
       "pos": "ADJ",
       "next": "sleeps",
+      "word": "key",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "key",
+      "pos": "ADJ",
       "word": "key",
       "lemmaPos": "NOUN"
     },
@@ -1225,6 +1237,13 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "light",
+      "pos": "ADJ",
+      "next": "wall",
+      "word": "light",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "like",
       "pos": "ADJ",
       "word": "like",
@@ -1264,6 +1283,12 @@
       "text": "LOST",
       "pos": "PROPN",
       "word": "lost",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Lucky",
+      "pos": "PROPN",
+      "word": "lucky",
       "lemmaPos": "ADJ"
     },
     {
@@ -1325,6 +1350,12 @@
       "pos": "NOUN",
       "word": "melt",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "merciless",
+      "pos": "NOUN",
+      "word": "merciless",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "midwinter",
@@ -1477,6 +1508,12 @@
       "pos": "NOUN",
       "word": "none",
       "lemmaPos": "PRON"
+    },
+    {
+      "text": "Normal",
+      "pos": "PROPN",
+      "word": "normal",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "NORTH",
@@ -1662,6 +1699,12 @@
       "pos": "PROPN",
       "word": "plastic",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "playing",
+      "pos": "NOUN",
+      "word": "play",
+      "lemmaPos": "VERB"
     },
     {
       "text": "please",
@@ -1864,6 +1907,19 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Rule",
+      "pos": "VERB",
+      "word": "rule",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "rule",
+      "pos": "VERB",
+      "next": "five",
+      "word": "rule",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "runs",
       "pos": "NOUN",
       "word": "run",
@@ -1977,6 +2033,12 @@
       "text": "Shortcut",
       "pos": "PROPN",
       "word": "shortcut",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "shorts",
+      "pos": "NOUN",
+      "word": "shorts",
       "lemmaPos": "NOUN"
     },
     {
@@ -2206,6 +2268,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "sweaty",
+      "pos": "NOUN",
+      "word": "sweaty",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Swept",
       "pos": "PROPN",
       "word": "sweep",
@@ -2236,6 +2304,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "tanned",
+      "pos": "VERB",
+      "word": "tanned",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "taxes",
       "pos": "NOUN",
       "word": "tax",
@@ -2252,6 +2326,12 @@
       "pos": "NOUN",
       "word": "tear",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Tennis",
+      "pos": "PROPN",
+      "word": "tennis",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "terraced",
@@ -2330,6 +2410,12 @@
       "pos": "VERB",
       "word": "take",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "treadmills",
+      "pos": "VERB",
+      "word": "treadmill",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "trembling",

@@ -276,6 +276,12 @@
       "example": "Everyone told him it was impossible, that a squire had no right to address His Majesty directly."
     },
     {
+      "word": "admiration",
+      "pos": "NOUN",
+      "translation": "la admiración",
+      "example": "Today, a whole tennis club had looked at him with admiration."
+    },
+    {
       "word": "admire",
       "pos": "VERB",
       "translation": "admirar",
@@ -369,6 +375,12 @@
       "pos": "ADV",
       "translation": "otra vez, de nuevo",
       "example": "Edwin stepped aside, again and again, until the bandit grew tired and careless."
+    },
+    {
+      "word": "again and again",
+      "pos": "PHRASE",
+      "translation": "una y otra vez",
+      "example": "On the bus, she read her notes again and again, frowning."
     },
     {
       "word": "against",
@@ -512,6 +524,12 @@
       "pos": "PHRASE",
       "translation": "hasta el final, todo el camino",
       "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
+    },
+    {
+      "word": "Allerton",
+      "pos": "PROPN",
+      "translation": "Allerton (en «Chapel Allerton», barrio de Leeds)",
+      "example": "Her uncle was a member of a small tennis club in Chapel Allerton, with four green courts behind a hedge and a clubhouse that smelled of furniture polish."
     },
     {
       "word": "alley",
@@ -788,6 +806,12 @@
       "pos": "PRON",
       "translation": "algo, nada (según la frase)",
       "example": "Winchester was unlike anything Edwin had ever seen."
+    },
+    {
+      "word": "anything but",
+      "pos": "PHRASE",
+      "translation": "otra cosa que, nada más que («nobody … with anything but pity»: nadie … con otra cosa que lástima)",
+      "example": "For years, nobody had looked at Max with anything but pity or boredom."
     },
     {
       "word": "anyway",
@@ -1669,6 +1693,12 @@
       "example": "The woman with the iron-grey braid was kneeling in the wet grass at its base, her satchel abandoned beside her."
     },
     {
+      "word": "baseline",
+      "pos": "NOUN",
+      "translation": "la referencia, el nivel de partida",
+      "example": "That's your baseline."
+    },
+    {
       "word": "basket",
       "pos": "NOUN",
       "translation": "la cesta",
@@ -1836,6 +1866,18 @@
       "example": "Just a man who came home from work, closed his bedroom curtains and disappeared into other worlds for hours at a time."
     },
     {
+      "word": "bedside",
+      "pos": "NOUN",
+      "translation": "la cabecera de la cama («bedside table»: mesita de noche)",
+      "example": "On his bedside table, the Halcyon sat quietly in the dark, and he could almost feel it waiting for him."
+    },
+    {
+      "word": "bedside table",
+      "pos": "PHRASE",
+      "translation": "la mesita de noche",
+      "example": "On his bedside table, the Halcyon sat quietly in the dark, and he could almost feel it waiting for him."
+    },
+    {
       "word": "bee",
       "pos": "NOUN",
       "translation": "la abeja",
@@ -1846,6 +1888,12 @@
       "pos": "NOUN",
       "translation": "el haya",
       "example": "Now his uncle looked at the nearest of them — a young beech, bent towards Rowan's shoulder like someone trying to overhear a secret — and set down his mug."
+    },
+    {
+      "word": "beep",
+      "pos": "VERB",
+      "translation": "pitar, emitir un pitido",
+      "example": "When the machine finally beeped and stopped, Priya stared at the number on the screen."
     },
     {
       "word": "beer",
@@ -2142,6 +2190,12 @@
       "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
     },
     {
+      "word": "Björn",
+      "pos": "PROPN",
+      "translation": "Björn (en «Björn Borg», campeón de tenis sueco de los años 70)",
+      "example": "One of the old ladies had told him he reminded her of a young Björn Borg, whoever that was."
+    },
+    {
       "word": "black",
       "pos": "ADJ",
       "translation": "negro",
@@ -2400,6 +2454,12 @@
       "example": "\"Air,\" said Master Hale, and the woman with the braid made a note in a small black book."
     },
     {
+      "word": "book",
+      "pos": "VERB",
+      "translation": "reservar",
+      "example": "On Wednesday evenings, the club coach gave lessons, and anybody could book a practice match with him for ten pounds."
+    },
+    {
       "word": "Books",
       "pos": "PROPN",
       "translation": "Libros («Root Books»: Libros de las Raíces)",
@@ -2428,6 +2488,12 @@
       "pos": "NOUN",
       "translation": "el aburrimiento",
       "example": "Priya's face went through several expressions, one after another: boredom, surprise, confusion and finally something close to fear."
+    },
+    {
+      "word": "Borg",
+      "pos": "PROPN",
+      "translation": "Borg (en «Björn Borg», campeón de tenis sueco de los años 70)",
+      "example": "One of the old ladies had told him he reminded her of a young Björn Borg, whoever that was."
     },
     {
       "word": "borrow",
@@ -2958,6 +3024,12 @@
       "example": "\"You asked what business I have on this hill,\" said Bram at last, slowly, in the voice he kept for things that mattered."
     },
     {
+      "word": "busy",
+      "pos": "ADJ",
+      "translation": "ocupado («too busy thinking»: demasiado ocupado pensando)",
+      "example": "He was too busy thinking about everything he could do."
+    },
+    {
       "word": "but",
       "pos": "CCONJ",
       "translation": "pero",
@@ -3046,6 +3118,12 @@
       "pos": "PHRASE",
       "translation": "solos, por sí solos",
       "example": "Instead he turned on his console, put his headphones on and played a racing game until his eyes closed by themselves."
+    },
+    {
+      "word": "by then",
+      "pos": "PHRASE",
+      "translation": "para entonces",
+      "example": "By then, a small crowd had gathered behind the fence: two old ladies in tracksuits, a man with a dog, and a group of teenagers who had stopped their own lesson to watch."
     },
     {
       "word": "cabbage",
@@ -3178,6 +3256,12 @@
       "pos": "NOUN",
       "translation": "la lona",
       "example": "What stood beside the shrine, nose to tail, were four long, high-sided farm wagons, each with a canvas hood patched in three different colours and hitched to a pair of shaggy brown oxen who were chewing with the slow, profound indifference of creatures that had seen everything and been impressed by none of it."
+    },
+    {
+      "word": "cap",
+      "pos": "NOUN",
+      "translation": "la gorra",
+      "example": "ACE POINT put him in the shoes of a tall, calm player with long arms and a white cap."
     },
     {
       "word": "capital",
@@ -3514,6 +3598,12 @@
       "pos": "NOUN",
       "translation": "la capilla",
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "Chapel",
+      "pos": "PROPN",
+      "translation": "Chapel (en «Chapel Allerton», barrio de Leeds)",
+      "example": "Her uncle was a member of a small tennis club in Chapel Allerton, with four green courts behind a hedge and a clubhouse that smelled of furniture polish."
     },
     {
       "word": "chapter",
@@ -4098,6 +4188,12 @@
       "example": "In the confusion, the villagers attacked with pitchforks, clubs and axes."
     },
     {
+      "word": "clubhouse",
+      "pos": "NOUN",
+      "translation": "la sede del club",
+      "example": "Her uncle was a member of a small tennis club in Chapel Allerton, with four green courts behind a hedge and a clubhouse that smelled of furniture polish."
+    },
+    {
       "word": "clumsy",
       "pos": "ADJ",
       "translation": "torpe",
@@ -4120,6 +4216,12 @@
       "pos": "ADJ",
       "translation": "agarrado, apretado",
       "example": "He lay in the dark with his father's knife clutched in his fist under the covers, listening to the forest, and thinking about the man's pleasant, ordinary voice."
+    },
+    {
+      "word": "coach",
+      "pos": "NOUN",
+      "translation": "el entrenador (también: el autocar)",
+      "example": "On Wednesday evenings, the club coach gave lessons, and anybody could book a practice match with him for ten pounds."
     },
     {
       "word": "coal",
@@ -4252,6 +4354,12 @@
       "pos": "NOUN",
       "translation": "el color",
       "example": "What stood beside the shrine, nose to tail, were four long, high-sided farm wagons, each with a canvas hood patched in three different colours and hitched to a pair of shaggy brown oxen who were chewing with the slow, profound indifference of creatures that had seen everything and been impressed by none of it."
+    },
+    {
+      "word": "coloured",
+      "pos": "ADJ",
+      "translation": "de colores",
+      "example": "She led Max down a long white corridor into a room full of strange machines: treadmills with wires hanging over them, a bicycle connected to a computer, a wall covered in coloured lights, and a metal plate in the floor that measured how hard you jumped."
     },
     {
       "word": "colourful",
@@ -4458,6 +4566,12 @@
       "example": "Attendance is compulsory."
     },
     {
+      "word": "computer",
+      "pos": "NOUN",
+      "translation": "el ordenador, la computadora",
+      "example": "She led Max down a long white corridor into a room full of strange machines: treadmills with wires hanging over them, a bicycle connected to a computer, a wall covered in coloured lights, and a metal plate in the floor that measured how hard you jumped."
+    },
+    {
       "word": "concentrate",
       "pos": "VERB",
       "translation": "concentrarse",
@@ -4516,6 +4630,12 @@
       "pos": "VERB",
       "translation": "hacer aparecer (como por arte de magia)",
       "example": "Across the square, the blacksmith's son, Edric Vane, was entertaining a half-circle of younger children by snapping his fingers and conjuring a spark — just one, bright and brief as a firefly."
+    },
+    {
+      "word": "connect",
+      "pos": "VERB",
+      "translation": "conectar",
+      "example": "She led Max down a long white corridor into a room full of strange machines: treadmills with wires hanging over them, a bicycle connected to a computer, a wall covered in coloured lights, and a metal plate in the floor that measured how hard you jumped."
     },
     {
       "word": "consider",
@@ -4826,7 +4946,7 @@
     {
       "word": "court",
       "pos": "NOUN",
-      "translation": "la corte (del rey)",
+      "translation": "la corte (del rey) ; la pista, la cancha (de tenis)",
       "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
     },
     {
@@ -5772,6 +5892,12 @@
       "example": "Everyone in the castle had a different theory, but nobody had ever dared to ask."
     },
     {
+      "word": "difficult",
+      "pos": "ADJ",
+      "translation": "difícil",
+      "example": "Priya asked him to play ACE POINT again, against the hardest opponent in the game, so that she could test whether a more difficult match made a stronger effect."
+    },
+    {
       "word": "dig",
       "pos": "VERB",
       "translation": "cavar",
@@ -6516,10 +6642,22 @@
       "example": "He thought about it at supper, while Jory described in loving detail the dead eel he was planning to hide in Seraphine Hale's boots."
     },
     {
+      "word": "effect",
+      "pos": "NOUN",
+      "translation": "el efecto",
+      "example": "Priya asked him to play ACE POINT again, against the hardest opponent in the game, so that she could test whether a more difficult match made a stronger effect."
+    },
+    {
       "word": "efficiency",
       "pos": "NOUN",
       "translation": "la eficiencia",
       "example": "He worked his way down the line of nervous children with the brisk efficiency of a farmer counting sheep, asking each one their name and their element, and directing them to one of four arched doorways around the courtyard."
+    },
+    {
+      "word": "efficiently",
+      "pos": "ADV",
+      "translation": "de forma eficiente",
+      "example": "He ran more efficiently, with a better rhythm, and lasted six minutes instead of four."
     },
     {
       "word": "effort",
@@ -6852,10 +6990,22 @@
       "example": "The envelope was blue, not white, and there was no name on the back."
     },
     {
+      "word": "equal",
+      "pos": "VERB",
+      "translation": "equivaler a, ser igual a",
+      "example": "Every hour of game equals about four hours of you being someone else."
+    },
+    {
       "word": "equipment",
       "pos": "NOUN",
       "translation": "el equipo, el material",
       "example": "Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters."
+    },
+    {
+      "word": "erase",
+      "pos": "VERB",
+      "translation": "borrar",
+      "example": "The new one erases the old one."
     },
     {
       "word": "erupt",
@@ -7244,6 +7394,12 @@
       "pos": "PHRASE",
       "translation": "caerse, desplomarse",
       "example": "\"Before you fall down.\""
+    },
+    {
+      "word": "fall flat on his face",
+      "pos": "PHRASE",
+      "translation": "caerse de bruces",
+      "example": "Max stood up to stretch his legs, took one step towards the water fountain and fell flat on his face."
     },
     {
       "word": "fall off",
@@ -8092,6 +8248,12 @@
       "example": "They feel like they want to follow her."
     },
     {
+      "word": "following",
+      "pos": "ADJ",
+      "translation": "siguiente («the following Wednesday»: el miércoles siguiente)",
+      "example": "The following Wednesday, Priya had an idea."
+    },
+    {
       "word": "fond",
       "pos": "ADJ",
       "translation": "encariñado («fond of»: que le tiene cariño a)",
@@ -8150,6 +8312,12 @@
       "pos": "ADP",
       "translation": "para, durante",
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "for a while",
+      "pos": "PHRASE",
+      "translation": "durante un rato",
+      "example": "She pushed her bicycle beside him for a while before she answered."
     },
     {
       "word": "for example",
@@ -8326,6 +8494,12 @@
       "example": "Every first-year at Thornhall, whatever their element, began the same way: with three mornings a week of a class called Foundations of the Well, taught in a long, bare room at the foot of the north stair by a woman who looked as though she had been assembled from coat hangers."
     },
     {
+      "word": "fountain",
+      "pos": "NOUN",
+      "translation": "la fuente («water fountain»: fuente de agua potable)",
+      "example": "Max stood up to stretch his legs, took one step towards the water fountain and fell flat on his face."
+    },
+    {
       "word": "four",
       "pos": "NUM",
       "translation": "cuatro",
@@ -8438,6 +8612,12 @@
       "pos": "PROPN",
       "translation": "viernes",
       "example": "On Friday night, he turned the page and found the second gesture."
+    },
+    {
+      "word": "fridge",
+      "pos": "NOUN",
+      "translation": "la nevera, el frigorífico",
+      "example": "And I once watched a man run a marathon dressed as a fridge."
     },
     {
       "word": "friend",
@@ -8600,6 +8780,18 @@
       "pos": "ADJ",
       "translation": "furioso",
       "example": "She held it there, her face set and furious with concentration, for a count of ten."
+    },
+    {
+      "word": "furniture",
+      "pos": "NOUN",
+      "translation": "los muebles",
+      "example": "Her uncle was a member of a small tennis club in Chapel Allerton, with four green courts behind a hedge and a clubhouse that smelled of furniture polish."
+    },
+    {
+      "word": "furniture polish",
+      "pos": "PHRASE",
+      "translation": "la cera para muebles",
+      "example": "Her uncle was a member of a small tennis club in Chapel Allerton, with four green courts behind a hedge and a clubhouse that smelled of furniture polish."
     },
     {
       "word": "furred",
@@ -9225,6 +9417,12 @@
       "example": "But at that exact moment, a wave of exhaustion hit Noé so hard that he had to grab the edge of the desk."
     },
     {
+      "word": "Graham",
+      "pos": "PROPN",
+      "translation": "Graham (nombre)",
+      "example": "The coach was called Graham."
+    },
+    {
       "word": "grain",
       "pos": "NOUN",
       "translation": "el grano ; (madera) la veta",
@@ -9523,6 +9721,12 @@
       "pos": "NOUN",
       "translation": "el tutor",
       "example": "\"The guardian's.\""
+    },
+    {
+      "word": "guess",
+      "pos": "NOUN",
+      "translation": "la suposición, la conjetura",
+      "example": "\"And rule five, which is not a rule, it's a guess: the longer you play, the more it costs."
     },
     {
       "word": "guess",
@@ -9992,6 +10196,12 @@
       "example": "When he lifted the leather, his heart started to pound."
     },
     {
+      "word": "heart rate",
+      "pos": "PHRASE",
+      "translation": "la frecuencia cardíaca",
+      "example": "We're going to measure speed, reaction time, balance, jump height and heart rate."
+    },
+    {
       "word": "heartbeat",
       "pos": "NOUN",
       "translation": "el latido",
@@ -10284,6 +10494,12 @@
       "pos": "VERB",
       "translation": "golpear, dar",
       "example": "He lost his balance, Hugh's lance hit him in the chest, and the old knight crashed to the ground."
+    },
+    {
+      "word": "hit back",
+      "pos": "PHRASE",
+      "translation": "devolver (la pelota) ; contraatacar",
+      "example": "He saw it coming before it crossed the net, took two small steps and hit it back so hard and so low that it touched the line and flew into the hedge."
     },
     {
       "word": "hitch",
@@ -10676,6 +10892,12 @@
       "example": "Like the ground's humming.\""
     },
     {
+      "word": "hummingbird",
+      "pos": "NOUN",
+      "translation": "el colibrí",
+      "example": "Then the next, and the next, faster and faster, red, blue, green, until his arms were moving like the wings of a hummingbird."
+    },
+    {
       "word": "humour",
       "pos": "NOUN",
       "translation": "el humor («sense of humour»: sentido del humor)",
@@ -10844,6 +11066,12 @@
       "example": "The road to Winchester was longer and harder than Edwin had imagined."
     },
     {
+      "word": "immediately",
+      "pos": "ADV",
+      "translation": "inmediatamente, enseguida",
+      "example": "He got up, laughing, and immediately walked into the corner of a table."
+    },
+    {
       "word": "impact",
       "pos": "NOUN",
       "translation": "el impacto, el choque",
@@ -10979,6 +11207,12 @@
       "translation": "a pesar de"
     },
     {
+      "word": "in straight sets",
+      "pos": "PHRASE",
+      "translation": "en sets corridos (sin que el perdedor gane un set)",
+      "example": "He lost the match in straight sets, six-one, six-two, six-love."
+    },
+    {
       "word": "in the end",
       "pos": "PHRASE",
       "translation": "al final",
@@ -11001,6 +11235,12 @@
       "pos": "PHRASE",
       "translation": "en medio de",
       "example": "How did you ask a man why he had been reading your dead mother's letters in the middle of the night?"
+    },
+    {
+      "word": "in the shoes of",
+      "pos": "PHRASE",
+      "translation": "en la piel de, en el lugar de",
+      "example": "ACE POINT put him in the shoes of a tall, calm player with long arms and a white cap."
     },
     {
       "word": "in the way",
@@ -11031,6 +11271,12 @@
       "pos": "ADJ",
       "translation": "increíble",
       "example": "The graphics were old and blocky, but the movement was incredible."
+    },
+    {
+      "word": "incredibly",
+      "pos": "ADV",
+      "translation": "increíblemente",
+      "example": "The ball moved incredibly fast, and at first Max lost point after point."
     },
     {
       "word": "indecent",
@@ -11103,6 +11349,12 @@
       "pos": "NOUN",
       "translation": "(«initials»: las iniciales)",
       "example": "Its long, low common room was built around the roots of a single enormous oak, which came down through the ceiling and spread across the walls and floor in great grey coils, polished smooth by generations of students who had sat on them, leaned on them and carved their initials into them."
+    },
+    {
+      "word": "injure",
+      "pos": "VERB",
+      "translation": "lesionar, herir («injured»: lesionado)",
+      "example": "He practised every day, in the rain, when he was injured, when he didn't feel like it."
     },
     {
       "word": "ink",
@@ -11572,6 +11824,12 @@
       "example": "The far vault lay at the very end of the archive, behind a door of iron-bound oak that Ilse opened with a key she should not have had."
     },
     {
+      "word": "key card",
+      "pos": "PHRASE",
+      "translation": "la tarjeta de acceso",
+      "example": "Priya had a key card for the testing lab, because she worked there part-time, helping a professor with his research on sprinters."
+    },
+    {
       "word": "keyhole",
       "pos": "NOUN",
       "translation": "el ojo de la cerradura",
@@ -11716,6 +11974,12 @@
       "example": "They looked exactly as they always had: scratched, calloused, a splinter-scar across one knuckle."
     },
     {
+      "word": "lab",
+      "pos": "NOUN",
+      "translation": "el laboratorio",
+      "example": "Priya had a key card for the testing lab, because she worked there part-time, helping a professor with his research on sprinters."
+    },
+    {
       "word": "label",
       "pos": "NOUN",
       "translation": "la etiqueta",
@@ -11756,6 +12020,12 @@
       "pos": "NOUN",
       "translation": "la escalera de mano",
       "example": "Bram was already up when Rowan came down the ladder, stirring a pot of porridge with the grim concentration of a man defusing something dangerous."
+    },
+    {
+      "word": "lady",
+      "pos": "NOUN",
+      "translation": "la señora",
+      "example": "One of the old ladies had told him he reminded her of a young Björn Borg, whoever that was."
     },
     {
       "word": "lake",
@@ -12341,6 +12611,12 @@
     },
     {
       "word": "lie",
+      "pos": "NOUN",
+      "translation": "la mentira",
+      "example": "It was not exactly a lie."
+    },
+    {
+      "word": "lie",
       "pos": "VERB",
       "translation": "estar tumbado, encontrarse («lay» en pasado)",
       "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
@@ -12494,6 +12770,12 @@
       "pos": "NOUN",
       "translation": "la escucha",
       "example": "LISTENING."
+    },
+    {
+      "word": "literally",
+      "pos": "ADV",
+      "translation": "literalmente",
+      "example": "You become a loser. Literally.\""
     },
     {
       "word": "little",
@@ -12681,6 +12963,12 @@
       "example": "His leg is getting better, slowly, but he's lost interest in things."
     },
     {
+      "word": "loser",
+      "pos": "NOUN",
+      "translation": "el perdedor ; el fracasado",
+      "example": "You become a loser."
+    },
+    {
       "word": "lost",
       "pos": "ADJ",
       "translation": "perdido («lost cat»: gato perdido)",
@@ -12725,7 +13013,7 @@
     {
       "word": "love",
       "pos": "NOUN",
-      "translation": "el amor («in love»: enamorado)",
+      "translation": "el amor («in love»: enamorado) ; (tenis) cero («six-love»: seis-cero)",
       "example": "Your friend Jory thinks you're in love with someone in the Eyrie."
     },
     {
@@ -12777,6 +13065,12 @@
       "example": "Children left acorns at their feet for luck."
     },
     {
+      "word": "lucky",
+      "pos": "ADJ",
+      "translation": "afortunado («lucky!»: ¡qué suerte!)",
+      "example": "\"Lucky,\" he said, smiling."
+    },
+    {
       "word": "Luna",
       "pos": "PROPN",
       "translation": "Luna (nombre)",
@@ -12799,6 +13093,12 @@
       "pos": "NOUN",
       "translation": "la hora de comer, mediodía",
       "example": "He had eaten at lunchtime."
+    },
+    {
+      "word": "lung",
+      "pos": "NOUN",
+      "translation": "el pulmón",
+      "example": "Rule two: it doesn't change your muscles, your lungs or your heart."
     },
     {
       "word": "Lycée",
@@ -13089,6 +13389,12 @@
     },
     {
       "word": "match",
+      "pos": "NOUN",
+      "translation": "el partido (también: la cerilla)",
+      "example": "It was not an easy match."
+    },
+    {
+      "word": "match",
       "pos": "VERB",
       "translation": "emparejar («matched horses»: caballos a juego)",
       "example": "He had pictured something grand: a gilded carriage, perhaps, drawn by matched grey horses, with the thorned-branch seal of Thornhall painted on its doors."
@@ -13226,6 +13532,12 @@
       "example": "A boy from the western coast made the frost on the floor melt and run together into a single long silver serpent of water, which wound three times around his feet and then, at a flick of his fingers, froze solid again with a sound like breaking glass."
     },
     {
+      "word": "member",
+      "pos": "NOUN",
+      "translation": "el socio, el miembro",
+      "example": "Her uncle was a member of a small tennis club in Chapel Allerton, with four green courts behind a hedge and a clubhouse that smelled of furniture polish."
+    },
+    {
       "word": "memory",
       "pos": "NOUN",
       "translation": "el recuerdo",
@@ -13278,6 +13590,12 @@
       "pos": "NOUN",
       "translation": "el mercader, el comerciante",
       "example": "\"He has won the last three tournaments,\" a merchant explained to Edwin."
+    },
+    {
+      "word": "merciless",
+      "pos": "ADJ",
+      "translation": "despiadado, implacable",
+      "example": "He was tired and hungry, his eyes were sore, and the computer player was merciless."
     },
     {
       "word": "mercy",
@@ -14384,6 +14702,12 @@
       "example": "Leo is not here. — Leo no está aquí."
     },
     {
+      "word": "not the point",
+      "pos": "PHRASE",
+      "translation": "no es la cuestión («that's not the point»: no se trata de eso)",
+      "example": "\"That's not the point,\" she said."
+    },
+    {
       "word": "note",
       "pos": "NOUN",
       "translation": "la nota ; el aviso",
@@ -14706,6 +15030,12 @@
       "pos": "PHRASE",
       "translation": "en ayunas, con el estómago vacío",
       "example": "And at the bottom of the page, underlined twice: Never try this on an empty stomach."
+    },
+    {
+      "word": "on fire",
+      "pos": "PHRASE",
+      "translation": "en llamas, ardiendo",
+      "example": "Max's technique was perfect, but after twenty minutes his legs were heavy and his lungs were on fire, exactly as the lab tests had predicted."
     },
     {
       "word": "on her way",
@@ -15379,6 +15709,12 @@
       "example": "Mistress Crane, gliding past on her way to the door, paused beside his desk, looked at the untouched objects, then at the smear of red on his cuff."
     },
     {
+      "word": "pasta",
+      "pos": "NOUN",
+      "translation": "la pasta",
+      "example": "He had eaten two plates of pasta and a whole tub of ice cream, and he was still hungry."
+    },
+    {
       "word": "patch",
       "pos": "NOUN",
       "translation": "la mancha (de luz), el trozo; el parche",
@@ -15871,6 +16207,12 @@
       "example": "The only sign of the Academy was a small wooden plaque nailed to each driver's bench, so weathered that the seal had faded to a ghost."
     },
     {
+      "word": "plaster",
+      "pos": "NOUN",
+      "translation": "la tirita ; el yeso",
+      "example": "She put a plaster on his forehead, where he had hit the door of the lab."
+    },
+    {
       "word": "plastic",
       "pos": "ADJ",
       "translation": "de plástico",
@@ -15879,7 +16221,7 @@
     {
       "word": "plate",
       "pos": "NOUN",
-      "translation": "el plato",
+      "translation": "el plato ; la placa («metal plate»: placa de metal)",
       "example": "Instead, he went back into his flat and returned with an old towel and a plate of chicken."
     },
     {
@@ -15887,6 +16229,12 @@
       "pos": "NOUN",
       "translation": "la fuente, la bandeja",
       "example": "The food appeared — carried in on great platters by a line of kitchen staff — and the noise rose again like a wave."
+    },
+    {
+      "word": "play",
+      "pos": "NOUN",
+      "translation": "el juego (el hecho de jugar) ; la obra de teatro",
+      "example": "One hour of play gave about four hours of effect."
     },
     {
       "word": "play",
@@ -15949,6 +16297,12 @@
       "example": "Shaking so violently that it thrummed in the air like a plucked string, its forked tip swinging wildly, wildly from side to side, unable to settle — as though whatever it was following were everywhere at once, in the ice and the snow and the roots and the dark trees all around."
     },
     {
+      "word": "plug",
+      "pos": "VERB",
+      "translation": "enchufar, conectar («plug into»: conectar a)",
+      "example": "Then she reached into his bag, took out the Halcyon, which he had carried across the city wrapped in a towel, and plugged it into the big screen on the wall that the professor used for his presentations."
+    },
+    {
       "word": "plum",
       "pos": "NOUN",
       "translation": "la ciruela",
@@ -16007,6 +16361,12 @@
       "pos": "PROPN",
       "translation": "Polo («North Pole»: el Polo Norte)",
       "example": "It was made of painted wood, and someone had written on it in white letters, a long time ago: NORTH POLE."
+    },
+    {
+      "word": "polish",
+      "pos": "NOUN",
+      "translation": "la cera, el abrillantador ; el esmalte",
+      "example": "Her uncle was a member of a small tennis club in Chapel Allerton, with four green courts behind a hedge and a clubhouse that smelled of furniture polish."
     },
     {
       "word": "polish",
@@ -16429,6 +16789,12 @@
       "example": "Not a professional one, not one of those people who earned money by playing in front of thousands of viewers online."
     },
     {
+      "word": "professor",
+      "pos": "NOUN",
+      "translation": "el catedrático, el profesor (universitario)",
+      "example": "Priya had a key card for the testing lab, because she worked there part-time, helping a professor with his research on sprinters."
+    },
+    {
       "word": "profound",
       "pos": "ADJ",
       "translation": "profundo",
@@ -16831,6 +17197,12 @@
       "example": "Instead he turned on his console, put his headphones on and played a racing game until his eyes closed by themselves."
     },
     {
+      "word": "racket",
+      "pos": "NOUN",
+      "translation": "la raqueta",
+      "example": "He looked at Max's old trainers, his borrowed racket and his football shorts, and smiled the smile of a man who was about to earn ten very easy pounds."
+    },
+    {
       "word": "radiator",
       "pos": "NOUN",
       "translation": "el radiador",
@@ -17008,6 +17380,12 @@
       "pos": "VERB",
       "translation": "reaccionar",
       "example": "\"Hey, Picasso,\" he said, and before Adam could react, the sketchbook was in his hands."
+    },
+    {
+      "word": "reaction",
+      "pos": "NOUN",
+      "translation": "la reacción («reaction time»: tiempo de reacción)",
+      "example": "We're going to measure speed, reaction time, balance, jump height and heart rate."
     },
     {
       "word": "read",
@@ -17232,6 +17610,12 @@
       "example": "They released the cloaked men into the hands of Hale and the watch."
     },
     {
+      "word": "relentless",
+      "pos": "ADJ",
+      "translation": "implacable, incansable",
+      "example": "Priya was relentless."
+    },
+    {
       "word": "relief",
       "pos": "NOUN",
       "translation": "el alivio",
@@ -17370,6 +17754,12 @@
       "example": "But every first-year knew that their whole year's reputation would be decided on that cold grey floor, in front of five hundred watching faces, and they had been sick with nerves about it for weeks."
     },
     {
+      "word": "research",
+      "pos": "NOUN",
+      "translation": "la investigación",
+      "example": "Priya had a key card for the testing lab, because she worked there part-time, helping a professor with his research on sprinters."
+    },
+    {
       "word": "resin",
       "pos": "NOUN",
       "translation": "la resina",
@@ -17470,6 +17860,12 @@
       "pos": "VERB",
       "translation": "jubilarse",
       "example": "\"I thought you had retired to grow cabbages.\""
+    },
+    {
+      "word": "return",
+      "pos": "NOUN",
+      "translation": "la vuelta, el regreso ; (tenis) el resto",
+      "example": "\"You have the best return I've seen in this club in twenty years.\""
     },
     {
       "word": "return",
@@ -17590,6 +17986,12 @@
       "pos": "PHRASE",
       "translation": "bien de la cabeza",
       "example": "Is he right in the head, this gardener?"
+    },
+    {
+      "word": "right now",
+      "pos": "PHRASE",
+      "translation": "ahora mismo, en este momento",
+      "example": "\"He's probably telling his friends about me right now.\""
     },
     {
       "word": "rigid",
@@ -17732,7 +18134,7 @@
     {
       "word": "roll",
       "pos": "NOUN",
-      "translation": "el registro, la lista («student rolls»: registros de alumnos)",
+      "translation": "el registro, la lista («student rolls»: registros de alumnos) ; el bollo, el panecillo («sausage roll»: hojaldre de salchicha)",
       "example": "\"I need to look at the student rolls,\" he said."
     },
     {
@@ -18168,6 +18570,18 @@
       "example": "It is Saturday. — Es sábado."
     },
     {
+      "word": "sausage",
+      "pos": "NOUN",
+      "translation": "la salchicha",
+      "example": "Max was so hungry that he bought three sausage rolls at the bus station and ate them one after the other while Priya watched with horror."
+    },
+    {
+      "word": "sausage roll",
+      "pos": "PHRASE",
+      "translation": "el hojaldre relleno de salchicha",
+      "example": "Max was so hungry that he bought three sausage rolls at the bus station and ate them one after the other while Priya watched with horror."
+    },
+    {
       "word": "save",
       "pos": "VERB",
       "translation": "salvar",
@@ -18558,6 +18972,12 @@
       "example": "The first-years stopped staring at Rowan quite so hard, and found other things to whisper about — chiefly the huge silent woodcutter who had appeared from nowhere, and who split more logs for the kitchen fires before breakfast than the porters managed in a week, and who had been seen, on two separate occasions, sharing a pipe with Old Moss on an upturned barrow and laughing until he wheezed."
     },
     {
+      "word": "separate",
+      "pos": "VERB",
+      "translation": "separarse ; separar",
+      "example": "Priya stopped at the corner where their paths separated."
+    },
+    {
       "word": "September",
       "pos": "PROPN",
       "translation": "septiembre",
@@ -18601,6 +19021,12 @@
     },
     {
       "word": "serve",
+      "pos": "NOUN",
+      "translation": "el saque, el servicio",
+      "example": "Graham served first, a fast, flat serve straight down the middle."
+    },
+    {
+      "word": "serve",
       "pos": "VERB",
       "translation": "servir",
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
@@ -18610,6 +19036,12 @@
       "pos": "NOUN",
       "translation": "la sesión, la partida",
       "example": "Arthur, who was nearly two metres tall but spoke so quietly that people often asked him to repeat himself, was rolling a twenty-sided die between his fingers while he planned Saturday's role-playing session."
+    },
+    {
+      "word": "set",
+      "pos": "NOUN",
+      "translation": "el set ; el conjunto",
+      "example": "But he won the short ones, almost all of them, and he won the first set six-four."
     },
     {
       "word": "set",
@@ -19044,6 +19476,12 @@
       "example": "The bandits came shortly after midnight, about fifteen men on horseback, carrying torches."
     },
     {
+      "word": "shorts",
+      "pos": "NOUN",
+      "translation": "el pantalón corto",
+      "example": "He looked at Max's old trainers, his borrowed racket and his football shorts, and smiled the smile of a man who was about to earn ten very easy pounds."
+    },
+    {
       "word": "should",
       "pos": "VERB",
       "translation": "debería",
@@ -19468,6 +19906,12 @@
       "pos": "VERB",
       "translation": "derrapar, patinar",
       "example": "Edric Vane came skidding down the path with fire streaming from both his hands like banners, his face white and set."
+    },
+    {
+      "word": "skill",
+      "pos": "NOUN",
+      "translation": "la habilidad, la destreza",
+      "example": "The game had given him skill."
     },
     {
       "word": "skin",
@@ -20088,6 +20532,12 @@
       "example": "Here lived the Taylor family: a father who drove a bus to Kendal, a mother who worked at the bank, and twin girls of eight called Sophie and Sienna."
     },
     {
+      "word": "sore",
+      "pos": "ADJ",
+      "translation": "dolorido, irritado",
+      "example": "He was tired and hungry, his eyes were sore, and the computer player was merciless."
+    },
+    {
       "word": "sorry",
       "pos": "ADJ",
       "translation": "que lo siente, apenado",
@@ -20400,6 +20850,12 @@
       "example": "She caught the opposite edge with one hand, swung, pulled herself up and sprinted towards the finish line as the factory collapsed behind her."
     },
     {
+      "word": "sprinter",
+      "pos": "NOUN",
+      "translation": "el velocista",
+      "example": "\"That's faster than the professor's sprinters,\" she said quietly."
+    },
+    {
       "word": "sprout",
       "pos": "VERB",
       "translation": "brotar, germinar",
@@ -20598,6 +21054,12 @@
       "example": "Rowan stood in the middle of the floor with his burned hand against his chest and stared at the hedge, and the hedge, he could have sworn, stared back."
     },
     {
+      "word": "starfish",
+      "pos": "NOUN",
+      "translation": "la estrella de mar",
+      "example": "By the end of the baseline tests he was lying on the floor with his arms spread out like a starfish, staring at the ceiling."
+    },
+    {
       "word": "start",
       "pos": "NOUN",
       "translation": "el principio («at the start»: al principio)",
@@ -20632,6 +21094,12 @@
       "pos": "VERB",
       "translation": "estipular, establecer",
       "example": "You came to us under the Writ of Uncertain Marking, which states that if the Stone answers, the student stays."
+    },
+    {
+      "word": "station",
+      "pos": "NOUN",
+      "translation": "la estación («bus station»: estación de autobuses)",
+      "example": "Max was so hungry that he bought three sausage rolls at the bus station and ate them one after the other while Priya watched with horror."
     },
     {
       "word": "Station",
@@ -21024,6 +21492,12 @@
       "example": "The first one was on the High Street, next to the bakery."
     },
     {
+      "word": "streetlight",
+      "pos": "NOUN",
+      "translation": "la farola",
+      "example": "They took the bus back together as the streetlights came on."
+    },
+    {
       "word": "strength",
       "pos": "NOUN",
       "translation": "la fuerza",
@@ -21402,6 +21876,12 @@
       "example": "He was not sweating."
     },
     {
+      "word": "sweaty",
+      "pos": "ADJ",
+      "translation": "sudoroso, sudado",
+      "example": "His palm was sweaty."
+    },
+    {
       "word": "sweep",
       "pos": "VERB",
       "translation": "barrer («sweep away»: alejarse con aire altivo)",
@@ -21617,6 +22097,12 @@
       "example": "In the grey morning light, Rowan could see the line of the shore quite clearly from up here: the torn-up bank, the black tangle of roots thrust up through the ice, and the trees beyond, every one of them still bowed towards the hill."
     },
     {
+      "word": "tanned",
+      "pos": "ADJ",
+      "translation": "bronceado",
+      "example": "He was about fifty, deeply tanned, with very white teeth and a voice that carried across all four courts."
+    },
+    {
       "word": "Tanner",
       "pos": "PROPN",
       "translation": "Tanner (apellido)",
@@ -21723,6 +22209,12 @@
       "pos": "NOUN",
       "translation": "la lágrima (forma de gota)",
       "example": "A single small, neat teardrop, filled in solid with ink."
+    },
+    {
+      "word": "technique",
+      "pos": "NOUN",
+      "translation": "la técnica",
+      "example": "\"It copies technique and instinct."
     },
     {
       "word": "teenager",
@@ -21843,6 +22335,12 @@
       "pos": "VERB",
       "translation": "poner a prueba, examinar",
       "example": "Whatever happens, Bram — do not let them test him."
+    },
+    {
+      "word": "testing",
+      "pos": "NOUN",
+      "translation": "las pruebas («testing lab»: laboratorio de pruebas)",
+      "example": "Priya had a key card for the testing lab, because she worked there part-time, helping a professor with his research on sprinters."
     },
     {
       "word": "textbook",
@@ -22685,6 +23183,12 @@
       "example": "By mid-afternoon the cart was loaded, and Patience — a mule whose name had been chosen with considerable irony — was persuaded, after the usual negotiations, to haul it down the track to Brackenford."
     },
     {
+      "word": "tracksuit",
+      "pos": "NOUN",
+      "translation": "el chándal",
+      "example": "By then, a small crowd had gathered behind the fence: two old ladies in tracksuits, a man with a dog, and a group of teenagers who had stopped their own lesson to watch."
+    },
+    {
       "word": "trade",
       "pos": "NOUN",
       "translation": "el oficio ; el comercio",
@@ -22757,6 +23261,12 @@
       "example": "Bram had drawn the cart up beside the cooper's yard to unload, and a pedlar Rowan didn't recognise — a stooped, sharp-eyed woman with a tray of tin pots and needles slung from her neck — had sidled up to him and was talking in a low, urgent voice."
     },
     {
+      "word": "treadmill",
+      "pos": "NOUN",
+      "translation": "la cinta de correr",
+      "example": "On the treadmill he lasted four minutes before his face went the colour of a tomato."
+    },
+    {
       "word": "treat",
       "pos": "VERB",
       "translation": "tratar",
@@ -22803,6 +23313,12 @@
       "pos": "NOUN",
       "translation": "el triángulo",
       "example": "Rowan saw columns of names in a neat, cramped hand, and beside each a single symbol: a wavy line, a triangle, a spiral, a small circle."
+    },
+    {
+      "word": "trip",
+      "pos": "VERB",
+      "translation": "tropezar",
+      "example": "He did not trip on anything."
     },
     {
       "word": "triumph",
@@ -23225,6 +23741,12 @@
       "example": "Bram picked up the Writ, looked at it without unfolding it, and put it on the mantelpiece beside the unfinished fox, as though it were a bill he had no intention of paying."
     },
     {
+      "word": "unfit",
+      "pos": "ADJ",
+      "translation": "en baja forma, sin forma física",
+      "example": "Those still belonged to his real, unfit body."
+    },
+    {
       "word": "unfold",
       "pos": "VERB",
       "translation": "desplegar, desdoblar",
@@ -23499,6 +24021,12 @@
       "pos": "ADV",
       "translation": "hacia arriba",
       "example": "Instead, the shaving curled upward, slowly, the way a fern unfurls in spring, and wound itself once, lightly, around the tip of his finger."
+    },
+    {
+      "word": "urge",
+      "pos": "NOUN",
+      "translation": "el impulso, las ganas",
+      "example": "She made him play ten minutes of football and then tested his tennis: the tennis was gone, completely, replaced by a strange urge to kick everything."
     },
     {
       "word": "urgent",
@@ -24610,6 +25138,12 @@
       "example": "She was a head shorter than him, freckled, and permanently windswept, as though she had just come in from a gale even on the stillest of days."
     },
     {
+      "word": "wing",
+      "pos": "NOUN",
+      "translation": "el ala",
+      "example": "Then the next, and the next, faster and faster, red, blue, green, until his arms were moving like the wings of a hummingbird."
+    },
+    {
       "word": "winter",
       "pos": "NOUN",
       "translation": "el invierno",
@@ -24620,6 +25154,12 @@
       "pos": "VERB",
       "translation": "limpiar, secar",
       "example": "Ten paces behind him, Uncle Bram lowered his axe, wiped his brow with a forearm as thick as a fencepost, and waited."
+    },
+    {
+      "word": "wire",
+      "pos": "NOUN",
+      "translation": "el cable, el alambre",
+      "example": "She led Max down a long white corridor into a room full of strange machines: treadmills with wires hanging over them, a bicycle connected to a computer, a wall covered in coloured lights, and a metal plate in the floor that measured how hard you jumped."
     },
     {
       "word": "wiring",

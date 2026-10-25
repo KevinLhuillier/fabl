@@ -154,3 +154,72 @@ The next two days were the longest of his life. Every time he passed his bedroom
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_2.page_10-1792911336550.mp3
 On Saturday night, unable to sleep, he took the cardboard box of cartridges onto his bed and looked through them one by one, reading the handwritten names under the light of his phone. Some were obvious. ACE POINT had to be tennis. IRON GLOVE was boxing, surely. BLAZE BRIGADE had a little drawing of a fire engine in the corner. But others were mysterious. One just said NIGHT HOLLOW, written in shaky letters, and when he held it, he felt a small, cold shiver run down his back.
 He put it at the bottom of the box. At the very bottom, under all the others, his fingers touched something else: a folded piece of paper, soft and old. He opened it carefully. It was a page torn from a notebook, and on it someone had written, in the same shaky hand: Day 41. I can't remember how I used to run. Below that, nothing else. Max read it three times. Then he folded it up again, put it back exactly where he had found it, and lay awake until the sun came up.
+
+# Rules of the Game
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_3.page_1-1792946661157.mp3
+The sports science building at Leeds Beckett was almost empty on Sunday mornings. Priya had a key card for the testing lab, because she worked there part-time, helping a professor with his research on sprinters. She led Max down a long white corridor into a room full of strange machines: treadmills with wires hanging over them, a bicycle connected to a computer, a wall covered in coloured lights, and a metal plate in the floor that measured how hard you jumped.
+"Rules," said Priya, putting her bag on a table and taking out her notebook. "First, you do everything once like this, with no game. That's your baseline. Then you play, and we test you again, every hour, until it's gone. We're going to measure speed, reaction time, balance, jump height and heart rate. Do not try to impress me. Just be normal." Max looked at the treadmill. "Normal is going to be very embarrassing," he said.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_3.page_2-1792946675277.mp3
+It was. On the treadmill he lasted four minutes before his face went the colour of a tomato. On the jump plate he managed twenty-six centimetres, which Priya wrote down without comment, although he saw her lips move. On the light wall, where you had to hit each light as soon as it came on, he was slow and kept hitting the wrong ones. By the end of the baseline tests he was lying on the floor with his arms spread out like a starfish, staring at the ceiling.
+"Twenty-six centimetres," he said. "Go on. Say it." Priya sat down on a chair beside him. "My grandmother could do twenty-six centimetres," she said. "And she has a plastic hip." Then she reached into his bag, took out the Halcyon, which he had carried across the city wrapped in a towel, and plugged it into the big screen on the wall that the professor used for his presentations. "One hour," she said. "Tennis. Let's see what happens."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_3.page_3-1792946699556.mp3
+ACE POINT put him in the shoes of a tall, calm player with long arms and a white cap. The ball moved incredibly fast, and at first Max lost point after point. Then something clicked. His player began to read the ball before it left the other player's racket, moving early, taking short quick steps and hitting the ball at exactly the right moment. As the console began to hum, Max felt the familiar warmth spread from his fingers up into his shoulders.
+After exactly one hour, Priya turned off the screen and pointed to the light wall. Max stood in front of it and waited. The first light came on, and his hand was already there. Then the next, and the next, faster and faster, red, blue, green, until his arms were moving like the wings of a hummingbird. When the machine finally beeped and stopped, Priya stared at the number on the screen. "That's faster than the professor's sprinters," she said quietly. "That's faster than anyone I've ever tested."
+But the jump plate told a different story. Max jumped as hard as he could and the number came up: twenty-nine centimetres. Three more than before. "Interesting," said Priya, and wrote it down. On the treadmill, it was the same. He ran more efficiently, with a better rhythm, and lasted six minutes instead of four. But his heart still raced, and his legs still burned. The game had given him skill. It had not given him power or fitness. Those still belonged to his real, unfit body.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_3.page_4-1792946714712.mp3
+"So I'm a tennis genius," said Max, "who can't run for more than six minutes." Priya was already drawing a table in her notebook. "Rule one," she said. "It copies technique and instinct. Rule two: it doesn't change your muscles, your lungs or your heart. If the character can jump two metres, you'll try to jump two metres, but your legs can only give what they have. That's probably why you hurt so much afterwards. Your body is doing things it isn't built for."
+They spent the rest of the day testing. Priya was relentless. She made him play ten minutes of football and then tested his tennis: the tennis was gone, completely, replaced by a strange urge to kick everything. "Rule three," she said, writing. "Only one game at a time. The new one erases the old one." She made him play for thirty minutes and measured how long the effect lasted: about two hours. One hour of play gave about four hours of effect. Two hours gave about eight.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_3.page_5-1792946730868.mp3
+"Rule four," said Priya. "Every hour of game equals about four hours of you being someone else." She looked up from her notebook. "And rule five, which is not a rule, it's a guess: the longer you play, the more it costs. Hunger, pain, sleep. You came out of that football weekend like you'd been in a car accident." Max did not want to think about the cost. He was too busy thinking about everything he could do. Every game in that cardboard box was a door.
+Late in the afternoon, they discovered one more rule, and they discovered it by accident. Priya asked him to play ACE POINT again, against the hardest opponent in the game, so that she could test whether a more difficult match made a stronger effect. Max played badly. He was tired and hungry, his eyes were sore, and the computer player was merciless. He lost the match in straight sets, six-one, six-two, six-love. The console made a low, unhappy sound, almost a groan, and the screen went dark.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_3.page_6-1792946747984.mp3
+Max stood up to stretch his legs, took one step towards the water fountain and fell flat on his face. He did not trip on anything. His feet simply forgot how to work. He got up, laughing, and immediately walked into the corner of a table. When Priya threw him a bottle of water, it hit him in the chest and bounced onto the floor. When he tried to pick it up, he kicked it under the treadmill. For the next three hours, he could barely open a door without hurting himself.
+"Rule six," said Priya, who was trying very hard not to laugh and failing. "If you lose, it copies that too. You become a loser. Literally." She put a plaster on his forehead, where he had hit the door of the lab. "So no playing when you're tired, and no playing games you can't win. Promise me." Max promised, rubbing his head. "This is the strangest day of my life," he said. Priya closed her notebook. "Mine too," she said. "And I once watched a man run a marathon dressed as a fridge."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_3.page_7-1792946762819.mp3
+They took the bus back together as the streetlights came on. Max was so hungry that he bought three sausage rolls at the bus station and ate them one after the other while Priya watched with horror. On the bus, she read her notes again and again, frowning. "There's something I don't understand," she said. "Who made this thing? And why? Consoles don't just appear in markets with fifteen games nobody's ever heard of. Somebody built it. Somebody used it before you."
+Max thought of the folded piece of paper at the bottom of the box. Day 41. I can't remember how I used to run. He almost told Priya about it. Then he looked out of the window at the lights of the city and decided not to. She would only worry, and she would probably take the console away from him. And he did not want to stop. Not now. Not when, for the first time in years, he felt like the main character of his own life.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_3.page_8-1792946783773.mp3
+The following Wednesday, Priya had an idea. "We need to test it in the real world," she said on the phone. "Against a real person. A lab is one thing. A match is something else." Her uncle was a member of a small tennis club in Chapel Allerton, with four green courts behind a hedge and a clubhouse that smelled of furniture polish. On Wednesday evenings, the club coach gave lessons, and anybody could book a practice match with him for ten pounds.
+The coach was called Graham. He was about fifty, deeply tanned, with very white teeth and a voice that carried across all four courts. He looked at Max's old trainers, his borrowed racket and his football shorts, and smiled the smile of a man who was about to earn ten very easy pounds. "Have you played before?" he asked kindly. "A bit," said Max, who had played ACE POINT for two hours that afternoon and could feel the warmth still buzzing in his wrists.
+Graham served first, a fast, flat serve straight down the middle. Max did not even think. He saw it coming before it crossed the net, took two small steps and hit it back so hard and so low that it touched the line and flew into the hedge. Graham looked at the hedge, then at Max. "Lucky," he said, smiling. He served again, harder. Max returned it to the opposite corner. Graham stopped smiling. On the bench at the side of the court, Priya opened her notebook.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_3.page_9-1792946800646.mp3
+It was not an easy match. Max's technique was perfect, but after twenty minutes his legs were heavy and his lungs were on fire, exactly as the lab tests had predicted. He lost several long points simply because he could not run any more. But he won the short ones, almost all of them, and he won the first set six-four. By then, a small crowd had gathered behind the fence: two old ladies in tracksuits, a man with a dog, and a group of teenagers who had stopped their own lesson to watch.
+After the set, Graham walked up to the net and shook Max's hand. His palm was sweaty. "Where did you train?" he asked. "Who was your coach? You have the best return I've seen in this club in twenty years." Max did not know what to say. "I taught myself," he said, and immediately felt his face go hot. It was not exactly a lie. But it was not true, either. Graham shook his head slowly. "Well," he said, "whoever you are, you should be playing in tournaments."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_3.page_10-1792946824911.mp3
+Walking back to the bus stop, Max could not stop smiling. The teenagers had asked for a photo with him. One of the old ladies had told him he reminded her of a young Björn Borg, whoever that was. Graham had given him his card and asked him to come back. For years, nobody had looked at Max with anything but pity or boredom. Today, a whole tennis club had looked at him with admiration. It felt better than any game he had ever won on a screen.
+Priya was quiet. "What?" he asked her at last. "You're not happy? It worked. Everything worked, exactly like your rules said." She pushed her bicycle beside him for a while before she answered. "That man has spent thirty years learning to play tennis," she said. "He practised every day, in the rain, when he was injured, when he didn't feel like it. And you beat him because you played a video game this afternoon. Doesn't that feel a bit strange to you?"
+It did, a little. Max had felt it on the court, a small cold feeling under the warmth, when Graham had asked him who his coach was. But he did not want to feel it now. "I didn't hurt anyone," he said. "He's fine. He's probably telling his friends about me right now." Priya stopped at the corner where their paths separated. "That's not the point," she said. "I just don't want you to forget who you are, Max. The real you. Not the tennis player in the white cap."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_3.page_11-1792946841294.mp3
+That night, Max lay in bed with every muscle in his body screaming. He had eaten two plates of pasta and a whole tub of ice cream, and he was still hungry. On his bedside table, the Halcyon sat quietly in the dark, and he could almost feel it waiting for him. He thought about what Priya had said. The real you. But what was the real Max, exactly? A tired man who missed buses and pushed cages around a warehouse at night? Why would anyone want to stay that?
+He was almost asleep when he heard his door open. He sat up. Lily was standing in the doorway in her pyjamas, holding her phone up so that its light fell on his face. On the screen was a video, a little shaky, filmed from behind a hedge. It showed a man in football shorts returning a tennis serve into the far corner of a court. "So," said his sister, and her voice was very calm, "are you going to tell me what's going on, or do I have to ask Priya?"
