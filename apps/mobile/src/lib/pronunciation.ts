@@ -45,6 +45,9 @@ function firstUrl(keys: string[]): string | null | undefined {
   return null;
 }
 
+/** Clip of the first of `texts` that has one, once `loadPronunciations` has loaded them. */
+export const cachedPronunciation = (texts: string[]) => firstUrl(texts.map(pronunciationKey));
+
 /**
  * Clip for the first of `texts` that has one ("took", else its lemma "take"):
  * undefined while loading, null when none of them has a clip.

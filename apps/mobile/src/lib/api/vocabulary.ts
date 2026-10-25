@@ -1,16 +1,20 @@
 import { endOfToday } from '../dates';
 import type { SrsResult } from '../srs';
 import { currentUserId, supabase, unwrap } from '../supabase';
-import type { VocabularyItem } from '../types';
+import type { Occurrence, SentenceToken, VocabularyItem } from '../types';
 
 /**
  * Adds a looked-up word. The (user_id, lemma_id) primary key + ignoreDuplicates
  * make it a no-op if the word is already there. Returns true if it was new.
+ * The page and token position let the review find the word in its story again.
  */
 export async function addToVocabulary(input: {
   lemmaId: number;
   contextSentence: string;
   storyId: string;
+  passageId: string;
+  /** Position of the tapped token, or of the first token of the expression. */
+  tokenPosition: number;
 }): Promise<boolean> {
   const userId = await currentUserId();
   const inserted = unwrap(
@@ -22,6 +26,8 @@ export async function addToVocabulary(input: {
           lemma_id: input.lemmaId,
           context_sentence: input.contextSentence,
           story_id: input.storyId,
+          passage_id: input.passageId,
+          token_position: input.tokenPosition,
         },
         { onConflict: 'user_id,lemma_id', ignoreDuplicates: true },
       )
@@ -151,4 +157,78 @@ export async function saveReview(lemmaId: number, result: SrsResult) {
       })
       .eq('lemma_id', lemmaId),
   );
+}
+
+type RawOccurrence = {
+  lemma_id: number;
+  passage_id: string;
+  audio_url: string | null;
+  positions: number[];
+};
+
+type RawSentenceToken = {
+  position: number;
+  text: string;
+  whitespace: string;
+  start_ms: number | null;
+  end_ms: number | null;
+};
+
+/** Tokens that end a sentence: . ! ? … or a line break (as in `sentenceAround`). */
+const endsSentence = (t: RawSentenceToken) =>
+  /^[.!?…]+$/.test(t.text) || t.whitespace.includes('\n');
+
+/**
+ * Where each of `lemmaIds` is used in a story (the occurrence where the user met it when
+ * known): the sentence around it, its tokens in that sentence and the page's voice-over.
+ * Words found nowhere (story deleted) are missing from the map.
+ */
+export async function fetchOccurrences(lemmaIds: number[]): Promise<Map<number, Occurrence>> {
+  if (!lemmaIds.length) return new Map();
+  const found = unwrap(
+    await supabase.rpc('vocabulary_occurrences', { p_lemma_ids: lemmaIds }),
+  ) as RawOccurrence[];
+  // One request per page: a page is a few hundred tokens, under the API row limit.
+  const pageIds = [...new Set(found.map((o) => o.passage_id))];
+  const pages = new Map(
+    await Promise.all(
+      pageIds.map(async (id) => {
+        const tokens = unwrap(
+          await supabase
+            .from('tokens')
+            .select('position, text, whitespace, start_ms, end_ms')
+            .eq('passage_id', id)
+            .order('position'),
+        ) as RawSentenceToken[];
+        return [id, tokens] as const;
+      }),
+    ),
+  );
+
+  const occurrences = new Map<number, Occurrence>();
+  for (const o of found) {
+    const tokens = pages.get(o.passage_id);
+    const first = o.positions[0];
+    const last = o.positions[o.positions.length - 1];
+    if (!tokens?.length || first === undefined || last === undefined) continue;
+    let start = first;
+    while (start > 0 && !endsSentence(tokens[start - 1]!)) start--;
+    let end = last;
+    while (end < tokens.length - 1 && !endsSentence(tokens[end]!)) end++;
+    // Keep a closing quote that follows the punctuation.
+    if (tokens[end + 1]?.text === '"' && !tokens[end]!.whitespace) end++;
+    const sentence: SentenceToken[] = tokens.slice(start, end + 1).map((t) => ({
+      text: t.text,
+      // The sentence is shown on one line.
+      whitespace: t.whitespace.replace('\n', ''),
+      startMs: t.start_ms,
+      endMs: t.end_ms,
+    }));
+    occurrences.set(o.lemma_id, {
+      sentence,
+      target: o.positions.map((p) => p - start),
+      audioUrl: o.audio_url,
+    });
+  }
+  return occurrences;
 }

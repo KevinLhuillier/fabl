@@ -97,3 +97,20 @@ export type VocabularyItem = {
   ease: number;
   repetitions: number;
 };
+
+/** A token of an occurrence's sentence (review exercises built on the story). */
+export type SentenceToken = {
+  text: string;
+  whitespace: string;
+  startMs: number | null;
+  endMs: number | null;
+};
+
+/** Where a word of the user's list is used in a story: its sentence and the page's voice-over. */
+export type Occurrence = {
+  sentence: SentenceToken[];
+  /** Indices in `sentence` of the word's tokens (several for an expression). */
+  target: number[];
+  /** Voice-over of the page, or null. */
+  audioUrl: string | null;
+};

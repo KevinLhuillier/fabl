@@ -206,6 +206,8 @@ export default function ChapterReader() {
       lemmaId: entry.id,
       contextSentence: sentenceAround(current.tokens, token.position),
       storyId: story.id,
+      passageId: current.id,
+      tokenPosition: token.phrase?.start ?? token.position,
     })
       .then((isNew) =>
         setSheet((s) =>

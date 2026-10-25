@@ -52,8 +52,18 @@ turn this off in **Authentication → Providers → Email → Confirm email**.
   pronunciation (as spelled in the text — "took" — else its lemma) and pauses the voice-over.
 - **Mes mots**: every word looked up, with translation, context sentence and story, searchable,
   removable (trash icon), with a speaker to hear each word, and the number of words due today. Practice is possible at any time.
-- **Review**: due words (spaced repetition, simplified SM-2 — `src/lib/srs.ts`): the user types the word's translation,
-  alternating English → user's language and back (synonyms, articles, a missing accent or one typo accepted — `src/lib/answer.ts`). Missed words come back at the end.
+- **Review**: due words (spaced repetition, simplified SM-2 — `src/lib/srs.ts`), one exercise per word, the types
+  mixed in each session (`src/lib/reviewSession.ts`, screens in `src/components/review/`):
+  - typed answers (synonyms, articles, a missing accent or one typo accepted — `src/lib/answer.ts`): translation
+    (English → user's language and back), the **story sentence** with the word blanked, the **verb form** used in the
+    story ("leapt" ← _leap_), the word **heard in the story** (its pronunciation clip, and its sentence read by the
+    narrator: an excerpt of the page voice-over, from the alignment), the word's **pronunciation clip** alone
+    (dictation), an **expression** with one word missing;
+  - games: **letters** to put in order, **pairs** to match (4 words), a timed **true or false** round (4 words).
+
+  Each word gets the least used type it allows (story exercises need the occurrence where the word was met:
+  `user_vocabulary.passage_id` / `token_position`, else the `vocabulary_occurrences` function finds it from the
+  context sentence). Missed words come back at the end as a typed translation.
 - **Celebration** screen after a chapter (with "next chapter" and the number of new words to learn:
   the chapter's words added to "Mes mots" and not reviewed yet), a whole story or a review.
 
