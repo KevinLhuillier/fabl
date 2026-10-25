@@ -43,6 +43,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Alasdair",
+      "pos": "NOUN",
+      "word": "Alasdair",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "alcoves",
       "pos": "VERB",
       "word": "alcove",
@@ -119,6 +125,12 @@
       "pos": "PROPN",
       "word": "bargeman",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Beatons",
+      "pos": "PROPN",
+      "word": "Beaton",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Bed",
@@ -327,6 +339,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "by",
+      "pos": "ADP",
+      "next": "-",
+      "word": "four-by-four",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "calloused",
       "pos": "VERB",
       "word": "calloused",
@@ -422,6 +441,12 @@
       "pos": "NOUN",
       "word": "colossal",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "come",
+      "pos": "NOUN",
+      "word": "come",
+      "lemmaPos": "VERB"
     },
     {
       "text": "COMPLETE",
@@ -587,6 +612,12 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "drystone",
+      "pos": "NOUN",
+      "word": "drystone",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "E.",
       "pos": "NOUN",
       "word": "E.",
@@ -629,6 +660,12 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "exacting",
+      "pos": "VERB",
+      "word": "exacting",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Examiner",
       "pos": "PROPN",
       "word": "examiner",
@@ -657,6 +694,13 @@
       "pos": "NOUN",
       "word": "face",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "fact",
+      "pos": "NOUN",
+      "next": "way",
+      "word": "matter-of-fact",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "fade",
@@ -794,6 +838,13 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "four",
+      "pos": "NUM",
+      "next": "-",
+      "word": "four-by-four",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Frozen",
       "pos": "PROPN",
       "word": "frozen",
@@ -830,6 +881,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "geese",
+      "pos": "PROPN",
+      "word": "goose",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "German",
       "pos": "ADJ",
       "next": "Bight",
@@ -841,6 +898,12 @@
       "pos": "PROPN",
       "word": "gesture",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Gideon",
+      "pos": "NOUN",
+      "word": "Gideon",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Ginger",
@@ -870,6 +933,12 @@
       "text": "glassy",
       "pos": "NOUN",
       "word": "glassy",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Glaswegian",
+      "pos": "ADJ",
+      "word": "Glaswegian",
       "lemmaPos": "ADJ"
     },
     {
@@ -1457,6 +1526,13 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "matter",
+      "pos": "NOUN",
+      "next": "-",
+      "word": "matter-of-fact",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "melt",
       "pos": "NOUN",
       "word": "melt",
@@ -1657,6 +1733,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Norwegian",
+      "pos": "ADJ",
+      "word": "Norwegian",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Nuage",
       "pos": "NOUN",
       "word": "Nuage",
@@ -1760,6 +1842,13 @@
     {
       "text": "Past",
       "pos": "PROPN",
+      "word": "past",
+      "lemmaPos": "ADP"
+    },
+    {
+      "text": "past",
+      "pos": "NOUN",
+      "next": "eight",
       "word": "past",
       "lemmaPos": "ADP"
     },
@@ -1904,6 +1993,12 @@
     {
       "text": "quite",
       "pos": "DET",
+      "word": "quite",
+      "lemmaPos": "ADV"
+    },
+    {
+      "text": "quite",
+      "pos": "ADJ",
       "word": "quite",
       "lemmaPos": "ADV"
     },
@@ -2288,6 +2383,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "snowbound",
+      "pos": "NOUN",
+      "word": "snowbound",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "soles",
       "pos": "NOUN",
       "word": "sole",
@@ -2531,6 +2632,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "texted",
+      "pos": "VERB",
+      "word": "text",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Thanks",
       "pos": "NOUN",
       "word": "thanks",
@@ -2735,6 +2842,12 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "waded",
+      "pos": "VERB",
+      "word": "wade",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "wading",
       "pos": "VERB",
       "word": "wade",
@@ -2751,6 +2864,18 @@
       "pos": "NOUN",
       "word": "wake",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "warehouse",
+      "pos": "VERB",
+      "word": "warehouse",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Warehouse",
+      "pos": "PROPN",
+      "word": "warehouse",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Watch",
@@ -2887,6 +3012,12 @@
       "pos": "ADJ",
       "word": "yawn",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "yellowish",
+      "pos": "VERB",
+      "word": "yellowish",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "yours",

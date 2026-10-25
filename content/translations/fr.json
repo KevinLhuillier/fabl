@@ -235,6 +235,12 @@
     },
     {
       "word": "account",
+      "pos": "NOUN",
+      "translation": "le récit, le compte rendu ; le compte",
+      "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
+    },
+    {
+      "word": "account",
       "pos": "VERB",
       "translation": "(« account for » : rendre compte de, recenser)",
       "example": "\"Between us, and the records we keep at Thornhall, we can account for every Marking in the Hollow Wilds for the past three centuries.\""
@@ -298,6 +304,18 @@
       "pos": "ADP",
       "translation": "à travers, de l'autre côté de",
       "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
+    },
+    {
+      "word": "act",
+      "pos": "NOUN",
+      "translation": "l'acte",
+      "example": "It's an act of faith in a future you'll very likely not attend."
+    },
+    {
+      "word": "act of faith",
+      "pos": "PHRASE",
+      "translation": "l'acte de foi",
+      "example": "It's an act of faith in a future you'll very likely not attend."
     },
     {
       "word": "actually",
@@ -465,6 +483,12 @@
       "pos": "ADP",
       "translation": "contre",
       "example": "On the first pass, both lances broke against the shields."
+    },
+    {
+      "word": "against their will",
+      "pos": "PHRASE",
+      "translation": "contre leur gré, malgré eux",
+      "example": "Alasdair, it also transpired, was Ruaridh's uncle, and had telephoned from the hospital in Inverness — where he and Isla had been taken, much against their will, for observation — to deliver a lengthy and, in Ruaridh's words, \"frankly embarrassing\" account of Gideon's conduct."
     },
     {
       "word": "age",
@@ -638,6 +662,12 @@
       "pos": "VERB",
       "translation": "permettre, autoriser",
       "example": "It allowed the Academy to admit, for a single probationary year, any child whose Marking had produced a result the examiners could not explain."
+    },
+    {
+      "word": "allowance",
+      "pos": "NOUN",
+      "translation": "l'allocation, le quota, le crédit (« allowance of hours » : crédit d'heures)",
+      "example": "Thanks to the night he had spent marooned on the pass, the tachograph had registered a full daily rest; as far as the regulations were concerned, he was a new man with a fresh allowance of hours, and he found the notion more consoling than he would have expected."
     },
     {
       "word": "almost",
@@ -968,6 +998,12 @@
       "pos": "ADV",
       "translation": "apparemment",
       "example": "There's a gardener down the hill with a spare bunk, apparently."
+    },
+    {
+      "word": "apparition",
+      "pos": "NOUN",
+      "translation": "l'apparition, le spectre",
+      "example": "The first snowplough appeared at a quarter to seven, a great yellow apparition crawling south out of the half-light with its blade raised and its beacons strobing across the drifts."
     },
     {
       "word": "appear",
@@ -1371,6 +1407,12 @@
       "example": "At first, nobody listened to him."
     },
     {
+      "word": "at intervals",
+      "pos": "PHRASE",
+      "translation": "par intervalles, de temps en temps",
+      "example": "Gideon dozed in his seat and woke at intervals to find the world outside transformed: the snow had stopped, the clouds had torn apart, and a lopsided moon hung above the pass, pouring a cold, unearthly radiance over a landscape that seemed to have been newly invented."
+    },
+    {
       "word": "at last",
       "pos": "PHRASE",
       "translation": "enfin",
@@ -1447,6 +1489,12 @@
       "example": "His hands were shaking so badly that it took him two attempts to find the Stone."
     },
     {
+      "word": "attend",
+      "pos": "VERB",
+      "translation": "assister à, être présent à",
+      "example": "It's an act of faith in a future you'll very likely not attend."
+    },
+    {
       "word": "attendance",
       "pos": "NOUN",
       "translation": "la présence (« in attendance » : présent)",
@@ -1499,6 +1547,12 @@
       "pos": "NOUN",
       "translation": "l'automne",
       "example": "He had been Marked the previous autumn: Fire, as everyone had predicted, since his father had Fire and his grandfather before him."
+    },
+    {
+      "word": "Aviemore",
+      "pos": "PROPN",
+      "translation": "Aviemore (station des Highlands, au pied des Cairngorms)",
+      "example": "At Aviemore he turned off towards Grantown, and the road narrowed and grew intimate, winding between birch woods and drystone dykes and fields in which sheep stood motionless, their fleeces yellowish against the snow."
     },
     {
       "word": "avoid",
@@ -1911,7 +1965,7 @@
     {
       "word": "bay",
       "pos": "NOUN",
-      "translation": "le laurier (« bay tree » : le laurier-sauce)",
+      "translation": "le laurier (« bay tree » : le laurier-sauce) ; la baie ; le quai, l'aire (« loading bay » : quai de chargement)",
       "example": "Your mother kept a row of pots on the sill — rosemary and thyme, and a little bay tree she'd grown from a cutting."
     },
     {
@@ -1973,6 +2027,12 @@
       "pos": "NOUN",
       "translation": "la barbe",
       "example": "His face was grey with cold, and there was frost in his beard, and he looked older than Rowan had ever seen him — older, and smaller, somehow, as though the long road had worn him down the way a river wears down a stone."
+    },
+    {
+      "word": "bearded",
+      "pos": "ADJ",
+      "translation": "barbu (« grey-bearded » : à la barbe grise)",
+      "example": "She returned a few minutes later with a stocky, grey-bearded man in a boiler suit, who introduced himself as the distillery manager and enquired, with elaborate casualness, whether it was true that Gideon had spent the night on Drumochter with Alasdair Beaton."
     },
     {
       "word": "bearing",
@@ -2478,6 +2538,12 @@
       "example": "By Blair Atholl they had stopped melting."
     },
     {
+      "word": "blame",
+      "pos": "VERB",
+      "translation": "accuser, rejeter la faute sur, mettre sur le compte de",
+      "example": "Becca cried, briefly and furiously, and blamed the wind."
+    },
+    {
       "word": "Blank",
       "pos": "PROPN",
       "translation": "« Blank » (surnom méprisant : le Vide, la Coquille vide)",
@@ -2680,6 +2746,18 @@
       "pos": "NOUN",
       "translation": "le corps",
       "example": "I found a small space under a chimney and pressed my body against the bricks."
+    },
+    {
+      "word": "boiler",
+      "pos": "NOUN",
+      "translation": "la chaudière (« boiler suit » : bleu de travail)",
+      "example": "She returned a few minutes later with a stocky, grey-bearded man in a boiler suit, who introduced himself as the distillery manager and enquired, with elaborate casualness, whether it was true that Gideon had spent the night on Drumochter with Alasdair Beaton."
+    },
+    {
+      "word": "boiler suit",
+      "pos": "PHRASE",
+      "translation": "le bleu de travail, la combinaison",
+      "example": "She returned a few minutes later with a stocky, grey-bearded man in a boiler suit, who introduced himself as the distillery manager and enquired, with elaborate casualness, whether it was true that Gideon had spent the night on Drumochter with Alasdair Beaton."
     },
     {
       "word": "bolt",
@@ -3090,6 +3168,12 @@
       "example": "Across the square, the blacksmith's son, Edric Vane, was entertaining a half-circle of younger children by snapping his fingers and conjuring a spark — just one, bright and brief as a firefly."
     },
     {
+      "word": "brilliant",
+      "pos": "ADJ",
+      "translation": "éclatant, brillant ; génial",
+      "example": "He drove back south the following day, slowly and without incident, under a sky of rinsed and brilliant blue."
+    },
+    {
       "word": "bring",
       "pos": "VERB",
       "translation": "apporter",
@@ -3118,6 +3202,12 @@
       "pos": "ADJ",
       "translation": "vif, énergique",
       "example": "He worked his way down the line of nervous children with the brisk efficiency of a farmer counting sheep, asking each one their name and their element, and directing them to one of four arched doorways around the courtyard."
+    },
+    {
+      "word": "briskness",
+      "pos": "NOUN",
+      "translation": "l'efficacité vive, l'empressement",
+      "example": "The warehousemen unloaded the casks with a briskness that suggested they had been waiting for some time."
     },
     {
       "word": "bristle",
@@ -3187,6 +3277,12 @@
     },
     {
       "word": "brush",
+      "pos": "NOUN",
+      "translation": "la brosse, le pinceau ; (fig.) le frôlement (« a brush with death » : frôler la mort)",
+      "example": "He had shared his cab before, with trainees and with the occasional stranded colleague, but never with anyone quite like the Beatons, who seemed to regard their predicament as a mildly diverting episode rather than a brush with death."
+    },
+    {
+      "word": "brush",
       "pos": "VERB",
       "translation": "frôler, effleurer ; brosser",
       "example": "In the old days, the songs claimed, the trees of the Hollow Wilds had grown so tall that their crowns brushed the clouds, and the people who lived beneath them could ask a root to part or a branch to bend, and be answered."
@@ -3196,6 +3292,12 @@
       "pos": "PHRASE",
       "translation": "chasser (d'un revers de main)",
       "example": "She flicked the droplet into the fire without looking, as casually as someone brushing off a fly."
+    },
+    {
+      "word": "brush with death",
+      "pos": "PHRASE",
+      "translation": "le moment où l'on frôle la mort",
+      "example": "He had shared his cab before, with trainees and with the occasional stranded colleague, but never with anyone quite like the Beatons, who seemed to regard their predicament as a mildly diverting episode rather than a brush with death."
     },
     {
       "word": "brute",
@@ -3268,6 +3370,18 @@
       "pos": "NOUN",
       "translation": "la couchette",
       "example": "There's a gardener down the hill with a spare bunk, apparently."
+    },
+    {
+      "word": "bureaucratic",
+      "pos": "ADJ",
+      "translation": "bureaucratique",
+      "example": "He thought, unexpectedly, of the tachograph, which had at some point in the evening clicked over to a rest period and was even now recording, with bureaucratic serenity, that he was doing nothing whatsoever."
+    },
+    {
+      "word": "burn",
+      "pos": "NOUN",
+      "translation": "(Écosse) le ruisseau, le torrent ; la brûlure",
+      "example": "Glen Corrach Distillery lay at the end of a single-track road a few miles beyond Grantown, in a fold of the hills where a burn came tumbling down to join the Spey."
     },
     {
       "word": "burn",
@@ -3570,6 +3684,12 @@
       "example": "Snow was settling on his hat and his shoulders and the round lenses of his spectacles, and behind them his eyes were quite calm."
     },
     {
+      "word": "calm",
+      "pos": "NOUN",
+      "translation": "le calme (« flat calm » : calme plat)",
+      "example": "\"Brought a Norwegian supply vessel in on the morning tide, flat calm, not a breath of wind. Easiest job I ever did. I remember being thoroughly disappointed. I'd always imagined I'd go out in some tremendous storm.\""
+    },
+    {
       "word": "calmly",
       "pos": "ADV",
       "translation": "calmement",
@@ -3858,6 +3978,12 @@
       "example": "She flicked the droplet into the fire without looking, as casually as someone brushing off a fly."
     },
     {
+      "word": "casualness",
+      "pos": "NOUN",
+      "translation": "la désinvolture, le naturel",
+      "example": "She returned a few minutes later with a stocky, grey-bearded man in a boiler suit, who introduced himself as the distillery manager and enquired, with elaborate casualness, whether it was true that Gideon had spent the night on Drumochter with Alasdair Beaton."
+    },
+    {
       "word": "cat",
       "pos": "NOUN",
       "translation": "le chat",
@@ -3898,6 +4024,12 @@
       "pos": "PHRASE",
       "translation": "rattraper (« a bad day catching up with him » : la fatigue d'une mauvaise journée qui le rattrape)",
       "example": "Or had the lamp flickered by coincidence, and the exhaustion been nothing more than a bad day catching up with him?"
+    },
+    {
+      "word": "cathedral",
+      "pos": "ADJ",
+      "translation": "de cathédrale (« cathedral dark » : obscurité de cathédrale)",
+      "example": "Warehouse four was the oldest on the site, a dunnage warehouse with an earthen floor and walls a yard thick, in which the casks lay three high on wooden runners in a cool, damp, cathedral dark."
     },
     {
       "word": "causeway",
@@ -3984,6 +4116,12 @@
       "example": "A week later, Edwin stood once again in front of the king, this time with Sir Godfrey sitting beside him on a wooden chair, and the young bandit kneeling at his side."
     },
     {
+      "word": "chalk",
+      "pos": "VERB",
+      "translation": "écrire à la craie (« chalked with a date » : daté à la craie)",
+      "example": "Ruaridh led him down a narrow aisle to a single butt near the far wall, its staves darkened almost to black, its head chalked with a date: 1994."
+    },
+    {
       "word": "chance",
       "pos": "NOUN",
       "translation": "la chance, la possibilité",
@@ -4006,6 +4144,12 @@
       "pos": "PHRASE",
       "translation": "rétrograder (passer une vitesse inférieure)",
       "example": "\"You do know that, don't you? You'll be pottering round some garden centre in a fleece, rearranging the seed packets, and you'll hear a lorry change down on the bypass and you'll want to weep.\""
+    },
+    {
+      "word": "channel",
+      "pos": "NOUN",
+      "translation": "le chenal ; la chaîne (télé)",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
     },
     {
       "word": "chant",
@@ -4530,6 +4674,12 @@
       "example": "His stomach pushed against his work fleece, his knees clicked when he climbed stairs, and he got out of breath faster than his mum, who smoked ten cigarettes a day."
     },
     {
+      "word": "click over",
+      "pos": "PHRASE",
+      "translation": "basculer (en un déclic)",
+      "example": "He thought, unexpectedly, of the tachograph, which had at some point in the evening clicked over to a rest period and was even now recording, with bureaucratic serenity, that he was doing nothing whatsoever."
+    },
+    {
       "word": "cliff",
       "pos": "NOUN",
       "translation": "la falaise",
@@ -4696,6 +4846,12 @@
       "pos": "NOUN",
       "translation": "l'entraîneur, le coach (aussi : l'autocar)",
       "example": "On Wednesday evenings, the club coach gave lessons, and anybody could book a practice match with him for ten pounds."
+    },
+    {
+      "word": "coach party",
+      "pos": "PHRASE",
+      "translation": "le groupe de touristes en car",
+      "example": "\"The proper one, mind, not the one we do for the coach parties. And he says I'm to show you warehouse four. He was very particular about warehouse four. Wouldn't tell me why. Said you'd understand.\""
     },
     {
       "word": "coal",
@@ -4980,6 +5136,12 @@
       "example": "But it was comfortable, and he was too tired to imagine anything else."
     },
     {
+      "word": "comic",
+      "pos": "ADJ",
+      "translation": "comique",
+      "example": "It struck him as faintly comic that a machine so exacting about the hours he drove should be utterly incapable of recognising the most useful thing he had done all year."
+    },
+    {
       "word": "command",
       "pos": "VERB",
       "translation": "commander, maîtriser",
@@ -5014,6 +5176,12 @@
       "pos": "PHRASE",
       "translation": "Compagnie des mines d'Aubrecourt (en français dans le texte)",
       "example": "Above the main entrance, half hidden behind a modern sign, you could still read the original words carved in stone: COMPAGNIE DES MINES D'AUBRECOURT."
+    },
+    {
+      "word": "companionable",
+      "pos": "ADJ",
+      "translation": "amical, de bonne compagnie (« companionable gloom » : pénombre complice)",
+      "example": "Gideon ran the engine for twenty minutes in every hour, enough to keep the cab warm without burning more diesel than he could spare, and in between the three of them sat in a dim, companionable gloom lit only by the soft green glow of the dashboard."
     },
     {
       "word": "company",
@@ -5118,6 +5286,24 @@
       "example": "The Duchess was waiting for him at the end of the third row, her cab beaded with condensation."
     },
     {
+      "word": "conduct",
+      "pos": "NOUN",
+      "translation": "la conduite, le comportement",
+      "example": "Alasdair, it also transpired, was Ruaridh's uncle, and had telephoned from the hospital in Inverness — where he and Isla had been taken, much against their will, for observation — to deliver a lengthy and, in Ruaridh's words, \"frankly embarrassing\" account of Gideon's conduct."
+    },
+    {
+      "word": "conduct",
+      "pos": "VERB",
+      "translation": "mener, exercer, conduire",
+      "example": "Within the hour the two men had established, to their mutual satisfaction, that they had spent their lives in essentially the same trade, merely conducted on different surfaces."
+    },
+    {
+      "word": "cone",
+      "pos": "NOUN",
+      "translation": "le cône (« traffic cone » : plot de signalisation)",
+      "example": "Nell, who had somehow contrived to be in the yard at the time, informed the assembled company that he had once made her reverse a trailer round a traffic cone for three solid hours, and that she had never forgiven him."
+    },
+    {
       "word": "confess",
       "pos": "VERB",
       "translation": "avouer",
@@ -5190,6 +5376,12 @@
       "example": "Instead he turned on his console, put his headphones on and played a racing game until his eyes closed by themselves."
     },
     {
+      "word": "consoling",
+      "pos": "ADJ",
+      "translation": "consolant, réconfortant",
+      "example": "Thanks to the night he had spent marooned on the pass, the tachograph had registered a full daily rest; as far as the regulations were concerned, he was a new man with a fresh allowance of hours, and he found the notion more consoling than he would have expected."
+    },
+    {
       "word": "conspiracy",
       "pos": "NOUN",
       "translation": "le complot",
@@ -5244,6 +5436,18 @@
       "example": "He wanted nothing in the cab but the engine, the wipers and the faint, continuous hiss of the tyres on the thickening road."
     },
     {
+      "word": "contour",
+      "pos": "NOUN",
+      "translation": "le contour, le relief",
+      "example": "Every contour of the moor was sheathed in white."
+    },
+    {
+      "word": "contrive",
+      "pos": "VERB",
+      "translation": "s'arranger pour, réussir à (« contrived to be » : s'était arrangée pour être)",
+      "example": "Nell, who had somehow contrived to be in the yard at the time, informed the assembled company that he had once made her reverse a trailer round a traffic cone for three solid hours, and that she had never forgiven him."
+    },
+    {
       "word": "control",
       "pos": "NOUN",
       "translation": "le contrôle, la commande (« remote control » : télécommande)",
@@ -5266,6 +5470,12 @@
       "pos": "ADJ",
       "translation": "pratique, commode (ici ironique)",
       "example": "How convenient."
+    },
+    {
+      "word": "convention",
+      "pos": "NOUN",
+      "translation": "la convention, l'usage",
+      "example": "Before they parted, Alasdair took Gideon's hand in both of his own and held it a moment longer than convention required."
     },
     {
       "word": "conversation",
@@ -5706,6 +5916,12 @@
       "example": "It happened in a single night, the way it did, Moss said, perhaps once in a generation: one evening the water lay black and still under a low grey sky, and the next morning it had turned to a single vast sheet of iron-grey ice, so thick and so clear that the students who crept down to the shore could see pale weeds hanging motionless far beneath it, like hair in a sleeping face."
     },
     {
+      "word": "crescent",
+      "pos": "NOUN",
+      "translation": "le croissant, l'arc de cercle",
+      "example": "It was exactly as he remembered it — a crescent of gravel, now buried, a low stone wall, a view across the white floor of the glen towards hills that stood shoulder to shoulder like old men at a funeral."
+    },
+    {
       "word": "crew",
       "pos": "NOUN",
       "translation": "l'équipage, la bande",
@@ -5740,6 +5956,12 @@
       "pos": "PROPN",
       "translation": "Croix (dans « Croix-Rousse », colline de Lyon)",
       "example": "We ran along the rooftops of the Croix-Rousse, the old hill where silk workers lived a long time ago."
+    },
+    {
+      "word": "Cromarty",
+      "pos": "PROPN",
+      "translation": "Cromarty (dans « Cromarty Firth », estuaire du nord-est de l'Écosse)",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
     },
     {
       "word": "crooked",
@@ -6036,6 +6258,12 @@
       "example": "\"But a small one please,\" she wrote, \"because our garden is small and Dad says no.\""
     },
     {
+      "word": "daily",
+      "pos": "ADJ",
+      "translation": "quotidien, journalier (« daily rest » : repos journalier)",
+      "example": "Thanks to the night he had spent marooned on the pass, the tachograph had registered a full daily rest; as far as the regulations were concerned, he was a new man with a fresh allowance of hours, and he found the notion more consoling than he would have expected."
+    },
+    {
       "word": "dais",
       "pos": "NOUN",
       "translation": "l'estrade",
@@ -6186,6 +6414,12 @@
       "example": "Dear Father Christmas."
     },
     {
+      "word": "death",
+      "pos": "NOUN",
+      "translation": "la mort",
+      "example": "He had shared his cab before, with trainees and with the occasional stranded colleague, but never with anyone quite like the Beatons, who seemed to regard their predicament as a mildly diverting episode rather than a brush with death."
+    },
+    {
       "word": "decade",
       "pos": "NOUN",
       "translation": "la décennie",
@@ -6318,6 +6552,12 @@
       "example": "Not as a servant, not as a delivery boy bringing timber to the kitchen gate, but as a student."
     },
     {
+      "word": "delivery note",
+      "pos": "PHRASE",
+      "translation": "le bon de livraison",
+      "example": "When Gideon handed over the delivery note to the young woman in the office and asked, a little diffidently, whether a Ruaridh Mackay worked there, she looked at him with sudden interest and disappeared without a word."
+    },
+    {
       "word": "demand",
       "pos": "VERB",
       "translation": "exiger, réclamer",
@@ -6340,6 +6580,12 @@
       "pos": "PROPN",
       "translation": "Dent (nom de famille)",
       "example": "\"Not Harry Dent.\""
+    },
+    {
+      "word": "depart",
+      "pos": "VERB",
+      "translation": "partir, quitter",
+      "example": "Then the old couple were helped down from the cab and into the four-by-four, Isla waving regally through the rear window like a dowager departing a garden party, and Gideon was alone once more, with his casks and his card and a road that was slowly, mile by mile, being given back to him."
     },
     {
       "word": "departure",
@@ -6498,6 +6744,12 @@
       "example": "But it landed in the small room like a log dropped on the hearth, and Rowan let the question die."
     },
     {
+      "word": "diesel",
+      "pos": "NOUN",
+      "translation": "le gazole, le diesel",
+      "example": "Gideon ran the engine for twenty minutes in every hour, enough to keep the cab warm without burning more diesel than he could spare, and in between the three of them sat in a dim, companionable gloom lit only by the soft green glow of the dashboard."
+    },
+    {
       "word": "diet",
       "pos": "NOUN",
       "translation": "l'alimentation, le régime",
@@ -6522,6 +6774,12 @@
       "example": "Priya asked him to play ACE POINT again, against the hardest opponent in the game, so that she could test whether a more difficult match made a stronger effect."
     },
     {
+      "word": "diffidently",
+      "pos": "ADV",
+      "translation": "timidement, avec hésitation",
+      "example": "When Gideon handed over the delivery note to the young woman in the office and asked, a little diffidently, whether a Ruaridh Mackay worked there, she looked at him with sudden interest and disappeared without a word."
+    },
+    {
       "word": "dig",
       "pos": "VERB",
       "translation": "creuser",
@@ -6538,6 +6796,12 @@
       "pos": "ADJ",
       "translation": "sombre, faiblement éclairé",
       "example": "But Hale stopped two steps above him, and for a moment the two of them simply looked at each other in the dim, curving stairwell, while the warmth that always hung around Hale crept out over the cold stone like breath."
+    },
+    {
+      "word": "dimension",
+      "pos": "NOUN",
+      "translation": "la dimension (« of formidable dimensions » : d'une carrure impressionnante)",
+      "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
     },
     {
       "word": "dimly",
@@ -6598,6 +6862,12 @@
       "pos": "VERB",
       "translation": "disparaître",
       "example": "As soon as their eyes met, the squire turned and disappeared into the crowd."
+    },
+    {
+      "word": "disappointed",
+      "pos": "ADJ",
+      "translation": "déçu",
+      "example": "\"Brought a Norwegian supply vessel in on the morning tide, flat calm, not a breath of wind. Easiest job I ever did. I remember being thoroughly disappointed. I'd always imagined I'd go out in some tremendous storm.\""
     },
     {
       "word": "disappointing",
@@ -6714,6 +6984,12 @@
       "example": "His load, collected from the quayside the previous evening, consisted of ninety sherry butts, shipped from Jerez de la Frontera and bound for a distillery called Glen Corrach, on the banks of the Spey, some four hundred and ninety miles to the north."
     },
     {
+      "word": "Distillery",
+      "pos": "PROPN",
+      "translation": "Distillery (dans « Glen Corrach Distillery », la distillerie de Glen Corrach)",
+      "example": "Glen Corrach Distillery lay at the end of a single-track road a few miles beyond Grantown, in a fold of the hills where a burn came tumbling down to join the Spey."
+    },
+    {
       "word": "distinctly",
       "pos": "ADV",
       "translation": "distinctement, nettement",
@@ -6748,6 +7024,12 @@
       "pos": "NOUN",
       "translation": "le fossé",
       "example": "The men dug a ditch across the main road and filled it with dry branches."
+    },
+    {
+      "word": "divert",
+      "pos": "VERB",
+      "translation": "détourner ; divertir (« diverting » : amusant)",
+      "example": "He had shared his cab before, with trainees and with the occasional stranded colleague, but never with anyone quite like the Beatons, who seemed to regard their predicament as a mildly diverting episode rather than a brush with death."
     },
     {
       "word": "do",
@@ -6838,6 +7120,12 @@
       "pos": "NOUN",
       "translation": "le beignet, le donut",
       "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
+    },
+    {
+      "word": "dowager",
+      "pos": "NOUN",
+      "translation": "la douairière",
+      "example": "Then the old couple were helped down from the cab and into the four-by-four, Isla waving regally through the rear window like a dowager departing a garden party, and Gideon was alone once more, with his casks and his card and a road that was slowly, mile by mile, being given back to him."
     },
     {
       "word": "down",
@@ -7020,6 +7308,12 @@
       "example": "\"Every Well is different,\" Mistress Crane went on, her voice drifting down the room between the benches."
     },
     {
+      "word": "drill",
+      "pos": "VERB",
+      "translation": "percer ; inculquer (« drilled into him » : qu'on lui avait inculqué)",
+      "example": "It was a precaution that had been drilled into him forty years earlier by an old Glaswegian driver who, he swore, had once found two men asleep for ever in a snowbound cab on Rannoch Moor, and Gideon had never forgotten the flat, matter-of-fact way in which he had told the story."
+    },
+    {
       "word": "drink",
       "pos": "NOUN",
       "translation": "la boisson",
@@ -7042,6 +7336,12 @@
       "pos": "VERB",
       "translation": "conduire ; enfoncer (« hooks driven into » : crochets plantés dans ; « drove me half mad » : me rendait à moitié fou)",
       "example": "Lanterns hung from hooks driven into the living wood, swinging and hissing in the wind, and in their jumping light Rowan saw two figures facing each other across the gap."
+    },
+    {
+      "word": "drive on",
+      "pos": "PHRASE",
+      "translation": "continuer sa route",
+      "example": "Then he texted Nell — \"Over the top\" — and drove on."
     },
     {
       "word": "driver",
@@ -7128,6 +7428,18 @@
       "example": "Gideon had taken his break here so often over the decades that he could have drawn the place from memory, down to the chipped tile by the hand dryers and the laminated notice forbidding the overnight parking of caravans."
     },
     {
+      "word": "drystone",
+      "pos": "ADJ",
+      "translation": "en pierres sèches (« drystone dyke » : muret de pierres sèches)",
+      "example": "At Aviemore he turned off towards Grantown, and the road narrowed and grew intimate, winding between birch woods and drystone dykes and fields in which sheep stood motionless, their fleeces yellowish against the snow."
+    },
+    {
+      "word": "drystone dyke",
+      "pos": "PHRASE",
+      "translation": "le muret de pierres sèches",
+      "example": "At Aviemore he turned off towards Grantown, and the road narrowed and grew intimate, winding between birch woods and drystone dykes and fields in which sheep stood motionless, their fleeces yellowish against the snow."
+    },
+    {
       "word": "dual",
       "pos": "ADJ",
       "translation": "double (« dual carriageway » : route à quatre voies)",
@@ -7162,6 +7474,12 @@
       "pos": "ADJ",
       "translation": "terne, sourd, morne",
       "example": "A sullen boy whom Rowan didn't know made two of the spirals flare a dull, angry orange, and Edric Vane, watching from the edge of the crowd with his arms folded, nodded approvingly, as one Fire to another."
+    },
+    {
+      "word": "dunnage",
+      "pos": "NOUN",
+      "translation": "le fardage (« dunnage warehouse » : chai traditionnel à sol de terre battue)",
+      "example": "Warehouse four was the oldest on the site, a dunnage warehouse with an earthen floor and walls a yard thick, in which the casks lay three high on wooden runners in a cool, damp, cathedral dark."
     },
     {
       "word": "Dunstan",
@@ -7216,6 +7534,12 @@
       "pos": "NOUN",
       "translation": "la couette",
       "example": "Sometimes, when the runner made a big jump, he felt his own legs twitch under the duvet."
+    },
+    {
+      "word": "dyke",
+      "pos": "NOUN",
+      "translation": "(Écosse) le muret ; la digue",
+      "example": "At Aviemore he turned off towards Grantown, and the road narrowed and grew intimate, winding between birch woods and drystone dykes and fields in which sheep stood motionless, their fleeces yellowish against the snow."
     },
     {
       "word": "E.",
@@ -7282,6 +7606,12 @@
       "pos": "PROPN",
       "translation": "la Terre (élément)",
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
+    },
+    {
+      "word": "earthen",
+      "pos": "ADJ",
+      "translation": "en terre (battue)",
+      "example": "Warehouse four was the oldest on the site, a dunnage warehouse with an earthen floor and walls a yard thick, in which the casks lay three high on wooden runners in a cool, damp, cathedral dark."
     },
     {
       "word": "earthy",
@@ -7471,6 +7801,12 @@
     },
     {
       "word": "elaborate",
+      "pos": "ADJ",
+      "translation": "élaboré, étudié, recherché",
+      "example": "She returned a few minutes later with a stocky, grey-bearded man in a boiler suit, who introduced himself as the distillery manager and enquired, with elaborate casualness, whether it was true that Gideon had spent the night on Drumochter with Alasdair Beaton."
+    },
+    {
+      "word": "elaborate",
       "pos": "VERB",
       "translation": "développer, donner des détails",
       "example": "\"Whether it's still home,\" Bram had said, and refused to elaborate."
@@ -7596,6 +7932,12 @@
       "example": "It was embarrassing."
     },
     {
+      "word": "embarrassment",
+      "pos": "NOUN",
+      "translation": "l'embarras, la gêne",
+      "example": "Gideon reversed the Duchess up to the loading bay at a quarter past eleven, some seventeen hours late, and felt neither triumph nor embarrassment, only a vast and peaceable fatigue."
+    },
+    {
       "word": "ember",
       "pos": "NOUN",
       "translation": "la braise",
@@ -7636,6 +7978,12 @@
       "pos": "VERB",
       "translation": "encercler, entourer",
       "example": "Pinned to the board beside the shrine was a sheet of heavy cream paper bearing the seal of Thornhall: a thorned branch encircling a well."
+    },
+    {
+      "word": "encyclopaedic",
+      "pos": "ADJ",
+      "translation": "encyclopédique",
+      "example": "Isla, revived by warmth and a cup of tea from his flask, turned out to be a retired schoolteacher with an encyclopaedic knowledge of Gaelic place names and very decided opinions about the Scottish Parliament."
     },
     {
       "word": "end",
@@ -7722,6 +8070,12 @@
       "example": "If you are patient enough to notice, you will always be one step ahead."
     },
     {
+      "word": "enquire",
+      "pos": "VERB",
+      "translation": "demander, s'enquérir",
+      "example": "She returned a few minutes later with a stocky, grey-bearded man in a boiler suit, who introduced himself as the distillery manager and enquired, with elaborate casualness, whether it was true that Gideon had spent the night on Drumochter with Alasdair Beaton."
+    },
+    {
       "word": "enter",
       "pos": "VERB",
       "translation": "entrer (dans)",
@@ -7762,6 +8116,12 @@
       "pos": "NOUN",
       "translation": "l'enveloppe",
       "example": "The envelope was blue, not white, and there was no name on the back."
+    },
+    {
+      "word": "episode",
+      "pos": "NOUN",
+      "translation": "l'épisode",
+      "example": "He had shared his cab before, with trainees and with the occasional stranded colleague, but never with anyone quite like the Beatons, who seemed to regard their predicament as a mildly diverting episode rather than a brush with death."
     },
     {
       "word": "equal",
@@ -7806,6 +8166,18 @@
       "example": "\"Especially when people think they're whispering.\""
     },
     {
+      "word": "essentially",
+      "pos": "ADV",
+      "translation": "essentiellement, au fond",
+      "example": "Within the hour the two men had established, to their mutual satisfaction, that they had spent their lives in essentially the same trade, merely conducted on different surfaces."
+    },
+    {
+      "word": "establish",
+      "pos": "VERB",
+      "translation": "établir, constater",
+      "example": "Within the hour the two men had established, to their mutual satisfaction, that they had spent their lives in essentially the same trade, merely conducted on different surfaces."
+    },
+    {
       "word": "etiquette",
       "pos": "NOUN",
       "translation": "l'étiquette, les convenances",
@@ -7816,6 +8188,12 @@
       "pos": "VERB",
       "translation": "échapper à, esquiver",
       "example": "They talked as drivers talk, which is to say mostly about other things — her mother's hip, his daughter's new kitchen, a mutual acquaintance who had finally been caught by a speed camera he had been boasting about evading for fifteen years."
+    },
+    {
+      "word": "evaporate",
+      "pos": "VERB",
+      "translation": "s'évaporer",
+      "example": "It was a modest place — a cluster of whitewashed buildings, a pagoda-roofed kiln that had not been used for malting in sixty years, and a row of long, low warehouses whose walls had been stained black by the fungus that feeds on evaporating spirit."
     },
     {
       "word": "Eve",
@@ -7844,6 +8222,12 @@
       "pos": "NOUN",
       "translation": "le soir",
       "example": "That evening, they found shelter at a small inn called the Crooked Crown."
+    },
+    {
+      "word": "event",
+      "pos": "NOUN",
+      "translation": "l'événement (« in the event » : en fin de compte)",
+      "example": "In the event, he stood there for eleven minutes, and when he climbed back into the cab, for once he did not look at the tachograph."
     },
     {
       "word": "eventually",
@@ -7904,6 +8288,12 @@
       "pos": "ADJ",
       "translation": "exact, précis",
       "example": "But at that exact moment, a wave of exhaustion hit Noé so hard that he had to grab the edge of the desk."
+    },
+    {
+      "word": "exacting",
+      "pos": "ADJ",
+      "translation": "exigeant, pointilleux",
+      "example": "It struck him as faintly comic that a machine so exacting about the hours he drove should be utterly incapable of recognising the most useful thing he had done all year."
     },
     {
       "word": "exactly",
@@ -7982,6 +8372,12 @@
       "pos": "PHRASE",
       "translation": "le cahier",
       "example": "Inside, there was one page from a school exercise book, written in pencil."
+    },
+    {
+      "word": "exhaust",
+      "pos": "NOUN",
+      "translation": "le pot d'échappement",
+      "example": "Every hour, before starting the engine, Gideon climbed down into the storm with a shovel to clear the snow from around the exhaust."
     },
     {
       "word": "exhaust",
@@ -8180,6 +8576,12 @@
       "pos": "NOUN",
       "translation": "la fête foraine (« fairground ride » : manège)",
       "example": "In forty years he had hauled steel coil, frozen fish, bagged cement and, on one memorable occasion, a dismantled fairground ride; the Duchess was rated for forty-four tonnes, and today she would be carrying barely six."
+    },
+    {
+      "word": "faith",
+      "pos": "NOUN",
+      "translation": "la foi, la confiance",
+      "example": "It's an act of faith in a future you'll very likely not attend."
     },
     {
       "word": "fall",
@@ -8782,6 +9184,12 @@
       "example": "First thing."
     },
     {
+      "word": "Firth",
+      "pos": "PROPN",
+      "translation": "Firth (dans « Cromarty Firth » ; en Écosse, un firth est un estuaire, un bras de mer)",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
+    },
+    {
       "word": "fish",
       "pos": "NOUN",
       "translation": "le poisson",
@@ -8912,6 +9320,12 @@
       "pos": "NOUN",
       "translation": "l'appartement",
       "example": "Instead, he went back into his flat and returned with an old towel and a plate of chicken."
+    },
+    {
+      "word": "flat calm",
+      "pos": "PHRASE",
+      "translation": "le calme plat",
+      "example": "\"Brought a Norwegian supply vessel in on the morning tide, flat calm, not a breath of wind. Easiest job I ever did. I remember being thoroughly disappointed. I'd always imagined I'd go out in some tremendous storm.\""
     },
     {
       "word": "flatly",
@@ -9108,7 +9522,7 @@
     {
       "word": "fold",
       "pos": "NOUN",
-      "translation": "le pli",
+      "translation": "le pli ; le repli (« a fold of the hills » : un repli des collines)",
       "example": "One was the letter Rowan had already seen in the firelight, a lifetime ago: worn soft, its folds furred, Whatever happens, Bram showing faintly through the paper."
     },
     {
@@ -9214,6 +9628,18 @@
       "example": "She pushed her bicycle beside him for a while before she answered."
     },
     {
+      "word": "for certain",
+      "pos": "PHRASE",
+      "translation": "avec certitude, à coup sûr",
+      "example": "And nobody who fills a cask can say for certain who'll be standing there when it's opened."
+    },
+    {
+      "word": "for ever",
+      "pos": "PHRASE",
+      "translation": "pour toujours, à jamais",
+      "example": "It was a precaution that had been drilled into him forty years earlier by an old Glaswegian driver who, he swore, had once found two men asleep for ever in a snowbound cab on Rannoch Moor, and Gideon had never forgotten the flat, matter-of-fact way in which he had told the story."
+    },
+    {
       "word": "for example",
       "pos": "PHRASE",
       "translation": "par exemple",
@@ -9254,6 +9680,12 @@
       "pos": "PHRASE",
       "translation": "à louer",
       "example": "The mines had closed forty years earlier, but the town still lived in their shadow: rows of identical red-brick houses, a church that was far too big for the people who still went to it, and a main street where every third shop had a \"For Rent\" sign in the window."
+    },
+    {
+      "word": "for sale",
+      "pos": "PHRASE",
+      "translation": "à vendre",
+      "example": "\"He paid for it himself. It's never been for sale.\""
     },
     {
       "word": "for the first time",
@@ -9400,6 +9832,12 @@
       "example": "ASHBY, Elinor (formerly Elinor Reyne, of Mossbridge)."
     },
     {
+      "word": "formidable",
+      "pos": "ADJ",
+      "translation": "redoutable, impressionnant",
+      "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
+    },
+    {
       "word": "forth",
       "pos": "ADV",
       "translation": "(« back and forth » : d'avant en arrière)",
@@ -9440,6 +9878,12 @@
       "pos": "NUM",
       "translation": "quatre",
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "four-by-four",
+      "pos": "NOUN",
+      "translation": "le 4x4, le quatre-quatre",
+      "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
     },
     {
       "word": "fourteen",
@@ -9724,6 +10168,12 @@
       "example": "He had not been back since the funeral."
     },
     {
+      "word": "fungus",
+      "pos": "NOUN",
+      "translation": "le champignon, la moisissure",
+      "example": "It was a modest place — a cluster of whitewashed buildings, a pagoda-roofed kiln that had not been used for malting in sixty years, and a row of long, low warehouses whose walls had been stained black by the fungus that feeds on evaporating spirit."
+    },
+    {
       "word": "funny",
       "pos": "ADJ",
       "translation": "drôle ; bizarre",
@@ -9740,6 +10190,12 @@
       "pos": "ADJ",
       "translation": "furieux, farouche",
       "example": "She held it there, her face set and furious with concentration, for a count of ten."
+    },
+    {
+      "word": "furiously",
+      "pos": "ADV",
+      "translation": "furieusement, avec rage",
+      "example": "Becca cried, briefly and furiously, and blamed the wind."
     },
     {
       "word": "furniture",
@@ -9776,6 +10232,18 @@
       "pos": "NOUN",
       "translation": "les histoires, l'agitation (« without fuss » : sans façons)",
       "example": "A girl Rowan didn't know was saying goodbye to a tall, stooped man at the edge of the crowd — briefly, without fuss, the way you might say goodbye to someone you would see again at supper."
+    },
+    {
+      "word": "future",
+      "pos": "NOUN",
+      "translation": "l'avenir, le futur",
+      "example": "It's an act of faith in a future you'll very likely not attend."
+    },
+    {
+      "word": "Gaelic",
+      "pos": "PROPN",
+      "translation": "le gaélique (« Gaelic place names » : toponymes gaéliques)",
+      "example": "Isla, revived by warmth and a cup of tea from his flask, turned out to be a retired schoolteacher with an encyclopaedic knowledge of Gaelic place names and very decided opinions about the Scottish Parliament."
     },
     {
       "word": "gait",
@@ -9844,6 +10312,12 @@
       "example": "The firm had been courteous about it, in the way that firms are courteous when they have already made up their minds: a card signed by the whole office, a voucher for a garden centre, a speech promised for Friday afternoon."
     },
     {
+      "word": "garden party",
+      "pos": "PHRASE",
+      "translation": "la garden-party",
+      "example": "Then the old couple were helped down from the cab and into the four-by-four, Isla waving regally through the rear window like a dowager departing a garden party, and Gideon was alone once more, with his casks and his card and a road that was slowly, mile by mile, being given back to him."
+    },
+    {
       "word": "gardener",
       "pos": "NOUN",
       "translation": "le jardinier",
@@ -9892,10 +10366,34 @@
       "example": "And then, hard on its heels, a look of such shame that Bram had to drop his gaze to the grass."
     },
     {
+      "word": "gaze",
+      "pos": "VERB",
+      "translation": "regarder fixement, contempler",
+      "example": "When he climbed back in, stamping and gasping, Isla was asleep on the bunk and Alasdair was gazing out at the snow with the expression of a man reading something written there."
+    },
+    {
+      "word": "gaze out",
+      "pos": "PHRASE",
+      "translation": "contempler (par la fenêtre, au-dehors)",
+      "example": "When he climbed back in, stamping and gasping, Isla was asleep on the bunk and Alasdair was gazing out at the snow with the expression of a man reading something written there."
+    },
+    {
       "word": "Gdańsk",
       "pos": "PROPN",
       "translation": "Gdańsk (port de Pologne)",
       "example": "The lorry park filled and emptied with the rhythm of a tide; drivers from Gdańsk and Constanța and Coleraine climbed down stiff-legged from their cabs, nodded to one another without speaking and shuffled towards the warmth of the café like pilgrims approaching a shrine."
+    },
+    {
+      "word": "gear",
+      "pos": "NOUN",
+      "translation": "la vitesse (d'un véhicule) ; le matériel (« gear ratio » : rapport de démultiplication)",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
+    },
+    {
+      "word": "gear ratio",
+      "pos": "PHRASE",
+      "translation": "le rapport de boîte, le rapport de démultiplication",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
     },
     {
       "word": "gearbox",
@@ -9920,6 +10418,12 @@
       "pos": "NOUN",
       "translation": "le groupe électrogène",
       "example": "And up on the hill, at Fellside, where the hospital had its own generator, one window on the south side was full of light."
+    },
+    {
+      "word": "generous",
+      "pos": "ADJ",
+      "translation": "généreux, ample",
+      "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
     },
     {
       "word": "genius",
@@ -10177,6 +10681,12 @@
       "pos": "ADJ",
       "translation": "vitreux, lisse comme du verre",
       "example": "The ice was black and glassy and perfectly smooth, and the moon was so bright on it that they cast four long, sharp shadows ahead of them as they went."
+    },
+    {
+      "word": "Glaswegian",
+      "pos": "ADJ",
+      "translation": "de Glasgow, glaswégien",
+      "example": "It was a precaution that had been drilled into him forty years earlier by an old Glaswegian driver who, he swore, had once found two men asleep for ever in a snowbound cab on Rannoch Moor, and Gideon had never forgotten the flat, matter-of-fact way in which he had told the story."
     },
     {
       "word": "glaze",
@@ -10443,6 +10953,12 @@
       "example": "Goodnight, Mrs Penrose."
     },
     {
+      "word": "goose",
+      "pos": "NOUN",
+      "translation": "l'oie (pluriel : geese)",
+      "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
+    },
+    {
       "word": "gossip",
       "pos": "VERB",
       "translation": "bavarder, cancaner",
@@ -10459,6 +10975,12 @@
       "pos": "VERB",
       "translation": "saisir, agripper",
       "example": "But at that exact moment, a wave of exhaustion hit Noé so hard that he had to grab the edge of the desk."
+    },
+    {
+      "word": "gradient",
+      "pos": "NOUN",
+      "translation": "la pente, la déclivité",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
     },
     {
       "word": "Graham",
@@ -10821,6 +11343,12 @@
       "example": "It was wedged between a guide to regional birds and a dictionary of the Picard dialect, and it looked older than both of them put together."
     },
     {
+      "word": "guide",
+      "pos": "VERB",
+      "translation": "guider",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
+    },
+    {
       "word": "guitar",
       "pos": "NOUN",
       "translation": "la guitare",
@@ -10976,6 +11504,12 @@
       "example": "Gethin halted the oxen, climbed down, walked up to the hedge, and rapped three times on a small iron plate set into a stone post beside it."
     },
     {
+      "word": "haltingly",
+      "pos": "ADV",
+      "translation": "de façon hésitante, en hésitant",
+      "example": "It came out haltingly, in no particular order, and when he had finished he sat staring at the wheel, mortified, waiting for the inevitable kindly platitude."
+    },
+    {
       "word": "hammer",
       "pos": "NOUN",
       "translation": "le marteau",
@@ -10990,7 +11524,7 @@
     {
       "word": "hand",
       "pos": "NOUN",
-      "translation": "la main",
+      "translation": "la main ; l'écriture (« in his careful hand » : de son écriture soignée)",
       "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
     },
     {
@@ -11004,6 +11538,12 @@
       "pos": "PHRASE",
       "translation": "le sèche-mains",
       "example": "Gideon had taken his break here so often over the decades that he could have drawn the place from memory, down to the chipped tile by the hand dryers and the laminated notice forbidding the overnight parking of caravans."
+    },
+    {
+      "word": "hand in",
+      "pos": "PHRASE",
+      "translation": "rendre, remettre",
+      "example": "On Friday afternoon he handed in his card at the depot in Immingham, listened to the transport manager's speech with an expression of polite suffering, and accepted the voucher for the garden centre."
     },
     {
       "word": "hand over",
@@ -11088,6 +11628,18 @@
       "pos": "ADJ",
       "translation": "heureux, content",
       "example": "She is very happy. — Elle est très contente."
+    },
+    {
+      "word": "harbour",
+      "pos": "NOUN",
+      "translation": "le port",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
+    },
+    {
+      "word": "harbour pilot",
+      "pos": "PHRASE",
+      "translation": "le pilote de port, le pilote maritime",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
     },
     {
       "word": "hard",
@@ -11248,7 +11800,7 @@
     {
       "word": "head",
       "pos": "NOUN",
-      "translation": "la tête",
+      "translation": "la tête ; le fond (d'un tonneau)",
       "example": "Edwin shook his head."
     },
     {
@@ -11448,6 +12000,12 @@
       "pos": "VERB",
       "translation": "aider",
       "example": "Can you help me? — Peux-tu m'aider ?"
+    },
+    {
+      "word": "help down",
+      "pos": "PHRASE",
+      "translation": "aider à descendre",
+      "example": "Then the old couple were helped down from the cab and into the four-by-four, Isla waving regally through the rear window like a dowager departing a garden party, and Gideon was alone once more, with his casks and his card and a road that was slowly, mile by mile, being given back to him."
     },
     {
       "word": "help it",
@@ -12362,6 +12920,18 @@
       "example": "In a way, he thought, perhaps he had."
     },
     {
+      "word": "in and out of",
+      "pos": "PHRASE",
+      "translation": "à l'entrée et à la sortie de, dans un sens et dans l'autre",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
+    },
+    {
+      "word": "in better nick",
+      "pos": "PHRASE",
+      "translation": "(fam.) en meilleur état, en meilleure forme",
+      "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
+    },
+    {
       "word": "in case",
       "pos": "PHRASE",
       "translation": "au cas où"
@@ -12408,6 +12978,12 @@
       "example": "He thought about it in the glasshouses, sitting beside Moss's clay pots with his eyes closed, until the old man rapped him on the knee with his blackthorn stick and told him that a seed could hear a mind wandering from a mile off."
     },
     {
+      "word": "in no particular order",
+      "pos": "PHRASE",
+      "translation": "dans le désordre, sans ordre précis",
+      "example": "It came out haltingly, in no particular order, and when he had finished he sat staring at the wheel, mortified, waiting for the inevitable kindly platitude."
+    },
+    {
       "word": "in particular",
       "pos": "PHRASE",
       "translation": "en particulier",
@@ -12441,6 +13017,12 @@
       "pos": "PHRASE",
       "translation": "finalement, à la fin",
       "example": "But Edwin refused to leave, and in the end, the king agreed to see him."
+    },
+    {
+      "word": "in the event",
+      "pos": "PHRASE",
+      "translation": "en fin de compte, finalement",
+      "example": "In the event, he stood there for eleven minutes, and when he climbed back into the cab, for once he did not look at the tachograph."
     },
     {
       "word": "in the habit of",
@@ -12497,10 +13079,22 @@
       "example": "He helped Isla out first, then Alasdair, half carrying each of them in turn through the knee-deep snow towards the towering, rumbling bulk of the Duchess."
     },
     {
+      "word": "incapable",
+      "pos": "ADJ",
+      "translation": "incapable",
+      "example": "It struck him as faintly comic that a machine so exacting about the hours he drove should be utterly incapable of recognising the most useful thing he had done all year."
+    },
+    {
       "word": "inch",
       "pos": "NOUN",
       "translation": "le pouce (2,54 cm) ; un tout petit peu",
       "example": "When he hammered on the window, however, the driver turned his head with great slowness and wound it down an inch."
+    },
+    {
+      "word": "incident",
+      "pos": "NOUN",
+      "translation": "l'incident",
+      "example": "He drove back south the following day, slowly and without incident, under a sky of rinsed and brilliant blue."
     },
     {
       "word": "incline",
@@ -12581,6 +13175,12 @@
       "example": "\"If they nerf the blacksmiths again, I'm uninstalling,\" Inès said."
     },
     {
+      "word": "inevitable",
+      "pos": "ADJ",
+      "translation": "inévitable",
+      "example": "It came out haltingly, in no particular order, and when he had finished he sat staring at the wheel, mortified, waiting for the inevitable kindly platitude."
+    },
+    {
       "word": "inexorable",
       "pos": "ADJ",
       "translation": "inexorable",
@@ -12591,6 +13191,12 @@
       "pos": "NOUN",
       "translation": "l'infirmerie",
       "example": "There is a reason the Academy keeps a very good infirmary."
+    },
+    {
+      "word": "inform",
+      "pos": "VERB",
+      "translation": "informer, annoncer à",
+      "example": "Nell, who had somehow contrived to be in the yard at the time, informed the assembled company that he had once made her reverse a trailer round a traffic cone for three solid hours, and that she had never forgiven him."
     },
     {
       "word": "information",
@@ -12653,6 +13259,12 @@
       "example": "The pages were thick and slightly yellowed, covered in the same handwriting as the inscription, with diagrams of hands in precise positions, arrows showing movements, and words in a language he didn't recognise."
     },
     {
+      "word": "Insh",
+      "pos": "PROPN",
+      "translation": "Insh (dans « the Insh », marais d'Insh, dans la vallée de la Spey)",
+      "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
+    },
+    {
       "word": "inside",
       "pos": "ADJ",
       "translation": "intérieur (« inside pocket » : la poche intérieure)",
@@ -12681,6 +13293,12 @@
       "pos": "VERB",
       "translation": "insister",
       "example": "Then, because Tamsin insisted, they woke Jory, creeping down the cold stone stairs to the Cistern and rapping on his shutter until his tousled copper head appeared at the window."
+    },
+    {
+      "word": "inspect",
+      "pos": "VERB",
+      "translation": "inspecter, examiner",
+      "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
     },
     {
       "word": "install",
@@ -12734,6 +13352,12 @@
       "pos": "VERB",
       "translation": "insulter, faire affront à (« insulting » : insultant, humiliant)",
       "example": "There was, he reflected, something almost insulting about ending a career on so light a load."
+    },
+    {
+      "word": "intend",
+      "pos": "VERB",
+      "translation": "avoir l'intention de, compter",
+      "example": "In a dark warehouse beside the Spey, ninety casks are quietly becoming something, and in twelve years' time, God and the A9 willing, he intends to be there when they are opened."
     },
     {
       "word": "intent",
@@ -12790,6 +13414,18 @@
       "example": "She'll have you on the internet in five minutes."
     },
     {
+      "word": "interval",
+      "pos": "NOUN",
+      "translation": "l'intervalle (« at intervals » : par intervalles)",
+      "example": "Gideon dozed in his seat and woke at intervals to find the world outside transformed: the snow had stopped, the clouds had torn apart, and a lopsided moon hung above the pass, pouring a cold, unearthly radiance over a landscape that seemed to have been newly invented."
+    },
+    {
+      "word": "intimate",
+      "pos": "ADJ",
+      "translation": "intime",
+      "example": "At Aviemore he turned off towards Grantown, and the road narrowed and grew intimate, winding between birch woods and drystone dykes and fields in which sheep stood motionless, their fleeces yellowish against the snow."
+    },
+    {
       "word": "into",
       "pos": "ADP",
       "translation": "dans (avec mouvement)",
@@ -12812,6 +13448,12 @@
       "pos": "VERB",
       "translation": "inventer",
       "example": "A clumsy squire forgets to check his master's saddle, and now he invents a conspiracy to protect himself."
+    },
+    {
+      "word": "Invergordon",
+      "pos": "PROPN",
+      "translation": "Invergordon (port du nord-est de l'Écosse)",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
     },
     {
       "word": "Inverness",
@@ -13180,6 +13822,12 @@
       "example": "Someone had tried to kill his master, and he was almost sure he knew who."
     },
     {
+      "word": "kiln",
+      "pos": "NOUN",
+      "translation": "le four, le four à malt (touraille)",
+      "example": "It was a modest place — a cluster of whitewashed buildings, a pagoda-roofed kiln that had not been used for malting in sixty years, and a row of long, low warehouses whose walls had been stained black by the fungus that feeds on evaporating spirit."
+    },
+    {
       "word": "kilo",
       "pos": "NOUN",
       "translation": "le kilo",
@@ -13226,6 +13874,12 @@
       "pos": "NOUN",
       "translation": "le royaume",
       "example": "Every knight in the kingdom has been invited to take part."
+    },
+    {
+      "word": "Kingussie",
+      "pos": "PROPN",
+      "translation": "Kingussie (village des Highlands)",
+      "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
     },
     {
       "word": "Kirkgate",
@@ -13304,6 +13958,12 @@
       "pos": "VERB",
       "translation": "savoir, connaître",
       "example": "\"Do you know how I got this?\""
+    },
+    {
+      "word": "knowledge",
+      "pos": "NOUN",
+      "translation": "la connaissance, le savoir",
+      "example": "Isla, revived by warmth and a cup of tea from his flask, turned out to be a retired schoolteacher with an encyclopaedic knowledge of Gaelic place names and very decided opinions about the Scottish Parliament."
     },
     {
       "word": "knuckle",
@@ -13448,6 +14108,12 @@
       "pos": "NOUN",
       "translation": "le propriétaire terrien",
       "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
+    },
+    {
+      "word": "landscape",
+      "pos": "NOUN",
+      "translation": "le paysage",
+      "example": "Gideon dozed in his seat and woke at intervals to find the world outside transformed: the snow had stopped, the clouds had torn apart, and a lopsided moon hung above the pass, pouring a cold, unearthly radiance over a landscape that seemed to have been newly invented."
     },
     {
       "word": "lane",
@@ -13864,6 +14530,12 @@
       "example": "The archives of Thornhall lay beneath the Great Hall, in a long, low, vaulted cellar that ran the whole length of the building."
     },
     {
+      "word": "lengthy",
+      "pos": "ADJ",
+      "translation": "long, interminable",
+      "example": "Alasdair, it also transpired, was Ruaridh's uncle, and had telephoned from the hospital in Inverness — where he and Isla had been taken, much against their will, for observation — to deliver a lengthy and, in Ruaridh's words, \"frankly embarrassing\" account of Gideon's conduct."
+    },
+    {
       "word": "lens",
       "pos": "NOUN",
       "translation": "le verre (de lunettes)",
@@ -14092,6 +14764,12 @@
       "example": "I think you'd like it."
     },
     {
+      "word": "likely",
+      "pos": "ADV",
+      "translation": "probablement (« very likely » : très probablement)",
+      "example": "It's an act of faith in a future you'll very likely not attend."
+    },
+    {
       "word": "Lily",
       "pos": "PROPN",
       "translation": "Lily (prénom)",
@@ -14230,6 +14908,18 @@
       "example": "By mid-afternoon the cart was loaded, and Patience — a mule whose name had been chosen with considerable irony — was persuaded, after the usual negotiations, to haul it down the track to Brackenford."
     },
     {
+      "word": "loading",
+      "pos": "NOUN",
+      "translation": "le chargement (« loading bay » : quai de chargement)",
+      "example": "Gideon reversed the Duchess up to the loading bay at a quarter past eleven, some seventeen hours late, and felt neither triumph nor embarrassment, only a vast and peaceable fatigue."
+    },
+    {
+      "word": "loading bay",
+      "pos": "PHRASE",
+      "translation": "le quai de chargement",
+      "example": "Gideon reversed the Duchess up to the loading bay at a quarter past eleven, some seventeen hours late, and felt neither triumph nor embarrassment, only a vast and peaceable fatigue."
+    },
+    {
       "word": "loaf",
       "pos": "NOUN",
       "translation": "la miche (« a loaf of bread » : un pain)",
@@ -14347,6 +15037,12 @@
       "pos": "VERB",
       "translation": "desserrer, défaire",
       "example": "He made them open, one finger at a time, the way Bram had taught him to loosen a knot that had pulled too tight."
+    },
+    {
+      "word": "lopsided",
+      "pos": "ADJ",
+      "translation": "de travers, asymétrique",
+      "example": "Gideon dozed in his seat and woke at intervals to find the world outside transformed: the snow had stopped, the clouds had torn apart, and a lopsided moon hung above the pass, pouring a cold, unearthly radiance over a landscape that seemed to have been newly invented."
     },
     {
       "word": "lord",
@@ -14565,6 +15261,12 @@
       "example": "Next to it was a cardboard box full of cartridges, the old-fashioned kind you pushed into the top of the machine."
     },
     {
+      "word": "Mackay",
+      "pos": "PROPN",
+      "translation": "Mackay (nom de famille écossais)",
+      "example": "\"When you get to Glen Corrach,\" he said, \"ask for Ruaridh Mackay. Tell him Alasdair Beaton sent you. He'll know what that means.\""
+    },
+    {
       "word": "mad",
       "pos": "ADJ",
       "translation": "fou (« go mad » : devenir fou, s'affoler)",
@@ -14670,6 +15372,12 @@
       "pos": "NOUN",
       "translation": "la malveillance, la méchanceté",
       "example": "The temperature display on the dashboard slid from two degrees to zero, then to minus one, and then, with a kind of casual malice, to minus four."
+    },
+    {
+      "word": "malt",
+      "pos": "VERB",
+      "translation": "malter (« malting » : maltage)",
+      "example": "It was a modest place — a cluster of whitewashed buildings, a pagoda-roofed kiln that had not been used for malting in sixty years, and a row of long, low warehouses whose walls had been stained black by the fungus that feeds on evaporating spirit."
     },
     {
       "word": "mam",
@@ -14828,6 +15536,12 @@
       "example": "\"Nine days till the Marking,\" Rowan said, through a mouthful of apple."
     },
     {
+      "word": "maroon",
+      "pos": "VERB",
+      "translation": "abandonner, isoler (« marooned » : bloqué, coupé du monde)",
+      "example": "Thanks to the night he had spent marooned on the pass, the tachograph had registered a full daily rest; as far as the regulations were concerned, he was a new man with a fresh allowance of hours, and he found the notion more consoling than he would have expected."
+    },
+    {
       "word": "married",
       "pos": "ADJ",
       "translation": "marié (« married name » : nom de femme mariée)",
@@ -14838,6 +15552,12 @@
       "pos": "VERB",
       "translation": "épouser, se marier",
       "example": "Without his mother's name before she married — and Rowan realised, with a hollow feeling in his stomach, that he did not know it — they could have searched all night."
+    },
+    {
+      "word": "marsh",
+      "pos": "NOUN",
+      "translation": "le marais",
+      "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
     },
     {
       "word": "masonry",
@@ -14892,6 +15612,12 @@
       "pos": "VERB",
       "translation": "importer, avoir de l'importance (« it doesn't matter » : ce n'est pas grave)",
       "example": "He couldn't have said afterwards how he got out of the meadow, only that at some point Tamsin was beside him, gripping his arm, saying things that were meant to be kind — it doesn't matter, it doesn't change anything, Edric's a pig and everyone knows it — and that at some point he had asked her, as gently as he could manage, to leave him alone."
+    },
+    {
+      "word": "matter-of-fact",
+      "pos": "ADJ",
+      "translation": "neutre, terre à terre, sans émotion",
+      "example": "It was a precaution that had been drilled into him forty years earlier by an old Glaswegian driver who, he swore, had once found two men asleep for ever in a snowbound cab on Rannoch Moor, and Gideon had never forgotten the flat, matter-of-fact way in which he had told the story."
     },
     {
       "word": "Maud",
@@ -15212,10 +15938,22 @@
       "example": "He wore black leather gloves despite the mild morning, and there was a faint warmth in the air around him, like standing too near a banked fire."
     },
     {
+      "word": "mildly",
+      "pos": "ADV",
+      "translation": "légèrement, modérément",
+      "example": "He had shared his cab before, with trainees and with the occasional stranded colleague, but never with anyone quite like the Beatons, who seemed to regard their predicament as a mildly diverting episode rather than a brush with death."
+    },
+    {
       "word": "mile",
       "pos": "NOUN",
       "translation": "le mile (1,6 km)",
       "example": "It felt like a mile."
+    },
+    {
+      "word": "mile by mile",
+      "pos": "PHRASE",
+      "translation": "mile après mile, petit à petit",
+      "example": "Then the old couple were helped down from the cab and into the four-by-four, Isla waving regally through the rear window like a dowager departing a garden party, and Gideon was alone once more, with his casks and his card and a road that was slowly, mile by mile, being given back to him."
     },
     {
       "word": "milk",
@@ -15380,6 +16118,12 @@
       "example": "Above the main entrance, half hidden behind a modern sign, you could still read the original words carved in stone: COMPAGNIE DES MINES D'AUBRECOURT."
     },
     {
+      "word": "modest",
+      "pos": "ADJ",
+      "translation": "modeste",
+      "example": "It was a modest place — a cluster of whitewashed buildings, a pagoda-roofed kiln that had not been used for malting in sixty years, and a row of long, low warehouses whose walls had been stained black by the fungus that feeds on evaporating spirit."
+    },
+    {
       "word": "moment",
       "pos": "NOUN",
       "translation": "le moment",
@@ -15440,6 +16184,18 @@
       "example": "But the air in the room turned suddenly damp and cool, and through the crack in the shutters Rowan saw a mist begin to rise from the grass outside — thin at first, then thicker, curling up around the wagon wheels, the horses' legs, the man's knees, swallowing the moonlight."
     },
     {
+      "word": "moor",
+      "pos": "NOUN",
+      "translation": "la lande",
+      "example": "Every contour of the moor was sheathed in white."
+    },
+    {
+      "word": "Moor",
+      "pos": "PROPN",
+      "translation": "Moor (dans « Rannoch Moor », vaste lande des Highlands)",
+      "example": "It was a precaution that had been drilled into him forty years earlier by an old Glaswegian driver who, he swore, had once found two men asleep for ever in a snowbound cab on Rannoch Moor, and Gideon had never forgotten the flat, matter-of-fact way in which he had told the story."
+    },
+    {
       "word": "moorland",
       "pos": "NOUN",
       "translation": "la lande",
@@ -15480,6 +16236,12 @@
       "pos": "NOUN",
       "translation": "le matin",
       "example": "Every morning. — Chaque matin."
+    },
+    {
+      "word": "mortify",
+      "pos": "VERB",
+      "translation": "mortifier (« mortified » : mort de honte)",
+      "example": "It came out haltingly, in no particular order, and when he had finished he sat staring at the wheel, mortified, waiting for the inevitable kindly platitude."
     },
     {
       "word": "moss",
@@ -15998,6 +16760,12 @@
       "example": "Newcastle."
     },
     {
+      "word": "newly",
+      "pos": "ADV",
+      "translation": "nouvellement, récemment (« newly invented » : tout juste inventé)",
+      "example": "Gideon dozed in his seat and woke at intervals to find the world outside transformed: the snow had stopped, the clouds had torn apart, and a lopsided moon hung above the pass, pouring a cold, unearthly radiance over a landscape that seemed to have been newly invented."
+    },
+    {
       "word": "news",
       "pos": "NOUN",
       "translation": "les nouvelles, les informations",
@@ -16056,6 +16824,12 @@
       "pos": "NOUN",
       "translation": "la niche, le renfoncement",
       "example": "And in among the roots, tucked into hollows and niches where the woven wood had curled around them like cupped hands, there were books."
+    },
+    {
+      "word": "nick",
+      "pos": "NOUN",
+      "translation": "l'entaille ; (fam.) l'état, la forme (« in better nick » : en meilleur état)",
+      "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
     },
     {
       "word": "night",
@@ -16268,6 +17042,12 @@
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
     },
     {
+      "word": "Norwegian",
+      "pos": "ADJ",
+      "translation": "norvégien",
+      "example": "\"Brought a Norwegian supply vessel in on the morning tide, flat calm, not a breath of wind. Easiest job I ever did. I remember being thoroughly disappointed. I'd always imagined I'd go out in some tremendous storm.\""
+    },
+    {
       "word": "nose",
       "pos": "NOUN",
       "translation": "le nez, le museau",
@@ -16344,6 +17124,12 @@
       "pos": "VERB",
       "translation": "remarquer",
       "example": "If you are patient enough to notice, you will always be one step ahead."
+    },
+    {
+      "word": "notion",
+      "pos": "NOUN",
+      "translation": "l'idée, la notion",
+      "example": "Gideon laughed, and then, rather to his own surprise, found himself telling Alasdair about the lay-by above Dalwhinnie — about Pauline and the sandwiches and the thirty-one summers, about the funeral and the long, numb months that had followed it, about the half-formed notion that had brought him north on this particular run with ninety empty casks rattling behind him."
     },
     {
       "word": "November",
@@ -16448,6 +17234,12 @@
       "example": "A driver was permitted nine hours behind the wheel in a single day, extendable to ten no more than twice a week; after four and a half hours of driving, a break of forty-five minutes was obligatory."
     },
     {
+      "word": "observation",
+      "pos": "NOUN",
+      "translation": "l'observation, la surveillance (médicale)",
+      "example": "Alasdair, it also transpired, was Ruaridh's uncle, and had telephoned from the hospital in Inverness — where he and Isla had been taken, much against their will, for observation — to deliver a lengthy and, in Ruaridh's words, \"frankly embarrassing\" account of Gideon's conduct."
+    },
+    {
       "word": "obsess",
       "pos": "VERB",
       "translation": "obséder (« obsessed with » : obsédé par)",
@@ -16470,6 +17262,12 @@
       "pos": "NOUN",
       "translation": "l'occasion, l'événement",
       "example": "Nineteen children stood in a ragged line before the Stone, scrubbed and combed and dressed in clothes that had clearly been borrowed for the occasion."
+    },
+    {
+      "word": "occasional",
+      "pos": "ADJ",
+      "translation": "occasionnel, de temps à autre",
+      "example": "He had shared his cab before, with trainees and with the occasional stranded colleague, but never with anyone quite like the Beatons, who seemed to regard their predicament as a mildly diverting episode rather than a brush with death."
     },
     {
       "word": "occupy",
@@ -16823,6 +17621,12 @@
       "pos": "NOUN",
       "translation": "l'opération",
       "example": "That meant Fellside, the small cottage hospital above the village, where old people went after an operation or a fall."
+    },
+    {
+      "word": "opinion",
+      "pos": "NOUN",
+      "translation": "l'opinion, l'avis",
+      "example": "Isla, revived by warmth and a cup of tea from his flask, turned out to be a retired schoolteacher with an encyclopaedic knowledge of Gaelic place names and very decided opinions about the Scottish Parliament."
     },
     {
       "word": "opponent",
@@ -17199,7 +18003,7 @@
     {
       "word": "pack",
       "pos": "VERB",
-      "translation": "emballer, faire ses bagages",
+      "translation": "emballer, faire ses bagages ; tasser (« packed snow » : neige tassée)",
       "example": "\"Prepare the horses and pack the armour,\" Godfrey ordered."
     },
     {
@@ -17219,6 +18023,12 @@
       "pos": "NOUN",
       "translation": "la page",
       "example": "Inside lay a folded letter, its paper yellowed with age, and pressed flat between its pages was a single leaf — not oak, not ash, not any tree Rowan knew, but long and silvery and veined with the faintest trace of gold."
+    },
+    {
+      "word": "pagoda",
+      "pos": "NOUN",
+      "translation": "la pagode (« pagoda-roofed » : au toit en pagode)",
+      "example": "It was a modest place — a cluster of whitewashed buildings, a pagoda-roofed kiln that had not been used for malting in sixty years, and a row of long, low warehouses whose walls had been stained black by the fungus that feeds on evaporating spirit."
     },
     {
       "word": "pain",
@@ -17251,6 +18061,12 @@
       "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
     },
     {
+      "word": "paint stripper",
+      "pos": "PHRASE",
+      "translation": "le décapant (pour peinture)",
+      "example": "\"We fill them,\" said Alasdair, \"with spirit that's as clear as water and as raw as paint stripper, and then we roll them into a dark warehouse and we leave them alone.\""
+    },
+    {
       "word": "pair",
       "pos": "NOUN",
       "translation": "la paire",
@@ -17261,6 +18077,12 @@
       "pos": "ADJ",
       "translation": "pâle",
       "example": "Godfrey was pale with pain, his leg tied between two wooden boards."
+    },
+    {
+      "word": "pale",
+      "pos": "VERB",
+      "translation": "pâlir",
+      "example": "Then it struck him that the same was true of most of the instruments by which people measure their lives, and he sat for a while with that thought, turning it over, until the sky in the east began to pale."
     },
     {
       "word": "pallet",
@@ -17359,6 +18181,12 @@
       "example": "Gideon had taken his break here so often over the decades that he could have drawn the place from memory, down to the chipped tile by the hand dryers and the laminated notice forbidding the overnight parking of caravans."
     },
     {
+      "word": "Parliament",
+      "pos": "PROPN",
+      "translation": "le Parlement (« Scottish Parliament » : Parlement écossais)",
+      "example": "Isla, revived by warmth and a cup of tea from his flask, turned out to be a retired schoolteacher with an encyclopaedic knowledge of Gaelic place names and very decided opinions about the Scottish Parliament."
+    },
+    {
       "word": "part",
       "pos": "NOUN",
       "translation": "la part (« take part » : participer)",
@@ -17377,9 +18205,15 @@
       "example": "Other woodcutters in the Hollow Wilds were less particular."
     },
     {
+      "word": "party",
+      "pos": "NOUN",
+      "translation": "la fête ; le groupe (« coach party » : groupe en car)",
+      "example": "Then the old couple were helped down from the cab and into the four-by-four, Isla waving regally through the rear window like a dowager departing a garden party, and Gideon was alone once more, with his casks and his card and a road that was slowly, mile by mile, being given back to him."
+    },
+    {
       "word": "pass",
       "pos": "NOUN",
-      "translation": "le passage, l'assaut (à la joute)",
+      "translation": "le passage, l'assaut (à la joute) ; le col (de montagne)",
       "example": "On the first pass, both lances broke against the shields."
     },
     {
@@ -17533,6 +18367,12 @@
       "example": "It was small and dark and wrinkled, like a dried pea, and it lay in the middle of his palm looking utterly unremarkable."
     },
     {
+      "word": "peaceable",
+      "pos": "ADJ",
+      "translation": "paisible, serein",
+      "example": "Gideon reversed the Duchess up to the loading bay at a quarter past eleven, some seventeen hours late, and felt neither triumph nor embarrassment, only a vast and peaceable fatigue."
+    },
+    {
       "word": "peaceful",
       "pos": "ADJ",
       "translation": "paisible, serein",
@@ -17627,6 +18467,12 @@
       "pos": "ADV",
       "translation": "peut-être",
       "example": "It happened, everyone knew it happened — one child in fifty, perhaps, born with a Well too shallow to register."
+    },
+    {
+      "word": "period",
+      "pos": "NOUN",
+      "translation": "la période (« rest period » : temps de repos)",
+      "example": "He thought, unexpectedly, of the tachograph, which had at some point in the evening clicked over to a rest period and was even now recording, with bureaucratic serenity, that he was doing nothing whatsoever."
     },
     {
       "word": "permanently",
@@ -17827,6 +18673,12 @@
       "example": "Rowan put it under his pillow."
     },
     {
+      "word": "pilot",
+      "pos": "NOUN",
+      "translation": "le pilote (« harbour pilot » : pilote de port)",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
+    },
+    {
       "word": "pin",
       "pos": "VERB",
       "translation": "épingler, punaiser",
@@ -17911,6 +18763,12 @@
       "example": "You will place both hands flat against the Stone."
     },
     {
+      "word": "place name",
+      "pos": "PHRASE",
+      "translation": "le nom de lieu, le toponyme",
+      "example": "Isla, revived by warmth and a cup of tea from his flask, turned out to be a retired schoolteacher with an encyclopaedic knowledge of Gaelic place names and very decided opinions about the Scottish Parliament."
+    },
+    {
       "word": "plain",
       "pos": "ADJ",
       "translation": "simple, sans ornement",
@@ -17975,6 +18833,12 @@
       "pos": "NOUN",
       "translation": "l'assiette ; la plaque (« metal plate » : plaque de métal)",
       "example": "Instead, he went back into his flat and returned with an old towel and a plate of chicken."
+    },
+    {
+      "word": "platitude",
+      "pos": "NOUN",
+      "translation": "la platitude, la banalité",
+      "example": "It came out haltingly, in no particular order, and when he had finished he sat staring at the wheel, mortified, waiting for the inevitable kindly platitude."
     },
     {
       "word": "platter",
@@ -18131,6 +18995,12 @@
       "pos": "PROPN",
       "translation": "Pôle (« North Pole » : le pôle Nord)",
       "example": "It was made of painted wood, and someone had written on it in white letters, a long time ago: NORTH POLE."
+    },
+    {
+      "word": "police",
+      "pos": "NOUN",
+      "translation": "la police",
+      "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
     },
     {
       "word": "polish",
@@ -18385,6 +19255,12 @@
       "example": "Even with his extension, the figures did not so much add up as lean against one another precariously."
     },
     {
+      "word": "precaution",
+      "pos": "NOUN",
+      "translation": "la précaution",
+      "example": "It was a precaution that had been drilled into him forty years earlier by an old Glaswegian driver who, he swore, had once found two men asleep for ever in a snowbound cab on Rannoch Moor, and Gideon had never forgotten the flat, matter-of-fact way in which he had told the story."
+    },
+    {
       "word": "precise",
       "pos": "ADJ",
       "translation": "précis",
@@ -18401,6 +19277,12 @@
       "pos": "NOUN",
       "translation": "la précision",
       "example": "He was tall and lean, and he moved with an odd, unhurried precision, like a heron wading through shallows."
+    },
+    {
+      "word": "predicament",
+      "pos": "NOUN",
+      "translation": "la situation difficile, le mauvais pas",
+      "example": "He had shared his cab before, with trainees and with the occasional stranded colleague, but never with anyone quite like the Beatons, who seemed to regard their predicament as a mildly diverting episode rather than a brush with death."
     },
     {
       "word": "predict",
@@ -19051,6 +19933,12 @@
       "example": "He looked at Max's old trainers, his borrowed racket and his football shorts, and smiled the smile of a man who was about to earn ten very easy pounds."
     },
     {
+      "word": "radiance",
+      "pos": "NOUN",
+      "translation": "l'éclat, le rayonnement, la clarté",
+      "example": "Gideon dozed in his seat and woke at intervals to find the world outside transformed: the snow had stopped, the clouds had torn apart, and a lopsided moon hung above the pass, pouring a cold, unearthly radiance over a landscape that seemed to have been newly invented."
+    },
+    {
       "word": "radiator",
       "pos": "NOUN",
       "translation": "le radiateur",
@@ -19123,6 +20011,12 @@
       "example": "But the ashes in the hearth had been raked out across the floor, and the hearthstone itself had been levered up with something hard and pointed, and set back down again, crooked."
     },
     {
+      "word": "Rannoch",
+      "pos": "PROPN",
+      "translation": "Rannoch (dans « Rannoch Moor », vaste lande des Highlands)",
+      "example": "It was a precaution that had been drilled into him forty years earlier by an old Glaswegian driver who, he swore, had once found two men asleep for ever in a snowbound cab on Rannoch Moor, and Gideon had never forgotten the flat, matter-of-fact way in which he had told the story."
+    },
+    {
       "word": "rap",
       "pos": "VERB",
       "translation": "frapper (sèchement)",
@@ -19180,6 +20074,12 @@
       "word": "rather than",
       "pos": "PHRASE",
       "translation": "plutôt que"
+    },
+    {
+      "word": "ratio",
+      "pos": "NOUN",
+      "translation": "le rapport, le ratio",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
     },
     {
       "word": "ration",
@@ -19300,6 +20200,12 @@
       "pos": "NOUN",
       "translation": "le royaume",
       "example": "Without proof, I cannot punish a knight of the realm."
+    },
+    {
+      "word": "rear",
+      "pos": "ADJ",
+      "translation": "arrière (« rear window » : lunette arrière)",
+      "example": "Then the old couple were helped down from the cab and into the four-by-four, Isla waving regally through the rear window like a dowager departing a garden party, and Gideon was alone once more, with his casks and his card and a road that was slowly, mile by mile, being given back to him."
     },
     {
       "word": "rear",
@@ -19434,6 +20340,12 @@
       "example": "But Edwin refused to leave, and in the end, the king agreed to see him."
     },
     {
+      "word": "regally",
+      "pos": "ADV",
+      "translation": "royalement, majestueusement",
+      "example": "Then the old couple were helped down from the cab and into the four-by-four, Isla waving regally through the rear window like a dowager departing a garden party, and Gideon was alone once more, with his casks and his card and a road that was slowly, mile by mile, being given back to him."
+    },
+    {
       "word": "regard",
       "pos": "VERB",
       "translation": "considérer, regarder",
@@ -19492,6 +20404,12 @@
       "pos": "VERB",
       "translation": "rejoindre, reprendre (une route)",
       "example": "Then he rejoined the carriageway and turned the Duchess north, into the long grey throat of the morning."
+    },
+    {
+      "word": "relative",
+      "pos": "NOUN",
+      "translation": "le parent, le membre de la famille",
+      "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
     },
     {
       "word": "relax",
@@ -19606,6 +20524,12 @@
       "pos": "NOUN",
       "translation": "la location, le loyer (« For Rent » : à louer)",
       "example": "The mines had closed forty years earlier, but the town still lived in their shadow: rows of identical red-brick houses, a church that was far too big for the people who still went to it, and a main street where every third shop had a \"For Rent\" sign in the window."
+    },
+    {
+      "word": "reopen",
+      "pos": "VERB",
+      "translation": "rouvrir",
+      "example": "The road reopened at half past eight, and Gideon followed the ploughs north at a stately twenty miles an hour, the Duchess's tyres crunching over packed snow that glittered in the low sun like crushed glass."
     },
     {
       "word": "repair",
@@ -19764,6 +20688,12 @@
       "example": "Rowan looked at the sliver of stone, and then at his own hands, which were resting on the table."
     },
     {
+      "word": "rest period",
+      "pos": "PHRASE",
+      "translation": "le temps de repos, la période de repos",
+      "example": "He thought, unexpectedly, of the tachograph, which had at some point in the evening clicked over to a rest period and was even now recording, with bureaucratic serenity, that he was doing nothing whatsoever."
+    },
+    {
       "word": "restaurant",
       "pos": "NOUN",
       "translation": "le restaurant",
@@ -19842,6 +20772,24 @@
       "example": "\"It's solid,\" he said after a moment, and there was something almost reverent in his voice."
     },
     {
+      "word": "reverse",
+      "pos": "VERB",
+      "translation": "faire marche arrière, reculer",
+      "example": "Gideon reversed the Duchess up to the loading bay at a quarter past eleven, some seventeen hours late, and felt neither triumph nor embarrassment, only a vast and peaceable fatigue."
+    },
+    {
+      "word": "reverse up",
+      "pos": "PHRASE",
+      "translation": "reculer jusqu'à (en marche arrière)",
+      "example": "Gideon reversed the Duchess up to the loading bay at a quarter past eleven, some seventeen hours late, and felt neither triumph nor embarrassment, only a vast and peaceable fatigue."
+    },
+    {
+      "word": "revive",
+      "pos": "VERB",
+      "translation": "ranimer, revigorer",
+      "example": "Isla, revived by warmth and a cup of tea from his flask, turned out to be a retired schoolteacher with an encyclopaedic knowledge of Gaelic place names and very decided opinions about the Scottish Parliament."
+    },
+    {
       "word": "rewrite",
       "pos": "VERB",
       "translation": "réécrire",
@@ -19914,6 +20862,12 @@
       "example": "It was a ridiculous price for a heavy piece of junk, and Max knew it."
     },
     {
+      "word": "rig",
+      "pos": "NOUN",
+      "translation": "la plateforme (pétrolière)",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
+    },
+    {
       "word": "right",
       "pos": "ADJ",
       "translation": "juste, qui a raison",
@@ -19978,6 +20932,12 @@
       "pos": "PHRASE",
       "translation": "raccrocher",
       "example": "He thanked her, rang off and sat for a while staring at the tachograph, on which his remaining hours were now of purely theoretical interest."
+    },
+    {
+      "word": "rinsed",
+      "pos": "ADJ",
+      "translation": "rincé, lavé (« a sky of rinsed blue » : un ciel bleu comme lavé)",
+      "example": "He drove back south the following day, slowly and without incident, under a sky of rinsed and brilliant blue."
     },
     {
       "word": "rip",
@@ -20304,6 +21264,12 @@
       "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
     },
     {
+      "word": "Ruaridh",
+      "pos": "PROPN",
+      "translation": "Ruaridh (prénom écossais)",
+      "example": "\"When you get to Glen Corrach,\" he said, \"ask for Ruaridh Mackay. Tell him Alasdair Beaton sent you. He'll know what that means.\""
+    },
+    {
       "word": "rub",
       "pos": "VERB",
       "translation": "frotter",
@@ -20396,7 +21362,7 @@
     {
       "word": "runner",
       "pos": "NOUN",
-      "translation": "le coureur, la coureuse",
+      "translation": "le coureur, la coureuse ; le chantier, la traverse (support de fûts)",
       "example": "You controlled a runner, a thin young woman in a red hoodie, who had to cross the city by jumping from roof to roof, climbing walls, sliding under pipes and swinging over gaps."
     },
     {
@@ -20532,6 +21498,12 @@
       "example": "\"For pity's sake, just take him, the watch will be round in—\""
     },
     {
+      "word": "sale",
+      "pos": "NOUN",
+      "translation": "la vente (« for sale » : à vendre)",
+      "example": "\"He paid for it himself. It's never been for sale.\""
+    },
+    {
       "word": "saltire",
       "pos": "NOUN",
       "translation": "le sautoir (drapeau écossais : croix blanche en X sur fond bleu)",
@@ -20584,6 +21556,12 @@
       "pos": "NOUN",
       "translation": "la sacoche, la besace",
       "example": "The second examiner was a small, wiry woman of indeterminate age, with a long iron-grey braid, a battered leather satchel, and ink stains on three of her fingers."
+    },
+    {
+      "word": "satisfaction",
+      "pos": "NOUN",
+      "translation": "la satisfaction",
+      "example": "Within the hour the two men had established, to their mutual satisfaction, that they had spent their lives in essentially the same trade, merely conducted on different surfaces."
     },
     {
       "word": "satisfied",
@@ -20724,6 +21702,12 @@
       "example": "When her schooling was finished, Elinor had stayed on at Thornhall."
     },
     {
+      "word": "schoolteacher",
+      "pos": "NOUN",
+      "translation": "l'instituteur, l'institutrice, l'enseignant",
+      "example": "Isla, revived by warmth and a cup of tea from his flask, turned out to be a retired schoolteacher with an encyclopaedic knowledge of Gaelic place names and very decided opinions about the Scottish Parliament."
+    },
+    {
       "word": "science",
       "pos": "NOUN",
       "translation": "la science (« sports science » : sciences du sport, STAPS)",
@@ -20758,6 +21742,12 @@
       "pos": "ADJ",
       "translation": "écossais",
       "example": "He pulled out a flat tin box, the kind that used to hold biscuits, with a picture of a Scottish castle on the lid."
+    },
+    {
+      "word": "Scottish",
+      "pos": "PROPN",
+      "translation": "écossais (« Scottish Parliament » : Parlement écossais)",
+      "example": "Isla, revived by warmth and a cup of tea from his flask, turned out to be a retired schoolteacher with an encyclopaedic knowledge of Gaelic place names and very decided opinions about the Scottish Parliament."
     },
     {
       "word": "scramble",
@@ -21078,6 +22068,18 @@
       "example": "\"Seraphine Hale.\""
     },
     {
+      "word": "serenity",
+      "pos": "NOUN",
+      "translation": "la sérénité",
+      "example": "He thought, unexpectedly, of the tachograph, which had at some point in the evening clicked over to a rest period and was even now recording, with bureaucratic serenity, that he was doing nothing whatsoever."
+    },
+    {
+      "word": "sergeant",
+      "pos": "NOUN",
+      "translation": "le sergent, le brigadier (de police)",
+      "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
+    },
+    {
       "word": "serious",
       "pos": "ADJ",
       "translation": "sérieux, grave",
@@ -21384,6 +22386,12 @@
       "example": "She is happy. — Elle est contente."
     },
     {
+      "word": "sheathe",
+      "pos": "VERB",
+      "translation": "gainer, envelopper (« sheathed in white » : gainé de blanc)",
+      "example": "Every contour of the moor was sheathed in white."
+    },
+    {
       "word": "shed",
       "pos": "NOUN",
       "translation": "l'abri de jardin, la remise",
@@ -21634,6 +22642,12 @@
       "pos": "NOUN",
       "translation": "l'épaule",
       "example": "His shoulders move, his eyes change, his feet prepare."
+    },
+    {
+      "word": "shoulder to shoulder",
+      "pos": "PHRASE",
+      "translation": "épaule contre épaule, côte à côte",
+      "example": "It was exactly as he remembered it — a crescent of gravel, now buried, a low stone wall, a view across the white floor of the glen towards hills that stood shoulder to shoulder like old men at a funeral."
     },
     {
       "word": "shout",
@@ -22014,6 +23028,12 @@
       "example": "Rowan wanted to sit up."
     },
     {
+      "word": "site",
+      "pos": "NOUN",
+      "translation": "le site, le terrain",
+      "example": "Warehouse four was the oldest on the site, a dunnage warehouse with an earthen floor and walls a yard thick, in which the casks lay three high on wooden runners in a cool, damp, cathedral dark."
+    },
+    {
       "word": "six",
       "pos": "NUM",
       "translation": "six",
@@ -22042,6 +23062,12 @@
       "pos": "NOUN",
       "translation": "la taille",
       "example": "Tamsin's whole family had come, and they were making enough noise for a family twice their size: her mother pressing parcels of food into her arms, her little brothers fighting over who got to carry her trunk, her father telling anyone who would listen that his girl had stopped the mill wheel dead, did you hear, dead, with nothing but her own two hands."
+    },
+    {
+      "word": "skein",
+      "pos": "NOUN",
+      "translation": "le vol (d'oies en formation) ; l'écheveau",
+      "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
     },
     {
       "word": "sketch",
@@ -22108,6 +23134,12 @@
       "pos": "NOUN",
       "translation": "la dalle ; (homme) une armoire à glace",
       "example": "Her father, a great slab of a man, lifted her off the ground and roared."
+    },
+    {
+      "word": "slacken",
+      "pos": "VERB",
+      "translation": "faiblir, se calmer, se relâcher",
+      "example": "Some time after midnight the wind began to slacken."
     },
     {
       "word": "slag",
@@ -22524,6 +23556,12 @@
       "example": "Later, Laura took Sam and Pepper to the car park to throw snowballs, and Margaret was alone with Walter."
     },
     {
+      "word": "snowbound",
+      "pos": "ADJ",
+      "translation": "bloqué par la neige",
+      "example": "It was a precaution that had been drilled into him forty years earlier by an old Glaswegian driver who, he swore, had once found two men asleep for ever in a snowbound cab on Rannoch Moor, and Gideon had never forgotten the flat, matter-of-fact way in which he had told the story."
+    },
+    {
       "word": "snowflake",
       "pos": "NOUN",
       "translation": "le flocon de neige",
@@ -22534,6 +23572,12 @@
       "pos": "NOUN",
       "translation": "le bonhomme de neige",
       "example": "In the front garden, a boy was building a snowman."
+    },
+    {
+      "word": "snowplough",
+      "pos": "NOUN",
+      "translation": "le chasse-neige",
+      "example": "The first snowplough appeared at a quarter to seven, a great yellow apparition crawling south out of the half-light with its blade raised and its beacons strobing across the drifts."
     },
     {
       "word": "snowy",
@@ -22986,6 +24030,12 @@
       "example": "There were Standing Stones all across the Hollow Wilds — a dozen or so in the southern forest alone, and hundreds more scattered throughout the land: squat grey pillars on the passes of the northern mountains, needles of black basalt rising from the shallows off the western coast, slender white spires on the windswept eastern heights."
     },
     {
+      "word": "spirit",
+      "pos": "NOUN",
+      "translation": "l'esprit ; l'eau-de-vie, l'alcool (de distillation)",
+      "example": "\"We fill them,\" said Alasdair, \"with spirit that's as clear as water and as raw as paint stripper, and then we roll them into a dark warehouse and we leave them alone.\""
+    },
+    {
       "word": "spit",
       "pos": "VERB",
       "translation": "cracher",
@@ -23328,6 +24378,12 @@
       "example": "You came to us under the Writ of Uncertain Marking, which states that if the Stone answers, the student stays."
     },
     {
+      "word": "stately",
+      "pos": "ADJ",
+      "translation": "majestueux, solennel",
+      "example": "The road reopened at half past eight, and Gideon followed the ploughs north at a stately twenty miles an hour, the Duchess's tyres crunching over packed snow that glittered in the low sun like crushed glass."
+    },
+    {
       "word": "station",
       "pos": "NOUN",
       "translation": "la gare (« bus station » : gare routière)",
@@ -23338,6 +24394,12 @@
       "pos": "PROPN",
       "translation": "Station (dans « Station Road », nom de rue)",
       "example": "He doesn't live here, he lives up on Station Road."
+    },
+    {
+      "word": "stave",
+      "pos": "NOUN",
+      "translation": "la douelle (planche de tonneau)",
+      "example": "Ruaridh led him down a narrow aisle to a single butt near the far wall, its staves darkened almost to black, its head chalked with a date: 1994."
     },
     {
       "word": "stay",
@@ -23682,6 +24744,12 @@
       "example": "The cellar was small and round and very dry, and its walls were not walls at all, but roots: hundreds of them, thick and thin, woven together like the strands of a basket, holding back the earth on every side."
     },
     {
+      "word": "strand",
+      "pos": "VERB",
+      "translation": "bloquer, laisser en rade (« stranded » : coincé, en panne)",
+      "example": "He had shared his cab before, with trainees and with the occasional stranded colleague, but never with anyone quite like the Beatons, who seemed to regard their predicament as a mildly diverting episode rather than a brush with death."
+    },
+    {
       "word": "strange",
       "pos": "ADJ",
       "translation": "étrange",
@@ -23694,10 +24762,22 @@
       "example": "Under his palms, the old dark wood of the table felt strangely warm."
     },
     {
+      "word": "stranger",
+      "pos": "NOUN",
+      "translation": "l'inconnu, l'étranger",
+      "example": "He had drunk that first glass in warehouse four, among people who were no longer quite strangers."
+    },
+    {
       "word": "strap",
       "pos": "NOUN",
       "translation": "la sangle",
       "example": "He had checked every buckle and every strap that morning, as he always did."
+    },
+    {
+      "word": "Strathspey",
+      "pos": "PROPN",
+      "translation": "Strathspey (vallée de la Spey)",
+      "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
     },
     {
       "word": "straw",
@@ -23804,7 +24884,7 @@
     {
       "word": "strike",
       "pos": "VERB",
-      "translation": "frapper",
+      "translation": "frapper ; frapper l'esprit (« it struck him as comic » : cela lui parut comique)",
       "example": "Every man reveals his intentions before he strikes."
     },
     {
@@ -23824,6 +24904,18 @@
       "pos": "VERB",
       "translation": "dépouiller, ébrancher",
       "example": "Bram stripped the fallen oak with short, economical strokes while Rowan dragged the branches to the pile and sorted them by thickness: kindling, fencing, firewood, nothing wasted."
+    },
+    {
+      "word": "stripper",
+      "pos": "NOUN",
+      "translation": "le décapant (« paint stripper » : décapant pour peinture)",
+      "example": "\"We fill them,\" said Alasdair, \"with spirit that's as clear as water and as raw as paint stripper, and then we roll them into a dark warehouse and we leave them alone.\""
+    },
+    {
+      "word": "strobe",
+      "pos": "VERB",
+      "translation": "clignoter, balayer de flashs",
+      "example": "The first snowplough appeared at a quarter to seven, a great yellow apparition crawling south out of the half-light with its blade raised and its beacons strobing across the drifts."
     },
     {
       "word": "stroke",
@@ -23982,6 +25074,12 @@
       "example": "At its heart stood the shrine, a ring of seven carved posts so old that the weather had worn their faces into smooth, patient suggestions of faces."
     },
     {
+      "word": "suit",
+      "pos": "NOUN",
+      "translation": "le costume, la combinaison (« boiler suit » : bleu de travail)",
+      "example": "She returned a few minutes later with a stocky, grey-bearded man in a boiler suit, who introduced himself as the distillery manager and enquired, with elaborate casualness, whether it was true that Gideon had spent the night on Drumochter with Alasdair Beaton."
+    },
+    {
       "word": "sulkily",
       "pos": "ADV",
       "translation": "en boudant, d'un air boudeur",
@@ -24064,6 +25162,18 @@
       "pos": "NOUN",
       "translation": "le souper, le dîner",
       "example": "Doors left wide open, supper still on the table."
+    },
+    {
+      "word": "supply",
+      "pos": "NOUN",
+      "translation": "l'approvisionnement, la provision (« supply vessel » : navire ravitailleur)",
+      "example": "\"Brought a Norwegian supply vessel in on the morning tide, flat calm, not a breath of wind. Easiest job I ever did. I remember being thoroughly disappointed. I'd always imagined I'd go out in some tremendous storm.\""
+    },
+    {
+      "word": "supply vessel",
+      "pos": "PHRASE",
+      "translation": "le navire ravitailleur",
+      "example": "\"Brought a Norwegian supply vessel in on the morning tide, flat calm, not a breath of wind. Easiest job I ever did. I remember being thoroughly disappointed. I'd always imagined I'd go out in some tremendous storm.\""
     },
     {
       "word": "suppose",
@@ -24431,6 +25541,12 @@
       "example": "In the grey morning light, Rowan could see the line of the shore quite clearly from up here: the torn-up bank, the black tangle of roots thrust up through the ice, and the trees beyond, every one of them still bowed towards the hill."
     },
     {
+      "word": "tanker",
+      "pos": "NOUN",
+      "translation": "le pétrolier, le navire-citerne",
+      "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
+    },
+    {
       "word": "tanned",
       "pos": "ADJ",
       "translation": "bronzé",
@@ -24573,6 +25689,12 @@
       "pos": "NOUN",
       "translation": "l'adolescent",
       "example": "A teenager waiting at the stop looked at him with pity."
+    },
+    {
+      "word": "telephone",
+      "pos": "VERB",
+      "translation": "téléphoner",
+      "example": "Alasdair, it also transpired, was Ruaridh's uncle, and had telephoned from the hospital in Inverness — where he and Isla had been taken, much against their will, for observation — to deliver a lengthy and, in Ruaridh's words, \"frankly embarrassing\" account of Gideon's conduct."
     },
     {
       "word": "television",
@@ -25005,6 +26127,12 @@
       "pos": "PROPN",
       "translation": "Épines (« Trial of Thorns » : l'Épreuve des Épines)",
       "example": "It was called the Trial of Thorns."
+    },
+    {
+      "word": "thoroughly",
+      "pos": "ADV",
+      "translation": "profondément, complètement",
+      "example": "\"Brought a Norwegian supply vessel in on the morning tide, flat calm, not a breath of wind. Easiest job I ever did. I remember being thoroughly disappointed. I'd always imagined I'd go out in some tremendous storm.\""
     },
     {
       "word": "those",
@@ -25523,6 +26651,12 @@
       "example": "the knight finally asked, touching the long scar that crossed his left cheek."
     },
     {
+      "word": "tour",
+      "pos": "NOUN",
+      "translation": "la visite (guidée), la tournée",
+      "example": "\"He says you're to be given the tour,\" said Ruaridh."
+    },
+    {
       "word": "tournament",
       "pos": "NOUN",
       "translation": "le tournoi",
@@ -25637,6 +26771,12 @@
       "example": "She held out her phone so that he could see the Traffic Scotland page, on which the A9 north of Perth was marked with a scattering of ominous yellow triangles."
     },
     {
+      "word": "traffic cone",
+      "pos": "PHRASE",
+      "translation": "le plot de signalisation, le cône de chantier",
+      "example": "Nell, who had somehow contrived to be in the yard at the time, informed the assembled company that he had once made her reverse a trailer round a traffic cone for three solid hours, and that she had never forgiven him."
+    },
+    {
       "word": "trail",
       "pos": "VERB",
       "translation": "traîner, suivre (à la traîne)",
@@ -25661,6 +26801,12 @@
       "example": "How she had been the brightest student of her year, and then the best clerk Maren had ever trained."
     },
     {
+      "word": "trainee",
+      "pos": "NOUN",
+      "translation": "le stagiaire, l'apprenti",
+      "example": "He had shared his cab before, with trainees and with the occasional stranded colleague, but never with anyone quite like the Beatons, who seemed to regard their predicament as a mildly diverting episode rather than a brush with death."
+    },
+    {
       "word": "trainer",
       "pos": "NOUN",
       "translation": "la basket (chaussure) ; l'entraîneur",
@@ -25677,6 +26823,18 @@
       "pos": "PHRASE",
       "translation": "le stage de formation",
       "example": "Getting two octogenarians up into the cab of an articulated lorry, in a blizzard, without breaking anything, is not a manoeuvre covered by any training course of which Gideon was aware."
+    },
+    {
+      "word": "transform",
+      "pos": "VERB",
+      "translation": "transformer",
+      "example": "Gideon dozed in his seat and woke at intervals to find the world outside transformed: the snow had stopped, the clouds had torn apart, and a lopsided moon hung above the pass, pouring a cold, unearthly radiance over a landscape that seemed to have been newly invented."
+    },
+    {
+      "word": "transpire",
+      "pos": "VERB",
+      "translation": "s'avérer, apparaître (« it transpired » : il s'avéra)",
+      "example": "News, it transpired, travelled fast in Strathspey."
     },
     {
       "word": "transport",
@@ -25749,6 +26907,12 @@
       "pos": "VERB",
       "translation": "trembler",
       "example": "Edwin's hands were trembling."
+    },
+    {
+      "word": "tremendous",
+      "pos": "ADJ",
+      "translation": "formidable, énorme, terrible",
+      "example": "\"Brought a Norwegian supply vessel in on the morning tide, flat calm, not a breath of wind. Easiest job I ever did. I remember being thoroughly disappointed. I'd always imagined I'd go out in some tremendous storm.\""
     },
     {
       "word": "tremor",
@@ -25913,10 +27077,22 @@
       "example": "They took the man who was kneeling on Tamsin's back and plucked him off her as easily as a child plucks a daisy, and flung him tumbling into the snow."
     },
     {
+      "word": "tumble down",
+      "pos": "PHRASE",
+      "translation": "dévaler, tomber en cascade",
+      "example": "Glen Corrach Distillery lay at the end of a single-track road a few miles beyond Grantown, in a fold of the hills where a burn came tumbling down to join the Spey."
+    },
+    {
       "word": "tunic",
       "pos": "NOUN",
       "translation": "la tunique",
       "example": "Edwin knelt in front of the altar, wearing a simple white tunic, his sword lying on the cold stone in front of him."
+    },
+    {
+      "word": "tunnel",
+      "pos": "NOUN",
+      "translation": "le tunnel",
+      "example": "The beam of his torch carved a narrow tunnel through the whirling flakes, beyond which there was nothing at all — no hills, no road, no world."
     },
     {
       "word": "turf",
@@ -26249,10 +27425,22 @@
       "example": "Undrawn."
     },
     {
+      "word": "unearthly",
+      "pos": "ADJ",
+      "translation": "surnaturel, irréel",
+      "example": "Gideon dozed in his seat and woke at intervals to find the world outside transformed: the snow had stopped, the clouds had torn apart, and a lopsided moon hung above the pass, pouring a cold, unearthly radiance over a landscape that seemed to have been newly invented."
+    },
+    {
       "word": "unease",
       "pos": "NOUN",
       "translation": "le malaise, l'inquiétude",
       "example": "The summons came the next morning, carried by Master Grey, who delivered it with his spectacles on his forehead and an expression of profound unease, as though the note might bite."
+    },
+    {
+      "word": "unexpectedly",
+      "pos": "ADV",
+      "translation": "de manière inattendue, contre toute attente",
+      "example": "He thought, unexpectedly, of the tachograph, which had at some point in the evening clicked over to a rest period and was even now recording, with bureaucratic serenity, that he was doing nothing whatsoever."
     },
     {
       "word": "unfinished",
@@ -26734,6 +27922,12 @@
       "example": "Leo is very cute. — Leo est très mignon."
     },
     {
+      "word": "vessel",
+      "pos": "NOUN",
+      "translation": "le navire, le bâtiment ; le récipient",
+      "example": "\"Brought a Norwegian supply vessel in on the morning tide, flat calm, not a breath of wind. Easiest job I ever did. I remember being thoroughly disappointed. I'd always imagined I'd go out in some tremendous storm.\""
+    },
+    {
       "word": "vicar",
       "pos": "NOUN",
       "translation": "le pasteur (anglican), le vicaire",
@@ -27010,6 +28204,12 @@
       "example": "At ten past six in the morning, the big doors of the warehouse opened and Max Turner walked out into the cold Leeds air."
     },
     {
+      "word": "warehouseman",
+      "pos": "NOUN",
+      "translation": "le magasinier, le manutentionnaire",
+      "example": "The warehousemen unloaded the casks with a briskness that suggested they had been waiting for some time."
+    },
+    {
       "word": "warm",
       "pos": "ADJ",
       "translation": "chaud, tiède",
@@ -27146,6 +28346,12 @@
       "pos": "NOUN",
       "translation": "la vague",
       "example": "His alcove had a narrow window set low in the wall, and when he knelt on the bed and looked out, he could see across the lake to where the forest began again on the far shore, rolling away east in waves of gold and copper and deep, dark green until it faded into the blue haze of distant mountains."
+    },
+    {
+      "word": "wave",
+      "pos": "VERB",
+      "translation": "faire signe de la main, saluer",
+      "example": "Then the old couple were helped down from the cab and into the four-by-four, Isla waving regally through the rear window like a dowager departing a garden party, and Gideon was alone once more, with his casks and his card and a road that was slowly, mile by mile, being given back to him."
     },
     {
       "word": "waver",
@@ -27538,6 +28744,12 @@
       "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
     },
     {
+      "word": "whisky",
+      "pos": "NOUN",
+      "translation": "le whisky",
+      "example": "Gideon opened his mouth to protest that he barely drank whisky, that it was far too much, that he had only done what anyone would have done."
+    },
+    {
       "word": "whisper",
       "pos": "NOUN",
       "translation": "le chuchotement, la rumeur",
@@ -27566,6 +28778,12 @@
       "pos": "ADJ",
       "translation": "blanc",
       "example": "Leo is black and white. — Leo est noir et blanc."
+    },
+    {
+      "word": "whitewashed",
+      "pos": "ADJ",
+      "translation": "blanchi à la chaux",
+      "example": "It was a modest place — a cluster of whitewashed buildings, a pagoda-roofed kiln that had not been used for malting in sixty years, and a row of long, low warehouses whose walls had been stained black by the fungus that feeds on evaporating spirit."
     },
     {
       "word": "whittle",
@@ -27683,6 +28901,12 @@
     },
     {
       "word": "will",
+      "pos": "NOUN",
+      "translation": "la volonté (« against their will » : contre leur gré) ; le testament",
+      "example": "Alasdair, it also transpired, was Ruaridh's uncle, and had telephoned from the hospital in Inverness — where he and Isla had been taken, much against their will, for observation — to deliver a lengthy and, in Ruaridh's words, \"frankly embarrassing\" account of Gideon's conduct."
+    },
+    {
+      "word": "will",
       "pos": "VERB",
       "translation": "auxiliaire du futur (« will » : -ra)",
       "example": "If you are patient enough to notice, you will always be one step ahead."
@@ -27692,6 +28916,12 @@
       "pos": "PROPN",
       "translation": "Will (prénom)",
       "example": "The two Marked brothers from the eastern farms — Hob and Will Tanner, both Earth, both enormous — had fallen asleep against the sacks of grain within ten minutes of leaving Brackenford, and were snoring in perfect harmony."
+    },
+    {
+      "word": "willing",
+      "pos": "ADJ",
+      "translation": "disposé, prêt (« God willing » : si Dieu le veut)",
+      "example": "In a dark warehouse beside the Spey, ninety casks are quietly becoming something, and in twelve years' time, God and the A9 willing, he intends to be there when they are opened."
     },
     {
       "word": "win",
@@ -27716,6 +28946,12 @@
       "pos": "VERB",
       "translation": "enrouler, (s')enrouler (passé : « wound ») ; (vitre) baisser (« wind down » : baisser la vitre)",
       "example": "Instead, the shaving curled upward, slowly, the way a fern unfurls in spring, and wound itself once, lightly, around the tip of his finger."
+    },
+    {
+      "word": "windless",
+      "pos": "ADJ",
+      "translation": "sans vent",
+      "example": "Below him in the valley, the roofs of Dalwhinnie sent thin, straight threads of smoke up into the windless air."
     },
     {
       "word": "window",
@@ -28172,6 +29408,12 @@
       "pos": "ADJ",
       "translation": "jauni",
       "example": "He had seen it only once, by the light of dying embers, through a crack in the floor of a loft — on a yellowed letter that Bram had taken from beneath the hearthstone and read twice and hidden away again."
+    },
+    {
+      "word": "yellowish",
+      "pos": "ADJ",
+      "translation": "jaunâtre",
+      "example": "At Aviemore he turned off towards Grantown, and the road narrowed and grew intimate, winding between birch woods and drystone dykes and fields in which sheep stood motionless, their fleeces yellowish against the snow."
     },
     {
       "word": "yelp",
