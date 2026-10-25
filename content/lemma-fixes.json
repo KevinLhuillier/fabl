@@ -145,11 +145,29 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "blocky",
+      "pos": "NOUN",
+      "word": "blocky",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "bloom",
       "pos": "NOUN",
       "next": ",",
       "word": "bloom",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "BOOT",
+      "pos": "PROPN",
+      "word": "boot",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "box",
+      "pos": "PROPN",
+      "word": "box",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "boy",
@@ -282,6 +300,12 @@
       "text": "colossal",
       "pos": "NOUN",
       "word": "colossal",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "COMPLETE",
+      "pos": "PROPN",
+      "word": "complete",
       "lemmaPos": "ADJ"
     },
     {
@@ -446,6 +470,12 @@
       "pos": "ADJ",
       "word": "Edric",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "electronics",
+      "pos": "NOUN",
+      "word": "electronics",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Enough",
@@ -679,10 +709,22 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "GLOVE",
+      "pos": "PROPN",
+      "word": "glove",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "go",
       "pos": "NOUN",
       "word": "go",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "GOLDEN",
+      "pos": "PROPN",
+      "word": "golden",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "gone",
@@ -703,9 +745,22 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "graphics",
+      "pos": "NOUN",
+      "word": "graphics",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "green",
       "pos": "PROPN",
       "word": "green",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "grey",
+      "pos": "NOUN",
+      "next": "box",
+      "word": "grey",
       "lemmaPos": "ADJ"
     },
     {
@@ -739,6 +794,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "HALCYON",
+      "pos": "NOUN",
+      "word": "Halcyon",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "hang",
       "pos": "NOUN",
       "word": "hang",
@@ -754,6 +815,12 @@
       "text": "haze",
       "pos": "ADV",
       "word": "haze",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "headphones",
+      "pos": "NOUN",
+      "word": "headphones",
       "lemmaPos": "NOUN"
     },
     {
@@ -791,6 +858,12 @@
       "pos": "NOUN",
       "word": "hold",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "hoodie",
+      "pos": "PROPN",
+      "word": "hoodie",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "hoped",
@@ -877,9 +950,21 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "IRON",
+      "pos": "PROPN",
+      "word": "iron",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "ivy",
       "pos": "PRON",
       "word": "ivy",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "jeans",
+      "pos": "NOUN",
+      "word": "jeans",
       "lemmaPos": "NOUN"
     },
     {
@@ -945,6 +1030,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "leapt",
+      "pos": "NOUN",
+      "word": "leap",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "left",
       "pos": "ADJ",
       "next": ",",
@@ -975,6 +1066,12 @@
       "pos": "INTJ",
       "word": "like",
       "lemmaPos": "ADP"
+    },
+    {
+      "text": "Lily",
+      "pos": "ADV",
+      "word": "Lily",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "loft",
@@ -1122,6 +1219,13 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "move",
+      "pos": "NOUN",
+      "next": "like",
+      "word": "move",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "moves",
       "pos": "NOUN",
       "word": "move",
@@ -1182,6 +1286,12 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "None",
+      "pos": "NOUN",
+      "word": "none",
+      "lemmaPos": "PRON"
+    },
+    {
       "text": "NORTHERN",
       "pos": "PROPN",
       "word": "northern",
@@ -1210,6 +1320,12 @@
       "pos": "PROPN",
       "word": "oilcloth",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "OKORO",
+      "pos": "PROPN",
+      "word": "Okoro",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "old",
@@ -1247,6 +1363,20 @@
       "pos": "PROPN",
       "word": "pass",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "past",
+      "pos": "NOUN",
+      "next": "six",
+      "word": "past",
+      "lemmaPos": "ADP"
+    },
+    {
+      "text": "past",
+      "pos": "NOUN",
+      "next": ".",
+      "word": "past",
+      "lemmaPos": "ADV"
     },
     {
       "text": "Patience",
@@ -1297,6 +1427,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "plastic",
+      "pos": "PROPN",
+      "word": "plastic",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "potting",
       "pos": "ADJ",
       "word": "potting",
@@ -1316,6 +1452,12 @@
     },
     {
       "text": "purr",
+      "pos": "NOUN",
+      "word": "purr",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "purring",
       "pos": "NOUN",
       "word": "purr",
       "lemmaPos": "VERB"
@@ -1357,10 +1499,22 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "red",
+      "pos": "PROPN",
+      "word": "red",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "relit",
       "pos": "VERB",
       "word": "relight",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "REPAIRS",
+      "pos": "PROPN",
+      "word": "repair",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "REYNE",
@@ -1412,6 +1566,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "ROOFTOP",
+      "pos": "PROPN",
+      "word": "rooftop",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "rosemary",
       "pos": "ADJ",
       "word": "rosemary",
@@ -1435,6 +1595,12 @@
       "pos": "NOUN",
       "word": "run",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "RUSH",
+      "pos": "PROPN",
+      "word": "rush",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "sacking",
@@ -1743,6 +1909,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "swung",
+      "pos": "PROPN",
+      "word": "swing",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "talkative",
       "pos": "VERB",
       "word": "talkative",
@@ -1771,6 +1943,12 @@
       "pos": "NOUN",
       "word": "tear",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "terraced",
+      "pos": "VERB",
+      "word": "terraced",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "TEST",
@@ -1830,6 +2008,12 @@
       "text": "turf",
       "pos": "ADJ",
       "word": "turf",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "TVS",
+      "pos": "PROPN",
+      "word": "TV",
       "lemmaPos": "NOUN"
     },
     {

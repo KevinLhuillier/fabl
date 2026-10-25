@@ -144,10 +144,22 @@
       "example": "Then she reached up, almost absently, and ran her thumb along the old white scar on the back of her left hand."
     },
     {
+      "word": "absorb",
+      "pos": "VERB",
+      "translation": "assorbire, attutire («absorb the impact»: attutire l'impatto)",
+      "example": "When she landed, she rolled forward to absorb the impact."
+    },
+    {
       "word": "Academy",
       "pos": "PROPN",
       "translation": "l'Accademia",
       "example": "By order of the Wardens of Thornhall Academy, the Marking of all children of Brackenford and the surrounding villages who have attained their fourteenth year shall take place at the Standing Stone of Brackenford on the first morning of Leaf-Fall."
+    },
+    {
+      "word": "accelerate",
+      "pos": "VERB",
+      "translation": "accelerare",
+      "example": "He accelerated."
     },
     {
       "word": "accept",
@@ -466,6 +478,12 @@
       "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
     },
     {
+      "word": "alley",
+      "pos": "NOUN",
+      "translation": "il vicolo",
+      "example": "The quickest way was through the back alleys behind Ashley Road and across the old railway land, but there was a high brick wall in the way, and Max always walked around it."
+    },
+    {
       "word": "allow",
       "pos": "VERB",
       "translation": "permettere",
@@ -664,6 +682,12 @@
       "example": "\"And neither, if you've any sense, do you.\""
     },
     {
+      "word": "any more",
+      "pos": "PHRASE",
+      "translation": "(non…) più («not that boy any more»: non più quel ragazzo)",
+      "example": "He was not that boy any more, and the boy had not been good enough anyway."
+    },
+    {
       "word": "anybody",
       "pos": "PRON",
       "translation": "qualcuno; (negazione) nessuno",
@@ -734,6 +758,18 @@
       "pos": "NOUN",
       "translation": "la mela",
       "example": "At noon they sat on the stump to eat — black bread, a wedge of hard cheese, two wrinkled apples from the cellar."
+    },
+    {
+      "word": "application",
+      "pos": "NOUN",
+      "translation": "la domanda, la candidatura («application letter»: lettera di candidatura)",
+      "example": "His eyes went to the shelf above his desk, where his old firefighter application letter was still pinned, yellow at the edges."
+    },
+    {
+      "word": "apply",
+      "pos": "VERB",
+      "translation": "fare domanda, candidarsi ; applicare",
+      "example": "At nineteen he had applied to become a firefighter."
     },
     {
       "word": "approach",
@@ -956,6 +992,12 @@
       "pos": "PROPN",
       "translation": "Ashford (nome di luogo)",
       "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "Ashley",
+      "pos": "PROPN",
+      "translation": "Ashley (in «Ashley Road», nome di via)",
+      "example": "The Turners lived in a narrow terraced house at the end of Ashley Road, with a tiny yard at the back and a front door that stuck in wet weather."
     },
     {
       "word": "Ashwater",
@@ -1363,6 +1405,12 @@
       "example": "At breakfast he ate four slices of bread and butter, two bowls of cereal and a banana, while his mother, still in her dressing gown, watched him in astonishment."
     },
     {
+      "word": "band",
+      "pos": "NOUN",
+      "translation": "la fascia, l'elastico ; la band",
+      "example": "The table was covered with old electronics: cassette players, a cracked typewriter, a pile of television remote controls tied together with an elastic band."
+    },
+    {
       "word": "bandage",
       "pos": "NOUN",
       "translation": "la benda, la fasciatura",
@@ -1495,6 +1543,12 @@
       "example": "The second examiner was a small, wiry woman of indeterminate age, with a long iron-grey braid, a battered leather satchel, and ink stains on three of her fingers."
     },
     {
+      "word": "battery",
+      "pos": "NOUN",
+      "translation": "la batteria, la pila",
+      "example": "His legs felt strange, not tired, but full, like a battery after charging."
+    },
+    {
       "word": "battle",
       "pos": "NOUN",
       "translation": "la battaglia",
@@ -1620,6 +1674,12 @@
       "example": "He sleeps on her bed. — Dorme sul suo letto."
     },
     {
+      "word": "bedroom",
+      "pos": "NOUN",
+      "translation": "la camera da letto",
+      "example": "Just a man who came home from work, closed his bedroom curtains and disappeared into other worlds for hours at a time."
+    },
+    {
       "word": "bee",
       "pos": "NOUN",
       "translation": "l'ape",
@@ -1732,6 +1792,12 @@
       "pos": "VERB",
       "translation": "piegare, chinarsi",
       "example": "In the old days, the songs claimed, the trees of the Hollow Wilds had grown so tall that their crowns brushed the clouds, and the people who lived beneath them could ask a root to part or a branch to bend, and be answered."
+    },
+    {
+      "word": "bend over",
+      "pos": "PHRASE",
+      "translation": "piegarsi in avanti, chinarsi",
+      "example": "After about twenty metres his chest was burning, and he stopped, bent over with his hands on his knees, and watched the bus disappear into the traffic."
     },
     {
       "word": "beneath",
@@ -1986,6 +2052,12 @@
       "example": "By the end, Edwin had not won a single fight, but for the first time he had managed to block every attack."
     },
     {
+      "word": "blocky",
+      "pos": "ADJ",
+      "translation": "squadrato, a blocchi (grafica: pixelata)",
+      "example": "The graphics were old and blocky, but the movement was incredible."
+    },
+    {
       "word": "blood",
       "pos": "NOUN",
       "translation": "il sangue",
@@ -2166,6 +2238,12 @@
       "example": "That was the first rule of the Ashby household, and very nearly the only one Bram had ever bothered to say out loud."
     },
     {
+      "word": "bottle",
+      "pos": "NOUN",
+      "translation": "la bottiglia",
+      "example": "He had been on his feet for nine hours, pushing heavy cages of tins, bottles and frozen chips from one end of the building to the other."
+    },
+    {
       "word": "bottom",
       "pos": "ADJ",
       "translation": "in basso, inferiore («the bottom step»: l'ultimo gradino)",
@@ -2238,6 +2316,12 @@
       "example": "He stood with his back to Rowan, both hands braced on the edge of the washbasin, his head bowed."
     },
     {
+      "word": "bracelet",
+      "pos": "NOUN",
+      "translation": "il braccialetto",
+      "example": "While Lily was choosing between two almost identical bracelets, Max wandered down a narrow side row where the stalls became smaller and older and the customers fewer."
+    },
+    {
       "word": "Brack",
       "pos": "PROPN",
       "translation": "il Brack (fiume)",
@@ -2278,6 +2362,18 @@
       "pos": "VERB",
       "translation": "ramificarsi",
       "example": "Two faint patterns were spreading slowly across the grain, pale and fine as frost on a window: twisting lines that branched and branched again, like the veins of a leaf."
+    },
+    {
+      "word": "brand",
+      "pos": "NOUN",
+      "translation": "la marca",
+      "example": "There was no brand name on it, only a small metal plate with one word engraved on it: HALCYON."
+    },
+    {
+      "word": "brand name",
+      "pos": "PHRASE",
+      "translation": "il nome del marchio",
+      "example": "There was no brand name on it, only a small metal plate with one word engraved on it: HALCYON."
     },
     {
       "word": "brass",
@@ -2646,6 +2742,12 @@
       "example": "Then he came to the bakery and bought a croissant."
     },
     {
+      "word": "buzz",
+      "pos": "VERB",
+      "translation": "vibrare, ronzare",
+      "example": "His phone buzzed in his pocket."
+    },
+    {
       "word": "by",
       "pos": "ADP",
       "translation": "da, con («by waiting»: aspettando)",
@@ -2682,6 +2784,12 @@
       "example": "Came across the causeway on foot, in this weather, if you can believe it — walked the whole way up from the south, by the look of him."
     },
     {
+      "word": "by themselves",
+      "pos": "PHRASE",
+      "translation": "da soli",
+      "example": "Instead he turned on his console, put his headphones on and played a racing game until his eyes closed by themselves."
+    },
+    {
       "word": "cabbage",
       "pos": "NOUN",
       "translation": "il cavolo",
@@ -2700,10 +2808,22 @@
       "example": "\"I came across it years ago, cataloguing a cabinet that hadn't been opened since before I was born, and I've carried a copy with me ever since.\""
     },
     {
+      "word": "cable",
+      "pos": "NOUN",
+      "translation": "il cavo",
+      "example": "That night, after his mum and Lily had gone to bed, Max carried the Halcyon up to his room and found an old cable in a drawer that fitted the back of his television."
+    },
+    {
       "word": "Cade",
       "pos": "PROPN",
       "translation": "Cade (nome)",
       "example": "Married Cade Ashby, of Brackenford."
+    },
+    {
+      "word": "cage",
+      "pos": "NOUN",
+      "translation": "la gabbia (qui: il carrello a rete)",
+      "example": "He had been on his feet for nine hours, pushing heavy cages of tins, bottles and frozen chips from one end of the building to the other."
     },
     {
       "word": "cake",
@@ -2814,6 +2934,12 @@
       "example": "Tucked inside the back cover was an old library card, the kind with dates stamped in purple ink."
     },
     {
+      "word": "cardboard",
+      "pos": "NOUN",
+      "translation": "il cartone",
+      "example": "Next to it was a cardboard box full of cartridges, the old-fashioned kind you pushed into the top of the machine."
+    },
+    {
       "word": "care",
       "pos": "NOUN",
       "translation": "la cura («with great care»: con grande cura)",
@@ -2824,6 +2950,12 @@
       "pos": "VERB",
       "translation": "importare («I don't care»: non m'importa)",
       "example": "I didn't care."
+    },
+    {
+      "word": "care home",
+      "pos": "PHRASE",
+      "translation": "la casa di riposo",
+      "example": "His mum, Carol, was already dressed for her shift at the care home, standing in the kitchen with a mug of tea in one hand and her phone in the other."
     },
     {
       "word": "careful",
@@ -2848,6 +2980,12 @@
       "pos": "NOUN",
       "translation": "il carico",
       "example": "\"The last of the cargo.\""
+    },
+    {
+      "word": "Carol",
+      "pos": "PROPN",
+      "translation": "Carol (nome)",
+      "example": "His mum, Carol, was already dressed for her shift at the care home, standing in the kitchen with a mug of tea in one hand and her phone in the other."
     },
     {
       "word": "carpenter",
@@ -2898,6 +3036,12 @@
       "example": "They became farmers, or carters, or woodcutters."
     },
     {
+      "word": "cartridge",
+      "pos": "NOUN",
+      "translation": "la cartuccia",
+      "example": "Next to it was a cardboard box full of cartridges, the old-fashioned kind you pushed into the top of the machine."
+    },
+    {
       "word": "cartwheel",
       "pos": "NOUN",
       "translation": "la ruota del carro",
@@ -2920,6 +3064,12 @@
       "pos": "NOUN",
       "translation": "il caso",
       "example": "The women gathered buckets of water in case of fire."
+    },
+    {
+      "word": "cassette",
+      "pos": "NOUN",
+      "translation": "la musicassetta («cassette player»: mangianastri)",
+      "example": "The table was covered with old electronics: cassette players, a cracked typewriter, a pile of television remote controls tied together with an elastic band."
     },
     {
       "word": "cast",
@@ -3126,6 +3276,12 @@
       "example": "I expected him to shout or to chase us away."
     },
     {
+      "word": "cheap",
+      "pos": "ADJ",
+      "translation": "economico, a buon mercato",
+      "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
+    },
+    {
       "word": "cheaply",
       "pos": "ADV",
       "translation": "a basso prezzo",
@@ -3246,6 +3402,12 @@
       "example": "It landed in the snow at Grey's feet with a heavy chink."
     },
     {
+      "word": "chip",
+      "pos": "NOUN",
+      "translation": "la patatina fritta («frozen chips»: patatine surgelate) ; il chip",
+      "example": "He had been on his feet for nine hours, pushing heavy cages of tins, bottles and frozen chips from one end of the building to the other."
+    },
+    {
       "word": "chock",
       "pos": "NOUN",
       "translation": "(rumore) il «ciac», colpo sordo dell'ascia",
@@ -3286,6 +3448,12 @@
       "pos": "NOUN",
       "translation": "il sidro",
       "example": "The crowd was breaking up into families and drifting towards the inn, where the village elder had promised cider for everyone — the Marked and the Unmarked alike."
+    },
+    {
+      "word": "cigarette",
+      "pos": "NOUN",
+      "translation": "la sigaretta",
+      "example": "His stomach pushed against his work fleece, his knees clicked when he climbed stairs, and he got out of breath faster than his mum, who smoked ten cigarettes a day."
     },
     {
       "word": "Cinder",
@@ -3420,6 +3588,12 @@
       "example": "The village elder cleared his throat, made a speech nobody listened to, and stepped aside with visible relief."
     },
     {
+      "word": "clearance",
+      "pos": "NOUN",
+      "translation": "lo sgombero («house clearance»: sgombero di una casa)",
+      "example": "It came from a house clearance in Otley, many years ago."
+    },
+    {
       "word": "clearing",
       "pos": "NOUN",
       "translation": "la radura",
@@ -3456,6 +3630,12 @@
       "example": "Clever girl."
     },
     {
+      "word": "click",
+      "pos": "VERB",
+      "translation": "scricchiolare, fare clic",
+      "example": "His stomach pushed against his work fleece, his knees clicked when he climbed stairs, and he got out of breath faster than his mum, who smoked ten cigarettes a day."
+    },
+    {
       "word": "cliff",
       "pos": "NOUN",
       "translation": "la scogliera, la rupe",
@@ -3484,6 +3664,12 @@
       "pos": "ADJ",
       "translation": "avvolto in un mantello",
       "example": "Tall, cloaked, its hood pulled low, carrying a shuttered lantern that leaked a thin blade of yellow light across the frost."
+    },
+    {
+      "word": "clock",
+      "pos": "NOUN",
+      "translation": "l'orologio",
+      "example": "He played for an hour, then two, then he stopped looking at the clock."
     },
     {
       "word": "clockwork",
@@ -3828,6 +4014,12 @@
       "example": "\"Léa will come back up at seven to feed me.\""
     },
     {
+      "word": "comfortable",
+      "pos": "ADJ",
+      "translation": "comodo, confortevole",
+      "example": "But it was comfortable, and he was too tired to imagine anything else."
+    },
+    {
       "word": "command",
       "pos": "VERB",
       "translation": "comandare, dominare",
@@ -3984,6 +4176,12 @@
       "example": "The Writ of Uncertain Marking was declared fulfilled at the end of the spring term, by order of the Warden, in a short ceremony in her study that consisted entirely of Maren Vell writing one line in the great green ledger and blotting it carefully."
     },
     {
+      "word": "console",
+      "pos": "NOUN",
+      "translation": "la console",
+      "example": "Instead he turned on his console, put his headphones on and played a racing game until his eyes closed by themselves."
+    },
+    {
       "word": "conspiracy",
       "pos": "NOUN",
       "translation": "la cospirazione, il complotto",
@@ -4027,9 +4225,21 @@
     },
     {
       "word": "control",
+      "pos": "NOUN",
+      "translation": "il controllo, il comando («remote control»: telecomando)",
+      "example": "The table was covered with old electronics: cassette players, a cracked typewriter, a pile of television remote controls tied together with an elastic band."
+    },
+    {
+      "word": "control",
       "pos": "VERB",
       "translation": "dominare, controllare",
       "example": "\"Strength is useless if you cannot control it.\""
+    },
+    {
+      "word": "controller",
+      "pos": "NOUN",
+      "translation": "il controller",
+      "example": "The controller felt warm, almost hot, and a soft tingling ran up his fingers and into his arms, as if he had been holding something electric."
     },
     {
       "word": "convenient",
@@ -4662,6 +4872,12 @@
       "example": "But Hale stopped two steps above him, and for a moment the two of them simply looked at each other in the dim, curving stairwell, while the warmth that always hung around Hale crept out over the cold stone like breath."
     },
     {
+      "word": "customer",
+      "pos": "NOUN",
+      "translation": "il cliente",
+      "example": "While Lily was choosing between two almost identical bracelets, Max wandered down a narrow side row where the stalls became smaller and older and the customers fewer."
+    },
+    {
       "word": "cut",
       "pos": "VERB",
       "translation": "tagliare («cut» al passato e participio: tagliato)",
@@ -4782,6 +4998,12 @@
       "example": "\"One day, you may become more than we ever were.\""
     },
     {
+      "word": "day off",
+      "pos": "PHRASE",
+      "translation": "il giorno libero",
+      "example": "On Saturday he had a day off, and Lily dragged him into town to buy a birthday present for one of her friends."
+    },
+    {
       "word": "dead",
       "pos": "ADJ",
       "translation": "morto",
@@ -4822,6 +5044,12 @@
       "pos": "VERB",
       "translation": "decidere",
       "example": "Sir Godfrey never complained, so Edwin decided that he would not complain either."
+    },
+    {
+      "word": "deck",
+      "pos": "NOUN",
+      "translation": "il ponte, il piano («top deck»: il piano superiore dell'autobus)",
+      "example": "On the top deck of the bus, he leaned his head against the window and watched the red-brick terraces of Harehills slide past."
     },
     {
       "word": "declare",
@@ -4978,6 +5206,12 @@
       "pos": "NOUN",
       "translation": "il banco, la scrivania",
       "example": "On each desk, while their eyes had been closed, someone had placed four small objects in a row: a shallow dish of water, a stub of candle, a smooth river pebble, and a single white feather."
+    },
+    {
+      "word": "desperate",
+      "pos": "ADJ",
+      "translation": "disperato",
+      "example": "His heart was beating hard, but it was not the painful, desperate beating he knew."
     },
     {
       "word": "desperately",
@@ -5310,6 +5544,12 @@
       "example": "For a second he was taller than anyone in the canteen, and Noé saw a flicker of doubt cross Maxence's face."
     },
     {
+      "word": "doughnut",
+      "pos": "NOUN",
+      "translation": "la ciambella, il bombolone",
+      "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
+    },
+    {
       "word": "down",
       "pos": "ADP",
       "translation": "giù, in basso",
@@ -5410,6 +5650,12 @@
       "pos": "PHRASE",
       "translation": "fermare, accostare (un veicolo); redigere (un documento)",
       "example": "Bram had drawn the cart up beside the cooper's yard to unload."
+    },
+    {
+      "word": "drawer",
+      "pos": "NOUN",
+      "translation": "il cassetto",
+      "example": "That night, after his mum and Lily had gone to bed, Max carried the Halcyon up to his room and found an old cable in a drawer that fitted the back of his television."
     },
     {
       "word": "drawing",
@@ -5596,6 +5842,12 @@
       "pos": "NOUN",
       "translation": "il dovere",
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "duvet",
+      "pos": "NOUN",
+      "translation": "il piumone",
+      "example": "Sometimes, when the runner made a big jump, he felt his own legs twitch under the duvet."
     },
     {
       "word": "E.",
@@ -5832,6 +6084,18 @@
       "example": "\"Whether it's still home,\" Bram had said, and refused to elaborate."
     },
     {
+      "word": "elastic",
+      "pos": "ADJ",
+      "translation": "elastico",
+      "example": "The table was covered with old electronics: cassette players, a cracked typewriter, a pile of television remote controls tied together with an elastic band."
+    },
+    {
+      "word": "elastic band",
+      "pos": "PHRASE",
+      "translation": "l'elastico",
+      "example": "The table was covered with old electronics: cassette players, a cracked typewriter, a pile of television remote controls tied together with an elastic band."
+    },
+    {
       "word": "elbow",
       "pos": "NOUN",
       "translation": "il gomito",
@@ -5844,10 +6108,28 @@
       "example": "The village elder cleared his throat, made a speech nobody listened to, and stepped aside with visible relief."
     },
     {
+      "word": "elderly",
+      "pos": "ADJ",
+      "translation": "anziano",
+      "example": "Behind the table sat an elderly man in a woollen hat, reading a newspaper through a large magnifying glass."
+    },
+    {
       "word": "Elderwood",
       "pos": "PROPN",
       "translation": "l'Elderwood (foresta, «bosco antico»)",
       "example": "\"The Elderwood,\" said Tamsin, leaning over his shoulder."
+    },
+    {
+      "word": "electric",
+      "pos": "ADJ",
+      "translation": "elettrico",
+      "example": "The controller felt warm, almost hot, and a soft tingling ran up his fingers and into his arms, as if he had been holding something electric."
+    },
+    {
+      "word": "electronics",
+      "pos": "NOUN",
+      "translation": "l'elettronica, gli apparecchi elettronici",
+      "example": "The table was covered with old electronics: cassette players, a cracked typewriter, a pile of television remote controls tied together with an elastic band."
     },
     {
       "word": "elegant",
@@ -5884,6 +6166,12 @@
       "pos": "VERB",
       "translation": "mettere in imbarazzo",
       "example": "A few people at the next table laughed too, then looked away, embarrassed by their own laughter."
+    },
+    {
+      "word": "embarrassing",
+      "pos": "ADJ",
+      "translation": "imbarazzante",
+      "example": "It was embarrassing."
     },
     {
       "word": "ember",
@@ -5958,10 +6246,28 @@
       "example": "I chased a defeated enemy into a forest because I wanted the glory of capturing him."
     },
     {
+      "word": "energy",
+      "pos": "NOUN",
+      "translation": "l'energia",
+      "example": "Max did not have the energy to argue."
+    },
+    {
+      "word": "engine",
+      "pos": "NOUN",
+      "translation": "il motore",
+      "example": "Behind him, the lorries were already starting their engines."
+    },
+    {
       "word": "England",
       "pos": "PROPN",
       "translation": "l'Inghilterra",
       "example": "Sir Edwin became one of the most respected knights in England, known not for the tournaments he won, but for the battles he chose to fight."
+    },
+    {
+      "word": "engrave",
+      "pos": "VERB",
+      "translation": "incidere",
+      "example": "There was no brand name on it, only a small metal plate with one word engraved on it: HALCYON."
     },
     {
       "word": "enormous",
@@ -6310,6 +6616,12 @@
       "example": "Rowan filed the fact away."
     },
     {
+      "word": "factory",
+      "pos": "NOUN",
+      "translation": "la fabbrica",
+      "example": "By four in the morning he had reached the final level, a race across the roofs of a burning factory."
+    },
+    {
       "word": "fade",
       "pos": "VERB",
       "translation": "sbiadire, svanire",
@@ -6368,6 +6680,12 @@
       "pos": "PROPN",
       "translation": "Fall («la caduta»; «Leaf-Fall»: la Caduta-delle-Foglie, l'autunno)",
       "example": "The Marking always fell on the first morning of Leaf-Fall, as regular as the first frost, and he had been counting the days since midsummer."
+    },
+    {
+      "word": "fall asleep",
+      "pos": "PHRASE",
+      "translation": "addormentarsi",
+      "example": "He laughed quietly at himself, closed his eyes and fell asleep almost at once, dreaming of rooftops and orange skies."
     },
     {
       "word": "fall down",
@@ -6542,6 +6860,12 @@
       "pos": "VERB",
       "translation": "abbattere (un albero)",
       "example": "They felled whatever stood straight and sold whatever sold."
+    },
+    {
+      "word": "fence",
+      "pos": "NOUN",
+      "translation": "la recinzione, il recinto",
+      "example": "He stopped only when he reached the metal fence at the edge of the railway land."
     },
     {
       "word": "fencepost",
@@ -6767,9 +7091,21 @@
     },
     {
       "word": "finish",
+      "pos": "NOUN",
+      "translation": "l'arrivo, la fine («finish line»: traguardo)",
+      "example": "She caught the opposite edge with one hand, swung, pulled herself up and sprinted towards the finish line as the factory collapsed behind her."
+    },
+    {
+      "word": "finish",
       "pos": "VERB",
       "translation": "finire, terminare",
       "example": "When he had finished, there was complete silence."
+    },
+    {
+      "word": "finish line",
+      "pos": "PHRASE",
+      "translation": "il traguardo",
+      "example": "She caught the opposite edge with one hand, swung, pulled herself up and sprinted towards the finish line as the factory collapsed behind her."
     },
     {
       "word": "fire",
@@ -6782,6 +7118,12 @@
       "pos": "PROPN",
       "translation": "il Fuoco (elemento)",
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
+    },
+    {
+      "word": "firefighter",
+      "pos": "NOUN",
+      "translation": "il vigile del fuoco, il pompiere",
+      "example": "At nineteen he had applied to become a firefighter."
     },
     {
       "word": "firefly",
@@ -6862,10 +7204,28 @@
       "example": "You come from the forest villages of the south and the mining towns of the northern mountains, from the fishing ports of the western coast and the windswept heights of the east."
     },
     {
+      "word": "fishmonger",
+      "pos": "NOUN",
+      "translation": "il pescivendolo",
+      "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
+    },
+    {
       "word": "fist",
       "pos": "NOUN",
       "translation": "il pugno",
       "example": "Bram filled the doorway, his sleeves rolled up and a dishcloth in one fist."
+    },
+    {
+      "word": "fit",
+      "pos": "VERB",
+      "translation": "adattarsi, entrare",
+      "example": "That night, after his mum and Lily had gone to bed, Max carried the Halcyon up to his room and found an old cable in a drawer that fitted the back of his television."
+    },
+    {
+      "word": "fitness",
+      "pos": "NOUN",
+      "translation": "la forma fisica («fitness test»: prova fisica)",
+      "example": "Then he had failed the fitness test in front of everyone, collapsing halfway through the running part while the instructor looked at his watch."
     },
     {
       "word": "fitting",
@@ -6950,6 +7310,12 @@
       "pos": "VERB",
       "translation": "fuggire",
       "example": "When Edwin arrived at Little Fenwick, the villagers were already packing their belongings, ready to flee into the forest."
+    },
+    {
+      "word": "fleece",
+      "pos": "NOUN",
+      "translation": "il pile ; il vello",
+      "example": "His stomach pushed against his work fleece, his knees clicked when he climbed stairs, and he got out of breath faster than his mum, who smoked ten cigarettes a day."
     },
     {
       "word": "flick",
@@ -7154,6 +7520,12 @@
       "pos": "NOUN",
       "translation": "il piede (plurale: feet)",
       "example": "His shoulders move, his eyes change, his feet prepare."
+    },
+    {
+      "word": "football",
+      "pos": "NOUN",
+      "translation": "il calcio ; il pallone",
+      "example": "Last summer he had needed a stepladder just to get a football back from the neighbours' garden."
     },
     {
       "word": "footballer",
@@ -8223,10 +8595,22 @@
       "example": "On the last page of the week, he drew a graph, and the line went steadily up."
     },
     {
+      "word": "graphics",
+      "pos": "NOUN",
+      "translation": "la grafica",
+      "example": "The graphics were old and blocky, but the movement was incredible."
+    },
+    {
       "word": "grass",
       "pos": "NOUN",
       "translation": "l'erba",
       "example": "The grass is green. — L'erba è verde."
+    },
+    {
+      "word": "gravel",
+      "pos": "NOUN",
+      "translation": "la ghiaia",
+      "example": "In one smooth movement he swung his legs over, dropped down the other side and rolled forward across the gravel exactly as the runner in the red hoodie had done a hundred times on his screen."
     },
     {
       "word": "gravy",
@@ -8498,6 +8882,12 @@
       "example": "He had turned fourteen at midsummer: lean where his uncle was broad, with a shock of dark hair that defeated every comb and hands already roughened by years of rope and bark."
     },
     {
+      "word": "Halcyon",
+      "pos": "PROPN",
+      "translation": "Halcyon (nome della console)",
+      "example": "There was no brand name on it, only a small metal plate with one word engraved on it: HALCYON."
+    },
+    {
       "word": "Hale",
       "pos": "PROPN",
       "translation": "Hale (cognome)",
@@ -8528,6 +8918,12 @@
       "example": "\"Is it true one of you cracked the Standing Stone in half?\""
     },
     {
+      "word": "half past",
+      "pos": "PHRASE",
+      "translation": "e mezza («half past eleven»: le undici e mezza)",
+      "example": "He woke up at half past eleven with the sun on his face and a terrible feeling that he had forgotten something."
+    },
+    {
       "word": "half-hearted",
       "pos": "ADJ",
       "translation": "svogliato, senza entusiasmo",
@@ -8550,6 +8946,12 @@
       "pos": "PROPN",
       "translation": "la Sala («Ember Hall», «Great Hall»)",
       "example": "\"Ember Hall won't take anyone who can't light a candle, and frankly I wouldn't send a dog there.\""
+    },
+    {
+      "word": "hallway",
+      "pos": "NOUN",
+      "translation": "il corridoio, l'ingresso",
+      "example": "When Max pushed it open with his shoulder, the smell of toast came down the hallway to meet him."
     },
     {
       "word": "halt",
@@ -8580,6 +8982,12 @@
       "pos": "VERB",
       "translation": "porgere, consegnare",
       "example": "On the fourth day, Moss handed him a seed."
+    },
+    {
+      "word": "hand over",
+      "pos": "PHRASE",
+      "translation": "consegnare, porgere",
+      "example": "As he handed over the money, the old man held on to the notes for a second longer than necessary."
     },
     {
       "word": "handful",
@@ -8672,6 +9080,12 @@
       "example": "My cousin says he hardly ever bothers coming this far south."
     },
     {
+      "word": "Harehills",
+      "pos": "PROPN",
+      "translation": "Harehills (quartiere di Leeds)",
+      "example": "On the top deck of the bus, he leaned his head against the window and watched the red-brick terraces of Harehills slide past."
+    },
+    {
       "word": "harm",
       "pos": "NOUN",
       "translation": "il danno («no harm done»: nessun danno)",
@@ -8732,6 +9146,12 @@
       "example": "The first morning of Leaf-Fall arrived wrapped in fog, as if the forest had pulled a blanket over its head and had no intention of getting up."
     },
     {
+      "word": "have out",
+      "pos": "PHRASE",
+      "translation": "aver tirato fuori («he already had his wallet out»: aveva già tirato fuori il portafoglio)",
+      "example": "But he already had his wallet out."
+    },
+    {
       "word": "hay",
       "pos": "NOUN",
       "translation": "il fieno",
@@ -8778,6 +9198,12 @@
       "pos": "NOUN",
       "translation": "il mal di testa",
       "example": "Draw a great deal, and you will sleep for a day and wake up with a headache that makes you wish you hadn't."
+    },
+    {
+      "word": "headphones",
+      "pos": "NOUN",
+      "translation": "le cuffie",
+      "example": "Instead he turned on his console, put his headphones on and played a racing game until his eyes closed by themselves."
     },
     {
       "word": "healer",
@@ -9140,6 +9566,12 @@
       "example": "Bram stayed where he was, kneeling on the floor with both hands pressed flat against the hearthstone, as if holding it down."
     },
     {
+      "word": "hold his breath",
+      "pos": "PHRASE",
+      "translation": "trattenere il respiro",
+      "example": "The runner leapt, rolled, climbed a chimney and threw herself across a gap so wide that Max held his breath."
+    },
+    {
       "word": "hold its breath",
       "pos": "PHRASE",
       "translation": "trattenere il respiro",
@@ -9150,6 +9582,12 @@
       "pos": "PHRASE",
       "translation": "tenersi stretto, resistere",
       "example": "He stopped holding on, and stopped fighting, and stopped trying to drag the thing inside him back down out of reach of the hook."
+    },
+    {
+      "word": "hold on to",
+      "pos": "PHRASE",
+      "translation": "tenersi stretto, non mollare",
+      "example": "As he handed over the money, the old man held on to the notes for a second longer than necessary."
     },
     {
       "word": "hold out",
@@ -9246,6 +9684,12 @@
       "pos": "ADJ",
       "translation": "incappucciato",
       "example": "He told them everything: the waystation at the crossroads, the hooded drivers, the rod of dark wood that twitched and pointed, the mist that Maren had raised to hide them, the black roots burned into the tailboard, and the small fingers in the gap between the boards."
+    },
+    {
+      "word": "hoodie",
+      "pos": "NOUN",
+      "translation": "la felpa con cappuccio",
+      "example": "You controlled a runner, a thin young woman in a red hoodie, who had to cross the city by jumping from roof to roof, climbing walls, sliding under pipes and swinging over gaps."
     },
     {
       "word": "hoof",
@@ -9356,6 +9800,12 @@
       "example": "At my house. — A casa mia."
     },
     {
+      "word": "house clearance",
+      "pos": "PHRASE",
+      "translation": "lo sgombero di una casa",
+      "example": "It came from a house clearance in Otley, many years ago."
+    },
+    {
       "word": "household",
       "pos": "NOUN",
       "translation": "la famiglia, la casa",
@@ -9432,6 +9882,12 @@
       "pos": "NOUN",
       "translation": "il ronzio",
       "example": "Earth made the Stone hum, and the ground around it shiver."
+    },
+    {
+      "word": "hum",
+      "pos": "VERB",
+      "translation": "ronzare ; canticchiare",
+      "example": "Then the screen flickered, the console began to hum, low and warm, like a cat purring, and a title appeared in big orange letters over a city skyline at sunset."
     },
     {
       "word": "human",
@@ -9731,6 +10187,12 @@
       "example": "How did you ask a man why he had been reading your dead mother's letters in the middle of the night?"
     },
     {
+      "word": "in the way",
+      "pos": "PHRASE",
+      "translation": "in mezzo, d'intralcio («a wall in the way»: un muro che sbarra la strada)",
+      "example": "The quickest way was through the back alleys behind Ashley Road and across the old railway land, but there was a high brick wall in the way, and Max always walked around it."
+    },
+    {
       "word": "in their hundreds",
       "pos": "PHRASE",
       "translation": "a centinaia",
@@ -9747,6 +10209,12 @@
       "pos": "ADJ",
       "translation": "incline («I am inclined to believe him»: sono incline a credergli)",
       "example": "For once, I am inclined to believe him."
+    },
+    {
+      "word": "incredible",
+      "pos": "ADJ",
+      "translation": "incredibile",
+      "example": "The graphics were old and blocky, but the movement was incredible."
     },
     {
       "word": "indecent",
@@ -9892,6 +10360,12 @@
       "translation": "invece di"
     },
     {
+      "word": "instructor",
+      "pos": "NOUN",
+      "translation": "l'istruttore",
+      "example": "Then he had failed the fitness test in front of everyone, collapsing halfway through the running part while the instructor looked at his watch."
+    },
+    {
       "word": "instrument",
       "pos": "NOUN",
       "translation": "lo strumento",
@@ -9944,6 +10418,12 @@
       "pos": "ADP",
       "translation": "in, dentro (con movimento)",
       "example": "Mia goes into the garden. — Mia va in giardino."
+    },
+    {
+      "word": "introduce",
+      "pos": "VERB",
+      "translation": "(si) presentare («introducing himself»: presentandosi) ; introdurre",
+      "example": "\"Mr Okoro,\" he said, introducing himself."
     },
     {
       "word": "introduction",
@@ -10018,6 +10498,12 @@
       "example": "\"That's Jeanne, my wife,\" Albert told us, even though we were cats and couldn't answer."
     },
     {
+      "word": "jeans",
+      "pos": "NOUN",
+      "translation": "i jeans",
+      "example": "He jumped out of bed, pulled on yesterday's jeans, grabbed his phone and ran down the stairs."
+    },
+    {
       "word": "jerk",
       "pos": "VERB",
       "translation": "sobbalzare, scattare",
@@ -10034,6 +10520,12 @@
       "pos": "NOUN",
       "translation": "il lavoro",
       "example": "He told Léa about Jeanne, about the silk workers of the Croix-Rousse, about his job as a train driver forty years ago."
+    },
+    {
+      "word": "jog",
+      "pos": "VERB",
+      "translation": "correre, fare jogging",
+      "example": "Max lifted one hand and started to jog after it."
     },
     {
       "word": "join",
@@ -10103,6 +10595,12 @@
     },
     {
       "word": "jump",
+      "pos": "NOUN",
+      "translation": "il salto",
+      "example": "Every jump felt heavy and real."
+    },
+    {
+      "word": "jump",
       "pos": "VERB",
       "translation": "saltare",
       "example": "Leo jumps into her arms. — Leo le salta in braccio."
@@ -10124,6 +10622,12 @@
       "pos": "ADJ",
       "translation": "subalterno, principiante",
       "example": "Normally they just send a couple of junior examiners with a ledger.\""
+    },
+    {
+      "word": "junk",
+      "pos": "NOUN",
+      "translation": "la cianfrusaglia, la robaccia («piece of junk»: rottame)",
+      "example": "It was a ridiculous price for a heavy piece of junk, and Max knew it."
     },
     {
       "word": "just",
@@ -10244,6 +10748,12 @@
       "pos": "NOUN",
       "translation": "il regno",
       "example": "Every knight in the kingdom has been invited to take part."
+    },
+    {
+      "word": "Kirkgate",
+      "pos": "PROPN",
+      "translation": "Kirkgate (in «Kirkgate Market», grande mercato coperto di Leeds)",
+      "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
     },
     {
       "word": "kitchen",
@@ -10660,6 +11170,12 @@
       "example": "Old Moss, Rowan learned over the following week, had been the gardener at Thornhall for seventy-one years, and his father before him, and his grandmother before that, in a line that went back further than anyone had bothered to count."
     },
     {
+      "word": "leap",
+      "pos": "VERB",
+      "translation": "balzare, saltare",
+      "example": "The runner leapt, rolled, climbed a chimney and threw herself across a gap so wide that Max held his breath."
+    },
+    {
       "word": "learn",
       "pos": "VERB",
       "translation": "imparare",
@@ -10708,6 +11224,12 @@
       "example": "Normally they just send a couple of junior examiners with a ledger.\""
     },
     {
+      "word": "Leeds",
+      "pos": "PROPN",
+      "translation": "Leeds (città del nord dell'Inghilterra)",
+      "example": "At ten past six in the morning, the big doors of the warehouse opened and Max Turner walked out into the cold Leeds air."
+    },
+    {
       "word": "left",
       "pos": "ADJ",
       "translation": "sinistro",
@@ -10736,6 +11258,18 @@
       "pos": "ADJ",
       "translation": "(pianta) filata, allungata",
       "example": "Herbs gone leggy and yellow at the tips."
+    },
+    {
+      "word": "leisure",
+      "pos": "NOUN",
+      "translation": "il tempo libero («leisure centre»: centro sportivo)",
+      "example": "Then he remembered: he had promised to meet Lily outside the leisure centre at eleven to carry her bags home after her netball tournament."
+    },
+    {
+      "word": "leisure centre",
+      "pos": "PHRASE",
+      "translation": "il centro sportivo",
+      "example": "Then he remembered: he had promised to meet Lily outside the leisure centre at eleven to carry her bags home after her netball tournament."
     },
     {
       "word": "lend",
@@ -10864,6 +11398,12 @@
       "example": "The flame licked across his palm, quick and stinging, and the feather crumbled into ash on the stone."
     },
     {
+      "word": "lid",
+      "pos": "NOUN",
+      "translation": "il coperchio",
+      "example": "It sat on its own at the corner of the table, a heavy grey box about the size of a shoebox, with a crack running across the lid."
+    },
+    {
       "word": "lie",
       "pos": "VERB",
       "translation": "essere sdraiato, trovarsi («lay» al passato)",
@@ -10940,6 +11480,12 @@
       "pos": "VERB",
       "translation": "piacere («you'd like it»: ti piacerebbe)",
       "example": "I think you'd like it."
+    },
+    {
+      "word": "Lily",
+      "pos": "PROPN",
+      "translation": "Lily (nome)",
+      "example": "A moment later his sister Lily appeared in the doorway, fourteen years old, hair half tied back, one shoe on and one in her hand."
     },
     {
       "word": "lime",
@@ -11163,6 +11709,12 @@
       "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
     },
     {
+      "word": "lorry",
+      "pos": "NOUN",
+      "translation": "il camion",
+      "example": "Behind him, the lorries were already starting their engines."
+    },
+    {
       "word": "lose",
       "pos": "VERB",
       "translation": "perdere",
@@ -11295,6 +11847,12 @@
       "example": "M."
     },
     {
+      "word": "machine",
+      "pos": "NOUN",
+      "translation": "la macchina, l'apparecchio",
+      "example": "Next to it was a cardboard box full of cartridges, the old-fashioned kind you pushed into the top of the machine."
+    },
+    {
       "word": "mad",
       "pos": "ADJ",
       "translation": "pazzo («go mad»: impazzire)",
@@ -11317,6 +11875,18 @@
       "pos": "ADJ",
       "translation": "magnifico",
       "example": "Tamsin went out in the third group, and was magnificent."
+    },
+    {
+      "word": "magnifying",
+      "pos": "ADJ",
+      "translation": "d'ingrandimento («magnifying glass»: lente d'ingrandimento)",
+      "example": "Behind the table sat an elderly man in a woollen hat, reading a newspaper through a large magnifying glass."
+    },
+    {
+      "word": "magnifying glass",
+      "pos": "PHRASE",
+      "translation": "la lente d'ingrandimento",
+      "example": "Behind the table sat an elderly man in a woollen hat, reading a newspaper through a large magnifying glass."
     },
     {
       "word": "mail",
@@ -11468,10 +12038,22 @@
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
     },
     {
+      "word": "marker",
+      "pos": "NOUN",
+      "translation": "il pennarello",
+      "example": "Someone had written the names by hand in black marker."
+    },
+    {
       "word": "market",
       "pos": "NOUN",
       "translation": "il mercato",
       "example": "He had never been further than the nearest market town."
+    },
+    {
+      "word": "Market",
+      "pos": "PROPN",
+      "translation": "il Mercato («Kirkgate Market»: mercato coperto di Leeds)",
+      "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
     },
     {
       "word": "Marking",
@@ -11544,6 +12126,12 @@
       "pos": "PROPN",
       "translation": "Maud (nome)",
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "Max",
+      "pos": "PROPN",
+      "translation": "Max (nome)",
+      "example": "At ten past six in the morning, the big doors of the warehouse opened and Max Turner walked out into the cold Leeds air."
     },
     {
       "word": "Maxence",
@@ -11702,10 +12290,22 @@
       "example": "\"Warden Aldith Merrow,\" Jory whispered."
     },
     {
+      "word": "message",
+      "pos": "NOUN",
+      "translation": "il messaggio",
+      "example": "One message, in capital letters: WHERE ARE YOU."
+    },
+    {
       "word": "messenger",
       "pos": "NOUN",
       "translation": "il messaggero",
       "example": "Three days later, a messenger arrived at the gates, covered in mud and exhausted from riding through the night."
+    },
+    {
+      "word": "metal",
+      "pos": "NOUN",
+      "translation": "il metallo",
+      "example": "There was no brand name on it, only a small metal plate with one word engraved on it: HALCYON."
     },
     {
       "word": "metre",
@@ -12062,6 +12662,12 @@
       "example": "It happened in a single night, the way it did, Moss said, perhaps once in a generation: one evening the water lay black and still under a low grey sky, and the next morning it had turned to a single vast sheet of iron-grey ice, so thick and so clear that the students who crept down to the shore could see pale weeds hanging motionless far beneath it, like hair in a sleeping face."
     },
     {
+      "word": "motorway",
+      "pos": "NOUN",
+      "translation": "l'autostrada",
+      "example": "In front of him, the sky over the motorway was turning from black to a dirty shade of grey."
+    },
+    {
       "word": "mountain",
       "pos": "NOUN",
       "translation": "la montagna",
@@ -12162,6 +12768,18 @@
       "pos": "PROPN",
       "translation": "Multiplo (allievo marcato da più elementi)",
       "example": "First Multiple they'd seen on this hill in a generation, and they made no end of fuss of her."
+    },
+    {
+      "word": "mum",
+      "pos": "NOUN",
+      "translation": "la mamma",
+      "example": "His stomach pushed against his work fleece, his knees clicked when he climbed stairs, and he got out of breath faster than his mum, who smoked ten cigarettes a day."
+    },
+    {
+      "word": "Mum",
+      "pos": "PROPN",
+      "translation": "Mamma",
+      "example": "Lily again: I'm leaving in two minutes and I'm telling Mum."
     },
     {
       "word": "mumble",
@@ -12308,6 +12926,12 @@
       "example": "Bennet's boots were still standing neatly at the foot of his bed, laced and polished, the way he left them every night."
     },
     {
+      "word": "necessary",
+      "pos": "ADJ",
+      "translation": "necessario",
+      "example": "As he handed over the money, the old man held on to the notes for a second longer than necessary."
+    },
+    {
       "word": "neck",
       "pos": "NOUN",
       "translation": "il collo",
@@ -12392,6 +13016,12 @@
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
     },
     {
+      "word": "netball",
+      "pos": "NOUN",
+      "translation": "il netball (sport simile alla pallacanestro)",
+      "example": "Lily played netball for the school and ran everywhere."
+    },
+    {
       "word": "never",
       "pos": "ADV",
       "translation": "mai",
@@ -12402,6 +13032,12 @@
       "pos": "ADJ",
       "translation": "nuovo",
       "example": "A new friend. — Un nuovo amico."
+    },
+    {
+      "word": "newspaper",
+      "pos": "NOUN",
+      "translation": "il giornale",
+      "example": "Behind the table sat an elderly man in a woollen hat, reading a newspaper through a large magnifying glass."
     },
     {
       "word": "next",
@@ -12698,6 +13334,12 @@
       "example": "His fingers and toes had gone numb."
     },
     {
+      "word": "number",
+      "pos": "NOUN",
+      "translation": "il numero («the number 49»: l'autobus 49)",
+      "example": "As if to prove the point, the number 49 was pulling away from the stop just as he turned the corner."
+    },
+    {
       "word": "nursery",
       "pos": "NOUN",
       "translation": "il vivaio; la stanza dei bambini («nursery bed»: semenzaio)",
@@ -12780,6 +13422,12 @@
       "pos": "ADJ",
       "translation": "strano, bizzarro",
       "example": "He was tall and lean, and he moved with an odd, unhurried precision, like a heron wading through shallows."
+    },
+    {
+      "word": "oddity",
+      "pos": "NOUN",
+      "translation": "la stranezza, la curiosità",
+      "example": "A hand-painted sign said OKORO REPAIRS – RADIOS, TVS, ODDITIES."
     },
     {
       "word": "of",
@@ -12866,6 +13514,18 @@
       "example": "Are you OK? — Stai bene?"
     },
     {
+      "word": "okay",
+      "pos": "INTJ",
+      "translation": "va bene, ok",
+      "example": "\"Okay,\" he said quietly to nobody."
+    },
+    {
+      "word": "Okoro",
+      "pos": "PROPN",
+      "translation": "Okoro (cognome)",
+      "example": "A hand-painted sign said OKORO REPAIRS – RADIOS, TVS, ODDITIES."
+    },
+    {
       "word": "old",
       "pos": "ADJ",
       "translation": "vecchio, anziano",
@@ -12906,6 +13566,12 @@
       "pos": "PHRASE",
       "translation": "per strada, in arrivo",
       "example": "Mother Rook's on her way down, but he's asking for you."
+    },
+    {
+      "word": "on his feet",
+      "pos": "PHRASE",
+      "translation": "in piedi («on his feet for nine hours»: in piedi da nove ore)",
+      "example": "He had been on his feet for nine hours, pushing heavy cages of tins, bottles and frozen chips from one end of the building to the other."
     },
     {
       "word": "on its own",
@@ -12955,6 +13621,12 @@
       "example": "She set the sliver down beside the book, very gently, the way one might set down a bird's egg."
     },
     {
+      "word": "one after the other",
+      "pos": "PHRASE",
+      "translation": "uno dopo l'altro",
+      "example": "His feet were landing lightly, one after the other, in a fast, steady rhythm he had never felt before."
+    },
+    {
       "word": "one by one",
       "pos": "PHRASE",
       "translation": "uno per uno, uno alla volta",
@@ -12971,6 +13643,12 @@
       "pos": "ADJ",
       "translation": "online",
       "example": "That Tuesday, Inès had her laptop open next to her tray, as usual, and was explaining to nobody in particular why the latest update of their favourite online game had wrecked its economy."
+    },
+    {
+      "word": "online",
+      "pos": "ADV",
+      "translation": "online",
+      "example": "Not a professional one, not one of those people who earned money by playing in front of thousands of viewers online."
     },
     {
       "word": "only",
@@ -13117,6 +13795,12 @@
       "example": "If it didn't, they went home, with no harm done and a year's education they would not otherwise have had."
     },
     {
+      "word": "Otley",
+      "pos": "PROPN",
+      "translation": "Otley (cittadina vicino a Leeds)",
+      "example": "It came from a house clearance in Otley, many years ago."
+    },
+    {
       "word": "Ottoline",
       "pos": "PROPN",
       "translation": "Ottoline (nome)",
@@ -13151,6 +13835,12 @@
       "pos": "PHRASE",
       "translation": "ad alta voce",
       "example": "That was the first rule of the Ashby household, and very nearly the only one Bram had ever bothered to say out loud."
+    },
+    {
+      "word": "out of breath",
+      "pos": "PHRASE",
+      "translation": "senza fiato, col fiatone («get out of breath»: restare senza fiato)",
+      "example": "His stomach pushed against his work fleece, his knees clicked when he climbed stairs, and he got out of breath faster than his mum, who smoked ten cigarettes a day."
     },
     {
       "word": "out of nowhere",
@@ -13491,7 +14181,7 @@
     {
       "word": "past",
       "pos": "ADP",
-      "translation": "davanti, oltre («roll past»: passare davanti)",
+      "translation": "davanti, oltre («roll past»: passare davanti) ; «ten past six»: le sei e dieci",
       "example": "As it rolled past the window, close enough that Rowan could have reached out and touched it, the moon broke briefly through the mist and fell full on its tailboard."
     },
     {
@@ -13957,6 +14647,12 @@
       "example": "The only sign of the Academy was a small wooden plaque nailed to each driver's bench, so weathered that the seal had faded to a ghost."
     },
     {
+      "word": "plastic",
+      "pos": "ADJ",
+      "translation": "di plastica",
+      "example": "He did not know that, in four days, everything was going to change because of fifteen pounds and a grey plastic box."
+    },
+    {
       "word": "plate",
       "pos": "NOUN",
       "translation": "il piatto",
@@ -14192,6 +14888,12 @@
     },
     {
       "word": "pound",
+      "pos": "NOUN",
+      "translation": "la sterlina ; la libbra",
+      "example": "He did not know that, in four days, everything was going to change because of fifteen pounds and a grey plastic box."
+    },
+    {
+      "word": "pound",
       "pos": "VERB",
       "translation": "battere forte, picchiare",
       "example": "When he lifted the leather, his heart started to pound."
@@ -14395,6 +15097,12 @@
       "example": "It allowed the Academy to admit, for a single probationary year, any child whose Marking had produced a result the examiners could not explain."
     },
     {
+      "word": "professional",
+      "pos": "ADJ",
+      "translation": "professionista, professionale",
+      "example": "Not a professional one, not one of those people who earned money by playing in front of thousands of viewers online."
+    },
+    {
       "word": "profound",
       "pos": "ADJ",
       "translation": "profondo",
@@ -14425,6 +15133,12 @@
       "example": "Without proof, I cannot punish a knight of the realm."
     },
     {
+      "word": "proper",
+      "pos": "ADJ",
+      "translation": "vero, adeguato",
+      "example": "None of them had a proper label."
+    },
+    {
       "word": "properly",
       "pos": "ADV",
       "translation": "bene, correttamente",
@@ -14453,6 +15167,12 @@
       "pos": "VERB",
       "translation": "protestare",
       "example": "He tried to protest, but then his own squire stepped forward and confessed that he had cut Godfrey's saddle strap on his master's orders."
+    },
+    {
+      "word": "prove",
+      "pos": "VERB",
+      "translation": "dimostrare, provare",
+      "example": "As if to prove the point, the number 49 was pulling away from the stop just as he turned the corner."
     },
     {
       "word": "provision",
@@ -14495,6 +15215,12 @@
       "pos": "VERB",
       "translation": "tirare",
       "example": "The first morning of Leaf-Fall arrived wrapped in fog, as if the forest had pulled a blanket over its head and had no intention of getting up."
+    },
+    {
+      "word": "pull away",
+      "pos": "PHRASE",
+      "translation": "partire, allontanarsi",
+      "example": "As if to prove the point, the number 49 was pulling away from the stop just as he turned the corner."
     },
     {
       "word": "pull down",
@@ -14720,15 +15446,39 @@
     },
     {
       "word": "race",
+      "pos": "NOUN",
+      "translation": "la corsa, la gara",
+      "example": "By four in the morning he had reached the final level, a race across the roofs of a burning factory."
+    },
+    {
+      "word": "race",
       "pos": "VERB",
       "translation": "battere all'impazzata (cuore); correre",
       "example": "His heart was racing."
+    },
+    {
+      "word": "racing",
+      "pos": "NOUN",
+      "translation": "le corse («racing game»: gioco di corse)",
+      "example": "Instead he turned on his console, put his headphones on and played a racing game until his eyes closed by themselves."
+    },
+    {
+      "word": "racing game",
+      "pos": "PHRASE",
+      "translation": "il gioco di corse",
+      "example": "Instead he turned on his console, put his headphones on and played a racing game until his eyes closed by themselves."
     },
     {
       "word": "radiator",
       "pos": "NOUN",
       "translation": "il termosifone, il radiatore",
       "example": "Albert let us sleep in his kitchen, next to the radiator."
+    },
+    {
+      "word": "radio",
+      "pos": "NOUN",
+      "translation": "la radio",
+      "example": "Through the thin wall he could hear the neighbours' radio."
     },
     {
       "word": "ragged",
@@ -14741,6 +15491,12 @@
       "pos": "NOUN",
       "translation": "la ringhiera, il parapetto",
       "example": "He stopped on the bridge over the Brack and leaned on the rail, watching the brown water slide beneath him."
+    },
+    {
+      "word": "railway",
+      "pos": "NOUN",
+      "translation": "la ferrovia («railway land»: terreni della ferrovia)",
+      "example": "The quickest way was through the back alleys behind Ashley Road and across the old railway land, but there was a high brick wall in the way, and Max always walked around it."
     },
     {
       "word": "rain",
@@ -15156,6 +15912,18 @@
       "example": "Remember that, because one day nobody will be there to remind you."
     },
     {
+      "word": "remote",
+      "pos": "ADJ",
+      "translation": "remoto, lontano («remote control»: telecomando)",
+      "example": "The table was covered with old electronics: cassette players, a cracked typewriter, a pile of television remote controls tied together with an elastic band."
+    },
+    {
+      "word": "remote control",
+      "pos": "PHRASE",
+      "translation": "il telecomando",
+      "example": "The table was covered with old electronics: cassette players, a cracked typewriter, a pile of television remote controls tied together with an elastic band."
+    },
+    {
       "word": "remove",
       "pos": "VERB",
       "translation": "togliere, rimuovere",
@@ -15166,6 +15934,12 @@
       "pos": "NOUN",
       "translation": "l'affitto («For Rent»: affittasi)",
       "example": "The mines had closed forty years earlier, but the town still lived in their shadow: rows of identical red-brick houses, a church that was far too big for the people who still went to it, and a main street where every third shop had a \"For Rent\" sign in the window."
+    },
+    {
+      "word": "repair",
+      "pos": "NOUN",
+      "translation": "la riparazione",
+      "example": "A hand-painted sign said OKORO REPAIRS – RADIOS, TVS, ODDITIES."
     },
     {
       "word": "repair",
@@ -15348,6 +16122,12 @@
       "example": "She showed me a terrace full of tomato plants, a pigeon who thought he was a king, and a place on top of a high wall where you could see the two rivers, the Rhône and the Saône, shining in the dark."
     },
     {
+      "word": "rhythm",
+      "pos": "NOUN",
+      "translation": "il ritmo",
+      "example": "His feet were landing lightly, one after the other, in a fast, steady rhythm he had never felt before."
+    },
+    {
       "word": "rhythmic",
       "pos": "ADJ",
       "translation": "ritmico",
@@ -15382,6 +16162,12 @@
       "pos": "NOUN",
       "translation": "il crinale",
       "example": "Late in the afternoon they came out onto a ridge, and below them, spread across both banks of the Brack, lay Mossbridge."
+    },
+    {
+      "word": "ridiculous",
+      "pos": "ADJ",
+      "translation": "ridicolo",
+      "example": "It was a ridiculous price for a heavy piece of junk, and Max knew it."
     },
     {
       "word": "right",
@@ -15496,6 +16282,12 @@
       "pos": "NOUN",
       "translation": "la strada",
       "example": "Bandits have been attacking villages along the southern road."
+    },
+    {
+      "word": "Road",
+      "pos": "PROPN",
+      "translation": "Road (via: «Ashley Road»)",
+      "example": "The Turners lived in a narrow terraced house at the end of Ashley Road, with a tiny yard at the back and a front door that stuck in wet weather."
     },
     {
       "word": "roar",
@@ -15786,6 +16578,18 @@
       "example": "The great oak root that ran up the wall behind Bennet's bed had been polished smooth by generations of students."
     },
     {
+      "word": "runner",
+      "pos": "NOUN",
+      "translation": "il corridore, la corridrice",
+      "example": "You controlled a runner, a thin young woman in a red hoodie, who had to cross the city by jumping from roof to roof, climbing walls, sliding under pipes and swinging over gaps."
+    },
+    {
+      "word": "rush",
+      "pos": "NOUN",
+      "translation": "la fretta, la corsa",
+      "example": "ROOFTOP RUSH, it said."
+    },
+    {
       "word": "rush",
       "pos": "VERB",
       "translation": "precipitarsi; mettere fretta («don't rush me»: non mettermi fretta)",
@@ -15916,6 +16720,12 @@
       "pos": "NOUN",
       "translation": "la cartella, la borsa a tracolla",
       "example": "The second examiner was a small, wiry woman of indeterminate age, with a long iron-grey braid, a battered leather satchel, and ink stains on three of her fingers."
+    },
+    {
+      "word": "satisfied",
+      "pos": "ADJ",
+      "translation": "soddisfatto",
+      "example": "The console gave a long, satisfied hum and then went quiet."
     },
     {
       "word": "Saturday",
@@ -16404,6 +17214,12 @@
       "example": "She was a year or two older than him, tall and fair, with the kind of poise that made the shabby school robe she wore look as if it had been made for her by a tailor."
     },
     {
+      "word": "shade",
+      "pos": "NOUN",
+      "translation": "la sfumatura, la tonalità ; l'ombra",
+      "example": "In front of him, the sky over the motorway was turning from black to a dirty shade of grey."
+    },
+    {
       "word": "shadow",
       "pos": "NOUN",
       "translation": "l'ombra",
@@ -16618,6 +17434,18 @@
       "pos": "NOUN",
       "translation": "la scarpa ; (cavallo) il ferro",
       "example": "Patience could throw a shoe."
+    },
+    {
+      "word": "shoebox",
+      "pos": "NOUN",
+      "translation": "la scatola da scarpe",
+      "example": "It sat on its own at the corner of the table, a heavy grey box about the size of a shoebox, with a crack running across the lid."
+    },
+    {
+      "word": "shoelace",
+      "pos": "NOUN",
+      "translation": "il laccio (della scarpa)",
+      "example": "Max pretended to tie his shoelace."
     },
     {
       "word": "shoot",
@@ -17058,6 +17886,12 @@
       "example": "The sixth passenger was the girl Rowan had noticed in the square."
     },
     {
+      "word": "sixty",
+      "pos": "NUM",
+      "translation": "sessanta",
+      "example": "Max was twenty-four years old, and on most days he felt about sixty."
+    },
+    {
       "word": "size",
       "pos": "NOUN",
       "translation": "la grandezza, la dimensione",
@@ -17110,6 +17944,12 @@
       "pos": "NOUN",
       "translation": "il cielo",
       "example": "She just looked at the sky."
+    },
+    {
+      "word": "skyline",
+      "pos": "NOUN",
+      "translation": "lo skyline, il profilo della città",
+      "example": "Then the screen flickered, the console began to hum, low and warm, like a cat purring, and a title appeared in big orange letters over a city skyline at sunset."
     },
     {
       "word": "slab",
@@ -17304,6 +18144,12 @@
       "example": "A thin, sloping, spidery hand, in ink that had gone brown with age."
     },
     {
+      "word": "slot",
+      "pos": "NOUN",
+      "translation": "la fessura, l'alloggiamento",
+      "example": "He blew the dust out of the cartridge slot, the way he used to do as a child, and pushed in ROOFTOP RUSH."
+    },
+    {
       "word": "slow",
       "pos": "ADJ",
       "translation": "lento",
@@ -17320,6 +18166,12 @@
       "pos": "VERB",
       "translation": "rallentare",
       "example": "TEST 10: he followed the pencil's advice, relaxed his wrist and slowed the gesture down until it felt almost lazy."
+    },
+    {
+      "word": "slow down",
+      "pos": "PHRASE",
+      "translation": "rallentare",
+      "example": "He did not slow down."
     },
     {
       "word": "slowly",
@@ -17790,6 +18642,12 @@
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
     },
     {
+      "word": "spice",
+      "pos": "NOUN",
+      "translation": "la spezia",
+      "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
+    },
+    {
       "word": "spider",
       "pos": "NOUN",
       "translation": "il ragno",
@@ -17914,6 +18772,12 @@
       "pos": "NOUN",
       "translation": "la primavera; la sorgente",
       "example": "Instead, the shaving curled upward, slowly, the way a fern unfurls in spring, and wound itself once, lightly, around the tip of his finger."
+    },
+    {
+      "word": "sprint",
+      "pos": "VERB",
+      "translation": "scattare, correre a tutta velocità",
+      "example": "She caught the opposite edge with one hand, swung, pulled herself up and sprinted towards the finish line as the factory collapsed behind her."
     },
     {
       "word": "sprout",
@@ -18214,6 +19078,12 @@
       "pos": "PHRASE",
       "translation": "passo dopo passo",
       "example": "He backed away from Rowan slowly, step by step, holding his sap-stained hand against his chest, his pale eyes fixed on Rowan's face."
+    },
+    {
+      "word": "stepladder",
+      "pos": "NOUN",
+      "translation": "la scala a libretto",
+      "example": "Last summer he had needed a stepladder just to get a football back from the neighbours' garden."
     },
     {
       "word": "stew",
@@ -18738,6 +19608,12 @@
       "example": "I have a bowl that is never empty, a sofa, a sunny spot in the afternoon and a human who loves me."
     },
     {
+      "word": "sunset",
+      "pos": "NOUN",
+      "translation": "il tramonto",
+      "example": "Then the screen flickered, the console began to hum, low and warm, like a cat purring, and a title appeared in big orange letters over a city skyline at sunset."
+    },
+    {
       "word": "supervisor",
       "pos": "NOUN",
       "translation": "il sorvegliante",
@@ -18852,6 +19728,12 @@
       "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
     },
     {
+      "word": "sweet",
+      "pos": "NOUN",
+      "translation": "la caramella, il dolciume",
+      "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
+    },
+    {
       "word": "swell",
       "pos": "VERB",
       "translation": "gonfiarsi, crescere",
@@ -18874,6 +19756,12 @@
       "pos": "VERB",
       "translation": "dondolare, ruotare («swing shut»: chiudersi)",
       "example": "And then she was gone, out into the blue dusk, and the door swung shut behind her on its old leather hinges."
+    },
+    {
+      "word": "swing over",
+      "pos": "PHRASE",
+      "translation": "scavalcare («swung his legs over»: fece passare le gambe dall'altra parte)",
+      "example": "In one smooth movement he swung his legs over, dropped down the other side and rolled forward across the gravel exactly as the runner in the red hoodie had done a hundred times on his screen."
     },
     {
       "word": "switch",
@@ -19085,6 +19973,12 @@
       "example": "\"Tea?\" said Moss."
     },
     {
+      "word": "tea towel",
+      "pos": "PHRASE",
+      "translation": "lo strofinaccio, il canovaccio",
+      "example": "He threw a tea towel at her."
+    },
+    {
       "word": "teach",
       "pos": "VERB",
       "translation": "insegnare",
@@ -19119,6 +20013,18 @@
       "pos": "NOUN",
       "translation": "la lacrima (forma di goccia)",
       "example": "A single small, neat teardrop, filled in solid with ink."
+    },
+    {
+      "word": "teenager",
+      "pos": "NOUN",
+      "translation": "l'adolescente",
+      "example": "A teenager waiting at the stop looked at him with pity."
+    },
+    {
+      "word": "television",
+      "pos": "NOUN",
+      "translation": "la televisione, il televisore",
+      "example": "The table was covered with old electronics: cassette players, a cracked typewriter, a pile of television remote controls tied together with an elastic band."
     },
     {
       "word": "tell",
@@ -19167,6 +20073,12 @@
       "pos": "NOUN",
       "translation": "la terrazza",
       "example": "She showed me a terrace full of tomato plants, a pigeon who thought he was a king, and a place on top of a high wall where you could see the two rivers, the Rhône and the Saône, shining in the dark."
+    },
+    {
+      "word": "terraced",
+      "pos": "ADJ",
+      "translation": "a schiera («terraced house»: villetta a schiera)",
+      "example": "The Turners lived in a narrow terraced house at the end of Ashley Road, with a tiny yard at the back and a front door that stuck in wet weather."
     },
     {
       "word": "terrible",
@@ -19638,6 +20550,12 @@
     },
     {
       "word": "tie",
+      "pos": "NOUN",
+      "translation": "la cravatta ; il legame",
+      "example": "From upstairs came the sound of heavy footsteps, a door slamming and someone shouting about a missing school tie."
+    },
+    {
+      "word": "tie",
       "pos": "VERB",
       "translation": "legare",
       "example": "Godfrey was pale with pain, his leg tied between two wooden boards."
@@ -19721,6 +20639,12 @@
       "example": "She had gone to Bennet's alcove that evening to fetch the honey-cake tin he had borrowed from her and never returned — or so she said, though Rowan suspected she simply could not bear not to look."
     },
     {
+      "word": "tingling",
+      "pos": "NOUN",
+      "translation": "il formicolio",
+      "example": "The controller felt warm, almost hot, and a soft tingling ran up his fingers and into his arms, as if he had been holding something electric."
+    },
+    {
       "word": "tinker",
       "pos": "NOUN",
       "translation": "lo stagnino ambulante, il venditore ambulante",
@@ -19773,6 +20697,12 @@
       "pos": "PHRASE",
       "translation": "fino alle ossa («wet to the bone»: bagnato fino alle ossa)",
       "example": "I was wet to the bone."
+    },
+    {
+      "word": "toast",
+      "pos": "NOUN",
+      "translation": "il pane tostato",
+      "example": "When Max pushed it open with his shoulder, the smell of toast came down the hallway to meet him."
     },
     {
       "word": "Tobin",
@@ -19973,6 +20903,12 @@
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
     },
     {
+      "word": "traffic",
+      "pos": "NOUN",
+      "translation": "il traffico",
+      "example": "After about twenty metres his chest was burning, and he stopped, bent over with his hands on his knees, and watched the bus disappear into the traffic."
+    },
+    {
       "word": "trail",
       "pos": "VERB",
       "translation": "trascinarsi, seguire",
@@ -19989,6 +20925,12 @@
       "pos": "VERB",
       "translation": "formare, istruire",
       "example": "How she had been the brightest student of her year, and then the best clerk Maren had ever trained."
+    },
+    {
+      "word": "trainer",
+      "pos": "NOUN",
+      "translation": "la scarpa da ginnastica ; l'allenatore",
+      "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
     },
     {
       "word": "trap",
@@ -20207,6 +21149,18 @@
       "example": "I turned around."
     },
     {
+      "word": "turn off",
+      "pos": "PHRASE",
+      "translation": "spegnere",
+      "example": "Max turned off the television and lay back in the dark."
+    },
+    {
+      "word": "turn on",
+      "pos": "PHRASE",
+      "translation": "accendere",
+      "example": "Instead he turned on his console, put his headphones on and played a racing game until his eyes closed by themselves."
+    },
+    {
       "word": "turn out",
       "pos": "PHRASE",
       "translation": "rivelarsi («it turned out»: si scoprì che)",
@@ -20225,6 +21179,18 @@
       "example": "\"So what happens to someone who doesn't turn up?\""
     },
     {
+      "word": "Turner",
+      "pos": "PROPN",
+      "translation": "Turner (cognome)",
+      "example": "At ten past six in the morning, the big doors of the warehouse opened and Max Turner walked out into the cold Leeds air."
+    },
+    {
+      "word": "Turners",
+      "pos": "PROPN",
+      "translation": "i Turner (la famiglia)",
+      "example": "The Turners lived in a narrow terraced house at the end of Ashley Road, with a tiny yard at the back and a front door that stuck in wet weather."
+    },
+    {
       "word": "turnip",
       "pos": "NOUN",
       "translation": "la rapa",
@@ -20241,6 +21207,12 @@
       "pos": "PHRASE",
       "translation": "il livello tutorial (quello di apprendimento di un gioco)",
       "example": "Pencils were tutorial level."
+    },
+    {
+      "word": "TV",
+      "pos": "NOUN",
+      "translation": "la TV",
+      "example": "A hand-painted sign said OKORO REPAIRS – RADIOS, TVS, ODDITIES."
     },
     {
       "word": "twelve",
@@ -20313,6 +21285,12 @@
       "pos": "NUM",
       "translation": "due",
       "example": "Two branches. — Due rami."
+    },
+    {
+      "word": "typewriter",
+      "pos": "NOUN",
+      "translation": "la macchina da scrivere",
+      "example": "The table was covered with old electronics: cassette players, a cracked typewriter, a pile of television remote controls tied together with an elastic band."
     },
     {
       "word": "ugly",
@@ -20669,6 +21647,12 @@
       "example": "Burnt deep into the pale wood was a shape like a twisted hand, or a tree turned upside down: a knot of black roots, spreading downward into nothing."
     },
     {
+      "word": "upstairs",
+      "pos": "ADV",
+      "translation": "di sopra, al piano di sopra",
+      "example": "From upstairs came the sound of heavy footsteps, a door slamming and someone shouting about a missing school tie."
+    },
+    {
       "word": "upturned",
       "pos": "ADJ",
       "translation": "capovolto, rovesciato",
@@ -20685,6 +21669,12 @@
       "pos": "ADJ",
       "translation": "pressante, urgente",
       "example": "Bram had drawn the cart up beside the cooper's yard to unload, and a pedlar Rowan didn't recognise — a stooped, sharp-eyed woman with a tray of tin pots and needles slung from her neck — had sidled up to him and was talking in a low, urgent voice."
+    },
+    {
+      "word": "us",
+      "pos": "PRON",
+      "translation": "noi, ci («let's see»: vediamo)",
+      "example": "\"Let's see.\""
     },
     {
       "word": "use",
@@ -20836,6 +21826,12 @@
       "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
     },
     {
+      "word": "viewer",
+      "pos": "NOUN",
+      "translation": "lo spettatore",
+      "example": "Not a professional one, not one of those people who earned money by playing in front of thousands of viewers online."
+    },
+    {
       "word": "village",
       "pos": "NOUN",
       "translation": "il villaggio",
@@ -20980,6 +21976,12 @@
       "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
     },
     {
+      "word": "wallet",
+      "pos": "NOUN",
+      "translation": "il portafoglio",
+      "example": "But he already had his wallet out."
+    },
+    {
       "word": "walnut",
       "pos": "NOUN",
       "translation": "la noce",
@@ -20990,6 +21992,12 @@
       "pos": "VERB",
       "translation": "vagare, gironzolare",
       "example": "He thought about it in the glasshouses, sitting beside Moss's clay pots with his eyes closed, until the old man rapped him on the knee with his blackthorn stick and told him that a seed could hear a mind wandering from a mile off."
+    },
+    {
+      "word": "wander down",
+      "pos": "PHRASE",
+      "translation": "percorrere girovagando",
+      "example": "While Lily was choosing between two almost identical bracelets, Max wandered down a narrow side row where the stalls became smaller and older and the customers fewer."
     },
     {
       "word": "wander off",
@@ -21020,6 +22028,12 @@
       "pos": "PROPN",
       "translation": "i Guardiani (dirigenti dell'Accademia)",
       "example": "By order of the Wardens of Thornhall Academy, the Marking of all children of Brackenford and the surrounding villages who have attained their fourteenth year shall take place at the Standing Stone of Brackenford on the first morning of Leaf-Fall."
+    },
+    {
+      "word": "warehouse",
+      "pos": "NOUN",
+      "translation": "il magazzino",
+      "example": "At ten past six in the morning, the big doors of the warehouse opened and Max Turner walked out into the cold Leeds air."
     },
     {
       "word": "warm",
@@ -22078,6 +23092,12 @@
       "example": "Yes, please! — Sì, per favore!"
     },
     {
+      "word": "yesterday",
+      "pos": "NOUN",
+      "translation": "ieri («yesterday's jeans»: i jeans di ieri)",
+      "example": "He jumped out of bed, pulled on yesterday's jeans, grabbed his phone and ran down the stairs."
+    },
+    {
       "word": "yet",
       "pos": "ADV",
       "translation": "ancora («not yet»: non ancora)",
@@ -22136,6 +23156,12 @@
       "pos": "PROPN",
       "translation": "Zola (Émile Zola, scrittore francese)",
       "example": "At Lycée Émile-Zola, the four of them had a table."
+    },
+    {
+      "word": "zombie",
+      "pos": "NOUN",
+      "translation": "lo zombie",
+      "example": "You look like a zombie from one of your stupid games."
     }
   ]
 }
