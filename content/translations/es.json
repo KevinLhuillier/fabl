@@ -1402,6 +1402,12 @@
       "example": "The Turners lived in a narrow terraced house at the end of Ashley Road, with a tiny yard at the back and a front door that stuck in wet weather."
     },
     {
+      "word": "Ashvale",
+      "pos": "PROPN",
+      "translation": "Ashvale (nombre del pueblo)",
+      "example": "She lives with her grandmother in a small village called Ashvale."
+    },
+    {
       "word": "Ashwater",
       "pos": "PROPN",
       "translation": "Ashwater (nombre de lugar)",
@@ -2490,6 +2496,12 @@
       "example": "He was small and bent nearly double, like a tree that has grown for a century against the wind, and he leaned on a stick of polished blackthorn as gnarled as his own knuckles."
     },
     {
+      "word": "berry",
+      "pos": "NOUN",
+      "translation": "la baya, el fruto del bosque",
+      "example": "She looks for mushrooms and berries."
+    },
+    {
       "word": "Berwick",
       "pos": "PROPN",
       "translation": "Berwick (ciudad inglesa junto a la frontera escocesa)",
@@ -3142,6 +3154,12 @@
       "pos": "PHRASE",
       "translation": "con destino a, rumbo a",
       "example": "His load, collected from the quayside the previous evening, consisted of ninety sherry butts, shipped from Jerez de la Frontera and bound for a distillery called Glen Corrach, on the banks of the Spey, some four hundred and ninety miles to the north."
+    },
+    {
+      "word": "bow",
+      "pos": "NOUN",
+      "translation": "el arco",
+      "example": "\"Get your bows!"
     },
     {
       "word": "bow",
@@ -4374,6 +4392,12 @@
       "example": "Near Berwick he caught a glimpse of the sea, gunmetal grey and flecked with white, and then the road crossed the border, where a roadside sign and a fluttering saltire announced, with characteristic understatement, that he had entered another country."
     },
     {
+      "word": "catch fire",
+      "pos": "PHRASE",
+      "translation": "prenderse fuego, incendiarse",
+      "example": "The haystack behind the barn caught fire."
+    },
+    {
       "word": "catch up with",
       "pos": "PHRASE",
       "translation": "alcanzar, pasar factura",
@@ -5530,6 +5554,12 @@
       "pos": "PHRASE",
       "translation": "venir, acompañar («Come along»: vamos, ven)",
       "example": "\"Come along, Ashby.\""
+    },
+    {
+      "word": "come back",
+      "pos": "PHRASE",
+      "translation": "volver, regresar",
+      "example": "Ember came back to Mira one last time."
     },
     {
       "word": "come down",
@@ -10342,6 +10372,12 @@
       "example": "The ball flew through the air in a perfect curve and dropped into it with a hollow bang."
     },
     {
+      "word": "fly away",
+      "pos": "PHRASE",
+      "translation": "irse volando, salir volando",
+      "example": "Then the two dragons opened their wings and flew away, over the trees, towards the mountains."
+    },
+    {
       "word": "fly up",
       "pos": "PHRASE",
       "translation": "subir volando",
@@ -11446,6 +11482,12 @@
       "example": "She got down on her knees and began to search with her hands, centimetre by centimetre."
     },
     {
+      "word": "get hurt",
+      "pos": "PHRASE",
+      "translation": "hacerse daño, salir herido",
+      "example": "If the mother dragon comes to the village, people are going to get hurt."
+    },
+    {
       "word": "get in",
       "pos": "PHRASE",
       "translation": "recoger, meter (la cosecha) ; subir (al coche)",
@@ -11865,6 +11907,12 @@
       "example": "Outside, a bus went past on the main road, and he thought of the number 49 pulling away from the stop on that cold morning in March, and the teenager who had looked at him with pity."
     },
     {
+      "word": "go round",
+      "pos": "PHRASE",
+      "translation": "dar vueltas, dar la vuelta",
+      "example": "It comes close to the village, it goes round three times, and then it goes home."
+    },
+    {
       "word": "go to bed",
       "pos": "PHRASE",
       "translation": "irse a la cama, acostarse",
@@ -11941,6 +11989,12 @@
       "pos": "NOUN",
       "translation": "el bien ; (en plural) las mercancías",
       "example": "She drove for a supermarket chain now, chilled goods out of a depot near Wakefield, and was on her way to a distribution centre outside Inverness."
+    },
+    {
+      "word": "good at",
+      "pos": "PHRASE",
+      "translation": "bueno para, bueno en",
+      "example": "\"Old people are good at talking.\""
     },
     {
       "word": "goodbye",
@@ -12049,6 +12103,12 @@
       "pos": "NOUN",
       "translation": "el abuelo",
       "example": "My grandfather built this house."
+    },
+    {
+      "word": "Grandma",
+      "pos": "PROPN",
+      "translation": "Abuela, Abuelita",
+      "example": "\"I'm sorry, Grandma."
     },
     {
       "word": "grandmother",
@@ -12884,6 +12944,12 @@
       "example": "I've watched her stop the rain over a whole field so Cade could get the hay in."
     },
     {
+      "word": "haystack",
+      "pos": "NOUN",
+      "translation": "el pajar, el montón de heno",
+      "example": "The haystack behind the barn caught fire."
+    },
+    {
       "word": "hazard",
       "pos": "NOUN",
       "translation": "el peligro («hazards»: luces de emergencia)",
@@ -13608,6 +13674,12 @@
       "pos": "ADV",
       "translation": "horizontalmente",
       "example": "By the time Gideon neared the summit, a little after three, the snow was coming at him horizontally, driven by a wind that buffeted the high-sided trailer like a hand slapping a sail."
+    },
+    {
+      "word": "horn",
+      "pos": "NOUN",
+      "translation": "el cuerno",
+      "example": "It had two big golden eyes, two small horns and a long nose."
     },
     {
       "word": "horrible",
@@ -17042,6 +17114,12 @@
       "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
     },
     {
+      "word": "market day",
+      "pos": "PHRASE",
+      "translation": "el día de mercado",
+      "example": "It was market day, and the square was full of people."
+    },
+    {
       "word": "Marking",
       "pos": "PROPN",
       "translation": "el Marcado (ceremonia que revela el elemento)",
@@ -17606,6 +17684,12 @@
       "example": "Within minutes, the remaining bandits had fled into the darkness."
     },
     {
+      "word": "Mira",
+      "pos": "PROPN",
+      "translation": "Mira (nombre)",
+      "example": "Mira is eleven years old."
+    },
+    {
       "word": "miracle",
       "pos": "NOUN",
       "translation": "el milagro",
@@ -18054,6 +18138,12 @@
       "pos": "PHRASE",
       "translation": "el desgarro muscular",
       "example": "A physiotherapist at the hospital told him it was a muscle tear, not serious, but that he could not run for at least three weeks."
+    },
+    {
+      "word": "mushroom",
+      "pos": "NOUN",
+      "translation": "la seta, el champiñón",
+      "example": "She looks for mushrooms and berries."
     },
     {
       "word": "music",
@@ -19247,6 +19337,12 @@
       "pos": "PHRASE",
       "translation": "uno por uno, uno a uno",
       "example": "Fire made the old spirals glow, one by one, like embers being blown on."
+    },
+    {
+      "word": "one last time",
+      "pos": "PHRASE",
+      "translation": "una última vez",
+      "example": "Ember came back to Mira one last time."
     },
     {
       "word": "one more round",
@@ -24540,6 +24636,12 @@
       "example": "The beds were set into alcoves between the roots, each with a woollen curtain and a little shelf, and the whole place smelled of earth and woodsmoke and fresh bread from the kitchens next door."
     },
     {
+      "word": "shell",
+      "pos": "NOUN",
+      "translation": "la cáscara",
+      "example": "A line appeared on the blue shell, then another line."
+    },
+    {
       "word": "shelter",
       "pos": "NOUN",
       "translation": "el refugio",
@@ -25681,6 +25783,12 @@
     },
     {
       "word": "snake",
+      "pos": "NOUN",
+      "translation": "la serpiente",
+      "example": "It was enormous, and its roots were as big as snakes."
+    },
+    {
+      "word": "snake",
       "pos": "VERB",
       "translation": "serpentear",
       "example": "A branch came snaking after him and caught the hem of his coat, and he tore free and kept going, and was swallowed up by the storm."
@@ -26146,6 +26254,12 @@
       "pos": "VERB",
       "translation": "hablar",
       "example": "Godfrey sat beside him, which was unusual, and for a while neither of them spoke."
+    },
+    {
+      "word": "spear",
+      "pos": "NOUN",
+      "translation": "la lanza",
+      "example": "Get your spears!"
     },
     {
       "word": "special",
@@ -27816,6 +27930,12 @@
       "example": "He took a breath and began to count."
     },
     {
+      "word": "take a long time",
+      "pos": "PHRASE",
+      "translation": "tardar mucho",
+      "example": "They put out the fire, but it took a long time."
+    },
+    {
       "word": "take back",
       "pos": "PHRASE",
       "translation": "recuperar, volver a quitar",
@@ -29009,6 +29129,12 @@
       "example": "You saw a convoy of merchants travelling at night to avoid the tolls."
     },
     {
+      "word": "Tom",
+      "pos": "PROPN",
+      "translation": "Tom (nombre)",
+      "example": "Tom, the baker's son, was there too."
+    },
+    {
       "word": "tomato",
       "pos": "NOUN",
       "translation": "el tomate",
@@ -29049,6 +29175,12 @@
       "pos": "ADV",
       "translation": "también",
       "example": "I have a cat too. — Yo también tengo un gato."
+    },
+    {
+      "word": "too late",
+      "pos": "PHRASE",
+      "translation": "demasiado tarde",
+      "example": "\"Before it's too late.\""
     },
     {
       "word": "tool",
@@ -31460,6 +31592,18 @@
       "pos": "VERB",
       "translation": "susurrar",
       "example": "\"Serve him well,\" his mother had whispered as he left."
+    },
+    {
+      "word": "Whisper",
+      "pos": "PROPN",
+      "translation": "Whisper (susurro; «Whisper Forest»: el Bosque de los Susurros)",
+      "example": "People call it the Whisper Forest, because the trees make a soft noise when the wind blows."
+    },
+    {
+      "word": "whisper forest",
+      "pos": "PHRASE",
+      "translation": "el Bosque de los Susurros",
+      "example": "People call it the Whisper Forest, because the trees make a soft noise when the wind blows."
     },
     {
       "word": "whispering",

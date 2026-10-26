@@ -140,6 +140,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "baker",
+      "pos": "PROPN",
+      "word": "baker",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "bareheaded",
       "pos": "VERB",
       "word": "bareheaded",
@@ -956,6 +962,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Forest",
+      "pos": "PROPN",
+      "word": "forest",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "forgets",
       "pos": "NOUN",
       "word": "forget",
@@ -1108,6 +1120,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Goodbye",
+      "pos": "PROPN",
+      "word": "goodbye",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Goodnight",
       "pos": "PROPN",
       "word": "goodnight",
@@ -1135,6 +1153,12 @@
       "text": "grandad",
       "pos": "X",
       "word": "grandad",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Grandmother",
+      "pos": "PROPN",
+      "word": "grandmother",
       "lemmaPos": "NOUN"
     },
     {
@@ -2044,6 +2068,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "OK",
+      "pos": "INTJ",
+      "word": "ok",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "OKORO",
       "pos": "PROPN",
       "word": "Okoro",
@@ -2564,6 +2594,12 @@
       "pos": "PROPN",
       "word": "satchel",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Saturdays",
+      "pos": "PROPN",
+      "word": "Saturday",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "save",
@@ -3118,6 +3154,13 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "thank",
+      "pos": "NOUN",
+      "next": "you",
+      "word": "thank",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Thanks",
       "pos": "NOUN",
       "word": "thanks",
@@ -3242,6 +3285,12 @@
       "pos": "PROPN",
       "word": "TV",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "twelve",
+      "pos": "ADJ",
+      "word": "twelve",
+      "lemmaPos": "NUM"
     },
     {
       "text": "twelve",
