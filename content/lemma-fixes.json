@@ -315,6 +315,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "BRIGADE",
+      "pos": "PROPN",
+      "word": "brigade",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "bristling",
       "pos": "NOUN",
       "word": "bristling",
@@ -467,6 +473,13 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "coughing",
+      "pos": "NOUN",
+      "next": ",",
+      "word": "cough",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "cramped",
       "pos": "VERB",
       "word": "cramped",
@@ -526,6 +539,13 @@
       "pos": "PROPN",
       "word": "damp",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "dancing",
+      "pos": "NOUN",
+      "next": "behind",
+      "word": "dance",
+      "lemmaPos": "VERB"
     },
     {
       "text": "Day",
@@ -616,6 +636,12 @@
       "pos": "NOUN",
       "word": "drystone",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "duvet",
+      "pos": "PROPN",
+      "word": "duvet",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "E.",
@@ -790,6 +816,13 @@
       "text": "flat",
       "pos": "ADJ",
       "next": ",",
+      "word": "flat",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "flat",
+      "pos": "ADJ",
+      "next": "?",
       "word": "flat",
       "lemmaPos": "NOUN"
     },
@@ -1135,6 +1168,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Home",
+      "pos": "PROPN",
+      "word": "home",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "hoodie",
       "pos": "PROPN",
       "word": "hoodie",
@@ -1413,6 +1452,13 @@
     {
       "text": "light",
       "pos": "ADJ",
+      "next": "dancing",
+      "word": "light",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "light",
+      "pos": "ADJ",
       "next": "wall",
       "word": "light",
       "lemmaPos": "NOUN"
@@ -1458,6 +1504,13 @@
       "pos": "PROPN",
       "word": "lost",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "low",
+      "pos": "NOUN",
+      "next": "where",
+      "word": "low",
+      "lemmaPos": "ADV"
     },
     {
       "text": "Lucky",
@@ -2083,6 +2136,13 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "right",
+      "pos": "NOUN",
+      "next": ".",
+      "word": "right",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "rings",
       "pos": "NOUN",
       "word": "ring",
@@ -2211,6 +2271,13 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "second",
+      "pos": "ADJ",
+      "next": ".",
+      "word": "second",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "set",
       "pos": "NOUN",
       "next": "low",
@@ -2253,6 +2320,13 @@
       "pos": "VERB",
       "word": "shine",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "shirt",
+      "pos": "NOUN",
+      "next": "up",
+      "word": "T-shirt",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "shiver",
@@ -2570,6 +2644,13 @@
       "pos": "PROPN",
       "word": "swing",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "T",
+      "pos": "NOUN",
+      "next": "-",
+      "word": "T-shirt",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "tachograph",

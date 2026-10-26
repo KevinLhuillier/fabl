@@ -318,6 +318,18 @@
       "example": "It's an act of faith in a future you'll very likely not attend."
     },
     {
+      "word": "action",
+      "pos": "NOUN",
+      "translation": "die Handlung, die Tat",
+      "example": "A reporter in a yellow jacket was standing in Ashley Road, in front of the blackened windows of the flats, saying that the fire brigade had praised the \"incredibly calm and professional\" actions of the unknown man and were asking him to come forward."
+    },
+    {
+      "word": "actual",
+      "pos": "ADJ",
+      "translation": "echt, tatsächlich (≠ „aktuell“)",
+      "example": "Actual superpowers."
+    },
+    {
       "word": "actually",
       "pos": "ADV",
       "translation": "tatsächlich, eigentlich",
@@ -597,6 +609,12 @@
       "pos": "PROPN",
       "translation": "Aldith (Vorname)",
       "example": "\"Warden Aldith Merrow,\" Jory whispered."
+    },
+    {
+      "word": "alert",
+      "pos": "ADJ",
+      "translation": "wachsam, aufmerksam",
+      "example": "Alert."
     },
     {
       "word": "alike",
@@ -1270,6 +1288,12 @@
       "example": "Inside lay a folded letter, its paper yellowed with age, and pressed flat between its pages was a single leaf — not oak, not ash, not any tree Rowan knew, but long and silvery and veined with the faintest trace of gold."
     },
     {
+      "word": "ashamed",
+      "pos": "ADJ",
+      "translation": "beschämt („feel ashamed“: sich schämen)",
+      "example": "For the first time in five years, he did not feel ashamed when he looked at it."
+    },
+    {
       "word": "Ashby",
       "pos": "PROPN",
       "translation": "Ashby (Nachname)",
@@ -1457,6 +1481,12 @@
       "pos": "PHRASE",
       "translation": "am Fuß von, unten an",
       "example": "Hearthside lay at the foot of the eastern slope, half sunk into the hill like a badger's sett, so that its windows looked out at the level of the grass."
+    },
+    {
+      "word": "at the same time",
+      "pos": "PHRASE",
+      "translation": "gleichzeitig",
+      "example": "A woman was trying to give him a bottle of water and take a selfie at the same time."
     },
     {
       "word": "Atholl",
@@ -2628,6 +2658,12 @@
       "example": "By the end, Edwin had not won a single fight, but for the first time he had managed to block every attack."
     },
     {
+      "word": "block of flats",
+      "pos": "PHRASE",
+      "translation": "der Wohnblock",
+      "example": "At the other end of Ashley Road, where the terraced houses gave way to a small block of flats, a column of thick grey smoke was rising into the evening sky."
+    },
+    {
       "word": "blocky",
       "pos": "ADJ",
       "translation": "klobig, eckig (Grafik: pixelig)",
@@ -3712,6 +3748,12 @@
       "pos": "VERB",
       "translation": "können",
       "example": "Can you help me? — Kannst du mir helfen?"
+    },
+    {
+      "word": "candidate",
+      "pos": "NOUN",
+      "translation": "der Bewerber, der Kandidat",
+      "example": "He remembered the fitness test five years earlier, the instructor looking at his watch, the other candidates pretending not to see him on the ground."
     },
     {
       "word": "candle",
@@ -5070,6 +5112,12 @@
       "example": "Light came down through the canopy in long, slanting columns, thick with drifting pollen."
     },
     {
+      "word": "come forward",
+      "pos": "PHRASE",
+      "translation": "sich melden",
+      "example": "A reporter in a yellow jacket was standing in Ashley Road, in front of the blackened windows of the flats, saying that the fire brigade had praised the \"incredibly calm and professional\" actions of the unknown man and were asking him to come forward."
+    },
+    {
       "word": "come in",
       "pos": "PHRASE",
       "translation": "hereinkommen",
@@ -5934,6 +5982,12 @@
       "example": "Leaving Hearthside after the tenth bell, crossing the ice, going into the Elderwood — Master Hale had listed their crimes in the Warden's study the following morning in a voice like a frost, and Tamsin, Jory and Ilse had been given a month of scrubbing pans in the kitchens."
     },
     {
+      "word": "critically",
+      "pos": "ADV",
+      "translation": "kritisch",
+      "example": "Lily looked at him critically."
+    },
+    {
       "word": "croak",
       "pos": "VERB",
       "translation": "krächzen",
@@ -6304,6 +6358,12 @@
       "pos": "ADV",
       "translation": "gefährlich",
       "example": "Not the table, or the hedge, because Bram had written show no one, and putting something on paper felt dangerously like showing it."
+    },
+    {
+      "word": "Danny",
+      "pos": "PROPN",
+      "translation": "Danny (Vorname)",
+      "example": "Somebody was screaming a name, over and over again: \"Danny! Danny!\""
     },
     {
       "word": "dare",
@@ -7192,6 +7252,12 @@
       "pos": "NOUN",
       "translation": "der Drache",
       "example": "Knights from every corner of the kingdom paraded through the crowd, their shields painted with lions, eagles and dragons."
+    },
+    {
+      "word": "drain",
+      "pos": "NOUN",
+      "translation": "der Abfluss",
+      "example": "Max took the longest shower of his life, watching the black water run down the drain."
     },
     {
       "word": "drain",
@@ -8446,6 +8512,12 @@
       "example": "Even with his extension, the figures did not so much add up as lean against one another precariously."
     },
     {
+      "word": "extension lead",
+      "pos": "PHRASE",
+      "translation": "das Verlängerungskabel, die Mehrfachsteckdose",
+      "example": "He unplugged two things from the extension lead, and his mum laughed and told him to sit down and eat before it got cold."
+    },
+    {
       "word": "extinguish",
       "pos": "VERB",
       "translation": "löschen, auslöschen",
@@ -9017,6 +9089,12 @@
     },
     {
       "word": "film",
+      "pos": "NOUN",
+      "translation": "der Film",
+      "example": "You could be a hero, like in films."
+    },
+    {
+      "word": "film",
       "pos": "VERB",
       "translation": "filmen",
       "example": "He filmed his hand with his phone and compared it with the diagram, frame by frame, the way he used to study combos in fighting games."
@@ -9110,6 +9188,12 @@
       "pos": "PROPN",
       "translation": "das Feuer (Element)",
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
+    },
+    {
+      "word": "fire brigade",
+      "pos": "PHRASE",
+      "translation": "die Feuerwehr",
+      "example": "Someone said the fire brigade had been called and were on their way."
     },
     {
       "word": "fire engine",
@@ -9622,6 +9706,18 @@
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
     },
     {
+      "word": "for a long time",
+      "pos": "PHRASE",
+      "translation": "lange",
+      "example": "Max looked at it for a long time."
+    },
+    {
+      "word": "for a second",
+      "pos": "PHRASE",
+      "translation": "einen Moment lang, kurz",
+      "example": "He turned and held her by the shoulders for a second."
+    },
+    {
       "word": "for a while",
       "pos": "PHRASE",
       "translation": "eine Weile",
@@ -9938,6 +10034,12 @@
       "pos": "NOUN",
       "translation": "die Offenheit",
       "example": "He shrugged, and she studied him for a moment with the frankness that had once made her so unsettling a pupil."
+    },
+    {
+      "word": "frantic",
+      "pos": "ADJ",
+      "translation": "hektisch, verzweifelt",
+      "example": "Behind her, Lily was making frantic faces at him."
     },
     {
       "word": "fray",
@@ -10833,6 +10935,12 @@
       "example": "As the sun went down, Edwin remembered Godfrey's lesson."
     },
     {
+      "word": "go in",
+      "pos": "PHRASE",
+      "translation": "hineingehen",
+      "example": "He pulled his T-shirt up over his nose and mouth and went in through the main door."
+    },
+    {
       "word": "go mad",
       "pos": "PHRASE",
       "translation": "verrückt werden, verrückt spielen",
@@ -11259,6 +11367,12 @@
       "example": "\"I thought you had retired to grow cabbages.\""
     },
     {
+      "word": "grow a second head",
+      "pos": "PHRASE",
+      "translation": "„as if he had grown a second head“: als wäre ihm ein zweiter Kopf gewachsen, wie einen Außerirdischen",
+      "example": "Carol looked at him as if he had grown a second head."
+    },
+    {
       "word": "grow up",
       "pos": "PHRASE",
       "translation": "aufwachsen",
@@ -11472,6 +11586,12 @@
       "pos": "ADV",
       "translation": "auf halbem Weg, mittendrin",
       "example": "Halfway through, Bram put down his spoon."
+    },
+    {
+      "word": "halfway through",
+      "pos": "PHRASE",
+      "translation": "mittendrin, auf halbem Weg",
+      "example": "Lily fell asleep on his floor halfway through, wrapped in his dressing gown."
     },
     {
       "word": "hall",
@@ -12020,6 +12140,12 @@
       "example": "He helped Isla out first, then Alasdair, half carrying each of them in turn through the knee-deep snow towards the towering, rumbling bulk of the Duchess."
     },
     {
+      "word": "helping",
+      "pos": "NOUN",
+      "translation": "die Portion",
+      "example": "He ate three helpings."
+    },
+    {
       "word": "hem",
       "pos": "NOUN",
       "translation": "der Saum",
@@ -12062,6 +12188,12 @@
       "example": "\"Not even a hero.\""
     },
     {
+      "word": "Hero",
+      "pos": "PROPN",
+      "translation": "Hero („the Harehills Hero“: der Held von Harehills, Spitzname)",
+      "example": "The internet was calling him the Harehills Hero."
+    },
+    {
       "word": "heron",
       "pos": "NOUN",
       "translation": "der Reiher",
@@ -12090,6 +12222,12 @@
       "pos": "INTJ",
       "translation": "hey, he",
       "example": "\"Hey, Picasso,\" he said, and before Adam could react, the sketchbook was in his hands."
+    },
+    {
+      "word": "hi",
+      "pos": "INTJ",
+      "translation": "hallo, hi",
+      "example": "\"Hi, Danny,\" he said."
     },
     {
       "word": "hidden",
@@ -12204,6 +12342,12 @@
       "pos": "PHRASE",
       "translation": "zurückschlagen",
       "example": "He saw it coming before it crossed the net, took two small steps and hit it back so hard and so low that it touched the line and flew into the hedge."
+    },
+    {
+      "word": "hit by a bus",
+      "pos": "PHRASE",
+      "translation": "von einem Bus überfahren („feel like I've been hit by a bus“: sich wie gerädert fühlen)",
+      "example": "And afterwards I feel like I've been hit by a bus."
     },
     {
       "word": "hitch",
@@ -12764,6 +12908,12 @@
       "example": "He achieved it by a combination of brute force, improvised engineering and outrageous flattery, and when at last both of them were installed — Isla on the bunk behind the seats, cocooned in his sleeping bag, Alasdair in the passenger seat with the heater roaring at his feet — he discovered that his hands were shaking and that he was, for no reason he could identify, on the verge of laughter."
     },
     {
+      "word": "idiot",
+      "pos": "NOUN",
+      "translation": "der Idiot",
+      "example": "Not like those idiots in your games."
+    },
+    {
       "word": "if",
       "pos": "SCONJ",
       "translation": "wenn, ob",
@@ -13011,6 +13161,12 @@
       "pos": "PHRASE",
       "translation": "glatt in Sätzen (ohne Satzgewinn des Verlierers)",
       "example": "He lost the match in straight sets, six-one, six-two, six-love."
+    },
+    {
+      "word": "in the distance",
+      "pos": "PHRASE",
+      "translation": "in der Ferne",
+      "example": "In the distance, he heard the sirens at last, coming closer, and saw the blue lights turning the corner at the end of the road."
     },
     {
       "word": "in the end",
@@ -13510,6 +13666,12 @@
       "example": "It is Saturday. — Es ist Samstag."
     },
     {
+      "word": "itch",
+      "pos": "NOUN",
+      "translation": "das Jucken; der Drang („an itch to run“: ein Drang zu rennen)",
+      "example": "With the other games, he had felt a kind of hunger in his muscles, an itch to run or kick or hit."
+    },
+    {
       "word": "its",
       "pos": "PRON",
       "translation": "sein, ihr (einer Sache oder eines Tieres)",
@@ -13970,6 +14132,12 @@
       "pos": "NOUN",
       "translation": "der Knöchel (Finger)",
       "example": "They looked exactly as they always had: scratched, calloused, a splinter-scar across one knuckle."
+    },
+    {
+      "word": "Kowalski",
+      "pos": "PROPN",
+      "translation": "Kowalski (Nachname)",
+      "example": "You played a firefighter called Kowalski, a broad, patient woman with a grey moustache of soot across her face, and your job was not to win but to save people."
     },
     {
       "word": "la",
@@ -15279,6 +15447,12 @@
       "example": "During philosophy, while Madame Ferrand talked about freedom and responsibility, he kept rubbing his thumb against his middle finger under the desk, tracing tiny half-circles in the air."
     },
     {
+      "word": "made of",
+      "pos": "PHRASE",
+      "translation": "aus … (gemacht)",
+      "example": "A woman made of pixels with a grey moustache of soot."
+    },
+    {
       "word": "magic",
       "pos": "ADJ",
       "translation": "magisch, Zauber-",
@@ -15732,6 +15906,12 @@
       "pos": "VERB",
       "translation": "schmelzen",
       "example": "A boy from the western coast made the frost on the floor melt and run together into a single long silver serpent of water, which wound three times around his feet and then, at a flick of his fingers, froze solid again with a sound like breaking glass."
+    },
+    {
+      "word": "melted",
+      "pos": "ADJ",
+      "translation": "geschmolzen",
+      "example": "His eyes were burning so badly that he could hardly see, and every breath tasted of melted plastic."
     },
     {
       "word": "member",
@@ -16628,6 +16808,12 @@
       "example": "That was the first rule of the Ashby household, and very nearly the only one Bram had ever bothered to say out loud."
     },
     {
+      "word": "nearly there",
+      "pos": "PHRASE",
+      "translation": "gleich geschafft, fast da",
+      "example": "Max heard himself saying the same words again and again, words that came from the game: \"Nearly there. Stay with me. Nearly there.\""
+    },
+    {
       "word": "neat",
       "pos": "ADJ",
       "translation": "ordentlich, sauber",
@@ -16926,6 +17112,12 @@
       "pos": "PHRASE",
       "translation": "nicht mehr",
       "example": "He realised that he was no longer afraid of fighting."
+    },
+    {
+      "word": "no point in",
+      "pos": "PHRASE",
+      "translation": "keinen Sinn haben („there was no point in lying“: es hatte keinen Sinn zu lügen)",
+      "example": "Max told her everything, because there was no point in lying to Lily."
     },
     {
       "word": "no use",
@@ -17875,6 +18067,12 @@
       "example": "It burst — split from end to end along its grain with a crack like a frozen bough giving way, and then split again, and again, into a hundred pale splinters that sprayed outward through the air like a handful of thrown needles."
     },
     {
+      "word": "oven",
+      "pos": "NOUN",
+      "translation": "der Backofen, der Ofen",
+      "example": "On the third floor, the heat hit him like an open oven."
+    },
+    {
       "word": "over",
       "pos": "ADP",
       "translation": "über",
@@ -17891,6 +18089,12 @@
       "pos": "PHRASE",
       "translation": "immer wieder",
       "example": "Outside, a wood pigeon was calling the same three notes over and over, as if it had forgotten the rest of the song."
+    },
+    {
+      "word": "over and over again",
+      "pos": "PHRASE",
+      "translation": "immer und immer wieder",
+      "example": "Somebody was screaming a name, over and over again: \"Danny! Danny!\""
     },
     {
       "word": "over the course of",
@@ -18349,6 +18553,12 @@
       "example": "The trees grew taller and further apart; the road widened and was paved, here and there, with great worn slabs of stone that Gethin said had been laid in the time of the Wood-wardens and never once repaired."
     },
     {
+      "word": "pavement",
+      "pos": "NOUN",
+      "translation": "der Bürgersteig, der Gehweg",
+      "example": "Max sat down heavily on the pavement and coughed until he thought his lungs would come out."
+    },
+    {
       "word": "paw",
       "pos": "NOUN",
       "translation": "die Pfote",
@@ -18751,6 +18961,12 @@
       "example": "The pivot is frozen."
     },
     {
+      "word": "pixel",
+      "pos": "NOUN",
+      "translation": "das Pixel",
+      "example": "A woman made of pixels with a grey moustache of soot."
+    },
+    {
       "word": "place",
       "pos": "NOUN",
       "translation": "der Ort, der Platz",
@@ -18827,6 +19043,12 @@
       "pos": "ADJ",
       "translation": "aus Plastik",
       "example": "He did not know that, in four days, everything was going to change because of fifteen pounds and a grey plastic box."
+    },
+    {
+      "word": "plastic",
+      "pos": "NOUN",
+      "translation": "das Plastik, der Kunststoff",
+      "example": "His eyes were burning so badly that he could hardly see, and every breath tasted of melted plastic."
     },
     {
       "word": "plate",
@@ -18923,6 +19145,12 @@
       "pos": "ADJ",
       "translation": "gezupft (Saite)",
       "example": "Shaking so violently that it thrummed in the air like a plucked string, its forked tip swinging wildly, wildly from side to side, unable to settle — as though whatever it was following were everywhere at once, in the ice and the snow and the roots and the dark trees all around."
+    },
+    {
+      "word": "plug",
+      "pos": "NOUN",
+      "translation": "der Stecker",
+      "example": "When he walked downstairs, he noticed things he had never noticed before: that the smoke alarm in the hallway had no battery, that the kitchen extension lead had too many plugs in it, that the back door was the only easy way out."
     },
     {
       "word": "plug",
@@ -19241,6 +19469,12 @@
       "pos": "NOUN",
       "translation": "das Lob",
       "example": "\"Clean,\" Bram said, which from him was high praise — for the tree, not for himself."
+    },
+    {
+      "word": "praise",
+      "pos": "VERB",
+      "translation": "loben",
+      "example": "A reporter in a yellow jacket was standing in Ashley Road, in front of the blackened windows of the flats, saying that the fire brigade had praised the \"incredibly calm and professional\" actions of the unknown man and were asking him to come forward."
     },
     {
       "word": "pray",
@@ -19769,6 +20003,12 @@
       "pos": "PHRASE",
       "translation": "hinlegen, ablegen",
       "example": "Halfway through, Bram put down his spoon."
+    },
+    {
+      "word": "put her finger to her lips",
+      "pos": "PHRASE",
+      "translation": "den Finger auf die Lippen legen (um Schweigen zu bitten)",
+      "example": "Behind his mother's back, Lily put her finger to her lips."
     },
     {
       "word": "put in",
@@ -20578,6 +20818,12 @@
       "pos": "VERB",
       "translation": "sich melden (bei), berichten",
       "example": "\"From tomorrow, during Foundations, you will report to the glasshouses on the western terrace."
+    },
+    {
+      "word": "reporter",
+      "pos": "NOUN",
+      "translation": "der Reporter",
+      "example": "Behind the reporter, Max could see his own front door."
     },
     {
       "word": "reproach",
@@ -21672,6 +21918,12 @@
       "example": "She held out her phone so that he could see the Traffic Scotland page, on which the A9 north of Perth was marked with a scattering of ominous yellow triangles."
     },
     {
+      "word": "scene",
+      "pos": "NOUN",
+      "translation": "die Szene, der Einsatzort",
+      "example": "He moved quickly but steadily, the way Kowalski moved, reading the scene as he went."
+    },
+    {
       "word": "scent",
       "pos": "NOUN",
       "translation": "die Fährte, der Geruch",
@@ -22006,6 +22258,12 @@
       "pos": "VERB",
       "translation": "ergreifen, packen",
       "example": "\"Have you seen it?\" She seized his sleeve."
+    },
+    {
+      "word": "selfie",
+      "pos": "NOUN",
+      "translation": "das Selfie",
+      "example": "A woman was trying to give him a bottle of water and take a selfie at the same time."
     },
     {
       "word": "sell",
@@ -22434,6 +22692,12 @@
       "example": "Little Fenwick was a village of farmers and shepherds, less than an hour away, with no walls and no soldiers to protect it."
     },
     {
+      "word": "shepherd 's pie",
+      "pos": "PHRASE",
+      "translation": "der Hackfleischauflauf mit Kartoffelpüree (Shepherd's Pie)",
+      "example": "He slept most of the next day and woke at five in the afternoon to the smell of his mum's shepherd's pie."
+    },
+    {
       "word": "sherry",
       "pos": "NOUN",
       "translation": "der Sherry",
@@ -22651,6 +22915,12 @@
     },
     {
       "word": "shout",
+      "pos": "NOUN",
+      "translation": "der Schrei, der Ruf",
+      "example": "They were clearing the plates when they heard the first shout from the street."
+    },
+    {
+      "word": "shout",
       "pos": "VERB",
       "translation": "schreien, rufen",
       "example": "Edwin jumped over the wooden barrier and ran towards him, ignoring the guards who were shouting at him to stop."
@@ -22678,6 +22948,12 @@
       "pos": "PHRASE",
       "translation": "durchscheinen",
       "example": "Four colossal trees grew from the corners of the hall, and their branches met and wove together overhead in a vault so dense that only the faintest glimmer of evening sky showed through."
+    },
+    {
+      "word": "shower",
+      "pos": "NOUN",
+      "translation": "die Dusche",
+      "example": "Max took the longest shower of his life, watching the black water run down the drain."
     },
     {
       "word": "shriek",
@@ -22950,6 +23226,12 @@
       "example": "Since when do bandits have silver?"
     },
     {
+      "word": "since when",
+      "pos": "PHRASE",
+      "translation": "seit wann",
+      "example": "\"Since when do you care about the smoke alarm?\" she asked."
+    },
+    {
       "word": "sing",
       "pos": "VERB",
       "translation": "singen",
@@ -22990,6 +23272,12 @@
       "pos": "PROPN",
       "translation": "Sir (Rittertitel)",
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "siren",
+      "pos": "NOUN",
+      "translation": "die Sirene",
+      "example": "In the distance, he heard the sirens at last, coming closer, and saw the blue lights turning the corner at the end of the road."
     },
     {
       "word": "sister",
@@ -23466,6 +23754,12 @@
       "example": "Around it, half a dozen figures in dark cloaks were sitting or standing, talking in low voices, their breath smoking in the cold."
     },
     {
+      "word": "smoke alarm",
+      "pos": "PHRASE",
+      "translation": "der Rauchmelder",
+      "example": "\"Mum,\" he said, \"we need a new battery for the smoke alarm.\""
+    },
+    {
       "word": "smooth",
       "pos": "ADJ",
       "translation": "glatt",
@@ -23776,6 +24070,12 @@
       "pos": "ADV",
       "translation": "bald",
       "example": "As soon as their eyes met, the squire turned and disappeared into the crowd."
+    },
+    {
+      "word": "soot",
+      "pos": "NOUN",
+      "translation": "der Ruß",
+      "example": "A woman made of pixels with a grey moustache of soot."
     },
     {
       "word": "soothing",
@@ -25152,6 +25452,12 @@
       "example": "She drove for a supermarket chain now, chilled goods out of a depot near Wakefield, and was on her way to a distribution centre outside Inverness."
     },
     {
+      "word": "superpower",
+      "pos": "NOUN",
+      "translation": "die Superkraft",
+      "example": "You've got superpowers."
+    },
+    {
       "word": "supervisor",
       "pos": "NOUN",
       "translation": "die Aufsicht, der Aufseher",
@@ -25204,6 +25510,12 @@
       "pos": "NOUN",
       "translation": "die Überraschung",
       "example": "Then, to everyone's surprise, he began to cry."
+    },
+    {
+      "word": "surprise",
+      "pos": "VERB",
+      "translation": "überraschen",
+      "example": "His own voice surprised him."
     },
     {
       "word": "surprised",
@@ -25398,6 +25710,12 @@
       "example": "\"It isn't in the system at all."
     },
     {
+      "word": "T-shirt",
+      "pos": "NOUN",
+      "translation": "das T-Shirt",
+      "example": "He pulled his T-shirt up over his nose and mouth and went in through the main door."
+    },
+    {
       "word": "table",
       "pos": "NOUN",
       "translation": "der Tisch",
@@ -25444,6 +25762,12 @@
       "pos": "PHRASE",
       "translation": "Luft holen, tief einatmen",
       "example": "He took a breath and began to count."
+    },
+    {
+      "word": "take back",
+      "pos": "PHRASE",
+      "translation": "zurücknehmen, wieder an sich nehmen",
+      "example": "\"No,\" said Max, taking it back."
     },
     {
       "word": "take care of",
@@ -25773,6 +26097,12 @@
       "pos": "ADJ",
       "translation": "Reihen- („terraced house“: das Reihenhaus)",
       "example": "The Turners lived in a narrow terraced house at the end of Ashley Road, with a tiny yard at the back and a front door that stuck in wet weather."
+    },
+    {
+      "word": "terraced house",
+      "pos": "PHRASE",
+      "translation": "das Reihenhaus",
+      "example": "At the other end of Ashley Road, where the terraced houses gave way to a small block of flats, a column of thick grey smoke was rising into the evening sky."
     },
     {
       "word": "terrible",
@@ -26501,6 +26831,12 @@
       "example": "Then, to be fair, she knocked anyway, because she had a parcel for Mrs Bell."
     },
     {
+      "word": "to one side",
+      "pos": "PHRASE",
+      "translation": "seitlich, zur Seite",
+      "example": "He unlocked the door and pushed it open slowly, staying to one side, and a wave of smoke rolled out over his head."
+    },
+    {
       "word": "to the bone",
       "pos": "PHRASE",
       "translation": "bis auf die Knochen („wet to the bone“: nass bis auf die Knochen)",
@@ -26957,6 +27293,12 @@
       "example": "He had thought he would feel something — anger, or triumph, or pity."
     },
     {
+      "word": "trophy",
+      "pos": "NOUN",
+      "translation": "die Trophäe",
+      "example": "When she reached BLAZE BRIGADE, she held it up like a trophy."
+    },
+    {
       "word": "trouble",
       "pos": "NOUN",
       "translation": "das Problem; die Mühe („worth the trouble“: die Mühe wert)",
@@ -27141,6 +27483,12 @@
       "pos": "PHRASE",
       "translation": "sich umdrehen, sich überschlagen",
       "example": "Then, at the end of Rowan's bench, Ilse Fenwick lifted one finger, and her feather rose from the desk, turned over twice in the air, and settled again as gently as a falling leaf."
+    },
+    {
+      "word": "turn round",
+      "pos": "PHRASE",
+      "translation": "sich umdrehen",
+      "example": "\"Six years old,\" his mum said, without turning round."
     },
     {
       "word": "turn up",
@@ -27491,6 +27839,12 @@
       "example": "She wanted a unicorn."
     },
     {
+      "word": "uniform",
+      "pos": "NOUN",
+      "translation": "die Uniform, die Dienstkleidung",
+      "example": "In the street below, a woman in a nurse's uniform was being held back by two neighbours."
+    },
+    {
       "word": "unimpressed",
       "pos": "ADJ",
       "translation": "unbeeindruckt",
@@ -27527,6 +27881,12 @@
       "example": "After a while, some of the first-years began to do it too, and they did not always sound as though they meant it unkindly, which was somehow worse."
     },
     {
+      "word": "unknown",
+      "pos": "ADJ",
+      "translation": "unbekannt",
+      "example": "A reporter in a yellow jacket was standing in Ashley Road, in front of the blackened windows of the flats, saying that the fire brigade had praised the \"incredibly calm and professional\" actions of the unknown man and were asking him to come forward."
+    },
+    {
       "word": "unless",
       "pos": "SCONJ",
       "translation": "es sei denn, außer wenn",
@@ -27551,6 +27911,12 @@
       "example": "Bram had drawn the cart up beside the cooper's yard to unload, and a pedlar Rowan didn't recognise — a stooped, sharp-eyed woman with a tray of tin pots and needles slung from her neck — had sidled up to him and was talking in a low, urgent voice."
     },
     {
+      "word": "unlock",
+      "pos": "VERB",
+      "translation": "aufschließen",
+      "example": "He unlocked the door and pushed it open slowly, staying to one side, and a wave of smoke rolled out over his head."
+    },
+    {
       "word": "unmarked",
       "pos": "ADJ",
       "translation": "ungezeichnet ; (hier) ohne Element",
@@ -27561,6 +27927,12 @@
       "pos": "ADJ",
       "translation": "unangenehm",
       "example": "The noise died away to a murmur, and then to an expectant, unpleasant hush."
+    },
+    {
+      "word": "unplug",
+      "pos": "VERB",
+      "translation": "ausstecken, den Stecker ziehen",
+      "example": "He unplugged two things from the extension lead, and his mum laughed and told him to sit down and eat before it got cold."
     },
     {
       "word": "unreadable",
@@ -28198,6 +28570,12 @@
       "example": "By order of the Wardens of Thornhall Academy, the Marking of all children of Brackenford and the surrounding villages who have attained their fourteenth year shall take place at the Standing Stone of Brackenford on the first morning of Leaf-Fall."
     },
     {
+      "word": "wardrobe",
+      "pos": "NOUN",
+      "translation": "der Kleiderschrank",
+      "example": "In the game, Kowalski always said that frightened children hid in the same places: under beds, in wardrobes, behind curtains."
+    },
+    {
       "word": "warehouse",
       "pos": "NOUN",
       "translation": "das Lagerhaus",
@@ -28378,6 +28756,12 @@
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
     },
     {
+      "word": "way out",
+      "pos": "PHRASE",
+      "translation": "der Ausgang, der Ausweg",
+      "example": "When he walked downstairs, he noticed things he had never noticed before: that the smoke alarm in the hallway had no battery, that the kitchen extension lead had too many plugs in it, that the back door was the only easy way out."
+    },
+    {
       "word": "waystation",
       "pos": "NOUN",
       "translation": "die Raststation",
@@ -28412,6 +28796,12 @@
       "pos": "PHRASE",
       "translation": "zermürben, abtragen",
       "example": "His face was grey with cold, and there was frost in his beard, and he looked older than Rowan had ever seen him — older, and smaller, somehow, as though the long road had worn him down the way a river wears down a stone."
+    },
+    {
+      "word": "wear off",
+      "pos": "PHRASE",
+      "translation": "nachlassen, abklingen",
+      "example": "They wear off."
     },
     {
       "word": "weather",
@@ -28580,6 +28970,12 @@
       "pos": "ADJ",
       "translation": "nass, feucht",
       "example": "The air smelled of wet leaves, bread and something else, something wild."
+    },
+    {
+      "word": "wet",
+      "pos": "VERB",
+      "translation": "nass machen, befeuchten",
+      "example": "Max wrapped him and the cat in the duvet from the bed, wet it quickly with water from a glass on the bedside table, and pressed a damp corner of it over the boy's mouth."
     },
     {
       "word": "Wetherby",
@@ -29072,6 +29468,12 @@
       "pos": "ADP",
       "translation": "ohne",
       "example": "Without proof, I cannot punish a knight of the realm."
+    },
+    {
+      "word": "without a word",
+      "pos": "PHRASE",
+      "translation": "ohne ein Wort",
+      "example": "She threw her arms around him without a word."
     },
     {
       "word": "without fail",

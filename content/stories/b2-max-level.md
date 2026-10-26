@@ -223,3 +223,76 @@ It did, a little. Max had felt it on the court, a small cold feeling under the w
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_3.page_11-1792946841294.mp3
 That night, Max lay in bed with every muscle in his body screaming. He had eaten two plates of pasta and a whole tub of ice cream, and he was still hungry. On his bedside table, the Halcyon sat quietly in the dark, and he could almost feel it waiting for him. He thought about what Priya had said. The real you. But what was the real Max, exactly? A tired man who missed buses and pushed cages around a warehouse at night? Why would anyone want to stay that?
 He was almost asleep when he heard his door open. He sat up. Lily was standing in the doorway in her pyjamas, holding her phone up so that its light fell on his face. On the screen was a video, a little shaky, filmed from behind a hedge. It showed a man in football shorts returning a tennis serve into the far corner of a court. "So," said his sister, and her voice was very calm, "are you going to tell me what's going on, or do I have to ask Priya?"
+
+# Side Quest
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_4.page_1-1792990420218.mp3
+Max told her everything, because there was no point in lying to Lily. There never had been. She sat cross-legged at the end of his bed and listened with her eyes getting wider and wider, and when he had finished, she did not say "you're mad" or "you need to see a doctor". She said, very slowly, "That is the best thing that has ever happened to this family." Then she picked up the Halcyon, turned it over in her hands and whispered, "Can I try?"
+"No," said Max, taking it back. "Absolutely not. We don't know what it does to people. Look at me. I can hardly walk." Lily looked at him critically. "You can hardly walk anyway," she pointed out. But she did not insist. She was more interested in what he could do. "You know what this means," she said, lowering her voice as if the cat might be listening. "You've got superpowers. Actual superpowers. You could be a hero, like in films. You could fight crime."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_4.page_2-1792990433578.mp3
+"I work nights in a supermarket warehouse," said Max. "I'm not fighting anybody. And they're not superpowers. They're more like... borrowed skills. They wear off. And afterwards I feel like I've been hit by a bus." Lily was not listening. She was already looking through the box of cartridges, reading the names aloud. When she reached BLAZE BRIGADE, she held it up like a trophy. "Firefighters," she said. "You always wanted to be a firefighter. Play this one. Please. Just for fun."
+Max looked at the cartridge with its little drawing of a fire engine. He remembered the fitness test five years earlier, the instructor looking at his watch, the other candidates pretending not to see him on the ground. He remembered the letter pinned above his desk. "Just for fun," he repeated. Lily nodded hard. It was nearly two in the morning, he had no shift the next day, and Priya was not there to stop him. He pushed the cartridge into the slot.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_4.page_3-1792990448035.mp3
+BLAZE BRIGADE was not like the other games. It was slower, more careful. You played a firefighter called Kowalski, a broad, patient woman with a grey moustache of soot across her face, and your job was not to win but to save people. You had to read the smoke, feel doors before you opened them, crawl low where the air was cleaner, and find the people who were too frightened to call out. Max played until dawn. Lily fell asleep on his floor halfway through, wrapped in his dressing gown.
+He slept most of the next day and woke at five in the afternoon to the smell of his mum's shepherd's pie. Something felt different this time. With the other games, he had felt a kind of hunger in his muscles, an itch to run or kick or hit. Now he felt calm. Alert. When he walked downstairs, he noticed things he had never noticed before: that the smoke alarm in the hallway had no battery, that the kitchen extension lead had too many plugs in it, that the back door was the only easy way out.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_4.page_4-1792990460201.mp3
+"Mum," he said, "we need a new battery for the smoke alarm." Carol looked at him as if he had grown a second head. "Since when do you care about the smoke alarm?" she asked. Behind her, Lily was making frantic faces at him. "Since now," said Max. He unplugged two things from the extension lead, and his mum laughed and told him to sit down and eat before it got cold. He ate three helpings. Lily kicked him under the table and mouthed the word: Kowalski.
+They were clearing the plates when they heard the first shout from the street. Then another, louder, and the sound of running feet. Max went to the front window. At the other end of Ashley Road, where the terraced houses gave way to a small block of flats, a column of thick grey smoke was rising into the evening sky. People were coming out of their houses, phones in their hands. Somebody was screaming a name, over and over again: "Danny! Danny!"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_4.page_5-1792990471870.mp3
+Max was out of the door before he had decided to go. He heard his mother shout his name behind him, and Lily's footsteps following. He did not run wildly. He moved quickly but steadily, the way Kowalski moved, reading the scene as he went. The smoke was coming from a window on the third floor, the top floor, on the right-hand side. It was grey, not black. That meant there was still time. In the street below, a woman in a nurse's uniform was being held back by two neighbours.
+"My son," she was saying, "my son's in there, he's six, he was asleep, I only went to the shop, I only went for five minutes." Her voice broke. Someone said the fire brigade had been called and were on their way. Someone else said the stairs were full of smoke and nobody could get up. Max looked up at the window. Behind the smoke, he could just see a small pale shape pressed against the glass. A face. Then it disappeared.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_4.page_6-1792990484593.mp3
+"Which flat?" Max asked the woman. His own voice surprised him. It was low and steady, the voice of someone who had done this many times. "Number nine," she said. "Top floor. The door's locked, I've got the key." She held it out with a shaking hand. Max took it. He heard Lily say his name behind him, frightened now, the excitement gone. He turned and held her by the shoulders for a second. "Stay here," he said. "Don't follow me. I know what I'm doing. I promise."
+It was not completely true. Max did not know what he was doing. But Kowalski did, and Kowalski was in his hands and his eyes and his breathing. He pulled his T-shirt up over his nose and mouth and went in through the main door. The stairwell was full of smoke, but it was thinner near the floor, just as the game had taught him. He dropped onto his hands and knees and began to climb the stairs that way, one step at a time, keeping his face low and counting the floors.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_4.page_7-1792990499889.mp3
+On the third floor, the heat hit him like an open oven. The door of number nine was on the right. Before touching the handle, he pressed the back of his hand against the door itself, high and then low. Warm, but not burning. The fire was not right behind it. He unlocked the door and pushed it open slowly, staying to one side, and a wave of smoke rolled out over his head. Inside, he could hear something: a thin, high sound. A cat, crying. And under it, a child coughing.
+The fire was in the kitchen, at the end of the hallway. Max could see orange light dancing behind the open door, and hear the crackle of something burning. He did not go towards it. Kowalski never fought a fire she could not put out; she looked for people. He crawled along the hallway, calling "Danny! Danny, where are you?" in a voice that did not sound like his own. Nobody answered. In the game, Kowalski always said that frightened children hid in the same places: under beds, in wardrobes, behind curtains.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_4.page_8-1792990513342.mp3
+He found him in the bedroom, under the bed, curled around a ginger cat that was scratching and crying. The boy's eyes were red and streaming, and he was too frightened to move. Max did not try to pull him out. He lay down flat on the floor beside the bed, so that his face was at the same level as Danny's, and he smiled. "Hi, Danny," he said. "I'm Max. Your mum sent me. She says you're very brave. Shall we go and find her? You can bring the cat."
+Danny crawled out. Max wrapped him and the cat in the duvet from the bed, wet it quickly with water from a glass on the bedside table, and pressed a damp corner of it over the boy's mouth. Then he picked him up and held him close against his chest. The hallway was darker now, the smoke thicker and lower. Max knew he could not carry the boy down the stairs on his hands and knees. He would have to walk, and walk fast, with his head down, and hope.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_4.page_9-1792990525760.mp3
+The stairs were the worst part. His eyes were burning so badly that he could hardly see, and every breath tasted of melted plastic. His legs, his real, weak, unfit legs, began to shake on the second floor. On the first floor, he stumbled and nearly fell, and Danny cried out. Max heard himself saying the same words again and again, words that came from the game: "Nearly there. Stay with me. Nearly there." He did not know if he was saying them to Danny or to himself.
+Then the main door was in front of him, and the cold evening air, and a noise like a wave breaking. The whole street was cheering. Danny's mother ran forward and took her son from his arms, duvet, cat and all, and held him so tightly that he complained. Max sat down heavily on the pavement and coughed until he thought his lungs would come out. In the distance, he heard the sirens at last, coming closer, and saw the blue lights turning the corner at the end of the road.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_4.page_10-1792990539222.mp3
+Suddenly he did not want to be there. There were too many faces, too many phones pointed at him. A man was asking his name. A woman was trying to give him a bottle of water and take a selfie at the same time. Max got up, pulled his hood over his head and pushed through the crowd until he found Lily, white-faced, standing exactly where he had told her to stay. She threw her arms around him without a word. "Home," he said into her hair. "Now. Before the fire brigade want to talk to me."
+They went in through the back door, through the yard, so that their mother would not see them. Max took the longest shower of his life, watching the black water run down the drain. When he came out, his whole body was shaking, and he was so hungry that he felt sick. He went straight to bed. He did not see Lily sitting on the stairs outside his room, looking at her phone, where a forty-second video she had filmed from the crowd had already been shared four thousand times.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_4.page_11-1792990552345.mp3
+By the next morning, it had been shared four hundred thousand times. The video was dark and shaky, and Max's face was hidden by smoke and his hood, but it showed everything that mattered: a man in a grey hoodie coming out of a smoking building with a small boy wrapped in a duvet, sitting down on the pavement, coughing, and then disappearing into the crowd. Somebody had put music over it. Somebody else had given him a name. The internet was calling him the Harehills Hero.
+Max found out at lunchtime, when he came downstairs and saw his own back on the television. His mum was standing in front of it with her hand over her mouth. A reporter in a yellow jacket was standing in Ashley Road, in front of the blackened windows of the flats, saying that the fire brigade had praised the "incredibly calm and professional" actions of the unknown man and were asking him to come forward. Behind the reporter, Max could see his own front door.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_4.page_12-1792990572726.mp3
+"Six years old," his mum said, without turning round. "Six years old, and the stairs full of smoke. Whoever that man is, he's a real hero. Not like those idiots in your games." She wiped her eyes with a tea towel. Max stood very still in the doorway. Behind his mother's back, Lily put her finger to her lips. For a second, Max wanted to say it, to tell his mum that the idiot in the games and the hero on the television were the same person. But he did not know how.
+His phone was full of messages. Most were from Priya, and they became shorter and angrier as the morning went on. The last one said simply: Is that YOU? Max looked at it for a long time. Then he went back upstairs and stood in front of the shelf above his desk, where the old firefighter application was still pinned. For the first time in five years, he did not feel ashamed when he looked at it. He felt something else, something he could not name.
+Then the doubt came. He had not saved Danny. Kowalski had. A woman made of pixels with a grey moustache of soot. Without the game, he would have stood in the street with everyone else, holding his phone, waiting for the sirens. He sat down on the bed and looked at the Halcyon. The grey box sat silently on the floor, with its cracked lid and its little metal plate, and for the first time Max wondered whether it was giving him something, or taking something away.
