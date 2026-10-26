@@ -442,3 +442,76 @@ Outside the market, in the noise and the traffic of Vicar Lane, Priya stopped an
 "When we were seven," she said, still looking away, "Darren Price pushed me into the canal. Do you remember? Everyone laughed. You jumped in after me, in your school uniform, and you couldn't even swim properly. You just held onto me and kicked until a man pulled us both out. There was no game, Max. There was just you." She wiped her eyes with the back of her hand. "That's who I'm trying to save. Not the boxer. Not the tennis player. That boy."
 Max did remember. He had forgotten for years, but now it came back, sharp and clear: the cold brown water, the weight of his wet jumper, Priya's hand gripping his collar. For a moment, standing on Vicar Lane, he almost gave in. He almost said, you're right, let's go to Otley. Then his neck cracked from side to side, the way Danny McBride's did, and the moment passed. "I'm fighting on Saturday," he said. "You don't have to come."
 "I won't," said Priya. She took the receipt with Ruth Bell's address on it out of her pocket and pushed it into his hand, closing his fingers around it. "Keep it," she said. "For afterwards. If there is an afterwards." Then she walked away down Vicar Lane, her yellow jacket disappearing between the buses, and Max stood on the pavement with the crumpled receipt in his fist and the strange, cold feeling of NIGHT HOLLOW still somewhere at the back of his neck, like a hand.
+
+# Boss Fight
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_7.page_1-1792993231057.mp3
+The fight night was held in an old textile mill on the edge of Bradford, a huge brick building with broken windows high up in the walls and a ring built in the middle of the floor. By eight o'clock there were more than five hundred people inside, standing on the concrete with plastic cups of beer, shouting, laughing and pushing towards the front. The air was hot and thick with smoke from a burger stall near the door. Somewhere a loudspeaker was playing heavy music so loudly that the floor vibrated.
+Max sat in a tiny changing room that had once been the mill manager's office, with his hands wrapped in white tape, staring at the wall. He had played IRON GLOVE for four hours that afternoon, more than ever before. By Priya's rules, it should give him sixteen hours of Danny McBride, more than enough. He could feel it in his hands and shoulders, the warmth, the readiness. But he could feel something else too, underneath: a deep, grey tiredness, like a heavy coat he could not take off.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_7.page_2-1792993243955.mp3
+Lily was there, sitting on an upturned bucket in the corner, pretending to be calm and biting her nails. Their mum thought she was sleeping at a friend's house. Max had not wanted her to come, but she had told him that if he did not take her, she would get the train on her own, and he knew she meant it. Gaz stood by the door with his arms folded like a bouncer. Frank was walking up and down, checking his watch and talking to himself.
+"Listen to me," Frank said at last, crouching down in front of Max. "Burns is strong, but he's slow. He'll come straight at you like a bull, because that's all he knows. Don't stand and trade with him. Move. Make him miss. Make him tired. And when he drops that right hand, which he will, you know what to do." Max nodded. He did know. Danny McBride knew. He had beaten a hundred men like Kyle Burns on a screen in his bedroom.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_7.page_3-1792993257415.mp3
+Before they went out, Lily came over and hugged him awkwardly around the neck, careful not to touch his taped hands. "Don't die," she said into his shoulder. "Mum would kill me." Max laughed, and for a moment he felt like himself again, the real Max, big brother, the one who used to carry her on his shoulders to the park. Then the door opened, the noise of the crowd rushed in like water, and a man with a clipboard shouted his name. His neck cracked from side to side. He stood up.
+Kyle Burns was waiting in the ring. He was not much taller than Max, but he was twice as wide, with a thick neck, a shaved head and a tattoo of a hammer on his chest. When Max climbed through the ropes, the crowd made a strange noise, half laughing and half booing. Somebody shouted, "Who's the skinny lad?" Somebody else shouted, "Harehills Hero!" and a few people cheered. Burns looked at Max across the ring and smiled slowly, like a man looking at his dinner.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_7.page_4-1792993271711.mp3
+The bell rang. Burns came forward exactly as Frank had said, fast and straight, head down, throwing a huge right hand that would have taken Max's head off. Max was not there. He had moved half a step to the side, and the punch went past his ear with a noise like a passing train. Burns turned, threw a left, another right. Nothing. Max slipped, ducked, stepped back, stepped in. It was like trying to hit smoke. After thirty seconds, the crowd had stopped laughing.
+Halfway through the round, Burns dropped his right hand, just as Frank had predicted, and Max hit him with the short straight left that had put Jamal on the canvas. Burns did not go down. He was much heavier than Jamal. But his head snapped back and his eyes went wide with surprise, and the whole mill exploded with noise. Max hit him again, twice, quick and light, and then moved away before Burns could answer. By the end of the first round, there was blood on the Hammer's lip, and Max had not been touched once.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_7.page_5-1792993287112.mp3
+In the corner, Frank was almost dancing. "Beautiful," he kept saying as he gave Max water and wiped his face. "Beautiful, son. Two more like that and you're two thousand pounds richer." Behind him, standing on a chair so that she could see over the crowd, Lily was screaming herself hoarse. Max should have felt wonderful. Instead, sitting on the little stool, he noticed something that made his stomach turn cold. His hands were trembling. Not much. Just a little. But they had never trembled before the end of a session.
+And the warmth was fading. He could feel it leaving his shoulders, slowly, the way he had felt it leave his legs on that first night at the warehouse. It should not be happening. Four hours of play, sixteen hours of effect. It had been less than five. Then he understood, and the understanding was like ice water. Priya had said it herself, weeks ago, in the lab: the game used his body as fuel. And his body, after two weeks of no sleep and too little food, was nearly empty. It was burning through the game too fast.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_7.page_6-1792993299769.mp3
+The bell rang for the second round. Max stood up, and his legs felt heavy. Burns came out of his corner angry now, wiping the blood from his lip with his glove, and threw the same big right hand. Max moved, but he moved a fraction too late, and the punch caught him on the shoulder. It was like being hit by a car door. The crowd roared. Burns smiled through the blood. He had felt it too. Something had changed.
+For the next minute, Max fought with what was left of Danny McBride. He could still see the punches coming, but his body no longer reacted in time. It was like playing a game with a broken controller: he pressed the button and the character moved a second later. He took a punch to the ribs that knocked the air out of him. Then one to the side of the head that made the lights of the mill spin. He heard Frank shouting from the corner, "Move! Move your feet!" but his feet were made of stone.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_7.page_7-1792993313717.mp3
+And then, near the end of the round, the last of the warmth left him, all at once, like a light being switched off. He felt it go. One moment he was Danny McBride, tired and hurt but still a fighter. The next, he was Max Turner, twenty-four, unfit, standing in a boxing ring in Bradford in front of five hundred strangers, with a man built like a fridge trying to knock his head off. He did not know how to stand. He did not know where to put his hands. He was terrified.
+Burns saw it immediately. Fighters always see fear. He came forward with a terrible combination, left, right, left, and the last punch hit Max full in the face. There was a white flash, a strange silence, and then Max was looking up at the dirty roof of the mill, flat on his back on the canvas, with blood in his mouth. The referee was standing over him, counting. "Three... four..." The sound of the crowd seemed to come from very far away, from another building, another city.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_7.page_8-1792993327560.mp3
+The bell rang before the count reached ten. Frank and Gaz dragged him back to his stool. Frank was holding a cold sponge against his face and saying something urgent, but Max could not understand the words. Through the ropes, he could see Lily, still standing on her chair, both hands over her mouth. She was crying. Frank leaned close. "I'm stopping it," he said, and now Max heard him clearly. "That's enough, son. It's over. You don't owe anyone anything."
+Max was going to agree. Every part of his body wanted to agree. He opened his mouth to say yes, stop it, take me home. And then, through the noise, he heard a voice he knew, a voice that should not have been there. It was coming from somewhere near the back, high and furious, cutting through the crowd like a knife. "Max! Max Turner! Look at me!" He turned his head. Standing on the edge of the burger stall, in a bright yellow jacket, was Priya.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_7.page_9-1792993340155.mp3
+She had come after all. She was too far away for him to see her face clearly, but he could see that she was not crying. She was pointing at him, and she was shouting something, over and over, the same three words. It took him a moment to understand them. "That's you now! That's you now! That's you now!" No game. No Danny McBride. No Kowalski, no runner in a red hoodie. Just the boy who jumped into the canal without knowing how to swim.
+Max took the sponge out of Frank's hand and dropped it on the floor. "One more round," he said. Frank stared at him. "Are you mad? You can't even stand." Max stood up. His legs were shaking, his face was swollen, and every breath hurt his ribs. But he stood. "One more," he said again. "I want to know what I can do. Me. Not anything else." Frank looked into his eyes for a long moment. Then he swore quietly, stepped back and let him go.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_7.page_10-1792993354356.mp3
+The third round was not beautiful. It was not like any game Max had ever played. He had no technique, no instincts, nothing borrowed. He just kept his hands up the way he had seen Frank show the kids at the gym, and he kept walking forward. Burns hit him, and he stayed on his feet. Burns hit him again, and he stayed on his feet. The crowd, which had been shouting for blood, slowly began to make a different noise. They were chanting his name.
+With ten seconds left, Burns, exhausted from throwing so many punches, dropped his right hand one last time. Max saw it. He did not see it the way Danny McBride would have seen it, early and clear. He saw it late, slowly, like a tired man. But he saw it, and he threw a left hand, a clumsy, honest, completely untrained left hand, with everything he had left behind it. It landed on Burns's nose. The Hammer took one step back. And the final bell rang.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_7.page_11-1792993367774.mp3
+Max lost, of course. The judges gave the fight to Kyle Burns, and nobody argued, least of all Max. But when the referee raised Burns's arm, the crowd booed, and when Max was helped out of the ring, five hundred people gave him a standing ovation. Burns himself came over before Max reached the changing room, his nose bleeding, and put a heavy arm around his shoulders. "You're mental," he said, with something like respect. "Absolutely mental. Nobody's ever got up after that."
+Priya was waiting in the changing room with Lily. She did not say I told you so. She did not say anything. She just knelt down in front of him, looked carefully at his swollen eye, shone the light of her phone into his pupils, checked his ribs with her fingers, and then put her forehead against his for a moment. "You idiot," she said quietly. "You absolute idiot." Lily was holding his taped hand so tightly that it hurt, but he did not ask her to let go.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_7.page_12-1792993386709.mp3
+Frank came in last. He did not have two thousand pounds. The loser got nothing; that had always been the rule. But he pressed an envelope into Max's hand. Inside were two hundred pounds in ten-pound notes. "From the lads at the gym," he said gruffly. "They had a collection at the back. Most of them bet on Burns, you understand. But after the third round, well." He shook his head. "You weren't the same fighter in that last round, son. I don't know what happened to you."
+"Neither do I," said Max. But it was not quite true. He knew exactly what had happened. For the first time in his life, he had kept going when everything in his body was telling him to stop. And he had done it alone. Gaz drove them all back to Leeds in his van, Lily asleep against Priya's shoulder in the back, Max in the front seat with a bag of frozen peas against his eye and the city lights sliding past in the darkness.
+When they got back to Ashley Road, it was past two in the morning. The house was dark. Max climbed the stairs slowly, one at a time, holding onto the rail, and opened his bedroom door. A smell of hot, burnt plastic hit him in the face. On the floor, the Halcyon was still connected to the television, where he had left it running all evening like a lucky charm. The crack in its lid had split wide open. There was black smoke on the wall behind it. And the console was completely, utterly silent.
