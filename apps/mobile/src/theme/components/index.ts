@@ -6,3 +6,4 @@ export * from './Text';
 export * from './TextField';
 export * from './usePressDepth';
 export * from './Icon';
+export * from './Loader';

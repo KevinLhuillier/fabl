@@ -1,7 +1,7 @@
 import { router, useFocusEffect, useLocalSearchParams } from 'expo-router';
 import { BookOpen, ChevronLeft, Clock } from 'lucide-react-native';
 import { useCallback, useState } from 'react';
-import { ActivityIndicator, Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -18,6 +18,7 @@ import {
   Button,
   Card,
   Icon,
+  Loader,
   ProgressBar,
   Text,
   colors,
@@ -61,7 +62,7 @@ export default function StoryScreen() {
             <Button label={t.common.back} variant="secondary" onPress={() => router.back()} />
           </View>
         ) : (
-          <ActivityIndicator color={colors.primary} />
+          <Loader icon={BookOpen} message={t.loading.story} />
         )}
       </SafeAreaView>
     );

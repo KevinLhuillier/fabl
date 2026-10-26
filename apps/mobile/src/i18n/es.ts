@@ -24,6 +24,14 @@ export const es: Messages = {
     words: (n) => count(n, 'palabra', 'palabras'),
     minutes: (n) => `${n} min`,
   },
+  loading: {
+    stories: 'Cargando las historias…',
+    story: 'Abriendo el libro…',
+    chapter: 'Abriendo el capítulo…',
+    words: 'Cargando tus palabras…',
+    review: 'Preparando tu repaso…',
+    score: 'Calculando tu puntuación…',
+  },
   levels: {
     A1: 'Principiante',
     A2: 'Elemental',

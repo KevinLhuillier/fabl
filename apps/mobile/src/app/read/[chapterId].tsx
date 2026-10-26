@@ -1,14 +1,7 @@
 import { router, useLocalSearchParams } from 'expo-router';
-import { ChevronLeft, ChevronRight, Lightbulb, X } from 'lucide-react-native';
+import { BookOpen, ChevronLeft, ChevronRight, Lightbulb, X } from 'lucide-react-native';
 import { useCallback, useEffect, useRef, useState } from 'react';
-import {
-  ActivityIndicator,
-  Pressable,
-  ScrollView,
-  StyleSheet,
-  View,
-  type ScrollViewInstance,
-} from 'react-native';
+import { Pressable, ScrollView, StyleSheet, View, type ScrollViewInstance } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -29,7 +22,17 @@ import { addToVocabulary, countWordsToLearn } from '@/lib/api/vocabulary';
 import { useStats } from '@/lib/stats';
 import { useTour } from '@/lib/tour';
 import type { ChapterProgress, ChapterSummary, Page, StorySummary, Token } from '@/lib/types';
-import { Button, Icon, ProgressBar, Text, colors, enter, levelColors, spacing } from '@/theme';
+import {
+  Button,
+  Icon,
+  Loader,
+  ProgressBar,
+  Text,
+  colors,
+  enter,
+  levelColors,
+  spacing,
+} from '@/theme';
 
 type Loaded = {
   story: StorySummary;
@@ -125,7 +128,7 @@ export default function ChapterReader() {
             <Button label={t.common.back} variant="secondary" onPress={() => router.back()} />
           </View>
         ) : (
-          <ActivityIndicator color={colors.primary} />
+          <Loader icon={BookOpen} message={t.loading.chapter} />
         )}
       </SafeAreaView>
     );
@@ -313,7 +316,7 @@ export default function ChapterReader() {
         </View>
         <View ref={target('next')} collapsable={false} style={styles.flex}>
           {finishing ? (
-            <ActivityIndicator color={colors.primary} />
+            <Loader style={styles.footerLoader} />
           ) : isLast ? (
             <Button label={t.reader.finish} variant="success" onPress={finish} />
           ) : (
@@ -374,6 +377,7 @@ const styles = StyleSheet.create({
     paddingVertical: spacing.md,
   },
   flex: { flex: 1 },
+  footerLoader: { padding: 0 },
   // Fixed width so the bar does not jump when the page number gains a digit.
   pageCount: { minWidth: 40, textAlign: 'right', fontVariant: ['tabular-nums'] },
   body: { padding: spacing.xl, gap: spacing.lg, paddingBottom: spacing.xxxl },

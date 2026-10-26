@@ -1,14 +1,7 @@
 import { router } from 'expo-router';
-import { Sparkles, X } from 'lucide-react-native';
+import { Brain, Sparkles, Trophy, X } from 'lucide-react-native';
 import { useEffect, useState } from 'react';
-import {
-  ActivityIndicator,
-  KeyboardAvoidingView,
-  Platform,
-  Pressable,
-  StyleSheet,
-  View,
-} from 'react-native';
+import { KeyboardAvoidingView, Platform, Pressable, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -30,7 +23,17 @@ import {
 } from '@/lib/reviewSession';
 import { scheduleReview } from '@/lib/srs';
 import type { Occurrence, VocabularyItem } from '@/lib/types';
-import { Button, Icon, IconBubble, ProgressBar, Text, colors, enter, spacing } from '@/theme';
+import {
+  Button,
+  Icon,
+  IconBubble,
+  Loader,
+  ProgressBar,
+  Text,
+  colors,
+  enter,
+  spacing,
+} from '@/theme';
 
 /** Due words asked in one session at most (they fit in MAX_STEPS thanks to the games). */
 const MAX_WORDS = 50;
@@ -79,7 +82,7 @@ export default function Review() {
             <Button label={t.common.back} variant="secondary" onPress={() => router.back()} />
           </View>
         ) : (
-          <ActivityIndicator color={colors.primary} />
+          <Loader icon={Brain} message={t.loading.review} />
         )}
       </SafeAreaView>
     );
@@ -181,7 +184,12 @@ export default function Review() {
 
         {finishing || !current ? (
           <View style={styles.center}>
-            <ActivityIndicator color={colors.primary} />
+            <Loader
+              icon={Trophy}
+              message={t.loading.score}
+              color={colors.xpShade}
+              background={colors.xpSoft}
+            />
           </View>
         ) : (
           <ExerciseView

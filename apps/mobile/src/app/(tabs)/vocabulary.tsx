@@ -1,7 +1,7 @@
 import { router, useFocusEffect } from 'expo-router';
 import { BookOpen, Brain, Search, Sparkles, Trash2 } from 'lucide-react-native';
 import { useCallback, useState } from 'react';
-import { ActivityIndicator, FlatList, Pressable, StyleSheet, View } from 'react-native';
+import { FlatList, Pressable, StyleSheet, View } from 'react-native';
 import Animated, { LinearTransition } from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -19,6 +19,7 @@ import {
   Button,
   Card,
   Icon,
+  Loader,
   Text,
   TextField,
   colors,
@@ -125,7 +126,7 @@ export default function Vocabulary() {
         }
         ListEmptyComponent={
           items === null ? (
-            <ActivityIndicator color={colors.primary} />
+            <Loader icon={BookOpen} message={t.loading.words} />
           ) : (
             <Text align="center" color={colors.textSecondary} style={styles.empty}>
               {query ? t.vocabulary.noMatch : t.vocabulary.empty}

@@ -26,6 +26,14 @@ export const fr = {
     words: (n: number) => count(n, 'mot', 'mots'),
     minutes: (n: number) => `${n} min`,
   },
+  loading: {
+    stories: 'Chargement des histoires…',
+    story: 'Ouverture du livre…',
+    chapter: 'Ouverture du chapitre…',
+    words: 'Chargement de tes mots…',
+    review: 'Préparation de ta révision…',
+    score: 'Calcul de ton score…',
+  },
   levels: {
     A1: 'Débutant',
     A2: 'Élémentaire',

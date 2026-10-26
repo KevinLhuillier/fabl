@@ -24,6 +24,14 @@ export const de: Messages = {
     words: (n) => count(n, 'Wort', 'Wörter'),
     minutes: (n) => `${n} Min.`,
   },
+  loading: {
+    stories: 'Geschichten werden geladen…',
+    story: 'Buch wird geöffnet…',
+    chapter: 'Kapitel wird geöffnet…',
+    words: 'Deine Wörter werden geladen…',
+    review: 'Deine Wiederholung wird vorbereitet…',
+    score: 'Dein Ergebnis wird berechnet…',
+  },
   levels: {
     A1: 'Anfänger',
     A2: 'Grundkenntnisse',

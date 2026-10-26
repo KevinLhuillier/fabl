@@ -1,7 +1,7 @@
 import { router, useFocusEffect } from 'expo-router';
-import { Brain, Lock } from 'lucide-react-native';
+import { Brain, Library, Lock } from 'lucide-react-native';
 import { useCallback, useState } from 'react';
-import { ActivityIndicator, RefreshControl, ScrollView, StyleSheet, View } from 'react-native';
+import { RefreshControl, ScrollView, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -14,7 +14,7 @@ import { countDueVocabulary } from '@/lib/api/vocabulary';
 import { useStats } from '@/lib/stats';
 import { useTour } from '@/lib/tour';
 import type { StorySummary } from '@/lib/types';
-import { Button, Card, Icon, Text, colors, enter, radii, spacing } from '@/theme';
+import { Button, Card, Icon, Loader, Text, colors, enter, radii, spacing } from '@/theme';
 
 export default function Home() {
   const { refresh: refreshStats } = useStats();
@@ -115,7 +115,7 @@ export default function Home() {
             </View>
           )
         ) : (
-          <ActivityIndicator color={colors.primary} style={styles.loader} />
+          <Loader icon={Library} message={t.loading.stories} style={styles.loader} />
         )}
       </ScrollView>
     </SafeAreaView>

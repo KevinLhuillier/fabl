@@ -2,8 +2,9 @@ import { useFonts } from 'expo-font';
 import { Stack } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
 import { StatusBar } from 'expo-status-bar';
+import { BookOpen } from 'lucide-react-native';
 import { useEffect } from 'react';
-import { ActivityIndicator, StyleSheet, View } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 
 import { GoalToast } from '@/components/GoalToast';
@@ -11,7 +12,7 @@ import { I18nProvider, useI18n } from '@/i18n';
 import { AuthProvider, useAuth } from '@/lib/auth';
 import { StatsProvider, useStats } from '@/lib/stats';
 import { TourProvider } from '@/lib/tour';
-import { colors, fontAssets } from '@/theme';
+import { Loader, colors, fontAssets } from '@/theme';
 
 SplashScreen.preventAutoHideAsync();
 
@@ -47,7 +48,8 @@ function RootNavigator() {
   if (loading) {
     return (
       <View style={styles.loading}>
-        <ActivityIndicator color={colors.primary} />
+        {/* No message: the fonts may not be loaded yet. */}
+        <Loader icon={BookOpen} />
       </View>
     );
   }
