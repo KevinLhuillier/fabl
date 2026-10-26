@@ -115,6 +115,12 @@
       "lemmaPos": "INTJ"
     },
     {
+      "text": "aye",
+      "pos": "ADJ",
+      "word": "aye",
+      "lemmaPos": "INTJ"
+    },
+    {
       "text": "bagged",
       "pos": "VERB",
       "word": "bagged",
@@ -456,6 +462,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "COLLAPSES",
+      "pos": "NOUN",
+      "word": "collapse",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "colossal",
       "pos": "NOUN",
       "word": "colossal",
@@ -493,10 +505,23 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "COUNTY",
+      "pos": "PROPN",
+      "word": "county",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "cramped",
       "pos": "VERB",
       "word": "cramped",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "creep",
+      "pos": "NOUN",
+      "next": "into",
+      "word": "creep",
+      "lemmaPos": "VERB"
     },
     {
       "text": "crooked",
@@ -1115,6 +1140,13 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "half",
+      "pos": "NOUN",
+      "next": "frightened",
+      "word": "half",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "hang",
       "pos": "NOUN",
       "word": "hang",
@@ -1563,6 +1595,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "making",
+      "pos": "NOUN",
+      "next": "games",
+      "word": "make",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Marked",
       "pos": "PROPN",
       "word": "marked",
@@ -1764,6 +1803,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "nineties",
+      "pos": "NOUN",
+      "word": "nineties",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "NOBODY",
       "pos": "PROPN",
       "word": "nobody",
@@ -1877,6 +1922,12 @@
       "pos": "PROPN",
       "word": "orange",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "OTLEY",
+      "pos": "NOUN",
+      "word": "Otley",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "overweight",
@@ -2146,6 +2197,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "RECORD",
+      "pos": "PROPN",
+      "word": "record",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "red",
       "pos": "NOUN",
       "word": "red",
@@ -2277,6 +2334,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "running",
+      "pos": "ADJ",
+      "next": "track",
+      "word": "running",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "runs",
       "pos": "NOUN",
       "word": "run",
@@ -2334,6 +2398,13 @@
       "text": "second",
       "pos": "ADJ",
       "next": ".",
+      "word": "second",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "second",
+      "pos": "ADJ",
+      "next": "max",
       "word": "second",
       "lemmaPos": "NOUN"
     },
@@ -2499,6 +2570,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "SMASHES",
+      "pos": "PROPN",
+      "word": "smash",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "smelled",
       "pos": "NOUN",
       "word": "smell",
@@ -2625,6 +2702,13 @@
       "pos": "ADV",
       "next": "left",
       "word": "straight",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "stranger",
+      "pos": "NOUN",
+      "next": ".",
+      "word": "strange",
       "lemmaPos": "ADJ"
     },
     {
@@ -2767,6 +2851,12 @@
       "pos": "NOUN",
       "word": "tear",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "TEENAGER",
+      "pos": "PROPN",
+      "word": "teenager",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Tennis",

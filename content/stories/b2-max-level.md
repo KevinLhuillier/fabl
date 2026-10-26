@@ -369,3 +369,76 @@ Priya looked at him as if he were a stranger. Then she stood up, put on her yell
 Max sat alone in the café for a long time, watching his tea go cold. Part of him wanted to run after her and say she was right, that he would forget about Frank and the Hammer and the two thousand pounds. But another part of him, a louder part, kept replaying the moment when Jamal sat down on the canvas, and the silence in the gym, and the way every pair of eyes had turned towards him. He had never been the person everyone looked at. He liked it. He liked it far too much.
 He took out his phone and found Frank's number. His thumb stayed over the screen for almost a minute. Then a message arrived from his mum: Don't forget to buy milk on the way home love. And bread if they have the cheap one. x. He read it twice. The cheap one. He thought of all the times she had bought the cheap one so that he and Lily could have the good one. Then he pressed Frank's number and lifted the phone to his ear.
 "I'll do it," he said when Frank answered. On the other end, he heard a train passing over the gym, and then Frank's dry laugh. "Good lad," said Frank. "Three weeks. Come in every evening. And son? Whatever your secret is, don't tell me. I don't want to know." He hung up. Max sat with the phone in his hand and the rain on the window and felt, for a second, the warm hum of the grey console somewhere deep in his chest, as if it was pleased with him.
+
+# Glitch
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_6.page_1-1792992180296.mp3
+For the next two weeks, Max's life had a new shape. He slept in the morning after his shift, woke at two, played IRON GLOVE for three hours, ate whatever he could find, took the bus to Frank's gym, trained until nine, came home, played for another hour and went to work. Frank had him skipping, hitting pads, sparring with Jamal and two other fighters. Every evening the gym grew a little more crowded, as people came to watch the strange new fighter that nobody could touch.
+But the bill was getting bigger. Priya had been right about rule five: the more he played, the more it cost him. His sleep became light and broken. He woke up with cramps in his calves so painful that he had to bite the pillow. He was always hungry, and yet he was losing weight fast, faster than was healthy. His face was thinner. There were dark circles under his eyes. When he looked in the bathroom mirror, he sometimes had the strange feeling that someone else was looking back.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_6.page_2-1792992192286.mp3
+There were other changes too, smaller and stranger. He started cracking his neck from side to side before he walked into a room, the way Danny McBride did before every fight in the game. He caught himself saying "aye" instead of "yeah". One evening at dinner, when Lily reached across the table quickly for the salt, his head moved to one side before he could stop it, and his hands came up. Lily stared at him. His mum did not notice. She was looking at another letter.
+At work, things were worse. Without the game, his body was more tired than ever, and Gaz had to cover for him twice when he fell asleep sitting on a pallet in the freezer section. "You look like death," Gaz told him on the second occasion, quite gently for Gaz. "Frank says you're the real thing. But you won't be anything if you collapse before the fight." Max nodded and promised to rest. Then he went home and played IRON GLOVE until his eyes were burning.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_6.page_3-1792992206318.mp3
+He did not hear from Priya at all. He sent her two messages, one funny and one serious, and she did not answer either of them. He told himself he did not care. She did not understand. She had always been good at things, at school, at running, at everything. She did not know what it was like to be the boy who collapsed in front of everyone. He would win the fight, pay the rent, and then he would explain everything to her, and she would see that he had been right.
+Eight days before the fight, Lily came into his room on a Sunday afternoon with a bag of crisps and an expression he knew well. "You never do anything fun any more," she said. "You just play that boxing game and go to the gym and look grumpy. Play something with me. Something scary. Please, Max. One hour. Like we used to." He was going to say no. Then he saw how tired and worried she looked, and remembered that she was only fourteen, and that she had been carrying his secret alone for weeks.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_6.page_4-1792992219625.mp3
+The only scary game in the box was NIGHT HOLLOW, the cartridge with the shaky handwriting that had given him a shiver the first night. He hesitated before he pushed it into the slot. The game began in a dark forest. You played a man with a lantern, searching for his lost daughter, and everything in the forest was trying to frighten you. Trees moved when you were not looking. Footsteps followed you and stopped when you stopped. Lily screamed with delight and hid under his duvet.
+Max did not scream. He felt the cold creep into his hands and up his arms as the console hummed, a different hum from the others, lower and less friendly. After an hour, his heart was racing. After an hour, he was sure that something was standing in the corner of his bedroom, just outside the light of the screen. He turned the game off. Lily was laughing. Max was not. "I need some air," he said, and his voice sounded strange in his own ears.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_6.page_5-1792992232168.mp3
+He walked to the big supermarket on the main road to buy milk. It was a bright, ordinary Sunday afternoon, full of families and shopping trolleys. But Max could not stop looking behind him. Every time someone walked past the end of an aisle, his whole body jumped. A child laughed somewhere and the hairs stood up on his arms. In the frozen food section, the lights flickered, and a terrible certainty came over him that something was waiting for him at the end of the aisle, in the dark, between the freezers.
+He dropped the milk and ran. He ran out of the supermarket, across the car park and all the way home without stopping, and he did not feel his legs or his lungs. When he reached the front door, he could not get the key into the lock because his hands were shaking too much. Lily opened it from the inside. She took one look at his face and stopped smiling. "Max," she said, "what's wrong with you? You look like you've seen a ghost." He had not seen one. But he was certain one had seen him.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_6.page_6-1792992246687.mp3
+The fear lasted all night, exactly four hours, just as Priya's rules predicted, and then it was replaced by a heavy, grey exhaustion that felt worse. Lily did not go to bed. Around midnight, Max heard her talking quietly on the phone on the landing. The next morning, when he came home from a shift he barely remembered, Priya was sitting at the kitchen table with a cup of tea, a laptop and a pile of printed papers, looking at him with a face that was half angry and half frightened.
+"Lily called me," she said before he could speak. "Sit down. Don't argue. You've lost six kilos in two weeks, you're having panic attacks in supermarkets and your sister says you're talking with a Scottish accent." She turned the laptop towards him. "I've been doing some research. About your console. There's no record anywhere of a company called Halcyon making games. No adverts, no magazines, no websites. Nothing. So I started with the other clue you gave me. The house clearance. In Otley."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_6.page_7-1792992260287.mp3
+On the screen was an old newspaper article, scanned from the archives of the Wharfedale Observer. It was dated July 1995. There was a black-and-white photograph of a young woman on a running track, thin and fierce, with short dark hair. The headline said: OTLEY TEENAGER SMASHES COUNTY RECORD – THEN COLLAPSES. Max read it slowly. Ruth Bell, eighteen years old, had won the 400 metres at the Yorkshire championships by almost three seconds. Then she had fallen down on the track and been taken to hospital.
+"Her coach told the paper she'd been training alone for months," said Priya. "He said she'd improved so fast that nobody could explain it. Then, after she collapsed, she never ran again. Not one race. There's nothing more about her in the archives." She pushed a second printout across the table. "But look at this. Her father was an electronics engineer. He worked for a research company in Leeds in the early nineties. And he died in 2009. His house in Otley was cleared the following year."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_6.page_8-1792992275667.mp3
+Max stared at the black-and-white photograph for a long time. The young woman's face was proud and determined. But there was something in her eyes, something tired and far away, that he recognised. He had seen it in the bathroom mirror that morning. "Day 41," he said quietly. "I can't remember how I used to run." Priya frowned. "What?" Max stood up, went upstairs and came back down with the folded piece of paper from the bottom of the box. He put it on the table in front of her.
+That afternoon they took the bus to Kirkgate Market together. Mr Okoro was at his stall, exactly as before, reading his newspaper through his magnifying glass. When he saw Max, he put it down and looked at him for a long moment, at his thin face and the dark circles under his eyes. "You have been playing too much," he said. It was not a question. "I told you to be careful, young man." Priya put the printed article on his table, next to the cassette players. "Tell us about Ruth Bell," she said.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_6.page_9-1792992291168.mp3
+Mr Okoro was quiet for a while. Then he told them. He had known Ruth's father, Thomas Bell, many years ago, when they had both repaired televisions in the same shop. Thomas had been a brilliant, strange, lonely man. After his wife died, he had put all his love into his daughter, and all his brilliance into a machine that would help her become a champion. "He thought he had found a way to teach the body directly," said Mr Okoro. "Without years of training. He was very proud of it."
+"What happened to her?" asked Max, although he thought he already knew. Mr Okoro sighed. "She won, at first. She won everything. And then she could not stop. Every race, she needed the machine. Then every training session. Then every day, just to walk to the shops. Her body forgot how to do anything on its own. And her mind..." He tapped his own forehead. "When you wear another person's skin for too long, you start to forget your own. Thomas destroyed his notes after that. But he could not destroy the machine."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_6.page_10-1792992304556.mp3
+"Why not?" asked Priya. "Because she asked him not to," said the old man simply. "She said it was the only thing that had ever made her feel extraordinary." He looked at Max. "Ruth is still alive, you know. She lives in Otley, in a little house by the river. She is about fifty now. I think she would talk to you, if you went." He wrote an address on the back of a receipt and held it out. Max did not take it. Priya did, and put it carefully in her pocket.
+Outside the market, in the noise and the traffic of Vicar Lane, Priya stopped and turned to face him. "We're going to Otley," she said. "Tomorrow. And then you're going to call Frank and tell him you're not fighting." Max shook his head. "The fight is in six days," he said. "I'm not going to Otley. I'm not going to sit in some old woman's kitchen and listen to a sad story. I'm not Ruth Bell. I know when to stop." Priya laughed, but there was no happiness in it at all.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_6.page_11-1792992316848.mp3
+"You know when to stop?" she repeated. "Max, you had a panic attack in a supermarket because of a video game. You flinch when your sister reaches for the salt. You've stopped answering my messages and you've stopped looking people in the eye. This isn't you. You're turning into a collection of other people." Her voice was rising, and people were turning to look at them. "When you get in that ring, it won't be you fighting. It'll be the game. And when the game stops, you'll be standing there alone."
+"Maybe that's better," said Max, and he was surprised by how angry he sounded. "Maybe the game is better than me. The game saved Danny. The game beat a champion. What has the real me ever done, Priya? Tell me one thing. One." She opened her mouth and closed it again, and for a terrible second Max thought she could not think of anything. Then he saw that it was not that. She was crying. She turned away so that he would not see.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_6.page_12-1792992336261.mp3
+"When we were seven," she said, still looking away, "Darren Price pushed me into the canal. Do you remember? Everyone laughed. You jumped in after me, in your school uniform, and you couldn't even swim properly. You just held onto me and kicked until a man pulled us both out. There was no game, Max. There was just you." She wiped her eyes with the back of her hand. "That's who I'm trying to save. Not the boxer. Not the tennis player. That boy."
+Max did remember. He had forgotten for years, but now it came back, sharp and clear: the cold brown water, the weight of his wet jumper, Priya's hand gripping his collar. For a moment, standing on Vicar Lane, he almost gave in. He almost said, you're right, let's go to Otley. Then his neck cracked from side to side, the way Danny McBride's did, and the moment passed. "I'm fighting on Saturday," he said. "You don't have to come."
+"I won't," said Priya. She took the receipt with Ruth Bell's address on it out of her pocket and pushed it into his hand, closing his fingers around it. "Keep it," she said. "For afterwards. If there is an afterwards." Then she walked away down Vicar Lane, her yellow jacket disappearing between the buses, and Max stood on the pavement with the crumpled receipt in his fist and the strange, cold feeling of NIGHT HOLLOW still somewhere at the back of his neck, like a hand.
