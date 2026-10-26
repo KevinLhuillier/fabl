@@ -588,3 +588,76 @@ That night, back in his room on Ashley Road, Max took the old firefighter applic
 Lily came in without knocking, as usual, and stood looking at it. "That's the saddest progress bar I've ever seen," she said. "Zero per cent." Max hung the old stopwatch on the corner of the paper by its red string. "Everyone starts at zero," he said. "Even in games. Especially in games." Lily thought about it. Then she took the marker from his desk, and at the very beginning of the line, right next to TODAY, she drew a tiny, very small dot.
 "There," she said. "One per cent. For going to Otley." Then she looked at the burnt grey console in the corner, and at the cardboard box under the bed, and her face became serious. "Are you going to miss it?" she asked. "Being everyone? Being amazing?" Max took a long time to answer. Outside, a bus went past on the main road, and he thought of the number 49 pulling away from the stop on that cold morning in March, and the teenager who had looked at him with pity.
 "Yes," he said honestly. "Every day, probably. It was the best feeling in the world." He looked at the empty line on the wall, and at the tiny dot his sister had drawn. "But it wasn't mine. Nothing I did was mine. Not even the good things." He switched off the light. In the dark, the old stopwatch caught the orange glow of the streetlamp outside and shone faintly, like a single coin at the start of a very long level. "Night, Lily," he said. "Tomorrow, we start."
+
+# Grinding
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_9.page_1-1793033845027.mp3
+The first run was a disaster. Priya had made a plan for him, typed up and laminated, with weeks along the top and days down the side. Week one, day one said: walk five minutes, jog one minute, repeat five times. It sounded easy. At six o'clock on a grey Monday morning, Max set off from the park gate with Priya beside him and Ruth's stopwatch around his neck, and after his third minute of jogging he had to stop and lean against a tree while his lungs tried to climb out of his throat.
+"This is impossible," he gasped. "Two months ago I climbed a two-metre wall. I carried a child down three floors of smoke. And now I can't jog for one minute?" Priya did not look sympathetic. "Two months ago you weren't doing anything," she said. "The game was doing it, and your body was paying for it on credit. Now you have to actually build what it borrowed." She looked at her watch. "Walk for five minutes. Then try again."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_9.page_2-1793033860660.mp3
+He tried again. And again. By the end of that first session he had jogged for five separate minutes, every one of them slow and ugly, and he was so tired that he had to sit on the wet grass for ten minutes before he could walk home. But Priya wrote the times in her notebook with the same care she had used for the light wall and the jump plate. And that evening, Max took the black marker and drew a second tiny dot on the progress bar above his desk, next to Lily's.
+Other things changed too. Gaz, without being asked, moved Max from the night shift to the early morning shift at the warehouse, so that he could sleep at night like a normal human being. "Priya rang me," Gaz said when Max tried to thank him. "That girl is terrifying." His mum started cooking real meals again, with vegetables in them, and stopped buying biscuits. Lily, still grounded, was allowed out for exactly one reason: to ride her bicycle beside her brother on his evening runs and shout insults at him.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_9.page_3-1793033878395.mp3
+"Faster, grandad!" she would yell, ringing her bell. "A snail just overtook you! A snail with a walking stick!" Max would yell back, without much breath, that she was a terrible coach and a worse sister. People in Harehills began to recognise them: the big, red-faced man jogging very slowly along the pavement, and the small girl on the bike circling him like a seagull. An old man who sat outside the corner shop started clapping every time they passed. After a while, Max began to look forward to it.
+At the end of the second week, he went back to Frank's gym. He was nervous. He had not seen Frank since Bradford, and he did not know what to expect. When he walked in, Frank was holding pads for a teenager in the far ring. He saw Max, said something to the boy, and walked across the floor, wiping his hands on a towel. For a moment they just stood and looked at each other, while a train rumbled overhead and the heavy bags swung gently on their chains.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_9.page_4-1793033893347.mp3
+"I owe you an apology," said Frank at last. Max had expected many things, but not that. "I saw something special in you and I got greedy," Frank went on. "I should have asked questions. I should have seen you weren't sleeping, weren't eating. I put you in a ring with a man who could have hurt you badly, and I did it for money. That's not what this place is for." He pointed at the sign above the door. NOBODY IS BORN TOUGH. "I forgot my own sign."
+Max told him about the fire brigade test, and the progress bar, and the five months. He did not tell him about the Halcyon. Frank did not ask. He listened, nodded slowly, and then threw Max a skipping rope. "Tuesday and Thursday evenings," he said. "Strength and conditioning. No sparring. No fighting. You'll do press-ups until you cry, and then you'll do some more. And you won't pay me a penny." He paused. "Jamal says he wants to help too. He says you owe him a rematch. In about ten years."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_9.page_5-1793033911821.mp3
+So the weeks became a routine. Early shift at the warehouse. Sleep in the afternoon. Run in the evening, with Lily on her bike. Gym with Frank and Jamal on Tuesdays and Thursdays. On Saturday mornings, he and Priya took the bus to Otley and ran up the Chevin with Ruth Bell, who was slower than both of them on the flat but somehow always reached the top first, because she never stopped. Not once. "Walking is allowed," she told Max, overtaking him on the steepest part. "Stopping isn't."
+The dots on the progress bar grew slowly into a line. Ten minutes of jogging without stopping. Twenty. Thirty. His first ten press-ups in a row. His first full kilometre without walking. Each time, he drew another dot, and each time Lily inspected it carefully, as if she suspected him of cheating. Priya's notebook filled up with numbers. His resting heart rate went down. His jump went up, from twenty-six centimetres to thirty-one. It was nothing like the game. It was so slow it almost hurt. But every centimetre was his.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_9.page_6-1793033927927.mp3
+The hardest part was not the running. It was the memory. Sometimes, halfway through a session, with his legs burning and his lungs on fire, Max would remember exactly how it had felt to fly over that wall behind Ashley Road. The lightness. The certainty. The warm hum in his hands. And he would want it so badly that it was like hunger. In those moments, he understood Ruth Bell completely. He understood why she had asked her father not to destroy the machine.
+One Saturday in July, Max went back to Kirkgate Market on his own. He told himself he was just buying new running socks. But his feet took him down the narrow side row to the very end, where Mr Okoro sat at his stall behind a pile of old radios. The old man looked up and smiled. "You look well, young man," he said. "Different. Your face has colour in it. Ruth tells me you are running up the Chevin now. She says you are very slow."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_9.page_7-1793033944752.mp3
+Max laughed, and then he did not know what to say. He looked at the radios. He looked at his own hands. Mr Okoro watched him for a while, and then he spoke quietly. "The circuit board," he said. "The one that burned. I could replace it, you know. Thomas showed me how it worked, a long time ago. It would take me perhaps a month." He paused. "I am not offering. I am only telling you that it is possible. Because I think that is why you came."
+It was. Max knew it as soon as the old man said it. He stood in front of the stall for a long time, while people pushed past him with shopping bags and the fishmongers shouted in the main hall. He thought of the fire, and how good it had felt to carry Danny out into the cold air. He thought of the next fire, and the one after that. With the Halcyon, he could save people. Without it, he was a slow man with a stopwatch who was last up the Chevin every Saturday.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_9.page_8-1793033960865.mp3
+Then he thought of Ruth at eighteen, lying on the track. Of the page from her diary. Of the stranger in his bathroom mirror. "No," he said. "Thank you, Mr Okoro. But no." The old man nodded, as if this was the answer he had hoped for, and went back to his newspaper. Max walked out of the market and into the sunshine with his hands in his pockets. He felt light, but not like the game. He felt light because he had just put something heavy down.
+Three weeks later, he got injured. It happened on an ordinary Tuesday evening at Frank's gym, during a set of jumps onto a wooden box. He landed badly, felt something pull sharply in his left calf, and fell sideways onto the mat with a cry. A physiotherapist at the hospital told him it was a muscle tear, not serious, but that he could not run for at least three weeks. Maybe four. It was the first week of August. The fire brigade test was in October.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_9.page_9-1793033979630.mp3
+For the first few days, Max did not leave the house. He lay on the sofa with his leg on a cushion and watched other people do sport on the television, and he felt the old grey heaviness come back, the heaviness of the man who missed buses and gave up. He stopped answering Priya's messages. He stopped drawing dots. One evening, Lily found him staring at the cardboard box under his bed, which he had pulled out without quite knowing why.
+She did not shout at him. She sat down on the floor beside him and looked at the box too. "It's broken," she said. "Even if you wanted to, you can't." Max nodded. "I know," he said. "Mr Okoro offered to fix it." Lily was quiet for a moment. "And?" she asked. "I said no," said Max. "But right now I'm not sure I'd say no again." Lily pushed the box back under the bed with her foot, firmly, as far as it would go. "Then don't ask him," she said.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_9.page_10-1793033997116.mp3
+The next morning, a postcard arrived. On the front was a photograph of the Chevin, green and steep, with Otley in the valley below. On the back, in small, firm handwriting, it said: Last in my age group again this Saturday. Thirty-one minutes. My best time this year. Walking is allowed. Stopping isn't. R.B. Max read it three times. Then he put it on the fridge with a magnet, phoned Priya and asked her what exercises he could do with one leg.
+There were a surprising number. Priya had a list ready within an hour, as if she had been waiting. Upper body work with Frank. Swimming, very gently, at the leisure centre where Lily played netball. Exercises for his core, lying on the living-room floor while his mum stepped over him with cups of tea. He did them all, every day, and he drew a small dot for each one. They were not big dots. But the line kept moving. And by the end of August, he was walking without a limp.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_9.page_11-1793034013406.mp3
+In September, he ran again. The first time, he was terrified that the calf would tear again, and he ran so carefully that Lily accused him of walking. But it held. The next week, he ran further. The week after that, he went up the Chevin with Ruth and Priya, and for the first time he reached the top without walking once. He did not reach it first. Ruth was already there, sitting on a rock with a flask of tea. But she stood up and shook his hand as if he had won a medal.
+That evening, sitting at the kitchen table with his laptop, Max filled in the online application for West Yorkshire Fire and Rescue. It took him two hours, because he kept stopping to stare at the screen. When he reached the box that asked Have you applied before? he typed yes, and in the space underneath, where it asked for further information, he wrote, after a long time: I failed the fitness test five years ago. I wasn't ready. I think I am now. Then he pressed send before he could change his mind.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_9.page_12-1793034036797.mp3
+The email came back nine days later. His mum was the one who saw it first, because he had left his phone on the kitchen table while he was in the shower, and she screamed so loudly that he ran downstairs with shampoo in his hair, thinking the house was on fire. It was not. She was holding up the phone with both hands. Dear Mr Turner, we are pleased to invite you to attend the physical assessment day on Saturday the seventeenth of October.
+That night, all of them came to the house on Ashley Road: Priya with a cake she had baked herself, which was slightly burnt on one side; Frank and Gaz, looking enormous and uncomfortable in the small front room; even Jamal, who brought a pair of new running shoes that he said he had won in a competition and did not need, although they were exactly Max's size. His mum cried. Lily made a speech standing on a chair. Max did not say much at all. He was too happy to speak.
+Later, when everyone had gone home, he stood in his bedroom in front of the progress bar. It was covered in dots now, hundreds of them, so close together that they almost made a solid line. It stretched from TODAY almost all the way across the paper. There was only a small gap left before the word OCTOBER. Max took the black marker, uncapped it, and then put the cap back on without drawing anything. That last gap, he decided, he would fill in on the day. Not before.

@@ -1105,6 +1105,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "grandad",
+      "pos": "X",
+      "word": "grandad",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "graphics",
       "pos": "NOUN",
       "word": "graphics",
@@ -1151,6 +1157,12 @@
       "text": "GUARDIAN",
       "pos": "PROPN",
       "word": "guardian",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Gym",
+      "pos": "PROPN",
+      "word": "gym",
       "lemmaPos": "NOUN"
     },
     {
@@ -1407,6 +1419,12 @@
       "text": "jingling",
       "pos": "NOUN",
       "word": "jingle",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "jog",
+      "pos": "PROPN",
+      "word": "jog",
       "lemmaPos": "VERB"
     },
     {
@@ -2190,6 +2208,13 @@
       "next": "fight",
       "word": "press",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "press",
+      "pos": "NOUN",
+      "next": "-",
+      "word": "press-up",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Probationary",
@@ -3068,6 +3093,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Thursdays",
+      "pos": "PROPN",
+      "word": "Thursday",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "Tick",
       "pos": "PROPN",
       "word": "tick",
@@ -3114,6 +3145,12 @@
       "pos": "NOUN",
       "word": "tremble",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Tuesdays",
+      "pos": "PROPN",
+      "word": "Tuesday",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "turf",
@@ -3221,6 +3258,12 @@
       "text": "uppies",
       "pos": "NOUN",
       "word": "keepy-uppy",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "ups",
+      "pos": "NOUN",
+      "word": "press-up",
       "lemmaPos": "NOUN"
     },
     {
