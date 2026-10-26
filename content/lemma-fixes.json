@@ -1,6 +1,12 @@
 {
   "fixes": [
     {
+      "text": "1980s",
+      "pos": "NOUN",
+      "word": "1980s",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "A180",
       "pos": "NOUN",
       "word": "A180",
@@ -331,6 +337,13 @@
       "pos": "VERB",
       "word": "bruised",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "burning",
+      "pos": "NOUN",
+      "next": "building",
+      "word": "burn",
+      "lemmaPos": "VERB"
     },
     {
       "text": "bursar",
@@ -914,6 +927,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Gaz",
+      "pos": "VERB",
+      "word": "Gaz",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "geese",
       "pos": "PROPN",
       "word": "goose",
@@ -1413,6 +1432,13 @@
     },
     {
       "text": "left",
+      "pos": "ADV",
+      "next": ",",
+      "word": "left",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "left",
       "pos": "VERB",
       "next": "again",
       "word": "left",
@@ -1738,6 +1764,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "NOBODY",
+      "pos": "PROPN",
+      "word": "nobody",
+      "lemmaPos": "PRON"
+    },
+    {
       "text": "nobody'd",
       "pos": "NOUN",
       "word": "nobody",
@@ -1844,6 +1876,13 @@
       "text": "orange",
       "pos": "PROPN",
       "word": "orange",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "overweight",
+      "pos": "NOUN",
+      "next": ",",
+      "word": "overweight",
       "lemmaPos": "ADJ"
     },
     {
@@ -2002,6 +2041,20 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Press",
+      "pos": "NOUN",
+      "next": "start",
+      "word": "press",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "press",
+      "pos": "NOUN",
+      "next": "fight",
+      "word": "press",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Probationary",
       "pos": "PROPN",
       "word": "probationary",
@@ -2147,6 +2200,13 @@
       "pos": "NOUN",
       "word": "ring",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "rings",
+      "pos": "VERB",
+      "next": ",",
+      "word": "ring",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "rock",
@@ -2554,6 +2614,20 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "stop",
+      "pos": "VERB",
+      "next": "so",
+      "word": "stop",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "straight",
+      "pos": "ADV",
+      "next": "left",
+      "word": "straight",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "stranger",
       "pos": "NOUN",
       "next": "it",
@@ -2791,6 +2865,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "TOUGH",
+      "pos": "NOUN",
+      "word": "tough",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "treadmills",
       "pos": "VERB",
       "word": "treadmill",
@@ -2867,6 +2947,18 @@
       "pos": "VERB",
       "word": "uninstall",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Unlicensed",
+      "pos": "VERB",
+      "word": "unlicensed",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "unlicensed",
+      "pos": "VERB",
+      "word": "unlicensed",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "Unmarked",
@@ -3083,6 +3175,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "x.",
+      "pos": "PROPN",
+      "word": "x",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "y.",
       "pos": "NOUN",
       "word": "y",
@@ -3099,6 +3197,12 @@
       "pos": "VERB",
       "word": "yellowish",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Yorkshire",
+      "pos": "ADJ",
+      "word": "Yorkshire",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "yours",

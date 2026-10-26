@@ -26,6 +26,12 @@
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
     },
     {
+      "word": "1980s",
+      "pos": "NOUN",
+      "translation": "os anos 1980",
+      "example": "There were two rings, a row of heavy bags hanging from chains, faded posters of fighters from the 1980s and a hand-painted sign above the door that said: NOBODY IS BORN TOUGH."
+    },
+    {
       "word": "a",
       "pos": "DET",
       "translation": "um, uma",
@@ -790,6 +796,12 @@
       "example": "Park on Ashley Road, tomorrow 10am?"
     },
     {
+      "word": "amateur",
+      "pos": "ADJ",
+      "translation": "amador",
+      "example": "Jamal Reid was twenty-two, the Yorkshire amateur champion at his weight, and he moved like water."
+    },
+    {
       "word": "amazing",
       "pos": "ADJ",
       "translation": "incrível, impressionante",
@@ -1366,6 +1378,12 @@
       "example": "Seven years earlier she had been a nervous twenty-year-old with a brand-new licence and a habit of apologising to the gearbox; he had been assigned to sit beside her for her first month on the road, and had done so with a forbearance she still described, to anyone who would listen, as saintly."
     },
     {
+      "word": "association",
+      "pos": "NOUN",
+      "translation": "a associação",
+      "example": "It was from the housing association."
+    },
+    {
       "word": "assume",
       "pos": "VERB",
       "translation": "supor, presumir",
@@ -1793,6 +1811,12 @@
       "pos": "NOUN",
       "translation": "a varanda, a sacada",
       "example": "Nuage knew every path: which tiles moved, which windows were open, which balcony had a bowl of food for street cats."
+    },
+    {
+      "word": "bald",
+      "pos": "ADJ",
+      "translation": "careca",
+      "example": "He was a huge, bald man with a broken nose and hands like shovels, and most of the workers were a little afraid of him."
     },
     {
       "word": "ball",
@@ -2988,6 +3012,12 @@
       "example": "There were old boxes, a broken bicycle and a smell of dust and soap."
     },
     {
+      "word": "box",
+      "pos": "VERB",
+      "translation": "lutar boxe",
+      "example": "\"And I've never boxed in my life.\""
+    },
+    {
       "word": "box kite",
       "pos": "PHRASE",
       "translation": "a pipa em forma de caixa",
@@ -3040,6 +3070,12 @@
       "pos": "PROPN",
       "translation": "Brackenford (nome de vilarejo)",
       "example": "By mid-afternoon the cart was loaded, and Patience — a mule whose name had been chosen with considerable irony — was persuaded, after the usual negotiations, to haul it down the track to Brackenford."
+    },
+    {
+      "word": "Bradford",
+      "pos": "PROPN",
+      "translation": "Bradford (cidade de Yorkshire, perto de Leeds)",
+      "example": "Danny and his mother had gone to stay with relatives in Bradford."
     },
     {
       "word": "braid",
@@ -3118,6 +3154,12 @@
       "pos": "VERB",
       "translation": "quebrar, partir-se",
       "example": "On the first pass, both lances broke against the shields."
+    },
+    {
+      "word": "break down",
+      "pos": "PHRASE",
+      "translation": "desmoronar, entrar em colapso; quebrar",
+      "example": "Your body breaks down afterwards."
     },
     {
       "word": "break up",
@@ -3414,6 +3456,12 @@
       "example": "He thought, unexpectedly, of the tachograph, which had at some point in the evening clicked over to a rest period and was even now recording, with bureaucratic serenity, that he was doing nothing whatsoever."
     },
     {
+      "word": "Burley",
+      "pos": "PROPN",
+      "translation": "Burley (bairro de Leeds)",
+      "example": "He runs a boxing gym in Burley."
+    },
+    {
       "word": "burn",
       "pos": "NOUN",
       "translation": "(Escócia) o riacho; a queimadura",
@@ -3442,6 +3490,12 @@
       "pos": "ADJ",
       "translation": "queimado",
       "example": "He stood in the middle of it with his burned hand pressed against his chest, his face blazing, and for a long moment he could not see or hear anything at all except that laughter."
+    },
+    {
+      "word": "Burns",
+      "pos": "PROPN",
+      "translation": "Burns (sobrenome)",
+      "example": "The main event is a local lad called Kyle Burns."
     },
     {
       "word": "bursar",
@@ -3484,6 +3538,12 @@
       "pos": "NOUN",
       "translation": "o ônibus",
       "example": "There is a big red bus. — Tem um ônibus grande e vermelho."
+    },
+    {
+      "word": "bus stop",
+      "pos": "PHRASE",
+      "translation": "o ponto de ônibus",
+      "example": "He wore a different coat, he stopped using the grey hoodie, he took the long way to the bus stop so that he did not have to walk past the blackened flats."
     },
     {
       "word": "business",
@@ -3984,6 +4044,12 @@
       "example": "The women gathered buckets of water in case of fire."
     },
     {
+      "word": "cash",
+      "pos": "NOUN",
+      "translation": "o dinheiro vivo, em espécie",
+      "example": "He paused. \"Cash.\""
+    },
+    {
       "word": "cask",
       "pos": "NOUN",
       "translation": "o barril, o tonel",
@@ -4072,6 +4138,12 @@
       "pos": "ADJ",
       "translation": "de catedral (“cathedral dark”: escuridão de catedral)",
       "example": "Warehouse four was the oldest on the site, a dunnage warehouse with an earthen floor and walls a yard thick, in which the casks lay three high on wooden runners in a cool, damp, cathedral dark."
+    },
+    {
+      "word": "cause",
+      "pos": "NOUN",
+      "translation": "a causa",
+      "example": "The fire brigade said the cause had been an old toaster."
     },
     {
       "word": "causeway",
@@ -4164,6 +4236,12 @@
       "example": "Ruaridh led him down a narrow aisle to a single butt near the far wall, its staves darkened almost to black, its head chalked with a date: 1994."
     },
     {
+      "word": "champion",
+      "pos": "NOUN",
+      "translation": "o campeão",
+      "example": "Jamal Reid was twenty-two, the Yorkshire amateur champion at his weight, and he moved like water."
+    },
+    {
       "word": "chance",
       "pos": "NOUN",
       "translation": "a chance, a possibilidade",
@@ -4186,6 +4264,12 @@
       "pos": "PHRASE",
       "translation": "reduzir a marcha",
       "example": "\"You do know that, don't you? You'll be pottering round some garden centre in a fleece, rearranging the seed packets, and you'll hear a lorry change down on the bypass and you'll want to weep.\""
+    },
+    {
+      "word": "change hands",
+      "pos": "PHRASE",
+      "translation": "mudar de mãos, passar de mão em mão",
+      "example": "\"Just a big warehouse, five hundred people, a lot of beer and a lot of money changing hands at the back."
     },
     {
       "word": "channel",
@@ -4252,6 +4336,12 @@
       "pos": "VERB",
       "translation": "cobrar; carregar (uma bateria) (“fully charged”: com a bateria cheia)",
       "example": "They came from all over the Hollow Wilds, carried up from Mossbridge on sledges by carters who charged three times the usual rate and were glad to get it."
+    },
+    {
+      "word": "charity",
+      "pos": "NOUN",
+      "translation": "a caridade («charity event»: um evento beneficente)",
+      "example": "\"There's a fight night in Bradford in three weeks. Charity event. Unlicensed.\""
     },
     {
       "word": "chase",
@@ -5152,6 +5242,12 @@
       "pos": "PHRASE",
       "translation": "aproximar-se, vir até",
       "example": "A third-year he had never spoken to in his life came over, red-faced, and asked whether he would mind very much making her potted geranium flower before her sister's birthday."
+    },
+    {
+      "word": "come round",
+      "pos": "PHRASE",
+      "translation": "passar (na casa de alguém)",
+      "example": "Priya came round that evening, and she did not ring the doorbell."
     },
     {
       "word": "come to a halt",
@@ -6642,6 +6738,12 @@
       "example": "\"Not Harry Dent.\""
     },
     {
+      "word": "deny",
+      "pos": "VERB",
+      "translation": "negar",
+      "example": "Max opened his mouth to deny it, and Gaz shook his head."
+    },
+    {
       "word": "depart",
       "pos": "VERB",
       "translation": "partir, sair de",
@@ -7140,6 +7242,12 @@
       "example": "She glanced nervously towards the door."
     },
     {
+      "word": "doorbell",
+      "pos": "NOUN",
+      "translation": "a campainha",
+      "example": "Priya came round that evening, and she did not ring the doorbell."
+    },
+    {
       "word": "doorstep",
       "pos": "NOUN",
       "translation": "a soleira, a porta",
@@ -7216,6 +7324,12 @@
       "pos": "ADV",
       "translation": "para baixo",
       "example": "Burnt deep into the pale wood was a shape like a twisted hand, or a tree turned upside down: a knot of black roots, spreading downward into nothing."
+    },
+    {
+      "word": "Doyle",
+      "pos": "PROPN",
+      "translation": "Doyle (sobrenome)",
+      "example": "Frank Doyle's gym was in a railway arch under the line to Harrogate, and every few minutes the whole place shook as a train passed overhead."
     },
     {
       "word": "doze",
@@ -7734,6 +7848,12 @@
       "example": "It is easy! — É fácil!"
     },
     {
+      "word": "easy",
+      "pos": "ADV",
+      "translation": "com calma, devagar («go easy on someone»: pegar leve com alguém)",
+      "example": "\"Jamal will go easy on you.\""
+    },
+    {
       "word": "eat",
       "pos": "VERB",
       "translation": "comer",
@@ -7858,6 +7978,12 @@
       "pos": "ADV",
       "translation": "também não, tampouco",
       "example": "Sir Godfrey never complained, so Edwin decided that he would not complain either."
+    },
+    {
+      "word": "either",
+      "pos": "CCONJ",
+      "translation": "ou… ou («either … or»)",
+      "example": "\"You're either the most natural fighter in England or something very strange is going on, and to be honest, son, I don't care which.\""
     },
     {
       "word": "either",
@@ -8158,6 +8284,12 @@
       "pos": "ADJ",
       "translation": "divertido, engraçado",
       "example": "\"He was most entertaining about it at dinner last night — the woodcutter's boy who couldn't make a Standing Stone so much as yawn, and old Vell, scurrying about the meadow with her little book, determined to make a scholar out of a stump.\""
+    },
+    {
+      "word": "enthusiasm",
+      "pos": "NOUN",
+      "translation": "o entusiasmo",
+      "example": "\"So you're the Harehills Hero,\" he said, shaking Max's hand and looking him up and down without much enthusiasm."
     },
     {
       "word": "entire",
@@ -8710,6 +8842,12 @@
       "example": "Bram stripped the fallen oak with short, economical strokes while Rowan dragged the branches to the pile and sorted them by thickness: kindling, fencing, firewood, nothing wasted."
     },
     {
+      "word": "false",
+      "pos": "ADJ",
+      "translation": "falso",
+      "example": "Then he thought of the letter on the kitchen table with its red stamp, and of his mum saying \"I'll sort it\" in her bright, false voice."
+    },
+    {
       "word": "falter",
       "pos": "VERB",
       "translation": "vacilar, fraquejar",
@@ -9040,10 +9178,22 @@
       "example": "He is the man who knows which battles are worth fighting."
     },
     {
+      "word": "fight night",
+      "pos": "PHRASE",
+      "translation": "a noite de lutas",
+      "example": "\"There's a fight night in Bradford in three weeks. Charity event. Unlicensed.\""
+    },
+    {
       "word": "fight off",
       "pos": "PHRASE",
       "translation": "repelir, afugentar",
       "example": "She fought them off with wind and water, and it was only by luck that Cade was there with his cart to get her away."
+    },
+    {
+      "word": "fighter",
+      "pos": "NOUN",
+      "translation": "o lutador",
+      "example": "His character was a middleweight from Glasgow called Danny McBride, a quiet, red-haired fighter with a scar through one eyebrow, who never threw a punch he did not need to throw."
     },
     {
       "word": "fighting",
@@ -9706,6 +9856,12 @@
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
     },
     {
+      "word": "for a living",
+      "pos": "PHRASE",
+      "translation": "para ganhar a vida, de profissão («knock people out for a living»: nocautear pessoas para ganhar a vida)",
+      "example": "\"Absolutely not. Max, a man who knocks people out for a living is going to hit you in the head.\""
+    },
+    {
       "word": "for a long time",
       "pos": "PHRASE",
       "translation": "por muito tempo",
@@ -10022,6 +10178,12 @@
       "pos": "ADJ",
       "translation": "franco, aberto",
       "example": "She paused at the edge of the clearing and looked around with frank curiosity, taking in the woodpile, the stump, the mule dozing in her lean-to, the thin blue thread of smoke from the chimney."
+    },
+    {
+      "word": "Frank",
+      "pos": "PROPN",
+      "translation": "Frank (nome)",
+      "example": "Frank Doyle's gym was in a railway arch under the line to Harrogate, and every few minutes the whole place shook as a train passed overhead."
     },
     {
       "word": "frankly",
@@ -10761,6 +10923,12 @@
       "example": "Tamsin and Jory were sitting on the end of his bed, glaring at each other."
     },
     {
+      "word": "Glasgow",
+      "pos": "PROPN",
+      "translation": "Glasgow (cidade da Escócia)",
+      "example": "His character was a middleweight from Glasgow called Danny McBride, a quiet, red-haired fighter with a scar through one eyebrow, who never threw a punch he did not need to throw."
+    },
+    {
       "word": "glass",
       "pos": "NOUN",
       "translation": "o vidro",
@@ -10933,6 +11101,12 @@
       "pos": "PHRASE",
       "translation": "descer; (sol) se pôr",
       "example": "As the sun went down, Edwin remembered Godfrey's lesson."
+    },
+    {
+      "word": "go easy on",
+      "pos": "PHRASE",
+      "translation": "pegar leve com, ir com calma com",
+      "example": "\"Jamal will go easy on you.\""
     },
     {
       "word": "go in",
@@ -11173,6 +11347,12 @@
       "pos": "PROPN",
       "translation": "Grantown (em “Grantown-on-Spey”, pequena cidade das Highlands)",
       "example": "Pauline had been born in Grantown-on-Spey, and every summer for thirty-one years they had driven north to see her sister, stopping without fail at the same lay-by above Dalwhinnie to eat sandwiches and argue amiably about the route."
+    },
+    {
+      "word": "grape",
+      "pos": "NOUN",
+      "translation": "a uva",
+      "example": "\"But I won't bring grapes.\""
     },
     {
       "word": "graph",
@@ -11534,6 +11714,12 @@
       "example": "He had turned fourteen at midsummer: lean where his uncle was broad, with a shock of dark hair that defeated every comb and hands already roughened by years of rope and bark."
     },
     {
+      "word": "haired",
+      "pos": "ADJ",
+      "translation": "de cabelo… («red-haired»: ruivo)",
+      "example": "His character was a middleweight from Glasgow called Danny McBride, a quiet, red-haired fighter with a scar through one eyebrow, who never threw a punch he did not need to throw."
+    },
+    {
       "word": "Halcyon",
       "pos": "PROPN",
       "translation": "Halcyon (nome do console)",
@@ -11642,6 +11828,12 @@
       "example": "He simply sat and looked at the shoot for a long time, sucking on his cold pipe, while Rowan's heart hammered against his ribs."
     },
     {
+      "word": "Hammer",
+      "pos": "PROPN",
+      "translation": "Hammer («the Hammer»: o Martelo, apelido)",
+      "example": "They call him the Hammer."
+    },
+    {
       "word": "hand",
       "pos": "NOUN",
       "translation": "a mão; a letra (“in his careful hand”: com sua letra caprichada)",
@@ -11724,6 +11916,12 @@
       "pos": "VERB",
       "translation": "pendurar, pender",
       "example": "\"Hang him!\""
+    },
+    {
+      "word": "hang up",
+      "pos": "PHRASE",
+      "translation": "desligar (o telefone)",
+      "example": "He hung up."
     },
     {
       "word": "hanger",
@@ -11816,6 +12014,12 @@
       "example": "His name was Master Tobin Grey, and he was a thin, harried man with spectacles pushed up onto his forehead, where he had evidently forgotten them."
     },
     {
+      "word": "Harrogate",
+      "pos": "PROPN",
+      "translation": "Harrogate (cidade de Yorkshire)",
+      "example": "Frank Doyle's gym was in a railway arch under the line to Harrogate, and every few minutes the whole place shook as a train passed overhead."
+    },
+    {
       "word": "Harry",
       "pos": "PROPN",
       "translation": "Harry (nome)",
@@ -11862,6 +12066,12 @@
       "pos": "PHRASE",
       "translation": "ter jeito para, ter cabeça para",
       "example": "She had a head for it, Bram said — for ledgers and lists and long columns of names."
+    },
+    {
+      "word": "have any idea",
+      "pos": "PHRASE",
+      "translation": "ter (alguma) ideia",
+      "example": "\"Do you have any idea how many people die doing exactly that?"
     },
     {
       "word": "have in mind",
@@ -12080,6 +12290,12 @@
       "example": "Edwin found himself face to face with a huge man armed with a heavy axe."
     },
     {
+      "word": "heavy bag",
+      "pos": "PHRASE",
+      "translation": "o saco de pancada",
+      "example": "There were two rings, a row of heavy bags hanging from chains, faded posters of fighters from the 1980s and a hand-painted sign above the door that said: NOBODY IS BORN TOUGH."
+    },
+    {
       "word": "hedge",
       "pos": "NOUN",
       "translation": "a sebe",
@@ -12138,6 +12354,12 @@
       "pos": "PHRASE",
       "translation": "ajudar (a sair); dar uma mão",
       "example": "He helped Isla out first, then Alasdair, half carrying each of them in turn through the knee-deep snow towards the towering, rumbling bulk of the Duchess."
+    },
+    {
+      "word": "help up",
+      "pos": "PHRASE",
+      "translation": "ajudar a levantar",
+      "example": "Then Jamal laughed, a real, surprised laugh, and held up his glove so Max could help him up."
     },
     {
       "word": "helping",
@@ -12650,6 +12872,18 @@
       "example": "That was the first rule of the Ashby household, and very nearly the only one Bram had ever bothered to say out loud."
     },
     {
+      "word": "housing",
+      "pos": "NOUN",
+      "translation": "a habitação («housing association»: a entidade de habitação social)",
+      "example": "It was from the housing association."
+    },
+    {
+      "word": "housing association",
+      "pos": "PHRASE",
+      "translation": "a entidade de habitação social",
+      "example": "It was from the housing association."
+    },
+    {
       "word": "hover",
       "pos": "VERB",
       "translation": "pairar, rondar",
@@ -12870,6 +13104,12 @@
       "pos": "PRON",
       "translation": "eu (“me”: me, mim)",
       "example": "I have a cat. — Eu tenho um gato."
+    },
+    {
+      "word": "i 'll sort it",
+      "pos": "PHRASE",
+      "translation": "eu resolvo, deixa comigo",
+      "example": "\"It's fine, love, I'll sort it,\" in the bright, cheerful voice she used when things were not fine at all."
     },
     {
       "word": "ice",
@@ -13510,10 +13750,22 @@
       "example": "There was, he reflected, something almost insulting about ending a career on so light a load."
     },
     {
+      "word": "intelligent",
+      "pos": "ADJ",
+      "translation": "inteligente",
+      "example": "Frank himself was a smaller, older version of Gaz, with the same broken nose and quick, intelligent eyes."
+    },
+    {
       "word": "intend",
       "pos": "VERB",
       "translation": "pretender, ter a intenção de",
       "example": "In a dark warehouse beside the Spey, ninety casks are quietly becoming something, and in twelve years' time, God and the A9 willing, he intends to be there when they are opened."
+    },
+    {
+      "word": "intense",
+      "pos": "ADJ",
+      "translation": "intenso",
+      "example": "IRON GLOVE was the most intense game Max had ever played."
     },
     {
       "word": "intent",
@@ -13586,6 +13838,12 @@
       "pos": "ADP",
       "translation": "em, para dentro de (com movimento)",
       "example": "Mia goes into the garden. — Mia vai para o jardim."
+    },
+    {
+      "word": "into the middle of next week",
+      "pos": "PHRASE",
+      "translation": "(«knock someone into the middle of next week»: mandar alguém longe com um soco)",
+      "example": "He came forward faster, harder, throwing combinations that would have knocked the old Max into the middle of next week."
     },
     {
       "word": "introduce",
@@ -13694,6 +13952,12 @@
       "pos": "NOUN",
       "translation": "a jaqueta",
       "example": "She arrived on her bicycle at five to ten, wearing running tights and a waterproof jacket, her long black hair tied up in a knot on the top of her head."
+    },
+    {
+      "word": "Jamal",
+      "pos": "PROPN",
+      "translation": "Jamal (nome)",
+      "example": "\"Jamal will go easy on you.\""
     },
     {
       "word": "January",
@@ -14138,6 +14402,12 @@
       "pos": "PROPN",
       "translation": "Kowalski (sobrenome)",
       "example": "You played a firefighter called Kowalski, a broad, patient woman with a grey moustache of soot across her face, and your job was not to win but to save people."
+    },
+    {
+      "word": "Kyle",
+      "pos": "PROPN",
+      "translation": "Kyle (nome)",
+      "example": "The main event is a local lad called Kyle Burns."
     },
     {
       "word": "la",
@@ -14666,6 +14936,18 @@
       "pos": "NOUN",
       "translation": "a perna",
       "example": "Godfrey was alive, but his leg was badly broken and he could barely breathe."
+    },
+    {
+      "word": "legal",
+      "pos": "ADJ",
+      "translation": "legal, judicial («legal action»: um processo judicial)",
+      "example": "If they did not pay one thousand eight hundred pounds by the end of the month, the letter said, legal action would begin."
+    },
+    {
+      "word": "legal action",
+      "pos": "PHRASE",
+      "translation": "o processo judicial, as medidas judiciais",
+      "example": "If they did not pay one thousand eight hundred pounds by the end of the month, the letter said, legal action would begin."
     },
     {
       "word": "leggy",
@@ -15495,6 +15777,12 @@
       "example": "The main strap had not torn."
     },
     {
+      "word": "main event",
+      "pos": "PHRASE",
+      "translation": "a luta principal, a atração principal",
+      "example": "The main event is a local lad called Kyle Burns."
+    },
+    {
       "word": "Majesty",
       "pos": "PROPN",
       "translation": "Majestade",
@@ -15830,6 +16118,12 @@
       "example": "He was tall, good-looking in the way of people who have never had to worry about anything, and his father was the deputy mayor of Aubrecourt."
     },
     {
+      "word": "McBride",
+      "pos": "PROPN",
+      "translation": "McBride (sobrenome)",
+      "example": "His character was a middleweight from Glasgow called Danny McBride, a quiet, red-haired fighter with a scar through one eyebrow, who never threw a punch he did not need to throw."
+    },
+    {
       "word": "meadow",
       "pos": "NOUN",
       "translation": "o prado",
@@ -16074,6 +16368,12 @@
       "pos": "PHRASE",
       "translation": "o dedo médio",
       "example": "Then, almost without deciding to, he copied the first diagram with his right hand: thumb against middle finger, palm turned towards the lamp, a slow half-circle from left to right."
+    },
+    {
+      "word": "middleweight",
+      "pos": "NOUN",
+      "translation": "o peso médio (boxe)",
+      "example": "His character was a middleweight from Glasgow called Danny McBride, a quiet, red-haired fighter with a scar through one eyebrow, who never threw a punch he did not need to throw."
     },
     {
       "word": "midfielder",
@@ -16770,6 +17070,18 @@
       "pos": "ADJ",
       "translation": "feio (“a nasty fall”: uma queda feia)",
       "example": "He went down to the glasshouses to see to Alaric's stove, and he's slipped on the ice path — taken a nasty fall, by the look of him."
+    },
+    {
+      "word": "national",
+      "pos": "ADJ",
+      "translation": "nacional",
+      "example": "\"No national ranking, no big promoters."
+    },
+    {
+      "word": "natural",
+      "pos": "ADJ",
+      "translation": "natural, nato («a natural fighter»: um lutador nato)",
+      "example": "\"You're either the most natural fighter in England or something very strange is going on, and to be honest, son, I don't care which.\""
     },
     {
       "word": "naturally",
@@ -18031,6 +18343,12 @@
       "example": "If there was a way to stay alive, he'd have found it out of spite."
     },
     {
+      "word": "out of the way",
+      "pos": "PHRASE",
+      "translation": "fora do caminho («step out of the way of»: desviar de)",
+      "example": "After the first few seconds, when Max had stepped out of the way of three punches without even lifting his hands, Jamal's face changed."
+    },
+    {
       "word": "outer",
       "pos": "ADJ",
       "translation": "exterior",
@@ -18155,6 +18473,12 @@
       "pos": "VERB",
       "translation": "ultrapassar; surpreender",
       "example": "It threads its way north from Perth through a succession of glens, now dual carriageway, now single, so that impatient motorists are forever being lured into overtaking on stretches that narrow without warning."
+    },
+    {
+      "word": "overweight",
+      "pos": "ADJ",
+      "translation": "acima do peso",
+      "example": "He was just himself, tired, a little overweight, in old tracksuit bottoms."
     },
     {
       "word": "owl",
@@ -19729,6 +20053,12 @@
       "example": "They promised us money."
     },
     {
+      "word": "promoter",
+      "pos": "NOUN",
+      "translation": "o promotor",
+      "example": "\"No national ranking, no big promoters."
+    },
+    {
       "word": "pronounce",
       "pos": "VERB",
       "translation": "declarar, pronunciar",
@@ -19910,6 +20240,12 @@
     },
     {
       "word": "punch",
+      "pos": "NOUN",
+      "translation": "o soco",
+      "example": "His character was a middleweight from Glasgow called Danny McBride, a quiet, red-haired fighter with a scar through one eyebrow, who never threw a punch he did not need to throw."
+    },
+    {
+      "word": "punch",
       "pos": "VERB",
       "translation": "dar um soco",
       "example": "She punched his arm, not gently."
@@ -19967,6 +20303,12 @@
       "pos": "VERB",
       "translation": "ronronar",
       "example": "But when Albert sat down on a box and started to dry my head with the towel, I began to purr."
+    },
+    {
+      "word": "purse",
+      "pos": "NOUN",
+      "translation": "a bolsa (prêmio de uma luta); a carteira",
+      "example": "The winner's purse is two thousand pounds."
     },
     {
       "word": "push",
@@ -20249,6 +20591,12 @@
       "pos": "PHRASE",
       "translation": "tirar (com o atiçador), espalhar",
       "example": "But the ashes in the hearth had been raked out across the floor, and the hearthstone itself had been levered up with something hard and pointed, and set back down again, crooked."
+    },
+    {
+      "word": "ranking",
+      "pos": "NOUN",
+      "translation": "o ranking, a classificação",
+      "example": "\"No national ranking, no big promoters."
     },
     {
       "word": "Rannoch",
@@ -20634,6 +20982,12 @@
       "example": "He began his walk-round check by torchlight, as the regulations required and as habit would have compelled him to do regardless: tyres, wheel nuts, lights, mirrors, the fifth-wheel coupling, the airlines and the suzies coiled behind the cab."
     },
     {
+      "word": "Reid",
+      "pos": "PROPN",
+      "translation": "Reid (sobrenome)",
+      "example": "Jamal Reid was twenty-two, the Yorkshire amateur champion at his weight, and he moved like water."
+    },
+    {
       "word": "rejoicing",
       "pos": "ADJ",
       "translation": "jubiloso, exultante",
@@ -20800,6 +21154,12 @@
       "pos": "VERB",
       "translation": "recolocar; substituir",
       "example": "Then the letter was folded, the leaf replaced, the twine retied."
+    },
+    {
+      "word": "replay",
+      "pos": "VERB",
+      "translation": "repassar (na cabeça), reviver",
+      "example": "But another part of him, a louder part, kept replaying the moment when Jamal sat down on the canvas, and the silence in the gym, and the way every pair of eyes had turned towards him."
     },
     {
       "word": "reply",
@@ -21158,7 +21518,7 @@
     {
       "word": "ring",
       "pos": "NOUN",
-      "translation": "o círculo, o anel",
+      "translation": "o círculo, o anel; o ringue (boxe)",
       "example": "At its heart stood the shrine, a ring of seven carved posts so old that the weather had worn their faces into smooth, patient suggestions of faces."
     },
     {
@@ -21820,6 +22180,12 @@
       "pos": "PROPN",
       "translation": "sábado",
       "example": "It is Saturday. — É sábado."
+    },
+    {
+      "word": "saucer",
+      "pos": "NOUN",
+      "translation": "o pires",
+      "example": "She listened in silence, stirring her tea, and when he had finished, she put the spoon down very carefully on the saucer."
     },
     {
       "word": "sausage",
@@ -22548,6 +22914,12 @@
       "example": "He shook it off into the fire, where it flared and was gone."
     },
     {
+      "word": "shaking",
+      "pos": "NOUN",
+      "translation": "o tremor",
+      "example": "He could feel the shaking starting already in his arms and legs, his body paying for three rounds of moving faster than it was built to move."
+    },
+    {
       "word": "shaky",
       "pos": "ADJ",
       "translation": "trêmulo, tremido",
@@ -22942,6 +23314,12 @@
       "pos": "VERB",
       "translation": "mostrar",
       "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
+    },
+    {
+      "word": "show off",
+      "pos": "PHRASE",
+      "translation": "se exibir, se mostrar",
+      "example": "He noticed which of the young men hitting the heavy bags were tired, and which were showing off."
     },
     {
       "word": "show through",
@@ -23398,6 +23776,12 @@
       "pos": "VERB",
       "translation": "pular",
       "example": "Then he went back to the book, to the paragraph he had skipped because it seemed too vague to be useful."
+    },
+    {
+      "word": "skipping rope",
+      "pos": "PHRASE",
+      "translation": "a corda de pular",
+      "example": "Somewhere behind the ropes, someone dropped a skipping rope."
     },
     {
       "word": "skitter",
@@ -24792,6 +25176,18 @@
       "example": "He backed away from Rowan slowly, step by step, holding his sap-stained hand against his chest, his pale eyes fixed on Rowan's face."
     },
     {
+      "word": "step in",
+      "pos": "PHRASE",
+      "translation": "dar um passo à frente, avançar",
+      "example": "Then, in a tiny moment when Jamal dropped his right hand to throw a hook, Max stepped in and hit him with a short, straight left, exactly like Danny McBride did a hundred times in the game."
+    },
+    {
+      "word": "step out",
+      "pos": "PHRASE",
+      "translation": "dar um passo atrás, sair",
+      "example": "The game was all about distance and timing: stepping in, stepping out, slipping punches by moving your head a few centimetres, waiting for the tiny moment when your opponent dropped his guard."
+    },
+    {
       "word": "stepladder",
       "pos": "NOUN",
       "translation": "a escada de abrir",
@@ -25390,6 +25786,12 @@
       "pos": "ADJ",
       "translation": "emburrado, sombrio",
       "example": "Below, the fire had sunk to a sullen red glow, and by its light he could make out the bulk of his uncle kneeling on the floor."
+    },
+    {
+      "word": "sum",
+      "pos": "NOUN",
+      "translation": "a soma; a conta («do sums»: fazer contas)",
+      "example": "He lay awake that day doing sums in his head, and none of them came out right."
     },
     {
       "word": "summer",
@@ -26753,6 +27155,12 @@
       "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
     },
     {
+      "word": "time",
+      "pos": "VERB",
+      "translation": "cronometrar; escolher o momento de («perfectly timed»: no momento exato)",
+      "example": "But it was perfectly timed, and it landed exactly on the point of Jamal's chin."
+    },
+    {
       "word": "timing",
       "pos": "NOUN",
       "translation": "o momento certo («Perfect timing»: chegou na hora certa)",
@@ -26847,6 +27255,12 @@
       "pos": "NOUN",
       "translation": "a torrada",
       "example": "When Max pushed it open with his shoulder, the smell of toast came down the hallway to meet him."
+    },
+    {
+      "word": "toaster",
+      "pos": "NOUN",
+      "translation": "a torradeira",
+      "example": "The fire brigade said the cause had been an old toaster."
     },
     {
       "word": "Tobin",
@@ -26987,6 +27401,12 @@
       "example": "the knight finally asked, touching the long scar that crossed his left cheek."
     },
     {
+      "word": "tough",
+      "pos": "ADJ",
+      "translation": "durão, forte",
+      "example": "There were two rings, a row of heavy bags hanging from chains, faded posters of fighters from the 1980s and a hand-painted sign above the door that said: NOBODY IS BORN TOUGH."
+    },
+    {
       "word": "tour",
       "pos": "NOUN",
       "translation": "a visita (guiada), o passeio",
@@ -27069,6 +27489,12 @@
       "pos": "NOUN",
       "translation": "o agasalho esportivo",
       "example": "By then, a small crowd had gathered behind the fence: two old ladies in tracksuits, a man with a dog, and a group of teenagers who had stopped their own lesson to watch."
+    },
+    {
+      "word": "tracksuit bottoms",
+      "pos": "PHRASE",
+      "translation": "a calça de moletom",
+      "example": "He was just himself, tired, a little overweight, in old tracksuit bottoms."
     },
     {
       "word": "tractor",
@@ -27863,6 +28289,12 @@
       "example": "She was a Scania, eleven years old and well past the age at which the firm normally sold its tractor units on to hauliers in Lithuania, but the transport manager had a soft spot for Gideon, and Gideon had a soft spot for the truck, and the arrangement had quietly survived three rounds of fleet renewal."
     },
     {
+      "word": "universe",
+      "pos": "NOUN",
+      "translation": "o universo",
+      "example": "It was as if the universe had read his mind and was laughing at him."
+    },
+    {
       "word": "university",
       "pos": "NOUN",
       "translation": "a universidade, a faculdade",
@@ -27891,6 +28323,12 @@
       "pos": "SCONJ",
       "translation": "a menos que, a não ser que",
       "example": "He lived in a tiny lean-to at the end of the fifth glasshouse, among sacks of bonemeal and coils of twine, and nobody at the Academy seemed to remember that he was there unless something died."
+    },
+    {
+      "word": "unlicensed",
+      "pos": "ADJ",
+      "translation": "sem licença, não oficial",
+      "example": "\"What does unlicensed mean?\" asked Max."
     },
     {
       "word": "unlike",
@@ -28035,6 +28473,12 @@
       "pos": "ADV",
       "translation": "incomumente",
       "example": "\"The Wood-wardens didn't build it,\" Jory said, in an unusually hushed voice."
+    },
+    {
+      "word": "unwashed",
+      "pos": "ADJ",
+      "translation": "sujo, por lavar",
+      "example": "Frank took him into the little office at the back of the gym, a room full of trophies, old newspapers and unwashed mugs."
     },
     {
       "word": "unwrap",
@@ -29380,6 +29824,12 @@
       "example": "Then the next, and the next, faster and faster, red, blue, green, until his arms were moving like the wings of a hummingbird."
     },
     {
+      "word": "winner",
+      "pos": "NOUN",
+      "translation": "o vencedor",
+      "example": "The winner's purse is two thousand pounds."
+    },
+    {
       "word": "winter",
       "pos": "NOUN",
       "translation": "o inverno",
@@ -29764,6 +30214,12 @@
       "example": "\"And that,\" said Bram heavily, \"is where it went wrong.\""
     },
     {
+      "word": "x",
+      "pos": "NOUN",
+      "translation": "beijo («x» no fim de uma mensagem)",
+      "example": "And bread if they have the cheap one. x."
+    },
+    {
       "word": "y",
       "pos": "NOUN",
       "translation": "y (a letra)",
@@ -29858,6 +30314,12 @@
       "pos": "NOUN",
       "translation": "o iogurte",
       "example": "Then he went to the kitchen, ate a yoghurt and half a packet of biscuits, and came back to his desk."
+    },
+    {
+      "word": "Yorkshire",
+      "pos": "PROPN",
+      "translation": "Yorkshire (região do norte da Inglaterra)",
+      "example": "Jamal Reid was twenty-two, the Yorkshire amateur champion at his weight, and he moved like water."
     },
     {
       "word": "you",

@@ -296,3 +296,76 @@ Max found out at lunchtime, when he came downstairs and saw his own back on the 
 "Six years old," his mum said, without turning round. "Six years old, and the stairs full of smoke. Whoever that man is, he's a real hero. Not like those idiots in your games." She wiped her eyes with a tea towel. Max stood very still in the doorway. Behind his mother's back, Lily put her finger to her lips. For a second, Max wanted to say it, to tell his mum that the idiot in the games and the hero on the television were the same person. But he did not know how.
 His phone was full of messages. Most were from Priya, and they became shorter and angrier as the morning went on. The last one said simply: Is that YOU? Max looked at it for a long time. Then he went back upstairs and stood in front of the shelf above his desk, where the old firefighter application was still pinned. For the first time in five years, he did not feel ashamed when he looked at it. He felt something else, something he could not name.
 Then the doubt came. He had not saved Danny. Kowalski had. A woman made of pixels with a grey moustache of soot. Without the game, he would have stood in the street with everyone else, holding his phone, waiting for the sirens. He sat down on the bed and looked at the Halcyon. The grey box sat silently on the floor, with its cracked lid and its little metal plate, and for the first time Max wondered whether it was giving him something, or taking something away.
+
+# New Challenger
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_5.page_1-1792991267624.mp3
+Priya came round that evening, and she did not ring the doorbell. She knocked on the window of the front room until Max came out, then walked him to the end of the road and back twice before she said a single word. When she finally spoke, her voice was shaking. "You ran into a burning building," she said. "Without equipment. Without training. With your lungs. Do you have any idea how many people die doing exactly that? Real firefighters, Max. People who know what they're doing."
+"Kowalski knew what she was doing," said Max. Priya stopped walking and stared at him. "Kowalski," she repeated, "is a video game character." Then, before he could answer, she put her arms around him and held him very tightly for a long moment, and when she let go, her eyes were wet. "That little boy is alive because of you," she said. "I know that. I'm proud of you. And I'm so angry with you that I want to push you into a hedge."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_5.page_2-1792991279572.mp3
+For a week, Max hid. He wore a different coat, he stopped using the grey hoodie, he took the long way to the bus stop so that he did not have to walk past the blackened flats. The story slowly moved off the news. The fire brigade said the cause had been an old toaster. Danny and his mother had gone to stay with relatives in Bradford. Nobody knew who the man in the hood was, and Max began to believe that nobody ever would.
+Meanwhile, other problems arrived, the ordinary kind. The care home where his mum worked had cut her hours from five days a week to three. One morning Max came home from his shift and found a letter on the kitchen table, opened, with a red stamp at the top. It was from the housing association. The Turners were two months behind with the rent. If they did not pay one thousand eight hundred pounds by the end of the month, the letter said, legal action would begin.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_5.page_3-1792991291182.mp3
+His mum did not mention it. When he asked her about it, she just said, "It's fine, love, I'll sort it," in the bright, cheerful voice she used when things were not fine at all. Max had four hundred pounds in his bank account. He knew because he checked it twice that morning, as if the number might grow if he looked at it long enough. He lay awake that day doing sums in his head, and none of them came out right.
+The next night at work, Gaz the supervisor came and found him in aisle twelve. Gaz almost never spoke. He was a huge, bald man with a broken nose and hands like shovels, and most of the workers were a little afraid of him. He stood in front of Max's cage with his arms folded and looked at him for a long time without saying anything. Then he took out his phone and held it up. On the screen was the video of the fire.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_5.page_4-1792991304131.mp3
+"That's you," said Gaz. It was not a question. Max opened his mouth to deny it, and Gaz shook his head. "Don't bother. I've watched it fifty times. I know how you move now. I saw you jump that pallet. Nobody else here moves like that." He put the phone back in his pocket. "Don't worry, I'm not going to tell anyone. But my brother wants to meet you. He runs a boxing gym in Burley. He saw the video too. He says you've got the best balance he's ever seen."
+Frank Doyle's gym was in a railway arch under the line to Harrogate, and every few minutes the whole place shook as a train passed overhead. It smelled of sweat, leather and old coffee. There were two rings, a row of heavy bags hanging from chains, faded posters of fighters from the 1980s and a hand-painted sign above the door that said: NOBODY IS BORN TOUGH. Frank himself was a smaller, older version of Gaz, with the same broken nose and quick, intelligent eyes.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_5.page_5-1792991316521.mp3
+"So you're the Harehills Hero," he said, shaking Max's hand and looking him up and down without much enthusiasm. "You're not what I expected." Max had not played anything that day. He was just himself, tired, a little overweight, in old tracksuit bottoms. "I'm not a hero," he said. "And I've never boxed in my life." Frank smiled for the first time. "Good," he said. "Then you haven't learned any bad habits. Come back tomorrow and show me what you can do."
+On the bus home, Max took the cartridge marked IRON GLOVE out of his pocket and looked at it. He had brought it with him, just in case. He thought of Priya and her rules. He thought of Graham at the tennis club asking who his coach was. Then he thought of the letter on the kitchen table with its red stamp, and of his mum saying "I'll sort it" in her bright, false voice. He put the cartridge back in his pocket and closed his hand around it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_5.page_6-1792991330085.mp3
+IRON GLOVE was the most intense game Max had ever played. His character was a middleweight from Glasgow called Danny McBride, a quiet, red-haired fighter with a scar through one eyebrow, who never threw a punch he did not need to throw. The game was all about distance and timing: stepping in, stepping out, slipping punches by moving your head a few centimetres, waiting for the tiny moment when your opponent dropped his guard. Max played for three hours without stopping. The console was almost too hot to touch.
+When he walked into Frank's gym the next evening, he felt different from the moment he stepped through the door. He noticed where everyone was standing. He noticed which of the young men hitting the heavy bags were tired, and which were showing off. When Frank threw him a pair of gloves, he caught them without looking, and Frank raised an eyebrow. "Get in the ring," Frank said. "Jamal will go easy on you." Max climbed through the ropes. His hands were already warm inside the gloves.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_5.page_7-1792991343695.mp3
+Jamal Reid was twenty-two, the Yorkshire amateur champion at his weight, and he moved like water. He did not go easy on Max for very long. After the first few seconds, when Max had stepped out of the way of three punches without even lifting his hands, Jamal's face changed. He came forward faster, harder, throwing combinations that would have knocked the old Max into the middle of next week. Max moved his head. He stepped to the side. Every punch missed him by the width of a finger.
+Then, in a tiny moment when Jamal dropped his right hand to throw a hook, Max stepped in and hit him with a short, straight left, exactly like Danny McBride did a hundred times in the game. It was not a hard punch, because Max's arms were not strong. But it was perfectly timed, and it landed exactly on the point of Jamal's chin. The champion sat down on the canvas with a look of complete astonishment on his face. Somewhere behind the ropes, someone dropped a skipping rope.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_5.page_8-1792991358143.mp3
+The gym went silent. Even the trains seemed to stop. Then Jamal laughed, a real, surprised laugh, and held up his glove so Max could help him up. "Where have they been hiding you?" he asked. Max did not answer. He could feel the shaking starting already in his arms and legs, his body paying for three rounds of moving faster than it was built to move. Frank Doyle was standing at the side of the ring. He was not smiling. He looked like a man who had just found a bag of money in the street.
+Frank took him into the little office at the back of the gym, a room full of trophies, old newspapers and unwashed mugs. He closed the door and sat down behind the desk. "I've been in this game for forty years," he said. "I've never seen anything like that. Never. You're either the most natural fighter in England or something very strange is going on, and to be honest, son, I don't care which." He leaned forward. "There's a fight night in Bradford in three weeks. Charity event. Unlicensed."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_5.page_9-1792991372491.mp3
+"What does unlicensed mean?" asked Max. "It means it's not official," said Frank. "No national ranking, no big promoters. Just a big warehouse, five hundred people, a lot of beer and a lot of money changing hands at the back. The main event is a local lad called Kyle Burns. They call him the Hammer. He's knocked out eleven men in a row and they can't find anyone else stupid enough to fight him. The winner's purse is two thousand pounds." He paused. "Cash."
+Two thousand pounds. Max thought of the red stamp on the letter. Of one thousand eight hundred pounds by the end of the month. Of his mum's bright, false voice. It was as if the universe had read his mind and was laughing at him. "I'll think about it," he said. Frank gave him a card with his number on it. "Don't think too long," he said. "And son, whatever you're doing to move like that, keep doing it. Every day. Until the fight."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_5.page_10-1792991386009.mp3
+He told Priya the next day in a café near her university. He told her about the gym, about Jamal sitting on the canvas, about Frank's office and the two thousand pounds. He did not tell her about the rent. He was too ashamed. She listened in silence, stirring her tea, and when he had finished, she put the spoon down very carefully on the saucer. "No," she said. "Absolutely not. Max, a man who knocks people out for a living is going to hit you in the head."
+"He won't hit me," said Max. "Nobody can hit me. You should have seen it." Priya leaned across the table. "Your skills last four hours for every hour you play. Your body breaks down afterwards. And you have the heart and lungs of a man who eats biscuits for breakfast. What happens if the game wears off in the second round? What happens if you lose one practice match the day before? You told me yourself, you become a loser. Literally." Max looked away. "I've already decided," he said.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_5.page_11-1792991399348.mp3
+They did not speak for a while. Outside the café window, students were hurrying past under umbrellas. "Why?" Priya asked at last, more quietly. "You've never cared about money. You've never cared about winning anything except games. Why this? Why now?" Max wanted to tell her. He wanted to say: because my mum is going to lose the house, because I'm twenty-four and I've never been able to help her with anything. But the words stayed in his throat. "Because I can," he said instead.
+Priya looked at him as if he were a stranger. Then she stood up, put on her yellow jacket and left a five-pound note on the table for the tea. "You sound like one of your games," she said. "Press start, press fight, win the prize." At the door she stopped and turned round. "When you're in hospital," she said, "I'll still come and visit. But I won't bring grapes." And she walked out into the rain without looking back.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_5.page_12-1792991417543.mp3
+Max sat alone in the café for a long time, watching his tea go cold. Part of him wanted to run after her and say she was right, that he would forget about Frank and the Hammer and the two thousand pounds. But another part of him, a louder part, kept replaying the moment when Jamal sat down on the canvas, and the silence in the gym, and the way every pair of eyes had turned towards him. He had never been the person everyone looked at. He liked it. He liked it far too much.
+He took out his phone and found Frank's number. His thumb stayed over the screen for almost a minute. Then a message arrived from his mum: Don't forget to buy milk on the way home love. And bread if they have the cheap one. x. He read it twice. The cheap one. He thought of all the times she had bought the cheap one so that he and Lily could have the good one. Then he pressed Frank's number and lifted the phone to his ear.
+"I'll do it," he said when Frank answered. On the other end, he heard a train passing over the gym, and then Frank's dry laugh. "Good lad," said Frank. "Three weeks. Come in every evening. And son? Whatever your secret is, don't tell me. I don't want to know." He hung up. Max sat with the phone in his hand and the rain on the window and felt, for a second, the warm hum of the grey console somewhere deep in his chest, as if it was pleased with him.
