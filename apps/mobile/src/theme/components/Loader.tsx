@@ -31,6 +31,8 @@ export type LoaderProps = {
   /** Shown under the dots when loading takes a moment (not on quick loads). */
   message?: string;
   color?: string;
+  /** The three dots, e.g. light ones on a colored background. */
+  dotColors?: readonly string[];
   background?: string;
   style?: ViewStyle;
 };
@@ -44,6 +46,7 @@ export function Loader({
   message,
   color = colors.primary,
   background = colors.primarySoft,
+  dotColors = DOT_COLORS,
   style,
 }: LoaderProps) {
   const reduceMotion = useReducedMotion();
@@ -60,8 +63,8 @@ export function Loader({
         <Bubble icon={icon} color={color} background={background} animate={!reduceMotion} />
       ) : null}
       <View style={styles.dots}>
-        {DOT_COLORS.map((c, i) => (
-          <Dot key={c} color={c} index={i} animate={!reduceMotion} />
+        {dotColors.map((c, i) => (
+          <Dot key={i} color={c} index={i} animate={!reduceMotion} />
         ))}
       </View>
       {message ? (

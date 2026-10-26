@@ -3,11 +3,12 @@ import { Stack } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
 import { StatusBar } from 'expo-status-bar';
 import { BookOpen } from 'lucide-react-native';
-import { useEffect } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import { StyleSheet, View } from 'react-native';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 
 import { GoalToast } from '@/components/GoalToast';
+import { LaunchScreen } from '@/components/LaunchScreen';
 import { I18nProvider, useI18n } from '@/i18n';
 import { AuthProvider, useAuth } from '@/lib/auth';
 import { StatsProvider, useStats } from '@/lib/stats';
@@ -39,12 +40,20 @@ function RootNavigator() {
   // Waiting for the stats tells whether the account has chosen its language yet.
   const { stats, ready: statsReady } = useStats();
   const loading = (!fontsLoaded && !fontError) || !ready || !langReady || !statsReady;
+  // Cold start: the launch screen covers the app until it is ready, then fades out.
+  const [launching, setLaunching] = useState(true);
+  const endLaunch = useCallback(() => setLaunching(false), []);
 
   useEffect(() => {
-    if (!loading) SplashScreen.hideAsync();
+    // The launch screen hides the native splash itself; this is a fallback.
+    if (!loading) SplashScreen.hide();
   }, [loading]);
 
-  // Under the splash screen at launch; visible just after signing in.
+  const launch = launching ? (
+    <LaunchScreen done={!loading} fontsReady={fontsLoaded} onHidden={endLaunch} />
+  ) : null;
+  if (loading && launching) return launch;
+  // Loading again after the launch: just after signing in.
   if (loading) {
     return (
       <View style={styles.loading}>
@@ -96,6 +105,7 @@ function RootNavigator() {
       </Stack>
       {/* Above every screen: today's goal can be reached while reading or reviewing. */}
       {signedIn ? <GoalToast /> : null}
+      {launch}
     </>
   );
 }

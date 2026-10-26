@@ -85,6 +85,12 @@ export const colors = {
   disabledShade: palette.lineShade,
 } as const;
 
+/**
+ * Brand gradient (top left → bottom right) of the app icon and the launch screen; the
+ * native splash uses its middle color.
+ */
+export const brandGradient = ['#8E6CFF', '#6C3BE0', '#4E14A0'] as const;
+
 /** One color per CEFR level, used by badges and the home path. */
 export const levelColors = {
   A1: { solid: palette.mint, shade: palette.mintShade, soft: palette.mintSoft },
