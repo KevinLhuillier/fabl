@@ -91,9 +91,22 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "association",
+      "pos": "PROPN",
+      "next": "office",
+      "word": "association",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "astonishment",
       "pos": "PROPN",
       "word": "astonishment",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "athletics",
+      "pos": "NOUN",
+      "word": "athletics",
       "lemmaPos": "NOUN"
     },
     {
@@ -387,6 +400,12 @@
       "text": "CAT",
       "pos": "PROPN",
       "word": "cat",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "championships",
+      "pos": "VERB",
+      "word": "championship",
       "lemmaPos": "NOUN"
     },
     {
@@ -1257,6 +1276,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "housing",
+      "pos": "PROPN",
+      "next": "association",
+      "word": "housing",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "hung",
       "pos": "PROPN",
       "word": "hang",
@@ -1297,6 +1323,13 @@
       "pos": "ADV",
       "word": "Ilse",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "in",
+      "pos": "NOUN",
+      "next": "centre",
+      "word": "walk-in",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "indecent",
@@ -1455,6 +1488,13 @@
       "pos": "PROPN",
       "word": "lamp",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "laughing",
+      "pos": "NOUN",
+      "next": ",",
+      "word": "laugh",
+      "lemmaPos": "VERB"
     },
     {
       "text": "lay",
@@ -1697,6 +1737,12 @@
     },
     {
       "text": "mine",
+      "pos": "ADJ",
+      "word": "mine",
+      "lemmaPos": "PRON"
+    },
+    {
+      "text": "mine",
       "pos": "NOUN",
       "word": "mine",
       "lemmaPos": "PRON"
@@ -1824,6 +1870,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Night",
+      "pos": "PROPN",
+      "next": ",",
+      "word": "night",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "nightclothes",
       "pos": "NOUN",
       "word": "nightclothes",
@@ -1899,6 +1952,12 @@
       "text": "Nuage",
       "pos": "NOUN",
       "word": "Nuage",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "OCTOBER",
+      "pos": "PROPN",
+      "word": "October",
       "lemmaPos": "PROPN"
     },
     {
@@ -2169,6 +2228,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "QUEEN",
+      "pos": "PROPN",
+      "word": "queen",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "quieter",
       "pos": "NOUN",
       "word": "quiet",
@@ -2323,6 +2388,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Rooftop",
+      "pos": "PROPN",
+      "word": "rooftop",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "ropes",
       "pos": "VERB",
       "word": "rope",
@@ -2375,6 +2446,12 @@
     },
     {
       "text": "RUSH",
+      "pos": "PROPN",
+      "word": "rush",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Rush",
       "pos": "PROPN",
       "word": "rush",
       "lemmaPos": "NOUN"
@@ -2662,6 +2739,12 @@
       "pos": "NOUN",
       "word": "spin",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "SPRINT",
+      "pos": "PROPN",
+      "word": "sprint",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "sprout",
@@ -3003,6 +3086,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "TODAY",
+      "pos": "PROPN",
+      "word": "today",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Took",
       "pos": "VERB",
       "word": "take",
@@ -3147,6 +3236,12 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "valley",
+      "pos": "PROPN",
+      "word": "valley",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Vell",
       "pos": "NOUN",
       "word": "Vell",
@@ -3157,6 +3252,12 @@
       "pos": "PROPN",
       "word": "very",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "vest",
+      "pos": "ADJ",
+      "word": "vest",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "waded",
@@ -3181,6 +3282,13 @@
       "pos": "NOUN",
       "word": "wake",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "walk",
+      "pos": "VERB",
+      "next": "-",
+      "word": "walk-in",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "warehouse",

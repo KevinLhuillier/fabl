@@ -515,3 +515,76 @@ Priya was waiting in the changing room with Lily. She did not say I told you so.
 Frank came in last. He did not have two thousand pounds. The loser got nothing; that had always been the rule. But he pressed an envelope into Max's hand. Inside were two hundred pounds in ten-pound notes. "From the lads at the gym," he said gruffly. "They had a collection at the back. Most of them bet on Burns, you understand. But after the third round, well." He shook his head. "You weren't the same fighter in that last round, son. I don't know what happened to you."
 "Neither do I," said Max. But it was not quite true. He knew exactly what had happened. For the first time in his life, he had kept going when everything in his body was telling him to stop. And he had done it alone. Gaz drove them all back to Leeds in his van, Lily asleep against Priya's shoulder in the back, Max in the front seat with a bag of frozen peas against his eye and the city lights sliding past in the darkness.
 When they got back to Ashley Road, it was past two in the morning. The house was dark. Max climbed the stairs slowly, one at a time, holding onto the rail, and opened his bedroom door. A smell of hot, burnt plastic hit him in the face. On the floor, the Halcyon was still connected to the television, where he had left it running all evening like a lucky charm. The crack in its lid had split wide open. There was black smoke on the wall behind it. And the console was completely, utterly silent.
+
+# Low Health
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_8.page_1-1793032986746.mp3
+His mum found out at eight o'clock the next morning, when she came into the kitchen and saw him sitting at the table with a face like a squashed plum. She stood very still in the doorway in her dressing gown. Max had spent half the night trying to think of a story: he had fallen down the stairs at work, he had walked into a pallet, he had been hit by a cage. When he saw her face, he forgot all of them. "Sit down, Mum," he said. "I need to tell you something."
+He told her everything. The market. The console. Rooftop Rush and the wall, the tennis club, the fire, Danny under the bed with his ginger cat. Frank's gym, the fight, the Hammer. Lily came down halfway through and sat beside him without a word, and added the parts he had forgotten. Carol listened in silence. She did not interrupt once. When he got to the part about the letter from the housing association, and why he had agreed to fight, she closed her eyes.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_8.page_2-1793033002810.mp3
+For a long time after he had finished, she did not speak. Max waited for her to say that he was mad, or a liar, or both. Instead she got up, went to the freezer, took out a fresh bag of peas and put it gently against his face. "You were the man at the fire," she said. It was not a question. "My son. On the television." Her voice cracked. "And I said those terrible things about you and your games, right in front of you." Max shook his head. "You didn't know," he said.
+Then she was angry, very angry, and it was almost a relief. She shouted about the fight, about Lily being in Bradford at two in the morning when she was supposed to be at Chloe's, about the danger and the stupidity of it all. Lily was grounded for a month. Max was too old to be grounded, but he received a lecture that lasted almost half an hour. And at the end of it, his mum sat down, put her head on his shoulder, and cried.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_8.page_3-1793033018952.mp3
+"The rent is my problem," she said when she had stopped. "Not yours. Not a fourteen-year-old's. Mine." But that afternoon, they went to the housing association office together, all three of them, and sat in a small grey room with a tired woman in glasses. They paid six hundred pounds with Max's savings and Frank's envelope, and agreed a plan to pay the rest over six months. It was not a miracle. It was not two thousand pounds in cash. But walking home, his mum held his arm, and for once her voice was not bright and false.
+The days after the fight were the hardest of Max's life. His body, which had been pushed for weeks far beyond what it could do, finally sent him the full bill. For four days he could hardly get out of bed. His ribs were bruised, his eye was swollen shut, and every muscle he owned seemed to be on fire. A doctor at the walk-in centre told him he was dehydrated and seriously underweight, and asked him, quite suspiciously, what on earth he had been doing.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_8.page_4-1793033034491.mp3
+But the strange thing was that his mind felt clearer than it had in weeks. The urge to crack his neck before entering a room disappeared. He stopped saying "aye". When Lily came in with a cup of tea and put it down too quickly beside his bed, his hands stayed where they were. And the cold feeling from NIGHT HOLLOW, the feeling of something standing in the corner, had gone completely. For the first time since that night at Kirkgate Market, he was only himself. It was frightening. It was also, he realised, a relief.
+The Halcyon sat in a corner of the room, black and silent. On the second day, Max had tried to turn it on, just once, just to see. Nothing had happened. The power light did not come on. When he opened the lid, the inside smelled of smoke and the little green circuit board was black and bubbled in the middle, like burnt toast. He did not know whether to feel sad or grateful. He put the cartridges back in their cardboard box and pushed it under the bed.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_8.page_5-1793033051188.mp3
+On the fourth day, Priya came. She brought a bag of oranges, a pile of library books on sports physiology and, despite her promise, a small bunch of grapes. She sat on the end of his bed and looked at him for a long time without speaking. "I'm sorry," Max said at last. "For what I said on Vicar Lane. For not listening. For everything." Priya pulled one grape off the bunch and ate it thoughtfully. "I'm sorry too," she said. "I should have told you about Ruth Bell much earlier, and much more calmly."
+"You came," said Max. "You said you wouldn't." Priya shrugged. "I sat at home for an hour telling myself I wasn't going," she said. "Then I got on the train." She looked down at her hands. "When you were on the floor in the second round, I thought you were dead. For about three seconds, I really thought it." Max did not know what to say. He reached under his pillow and took out a crumpled receipt with an address written on the back. "I'd like to go to Otley," he said. "If you'll come with me."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_8.page_6-1793033067684.mp3
+Otley was a small market town in a green valley north of Leeds, with stone houses, a river and a steep hill called the Chevin rising above it. Ruth Bell's house was at the end of a narrow lane beside the water, a tiny cottage with a blue door and a garden full of herbs. When she opened the door, Max almost did not recognise her from the photograph. She was small and grey-haired, with lines around her eyes. But she stood very straight, and her handshake was firm.
+"Mr Okoro rang me," she said, looking at Max's bruised face. "He said a young man might come. He said you'd found my father's machine." She made tea in a brown pot and they sat in her little kitchen, where the window looked out onto the river. On the wall there was a single framed photograph: a girl of about ten in a school running vest, laughing, with a tall, thin man standing behind her with his hands on her shoulders. "That's my dad," said Ruth. "Before the Halcyon. Before everything."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_8.page_7-1793033085825.mp3
+She told them her story slowly, choosing her words with care, like someone walking across ice. When she was seventeen, she had been a good runner, but not a great one. She was always fourth, or fifth. Her father had watched her cry after every race. So he had built the Halcyon in his garage, working at night after his job, and written the games himself. The first one was a running game, of course. "SPRINT QUEEN," said Ruth, and smiled sadly. "I was the queen. For one summer."
+"I won every race that year," she went on. "And every time I won, I needed to play a little longer before the next one. At first it was an hour. Then three. Then six. Then I was playing all night. And slowly I stopped being able to run without it. Not just fast. At all. I would stand at the start line and my legs would not know what to do. I wrote it in my diary. Day forty-one." She looked at Max. "I think you found that page."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_8.page_8-1793033107239.mp3
+Max nodded. He could not speak. Priya asked the question he could not ask. "What happened after the county championships?" Ruth looked out at the river for a long time. "I collapsed," she said simply. "My heart was fine. My body was just empty. And when I woke up in hospital, I didn't know who I was. I don't mean I'd forgotten my name. I mean I didn't know what I liked, what I wanted, how I used to laugh. I'd spent so long being the girl in the game that there was nothing left of me underneath."
+"It took me ten years to come back," Ruth said. "Ten years. I didn't run at all for most of them. I couldn't even watch athletics on the television. Then one day, when I was nearly thirty, I put on a pair of old trainers and walked to the end of this lane and back. The next day I walked a bit further. Then I jogged ten steps, very badly, like an old woman. It was the most difficult thing I've ever done, and the best." She smiled for the first time, properly. "Now I run up the Chevin every Saturday morning. Very slowly. Last in my age group."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_8.page_9-1793033123014.mp3
+"Last," Max repeated, as if it were a word in a foreign language. "And you're happy with that?" Ruth laughed. "Every step is mine," she said. "Every single one. I paid for them. Nobody can take them away when the power goes off." She leaned forward and looked hard at his swollen face. "Mr Okoro told me about your fight. He has a nephew who was there. He said you lost. He also said that in the last round, you were the only real thing in the building."
+"That wasn't skill," said Max. "I had nothing left. I didn't know what I was doing." Ruth shook her head. "Exactly," she said. "That's what my father never understood. His machine could copy a pattern, the shape of a movement. It could make your feet go here and your hands go there. But it could never give you the reason to get up when you're lying on the floor. That has to come from you. And you found it, Max. On your own. Most people never find it at all."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_8.page_10-1793033139862.mp3
+When they left, it was getting dark. Ruth walked them to the end of the lane. At the corner, she stopped and took something out of her coat pocket: an old metal stopwatch on a faded red string, the kind that coaches used to wear around their necks. "This was my father's," she said, pressing it into Max's hand. "He used it to time me, before the machine. When I was fourth and fifth and crying. I'd like you to have it. For your own times. The real ones."
+On the train back to Leeds, Max held the stopwatch in his hand and turned it over and over, watching the reflections of the passing lights in its scratched glass. Priya was reading one of her library books, or pretending to. After a while he said, "I want to try the firefighter test again." She put the book down very slowly. "For real this time," he went on. "Without the game. Without anything. I know I'll probably fail. But I want the steps to be mine." Priya smiled. Then she opened her notebook to a clean page.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_8.page_11-1793033158190.mp3
+At the top of the page, in neat capital letters, she wrote: EXPERIMENT 2. And underneath: Subject: Max Turner. Version: original. Max laughed, and it hurt his ribs, and he did not care. "How long?" he asked. "Until I could pass?" Priya thought about it seriously, tapping the pen against her teeth. "The next recruitment test is in October," she said. "That gives us about five months. It's possible. It'll be horrible. You'll hate me. But it's possible."
+That night, back in his room on Ashley Road, Max took the old firefighter application letter down from the wall above his desk for the first time in five years. He did not throw it away. He folded it carefully and put it in the drawer, and in its place he pinned a blank sheet of paper. On it, with a black marker, he drew a long horizontal line, like the progress bar in a game. At the far left he wrote TODAY. At the far right he wrote OCTOBER. The line between them was completely empty.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_8.page_12-1793033182059.mp3
+Lily came in without knocking, as usual, and stood looking at it. "That's the saddest progress bar I've ever seen," she said. "Zero per cent." Max hung the old stopwatch on the corner of the paper by its red string. "Everyone starts at zero," he said. "Even in games. Especially in games." Lily thought about it. Then she took the marker from his desk, and at the very beginning of the line, right next to TODAY, she drew a tiny, very small dot.
+"There," she said. "One per cent. For going to Otley." Then she looked at the burnt grey console in the corner, and at the cardboard box under the bed, and her face became serious. "Are you going to miss it?" she asked. "Being everyone? Being amazing?" Max took a long time to answer. Outside, a bus went past on the main road, and he thought of the number 49 pulling away from the stop on that cold morning in March, and the teenager who had looked at him with pity.
+"Yes," he said honestly. "Every day, probably. It was the best feeling in the world." He looked at the empty line on the wall, and at the tiny dot his sister had drawn. "But it wasn't mine. Nothing I did was mine. Not even the good things." He switched off the light. In the dark, the old stopwatch caught the orange glow of the streetlamp outside and shone faintly, like a single coin at the start of a very long level. "Night, Lily," he said. "Tomorrow, we start."
