@@ -432,6 +432,12 @@
       "example": "Adrenaline, he decided."
     },
     {
+      "word": "adult",
+      "pos": "NOUN",
+      "translation": "o adulto",
+      "example": "In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult."
+    },
+    {
       "word": "advert",
       "pos": "NOUN",
       "translation": "o anúncio",
@@ -1174,6 +1180,12 @@
       "example": "An archway opened in the hedge, wide enough for a wagon, and through it Rowan glimpsed a long green courtyard and a crowd of faces turned towards the gate."
     },
     {
+      "word": "area",
+      "pos": "NOUN",
+      "translation": "a área, a zona",
+      "example": "There were twenty-two other candidates waiting in the reception area."
+    },
+    {
       "word": "argue",
       "pos": "VERB",
       "translation": "discutir, brigar, protestar",
@@ -1571,6 +1583,12 @@
       "pos": "PHRASE",
       "translation": "ao mesmo tempo",
       "example": "A woman was trying to give him a bottle of water and take a selfie at the same time."
+    },
+    {
+      "word": "athlete",
+      "pos": "NOUN",
+      "translation": "o atleta, a atleta",
+      "example": "Most of them were younger than him, and most of them looked as if they had been born in a gym: tall young men with enormous shoulders, two women who looked like professional athletes, a quiet boy who did stretches in the corner without stopping."
     },
     {
       "word": "athletics",
@@ -2290,6 +2308,12 @@
       "pos": "NOUN",
       "translation": "a faia",
       "example": "Now his uncle looked at the nearest of them — a young beech, bent towards Rowan's shoulder like someone trying to overhear a secret — and set down his mug."
+    },
+    {
+      "word": "beep",
+      "pos": "NOUN",
+      "translation": "o bipe",
+      "example": "The first beep sounded."
     },
     {
       "word": "beep",
@@ -3318,6 +3342,12 @@
       "example": "Godfrey was alive, but his leg was badly broken and he could barely breathe."
     },
     {
+      "word": "breathe in",
+      "pos": "PHRASE",
+      "translation": "inspirar",
+      "example": "Like himself: steady, strong, breathing in for four and out for four."
+    },
+    {
       "word": "breathing",
       "pos": "NOUN",
       "translation": "a respiração",
@@ -3442,6 +3472,12 @@
       "pos": "ADJ",
       "translation": "largo, robusto",
       "example": "He had turned fourteen at midsummer: lean where his uncle was broad, with a shock of dark hair that defeated every comb and hands already roughened by years of rope and bark."
+    },
+    {
+      "word": "broad-shouldered",
+      "pos": "ADJ",
+      "translation": "de ombros largos",
+      "example": "She was in her fifties, broad-shouldered, with grey hair cut very short and a face that had seen a great deal."
     },
     {
       "word": "broken",
@@ -3658,6 +3694,12 @@
       "pos": "PROPN",
       "translation": "Burns (sobrenome)",
       "example": "The main event is a local lad called Kyle Burns."
+    },
+    {
+      "word": "burnt-out",
+      "pos": "ADJ",
+      "translation": "incendiado, destruído pelo fogo",
+      "example": "The burnt-out flats, which had been repaired now, with new windows."
     },
     {
       "word": "bursar",
@@ -4153,6 +4195,12 @@
     },
     {
       "word": "carry",
+      "pos": "NOUN",
+      "translation": "o transporte, a carga",
+      "example": "Next came the equipment carry, where candidates had to carry heavy pieces of firefighting equipment along a marked course and back, as fast as they could without dropping anything."
+    },
+    {
+      "word": "carry",
       "pos": "VERB",
       "translation": "carregar, levar",
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
@@ -4276,6 +4324,18 @@
       "pos": "NOUN",
       "translation": "a displicência, a naturalidade",
       "example": "She returned a few minutes later with a stocky, grey-bearded man in a boiler suit, who introduced himself as the distillery manager and enquired, with elaborate casualness, whether it was true that Gideon had spent the night on Drumochter with Alasdair Beaton."
+    },
+    {
+      "word": "casualty",
+      "pos": "NOUN",
+      "translation": "a vítima, o ferido",
+      "example": "The afternoon began with the casualty evacuation."
+    },
+    {
+      "word": "casualty evacuation",
+      "pos": "PHRASE",
+      "translation": "a evacuação de vítimas",
+      "example": "The afternoon began with the casualty evacuation."
     },
     {
       "word": "cat",
@@ -4576,6 +4636,12 @@
       "pos": "PHRASE",
       "translation": "enxotar, espantar",
       "example": "I expected him to shout or to chase us away."
+    },
+    {
+      "word": "chat",
+      "pos": "VERB",
+      "translation": "conversar, bater papo",
+      "example": "Max did not chat."
     },
     {
       "word": "chauffeur",
@@ -5068,6 +5134,12 @@
       "pos": "NOUN",
       "translation": "o penhasco, a falésia",
       "example": "Then the trees fell back, and the hedge rose out of the storm in front of him like a black cliff."
+    },
+    {
+      "word": "climb",
+      "pos": "NOUN",
+      "translation": "a subida, a escalada (“ladder climb”: subida na escada)",
+      "example": "The first test was the ladder climb."
     },
     {
       "word": "climb",
@@ -5628,6 +5700,12 @@
       "example": "When he had finished, there was complete silence."
     },
     {
+      "word": "complete",
+      "pos": "VERB",
+      "translation": "completar, concluir",
+      "example": "He completed the task, a simple knot around a metal bar, and climbed back down, just as slowly."
+    },
+    {
       "word": "completely",
       "pos": "ADV",
       "translation": "completamente",
@@ -5692,6 +5770,12 @@
       "pos": "NOUN",
       "translation": "o concerto, o show",
       "example": "But Ruth stood up suddenly, because a group of children from the school had arrived with their teacher to practise songs for the Christmas concert."
+    },
+    {
+      "word": "concrete",
+      "pos": "ADJ",
+      "translation": "de concreto",
+      "example": "The fire service training centre stood on a hill outside the city, a collection of low brick buildings around a concrete yard, with a tall grey tower at one end where firefighters practised with ladders and hoses."
     },
     {
       "word": "concrete",
@@ -5824,6 +5908,12 @@
       "pos": "ADV",
       "translation": "constantemente, sem parar",
       "example": "It rained almost constantly."
+    },
+    {
+      "word": "contact",
+      "pos": "NOUN",
+      "translation": "o contato (“points of contact”: pontos de apoio)",
+      "example": "He climbed one rung at a time, with three points of contact always, as the instructor had explained, and he did not look down."
     },
     {
       "word": "contain",
@@ -7794,6 +7884,12 @@
       "example": "We went down a drainpipe, crossed a little courtyard and squeezed under a wooden door that didn't close properly."
     },
     {
+      "word": "dramatically",
+      "pos": "ADV",
+      "translation": "dramaticamente, de forma teatral",
+      "example": "Lily sighed dramatically."
+    },
+    {
       "word": "draught",
       "pos": "NOUN",
       "translation": "a corrente de ar",
@@ -7974,6 +8070,12 @@
       "example": "\"Ah,\" said the old man courteously, as though Gideon were a neighbour who had dropped in for tea."
     },
     {
+      "word": "drop out",
+      "pos": "PHRASE",
+      "translation": "desistir, abandonar",
+      "example": "One candidate dropped out, then another."
+    },
+    {
       "word": "droplet",
       "pos": "NOUN",
       "translation": "a gotícula, a gotinha",
@@ -8068,6 +8170,12 @@
       "pos": "ADJ",
       "translation": "fosco, surdo, opaco",
       "example": "A sullen boy whom Rowan didn't know made two of the spirals flare a dull, angry orange, and Edric Vane, watching from the edge of the crowd with his arms folded, nodded approvingly, as one Fire to another."
+    },
+    {
+      "word": "dummy",
+      "pos": "NOUN",
+      "translation": "o manequim, o boneco",
+      "example": "In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult."
     },
     {
       "word": "dunnage",
@@ -8592,6 +8700,18 @@
       "example": "Pinned to the board beside the shrine was a sheet of heavy cream paper bearing the seal of Thornhall: a thorned branch encircling a well."
     },
     {
+      "word": "enclose",
+      "pos": "VERB",
+      "translation": "cercar, fechar (“enclosed”: fechado, confinado)",
+      "example": "Then the enclosed space test, where they had to crawl through a dark tunnel of metal and plastic tubes, wearing a mask that covered their eyes, finding their way by touch alone."
+    },
+    {
+      "word": "enclosed space",
+      "pos": "PHRASE",
+      "translation": "o espaço confinado",
+      "example": "Then the enclosed space test, where they had to crawl through a dark tunnel of metal and plastic tubes, wearing a mask that covered their eyes, finding their way by touch alone."
+    },
+    {
       "word": "encyclopaedic",
       "pos": "ADJ",
       "translation": "enciclopédico",
@@ -8760,6 +8880,12 @@
       "example": "Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters."
     },
     {
+      "word": "equipment carry",
+      "pos": "PHRASE",
+      "translation": "o transporte de equipamento (prova)",
+      "example": "Next came the equipment carry, where candidates had to carry heavy pieces of firefighting equipment along a marked course and back, as fast as they could without dropping anything."
+    },
+    {
       "word": "erase",
       "pos": "VERB",
       "translation": "apagar",
@@ -8806,6 +8932,12 @@
       "pos": "NOUN",
       "translation": "a etiqueta",
       "example": "At the door of her cab, Nell hesitated, then hugged him — briefly, awkwardly, in the manner of someone who has never hugged a grown man in a car park before and is uncertain of the etiquette."
+    },
+    {
+      "word": "evacuation",
+      "pos": "NOUN",
+      "translation": "a evacuação",
+      "example": "The afternoon began with the casualty evacuation."
     },
     {
       "word": "evade",
@@ -9593,6 +9725,12 @@
     },
     {
       "word": "fifty",
+      "pos": "NOUN",
+      "translation": "cinquenta (“in her fifties”: na casa dos cinquenta)",
+      "example": "She was in her fifties, broad-shouldered, with grey hair cut very short and a face that had seen a great deal."
+    },
+    {
+      "word": "fifty",
       "pos": "NUM",
       "translation": "cinquenta",
       "example": "It happened, everyone knew it happened — one child in fifty, perhaps, born with a Well too shallow to register."
@@ -9790,10 +9928,22 @@
       "example": "BLAZE BRIGADE had a little drawing of a fire engine in the corner."
     },
     {
+      "word": "fire service",
+      "pos": "PHRASE",
+      "translation": "o corpo de bombeiros",
+      "example": "The fire service training centre stood on a hill outside the city, a collection of low brick buildings around a concrete yard, with a tall grey tower at one end where firefighters practised with ladders and hoses."
+    },
+    {
       "word": "firefighter",
       "pos": "NOUN",
       "translation": "o bombeiro",
       "example": "At nineteen he had applied to become a firefighter."
+    },
+    {
+      "word": "firefighting",
+      "pos": "NOUN",
+      "translation": "o combate a incêndios (“firefighting equipment”: equipamento de bombeiro)",
+      "example": "Next came the equipment carry, where candidates had to carry heavy pieces of firefighting equipment along a marked course and back, as fast as they could without dropping anything."
     },
     {
       "word": "firefly",
@@ -10190,6 +10340,12 @@
       "pos": "VERB",
       "translation": "voar",
       "example": "The ball flew through the air in a perfect curve and dropped into it with a hollow bang."
+    },
+    {
+      "word": "fly up",
+      "pos": "PHRASE",
+      "translation": "subir voando",
+      "example": "He did not fly up the ladder like the runner in the red hoodie."
     },
     {
       "word": "focus",
@@ -11793,6 +11949,12 @@
       "example": "A girl Rowan didn't know was saying goodbye to a tall, stooped man at the edge of the crowd — briefly, without fuss, the way you might say goodbye to someone you would see again at supper."
     },
     {
+      "word": "goodness",
+      "pos": "NOUN",
+      "translation": "a bondade (“thank goodness”: graças a Deus)",
+      "example": "\"Thank goodness.\""
+    },
+    {
       "word": "goodnight",
       "pos": "INTJ",
       "translation": "boa noite",
@@ -12620,6 +12782,12 @@
       "example": "The two Marked brothers from the eastern farms — Hob and Will Tanner, both Earth, both enormous — had fallen asleep against the sacks of grain within ten minutes of leaving Brackenford, and were snoring in perfect harmony."
     },
     {
+      "word": "harness",
+      "pos": "NOUN",
+      "translation": "o arnês, a cadeirinha",
+      "example": "Each candidate had to climb a long ladder to the top of the grey tower, wearing a safety harness, and then do a simple task at the top before climbing back down."
+    },
+    {
       "word": "harried",
       "pos": "ADJ",
       "translation": "atormentado, sobrecarregado",
@@ -13298,6 +13466,12 @@
       "example": "Every year, on the last day before the midwinter holiday, the first-years of Thornhall stood in the Thorn Ring and showed the whole school what they had learned."
     },
     {
+      "word": "Hollis",
+      "pos": "PROPN",
+      "translation": "Hollis (sobrenome)",
+      "example": "\"Watch Manager Hollis,\" she said."
+    },
+    {
       "word": "hollow",
       "pos": "ADJ",
       "translation": "oco; (“the hollow”: o oco, a cavidade)",
@@ -13464,6 +13638,12 @@
       "pos": "NOUN",
       "translation": "a cavalo (“on horseback”)",
       "example": "The bandits came shortly after midnight, about fifteen men on horseback, carrying torches."
+    },
+    {
+      "word": "hose",
+      "pos": "NOUN",
+      "translation": "a mangueira",
+      "example": "The fire service training centre stood on a hill outside the city, a collection of low brick buildings around a concrete yard, with a tall grey tower at one end where firefighters practised with ladders and hoses."
     },
     {
       "word": "hospital",
@@ -14052,6 +14232,12 @@
       "example": "\"Is it true one of you cracked the Standing Stone in half?\""
     },
     {
+      "word": "in her fifties",
+      "pos": "PHRASE",
+      "translation": "na casa dos cinquenta",
+      "example": "She was in her fifties, broad-shouldered, with grey hair cut very short and a face that had seen a great deal."
+    },
+    {
       "word": "in its place",
       "pos": "PHRASE",
       "translation": "no lugar dele, em seu lugar",
@@ -14343,6 +14529,12 @@
       "pos": "VERB",
       "translation": "machucar, lesionar (“injured”: machucado)",
       "example": "He practised every day, in the rain, when he was injured, when he didn't feel like it."
+    },
+    {
+      "word": "injury",
+      "pos": "NOUN",
+      "translation": "a lesão",
+      "example": "In places, during his injury, the dots were so small you could hardly see them."
     },
     {
       "word": "ink",
@@ -14774,6 +14966,18 @@
       "pos": "NOUN",
       "translation": "a piada",
       "example": "Maxence arrived with his usual escort, Lucas and Romain, two boys who laughed at his jokes slightly before he had finished them."
+    },
+    {
+      "word": "joke",
+      "pos": "VERB",
+      "translation": "brincar, fazer piada",
+      "example": "The first levels were slow and easy, almost a walk, and around him the other candidates were relaxed, chatting, joking."
+    },
+    {
+      "word": "joking",
+      "pos": "NOUN",
+      "translation": "as brincadeiras",
+      "example": "After a few minutes the beeps came closer together, and the joking stopped."
     },
     {
       "word": "jolt",
@@ -16868,6 +17072,12 @@
       "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
     },
     {
+      "word": "mask",
+      "pos": "NOUN",
+      "translation": "a máscara",
+      "example": "Then the enclosed space test, where they had to crawl through a dark tunnel of metal and plastic tubes, wearing a mask that covered their eyes, finding their way by touch alone."
+    },
+    {
       "word": "masonry",
       "pos": "NOUN",
       "translation": "a alvenaria",
@@ -17456,6 +17666,12 @@
       "example": "Edwin felt a mixture of excitement and fear."
     },
     {
+      "word": "mode",
+      "pos": "NOUN",
+      "translation": "o modo (“two-player mode”: modo dois jogadores)",
+      "example": "\"I was only going to ask if there was a two-player mode,\" she said."
+    },
+    {
       "word": "modern",
       "pos": "ADJ",
       "translation": "moderno",
@@ -17970,6 +18186,12 @@
       "pos": "ADP",
       "translation": "perto de",
       "example": "It is near the big tree. — Fica perto da árvore grande."
+    },
+    {
+      "word": "near",
+      "pos": "ADV",
+      "translation": "perto (“nowhere near”: nem de longe)",
+      "example": "He was nowhere near as fast as the quiet boy."
     },
     {
       "word": "near",
@@ -18560,6 +18782,12 @@
       "example": "Air called a wind from nowhere, which spun around the child like a playful dog."
     },
     {
+      "word": "nowhere near",
+      "pos": "PHRASE",
+      "translation": "nem de longe, longe de",
+      "example": "He was nowhere near as fast as the quiet boy."
+    },
+    {
       "word": "Nuage",
       "pos": "PROPN",
       "translation": "Nuage (nome; “nuvem” em francês)",
@@ -18728,6 +18956,12 @@
       "example": "\"Of course!\""
     },
     {
+      "word": "of his own",
+      "pos": "PHRASE",
+      "translation": "dele, só dele, próprio",
+      "example": "Twelve weeks of training, and then, if he passed, a station of his own."
+    },
+    {
       "word": "off",
       "pos": "ADP",
       "translation": "de (tirando), fora de",
@@ -18878,6 +19112,12 @@
       "example": "And at the bottom of the page, underlined twice: Never try this on an empty stomach."
     },
     {
+      "word": "on board",
+      "pos": "PHRASE",
+      "translation": "a bordo",
+      "example": "Max grinned, held the door for Lily, and climbed on board."
+    },
+    {
       "word": "on credit",
       "pos": "PHRASE",
       "translation": "a crédito, fiado",
@@ -18983,6 +19223,12 @@
       "pos": "PRON",
       "translation": "a gente, alguém ; o, a",
       "example": "She set the sliver down beside the book, very gently, the way one might set down a bird's egg."
+    },
+    {
+      "word": "one after another",
+      "pos": "PHRASE",
+      "translation": "um após o outro",
+      "example": "He stood in front of the progress bar above his desk, took the black marker and drew the last dots, one after another, until the line reached the word OCTOBER and touched it."
     },
     {
       "word": "one after the other",
@@ -19373,6 +19619,12 @@
       "pos": "PHRASE",
       "translation": "acabado (“want it over with”: querer acabar logo)",
       "example": "He told it quickly, almost flatly, as though he wanted it over with."
+    },
+    {
+      "word": "overalls",
+      "pos": "NOUN",
+      "translation": "o macacão",
+      "example": "In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult."
     },
     {
       "word": "overgrow",
@@ -21912,6 +22164,18 @@
       "example": "\"Max,\" she said at last, very gently, \"how much have you been sleeping recently?\""
     },
     {
+      "word": "reception",
+      "pos": "NOUN",
+      "translation": "a recepção",
+      "example": "There were twenty-two other candidates waiting in the reception area."
+    },
+    {
+      "word": "reception area",
+      "pos": "PHRASE",
+      "translation": "a área de recepção",
+      "example": "There were twenty-two other candidates waiting in the reception area."
+    },
+    {
       "word": "recite",
       "pos": "VERB",
       "translation": "recitar",
@@ -22051,6 +22315,12 @@
     },
     {
       "word": "regret",
+      "pos": "NOUN",
+      "translation": "o pesar, o arrependimento",
+      "example": "He smiled at Lily, who was looking at the cupboard with an expression of deep regret."
+    },
+    {
+      "word": "regret",
       "pos": "VERB",
       "translation": "arrepender-se, lamentar",
       "example": "Then Bram stepped aside, with the air of a man admitting a draught he knew he would regret."
@@ -22102,6 +22372,12 @@
       "pos": "VERB",
       "translation": "relaxar",
       "example": "TEST 10: he followed the pencil's advice, relaxed his wrist and slowed the gesture down until it felt almost lazy."
+    },
+    {
+      "word": "relaxed",
+      "pos": "ADJ",
+      "translation": "relaxado, tranquilo",
+      "example": "The first levels were slow and easy, almost a walk, and around him the other candidates were relaxed, chatting, joking."
     },
     {
       "word": "release",
@@ -23082,6 +23358,12 @@
       "example": "The great oak root that ran up the wall behind Bennet's bed had been polished smooth by generations of students."
     },
     {
+      "word": "rung",
+      "pos": "NOUN",
+      "translation": "o degrau",
+      "example": "He climbed one rung at a time, with three points of contact always, as the instructor had explained, and he did not look down."
+    },
+    {
       "word": "runner",
       "pos": "NOUN",
       "translation": "o corredor, a corredora; o calço, a travessa (suporte de barris)",
@@ -23206,6 +23488,18 @@
       "pos": "ADJ",
       "translation": "seguro (“the safest”: o mais seguro)",
       "example": "He chose the safest."
+    },
+    {
+      "word": "safety",
+      "pos": "NOUN",
+      "translation": "a segurança",
+      "example": "Each candidate had to climb a long ladder to the top of the grey tower, wearing a safety harness, and then do a simple task at the top before climbing back down."
+    },
+    {
+      "word": "safety harness",
+      "pos": "PHRASE",
+      "translation": "o cinto de segurança, o arnês",
+      "example": "Each candidate had to climb a long ladder to the top of the grey tower, wearing a safety harness, and then do a simple task at the top before climbing back down."
     },
     {
       "word": "sag",
@@ -23872,6 +24166,12 @@
       "pos": "NOUN",
       "translation": "o sargento",
       "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
+    },
+    {
+      "word": "series",
+      "pos": "NOUN",
+      "translation": "a série",
+      "example": "Candidates ran back and forth between two lines twenty metres apart, in time with a series of beeps from a loudspeaker, and the beeps came faster and faster until you could not keep up any more."
     },
     {
       "word": "serious",
@@ -24622,6 +24922,18 @@
       "pos": "VERB",
       "translation": "fechar as venezianas (“shuttered”: de venezianas fechadas)",
       "example": "He paid the cooper without haggling — something Rowan had never once seen him do — and was back on the cart within minutes, his face closed like a shuttered window."
+    },
+    {
+      "word": "shuttle",
+      "pos": "NOUN",
+      "translation": "a lançadeira, o vaivém",
+      "example": "\"You collapsed on the shuttle run.\""
+    },
+    {
+      "word": "shuttle run",
+      "pos": "PHRASE",
+      "translation": "o teste de vaivém, o teste de Léger",
+      "example": "\"You collapsed on the shuttle run.\""
     },
     {
       "word": "sick",
@@ -26052,6 +26364,12 @@
       "example": "She caught the opposite edge with one hand, swung, pulled herself up and sprinted towards the finish line as the factory collapsed behind her."
     },
     {
+      "word": "sprint off",
+      "pos": "PHRASE",
+      "translation": "sair em disparada",
+      "example": "\"Run!\" shouted Lily, and she sprinted off ahead of him, as she always did."
+    },
+    {
       "word": "sprinter",
       "pos": "NOUN",
       "translation": "o velocista",
@@ -26110,6 +26428,12 @@
       "pos": "NOUN",
       "translation": "o guincho",
       "example": "Jory's whisper was close to a squeak."
+    },
+    {
+      "word": "squeak",
+      "pos": "VERB",
+      "translation": "chiar, guinchar",
+      "example": "The gym filled with the sound of trainers squeaking on the floor and people breathing hard, and somewhere in Max's chest, his heart began to pound."
     },
     {
       "word": "squeeze",
@@ -26226,6 +26550,12 @@
       "example": "Sam stands under the tree. — Sam está de pé embaixo da árvore."
     },
     {
+      "word": "stand back",
+      "pos": "PHRASE",
+      "translation": "dar um passo atrás, afastar-se",
+      "example": "Then he hung Ruth's stopwatch on the corner again and stood back."
+    },
+    {
       "word": "stand out",
       "pos": "PHRASE",
       "translation": "sobressair, destacar-se",
@@ -26236,6 +26566,12 @@
       "pos": "PHRASE",
       "translation": "levantar-se",
       "example": "She stood up, picking up the lamp."
+    },
+    {
+      "word": "standard",
+      "pos": "NOUN",
+      "translation": "o padrão, o nível exigido",
+      "example": "\"Turner! That's the standard!"
     },
     {
       "word": "standing",
@@ -27917,6 +28253,12 @@
       "example": "Thank God the clock doesn't need electricity."
     },
     {
+      "word": "thank goodness",
+      "pos": "PHRASE",
+      "translation": "graças a Deus, ainda bem",
+      "example": "\"Thank goodness.\""
+    },
+    {
       "word": "thank you",
       "pos": "PHRASE",
       "translation": "obrigado",
@@ -28967,6 +29309,12 @@
       "example": "Getting two octogenarians up into the cab of an articulated lorry, in a blizzard, without breaking anything, is not a manoeuvre covered by any training course of which Gideon was aware."
     },
     {
+      "word": "training dummy",
+      "pos": "PHRASE",
+      "translation": "o manequim de treinamento",
+      "example": "In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult."
+    },
+    {
       "word": "transform",
       "pos": "VERB",
       "translation": "transformar",
@@ -29193,6 +29541,12 @@
       "pos": "NOUN",
       "translation": "a tina, o vaso grande",
       "example": "Inside, the air was warm and heavy and smelled of damp earth and old leaves, and the long tables ran away into a green gloom crowded with pots and trays and tubs."
+    },
+    {
+      "word": "tube",
+      "pos": "NOUN",
+      "translation": "o tubo",
+      "example": "Then the enclosed space test, where they had to crawl through a dark tunnel of metal and plastic tubes, wearing a mask that covered their eyes, finding their way by touch alone."
     },
     {
       "word": "tuck",
@@ -30604,6 +30958,12 @@
       "example": "Watch your opponent."
     },
     {
+      "word": "watch manager",
+      "pos": "PHRASE",
+      "translation": "o chefe de turno (patente de bombeiro)",
+      "example": "\"Watch Manager Hollis,\" she said."
+    },
+    {
       "word": "watchful",
       "pos": "ADJ",
       "translation": "vigilante, atento",
@@ -31112,6 +31472,12 @@
       "pos": "NOUN",
       "translation": "os cochichos, os sussurros",
       "example": "Then it rose again — louder, faster, crackling with a new kind of whispering."
+    },
+    {
+      "word": "whistle",
+      "pos": "VERB",
+      "translation": "assobiar",
+      "example": "The quiet boy who did stretches finished so fast that one of the instructors whistled."
     },
     {
       "word": "white",

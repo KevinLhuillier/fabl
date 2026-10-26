@@ -432,6 +432,12 @@
       "example": "Adrenaline, he decided."
     },
     {
+      "word": "adult",
+      "pos": "NOUN",
+      "translation": "l'adulte",
+      "example": "In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult."
+    },
+    {
       "word": "advert",
       "pos": "NOUN",
       "translation": "la pub, la publicité",
@@ -1174,6 +1180,12 @@
       "example": "An archway opened in the hedge, wide enough for a wagon, and through it Rowan glimpsed a long green courtyard and a crowd of faces turned towards the gate."
     },
     {
+      "word": "area",
+      "pos": "NOUN",
+      "translation": "la zone, l'espace",
+      "example": "There were twenty-two other candidates waiting in the reception area."
+    },
+    {
       "word": "argue",
       "pos": "VERB",
       "translation": "se disputer, discuter, protester",
@@ -1571,6 +1583,12 @@
       "pos": "PHRASE",
       "translation": "en même temps",
       "example": "A woman was trying to give him a bottle of water and take a selfie at the same time."
+    },
+    {
+      "word": "athlete",
+      "pos": "NOUN",
+      "translation": "l'athlète",
+      "example": "Most of them were younger than him, and most of them looked as if they had been born in a gym: tall young men with enormous shoulders, two women who looked like professional athletes, a quiet boy who did stretches in the corner without stopping."
     },
     {
       "word": "athletics",
@@ -2290,6 +2308,12 @@
       "pos": "NOUN",
       "translation": "le hêtre",
       "example": "Now his uncle looked at the nearest of them — a young beech, bent towards Rowan's shoulder like someone trying to overhear a secret — and set down his mug."
+    },
+    {
+      "word": "beep",
+      "pos": "NOUN",
+      "translation": "le bip",
+      "example": "The first beep sounded."
     },
     {
       "word": "beep",
@@ -3318,6 +3342,12 @@
       "example": "Godfrey was alive, but his leg was badly broken and he could barely breathe."
     },
     {
+      "word": "breathe in",
+      "pos": "PHRASE",
+      "translation": "inspirer",
+      "example": "Like himself: steady, strong, breathing in for four and out for four."
+    },
+    {
       "word": "breathing",
       "pos": "NOUN",
       "translation": "la respiration",
@@ -3442,6 +3472,12 @@
       "pos": "ADJ",
       "translation": "large, costaud",
       "example": "He had turned fourteen at midsummer: lean where his uncle was broad, with a shock of dark hair that defeated every comb and hands already roughened by years of rope and bark."
+    },
+    {
+      "word": "broad-shouldered",
+      "pos": "ADJ",
+      "translation": "aux épaules larges, carré",
+      "example": "She was in her fifties, broad-shouldered, with grey hair cut very short and a face that had seen a great deal."
     },
     {
       "word": "broken",
@@ -3658,6 +3694,12 @@
       "pos": "PROPN",
       "translation": "Burns (nom de famille)",
       "example": "The main event is a local lad called Kyle Burns."
+    },
+    {
+      "word": "burnt-out",
+      "pos": "ADJ",
+      "translation": "incendié, ravagé par le feu",
+      "example": "The burnt-out flats, which had been repaired now, with new windows."
     },
     {
       "word": "bursar",
@@ -4153,6 +4195,12 @@
     },
     {
       "word": "carry",
+      "pos": "NOUN",
+      "translation": "le transport, le portage",
+      "example": "Next came the equipment carry, where candidates had to carry heavy pieces of firefighting equipment along a marked course and back, as fast as they could without dropping anything."
+    },
+    {
+      "word": "carry",
       "pos": "VERB",
       "translation": "porter, transporter",
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
@@ -4276,6 +4324,18 @@
       "pos": "NOUN",
       "translation": "la désinvolture, le naturel",
       "example": "She returned a few minutes later with a stocky, grey-bearded man in a boiler suit, who introduced himself as the distillery manager and enquired, with elaborate casualness, whether it was true that Gideon had spent the night on Drumochter with Alasdair Beaton."
+    },
+    {
+      "word": "casualty",
+      "pos": "NOUN",
+      "translation": "la victime, le blessé",
+      "example": "The afternoon began with the casualty evacuation."
+    },
+    {
+      "word": "casualty evacuation",
+      "pos": "PHRASE",
+      "translation": "l'évacuation d'une victime",
+      "example": "The afternoon began with the casualty evacuation."
     },
     {
       "word": "cat",
@@ -4576,6 +4636,12 @@
       "pos": "PHRASE",
       "translation": "chasser, faire fuir",
       "example": "I expected him to shout or to chase us away."
+    },
+    {
+      "word": "chat",
+      "pos": "VERB",
+      "translation": "bavarder, discuter",
+      "example": "Max did not chat."
     },
     {
       "word": "chauffeur",
@@ -5068,6 +5134,12 @@
       "pos": "NOUN",
       "translation": "la falaise",
       "example": "Then the trees fell back, and the hedge rose out of the storm in front of him like a black cliff."
+    },
+    {
+      "word": "climb",
+      "pos": "NOUN",
+      "translation": "l'ascension, la montée (« ladder climb » : la montée à l'échelle)",
+      "example": "The first test was the ladder climb."
     },
     {
       "word": "climb",
@@ -5628,6 +5700,12 @@
       "example": "When he had finished, there was complete silence."
     },
     {
+      "word": "complete",
+      "pos": "VERB",
+      "translation": "terminer, accomplir",
+      "example": "He completed the task, a simple knot around a metal bar, and climbed back down, just as slowly."
+    },
+    {
       "word": "completely",
       "pos": "ADV",
       "translation": "complètement",
@@ -5692,6 +5770,12 @@
       "pos": "NOUN",
       "translation": "le concert",
       "example": "But Ruth stood up suddenly, because a group of children from the school had arrived with their teacher to practise songs for the Christmas concert."
+    },
+    {
+      "word": "concrete",
+      "pos": "ADJ",
+      "translation": "en béton, bétonné",
+      "example": "The fire service training centre stood on a hill outside the city, a collection of low brick buildings around a concrete yard, with a tall grey tower at one end where firefighters practised with ladders and hoses."
     },
     {
       "word": "concrete",
@@ -5824,6 +5908,12 @@
       "pos": "ADV",
       "translation": "sans arrêt, constamment",
       "example": "It rained almost constantly."
+    },
+    {
+      "word": "contact",
+      "pos": "NOUN",
+      "translation": "le contact (« points of contact » : points d'appui)",
+      "example": "He climbed one rung at a time, with three points of contact always, as the instructor had explained, and he did not look down."
     },
     {
       "word": "contain",
@@ -7794,6 +7884,12 @@
       "example": "We went down a drainpipe, crossed a little courtyard and squeezed under a wooden door that didn't close properly."
     },
     {
+      "word": "dramatically",
+      "pos": "ADV",
+      "translation": "de façon théâtrale, de manière spectaculaire",
+      "example": "Lily sighed dramatically."
+    },
+    {
       "word": "draught",
       "pos": "NOUN",
       "translation": "le courant d'air",
@@ -7974,6 +8070,12 @@
       "example": "\"Ah,\" said the old man courteously, as though Gideon were a neighbour who had dropped in for tea."
     },
     {
+      "word": "drop out",
+      "pos": "PHRASE",
+      "translation": "abandonner, se retirer",
+      "example": "One candidate dropped out, then another."
+    },
+    {
       "word": "droplet",
       "pos": "NOUN",
       "translation": "la gouttelette",
@@ -8068,6 +8170,12 @@
       "pos": "ADJ",
       "translation": "terne, sourd, morne",
       "example": "A sullen boy whom Rowan didn't know made two of the spirals flare a dull, angry orange, and Edric Vane, watching from the edge of the crowd with his arms folded, nodded approvingly, as one Fire to another."
+    },
+    {
+      "word": "dummy",
+      "pos": "NOUN",
+      "translation": "le mannequin",
+      "example": "In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult."
     },
     {
       "word": "dunnage",
@@ -8592,6 +8700,18 @@
       "example": "Pinned to the board beside the shrine was a sheet of heavy cream paper bearing the seal of Thornhall: a thorned branch encircling a well."
     },
     {
+      "word": "enclose",
+      "pos": "VERB",
+      "translation": "enfermer, entourer (« enclosed » : clos, confiné)",
+      "example": "Then the enclosed space test, where they had to crawl through a dark tunnel of metal and plastic tubes, wearing a mask that covered their eyes, finding their way by touch alone."
+    },
+    {
+      "word": "enclosed space",
+      "pos": "PHRASE",
+      "translation": "l'espace confiné",
+      "example": "Then the enclosed space test, where they had to crawl through a dark tunnel of metal and plastic tubes, wearing a mask that covered their eyes, finding their way by touch alone."
+    },
+    {
       "word": "encyclopaedic",
       "pos": "ADJ",
       "translation": "encyclopédique",
@@ -8760,6 +8880,12 @@
       "example": "Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters."
     },
     {
+      "word": "equipment carry",
+      "pos": "PHRASE",
+      "translation": "le transport de matériel (épreuve)",
+      "example": "Next came the equipment carry, where candidates had to carry heavy pieces of firefighting equipment along a marked course and back, as fast as they could without dropping anything."
+    },
+    {
       "word": "erase",
       "pos": "VERB",
       "translation": "effacer",
@@ -8806,6 +8932,12 @@
       "pos": "NOUN",
       "translation": "l'étiquette, les convenances",
       "example": "At the door of her cab, Nell hesitated, then hugged him — briefly, awkwardly, in the manner of someone who has never hugged a grown man in a car park before and is uncertain of the etiquette."
+    },
+    {
+      "word": "evacuation",
+      "pos": "NOUN",
+      "translation": "l'évacuation",
+      "example": "The afternoon began with the casualty evacuation."
     },
     {
       "word": "evade",
@@ -9593,6 +9725,12 @@
     },
     {
       "word": "fifty",
+      "pos": "NOUN",
+      "translation": "cinquante (« in her fifties » : la cinquantaine)",
+      "example": "She was in her fifties, broad-shouldered, with grey hair cut very short and a face that had seen a great deal."
+    },
+    {
+      "word": "fifty",
       "pos": "NUM",
       "translation": "cinquante",
       "example": "It happened, everyone knew it happened — one child in fifty, perhaps, born with a Well too shallow to register."
@@ -9790,10 +9928,22 @@
       "example": "BLAZE BRIGADE had a little drawing of a fire engine in the corner."
     },
     {
+      "word": "fire service",
+      "pos": "PHRASE",
+      "translation": "les sapeurs-pompiers, le service d'incendie",
+      "example": "The fire service training centre stood on a hill outside the city, a collection of low brick buildings around a concrete yard, with a tall grey tower at one end where firefighters practised with ladders and hoses."
+    },
+    {
       "word": "firefighter",
       "pos": "NOUN",
       "translation": "le pompier",
       "example": "At nineteen he had applied to become a firefighter."
+    },
+    {
+      "word": "firefighting",
+      "pos": "NOUN",
+      "translation": "la lutte contre l'incendie (« firefighting equipment » : matériel de pompier)",
+      "example": "Next came the equipment carry, where candidates had to carry heavy pieces of firefighting equipment along a marked course and back, as fast as they could without dropping anything."
     },
     {
       "word": "firefly",
@@ -10190,6 +10340,12 @@
       "pos": "VERB",
       "translation": "voler",
       "example": "The ball flew through the air in a perfect curve and dropped into it with a hollow bang."
+    },
+    {
+      "word": "fly up",
+      "pos": "PHRASE",
+      "translation": "monter à toute vitesse, s'envoler",
+      "example": "He did not fly up the ladder like the runner in the red hoodie."
     },
     {
       "word": "focus",
@@ -11793,6 +11949,12 @@
       "example": "A girl Rowan didn't know was saying goodbye to a tall, stooped man at the edge of the crowd — briefly, without fuss, the way you might say goodbye to someone you would see again at supper."
     },
     {
+      "word": "goodness",
+      "pos": "NOUN",
+      "translation": "la bonté (« thank goodness » : Dieu merci)",
+      "example": "\"Thank goodness.\""
+    },
+    {
       "word": "goodnight",
       "pos": "INTJ",
       "translation": "bonne nuit, bonsoir",
@@ -12620,6 +12782,12 @@
       "example": "The two Marked brothers from the eastern farms — Hob and Will Tanner, both Earth, both enormous — had fallen asleep against the sacks of grain within ten minutes of leaving Brackenford, and were snoring in perfect harmony."
     },
     {
+      "word": "harness",
+      "pos": "NOUN",
+      "translation": "le harnais",
+      "example": "Each candidate had to climb a long ladder to the top of the grey tower, wearing a safety harness, and then do a simple task at the top before climbing back down."
+    },
+    {
       "word": "harried",
       "pos": "ADJ",
       "translation": "débordé, harcelé",
@@ -13298,6 +13466,12 @@
       "example": "Every year, on the last day before the midwinter holiday, the first-years of Thornhall stood in the Thorn Ring and showed the whole school what they had learned."
     },
     {
+      "word": "Hollis",
+      "pos": "PROPN",
+      "translation": "Hollis (nom de famille)",
+      "example": "\"Watch Manager Hollis,\" she said."
+    },
+    {
       "word": "hollow",
       "pos": "ADJ",
       "translation": "creux ; (« the hollow » : le creux, la cavité)",
@@ -13464,6 +13638,12 @@
       "pos": "NOUN",
       "translation": "à cheval (« on horseback »)",
       "example": "The bandits came shortly after midnight, about fifteen men on horseback, carrying torches."
+    },
+    {
+      "word": "hose",
+      "pos": "NOUN",
+      "translation": "le tuyau, la lance (d'incendie)",
+      "example": "The fire service training centre stood on a hill outside the city, a collection of low brick buildings around a concrete yard, with a tall grey tower at one end where firefighters practised with ladders and hoses."
     },
     {
       "word": "hospital",
@@ -14052,6 +14232,12 @@
       "example": "\"Is it true one of you cracked the Standing Stone in half?\""
     },
     {
+      "word": "in her fifties",
+      "pos": "PHRASE",
+      "translation": "la cinquantaine (« she was in her fifties » : elle avait la cinquantaine)",
+      "example": "She was in her fifties, broad-shouldered, with grey hair cut very short and a face that had seen a great deal."
+    },
+    {
       "word": "in its place",
       "pos": "PHRASE",
       "translation": "à sa place",
@@ -14343,6 +14529,12 @@
       "pos": "VERB",
       "translation": "blesser (« injured » : blessé)",
       "example": "He practised every day, in the rain, when he was injured, when he didn't feel like it."
+    },
+    {
+      "word": "injury",
+      "pos": "NOUN",
+      "translation": "la blessure",
+      "example": "In places, during his injury, the dots were so small you could hardly see them."
     },
     {
       "word": "ink",
@@ -14774,6 +14966,18 @@
       "pos": "NOUN",
       "translation": "la blague, la plaisanterie",
       "example": "Maxence arrived with his usual escort, Lucas and Romain, two boys who laughed at his jokes slightly before he had finished them."
+    },
+    {
+      "word": "joke",
+      "pos": "VERB",
+      "translation": "plaisanter",
+      "example": "The first levels were slow and easy, almost a walk, and around him the other candidates were relaxed, chatting, joking."
+    },
+    {
+      "word": "joking",
+      "pos": "NOUN",
+      "translation": "les plaisanteries",
+      "example": "After a few minutes the beeps came closer together, and the joking stopped."
     },
     {
       "word": "jolt",
@@ -16868,6 +17072,12 @@
       "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
     },
     {
+      "word": "mask",
+      "pos": "NOUN",
+      "translation": "le masque",
+      "example": "Then the enclosed space test, where they had to crawl through a dark tunnel of metal and plastic tubes, wearing a mask that covered their eyes, finding their way by touch alone."
+    },
+    {
       "word": "masonry",
       "pos": "NOUN",
       "translation": "la maçonnerie",
@@ -17456,6 +17666,12 @@
       "example": "Edwin felt a mixture of excitement and fear."
     },
     {
+      "word": "mode",
+      "pos": "NOUN",
+      "translation": "le mode (« two-player mode » : mode deux joueurs)",
+      "example": "\"I was only going to ask if there was a two-player mode,\" she said."
+    },
+    {
       "word": "modern",
       "pos": "ADJ",
       "translation": "moderne",
@@ -17970,6 +18186,12 @@
       "pos": "ADP",
       "translation": "près de",
       "example": "It is near the big tree. — Il est près du grand arbre."
+    },
+    {
+      "word": "near",
+      "pos": "ADV",
+      "translation": "près (« nowhere near » : loin d'être)",
+      "example": "He was nowhere near as fast as the quiet boy."
     },
     {
       "word": "near",
@@ -18560,6 +18782,12 @@
       "example": "Air called a wind from nowhere, which spun around the child like a playful dog."
     },
     {
+      "word": "nowhere near",
+      "pos": "PHRASE",
+      "translation": "loin de, pas du tout (« nowhere near as fast » : loin d'être aussi rapide)",
+      "example": "He was nowhere near as fast as the quiet boy."
+    },
+    {
       "word": "Nuage",
       "pos": "PROPN",
       "translation": "Nuage (prénom)",
@@ -18728,6 +18956,12 @@
       "example": "\"Of course!\""
     },
     {
+      "word": "of his own",
+      "pos": "PHRASE",
+      "translation": "à lui, rien qu'à lui",
+      "example": "Twelve weeks of training, and then, if he passed, a station of his own."
+    },
+    {
       "word": "off",
       "pos": "ADP",
       "translation": "de (en enlevant), hors de",
@@ -18878,6 +19112,12 @@
       "example": "And at the bottom of the page, underlined twice: Never try this on an empty stomach."
     },
     {
+      "word": "on board",
+      "pos": "PHRASE",
+      "translation": "à bord",
+      "example": "Max grinned, held the door for Lily, and climbed on board."
+    },
+    {
       "word": "on credit",
       "pos": "PHRASE",
       "translation": "à crédit",
@@ -18983,6 +19223,12 @@
       "pos": "PRON",
       "translation": "on ; celui, celle",
       "example": "She set the sliver down beside the book, very gently, the way one might set down a bird's egg."
+    },
+    {
+      "word": "one after another",
+      "pos": "PHRASE",
+      "translation": "l'un après l'autre",
+      "example": "He stood in front of the progress bar above his desk, took the black marker and drew the last dots, one after another, until the line reached the word OCTOBER and touched it."
     },
     {
       "word": "one after the other",
@@ -19373,6 +19619,12 @@
       "pos": "PHRASE",
       "translation": "fini, terminé (« want it over with » : vouloir en finir)",
       "example": "He told it quickly, almost flatly, as though he wanted it over with."
+    },
+    {
+      "word": "overalls",
+      "pos": "NOUN",
+      "translation": "le bleu de travail, la combinaison",
+      "example": "In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult."
     },
     {
       "word": "overgrow",
@@ -21912,6 +22164,18 @@
       "example": "\"Max,\" she said at last, very gently, \"how much have you been sleeping recently?\""
     },
     {
+      "word": "reception",
+      "pos": "NOUN",
+      "translation": "la réception, l'accueil",
+      "example": "There were twenty-two other candidates waiting in the reception area."
+    },
+    {
+      "word": "reception area",
+      "pos": "PHRASE",
+      "translation": "le hall d'accueil",
+      "example": "There were twenty-two other candidates waiting in the reception area."
+    },
+    {
       "word": "recite",
       "pos": "VERB",
       "translation": "réciter",
@@ -22051,6 +22315,12 @@
     },
     {
       "word": "regret",
+      "pos": "NOUN",
+      "translation": "le regret",
+      "example": "He smiled at Lily, who was looking at the cupboard with an expression of deep regret."
+    },
+    {
+      "word": "regret",
       "pos": "VERB",
       "translation": "regretter",
       "example": "Then Bram stepped aside, with the air of a man admitting a draught he knew he would regret."
@@ -22102,6 +22372,12 @@
       "pos": "VERB",
       "translation": "détendre, relâcher",
       "example": "TEST 10: he followed the pencil's advice, relaxed his wrist and slowed the gesture down until it felt almost lazy."
+    },
+    {
+      "word": "relaxed",
+      "pos": "ADJ",
+      "translation": "détendu",
+      "example": "The first levels were slow and easy, almost a walk, and around him the other candidates were relaxed, chatting, joking."
     },
     {
       "word": "release",
@@ -23082,6 +23358,12 @@
       "example": "The great oak root that ran up the wall behind Bennet's bed had been polished smooth by generations of students."
     },
     {
+      "word": "rung",
+      "pos": "NOUN",
+      "translation": "le barreau, l'échelon",
+      "example": "He climbed one rung at a time, with three points of contact always, as the instructor had explained, and he did not look down."
+    },
+    {
       "word": "runner",
       "pos": "NOUN",
       "translation": "le coureur, la coureuse ; le chantier, la traverse (support de fûts)",
@@ -23206,6 +23488,18 @@
       "pos": "ADJ",
       "translation": "sûr, sans danger (« the safest » : le plus sûr)",
       "example": "He chose the safest."
+    },
+    {
+      "word": "safety",
+      "pos": "NOUN",
+      "translation": "la sécurité",
+      "example": "Each candidate had to climb a long ladder to the top of the grey tower, wearing a safety harness, and then do a simple task at the top before climbing back down."
+    },
+    {
+      "word": "safety harness",
+      "pos": "PHRASE",
+      "translation": "le harnais de sécurité",
+      "example": "Each candidate had to climb a long ladder to the top of the grey tower, wearing a safety harness, and then do a simple task at the top before climbing back down."
     },
     {
       "word": "sag",
@@ -23872,6 +24166,12 @@
       "pos": "NOUN",
       "translation": "le sergent, le brigadier (de police)",
       "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
+    },
+    {
+      "word": "series",
+      "pos": "NOUN",
+      "translation": "la série, la suite",
+      "example": "Candidates ran back and forth between two lines twenty metres apart, in time with a series of beeps from a loudspeaker, and the beeps came faster and faster until you could not keep up any more."
     },
     {
       "word": "serious",
@@ -24622,6 +24922,18 @@
       "pos": "VERB",
       "translation": "fermer les volets (« shuttered » : aux volets clos)",
       "example": "He paid the cooper without haggling — something Rowan had never once seen him do — and was back on the cart within minutes, his face closed like a shuttered window."
+    },
+    {
+      "word": "shuttle",
+      "pos": "NOUN",
+      "translation": "la navette",
+      "example": "\"You collapsed on the shuttle run.\""
+    },
+    {
+      "word": "shuttle run",
+      "pos": "PHRASE",
+      "translation": "le test navette, le Luc Léger",
+      "example": "\"You collapsed on the shuttle run.\""
     },
     {
       "word": "sick",
@@ -26052,6 +26364,12 @@
       "example": "She caught the opposite edge with one hand, swung, pulled herself up and sprinted towards the finish line as the factory collapsed behind her."
     },
     {
+      "word": "sprint off",
+      "pos": "PHRASE",
+      "translation": "partir en sprintant, filer",
+      "example": "\"Run!\" shouted Lily, and she sprinted off ahead of him, as she always did."
+    },
+    {
       "word": "sprinter",
       "pos": "NOUN",
       "translation": "le sprinteur",
@@ -26110,6 +26428,12 @@
       "pos": "NOUN",
       "translation": "le couinement",
       "example": "Jory's whisper was close to a squeak."
+    },
+    {
+      "word": "squeak",
+      "pos": "VERB",
+      "translation": "couiner, crisser",
+      "example": "The gym filled with the sound of trainers squeaking on the floor and people breathing hard, and somewhere in Max's chest, his heart began to pound."
     },
     {
       "word": "squeeze",
@@ -26226,6 +26550,12 @@
       "example": "Sam stands under the tree. — Sam se tient sous l'arbre."
     },
     {
+      "word": "stand back",
+      "pos": "PHRASE",
+      "translation": "reculer (d'un pas), prendre du recul",
+      "example": "Then he hung Ruth's stopwatch on the corner again and stood back."
+    },
+    {
       "word": "stand out",
       "pos": "PHRASE",
       "translation": "ressortir, se détacher",
@@ -26236,6 +26566,12 @@
       "pos": "PHRASE",
       "translation": "se lever",
       "example": "She stood up, picking up the lamp."
+    },
+    {
+      "word": "standard",
+      "pos": "NOUN",
+      "translation": "le niveau requis, la norme",
+      "example": "\"Turner! That's the standard!"
     },
     {
       "word": "standing",
@@ -27917,6 +28253,12 @@
       "example": "Thank God the clock doesn't need electricity."
     },
     {
+      "word": "thank goodness",
+      "pos": "PHRASE",
+      "translation": "Dieu merci, heureusement",
+      "example": "\"Thank goodness.\""
+    },
+    {
       "word": "thank you",
       "pos": "PHRASE",
       "translation": "merci",
@@ -28967,6 +29309,12 @@
       "example": "Getting two octogenarians up into the cab of an articulated lorry, in a blizzard, without breaking anything, is not a manoeuvre covered by any training course of which Gideon was aware."
     },
     {
+      "word": "training dummy",
+      "pos": "PHRASE",
+      "translation": "le mannequin d'entraînement",
+      "example": "In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult."
+    },
+    {
       "word": "transform",
       "pos": "VERB",
       "translation": "transformer",
@@ -29193,6 +29541,12 @@
       "pos": "NOUN",
       "translation": "le bac, la cuve",
       "example": "Inside, the air was warm and heavy and smelled of damp earth and old leaves, and the long tables ran away into a green gloom crowded with pots and trays and tubs."
+    },
+    {
+      "word": "tube",
+      "pos": "NOUN",
+      "translation": "le tube, le tuyau",
+      "example": "Then the enclosed space test, where they had to crawl through a dark tunnel of metal and plastic tubes, wearing a mask that covered their eyes, finding their way by touch alone."
     },
     {
       "word": "tuck",
@@ -30604,6 +30958,12 @@
       "example": "Watch your opponent."
     },
     {
+      "word": "watch manager",
+      "pos": "PHRASE",
+      "translation": "le chef de garde (grade de pompier, ≈ lieutenant)",
+      "example": "\"Watch Manager Hollis,\" she said."
+    },
+    {
       "word": "watchful",
       "pos": "ADJ",
       "translation": "vigilant, aux aguets",
@@ -31112,6 +31472,12 @@
       "pos": "NOUN",
       "translation": "les chuchotements, les murmures",
       "example": "Then it rose again — louder, faster, crackling with a new kind of whispering."
+    },
+    {
+      "word": "whistle",
+      "pos": "VERB",
+      "translation": "siffler",
+      "example": "The quiet boy who did stretches finished so fast that one of the instructors whistled."
     },
     {
       "word": "white",

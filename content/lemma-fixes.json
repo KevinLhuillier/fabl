@@ -329,6 +329,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Breathe",
+      "pos": "INTJ",
+      "word": "breathe",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "breathe",
       "pos": "NOUN",
       "word": "breathe",
@@ -359,6 +365,13 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "broad",
+      "pos": "ADV",
+      "next": "-",
+      "word": "broad-shouldered",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "bruised",
       "pos": "VERB",
       "word": "bruised",
@@ -370,6 +383,13 @@
       "next": "building",
       "word": "burn",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "burnt",
+      "pos": "VERB",
+      "next": "-",
+      "word": "burnt-out",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "bursar",
@@ -504,6 +524,13 @@
       "pos": "NOUN",
       "word": "come",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "complete",
+      "pos": "NOUN",
+      "next": ",",
+      "word": "complete",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "COMPLETE",
@@ -1166,6 +1193,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "hair",
+      "pos": "PROPN",
+      "next": "cut",
+      "word": "hair",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "HALCYON",
       "pos": "NOUN",
       "word": "Halcyon",
@@ -1687,6 +1721,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Manager",
+      "pos": "PROPN",
+      "word": "manager",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Marked",
       "pos": "PROPN",
       "word": "marked",
@@ -1882,6 +1922,13 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Next",
+      "pos": "PROPN",
+      "next": "came",
+      "word": "next",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "NIGHT",
       "pos": "PROPN",
       "word": "night",
@@ -2032,6 +2079,19 @@
       "pos": "NOUN",
       "word": "Otley",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "out",
+      "pos": "ADP",
+      "next": "flats",
+      "word": "burnt-out",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "overalls",
+      "pos": "NOUN",
+      "word": "overalls",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "overweight",
@@ -2220,6 +2280,12 @@
       "text": "Probationary",
       "pos": "PROPN",
       "word": "probationary",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Proud",
+      "pos": "PROPN",
+      "word": "proud",
       "lemmaPos": "ADJ"
     },
     {
@@ -2625,6 +2691,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "shouldered",
+      "pos": "VERB",
+      "word": "broad-shouldered",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "shut",
       "pos": "NOUN",
       "word": "shut",
@@ -2955,6 +3027,13 @@
     {
       "text": "T",
       "pos": "NOUN",
+      "next": "-",
+      "word": "T-shirt",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "T",
+      "pos": "PROPN",
       "next": "-",
       "word": "T-shirt",
       "lemmaPos": "NOUN"

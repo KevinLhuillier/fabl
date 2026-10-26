@@ -661,3 +661,76 @@ That evening, sitting at the kitchen table with his laptop, Max filled in the on
 The email came back nine days later. His mum was the one who saw it first, because he had left his phone on the kitchen table while he was in the shower, and she screamed so loudly that he ran downstairs with shampoo in his hair, thinking the house was on fire. It was not. She was holding up the phone with both hands. Dear Mr Turner, we are pleased to invite you to attend the physical assessment day on Saturday the seventeenth of October.
 That night, all of them came to the house on Ashley Road: Priya with a cake she had baked herself, which was slightly burnt on one side; Frank and Gaz, looking enormous and uncomfortable in the small front room; even Jamal, who brought a pair of new running shoes that he said he had won in a competition and did not need, although they were exactly Max's size. His mum cried. Lily made a speech standing on a chair. Max did not say much at all. He was too happy to speak.
 Later, when everyone had gone home, he stood in his bedroom in front of the progress bar. It was covered in dots now, hundreds of them, so close together that they almost made a solid line. It stretched from TODAY almost all the way across the paper. There was only a small gap left before the word OCTOBER. Max took the black marker, uncapped it, and then put the cap back on without drawing anything. That last gap, he decided, he would fill in on the day. Not before.
+
+# New Game+
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_10.page_1-1793034514755.mp3
+The fire service training centre stood on a hill outside the city, a collection of low brick buildings around a concrete yard, with a tall grey tower at one end where firefighters practised with ladders and hoses. Max arrived at half past seven in the morning, forty minutes early, wearing Jamal's running shoes and Ruth's stopwatch under his T-shirt. Priya had driven him in her uncle's car. She had wanted to come in. He had asked her not to. "This one," he said, "I do alone."
+There were twenty-two other candidates waiting in the reception area. Most of them were younger than him, and most of them looked as if they had been born in a gym: tall young men with enormous shoulders, two women who looked like professional athletes, a quiet boy who did stretches in the corner without stopping. Max sat on a plastic chair with his hands between his knees and tried to breathe slowly, the way Priya had taught him. In for four. Hold for four. Out for four.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_10.page_2-1793034532486.mp3
+At eight o'clock, a door opened and a woman in a dark blue uniform came out with a clipboard. She was in her fifties, broad-shouldered, with grey hair cut very short and a face that had seen a great deal. She read the names on her list in a flat, loud voice, and when she reached Max's name, she stopped and looked up. "Turner," she said slowly. "I know that name." Max felt his stomach drop through the floor. "You were here five years ago," she said. "You collapsed on the shuttle run."
+Several of the other candidates turned to look at him. One of the tall young men smiled. Max made himself look back at the woman with the clipboard, and he nodded. "Yes," he said. "That was me." He waited for her to say something unkind. Instead she looked at him for a few seconds longer, studying his face, the way he was sitting, the way he was breathing. Then she made a small mark on her list. "Watch Manager Hollis," she said. "Welcome back, Mr Turner. Let's see what you've got this time."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_10.page_3-1793034552122.mp3
+The first test was the ladder climb. Each candidate had to climb a long ladder to the top of the grey tower, wearing a safety harness, and then do a simple task at the top before climbing back down. Max had not climbed anything since the wall behind Ashley Road, and that had not really been him. When his turn came, he stood at the bottom and looked up. The tower seemed to reach the clouds. He put his hands on the cold metal, and he began to climb.
+It was slow. He did not fly up the ladder like the runner in the red hoodie. He climbed one rung at a time, with three points of contact always, as the instructor had explained, and he did not look down. Halfway up, his legs began to shake, and for a terrible second he remembered the panic of NIGHT HOLLOW, the cold hand at the back of his neck. Then he heard Ruth's voice in his head. Walking is allowed. Stopping isn't. He kept climbing. At the top, the wind was cold and the view was enormous, all of Leeds spread out under a pale October sky.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_10.page_4-1793034570226.mp3
+Somewhere down there, he thought, was Ashley Road. The warehouse. Kirkgate Market. The burnt-out flats, which had been repaired now, with new windows. The park where he had done keepy-uppies at midnight like a lunatic. He completed the task, a simple knot around a metal bar, and climbed back down, just as slowly. When his feet touched the concrete, Watch Manager Hollis made another mark on her list without saying a word. Max did not know if it was a good mark or a bad one. He did not ask.
+Next came the equipment carry, where candidates had to carry heavy pieces of firefighting equipment along a marked course and back, as fast as they could without dropping anything. Then the enclosed space test, where they had to crawl through a dark tunnel of metal and plastic tubes, wearing a mask that covered their eyes, finding their way by touch alone. Max had expected this to be the worst. But in the dark, on his hands and knees, he found that he was calm.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_10.page_5-1793034588542.mp3
+He knew this. Not from the game, or not only from the game. He knew it from the real stairwell of a real burning building, from the real heat and the real smoke and the real weight of a child in a duvet. Kowalski had taught him how to crawl. But he had been the one who stayed down there in the smoke, who did not turn round, who kept going. That part had always been his. He came out of the end of the tunnel with his hands scraped and dirty, and he was smiling.
+At lunchtime, there were only sixteen candidates left. The tall young man who had smiled at Max that morning had failed the equipment carry and gone home. Max sat alone at the end of a long table in the canteen and ate a banana and a cheese sandwich, very slowly, the way Priya had told him to. His phone buzzed in his pocket. A message from Lily: Did you die yet. Then one from his mum: Proud of you whatever happens love x. And one from Priya: Remember. Breathe. You're the original version.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_10.page_6-1793034605590.mp3
+The afternoon began with the casualty evacuation. In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult. Each candidate had to drag it backwards along a thirty-metre course, as quickly as possible, without letting it touch the ground in a dangerous way. Max watched the others go first. Some of them made it look easy. The quiet boy who did stretches finished so fast that one of the instructors whistled.
+When Max's turn came, he knelt down, slid his arms under the dummy's shoulders, locked his hands across its chest and stood up. It was very heavy, heavier than he had expected. For a moment, he thought he could not do it. Then he thought of Danny. Of the small pale face pressed against the window, and the ginger cat, and the woman in the nurse's uniform screaming her son's name in the street. He leaned back, dug his heels into the concrete and pulled.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_10.page_7-1793034621744.mp3
+He was not fast. He was nowhere near as fast as the quiet boy. But he did not stop, and he did not drop the dummy, and every step backwards was a step he had built himself, on cold mornings in the park with Lily shouting insults from her bicycle, on Tuesday nights in Frank's gym doing press-ups until he cried, on Saturday mornings on the side of the Chevin. When he crossed the line, Watch Manager Hollis looked at her stopwatch, and then at him, and nodded once.
+And then there was only one test left: the shuttle run. The same test that had beaten him five years ago. Candidates ran back and forth between two lines twenty metres apart, in time with a series of beeps from a loudspeaker, and the beeps came faster and faster until you could not keep up any more. To pass, you had to reach a certain level. Five years ago, Max had collapsed long before it. He took his place on the line with the others, and closed his eyes, and waited.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_10.page_8-1793034639501.mp3
+The first beep sounded. He ran. The first levels were slow and easy, almost a walk, and around him the other candidates were relaxed, chatting, joking. Max did not chat. He counted his breathing and listened to his feet. In for four. Out for four. After a few minutes the beeps came closer together, and the joking stopped. One candidate dropped out, then another. The gym filled with the sound of trainers squeaking on the floor and people breathing hard, and somewhere in Max's chest, his heart began to pound.
+He reached the level where he had collapsed five years before. He knew it, because he had been counting, and because his body remembered it even if he had tried to forget. His legs began to burn. His lungs began to hurt. A voice in his head, the old voice, the voice of the man who missed buses, said: this is where you stop. This is where you always stop. Everyone is watching. Just lie down. It would be so easy. Max heard it. And he ran to the next line anyway.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_10.page_9-1793034657084.mp3
+And the next. And the next. He was not thinking about the Halcyon any more, or the runner in the red hoodie, or Danny McBride. He was not thinking about anything at all except the line in front of him and the beep that would come, and his own feet, and his own breath, which were nobody's but his. The level changed. Then it changed again. And then the loudspeaker made a different sound, a long double beep, and Watch Manager Hollis's voice called out across the gym: "Turner! That's the standard! You've passed! You can stop!"
+He did not stop. Not straight away. He ran one more length, just one, to the far line, because it was the first time in his life his body had asked him for more and he wanted to know how it felt. Then he stopped, put his hands on his knees and laughed until he could not breathe, standing in the middle of a gym in front of strangers, exactly as he had laughed alone in the dark park at midnight. But this time, it was all his. Every single step.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_10.page_10-1793034672383.mp3
+When he walked out into the car park an hour later, Priya was leaning against her uncle's car with her arms crossed, pretending to read a book. When she saw his face, she dropped the book on the ground. She did not ask. She just ran across the car park and jumped on him, and he caught her, and for once he did not stumble or drop anything. "Level complete," he said into her hair. Priya laughed and cried at the same time. "No," she said. "New game."
+That evening, with the whole family and half of Frank's gym in the small front room on Ashley Road, Max went upstairs alone. He stood in front of the progress bar above his desk, took the black marker and drew the last dots, one after another, until the line reached the word OCTOBER and touched it. Then he hung Ruth's stopwatch on the corner again and stood back. It was not a beautiful line. It wobbled. In places, during his injury, the dots were so small you could hardly see them. But it went all the way.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_10.page_11-1793034688181.mp3
+The letter from the fire service arrived two weeks later: a place on the training course starting in January. Twelve weeks of training, and then, if he passed, a station of his own. Max read it at the kitchen table with his mum on one side and Lily on the other, and he read it four times before he believed it. His mum framed it. She put it on the wall of the front room, next to Lily's netball medals and the school photograph of Max at seven, with a gap in his teeth and his hair standing up.
+On the first Saturday of November, Max and Lily took the bus into town together, as they had done that cold day in March. Max carried the Halcyon wrapped in a towel under one arm, and Lily carried the cardboard box of cartridges. They walked through the noise and the colour of Kirkgate Market, past the fishmongers and the phone cases and the hot doughnuts, and down the narrow side row to the very end, where Mr Okoro sat at his stall, reading his newspaper through his magnifying glass.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-max-level/chapter_10.page_12-1793034717690.mp3
+"I'd like to give it back," said Max, putting the console on the table. "I don't want it destroyed. Ruth wouldn't want that. But I don't want it in my house either. I think it should be somewhere safe. With someone who understands it." Mr Okoro looked at the grey box for a long time. Then he stood up, slowly, unlocked a heavy wooden cupboard at the back of his stall and placed the Halcyon and the box of cartridges inside, on the highest shelf. He locked the cupboard and put the key in his pocket.
+"You played carefully in the end," he said, sitting down again. "Not at the beginning. But in the end." He smiled at Lily, who was looking at the cupboard with an expression of deep regret. "And you, young lady, do not even think about it." Lily sighed dramatically. "I was only going to ask if there was a two-player mode," she said. Mr Okoro laughed so loudly that the fishmonger in the next row looked round. "There is not," he said. "Thank goodness."
+Outside the market, it had started to rain, of course. As Max and Lily turned the corner onto the main road, they saw the number 49 at the stop, its doors already closing. "Run!" shouted Lily, and she sprinted off ahead of him, as she always did. Max ran too. Not like the runner in the red hoodie. Like himself: steady, strong, breathing in for four and out for four. He passed his sister ten metres from the stop, reached the bus as the doors were closing, and put his hand in the gap. The doors opened again. At the stop, a teenager watched him, impressed. Max grinned, held the door for Lily, and climbed on board.
