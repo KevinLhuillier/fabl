@@ -108,8 +108,14 @@ export async function fetchDueVocabulary(limit: number, lang: string): Promise<V
  * Words for a review session: due words first, then — so the user can practise
  * whenever they want — the words whose next review is the soonest.
  */
-export async function fetchReviewSession(limit: number, lang: string): Promise<VocabularyItem[]> {
-  const due = await fetchDueVocabulary(limit, lang);
+export async function fetchReviewSession(
+  max: number,
+  min: number,
+  lang: string,
+): Promise<VocabularyItem[]> {
+  const due = await fetchDueVocabulary(max, lang);
+  // Up to `max` due words; fewer than `min` are topped up with upcoming ones.
+  const limit = Math.max(min, due.length);
   if (due.length >= limit) return due;
   const upcoming = unwrap(
     await supabase

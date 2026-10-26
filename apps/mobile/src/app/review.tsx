@@ -32,11 +32,14 @@ import { scheduleReview } from '@/lib/srs';
 import type { Occurrence, VocabularyItem } from '@/lib/types';
 import { Button, Icon, IconBubble, ProgressBar, Text, colors, enter, spacing } from '@/theme';
 
-const SESSION_SIZE = 12;
+/** Due words asked in one session at most (they fit in MAX_STEPS thanks to the games). */
+const MAX_WORDS = 50;
+/** With fewer due words, the session is topped up with upcoming ones to this size. */
+const MIN_WORDS = 12;
 
 /** Words of a session, where they are used in the stories and which have a pronunciation clip. */
 async function loadSession(lang: string): Promise<Exercise[]> {
-  const items = await fetchReviewSession(SESSION_SIZE, lang);
+  const items = await fetchReviewSession(MAX_WORDS, MIN_WORDS, lang);
   const [occurrences] = await Promise.all([
     // Without them (e.g. migration not applied yet) the story exercises are left out.
     fetchOccurrences(items.map((i) => i.lemmaId)).catch((e: unknown) => {

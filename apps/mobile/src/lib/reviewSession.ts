@@ -12,8 +12,9 @@
  * Games: scramble (letters in order), pairs (match 4 words with their translations)
  * and true/false (a timed round of "word = translation?").
  *
- * Each word gets the least used type it allows, so a session mixes them. Missed words come
- * back at the end as a typed translation.
+ * Each word gets the least used type it allows, so a session mixes them. A session has
+ * MAX_STEPS exercises at most: with many words, more game rounds (4 words each) make them fit.
+ * Missed words come back at the end as a typed translation.
  */
 import { endOfToday } from './dates';
 import type { Occurrence, VocabularyItem } from './types';
@@ -95,6 +96,8 @@ export function shortTranslation(translation: string) {
 
 const PAIRS_SIZE = 4;
 const TRUE_FALSE_SIZE = 4;
+/** Exercises in a session at most, retries of missed words aside. */
+const MAX_STEPS = 20;
 /** Word-like token: letters, inner apostrophes and hyphens. */
 const WORD = /^[a-z][a-z'-]*$/i;
 
@@ -255,24 +258,37 @@ export function buildSession(
     return picked;
   };
 
-  const pairItems = askable.length >= 6 ? take(PAIRS_SIZE) : [];
-  // Too few distinct translations for a game: the words get their own exercise.
-  if (pairItems.length < 3) pairItems.forEach((i) => taken.delete(i.lemmaId));
-  const pairs: PairsExercise | null =
-    pairItems.length >= 3 ? { kind: 'pairs', key: 'pairs', retry: false, items: pairItems } : null;
-  const trueFalse: TrueFalseExercise | null =
-    askable.length >= 10
-      ? {
-          kind: 'trueFalse',
-          key: 'trueFalse',
-          retry: false,
-          statements: statements(take(TRUE_FALSE_SIZE), askable),
-        }
-      : null;
+  // A pairs round from 6 words, a true/false one from 10; more rounds, alternating, when the
+  // words don't fit in MAX_STEPS one exercise each (a round asks 4 words in one step).
+  const games: (PairsExercise | TrueFalseExercise)[] = [];
+  const baseRounds = (askable.length >= 6 ? 1 : 0) + (askable.length >= 10 ? 1 : 0);
+  const rounds = Math.max(baseRounds, Math.ceil((askable.length - MAX_STEPS) / 3));
+  for (let i = 0; i < rounds; i++) {
+    const isPairs = i % 2 === 0;
+    const picked = take(isPairs ? PAIRS_SIZE : TRUE_FALSE_SIZE);
+    // Too few distinct translations for a game: the words get their own exercise.
+    if (picked.length < 3) {
+      picked.forEach((p) => taken.delete(p.lemmaId));
+      break;
+    }
+    games.push(
+      isPairs
+        ? { kind: 'pairs', key: `pairs-${i}`, retry: false, items: picked }
+        : {
+            kind: 'trueFalse',
+            key: `trueFalse-${i}`,
+            retry: false,
+            statements: statements(picked, askable),
+          },
+    );
+  }
 
   const used = new Map<string, number>();
   const singles = askable
     .filter((i) => !taken.has(i.lemmaId))
+    // Words that don't fit wait for the next session: the upcoming ones first.
+    .sort((a, b) => Number(isDue(b)) - Number(isDue(a)))
+    .slice(0, Math.max(0, MAX_STEPS - games.length))
     .map((item, index) => {
       const options = singleExercises(
         item,
@@ -289,9 +305,14 @@ export function buildSession(
     });
 
   const session: Exercise[] = shuffle(singles);
-  // Pairs early, as a warm-up; the timed round in the second half.
-  if (pairs) session.splice(Math.min(1, session.length), 0, pairs);
-  if (trueFalse) session.splice(Math.ceil((session.length * 2) / 3), 0, trueFalse);
+  // The first pairs round early, as a warm-up; the others spread over the session (with
+  // one of each, the timed round comes at two thirds). Inserted from the last so the
+  // positions, counted in singles, hold.
+  const n = session.length;
+  for (let j = games.length - 1; j >= 0; j--) {
+    const at = j === 0 ? Math.min(1, n) : Math.ceil((n * (j + 1)) / (games.length + 1));
+    session.splice(at, 0, games[j]!);
+  }
   return session;
 }
 

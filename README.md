@@ -61,9 +61,12 @@ turn this off in **Authentication → Providers → Email → Confirm email**.
     (dictation), an **expression** with one word missing;
   - games: **letters** to put in order, **pairs** to match (4 words), a timed **true or false** round (4 words).
 
-  Each word gets the least used type it allows (story exercises need the occurrence where the word was met:
+  A session asks up to 50 due words (topped up to 12 with upcoming words when fewer are due) in
+  20 exercises at most: when the words don't fit one exercise each, more pairs and true/false rounds
+  (4 words each) are added. Each word gets the least used type it allows (story exercises need the occurrence where the word was met:
   `user_vocabulary.passage_id` / `token_position`, else the `vocabulary_occurrences` function finds it from the
   context sentence). Missed words come back at the end as a typed translation.
+
 - **Celebration** screen after a chapter (with "next chapter" and the number of new words to learn:
   the chapter's words added to "Mes mots" and not reviewed yet), a whole story or a review.
 
