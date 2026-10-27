@@ -1,6 +1,7 @@
 import { router } from 'expo-router';
 import {
   AudioLines,
+  Crown,
   Flame,
   GraduationCap,
   Languages,
@@ -13,7 +14,7 @@ import {
   type LucideIcon,
 } from 'lucide-react-native';
 import { useState } from 'react';
-import { ScrollView, StyleSheet, Switch, View } from 'react-native';
+import { Linking, ScrollView, StyleSheet, Switch, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { ConfirmSheet } from '@/components/ConfirmSheet';
@@ -21,6 +22,7 @@ import { LANGS, LANG_NAMES, useI18n } from '@/i18n';
 import { deleteAccount, useAuth } from '@/lib/auth';
 import { formatDuration } from '@/lib/labels';
 import { DAILY_GOAL_OPTIONS, displayedStreak } from '@/lib/gamification';
+import { usePremium } from '@/lib/premium';
 import { useStats } from '@/lib/stats';
 import { supabase } from '@/lib/supabase';
 import { useTour } from '@/lib/tour';
@@ -89,6 +91,8 @@ export default function Profile() {
             color={colors.primary}
           />
         </View>
+
+        <PremiumCard />
 
         <View ref={target('goal')} collapsable={false}>
           <Card>
@@ -241,6 +245,80 @@ export default function Profile() {
   );
 }
 
+/** Subscription status: renewal date and store link, or the way to premium and restore. */
+function PremiumCard() {
+  const { t } = useI18n();
+  const p = t.premium;
+  const { premium, subscription, managementUrl, restore } = usePremium();
+  const [restoring, setRestoring] = useState(false);
+  const [note, setNote] = useState<string | null>(null);
+
+  if (premium) {
+    const expires = subscription?.expires_at ? p.date(new Date(subscription.expires_at)) : null;
+    return (
+      <Card tint={{ face: colors.xpSoft, edge: colors.xp }}>
+        <View style={styles.titleRow}>
+          <Icon icon={Crown} size={22} color={colors.xpShade} />
+          <Text variant="heading">{p.activeTitle}</Text>
+        </View>
+        {expires ? (
+          <Text color={colors.textSecondary} style={styles.hint}>
+            {subscription?.will_renew === false ? p.endsOn(expires) : p.renewsOn(expires)}
+          </Text>
+        ) : null}
+        {subscription?.billing_issue ? (
+          <Text variant="bodyBold" color={colors.danger} style={styles.hint}>
+            {p.billingIssue}
+          </Text>
+        ) : null}
+        <Button
+          label={p.manage}
+          variant="secondary"
+          onPress={() => Linking.openURL(managementUrl)}
+          style={styles.premiumButton}
+        />
+      </Card>
+    );
+  }
+
+  return (
+    <Card tint={{ face: colors.xpSoft, edge: colors.xp }}>
+      <View style={styles.titleRow}>
+        <Icon icon={Crown} size={22} color={colors.xpShade} />
+        <Text variant="heading">{p.freePlan}</Text>
+      </View>
+      <Text color={colors.textSecondary} style={styles.hint}>
+        {p.subtitle}
+      </Text>
+      <Button label={p.upgrade} variant="success" onPress={() => router.push('/paywall')} />
+      <Button
+        label={p.restore}
+        variant="ghost"
+        haptic="tap"
+        loading={restoring}
+        disabled={restoring}
+        onPress={async () => {
+          setRestoring(true);
+          setNote(null);
+          try {
+            if (!(await restore())) setNote(p.nothingToRestore);
+          } catch (e) {
+            console.warn('restore', e);
+            setNote(p.loadError);
+          } finally {
+            setRestoring(false);
+          }
+        }}
+      />
+      {note ? (
+        <Text variant="caption" align="center" color={colors.textSecondary}>
+          {note}
+        </Text>
+      ) : null}
+    </Card>
+  );
+}
+
 function Stat({
   icon,
   value,
@@ -291,4 +369,5 @@ const styles = StyleSheet.create({
   langs: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm },
   lang: { flexGrow: 1, flexBasis: '40%' },
   gestureRow: { gap: spacing.sm, marginTop: spacing.sm },
+  premiumButton: { marginTop: spacing.xs },
 });

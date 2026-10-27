@@ -109,12 +109,58 @@ The rules live in `apps/mobile/src/lib/gamification.ts` (`DAILY_GOAL_OPTIONS`, `
 
 ### Data model
 
-| Table                                                                                       | Access                                     |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| `stories`, `chapters`, `passages` (pages), `tokens`, `lemmas`, `translations`               | public read, written by the publish script |
-| `user_progress`, `user_chapter_progress`, `user_vocabulary`, `user_stats`, `daily_activity` | owner only (RLS on `auth.uid()`)           |
+| Table                                                                                       | Access                                                             |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| `stories`, `chapters`, `lemmas`, `translations`                                             | public read, written by the publish script                         |
+| `passages` (pages), `tokens`                                                                | same, but premium stories: first chapter only without subscription |
+| `user_progress`, `user_chapter_progress`, `user_vocabulary`, `user_stats`, `daily_activity` | owner only (RLS on `auth.uid()`)                                   |
+| `subscriptions`                                                                             | owner read, written by the Edge Functions                          |
 
 A `user_stats` row is created automatically when an account signs up.
+
+## Premium subscription (RevenueCat)
+
+**What premium opens**: every chapter of the stories marked `premium: true` (free accounts read
+their first chapter), and an unlimited word list (free accounts keep 30 words, `FREE_WORD_LIMIT`).
+Both are enforced by the database, not only by the app: the `passages` and `tokens` policies call
+`is_premium()`, and the `check_vocabulary_limit` trigger refuses the 31st word (`vocabulary_limit`).
+
+**How it works**: the app buys through RevenueCat (`react-native-purchases`, Google Play Billing),
+with the Supabase user id as RevenueCat customer (`Purchases.logIn`), so the subscription follows
+the account. RevenueCat calls the `revenuecat-webhook` Edge Function on every change; the function
+reads the customer back from RevenueCat (`GET /v1/subscribers`) and writes `subscriptions`. Right
+after a purchase or a restore, the app calls `sync-subscription` so premium opens without waiting
+for the webhook. In the app: `src/lib/premium.tsx` (status, purchase, restore), the offer screen
+`src/app/paywall.tsx`, the profile card (renewal date, "Gérer mon abonnement" → Google Play).
+
+**Setup**, once:
+
+1. **Google Play Console**: a merchant account, then **Monetize → Subscriptions**: one
+   subscription (e.g. `taleway_premium`) with its base plans (monthly, annual) and, if wanted, a
+   free trial offer. Purchases can only be tested with a build uploaded to a test track (internal
+   testing); add your Google account to **License testing** (test purchases, renewals within
+   minutes).
+2. **RevenueCat** (app.revenuecat.com): a project with the Google Play app (`com.taleway.app`,
+   service account credentials as their guide explains), the products imported, an entitlement
+   **`premium`** with the products attached, and a **current offering** with its packages
+   (`$rc_monthly`, `$rc_annual`): the offer screen shows them in this order, the annual one with its
+   saving over the monthly price.
+3. **Edge Functions** (Supabase CLI, linked project):
+   ```bash
+   npx supabase secrets set REVENUECAT_SECRET_API_KEY=sk_... REVENUECAT_WEBHOOK_AUTH="Bearer <random secret>"
+   npx supabase functions deploy revenuecat-webhook --no-verify-jwt
+   npx supabase functions deploy sync-subscription
+   ```
+   `REVENUECAT_ENTITLEMENT` is optional (`premium` by default).
+4. **RevenueCat → Integrations → Webhooks**: URL
+   `https://<project-ref>.supabase.co/functions/v1/revenuecat-webhook`, authorization header value
+   = exactly `REVENUECAT_WEBHOOK_AUTH`.
+5. **App keys**: `EXPO_PUBLIC_REVENUECAT_ANDROID_KEY` (public SDK key `goog_…`) in
+   `apps/mobile/.env` and in the EAS environments (`npx eas-cli env:create`).
+
+Purchases use native code: Expo Go only runs RevenueCat's preview mode (mocked store). To test
+real purchases, build a development client (`npx eas-cli build --profile development -p android`)
+or a test-track build.
 
 ## Publishing stories
 
@@ -227,7 +273,8 @@ Then Mia sees her neighbour, Mr Green.
 
 - **Front matter** (between the first two `---` lines): `title`, `level` (A1–C2), `summary`
   and optionally `cover` (http(s) URL of the front cover image; without it the app draws a
-  default cover in the level color). Chapters share the story's level.
+  default cover in the level color), `premium: true` (only the first chapter is free, see
+  [Premium subscription](#premium-subscription-revenuecat)). Chapters share the story's level.
 - **`# Title` starts a chapter**; `---` separates two **pages** of a chapter. Only `#` headings.
 - **One line = one paragraph**; blank lines are ignored. `<!-- comments -->` are allowed.
 - **`@audio <url>`** (optional, one per page, written first by the admin) attaches a recorded

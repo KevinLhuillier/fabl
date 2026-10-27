@@ -1,4 +1,4 @@
-import { Check } from 'lucide-react-native';
+import { Check, Crown } from 'lucide-react-native';
 import { Pressable, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 
@@ -49,6 +49,13 @@ export function StoryTile({ story, progress, onPress }: Props) {
       <Animated.View style={faceStyle}>
         <StoryCover story={story} width="100%" />
         <Badge label={story.level} level={story.level} solid style={styles.level} />
+        {story.premium && !done ? (
+          <View
+            style={[styles.done, { backgroundColor: colors.xp, borderColor: colors.surface }]}
+            accessibilityLabel={t.premium.badge}>
+            <Icon icon={Crown} size={14} color={colors.textOnColor} />
+          </View>
+        ) : null}
         {done ? (
           <View style={[styles.done, { backgroundColor: c.solid, borderColor: colors.surface }]}>
             <Icon icon={Check} size={14} color={colors.textOnColor} />

@@ -300,12 +300,26 @@ export function EditorPage({ slug, server }: { slug: string; server: ServerStatu
                     onChange={(e) => updateMeta({ summary: e.target.value.replace(/\n/g, ' ') })}
                   />
                 </Field>
+                <label className="check check-premium">
+                  <input
+                    type="checkbox"
+                    checked={draft.meta.premium}
+                    onChange={(e) => updateMeta({ premium: e.target.checked })}
+                  />
+                  <span>
+                    <span className="t-bold">Histoire premium</span>
+                    <br />
+                    <span className="t-caption c-secondary">
+                      Sans abonnement, seul le premier chapitre se lit.
+                    </span>
+                  </span>
+                </label>
               </>
             ) : (
               <p className="t-caption c-muted">
                 {detail.source === null
                   ? 'Récupère le fichier pour modifier l’histoire.'
-                  : 'En mode Markdown, les informations se modifient dans l’en-tête du fichier (title, level, summary, cover).'}
+                  : 'En mode Markdown, les informations se modifient dans l’en-tête du fichier (title, level, summary, cover, premium).'}
               </p>
             )}
           </section>

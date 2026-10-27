@@ -67,6 +67,7 @@ type PublishedRow = {
   level: CefrLevel;
   summary: string;
   cover_url: string | null;
+  premium: boolean;
   chapter_count: number;
   passage_count: number;
   word_count: number;
@@ -79,7 +80,7 @@ async function publishedRows(slug?: string): Promise<Map<string, PublishedRow>> 
   let query = client
     .from('stories')
     .select(
-      'slug, title, level, summary, cover_url, chapter_count, passage_count, word_count, updated_at',
+      'slug, title, level, summary, cover_url, premium, chapter_count, passage_count, word_count, updated_at',
     );
   if (slug) query = query.eq('slug', slug);
   const { data, error } = await query;
@@ -131,6 +132,7 @@ export async function listStories(): Promise<StoryListItem[]> {
         level: meta.level,
         summary: meta.summary,
         cover: meta.cover,
+        premium: meta.premium,
         chapters: chapters.length,
         pages: chapters.reduce((n, c) => n + c.pages.length, 0),
         error: null,
@@ -142,6 +144,7 @@ export async function listStories(): Promise<StoryListItem[]> {
         level: row?.level ?? 'A1',
         summary: row?.summary ?? '',
         cover: row?.cover_url ?? null,
+        premium: row?.premium ?? false,
         chapters: 0,
         pages: 0,
         error: e instanceof Error ? e.message : String(e),
@@ -158,6 +161,7 @@ export async function listStories(): Promise<StoryListItem[]> {
       level: row.level,
       summary: row.summary,
       cover: row.cover_url,
+      premium: row.premium,
       status: 'online-only',
       chapters: row.chapter_count,
       pages: row.passage_count,
@@ -202,7 +206,7 @@ export function createStoryFile(slug: string, title: string, level: CefrLevel) {
   }
   writeStoryFile(
     slug,
-    serializeStory({ title, level, summary: '', cover: null }, [
+    serializeStory({ title, level, summary: '', cover: null, premium: false }, [
       { key: null, title: 'Chapter One', pages: [{ lines: ['Once upon a time…'], audio: null }] },
     ]),
   );
@@ -227,7 +231,7 @@ export async function importStoryFile(slug: string) {
   const { data, error } = await requireDb()
     .from('stories')
     .select(
-      'title, level, summary, cover_url, chapters(key, position, title, passages(page_index, text, audio_url))',
+      'title, level, summary, cover_url, premium, chapters(key, position, title, passages(page_index, text, audio_url))',
     )
     .eq('slug', slug)
     .single();
@@ -238,6 +242,7 @@ export async function importStoryFile(slug: string) {
     level: CefrLevel;
     summary: string;
     cover_url: string | null;
+    premium: boolean;
     chapters: {
       key: string;
       position: number;
@@ -257,7 +262,13 @@ export async function importStoryFile(slug: string) {
   writeStoryFile(
     slug,
     serializeStory(
-      { title: row.title, level: row.level, summary: row.summary, cover: row.cover_url },
+      {
+        title: row.title,
+        level: row.level,
+        summary: row.summary,
+        cover: row.cover_url,
+        premium: row.premium,
+      },
       chapters,
     ),
   );

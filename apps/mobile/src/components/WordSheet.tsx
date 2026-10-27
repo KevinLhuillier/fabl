@@ -1,4 +1,4 @@
-import { Check } from 'lucide-react-native';
+import { Check, Crown } from 'lucide-react-native';
 import { Pressable, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -6,6 +6,8 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { SpeakButton } from '@/components/SpeakButton';
 import { useI18n } from '@/i18n';
 import { posLabel } from '@/lib/labels';
+import type { AddWordResult } from '@/lib/api/vocabulary';
+import { FREE_WORD_LIMIT } from '@/lib/premium';
 import type { Lemma } from '@/lib/types';
 import { Badge, Button, Icon, Text, colors, enter, exit, radii, spacing } from '@/theme';
 
@@ -14,8 +16,8 @@ export type WordSheetState = {
   lemma: Lemma;
   /** Expression the word belongs to: shown first, and the one added to the user's words. */
   phrase: Lemma | null;
-  /** null while the vocabulary insert is pending. */
-  added: 'new' | 'existing' | null;
+  /** null while the vocabulary insert is pending; 'limit': refused (free account full). */
+  added: AddWordResult | null;
 };
 
 type Props = {
@@ -23,6 +25,8 @@ type Props = {
   onClose: () => void;
   /** Called before the word's pronunciation plays. */
   onSpeak?: () => void;
+  /** Opens the premium offer (shown when the word list is full). */
+  onUpgrade: () => void;
 };
 
 /**
@@ -30,7 +34,7 @@ type Props = {
  * of an expression, the expression comes first and the word alone below it.
  * The speaker plays the word as spelled in the text ("took"), else its lemma.
  */
-export function WordSheet({ word, onClose, onSpeak }: Props) {
+export function WordSheet({ word, onClose, onSpeak, onUpgrade }: Props) {
   const insets = useSafeAreaInsets();
   const { t } = useI18n();
   if (!word) return null;
@@ -54,10 +58,7 @@ export function WordSheet({ word, onClose, onSpeak }: Props) {
         <View style={styles.handle} />
         <View style={styles.header}>
           <Text variant="title">{phrase ? phrase.word : surface}</Text>
-          <SpeakButton
-            texts={phrase ? [phrase.word] : [surface, lemma.word]}
-            onPlay={onSpeak}
-          />
+          <SpeakButton texts={phrase ? [phrase.word] : [surface, lemma.word]} onPlay={onSpeak} />
           <Badge label={posLabel(t, entry.pos)} tone="primary" style={styles.badge} />
         </View>
         {showLemma ? (
@@ -81,17 +82,39 @@ export function WordSheet({ word, onClose, onSpeak }: Props) {
             {` — ${lemma.translation}`}
           </Text>
         ) : null}
-        <View style={styles.status}>
-          {added === 'new' ? <Icon icon={Check} size={16} color={colors.successShade} /> : null}
-          <Text variant="caption" color={added === 'new' ? colors.successShade : colors.textMuted}>
-            {added === 'new'
-              ? t.wordSheet.added
-              : added === 'existing'
-                ? t.wordSheet.alreadyAdded
-                : ' '}
-          </Text>
-        </View>
-        <Button label={t.common.gotIt} onPress={onClose} haptic="tap" />
+        {added === 'limit' ? (
+          <Animated.View entering={enter.up()} style={styles.limit}>
+            <View style={styles.limitTitle}>
+              <Icon icon={Crown} size={20} color={colors.xpShade} />
+              <Text variant="bodyBold" style={styles.flex}>
+                {t.premium.limitTitle(FREE_WORD_LIMIT)}
+              </Text>
+            </View>
+            <Text color={colors.textSecondary}>{t.premium.limitText}</Text>
+          </Animated.View>
+        ) : (
+          <View style={styles.status}>
+            {added === 'new' ? <Icon icon={Check} size={16} color={colors.successShade} /> : null}
+            <Text
+              variant="caption"
+              color={added === 'new' ? colors.successShade : colors.textMuted}>
+              {added === 'new'
+                ? t.wordSheet.added
+                : added === 'existing'
+                  ? t.wordSheet.alreadyAdded
+                  : ' '}
+            </Text>
+          </View>
+        )}
+        {added === 'limit' ? (
+          <Button label={t.premium.upgrade} variant="success" onPress={onUpgrade} />
+        ) : null}
+        <Button
+          label={t.common.gotIt}
+          variant={added === 'limit' ? 'secondary' : 'primary'}
+          onPress={onClose}
+          haptic="tap"
+        />
       </Animated.View>
     </View>
   );
@@ -127,4 +150,12 @@ const styles = StyleSheet.create({
     padding: spacing.md,
   },
   status: { flexDirection: 'row', alignItems: 'center', gap: spacing.xs, minHeight: 18 },
+  limit: {
+    backgroundColor: colors.xpSoft,
+    borderRadius: radii.md,
+    padding: spacing.md,
+    gap: spacing.xs,
+  },
+  limitTitle: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm },
+  flex: { flex: 1 },
 });

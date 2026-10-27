@@ -6,6 +6,7 @@
  *   level: A1
  *   summary: Mia's cat is not at home.
  *   cover: https://example.com/leo.jpg   (optional, front cover image)
+ *   premium: true                        (optional: only the first chapter is free)
  *   ---
  *
  *   # Leo Is Not Here
@@ -37,6 +38,8 @@ export type StoryMeta = {
   summary: string;
   /** Front cover image URL; null lets the app draw a default cover. */
   cover: string | null;
+  /** Premium story: free accounts read the first chapter only. */
+  premium: boolean;
 };
 
 export type Page = {
@@ -108,7 +111,13 @@ export function parseStory(source: string, fileName: string): ParsedStory {
     level: level as CefrLevel,
     summary: fields.get('summary') ?? '',
     cover: fields.get('cover') || null,
+    premium: false,
   };
+  const premium = fields.get('premium')?.toLowerCase();
+  if (premium !== undefined && premium !== 'true' && premium !== 'false') {
+    fail('front matter "premium" must be true or false');
+  }
+  meta.premium = premium === 'true';
   if (meta.cover && !/^https?:\/\//.test(meta.cover)) {
     fail('front matter "cover" must be an http(s) image URL');
   }
@@ -223,6 +232,7 @@ export function serializeStory(meta: StoryMeta, chapters: DraftChapter[]): strin
     `level: ${meta.level}`,
     `summary:${meta.summary.trim() ? ` ${oneLine(meta.summary)}` : ''}`,
     ...(meta.cover ? [`cover: ${meta.cover.trim()}`] : []),
+    ...(meta.premium ? ['premium: true'] : []),
     '---',
   ].join('\n');
 

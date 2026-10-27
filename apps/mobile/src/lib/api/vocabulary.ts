@@ -3,9 +3,12 @@ import type { SrsResult } from '../srs';
 import { currentUserId, supabase, unwrap } from '../supabase';
 import type { Occurrence, SentenceToken, VocabularyItem } from '../types';
 
+export type AddWordResult = 'new' | 'existing' | 'limit';
+
 /**
  * Adds a looked-up word. The (user_id, lemma_id) primary key + ignoreDuplicates
- * make it a no-op if the word is already there. Returns true if it was new.
+ * make it a no-op if the word is already there ('existing'). 'limit': a free account
+ * already has FREE_WORD_LIMIT words (the database refuses the new one).
  * The page and token position let the review find the word in its story again.
  */
 export async function addToVocabulary(input: {
@@ -15,25 +18,25 @@ export async function addToVocabulary(input: {
   passageId: string;
   /** Position of the tapped token, or of the first token of the expression. */
   tokenPosition: number;
-}): Promise<boolean> {
+}): Promise<AddWordResult> {
   const userId = await currentUserId();
-  const inserted = unwrap(
-    await supabase
-      .from('user_vocabulary')
-      .upsert(
-        {
-          user_id: userId,
-          lemma_id: input.lemmaId,
-          context_sentence: input.contextSentence,
-          story_id: input.storyId,
-          passage_id: input.passageId,
-          token_position: input.tokenPosition,
-        },
-        { onConflict: 'user_id,lemma_id', ignoreDuplicates: true },
-      )
-      .select('lemma_id'),
-  ) as unknown[];
-  return inserted.length > 0;
+  const res = await supabase
+    .from('user_vocabulary')
+    .upsert(
+      {
+        user_id: userId,
+        lemma_id: input.lemmaId,
+        context_sentence: input.contextSentence,
+        story_id: input.storyId,
+        passage_id: input.passageId,
+        token_position: input.tokenPosition,
+      },
+      { onConflict: 'user_id,lemma_id', ignoreDuplicates: true },
+    )
+    .select('lemma_id');
+  // Raised by the check_vocabulary_limit trigger.
+  if (res.error?.message === 'vocabulary_limit') return 'limit';
+  return (unwrap(res) as unknown[]).length > 0 ? 'new' : 'existing';
 }
 
 /** Removes a word from the user's list (its review history goes with it). */

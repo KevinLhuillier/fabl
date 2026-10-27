@@ -11,6 +11,7 @@ import { GoalToast } from '@/components/GoalToast';
 import { LaunchScreen } from '@/components/LaunchScreen';
 import { I18nProvider, useI18n } from '@/i18n';
 import { AuthProvider, useAuth } from '@/lib/auth';
+import { PremiumProvider } from '@/lib/premium';
 import { StatsProvider, useStats } from '@/lib/stats';
 import { TourProvider } from '@/lib/tour';
 import { Loader, colors, fontAssets } from '@/theme';
@@ -21,13 +22,15 @@ export default function RootLayout() {
   return (
     <GestureHandlerRootView style={{ flex: 1 }}>
       <AuthProvider>
-        <StatsProvider>
-          <I18nProvider>
-            <TourProvider>
-              <RootNavigator />
-            </TourProvider>
-          </I18nProvider>
-        </StatsProvider>
+        <PremiumProvider>
+          <StatsProvider>
+            <I18nProvider>
+              <TourProvider>
+                <RootNavigator />
+              </TourProvider>
+            </I18nProvider>
+          </StatsProvider>
+        </PremiumProvider>
       </AuthProvider>
     </GestureHandlerRootView>
   );
@@ -88,6 +91,7 @@ function RootNavigator() {
             options={{ presentation: 'fullScreenModal', gestureEnabled: false }}
           />
           <Stack.Screen name="celebration" options={{ animation: 'fade', gestureEnabled: false }} />
+          <Stack.Screen name="paywall" options={{ presentation: 'modal' }} />
         </Stack.Protected>
         <Stack.Protected guard={needsLang}>
           <Stack.Screen name="language" options={{ animation: 'fade' }} />

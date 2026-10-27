@@ -1,5 +1,5 @@
 import { router, useFocusEffect } from 'expo-router';
-import { BookOpen, Brain, Search, Sparkles, Trash2 } from 'lucide-react-native';
+import { BookOpen, Brain, Crown, Search, Sparkles, Trash2 } from 'lucide-react-native';
 import { useCallback, useState } from 'react';
 import { FlatList, Pressable, StyleSheet, View } from 'react-native';
 import Animated, { LinearTransition } from 'react-native-reanimated';
@@ -11,6 +11,7 @@ import { useI18n } from '@/i18n';
 import { fetchVocabulary, removeFromVocabulary } from '@/lib/api/vocabulary';
 import { endOfToday } from '@/lib/dates';
 import { posLabel } from '@/lib/labels';
+import { FREE_WORD_LIMIT, usePremium } from '@/lib/premium';
 import { loadPronunciations } from '@/lib/pronunciation';
 import { useTour } from '@/lib/tour';
 import type { VocabularyItem } from '@/lib/types';
@@ -20,6 +21,7 @@ import {
   Card,
   Icon,
   Loader,
+  ProgressBar,
   Text,
   TextField,
   colors,
@@ -34,6 +36,7 @@ const normalize = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLo
 
 export default function Vocabulary() {
   const { t, lang } = useI18n();
+  const { premium, ready: premiumReady } = usePremium();
   const [items, setItems] = useState<VocabularyItem[] | null>(null);
   const [query, setQuery] = useState('');
   const [error, setError] = useState<string | null>(null);
@@ -110,6 +113,7 @@ export default function Vocabulary() {
                 </View>
               </Card>
             </View>
+            {items && premiumReady && !premium ? <WordLimit count={items.length} /> : null}
             <View ref={target('search')} collapsable={false}>
               <TextField
                 icon={Search}
@@ -161,6 +165,35 @@ export default function Vocabulary() {
         onCancel={() => setConfirmOpen(false)}
       />
     </SafeAreaView>
+  );
+}
+
+/** Free account: words used out of FREE_WORD_LIMIT, and the way to more. */
+function WordLimit({ count }: { count: number }) {
+  const { t } = useI18n();
+  const full = count >= FREE_WORD_LIMIT;
+  return (
+    <Card onPress={() => router.push('/paywall')} padding={spacing.md}>
+      <View style={styles.limitRow}>
+        <Icon icon={Crown} size={22} color={colors.xpShade} />
+        <View style={styles.limitBody}>
+          <View style={styles.limitTop}>
+            <Text variant="bodyBold">{t.premium.freePlan}</Text>
+            <Text variant="caption" color={full ? colors.danger : colors.textSecondary}>
+              {t.premium.wordsUsed(Math.min(count, FREE_WORD_LIMIT), FREE_WORD_LIMIT)}
+            </Text>
+          </View>
+          <ProgressBar
+            progress={count / FREE_WORD_LIMIT}
+            color={full ? colors.danger : colors.xp}
+            height={8}
+          />
+          <Text variant="caption" color={full ? colors.danger : colors.xpShade}>
+            {full ? t.premium.limitReached : t.premium.upgrade}
+          </Text>
+        </View>
+      </View>
+    </Card>
   );
 }
 
@@ -222,6 +255,9 @@ const styles = StyleSheet.create({
   empty: { marginTop: spacing.xl },
   cardTop: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm },
   remove: { padding: spacing.xs },
+  limitRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
+  limitBody: { flex: 1, gap: spacing.xs },
+  limitTop: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
   context: { marginTop: spacing.sm, fontStyle: 'italic' },
   story: { flexDirection: 'row', alignItems: 'center', gap: spacing.xs, marginTop: spacing.sm },
 });

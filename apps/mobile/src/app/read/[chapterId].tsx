@@ -19,6 +19,7 @@ import {
   saveChapterPage,
 } from '@/lib/api/progress';
 import { addToVocabulary, countWordsToLearn } from '@/lib/api/vocabulary';
+import { isFreeChapter } from '@/lib/premium';
 import { useStats } from '@/lib/stats';
 import { useTour } from '@/lib/tour';
 import type { ChapterProgress, ChapterSummary, Page, StorySummary, Token } from '@/lib/types';
@@ -103,6 +104,11 @@ export default function ChapterReader() {
       .then(([{ story, chapters }, pages, progress, storyCompleted]) => {
         if (cancelled) return;
         const chapter = chapters.find((c) => c.id === chapterId);
+        // A premium chapter without subscription: the database returns no page.
+        if (chapter && !pages.length && !isFreeChapter(story.premium, chapter.position)) {
+          router.replace('/paywall');
+          return;
+        }
         if (!chapter || !pages.length) throw new Error(t.reader.notFound);
         // Resume where the user left; a finished chapter is replayed from the top.
         const p = progress.get(chapterId);
@@ -212,12 +218,8 @@ export default function ChapterReader() {
       passageId: current.id,
       tokenPosition: token.phrase?.start ?? token.position,
     })
-      .then((isNew) =>
-        setSheet((s) =>
-          s && (s.phrase ?? s.lemma).id === entry.id
-            ? { ...s, added: isNew ? 'new' : 'existing' }
-            : s,
-        ),
+      .then((added) =>
+        setSheet((s) => (s && (s.phrase ?? s.lemma).id === entry.id ? { ...s, added } : s)),
       )
       .catch((e) => console.warn('addToVocabulary', e));
   }
@@ -347,6 +349,12 @@ export default function ChapterReader() {
           setSelected(null);
         }}
         onSpeak={() => audioRef.current?.pause()}
+        onUpgrade={() => {
+          setSheet(null);
+          setSelected(null);
+          audioRef.current?.pause();
+          router.push('/paywall');
+        }}
       />
     </SafeAreaView>
   );

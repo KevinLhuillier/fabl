@@ -70,6 +70,7 @@ export async function publishStory(
           level: story.meta.level,
           summary: story.meta.summary,
           cover_url: story.meta.cover,
+          premium: story.meta.premium,
           passage_count: pages.length,
           chapter_count: story.chapters.length,
           word_count: words(pages.map((p) => p.key)),

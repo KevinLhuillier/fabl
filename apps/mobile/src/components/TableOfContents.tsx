@@ -1,10 +1,11 @@
-import { Check, Lock, Trophy } from 'lucide-react-native';
+import { Check, Crown, Lock, Trophy } from 'lucide-react-native';
 import { Pressable, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import Svg, { Path } from 'react-native-svg';
 
 import { useI18n } from '@/i18n';
 import { toRoman } from '@/lib/labels';
+import { isFreeChapter } from '@/lib/premium';
 import type { ChapterProgress, ChapterSummary } from '@/lib/types';
 import {
   Icon,
@@ -20,25 +21,32 @@ import {
   type CefrLevel,
 } from '@/theme';
 
-export type ChapterStatus = 'done' | 'current' | 'locked';
+export type ChapterStatus = 'done' | 'current' | 'locked' | 'premium';
 
 type Props = {
   level: CefrLevel;
   chapters: ChapterSummary[];
   progress: Map<string, ChapterProgress>;
+  /** Premium story read without subscription: chapters after the first are "premium". */
+  premiumLocked: boolean;
   onOpen: (chapter: ChapterSummary) => void;
+  /** A premium chapter was tapped. */
+  onPremium: () => void;
 };
 
 /**
  * Chapters are unlocked one after the other: every completed chapter is
  * "done", the first unfinished one is "current", the rest are locked.
+ * Without subscription, the chapters after the first of a premium story are "premium".
  */
 export function chapterStatuses(
   chapters: ChapterSummary[],
   progress: Map<string, ChapterProgress>,
+  premiumLocked = false,
 ): ChapterStatus[] {
   let unlocked = true;
   return chapters.map((c) => {
+    if (premiumLocked && !isFreeChapter(true, c.position)) return 'premium';
     if (progress.get(c.id)?.completed) return 'done';
     if (unlocked) {
       unlocked = false;
@@ -53,8 +61,15 @@ export function chapterStatuses(
  * (roman numeral, title, length), a bookmark ribbon on the chapter to read,
  * and a "Fin" ornament that turns into a trophy once the book is finished.
  */
-export function TableOfContents({ level, chapters, progress, onOpen }: Props) {
-  const statuses = chapterStatuses(chapters, progress);
+export function TableOfContents({
+  level,
+  chapters,
+  progress,
+  premiumLocked,
+  onOpen,
+  onPremium,
+}: Props) {
+  const statuses = chapterStatuses(chapters, progress, premiumLocked);
   const allDone = statuses.every((s) => s === 'done');
   const { t } = useI18n();
   const c = levelColors[level];
@@ -77,6 +92,11 @@ export function TableOfContents({ level, chapters, progress, onOpen }: Props) {
                 onPress={() => {
                   if (statuses[i] === 'locked') {
                     haptics.error();
+                    return;
+                  }
+                  if (statuses[i] === 'premium') {
+                    haptics.tap();
+                    onPremium();
                     return;
                   }
                   haptics.press();
@@ -123,6 +143,7 @@ function ChapterLine({
   const { t } = useI18n();
   const c = levelColors[level];
   const locked = status === 'locked';
+  const premium = status === 'premium';
   const current = status === 'current';
   const pageIndex = progress?.pageIndex ?? 0;
   const started = current && pageIndex > 0;
@@ -130,7 +151,11 @@ function ChapterLine({
   return (
     <Pressable
       accessibilityRole="button"
-      accessibilityLabel={t.toc.chapterA11y(chapter.position + 1, chapter.title)}
+      accessibilityLabel={
+        premium
+          ? t.premium.lockedChapterA11y(chapter.position + 1, chapter.title)
+          : t.toc.chapterA11y(chapter.position + 1, chapter.title)
+      }
       accessibilityState={{ disabled: locked }}
       onPress={onPress}
       style={({ pressed }) => [
@@ -167,6 +192,10 @@ function ChapterLine({
               />
             ) : null}
           </>
+        ) : premium ? (
+          <Text variant="caption" color={colors.xpShade}>
+            {t.premium.lockedChapter}
+          </Text>
         ) : (
           <Text variant="caption" color={colors.textMuted}>
             {t.common.pages(chapter.pageCount)} · {t.common.words(chapter.wordCount)}
@@ -179,6 +208,8 @@ function ChapterLine({
           <View style={[styles.check, { backgroundColor: c.solid }]}>
             <Icon icon={Check} size={16} color={colors.textOnColor} />
           </View>
+        ) : premium ? (
+          <Icon icon={Crown} size={20} color={colors.xpShade} />
         ) : current ? null : (
           <Icon icon={Lock} size={18} color={colors.textMuted} />
         )}

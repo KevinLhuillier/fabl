@@ -152,6 +152,7 @@ function StoryTile({ story }: { story: StoryListItem }) {
         <StoryCover slug={story.slug} title={story.title} level={story.level} cover={story.cover} />
         <div className="tile-badges">
           <Badge level={story.level}>{story.level}</Badge>
+          {story.premium ? <Badge tone="xp">Premium</Badge> : null}
           {story.error ? (
             <Badge tone="danger">Erreur</Badge>
           ) : (

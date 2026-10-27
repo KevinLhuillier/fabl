@@ -1,5 +1,5 @@
 import { router, useFocusEffect, useLocalSearchParams } from 'expo-router';
-import { BookOpen, ChevronLeft, Clock } from 'lucide-react-native';
+import { BookOpen, ChevronLeft, Clock, Crown } from 'lucide-react-native';
 import { useCallback, useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
@@ -11,6 +11,7 @@ import { useI18n } from '@/i18n';
 import { fetchStoryWithChapters } from '@/lib/api/content';
 import { fetchChapterProgress } from '@/lib/api/progress';
 import { readingMinutes } from '@/lib/labels';
+import { usePremium } from '@/lib/premium';
 import { useTour } from '@/lib/tour';
 import type { ChapterProgress, ChapterSummary, StorySummary } from '@/lib/types';
 import {
@@ -31,6 +32,7 @@ import {
 export default function StoryScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
   const { t } = useI18n();
+  const { premium } = usePremium();
   const [story, setStory] = useState<StorySummary | null>(null);
   const [chapters, setChapters] = useState<ChapterSummary[]>([]);
   const [progress, setProgress] = useState(new Map<string, ChapterProgress>());
@@ -74,6 +76,8 @@ export default function StoryScreen() {
     return n + (p?.completed ? ch.pageCount : (p?.pageIndex ?? 0));
   }, 0);
   const fraction = story.passage_count ? Math.min(1, pagesRead / story.passage_count) : 0;
+  const premiumLocked = story.premium && !premium;
+  const openPaywall = () => router.push('/paywall');
 
   return (
     <SafeAreaView style={styles.safe} edges={['top']}>
@@ -85,7 +89,10 @@ export default function StoryScreen() {
           accessibilityLabel={t.common.back}>
           <Icon icon={ChevronLeft} size={30} color={colors.textMuted} />
         </Pressable>
-        <Badge label={`${story.level} · ${t.levels[story.level]}`} level={story.level} solid />
+        <View style={styles.badges}>
+          {story.premium ? <Badge label={t.premium.badge} icon={Crown} tone="xp" /> : null}
+          <Badge label={`${story.level} · ${t.levels[story.level]}`} level={story.level} solid />
+        </View>
       </View>
 
       <ScrollView contentContainerStyle={styles.content}>
@@ -128,11 +135,33 @@ export default function StoryScreen() {
           </View>
         </Animated.View>
 
+        {premiumLocked ? (
+          <Animated.View entering={enter.up(80)}>
+            <Card tint={{ face: colors.xpSoft, edge: colors.xp }}>
+              <View style={styles.offerRow}>
+                <Icon icon={Crown} size={28} color={colors.xpShade} />
+                <View style={styles.flex}>
+                  <Text variant="heading">{t.premium.firstChapterFree}</Text>
+                  <Text color={colors.textSecondary}>{t.premium.unlockStory}</Text>
+                </View>
+              </View>
+              <Button
+                label={t.premium.upgrade}
+                variant="success"
+                onPress={openPaywall}
+                style={styles.offerButton}
+              />
+            </Card>
+          </Animated.View>
+        ) : null}
+
         <View ref={target('chapters')} collapsable={false}>
           <TableOfContents
             level={story.level}
             chapters={chapters}
             progress={progress}
+            premiumLocked={premiumLocked}
+            onPremium={openPaywall}
             onOpen={(chapter) =>
               router.push({
                 pathname: '/read/[chapterId]',
@@ -171,4 +200,7 @@ const styles = StyleSheet.create({
   },
   flex: { flex: 1 },
   shrink: { flexShrink: 1 },
+  badges: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm },
+  offerRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
+  offerButton: { marginTop: spacing.md },
 });

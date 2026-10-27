@@ -889,6 +889,13 @@ textarea.input {
   margin-top: 2px;
   accent-color: var(--danger);
 }
+.check-premium:has(input:checked) {
+  border-color: var(--xp);
+  background: var(--xp-soft);
+}
+.check-premium input {
+  accent-color: var(--xp-shade);
+}
 
 .toasts {
   position: fixed;

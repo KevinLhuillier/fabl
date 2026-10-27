@@ -10,9 +10,8 @@ import Animated, {
   withRepeat,
   withTiming,
 } from 'react-native-reanimated';
-import Svg, { Defs, LinearGradient, RadialGradient, Rect, Stop } from 'react-native-svg';
-
-import { Loader, Text, brandGradient, enter, fonts, palette } from '@/theme';
+import { BrandGradient } from '@/components/BrandGradient';
+import { Loader, Text, enter, fonts, palette } from '@/theme';
 
 const book = require('../../assets/images/splash-icon.png');
 
@@ -72,21 +71,7 @@ export function LaunchScreen({ done, fontsReady, onHidden }: Props) {
       onLayout={() => SplashScreen.hide()}
       pointerEvents={done ? 'none' : 'auto'}>
       <StatusBar style="light" />
-      <Svg style={StyleSheet.absoluteFill}>
-        <Defs>
-          <LinearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-            {brandGradient.map((c, i) => (
-              <Stop key={c} offset={i / (brandGradient.length - 1)} stopColor={c} />
-            ))}
-          </LinearGradient>
-          <RadialGradient id="glow" cx="0.3" cy="0.22" r="0.6">
-            <Stop offset="0" stopColor={palette.white} stopOpacity={0.2} />
-            <Stop offset="1" stopColor={palette.white} stopOpacity={0} />
-          </RadialGradient>
-        </Defs>
-        <Rect width="100%" height="100%" fill="url(#bg)" />
-        <Rect width="100%" height="100%" fill="url(#glow)" />
-      </Svg>
+      <BrandGradient />
 
       <View style={styles.center}>
         <Animated.View style={bookStyle}>
