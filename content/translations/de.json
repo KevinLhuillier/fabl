@@ -928,6 +928,12 @@
       "example": "The vicar, Reverend Ruth Amos, was standing on a chair near the altar."
     },
     {
+      "word": "amused",
+      "pos": "ADJ",
+      "translation": "amüsiert, belustigt",
+      "example": "He had a long, intelligent face and the kind of calm, amused expression that teachers have when a student is about to make an obvious mistake."
+    },
+    {
       "word": "amusement",
       "pos": "NOUN",
       "translation": "die Belustigung",
@@ -944,6 +950,12 @@
       "pos": "DET",
       "translation": "ein, eine (vor Vokal)",
       "example": "The old knight moved slowly these days, but his blade was still faster than most young men's."
+    },
+    {
+      "word": "analyst",
+      "pos": "NOUN",
+      "translation": "die Analytikerin, der Analytiker",
+      "example": "Each of them, it turned out, had a talent. Inès was the analyst."
     },
     {
       "word": "ancient",
@@ -1100,6 +1112,12 @@
       "pos": "ADV",
       "translation": "auseinander („further apart“: weiter auseinander)",
       "example": "The trees grew taller and further apart; the road widened and was paved, here and there, with great worn slabs of stone that Gethin said had been laid in the time of the Wood-wardens and never once repaired."
+    },
+    {
+      "word": "apartment",
+      "pos": "NOUN",
+      "translation": "die Wohnung",
+      "example": "A place at one of the best lycées in Paris, starting in January. An apartment."
     },
     {
       "word": "apiece",
@@ -1324,6 +1342,12 @@
       "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
     },
     {
+      "word": "arrogance",
+      "pos": "NOUN",
+      "translation": "die Arroganz, die Überheblichkeit",
+      "example": "He said it without any arrogance at all, the way someone might say that it was Tuesday."
+    },
+    {
       "word": "arrow",
       "pos": "NOUN",
       "translation": "der Pfeil",
@@ -1490,6 +1514,12 @@
       "pos": "VERB",
       "translation": "zusammenbauen, zusammensetzen",
       "example": "Every first-year at Thornhall, whatever their element, began the same way: with three mornings a week of a class called Foundations of the Well, taught in a long, bare room at the foot of the north stair by a woman who looked as though she had been assembled from coat hangers."
+    },
+    {
+      "word": "assembly",
+      "pos": "NOUN",
+      "translation": "die Schulversammlung; die Versammlung",
+      "example": "The headmistress had taken the video down and spent a whole assembly talking about respect online."
     },
     {
       "word": "assess",
@@ -2315,6 +2345,12 @@
       "pos": "ADJ",
       "translation": "schön, wunderschön",
       "example": "My beautiful ginger fur looked like an old, dirty carpet."
+    },
+    {
+      "word": "beautifully",
+      "pos": "ADV",
+      "translation": "wunderschön („beautifully cut“: hervorragend geschnitten)",
+      "example": "Short grey hair and a beautifully cut grey coat that had certainly not been bought in Aubrecourt."
     },
     {
       "word": "because",
@@ -3990,6 +4026,12 @@
       "example": "\"My master did not fall by accident, Your Majesty."
     },
     {
+      "word": "by candlelight",
+      "pos": "PHRASE",
+      "translation": "bei Kerzenlicht",
+      "example": "Taught to bus drivers and beet farmers by candlelight."
+    },
+    {
       "word": "by hand",
       "pos": "PHRASE",
       "translation": "von Hand",
@@ -4108,6 +4150,12 @@
       "pos": "NOUN",
       "translation": "der Kuchen („honey cake“: Honigkuchen)",
       "example": "On Rowan's first evening at Hearthside, when the older Earth students had been eyeing the new Blank from across the common room, it had been Bennet who had strolled over, dropped onto the root beside him, and offered him half a honey cake without a word."
+    },
+    {
+      "word": "calculate",
+      "pos": "VERB",
+      "translation": "berechnen, kalkulieren",
+      "example": "For a long second, he seemed to be calculating something."
     },
     {
       "word": "calendar",
@@ -4234,6 +4282,12 @@
       "pos": "NOUN",
       "translation": "die Kerze",
       "example": "The candles flickered, and the hours passed slowly."
+    },
+    {
+      "word": "candlelight",
+      "pos": "NOUN",
+      "translation": "das Kerzenlicht",
+      "example": "Taught to bus drivers and beet farmers by candlelight."
     },
     {
       "word": "candlestick",
@@ -7536,6 +7590,12 @@
       "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
     },
     {
+      "word": "delicately",
+      "pos": "ADV",
+      "translation": "behutsam, taktvoll",
+      "example": "\"And your mother...\" He paused, delicately."
+    },
+    {
       "word": "delight",
       "pos": "NOUN",
       "translation": "die Freude, das Entzücken („with delight“: vor Freude)",
@@ -7720,6 +7780,12 @@
       "pos": "NOUN",
       "translation": "das Detail („in loving detail“: in allen liebevollen Einzelheiten)",
       "example": "He thought about it at supper, while Jory described in loving detail the dead eel he was planning to hide in Seraphine Hale's boots."
+    },
+    {
+      "word": "detective",
+      "pos": "NOUN",
+      "translation": "der Detektiv, der Ermittler",
+      "example": "Within a week she could tell which of them had lit a lamp just by examining it, like a detective dusting for fingerprints."
     },
     {
       "word": "determine",
@@ -8520,6 +8586,12 @@
       "example": "My heart was beating like a drum."
     },
     {
+      "word": "drum",
+      "pos": "VERB",
+      "translation": "trommeln, prasseln",
+      "example": "The rain drummed on the slate roof and the camping stove hissed under Solange's kettle."
+    },
+    {
       "word": "Drumochter",
       "pos": "PROPN",
       "translation": "Drumochter (höchster Pass der A9 in den Highlands)",
@@ -8584,6 +8656,12 @@
       "pos": "VERB",
       "translation": "sich ducken, ausweichen",
       "example": "Max slipped, ducked, stepped back, stepped in."
+    },
+    {
+      "word": "due",
+      "pos": "ADJ",
+      "translation": "fällig („due on Friday“: bis Freitag abzugeben)",
+      "example": "He told himself it was for his history presentation, which was due on Friday."
     },
     {
       "word": "Duke",
@@ -10378,6 +10456,12 @@
       "example": "A pale green shoot, no longer than his fingernail, had pushed its way up through the clay."
     },
     {
+      "word": "fingerprint",
+      "pos": "NOUN",
+      "translation": "der Fingerabdruck („dust for fingerprints“: Fingerabdrücke abnehmen)",
+      "example": "Like a detective dusting for fingerprints."
+    },
+    {
       "word": "fingertip",
       "pos": "NOUN",
       "translation": "die Fingerspitze",
@@ -11308,6 +11392,12 @@
       "example": "By order of the Wardens of Thornhall Academy, the Marking of all children of Brackenford and the surrounding villages who have attained their fourteenth year shall take place at the Standing Stone of Brackenford on the first morning of Leaf-Fall."
     },
     {
+      "word": "fourteenth",
+      "pos": "NOUN",
+      "translation": "der Vierzehnte („the fourteenth of March“: der 14. März)",
+      "example": "\"And on the fourteenth of March 1987, I borrowed a book from this building that didn't have a barcode.\""
+    },
+    {
       "word": "fourth",
       "pos": "ADJ",
       "translation": "vierter",
@@ -11960,6 +12050,12 @@
       "pos": "ADV",
       "translation": "wirklich, ernsthaft",
       "example": "For a moment Rowan genuinely thought his uncle would shut the door in her face."
+    },
+    {
+      "word": "Gérald",
+      "pos": "PROPN",
+      "translation": "Gérald (Vorname)",
+      "example": "\"My name is Gérald Mortier.\""
     },
     {
       "word": "geranium",
@@ -15071,6 +15167,12 @@
       "example": "In the morning, when the storm had blown itself out and the sun came up over the frozen lake, the students of Thornhall came down the hill in their hundreds to look."
     },
     {
+      "word": "in those days",
+      "pos": "PHRASE",
+      "translation": "damals, in jenen Tagen",
+      "example": "\"I took that page out of the register in 1987. I was very thorough in those days.\""
+    },
+    {
       "word": "in time",
       "pos": "PHRASE",
       "translation": "rechtzeitig",
@@ -15910,6 +16012,12 @@
       "example": "Here lived the Taylor family: a father who drove a bus to Kendal, a mother who worked at the bank, and twin girls of eight called Sophie and Sienna."
     },
     {
+      "word": "kettle",
+      "pos": "NOUN",
+      "translation": "der Wasserkessel",
+      "example": "The rain drummed on the slate roof and the camping stove hissed under Solange's kettle."
+    },
+    {
       "word": "key",
       "pos": "NOUN",
       "translation": "der Schlüssel",
@@ -16092,7 +16200,7 @@
     {
       "word": "knock out",
       "pos": "PHRASE",
-      "translation": "ausklopfen (die Pfeife)",
+      "translation": "k.o. schlagen, umhauen; ausklopfen (die Pfeife)",
       "example": "It was very late when Moss finally knocked out his pipe and announced, to nobody in particular, that he was going to see to the roots."
     },
     {
@@ -16166,6 +16274,12 @@
       "pos": "VERB",
       "translation": "beschriften, etikettieren",
       "example": "Shelves ran from floor to roof on every side, crammed with ledgers — hundreds of them, thousands, bound in faded green and brown and black, their spines labelled in Maren's small, precise hand with years and villages and words Rowan did not understand."
+    },
+    {
+      "word": "laboratory",
+      "pos": "NOUN",
+      "translation": "das Labor",
+      "example": "We have laboratories, libraries, archives going back eight hundred years."
     },
     {
       "word": "Laborde",
@@ -17343,6 +17457,12 @@
       "example": "His leg is getting better, slowly, but he's lost interest in things."
     },
     {
+      "word": "lose patience",
+      "pos": "PHRASE",
+      "translation": "die Geduld verlieren",
+      "example": "After that, I'm afraid the people I work for will lose patience, and they are much less pleasant than I am."
+    },
+    {
       "word": "loser",
       "pos": "NOUN",
       "translation": "der Verlierer",
@@ -17503,6 +17623,12 @@
       "pos": "VERB",
       "translation": "verleiten, locken",
       "example": "It threads its way north from Perth through a succession of glens, now dual carriageway, now single, so that impatient motorists are forever being lured into overtaking on stretches that narrow without warning."
+    },
+    {
+      "word": "lycée",
+      "pos": "NOUN",
+      "translation": "das Lycée (französisch: Gymnasium, Oberstufe)",
+      "example": "A place at one of the best lycées in Paris, starting in January."
     },
     {
       "word": "Lycée",
@@ -18638,6 +18764,12 @@
       "example": "On Friday, at 10.05, the bell rang for the morning break."
     },
     {
+      "word": "Mortier",
+      "pos": "PROPN",
+      "translation": "Mortier (Nachname)",
+      "example": "\"My name is Gérald Mortier.\""
+    },
+    {
       "word": "mortify",
       "pos": "VERB",
       "translation": "beschämen („mortified“: zutiefst beschämt)",
@@ -19098,6 +19230,12 @@
       "pos": "NOUN",
       "translation": "der Hals",
       "example": "Bram had drawn the cart up beside the cooper's yard to unload, and a pedlar Rowan didn't recognise — a stooped, sharp-eyed woman with a tray of tin pots and needles slung from her neck — had sidled up to him and was talking in a low, urgent voice."
+    },
+    {
+      "word": "need",
+      "pos": "NOUN",
+      "translation": "das Bedürfnis, die Notwendigkeit („there's no need“: das ist nicht nötig)",
+      "example": "\"Please don't do anything dramatic,\" the man said. \"There's no need.\""
     },
     {
       "word": "need",
@@ -19682,6 +19820,12 @@
       "example": "As if to prove the point, the number 49 was pulling away from the stop just as he turned the corner."
     },
     {
+      "word": "number plate",
+      "pos": "PHRASE",
+      "translation": "das Nummernschild, das Kennzeichen",
+      "example": "Didier the bus driver kept a list of every car with a Paris number plate that came through Aubrecourt."
+    },
+    {
       "word": "numbered",
       "pos": "ADJ",
       "translation": "nummeriert",
@@ -19872,6 +20016,12 @@
       "pos": "VERB",
       "translation": "kränken („offended“: gekränkt)",
       "example": "He had named her after his late wife's favourite expression for anything that refused to be hurried — \"she'll go when she's ready, the duchess\" — and Pauline had pretended to be offended for the better part of a decade."
+    },
+    {
+      "word": "offer",
+      "pos": "NOUN",
+      "translation": "das Angebot",
+      "example": "\"I'm not here to threaten you,\" he said. \"I want to make you an offer.\""
     },
     {
       "word": "offer",
@@ -20335,6 +20485,12 @@
       "example": "People say the bandits are not ordinary thieves."
     },
     {
+      "word": "organisation",
+      "pos": "NOUN",
+      "translation": "die Organisation",
+      "example": "I work for an organisation in Paris."
+    },
+    {
       "word": "organise",
       "pos": "VERB",
       "translation": "organisieren",
@@ -20345,6 +20501,12 @@
       "pos": "ADJ",
       "translation": "ursprünglich („the original“: das Original)",
       "example": "\"Whoever wrote the original pressed hard,\" she murmured."
+    },
+    {
+      "word": "originally",
+      "pos": "ADV",
+      "translation": "ursprünglich",
+      "example": "\"My name is Gérald Mortier. I'm from here, originally.\""
     },
     {
       "word": "Ostrowska",
@@ -23274,6 +23436,12 @@
       "example": "Every answer, in every village, was recorded at Thornhall, and had been for three hundred years."
     },
     {
+      "word": "recording",
+      "pos": "NOUN",
+      "translation": "die Aufnahme, die Aufzeichnung",
+      "example": "His son had been \"the victim of a cruel recording made without his knowledge\"."
+    },
+    {
       "word": "Records",
       "pos": "PROPN",
       "translation": "(„Keeper of Records“: Hüterin der Archive)",
@@ -23362,6 +23530,12 @@
       "pos": "ADJ",
       "translation": "regional",
       "example": "It was wedged between a guide to regional birds and a dictionary of the Picard dialect, and it looked older than both of them put together."
+    },
+    {
+      "word": "register",
+      "pos": "NOUN",
+      "translation": "das Register, das Verzeichnis",
+      "example": "He was on the top floor, at the end of the empty corridor, going through a box of old registers, when he felt it."
     },
     {
       "word": "register",
@@ -24666,6 +24840,12 @@
       "example": "Near Berwick he caught a glimpse of the sea, gunmetal grey and flecked with white, and then the road crossed the border, where a roadside sign and a fluttering saltire announced, with characteristic understatement, that he had entered another country."
     },
     {
+      "word": "salute",
+      "pos": "NOUN",
+      "translation": "der Gruß, der Salut",
+      "example": "At the other end of the canteen, Lucas raised his cast in a kind of salute."
+    },
+    {
       "word": "salve",
       "pos": "NOUN",
       "translation": "die Salbe",
@@ -24778,6 +24958,12 @@
       "pos": "PHRASE",
       "translation": "Hallo sagen, grüßen",
       "example": "P.S. My dog says hello."
+    },
+    {
+      "word": "saying",
+      "pos": "NOUN",
+      "translation": "die Redensart, das Sprichwort",
+      "example": "You know the saying in this town, Noé."
     },
     {
       "word": "scale",
@@ -27205,6 +27391,12 @@
     },
     {
       "word": "sort",
+      "pos": "NOUN",
+      "translation": "die Art, die Sorte („a sort of“: eine Art)",
+      "example": "Clémence taught her to read the traces a spell left behind, a sort of faint glow that only people who knew how to look could see."
+    },
+    {
+      "word": "sort",
       "pos": "VERB",
       "translation": "sortieren",
       "example": "Bram stripped the fallen oak with short, economical strokes while Rowan dragged the branches to the pile and sorted them by thickness: kindling, fencing, firewood, nothing wasted."
@@ -27598,6 +27790,18 @@
       "pos": "VERB",
       "translation": "zischen, knistern, stottern",
       "example": "A candle wick sputtered into a tiny flame, and its owner yelped and knocked it over."
+    },
+    {
+      "word": "spy",
+      "pos": "NOUN",
+      "translation": "der Spion",
+      "example": "I suspect she made it sound like something out of a spy film."
+    },
+    {
+      "word": "spy film",
+      "pos": "PHRASE",
+      "translation": "der Spionagefilm, der Agentenfilm",
+      "example": "I suspect she made it sound like something out of a spy film."
     },
     {
       "word": "square",
@@ -28806,6 +29010,12 @@
       "example": "\"And, I suspect, for you.\""
     },
     {
+      "word": "suspend",
+      "pos": "VERB",
+      "translation": "suspendieren; (vorübergehend) vom Unterricht ausschließen",
+      "example": "Maxence had been suspended for a week."
+    },
+    {
       "word": "suspicion",
       "pos": "NOUN",
       "translation": "der Argwohn, das Misstrauen",
@@ -29077,7 +29287,7 @@
     {
       "word": "take down",
       "pos": "PHRASE",
-      "translation": "fällen (einen Baum)",
+      "translation": "entfernen, abnehmen (ein Video, ein Plakat); fällen (einen Baum)",
       "example": "He told it the way he did everything: slowly, and plainly, and in the right order, the way you take down a tree."
     },
     {
@@ -29117,10 +29327,22 @@
       "example": "By order of the Wardens of Thornhall Academy, the Marking of all children of Brackenford and the surrounding villages who have attained their fourteenth year shall take place at the Standing Stone of Brackenford on the first morning of Leaf-Fall."
     },
     {
+      "word": "take turns",
+      "pos": "PHRASE",
+      "translation": "sich abwechseln",
+      "example": "The Watchers took turns walking past the médiathèque in the evenings."
+    },
+    {
       "word": "take up",
       "pos": "PHRASE",
       "translation": "einnehmen",
       "example": "He was round-faced and freckled, with a shock of copper hair and a grin that seemed to take up most of his face."
+    },
+    {
+      "word": "talent",
+      "pos": "NOUN",
+      "translation": "das Talent, die Begabung",
+      "example": "Each of them, it turned out, had a talent."
     },
     {
       "word": "talk",
@@ -29843,6 +30065,12 @@
       "example": "It was called the Trial of Thorns."
     },
     {
+      "word": "thorough",
+      "pos": "ADJ",
+      "translation": "gründlich",
+      "example": "\"I was very thorough in those days. I'm afraid I still am.\""
+    },
+    {
       "word": "thoroughly",
       "pos": "ADV",
       "translation": "zutiefst, gründlich",
@@ -29901,6 +30129,12 @@
       "pos": "VERB",
       "translation": "sich hindurchwinden („thread its way“: sich schlängeln)",
       "example": "It threads its way north from Perth through a succession of glens, now dual carriageway, now single, so that impatient motorists are forever being lured into overtaking on stretches that narrow without warning."
+    },
+    {
+      "word": "threaten",
+      "pos": "VERB",
+      "translation": "drohen, bedrohen",
+      "example": "\"I'm not here to threaten you,\" he said."
     },
     {
       "word": "three",
@@ -31644,6 +31878,12 @@
     },
     {
       "word": "upright",
+      "pos": "ADJ",
+      "translation": "aufrecht",
+      "example": "The man standing between the shelves was about sixty, slim and upright, with short grey hair."
+    },
+    {
+      "word": "upright",
       "pos": "ADV",
       "translation": "aufrecht, kerzengerade",
       "example": "This time, there was nobody else in the round room at the top of the tower but the Warden herself, and Maren Vell, sitting very upright at the writing desk by the window with her ink-stained hands folded in her lap."
@@ -31910,6 +32150,12 @@
       "pos": "PROPN",
       "translation": "Vicar („Vicar Lane“: Straße im Zentrum von Leeds)",
       "example": "Outside the market, in the noise and the traffic of Vicar Lane, Priya stopped and turned to face him."
+    },
+    {
+      "word": "victim",
+      "pos": "NOUN",
+      "translation": "das Opfer",
+      "example": "His son had been \"the victim of a cruel recording made without his knowledge\"."
     },
     {
       "word": "victory",

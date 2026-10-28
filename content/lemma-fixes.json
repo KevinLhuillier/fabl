@@ -941,6 +941,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "first",
+      "pos": "PROPN",
+      "word": "first",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "fist",
       "pos": "ADJ",
       "word": "fist",
@@ -1799,6 +1805,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "lycées",
+      "pos": "NOUN",
+      "word": "lycée",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "M180",
       "pos": "NOUN",
       "word": "M180",
@@ -1955,6 +1967,12 @@
       "text": "Mistresses",
       "pos": "NOUN",
       "word": "Mistress",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Mortier",
+      "pos": "ADV",
+      "word": "Mortier",
       "lemmaPos": "PROPN"
     },
     {
@@ -3014,6 +3032,12 @@
       "pos": "NOUN",
       "word": "snowbound",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Solange",
+      "pos": "ADJ",
+      "word": "Solange",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "soles",

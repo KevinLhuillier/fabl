@@ -576,3 +576,92 @@ Solange poured the tea before answering.
 "Do they know I have it?"
 Solange didn't answer immediately. She was looking out of the tall arched window, towards the road and the fields and the distant lights of Aubrecourt. Her hand had stopped halfway to her mouth with the cup.
 "Somebody has just switched a radio on," she said quietly. "In town. Somebody I don't know." She put the cup down very carefully on the counter. "And they're not trying to hide it at all."
+
+# The Man in the Grey Coat
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_7.page_1-1793192491654.mp3
+For three weeks, nothing happened, and it was the best three weeks of Noé's life.
+Whoever had switched on the radio in town seemed to have switched it off again. Solange felt it twice more, briefly, at night, and then not at all. The Watchers took turns walking past the médiathèque in the evenings, and Didier the bus driver kept a list of every car with a Paris number plate that came through Aubrecourt, which turned out to be a very short list. "Nobody from Paris comes here on purpose," he said cheerfully. "They only get lost."
+So they trained. Three evenings a week and every Saturday, the four of them took the last bus to Pit Number Nine and spent hours in the lamp room, while the rain drummed on the slate roof and the camping stove hissed under Solange's kettle.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_7.page_2-1793192502035.mp3
+They learned that the craft had far more rules than the grimoire explained, because the grimoire had been written by someone who assumed you would have a teacher. They learned to share the cost of a spell between three or four people, holding hands in a circle, so that something that would knock one of them out left all of them merely tired. They learned to feel the "radio" themselves: first Arthur, who could feel it in his feet, then Inès, then the others. They learned which spells needed silence and which needed noise, which worked better in the morning, and which should never be tried near water.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_7.page_3-1793192518535.mp3
+Each of them, it turned out, had a talent. Inès was the analyst. Clémence taught her to read the traces a spell left behind, a sort of faint glow that only people who knew how to look could see, and within a week she could tell which of them had lit a lamp just by examining it, like a detective dusting for fingerprints. Adam drew. He filled a new sketchbook with gestures copied from the grimoire, and Father Augustin showed him how to draw them on doors and windows so that they would wait there, sometimes for years, until someone needed them. And Arthur sang. Every time he did, the long room seemed to become a little warmer, and he stood a little straighter.
+Noé didn't know what his own talent was. When he asked Solange, she said, "You're the one who reads," as if that were obvious, and wouldn't explain.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_7.page_4-1793192528523.mp3
+At school, things were changing too, in small ways.
+Maxence had been suspended for a week. The headmistress had taken the video down and spent a whole assembly talking about respect online, while the deputy mayor sent a letter to the local paper explaining that his son had been "the victim of a cruel recording made without his knowledge". Nobody believed it. When Maxence came back, he still had Romain, but Lucas now sat at the other end of the canteen, his cast covered in signatures, and people no longer laughed quite so quickly at Maxence's jokes.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_7.page_5-1793192541681.mp3
+He tried once more, on a Thursday. He came to their table by the broken radiator, as he always had, and picked up Adam's new sketchbook. But before he could open it, Arthur stood up.
+He didn't use the craft. Noé was watching for it, and so was Inès; there wasn't the faintest glow. Arthur just stood up, all two metres of him, and said, in the low, slow voice he had found in the lamp room, "Put it down, Maxence."
+The canteen went silent. Maxence looked up at him. For a long second, he seemed to be calculating something. Then he put the sketchbook down on the table, quite gently, and walked away without a word, and Romain hurried after him.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_7.page_6-1793192557939.mp3
+Arthur sat down again. His hands were shaking a little, but he was smiling. At the other end of the canteen, Lucas raised his cast in a kind of salute.
+"With your own face and your own voice," Noé said quietly.
+"Like everybody else," said Arthur.
+It was the following Tuesday that Noé went back to the médiathèque.
+He told himself it was for his history presentation, which was due on Friday and which he had completely forgotten about. That was true. But it was also true that he had been thinking about the library card for weeks: the single date, 14 March 1987, and the name scratched out until the pen tore through the paper. Solange had refused to talk about it. "Later," she said, every time, in a voice that closed the subject like a door. So Noé had decided to look in the médiathèque's own archives. If the book had been lent in 1987, someone, somewhere, might have written it down.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_7.page_7-1793192568628.mp3
+He was on the top floor, at the end of the empty corridor, going through a box of old registers, when he felt it.
+The radio. Not in the next flat, this time. In the same room. Loud and clear and perfectly controlled, like music played by someone who had been practising for forty years.
+"You won't find it in there," said a voice behind him. "I took that page out of the register in 1987. I was very thorough in those days. I'm afraid I still am."
+Noé turned round slowly.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_7.page_8-1793192578149.mp3
+The man standing between the shelves was about sixty, slim and upright, with short grey hair and a beautifully cut grey coat that had certainly not been bought in Aubrecourt. He had a long, intelligent face and the kind of calm, amused expression that teachers have when a student is about to make an obvious mistake. In one gloved hand he was holding a paper cup of coffee from the station café. Outside the tall window behind him, it was raining hard, but Noé noticed, with a strange cold feeling, that not a single drop was falling on the glass.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_7.page_9-1793192594742.mp3
+"Please don't do anything dramatic," the man said. "There's no need. And you'd lose." He said it without any arrogance at all, the way someone might say that it was Tuesday. "My name is Gérald Mortier. I'm from here, originally. I grew up in the Cité des Acacias, three streets from your flat. I went to Lycée Émile-Zola. And on the fourteenth of March 1987, I borrowed a book from this building that didn't have a barcode."
+Noé's mouth was dry. "The name on the card."
+"The name on the card." Mortier smiled slightly. "I didn't scratch it out, if you're wondering. Somebody else did that, after I left. I imagine she was rather angry with me." He took a sip of coffee. "How is Solange? Does she still wear that terrible red hat?"
+Noé didn't answer. Mortier didn't seem to mind.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_7.page_10-1793192606672.mp3
+"I'm not here to threaten you," he said. "I want to make you an offer. I work for an organisation in Paris. I suspect Solange has told you about it, and I suspect she made it sound like something out of a spy film. It isn't. We're simply people who believe that the craft is too important to be kept in a lamp room at the end of a bus line, taught to bus drivers and beet farmers by candlelight." He said "beet farmers" quite kindly, which was somehow worse. "We study it properly. We have laboratories, libraries, archives going back eight hundred years. We have teachers who would weep to see what you've done in five weeks with a book and a pencil."
+"What do you want?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_7.page_11-1793192618710.mp3
+"For you? Everything you've ever wanted." Mortier put the coffee cup down on a shelf, between a guide to regional birds and a dictionary of the Picard dialect. "A place at one of the best lycées in Paris, starting in January. An apartment. A real future, the kind that people from the Cité des Acacias aren't supposed to have. And your mother..." He paused, delicately. "Your mother works nights at the hospital, I believe. Four nights a week. She wouldn't need to anymore. We look after our people's families."
+Noé felt something tighten in his throat. He thought of his mother in her dressing gown at breakfast, with dark circles under her eyes, asking him whether he was having a growth spurt.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_7.page_12-1793192630688.mp3
+"And the book," he said.
+"And the book," Mortier agreed. "You'd bring it with you. It would be safe with us, studied, protected. It wouldn't sit on the wrong shelf in a dying town waiting for the next lonely teenager to find it by accident." He looked at Noé, and for the first time his face was serious. "You know the saying in this town, Noé. There are two kinds of people in Aubrecourt: those who are planning to leave, and those who have given up on the idea. I've known which kind you are since the first evening you switched the light on. Because I was the same."
+It was so exactly what Noé had always thought, in almost exactly the words he had always used, that for a moment he couldn't speak at all.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_7.page_13-1793192646077.mp3
+Mortier took a small white card from his coat pocket and laid it on top of the box of registers. It had nothing on it but a phone number, printed in silver.
+"Think about it," he said. "Take a week. Talk to your friends, talk to Solange, she'll tell you I'm a monster, which is only partly true. But think about what you want, not what they want for you." He picked up his coffee. "And when you've decided, call me. Before next Tuesday, please. After that, I'm afraid the people I work for will lose patience, and they are much less pleasant than I am."
+He walked away down the corridor. At the top of the iron staircase, he stopped and looked back.
+"Oh, and Noé? Tell Solange I'm sorry about the card. She'll know what I mean."
+His footsteps rang on the iron stairs, one after another, until they were gone. A moment later, the rain began to hit the tall window again, hard and loud, as if it had been waiting.
