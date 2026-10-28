@@ -3,7 +3,6 @@ title: Mira and the Dragon Egg
 level: A2
 summary: Mira lives with her grandmother next to the Whisper Forest. One autumn morning, she finds a warm blue egg between the roots of an old tree, and she takes it home. But in her village, everybody is afraid of dragons…
 cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/a2-mira-and-the-dragon-egg/1793035849970.png
-premium: true
 ---
 
 # The Blue Egg

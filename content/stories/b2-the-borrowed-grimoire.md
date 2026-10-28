@@ -3,6 +3,7 @@ title: The Borrowed Grimoire
 level: B2
 summary: In Aubrecourt, an old mining town in the north of France, seventeen-year-old Noé and his friends are the school's favourite targets. Then, on a forgotten shelf of the médiathèque, Noé finds a leather book that belongs to no one — and that seems to be waiting for him.
 cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b2-the-borrowed-grimoire/1792857829704.png
+premium: true
 ---
 
 # The Wrong Shelf
