@@ -61,6 +61,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "aloud",
+      "pos": "ADJ",
+      "word": "aloud",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "amber",
       "pos": "PROPN",
       "word": "amber",
@@ -454,6 +460,13 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "clear",
+      "pos": "ADV",
+      "next": "settled",
+      "word": "clear",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "climbs",
       "pos": "NOUN",
       "word": "climb",
@@ -634,6 +647,12 @@
     {
       "text": "Damp",
       "pos": "PROPN",
+      "word": "damp",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "damp",
+      "pos": "VERB",
       "word": "damp",
       "lemmaPos": "ADJ"
     },
@@ -1038,6 +1057,12 @@
     {
       "text": "Gesture",
       "pos": "PROPN",
+      "word": "gesture",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "gesture",
+      "pos": "ADJ",
       "word": "gesture",
       "lemmaPos": "NOUN"
     },
@@ -1707,6 +1732,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Louder",
+      "pos": "PROPN",
+      "word": "loud",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "low",
       "pos": "NOUN",
       "next": "where",
@@ -1834,6 +1865,12 @@
       "pos": "CCONJ",
       "word": "minus",
       "lemmaPos": "ADP"
+    },
+    {
+      "text": "mismatched",
+      "pos": "VERB",
+      "word": "mismatched",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "MISSES",
@@ -2091,6 +2128,20 @@
       "pos": "NOUN",
       "word": "year-old",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "opening",
+      "pos": "NOUN",
+      "next": "backwards",
+      "word": "open",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "opening",
+      "pos": "NOUN",
+      "next": "and",
+      "word": "open",
+      "lemmaPos": "VERB"
     },
     {
       "text": "orange",
@@ -2434,6 +2485,18 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "remember",
+      "pos": "NOUN",
+      "word": "remember",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "remembers",
+      "pos": "NOUN",
+      "word": "remember",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "REPAIRS",
       "pos": "PROPN",
       "word": "repair",
@@ -2670,6 +2733,12 @@
       "pos": "ADV",
       "word": "clean-shaven",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Shh",
+      "pos": "PROPN",
+      "word": "shh",
+      "lemmaPos": "INTJ"
     },
     {
       "text": "shifts",
@@ -3059,6 +3128,12 @@
       "pos": "PROPN",
       "word": "swing",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "syllable",
+      "pos": "ADJ",
+      "word": "syllable",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "T",
