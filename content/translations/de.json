@@ -1192,6 +1192,12 @@
       "example": "The first snowplough appeared at a quarter to seven, a great yellow apparition crawling south out of the half-light with its blade raised and its beacons strobing across the drifts."
     },
     {
+      "word": "appeal",
+      "pos": "NOUN",
+      "translation": "der Einspruch, die Berufung; der Reiz",
+      "example": "She sat on her bed with her laptop and read about assessments, deadlines, extensions and appeals."
+    },
+    {
       "word": "appear",
       "pos": "VERB",
       "translation": "erscheinen, auftauchen",
@@ -1835,6 +1841,12 @@
       "pos": "PROPN",
       "translation": "Aubrecourt (Stadt)",
       "example": "Aubrecourt was the kind of town people drove through on their way to somewhere else."
+    },
+    {
+      "word": "audience",
+      "pos": "NOUN",
+      "translation": "das Publikum, die Zuhörer",
+      "example": "Ask Ines to be your audience. Every evening, ten minutes."
     },
     {
       "word": "August",
@@ -3598,6 +3610,12 @@
       "pos": "ADJ",
       "translation": "mutig, tapfer",
       "example": "Mia is brave. — Mia ist mutig."
+    },
+    {
+      "word": "bravery",
+      "pos": "NOUN",
+      "translation": "der Mut, die Tapferkeit",
+      "example": "No. That's not bravery. That's fear wearing a nice coat."
     },
     {
       "word": "bread",
@@ -5422,6 +5440,12 @@
       "pos": "PROPN",
       "translation": "Cinder („Asche“; „the Cinder Marches“: die Aschenmarken, Region)",
       "example": "Twins from the Cinder Marches, both Fire: root, drop, root, drop."
+    },
+    {
+      "word": "cinnamon",
+      "pos": "NOUN",
+      "translation": "der Zimt",
+      "example": "Inside, it was warm and loud and smelled of cinnamon."
     },
     {
       "word": "circle",
@@ -7489,6 +7513,12 @@
     },
     {
       "word": "cycle",
+      "pos": "NOUN",
+      "translation": "der Kreislauf, der Zyklus; das Fahrrad",
+      "example": "I have presented the water cycle with a bottle that exploded."
+    },
+    {
+      "word": "cycle",
       "pos": "VERB",
       "translation": "Rad fahren („cycled away“: fuhr mit dem Rad davon)",
       "example": "But she made him promise three things before she cycled away."
@@ -7696,6 +7726,12 @@
       "pos": "PHRASE",
       "translation": "tiefster Winter",
       "example": "And along the bare black branches, in the dead of winter, buds were swelling."
+    },
+    {
+      "word": "deadline",
+      "pos": "NOUN",
+      "translation": "die Frist, der Abgabetermin",
+      "example": "She sat on her bed with her laptop and read about assessments, deadlines, extensions and appeals."
     },
     {
       "word": "deal",
@@ -7942,6 +7978,12 @@
       "pos": "NOUN",
       "translation": "das Depot, das Lager",
       "example": "She drove for a supermarket chain now, chilled goods out of a depot near Wakefield, and was on her way to a distribution centre outside Inverness."
+    },
+    {
+      "word": "depressing",
+      "pos": "ADJ",
+      "translation": "deprimierend",
+      "example": "Femi said he would do something by Thomas Hardy, \"because he's depressing, and so am I\"."
     },
     {
       "word": "deputy",
@@ -9922,6 +9964,12 @@
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
     },
     {
+      "word": "exam",
+      "pos": "NOUN",
+      "translation": "die Prüfung",
+      "example": "\"It's not an exam. It's a conversation. You'll be fine.\""
+    },
+    {
       "word": "examine",
       "pos": "VERB",
       "translation": "untersuchen, prüfen",
@@ -9974,6 +10022,18 @@
       "pos": "ADJ",
       "translation": "spannend, aufregend",
       "example": "My other secret is more exciting."
+    },
+    {
+      "word": "exclamation",
+      "pos": "NOUN",
+      "translation": "der Ausruf („exclamation mark“: Ausrufezeichen)",
+      "example": "That night, the notebook was full of exclamation marks, hers and R.'s."
+    },
+    {
+      "word": "exclamation mark",
+      "pos": "PHRASE",
+      "translation": "das Ausrufezeichen",
+      "example": "That night, the notebook was full of exclamation marks, hers and R.'s."
     },
     {
       "word": "excuse",
@@ -10076,6 +10136,12 @@
       "pos": "VERB",
       "translation": "explodieren, hochspritzen",
       "example": "Rowan was halfway to his feet when the snow in front of him exploded upward and a cloaked figure came over the bank in a single bound, and he went down hard on the ice with all the breath knocked out of him."
+    },
+    {
+      "word": "exposé",
+      "pos": "NOUN",
+      "translation": "das Exposé (französisch: Referat)",
+      "example": "In France, we do presentations from the age of ten. An exposé."
     },
     {
       "word": "expression",
@@ -10534,6 +10600,12 @@
       "example": "That meant Fellside, the small cottage hospital above the village, where old people went after an operation or a fall."
     },
     {
+      "word": "Femi",
+      "pos": "PROPN",
+      "translation": "Femi (Vorname nigerianischer Herkunft)",
+      "example": "Femi, a quiet boy from Manchester who drew tiny cartoons in the margins of everything."
+    },
+    {
       "word": "fence",
       "pos": "NOUN",
       "translation": "der Zaun",
@@ -10840,6 +10912,12 @@
       "example": "She caught the opposite edge with one hand, swung, pulled herself up and sprinted towards the finish line as the factory collapsed behind her."
     },
     {
+      "word": "finished",
+      "pos": "ADJ",
+      "translation": "fertig",
+      "example": "\"Nothing's ever finished. It's just due.\" You don't need a perfect presentation. You need a finished one."
+    },
+    {
       "word": "fire",
       "pos": "NOUN",
       "translation": "das Feuer, der Brand",
@@ -10982,6 +11060,12 @@
       "pos": "NOUN",
       "translation": "der Fischfang („fishing port“: Fischerhafen)",
       "example": "You come from the forest villages of the south and the mining towns of the northern mountains, from the fishing ports of the western coast and the windswept heights of the east."
+    },
+    {
+      "word": "fishing rod",
+      "pos": "PHRASE",
+      "translation": "die Angelrute",
+      "example": "The shop that sold everything from bread to fishing rods."
     },
     {
       "word": "fishmonger",
@@ -13970,6 +14054,12 @@
       "example": "My cousin says he hardly ever bothers coming this far south."
     },
     {
+      "word": "Hardy",
+      "pos": "PROPN",
+      "translation": "Hardy („Thomas Hardy“: englischer Romancier und Dichter, 1840–1928)",
+      "example": "Femi said he would do something by Thomas Hardy."
+    },
+    {
       "word": "Harehills",
       "pos": "PROPN",
       "translation": "Harehills (Stadtteil von Leeds)",
@@ -14004,6 +14094,12 @@
       "pos": "ADJ",
       "translation": "gehetzt",
       "example": "His name was Master Tobin Grey, and he was a thin, harried man with spectacles pushed up onto his forehead, where he had evidently forgotten them."
+    },
+    {
+      "word": "Harriet",
+      "pos": "PROPN",
+      "translation": "Harriet (Vorname)",
+      "example": "The other two were Harriet, the girl from London who liked the word \"liminal\", and Femi."
     },
     {
       "word": "Harrogate",
@@ -14208,6 +14304,12 @@
       "pos": "NOUN",
       "translation": "die Heilerin, der Heiler",
       "example": "The infirmary healer — a stout, brisk, kindly woman called Mother Rook, who smelled of camphor and treated every student as though they were a slightly disappointing nephew — told him so, at length, while she peered into his eyes and felt the pulse at his wrist and pronounced him, with deep suspicion, to be recovering."
+    },
+    {
+      "word": "health",
+      "pos": "NOUN",
+      "translation": "die Gesundheit",
+      "example": "A list of reasons that people gave: health, money, family."
     },
     {
       "word": "healthy",
@@ -15839,6 +15941,12 @@
       "example": "The forest remained, vast and ancient and indifferent."
     },
     {
+      "word": "individual",
+      "pos": "ADJ",
+      "translation": "einzeln, Einzel-",
+      "example": "In week seven, each of you will give an individual presentation."
+    },
+    {
       "word": "indoor",
       "pos": "ADJ",
       "translation": "Innen-, Haus- („indoor cat“: Wohnungskatze)",
@@ -16306,6 +16414,12 @@
       "example": "Bram's jaw worked on a crust of bread for a long moment."
     },
     {
+      "word": "jazz",
+      "pos": "NOUN",
+      "translation": "der Jazz",
+      "example": "Pretending to read a poster about a jazz concert."
+    },
+    {
       "word": "Jean",
       "pos": "PROPN",
       "translation": "Jean (englischer Frauenname)",
@@ -16540,6 +16654,12 @@
       "example": "Just before the impact, Godfrey's saddle suddenly slipped to one side."
     },
     {
+      "word": "just in case",
+      "pos": "PHRASE",
+      "translation": "für alle Fälle, sicherheitshalber",
+      "example": "\"I asked Ines. She said yes. The form is in the drawer, just in case.\""
+    },
+    {
       "word": "kangaroo",
       "pos": "NOUN",
       "translation": "das Känguru",
@@ -16736,6 +16856,12 @@
       "pos": "ADV",
       "translation": "freundlich, gutmütig",
       "example": "He bowed so low afterwards that he almost fell over, and the crowd laughed, but kindly."
+    },
+    {
+      "word": "kindness",
+      "pos": "NOUN",
+      "translation": "die Freundlichkeit, die Güte",
+      "example": "Callum looking away out of kindness, which would be the worst of all."
     },
     {
       "word": "king",
@@ -17072,6 +17198,12 @@
       "pos": "NOUN",
       "translation": "die Laterne",
       "example": "No lanterns."
+    },
+    {
+      "word": "Lantern",
+      "pos": "PROPN",
+      "translation": "Lantern (Name des Cafés; „lantern“: Laterne)",
+      "example": "The café on Elvet Bridge was called The Lantern."
     },
     {
       "word": "lap",
@@ -17825,6 +17957,12 @@
     },
     {
       "word": "link",
+      "pos": "NOUN",
+      "translation": "der Link, die Verbindung",
+      "example": "At the bottom of the page, there was a link to another page."
+    },
+    {
+      "word": "link",
       "pos": "VERB",
       "translation": "verbinden, verknüpfen („linked to“: verbunden mit)",
       "example": "A localised subsidence event linked to historic underground workings."
@@ -17918,6 +18056,12 @@
       "pos": "NOUN",
       "translation": "(„the living“) die Lebenden",
       "example": "It answers the living."
+    },
+    {
+      "word": "living room",
+      "pos": "PHRASE",
+      "translation": "das Wohnzimmer",
+      "example": "Ines was in the living room, lying on the sofa with her feet on the wall."
     },
     {
       "word": "Lizzie",
@@ -18572,6 +18716,12 @@
       "example": "It was from his daughter, Becca, who lived in Leeds and worried about him in the brisk, managerial fashion she had inherited from her mother."
     },
     {
+      "word": "Manchester",
+      "pos": "PROPN",
+      "translation": "Manchester (Stadt im Nordwesten Englands)",
+      "example": "Femi, a quiet boy from Manchester."
+    },
+    {
       "word": "manga",
       "pos": "NOUN",
       "translation": "der Manga",
@@ -18918,6 +19068,12 @@
       "pos": "NOUN",
       "translation": "die Mediathek (französisch: Stadtbibliothek)",
       "example": "So he walked to the médiathèque instead, telling himself that he needed sources for his history presentation on the miners' strikes."
+    },
+    {
+      "word": "medical",
+      "pos": "ADJ",
+      "translation": "medizinisch, ärztlich",
+      "example": "If a student did not give it without a medical reason, they would receive a mark of zero."
     },
     {
       "word": "meet",
@@ -19392,6 +19548,12 @@
       "pos": "ADJ",
       "translation": "bescheiden",
       "example": "It was a modest place — a cluster of whitewashed buildings, a pagoda-roofed kiln that had not been used for malting in sixty years, and a row of long, low warehouses whose walls had been stained black by the fungus that feeds on evaporating spirit."
+    },
+    {
+      "word": "module",
+      "pos": "NOUN",
+      "translation": "das Modul",
+      "example": "It counts for thirty per cent of your mark for this module."
     },
     {
       "word": "moment",
@@ -19884,6 +20046,18 @@
       "pos": "NOUN",
       "translation": "die Oma (umgangssprachlich)",
       "example": "My nan had one that—\""
+    },
+    {
+      "word": "napkin",
+      "pos": "NOUN",
+      "translation": "die Serviette",
+      "example": "And drew a little raincloud on his napkin."
+    },
+    {
+      "word": "Napoleon",
+      "pos": "PROPN",
+      "translation": "Napoleon",
+      "example": "I have presented the life of Napoleon with a hat made of paper."
     },
     {
       "word": "narrow",
@@ -21391,6 +21565,12 @@
       "example": "She looked up at the tower out of habit."
     },
     {
+      "word": "out of kindness",
+      "pos": "PHRASE",
+      "translation": "aus Freundlichkeit",
+      "example": "Callum looking away out of kindness, which would be the worst of all."
+    },
+    {
       "word": "out of nowhere",
       "pos": "PHRASE",
       "translation": "aus dem Nichts",
@@ -22783,6 +22963,12 @@
       "example": "Tamsin turned the colour of a ripe plum."
     },
     {
+      "word": "plus",
+      "pos": "CCONJ",
+      "translation": "plus, dazu",
+      "example": "Ten minutes in front of everyone, plus questions, is not \"a small brave thing\"."
+    },
+    {
       "word": "pocket",
       "pos": "NOUN",
       "translation": "die Tasche",
@@ -23215,6 +23401,12 @@
       "example": "Most children wrote their full name and address, because they were afraid that Father Christmas would bring their presents to the wrong house."
     },
     {
+      "word": "present",
+      "pos": "VERB",
+      "translation": "präsentieren, vorstellen",
+      "example": "I have presented the life of Napoleon with a hat made of paper."
+    },
+    {
       "word": "presentation",
       "pos": "NOUN",
       "translation": "das Referat, die Präsentation",
@@ -23411,6 +23603,12 @@
       "pos": "PHRASE",
       "translation": "der Fortschrittsbalken",
       "example": "On it, with a black marker, he drew a long horizontal line, like the progress bar in a game."
+    },
+    {
+      "word": "project",
+      "pos": "NOUN",
+      "translation": "das Projekt",
+      "example": "About his three older sisters who had \"raised him like a project\"."
     },
     {
       "word": "promise",
@@ -24005,6 +24203,12 @@
       "pos": "VERB",
       "translation": "regnen",
       "example": "It rained almost constantly."
+    },
+    {
+      "word": "raincloud",
+      "pos": "NOUN",
+      "translation": "die Regenwolke",
+      "example": "And drew a little raincloud on his napkin."
     },
     {
       "word": "raise",
@@ -25560,6 +25764,12 @@
       "example": "Godfrey stopped his horse and stared at the ruins for a long time."
     },
     {
+      "word": "ruin",
+      "pos": "VERB",
+      "translation": "ruinieren, verderben",
+      "example": "Then, on Friday, Dr Pell ruined everything."
+    },
+    {
       "word": "ruined",
       "pos": "ADJ",
       "translation": "ruiniert, kaputt",
@@ -27102,6 +27312,12 @@
       "example": "She was perhaps a year older than him, thin and sharp-featured, with black hair cut short as a boy's and a long scar, old and white, running down the back of her left hand."
     },
     {
+      "word": "short film",
+      "pos": "PHRASE",
+      "translation": "der Kurzfilm",
+      "example": "Harriet had already decided: Tennyson, with slides, and \"possibly a short film\"."
+    },
+    {
       "word": "shortbread",
       "pos": "NOUN",
       "translation": "das Shortbread (schottisches Buttergebäck)",
@@ -27570,6 +27786,12 @@
       "example": "\"Bet you anything. I'm going to try to get over before two, and if I can't, I'll sit it out in Perth.\""
     },
     {
+      "word": "sit still",
+      "pos": "PHRASE",
+      "translation": "still sitzen",
+      "example": "\"And the reason I can't sit still. Too many bus rides.\""
+    },
+    {
       "word": "sit up",
       "pos": "PHRASE",
       "translation": "sich aufsetzen",
@@ -27820,6 +28042,12 @@
       "pos": "NOUN",
       "translation": "die Scheibe, die Sichel (Mond)",
       "example": "Through a crack between the boards he could see the crossroads, silver-grey under a thin slice of moon — and moving through it, slow and steady, a line of covered wagons."
+    },
+    {
+      "word": "slide",
+      "pos": "NOUN",
+      "translation": "die Folie, das Dia; die Rutsche",
+      "example": "Harriet had already decided: Tennyson, with slides, and \"possibly a short film\"."
     },
     {
       "word": "slide",
@@ -29898,6 +30126,12 @@
       "example": "Two sugars."
     },
     {
+      "word": "sugar bowl",
+      "pos": "PHRASE",
+      "translation": "die Zuckerdose",
+      "example": "When he saw her, he stood up so fast that he knocked over a sugar bowl."
+    },
+    {
       "word": "suggest",
       "pos": "VERB",
       "translation": "vorschlagen, andeuten",
@@ -30755,6 +30989,12 @@
       "example": "ACE POINT had to be tennis."
     },
     {
+      "word": "Tennyson",
+      "pos": "PROPN",
+      "translation": "Tennyson (Alfred Tennyson: englischer Dichter der viktorianischen Zeit)",
+      "example": "Harriet had already decided: Tennyson, with slides, and \"possibly a short film\"."
+    },
+    {
       "word": "tent",
       "pos": "NOUN",
       "translation": "das Zelt",
@@ -31601,6 +31841,12 @@
       "example": "Then it went out, and the tiredness hit him like a wave crashing against a wall."
     },
     {
+      "word": "tissue",
+      "pos": "NOUN",
+      "translation": "das Taschentuch; das Gewebe",
+      "example": "She put it in the drawer, under a packet of tissues, and went downstairs."
+    },
+    {
       "word": "title",
       "pos": "NOUN",
       "translation": "der Titel",
@@ -31773,6 +32019,12 @@
       "pos": "ADJ",
       "translation": "zerrissen",
       "example": "He thought of the torn page, the underlined line, the hearthstone."
+    },
+    {
+      "word": "tortoise",
+      "pos": "NOUN",
+      "translation": "die Schildkröte",
+      "example": "He drew a small cartoon of the lecturer as a tortoise."
     },
     {
       "word": "toss",
@@ -33856,6 +34108,12 @@
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
     },
     {
+      "word": "water cycle",
+      "pos": "PHRASE",
+      "translation": "der Wasserkreislauf",
+      "example": "I have presented the water cycle with a bottle that exploded."
+    },
+    {
       "word": "waterfall",
       "pos": "NOUN",
       "translation": "der Wasserfall",
@@ -34694,6 +34952,12 @@
       "pos": "VERB",
       "translation": "zurückziehen („withdrawn“: ausgetreten, abgemeldet)",
       "example": "They were gone by morning, the pair of them, and the Academy wrote her down as withdrawn and sealed it up, and that was that."
+    },
+    {
+      "word": "withdrawal",
+      "pos": "NOUN",
+      "translation": "der Rückzug, der Austritt („withdrawal form“: Exmatrikulationsantrag)",
+      "example": "The withdrawal form was still on the desk, folded in four."
     },
     {
       "word": "withdrawn",

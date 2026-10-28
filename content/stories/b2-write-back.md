@@ -360,3 +360,111 @@ She did not go home. She sat on a bench by the river, under the trees that were 
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_17-1793200974211.mp3
 Rosalind read the words, and something warm moved in her chest. Nobody had said "I'm proud of you" to her since Grandad Alf had read her prize-winning poem in the kitchen at Kettlewell, holding the paper very close to his old eyes. She closed the notebook and stayed on the bench for a long time, watching the rowers on the river pull their long boats through the brown water, all together, in perfect time. It looked very hard. It also looked, she thought, like something you could learn.
+
+# The Presentation
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_1-1793201652959.mp3
+The café on Elvet Bridge was called The Lantern, and it was so small that the tables almost touched. On the following Friday, Rosalind stood outside it for six minutes, pretending to read a poster about a jazz concert, before she found the courage to push the door. Inside, it was warm and loud and smelled of cinnamon. Callum was at a table by the window with two other students from the seminar. When he saw her, he stood up so fast that he knocked over a sugar bowl. "She came!" he announced to the whole café, as if she had arrived from the North Pole. Rosalind wanted to disappear. But she also, a little, wanted to laugh.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_2-1793201664604.mp3
+The other two were Harriet, the girl from London who liked the word "liminal", and Femi, a quiet boy from Manchester who drew tiny cartoons in the margins of everything. Harriet talked a lot, mostly about writers Rosalind had never heard of, but she was not unkind. Femi said almost nothing, and Rosalind liked him immediately for it. She did not say much herself. But when Callum told a long story about getting locked out of his room in a towel, she laughed so hard that she spilled her tea, and nobody seemed to think it was strange. For one whole hour she was simply a student in a café with other students. It was a very ordinary miracle.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_3-1793201677945.mp3
+Callum walked part of the way home with her afterwards. The streets were dark already, and the lights of the cathedral floated above the town like a ship. He asked where she was from, and she told him about Kettlewell: the river, the sheep, the shop that sold everything from bread to fishing rods. He told her about Glasgow, about his three older sisters who had "raised him like a project", about his dad who drove buses and recited poetry to the passengers. "He's the reason I'm doing English," he said. "And the reason I can't sit still. Too many bus rides." At the corner of Hallgarth Street they said goodbye, and Rosalind realised she had talked for ten minutes without once thinking about her voice.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_4-1793201686592.mp3
+That night, the notebook was full of exclamation marks, hers and R.'s. It was a good week. It was, in fact, the best week she had had since she arrived. She went to the café again on Tuesday. She sat next to Femi in a lecture and he drew a small cartoon of the lecturer as a tortoise, which he slid across the desk to her. On Wednesday, when her mum phoned, she said, "I went for coffee with some people from my course," and it was true, every word of it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_5-1793201696371.mp3
+Then, on Friday, Dr Pell ruined everything. At the end of the seminar, she took a sheet of paper out of her bag and held it up. "Assessment," she said, and the whole room groaned. "In week seven, each of you will give an individual presentation. Ten minutes, on a Victorian poem of your choice, followed by five minutes of questions from the group. It counts for thirty per cent of your mark for this module." She smiled her silver smile. "It's not an exam. It's a conversation. You'll be fine."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_6-1793201706044.mp3
+Rosalind did not hear the rest. Ten minutes. Alone. Standing at the front, with twelve faces watching her and nobody to speak for her. Five minutes of questions she could not prepare for, questions that would come at her like stones. Her heart was beating so hard that she was sure Callum, next to her, could hear it. He leaned towards her and whispered, "Easy. You'll do Goblin Market and destroy us all." She tried to smile. Her face did not seem to work.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_7-1793201719153.mp3
+Afterwards, at The Lantern, everybody talked about the presentations. Harriet had already decided: Tennyson, with slides, and "possibly a short film". Femi said he would do something by Thomas Hardy, "because he's depressing, and so am I", and drew a little raincloud on his napkin. Callum changed his mind four times in ten minutes. "What about you?" he asked Rosalind. "You've gone very quiet. Quieter than usual, I mean, which is impressive." She shrugged and said she did not know yet. It was true. She did not know which poem. She did not know whether she would still be in Durham in week seven. She held her cup with both hands so that nobody could see them shaking.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_8-1793201733092.mp3
+That night she lay awake and imagined it, again and again, like a film she could not stop. She saw herself walking to the front of Room 14. She saw her notes falling on the floor. She saw Harriet whispering to the boy next to her, Dr Pell writing something in her notebook, Callum looking away out of kindness, which would be the worst of all. She imagined her voice cracking in the middle of a word, and then the silence, the long, terrible silence, while twelve people waited for her to continue and she simply could not. By three in the morning she had lived through her presentation fourteen times, and failed it fourteen times.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_9-1793201743150.mp3
+That weekend, she did something she had never done before: she read the university regulations. All of them. She sat on her bed with her laptop and read about assessments, deadlines, extensions and appeals. The rules were clear. The presentation was compulsory. If a student did not give it without a medical reason, they would receive a mark of zero for that part of the module. And at the bottom of the page, there was a link to another page, with a title in calm blue letters: "Thinking of leaving your course?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_10-1793201758866.mp3
+She clicked on it. She read it twice. There was a form to fill in, and an office where you could talk to somebody, and a list of reasons that people gave: health, money, family, "the course is not what I expected". There was no box for "I am afraid of my own voice". She downloaded the form anyway. On Sunday evening, she walked to the library, printed it, and brought it home folded in four, as if it were a secret letter. Then she opened the green notebook.
+
+> I've decided. I'm leaving at Christmas. I printed the form today.
+> Don't be angry. I've thought about it a lot. Ten minutes in front of everyone, plus questions, is not "a small brave thing". It's impossible. You can't practise questions. Some people can do this and some can't, and it's better to know now than to fail in front of everybody in week seven.
+> Honestly, I think admitting it is the bravest thing I've done.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_11-1793201776376.mp3
+For a long time, nothing happened. Rosalind watched the page until her eyes ached. Then the green ink appeared, and it did not look like it usually did. The letters were bigger, darker, pressed so hard into the paper that she could see them from the other side. In one place, the pen had made a blot, as if whoever was holding it had stopped in the middle of a word, shaking.
+
+> No. That's not bravery. That's fear wearing a nice coat.
+> You were happy this week. You laughed in a café. You told your mum the truth. And now ten minutes in week seven, which is SIX WEEKS AWAY, is going to send you back to your bedroom under the slanted ceiling for the rest of your life?
+> If you leave because you're afraid, you'll leave the next thing too, and the next. Fear doesn't stop after one victory. It gets hungrier.
+> I'm angry, yes. I'm angry because I care.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_12-1793201786716.mp3
+Rosalind's face went hot, the way it did in seminars, but this time it was not shame. It was anger, clean and bright. She grabbed her pen and wrote so fast that her letters fell over each other.
+
+> Easy for you to say. You're a NOTEBOOK. You don't have to stand up in front of twelve people and feel your voice die in your throat. You don't have a body that shakes. You don't have a face that goes red. You don't have anything to lose.
+
+The answer took a long time to come. When it did, the letters were small again, and calm, and very tired.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_13-1793201796571.mp3
+> You're wrong about that. I have more to lose than you think.
+> But you're right that I can't stand up for you. Nobody can. So don't start with twelve people. Start with one.
+> Ask Ines to be your audience. Every evening, ten minutes. She'll say yes. She's been waiting for you to ask her for something.
+> And when you prepare, remember what a friend of mine always says: "Nothing's ever finished. It's just due." You don't need a perfect presentation. You need a finished one.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_14-1793201804857.mp3
+"I have more to lose than you think." Rosalind read the line several times. It was the first time R. had said anything about R. It made her uncomfortable, as if she had walked into a room and found somebody crying there. She closed the notebook. The withdrawal form was still on the desk, folded in four. She did not throw it away. But she did not fill it in either. She put it in the drawer, under a packet of tissues, and went downstairs.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_15-1793201813197.mp3
+Ines was in the living room, lying on the sofa with her feet on the wall, reading a French magazine. She looked up and saw Rosalind's face, and the magazine went down at once. "What happened? Is it a boy? Is it Callum? I will kill him." Rosalind sat on the arm of the sofa. She did not tell her about the notebook. But she told her about the presentation, and the regulations, and the form in the drawer, and then, to her own horror, she started to cry.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_16-1793201824278.mp3
+Ines listened to everything without interrupting, which for Ines was a kind of miracle. Then she sat up and took both of Rosalind's hands. "Listen to me. In France, we do presentations from the age of ten. An exposé. Every year, many times. I have presented the life of Napoleon with a hat made of paper. I have presented the water cycle with a bottle that exploded. I know everything about this." She squeezed Rosalind's hands. "I will be your audience. Every night. And I will be a terrible audience. I will eat crisps very loudly and look at my phone. Like real students."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_4.page_17-1793201835204.mp3
+Rosalind laughed through her tears, a wet, ugly, wonderful laugh. "You don't have to," she said. "I want to," said Ines simply. "You asked me for something. Finally." Later, upstairs, Rosalind wrote one more line in the notebook before bed: "I asked Ines. She said yes. The form is in the drawer, just in case." The reply came quickly, and she could almost hear the smile in it.
+
+> "Just in case" is fine. Keep it.
+> I'm not allowed to tell you that you won't need it. Rule two.
+> So I'll just say: I hope you won't.
+> — R.

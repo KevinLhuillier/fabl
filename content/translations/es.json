@@ -1192,6 +1192,12 @@
       "example": "The first snowplough appeared at a quarter to seven, a great yellow apparition crawling south out of the half-light with its blade raised and its beacons strobing across the drifts."
     },
     {
+      "word": "appeal",
+      "pos": "NOUN",
+      "translation": "la apelación, el recurso ; el atractivo",
+      "example": "She sat on her bed with her laptop and read about assessments, deadlines, extensions and appeals."
+    },
+    {
       "word": "appear",
       "pos": "VERB",
       "translation": "aparecer",
@@ -1835,6 +1841,12 @@
       "pos": "PROPN",
       "translation": "Aubrecourt (ciudad)",
       "example": "Aubrecourt was the kind of town people drove through on their way to somewhere else."
+    },
+    {
+      "word": "audience",
+      "pos": "NOUN",
+      "translation": "el público",
+      "example": "Ask Ines to be your audience. Every evening, ten minutes."
     },
     {
       "word": "August",
@@ -3598,6 +3610,12 @@
       "pos": "ADJ",
       "translation": "valiente",
       "example": "Mia is brave. — Mia es valiente."
+    },
+    {
+      "word": "bravery",
+      "pos": "NOUN",
+      "translation": "la valentía",
+      "example": "No. That's not bravery. That's fear wearing a nice coat."
     },
     {
       "word": "bread",
@@ -5422,6 +5440,12 @@
       "pos": "PROPN",
       "translation": "Cinder («ceniza»; «the Cinder Marches»: las Marcas de Ceniza, región)",
       "example": "Twins from the Cinder Marches, both Fire: root, drop, root, drop."
+    },
+    {
+      "word": "cinnamon",
+      "pos": "NOUN",
+      "translation": "la canela",
+      "example": "Inside, it was warm and loud and smelled of cinnamon."
     },
     {
       "word": "circle",
@@ -7489,6 +7513,12 @@
     },
     {
       "word": "cycle",
+      "pos": "NOUN",
+      "translation": "el ciclo ; la bicicleta",
+      "example": "I have presented the water cycle with a bottle that exploded."
+    },
+    {
+      "word": "cycle",
       "pos": "VERB",
       "translation": "ir en bici, pedalear («cycled away»: se fue en bici)",
       "example": "But she made him promise three things before she cycled away."
@@ -7696,6 +7726,12 @@
       "pos": "PHRASE",
       "translation": "pleno invierno",
       "example": "And along the bare black branches, in the dead of winter, buds were swelling."
+    },
+    {
+      "word": "deadline",
+      "pos": "NOUN",
+      "translation": "el plazo, la fecha límite",
+      "example": "She sat on her bed with her laptop and read about assessments, deadlines, extensions and appeals."
     },
     {
       "word": "deal",
@@ -7942,6 +7978,12 @@
       "pos": "NOUN",
       "translation": "el depósito, el almacén",
       "example": "She drove for a supermarket chain now, chilled goods out of a depot near Wakefield, and was on her way to a distribution centre outside Inverness."
+    },
+    {
+      "word": "depressing",
+      "pos": "ADJ",
+      "translation": "deprimente",
+      "example": "Femi said he would do something by Thomas Hardy, \"because he's depressing, and so am I\"."
     },
     {
       "word": "deputy",
@@ -9922,6 +9964,12 @@
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
     },
     {
+      "word": "exam",
+      "pos": "NOUN",
+      "translation": "el examen",
+      "example": "\"It's not an exam. It's a conversation. You'll be fine.\""
+    },
+    {
       "word": "examine",
       "pos": "VERB",
       "translation": "examinar",
@@ -9974,6 +10022,18 @@
       "pos": "ADJ",
       "translation": "emocionante",
       "example": "My other secret is more exciting."
+    },
+    {
+      "word": "exclamation",
+      "pos": "NOUN",
+      "translation": "la exclamación («exclamation mark»: signo de exclamación)",
+      "example": "That night, the notebook was full of exclamation marks, hers and R.'s."
+    },
+    {
+      "word": "exclamation mark",
+      "pos": "PHRASE",
+      "translation": "el signo de exclamación",
+      "example": "That night, the notebook was full of exclamation marks, hers and R.'s."
     },
     {
       "word": "excuse",
@@ -10076,6 +10136,12 @@
       "pos": "VERB",
       "translation": "explotar, estallar",
       "example": "Rowan was halfway to his feet when the snow in front of him exploded upward and a cloaked figure came over the bank in a single bound, and he went down hard on the ice with all the breath knocked out of him."
+    },
+    {
+      "word": "exposé",
+      "pos": "NOUN",
+      "translation": "el exposé (en francés: exposición oral)",
+      "example": "In France, we do presentations from the age of ten. An exposé."
     },
     {
       "word": "expression",
@@ -10534,6 +10600,12 @@
       "example": "That meant Fellside, the small cottage hospital above the village, where old people went after an operation or a fall."
     },
     {
+      "word": "Femi",
+      "pos": "PROPN",
+      "translation": "Femi (nombre de origen nigeriano)",
+      "example": "Femi, a quiet boy from Manchester who drew tiny cartoons in the margins of everything."
+    },
+    {
       "word": "fence",
       "pos": "NOUN",
       "translation": "la valla, la cerca",
@@ -10840,6 +10912,12 @@
       "example": "She caught the opposite edge with one hand, swung, pulled herself up and sprinted towards the finish line as the factory collapsed behind her."
     },
     {
+      "word": "finished",
+      "pos": "ADJ",
+      "translation": "terminado, acabado",
+      "example": "\"Nothing's ever finished. It's just due.\" You don't need a perfect presentation. You need a finished one."
+    },
+    {
       "word": "fire",
       "pos": "NOUN",
       "translation": "el fuego, el incendio",
@@ -10982,6 +11060,12 @@
       "pos": "NOUN",
       "translation": "la pesca («fishing port»: puerto pesquero)",
       "example": "You come from the forest villages of the south and the mining towns of the northern mountains, from the fishing ports of the western coast and the windswept heights of the east."
+    },
+    {
+      "word": "fishing rod",
+      "pos": "PHRASE",
+      "translation": "la caña de pescar",
+      "example": "The shop that sold everything from bread to fishing rods."
     },
     {
       "word": "fishmonger",
@@ -13970,6 +14054,12 @@
       "example": "My cousin says he hardly ever bothers coming this far south."
     },
     {
+      "word": "Hardy",
+      "pos": "PROPN",
+      "translation": "Hardy («Thomas Hardy»: novelista y poeta inglés, 1840-1928)",
+      "example": "Femi said he would do something by Thomas Hardy."
+    },
+    {
       "word": "Harehills",
       "pos": "PROPN",
       "translation": "Harehills (barrio de Leeds)",
@@ -14004,6 +14094,12 @@
       "pos": "ADJ",
       "translation": "agobiado",
       "example": "His name was Master Tobin Grey, and he was a thin, harried man with spectacles pushed up onto his forehead, where he had evidently forgotten them."
+    },
+    {
+      "word": "Harriet",
+      "pos": "PROPN",
+      "translation": "Harriet (nombre)",
+      "example": "The other two were Harriet, the girl from London who liked the word \"liminal\", and Femi."
     },
     {
       "word": "Harrogate",
@@ -14208,6 +14304,12 @@
       "pos": "NOUN",
       "translation": "la curandera, el curandero",
       "example": "The infirmary healer — a stout, brisk, kindly woman called Mother Rook, who smelled of camphor and treated every student as though they were a slightly disappointing nephew — told him so, at length, while she peered into his eyes and felt the pulse at his wrist and pronounced him, with deep suspicion, to be recovering."
+    },
+    {
+      "word": "health",
+      "pos": "NOUN",
+      "translation": "la salud",
+      "example": "A list of reasons that people gave: health, money, family."
     },
     {
       "word": "healthy",
@@ -15839,6 +15941,12 @@
       "example": "The forest remained, vast and ancient and indifferent."
     },
     {
+      "word": "individual",
+      "pos": "ADJ",
+      "translation": "individual",
+      "example": "In week seven, each of you will give an individual presentation."
+    },
+    {
       "word": "indoor",
       "pos": "ADJ",
       "translation": "de interior («indoor cat»: gato de interior)",
@@ -16306,6 +16414,12 @@
       "example": "Bram's jaw worked on a crust of bread for a long moment."
     },
     {
+      "word": "jazz",
+      "pos": "NOUN",
+      "translation": "el jazz",
+      "example": "Pretending to read a poster about a jazz concert."
+    },
+    {
       "word": "Jean",
       "pos": "PROPN",
       "translation": "Jean (nombre femenino inglés)",
@@ -16540,6 +16654,12 @@
       "example": "Just before the impact, Godfrey's saddle suddenly slipped to one side."
     },
     {
+      "word": "just in case",
+      "pos": "PHRASE",
+      "translation": "por si acaso",
+      "example": "\"I asked Ines. She said yes. The form is in the drawer, just in case.\""
+    },
+    {
       "word": "kangaroo",
       "pos": "NOUN",
       "translation": "el canguro",
@@ -16736,6 +16856,12 @@
       "pos": "ADV",
       "translation": "amablemente, sin maldad",
       "example": "He bowed so low afterwards that he almost fell over, and the crowd laughed, but kindly."
+    },
+    {
+      "word": "kindness",
+      "pos": "NOUN",
+      "translation": "la amabilidad, la bondad",
+      "example": "Callum looking away out of kindness, which would be the worst of all."
     },
     {
       "word": "king",
@@ -17072,6 +17198,12 @@
       "pos": "NOUN",
       "translation": "la linterna, el farol",
       "example": "No lanterns."
+    },
+    {
+      "word": "Lantern",
+      "pos": "PROPN",
+      "translation": "Lantern (nombre del café; «lantern»: farol)",
+      "example": "The café on Elvet Bridge was called The Lantern."
     },
     {
       "word": "lap",
@@ -17825,6 +17957,12 @@
     },
     {
       "word": "link",
+      "pos": "NOUN",
+      "translation": "el enlace",
+      "example": "At the bottom of the page, there was a link to another page."
+    },
+    {
+      "word": "link",
       "pos": "VERB",
       "translation": "vincular, relacionar («linked to»: relacionado con)",
       "example": "A localised subsidence event linked to historic underground workings."
@@ -17918,6 +18056,12 @@
       "pos": "NOUN",
       "translation": "(«the living») los vivos",
       "example": "It answers the living."
+    },
+    {
+      "word": "living room",
+      "pos": "PHRASE",
+      "translation": "el salón, la sala de estar",
+      "example": "Ines was in the living room, lying on the sofa with her feet on the wall."
     },
     {
       "word": "Lizzie",
@@ -18572,6 +18716,12 @@
       "example": "It was from his daughter, Becca, who lived in Leeds and worried about him in the brisk, managerial fashion she had inherited from her mother."
     },
     {
+      "word": "Manchester",
+      "pos": "PROPN",
+      "translation": "Mánchester (ciudad del noroeste de Inglaterra)",
+      "example": "Femi, a quiet boy from Manchester."
+    },
+    {
       "word": "manga",
       "pos": "NOUN",
       "translation": "el manga",
@@ -18918,6 +19068,12 @@
       "pos": "NOUN",
       "translation": "la mediateca (en francés: biblioteca municipal)",
       "example": "So he walked to the médiathèque instead, telling himself that he needed sources for his history presentation on the miners' strikes."
+    },
+    {
+      "word": "medical",
+      "pos": "ADJ",
+      "translation": "médico",
+      "example": "If a student did not give it without a medical reason, they would receive a mark of zero."
     },
     {
       "word": "meet",
@@ -19392,6 +19548,12 @@
       "pos": "ADJ",
       "translation": "modesto",
       "example": "It was a modest place — a cluster of whitewashed buildings, a pagoda-roofed kiln that had not been used for malting in sixty years, and a row of long, low warehouses whose walls had been stained black by the fungus that feeds on evaporating spirit."
+    },
+    {
+      "word": "module",
+      "pos": "NOUN",
+      "translation": "el módulo, la asignatura",
+      "example": "It counts for thirty per cent of your mark for this module."
     },
     {
       "word": "moment",
@@ -19884,6 +20046,18 @@
       "pos": "NOUN",
       "translation": "la abuelita (coloquial)",
       "example": "My nan had one that—\""
+    },
+    {
+      "word": "napkin",
+      "pos": "NOUN",
+      "translation": "la servilleta",
+      "example": "And drew a little raincloud on his napkin."
+    },
+    {
+      "word": "Napoleon",
+      "pos": "PROPN",
+      "translation": "Napoleón",
+      "example": "I have presented the life of Napoleon with a hat made of paper."
     },
     {
       "word": "narrow",
@@ -21391,6 +21565,12 @@
       "example": "She looked up at the tower out of habit."
     },
     {
+      "word": "out of kindness",
+      "pos": "PHRASE",
+      "translation": "por amabilidad",
+      "example": "Callum looking away out of kindness, which would be the worst of all."
+    },
+    {
       "word": "out of nowhere",
       "pos": "PHRASE",
       "translation": "de la nada",
@@ -22783,6 +22963,12 @@
       "example": "Tamsin turned the colour of a ripe plum."
     },
     {
+      "word": "plus",
+      "pos": "CCONJ",
+      "translation": "más, además de",
+      "example": "Ten minutes in front of everyone, plus questions, is not \"a small brave thing\"."
+    },
+    {
       "word": "pocket",
       "pos": "NOUN",
       "translation": "el bolsillo",
@@ -23215,6 +23401,12 @@
       "example": "Most children wrote their full name and address, because they were afraid that Father Christmas would bring their presents to the wrong house."
     },
     {
+      "word": "present",
+      "pos": "VERB",
+      "translation": "presentar",
+      "example": "I have presented the life of Napoleon with a hat made of paper."
+    },
+    {
       "word": "presentation",
       "pos": "NOUN",
       "translation": "la exposición, la presentación",
@@ -23411,6 +23603,12 @@
       "pos": "PHRASE",
       "translation": "la barra de progreso",
       "example": "On it, with a black marker, he drew a long horizontal line, like the progress bar in a game."
+    },
+    {
+      "word": "project",
+      "pos": "NOUN",
+      "translation": "el proyecto",
+      "example": "About his three older sisters who had \"raised him like a project\"."
     },
     {
       "word": "promise",
@@ -24005,6 +24203,12 @@
       "pos": "VERB",
       "translation": "llover",
       "example": "It rained almost constantly."
+    },
+    {
+      "word": "raincloud",
+      "pos": "NOUN",
+      "translation": "la nube de lluvia",
+      "example": "And drew a little raincloud on his napkin."
     },
     {
       "word": "raise",
@@ -25560,6 +25764,12 @@
       "example": "Godfrey stopped his horse and stared at the ruins for a long time."
     },
     {
+      "word": "ruin",
+      "pos": "VERB",
+      "translation": "arruinar, estropear",
+      "example": "Then, on Friday, Dr Pell ruined everything."
+    },
+    {
       "word": "ruined",
       "pos": "ADJ",
       "translation": "estropeado, arruinado",
@@ -27102,6 +27312,12 @@
       "example": "She was perhaps a year older than him, thin and sharp-featured, with black hair cut short as a boy's and a long scar, old and white, running down the back of her left hand."
     },
     {
+      "word": "short film",
+      "pos": "PHRASE",
+      "translation": "el cortometraje",
+      "example": "Harriet had already decided: Tennyson, with slides, and \"possibly a short film\"."
+    },
+    {
       "word": "shortbread",
       "pos": "NOUN",
       "translation": "las galletas de mantequilla (escocesas)",
@@ -27570,6 +27786,12 @@
       "example": "\"Bet you anything. I'm going to try to get over before two, and if I can't, I'll sit it out in Perth.\""
     },
     {
+      "word": "sit still",
+      "pos": "PHRASE",
+      "translation": "estarse quieto",
+      "example": "\"And the reason I can't sit still. Too many bus rides.\""
+    },
+    {
       "word": "sit up",
       "pos": "PHRASE",
       "translation": "incorporarse",
@@ -27820,6 +28042,12 @@
       "pos": "NOUN",
       "translation": "la rodaja, la tajada",
       "example": "Through a crack between the boards he could see the crossroads, silver-grey under a thin slice of moon — and moving through it, slow and steady, a line of covered wagons."
+    },
+    {
+      "word": "slide",
+      "pos": "NOUN",
+      "translation": "la diapositiva ; el tobogán",
+      "example": "Harriet had already decided: Tennyson, with slides, and \"possibly a short film\"."
     },
     {
       "word": "slide",
@@ -29898,6 +30126,12 @@
       "example": "Two sugars."
     },
     {
+      "word": "sugar bowl",
+      "pos": "PHRASE",
+      "translation": "el azucarero",
+      "example": "When he saw her, he stood up so fast that he knocked over a sugar bowl."
+    },
+    {
       "word": "suggest",
       "pos": "VERB",
       "translation": "sugerir, proponer",
@@ -30755,6 +30989,12 @@
       "example": "ACE POINT had to be tennis."
     },
     {
+      "word": "Tennyson",
+      "pos": "PROPN",
+      "translation": "Tennyson (Alfred Tennyson: poeta inglés de la época victoriana)",
+      "example": "Harriet had already decided: Tennyson, with slides, and \"possibly a short film\"."
+    },
+    {
       "word": "tent",
       "pos": "NOUN",
       "translation": "la tienda de campaña",
@@ -31601,6 +31841,12 @@
       "example": "Then it went out, and the tiredness hit him like a wave crashing against a wall."
     },
     {
+      "word": "tissue",
+      "pos": "NOUN",
+      "translation": "el pañuelo de papel ; el tejido",
+      "example": "She put it in the drawer, under a packet of tissues, and went downstairs."
+    },
+    {
       "word": "title",
       "pos": "NOUN",
       "translation": "el título",
@@ -31773,6 +32019,12 @@
       "pos": "ADJ",
       "translation": "rasgado, roto",
       "example": "He thought of the torn page, the underlined line, the hearthstone."
+    },
+    {
+      "word": "tortoise",
+      "pos": "NOUN",
+      "translation": "la tortuga",
+      "example": "He drew a small cartoon of the lecturer as a tortoise."
     },
     {
       "word": "toss",
@@ -33856,6 +34108,12 @@
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
     },
     {
+      "word": "water cycle",
+      "pos": "PHRASE",
+      "translation": "el ciclo del agua",
+      "example": "I have presented the water cycle with a bottle that exploded."
+    },
+    {
       "word": "waterfall",
       "pos": "NOUN",
       "translation": "la cascada",
@@ -34694,6 +34952,12 @@
       "pos": "VERB",
       "translation": "retirar («withdrawn»: dada de baja)",
       "example": "They were gone by morning, the pair of them, and the Academy wrote her down as withdrawn and sealed it up, and that was that."
+    },
+    {
+      "word": "withdrawal",
+      "pos": "NOUN",
+      "translation": "la retirada, el abandono («withdrawal form»: formulario de baja)",
+      "example": "The withdrawal form was still on the desk, folded in four."
     },
     {
       "word": "withdrawn",

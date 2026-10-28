@@ -478,6 +478,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "cinnamon",
+      "pos": "PROPN",
+      "word": "cinnamon",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "clear",
       "pos": "ADV",
       "next": "settled",
@@ -1608,6 +1614,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "interrupting",
+      "pos": "NOUN",
+      "word": "interrupt",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "inwards",
       "pos": "NOUN",
       "word": "inwards",
@@ -2495,6 +2507,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "per",
+      "pos": "NOUN",
+      "word": "per",
+      "lemmaPos": "ADP"
+    },
+    {
       "text": "perfect",
       "pos": "VERB",
       "word": "perfect",
@@ -2673,6 +2691,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Quieter",
+      "pos": "NOUN",
+      "word": "quiet",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "quite",
       "pos": "DET",
       "word": "quite",
@@ -2713,6 +2737,12 @@
       "pos": "VERB",
       "next": "-",
       "word": "re-form",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "recited",
+      "pos": "ADJ",
+      "word": "recite",
       "lemmaPos": "VERB"
     },
     {
