@@ -1837,6 +1837,13 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Memory",
+      "pos": "PROPN",
+      "next": "of",
+      "word": "memory",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "merciless",
       "pos": "NOUN",
       "word": "merciless",
@@ -2259,6 +2266,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "pencil",
+      "pos": "PROPN",
+      "word": "pencil",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "perfect",
       "pos": "VERB",
       "word": "perfect",
@@ -2298,6 +2311,13 @@
       "text": "pine",
       "pos": "ADJ",
       "word": "pine",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Places",
+      "pos": "PROPN",
+      "next": ",",
+      "word": "place",
       "lemmaPos": "NOUN"
     },
     {
@@ -2539,6 +2559,12 @@
       "pos": "VERB",
       "next": ",",
       "word": "ring",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "RISKS",
+      "pos": "PROPN",
+      "word": "risk",
       "lemmaPos": "NOUN"
     },
     {
@@ -3628,6 +3654,12 @@
       "next": "blackthorn",
       "word": "white",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "wince",
+      "pos": "NOUN",
+      "word": "wince",
+      "lemmaPos": "VERB"
     },
     {
       "text": "windscreen",

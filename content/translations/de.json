@@ -114,6 +114,12 @@
       "example": "And two initials: A."
     },
     {
+      "word": "a.m.",
+      "pos": "NOUN",
+      "translation": "morgens, vormittags („7 a.m.“: 7 Uhr morgens)",
+      "example": "Bus shelter, rue des Corons. Tomorrow, 7 a.m."
+    },
+    {
       "word": "A1",
       "pos": "PROPN",
       "translation": "A1 (Fernstraße von London nach Edinburgh)",
@@ -334,6 +340,12 @@
       "pos": "NOUN",
       "translation": "der Akt, die Tat",
       "example": "It's an act of faith in a future you'll very likely not attend."
+    },
+    {
+      "word": "act",
+      "pos": "VERB",
+      "translation": "handeln, vorgehen; spielen (eine Rolle)",
+      "example": "The school would never act against the deputy mayor's son without a confession."
     },
     {
       "word": "act of faith",
@@ -585,6 +597,12 @@
       "pos": "ADV",
       "translation": "voraus, vorne",
       "example": "If you are patient enough to notice, you will always be one step ahead."
+    },
+    {
+      "word": "aim",
+      "pos": "VERB",
+      "translation": "zielen",
+      "example": "He raised both hands for the second gesture, the push, aiming at Maxence's feet on the second step."
     },
     {
       "word": "air",
@@ -2171,6 +2189,12 @@
       "pos": "PHRASE",
       "translation": "gewohnt sein an",
       "example": "\"Earth students are used to things that don't move.\""
+    },
+    {
+      "word": "beach",
+      "pos": "NOUN",
+      "translation": "der Strand",
+      "example": "Places kept traces of what happened in them, the way a beach keeps footprints until the tide comes in."
     },
     {
       "word": "beacon",
@@ -3798,6 +3822,12 @@
       "example": "There is a big red bus. — Da ist ein großer roter Bus."
     },
     {
+      "word": "bus shelter",
+      "pos": "PHRASE",
+      "translation": "das Bushäuschen, das Wartehäuschen",
+      "example": "Bus shelter, rue des Corons."
+    },
+    {
       "word": "bus stop",
       "pos": "PHRASE",
       "translation": "die Bushaltestelle",
@@ -3886,6 +3916,12 @@
       "pos": "PHRASE",
       "translation": "auswendig",
       "example": "But I know what they say about the first signs, because my grandmother made me learn it by heart when I was younger than you.\""
+    },
+    {
+      "word": "by mistake",
+      "pos": "PHRASE",
+      "translation": "aus Versehen",
+      "example": "The deputy mayor's smile stayed on his face, but it seemed to have been left there by mistake."
     },
     {
       "word": "by order of",
@@ -4075,6 +4111,12 @@
     },
     {
       "word": "can",
+      "pos": "NOUN",
+      "translation": "die Dose",
+      "example": "Then, when Lucas went to buy a can from the vending machine, he leaned towards Romain."
+    },
+    {
+      "word": "can",
       "pos": "VERB",
       "translation": "können",
       "example": "Can you help me? — Kannst du mir helfen?"
@@ -4216,6 +4258,12 @@
       "pos": "ADJ",
       "translation": "nachlässig, unvorsichtig",
       "example": "Edwin stepped aside, again and again, until the bandit grew tired and careless."
+    },
+    {
+      "word": "caretaker",
+      "pos": "NOUN",
+      "translation": "der Hausmeister",
+      "example": "A tall man with silver hair and his son's easy smile, shaking hands with the caretaker as if he were a voter."
     },
     {
       "word": "cargo",
@@ -5472,6 +5520,12 @@
       "example": "Or had the lamp flickered by coincidence, and the exhaustion been nothing more than a bad day catching up with him?"
     },
     {
+      "word": "cola",
+      "pos": "NOUN",
+      "translation": "die Cola",
+      "example": "Lucas was standing by the vending machine, his can of cola halfway to his mouth."
+    },
+    {
       "word": "cold",
       "pos": "ADJ",
       "translation": "kalt",
@@ -5904,6 +5958,12 @@
       "example": "He tried to protest, but then his own squire stepped forward and confessed that he had cut Godfrey's saddle strap on his master's orders."
     },
     {
+      "word": "confession",
+      "pos": "NOUN",
+      "translation": "das Geständnis",
+      "example": "\"So we get a confession.\""
+    },
+    {
       "word": "confetti",
       "pos": "NOUN",
       "translation": "das Konfetti",
@@ -6102,6 +6162,12 @@
       "example": "His mum started cooking real meals again, with vegetables in them, and stopped buying biscuits."
     },
     {
+      "word": "cooker",
+      "pos": "NOUN",
+      "translation": "der Herd",
+      "example": "He had made the gesture by the cooker and listened as the room gave back the sound of her humming an old song."
+    },
+    {
       "word": "cool",
       "pos": "ADJ",
       "translation": "kühl",
@@ -6172,6 +6238,12 @@
       "pos": "PHRASE",
       "translation": "der Laden an der Ecke, der Tante-Emma-Laden",
       "example": "An old man who sat outside the corner shop started clapping every time they passed."
+    },
+    {
+      "word": "Corons",
+      "pos": "PROPN",
+      "translation": "Corons (französisch: Reihen von Bergarbeiterhäusern in Nordfrankreich)",
+      "example": "Bus shelter, rue des Corons."
     },
     {
       "word": "Corrach",
@@ -6942,6 +7014,12 @@
       "example": "\"But a small one please,\" she wrote, \"because our garden is small and Dad says no.\""
     },
     {
+      "word": "dad'll",
+      "pos": "NOUN",
+      "translation": "Papa wird („my dad'll“ = „my dad will“: mein Vater wird)",
+      "example": "\"And even if they do, my dad'll sort it out.\""
+    },
+    {
       "word": "daily",
       "pos": "ADJ",
       "translation": "täglich („daily rest“: Tagesruhezeit)",
@@ -7356,6 +7434,12 @@
       "example": "He was tall, good-looking in the way of people who have never had to worry about anything, and his father was the deputy mayor of Aubrecourt."
     },
     {
+      "word": "des",
+      "pos": "X",
+      "translation": "des (französisch: „der“; „rue des Corons“)",
+      "example": "Bus shelter, rue des Corons."
+    },
+    {
       "word": "DES",
       "pos": "PROPN",
       "translation": "der (im Original französisch)",
@@ -7534,6 +7618,12 @@
       "pos": "NOUN",
       "translation": "(„well-digger“: Brunnenbauer)",
       "example": "From inside his coat he drew a slender rod of dark wood, forked at one end, the kind of thing a well-digger might use to find water."
+    },
+    {
+      "word": "digital",
+      "pos": "ADJ",
+      "translation": "digital",
+      "example": "The headmistress walked beside him, talking about the importance of digital skills."
     },
     {
       "word": "dim",
@@ -7780,6 +7870,12 @@
       "pos": "VERB",
       "translation": "umleiten; unterhalten („diverting“: unterhaltsam)",
       "example": "He had shared his cab before, with trainees and with the occasional stranded colleague, but never with anyone quite like the Beatons, who seemed to regard their predicament as a mildly diverting episode rather than a brush with death."
+    },
+    {
+      "word": "dizzy",
+      "pos": "ADJ",
+      "translation": "schwindlig",
+      "example": "Noé was dizzy now, and his hands were trembling."
     },
     {
       "word": "do",
@@ -8898,6 +8994,12 @@
       "example": "There was no brand name on it, only a small metal plate with one word engraved on it: HALCYON."
     },
     {
+      "word": "enjoy",
+      "pos": "VERB",
+      "translation": "genießen, Spaß haben an",
+      "example": "I don't want to become someone who enjoys that."
+    },
+    {
       "word": "enormous",
       "pos": "ADJ",
       "translation": "riesig",
@@ -9254,6 +9356,12 @@
       "pos": "VERB",
       "translation": "erschöpfen („exhausted“: erschöpft)",
       "example": "Three days later, a messenger arrived at the gates, covered in mud and exhausted from riding through the night."
+    },
+    {
+      "word": "exhausted",
+      "pos": "ADJ",
+      "translation": "erschöpft",
+      "example": "Nobody looked at the boy sitting on the bottom step with his head between his knees, who was so exhausted he could barely stand."
     },
     {
       "word": "exhaustion",
@@ -9644,6 +9752,12 @@
       "pos": "NOUN",
       "translation": "die Müdigkeit, die Erschöpfung",
       "example": "Fatigue: 7/10."
+    },
+    {
+      "word": "fault",
+      "pos": "NOUN",
+      "translation": "die Schuld; der Fehler",
+      "example": "\"It wasn't your fault,\" Inès kept saying that afternoon."
     },
     {
       "word": "favour",
@@ -11314,6 +11428,12 @@
       "example": "He had never been further than the nearest market town."
     },
     {
+      "word": "fury",
+      "pos": "NOUN",
+      "translation": "die Wut, der Zorn",
+      "example": "Lucas pushed through the crowd towards Maxence, his face twisted with fury."
+    },
+    {
       "word": "fuse",
       "pos": "VERB",
       "translation": "verschmelzen",
@@ -11426,6 +11546,12 @@
       "pos": "PROPN",
       "translation": "Garnier (Nachname)",
       "example": "Noé Garnier had lived there all his life, and at seventeen he had already worked out that Aubrecourt had two kinds of people: those who were planning to leave, and those who had given up on the idea."
+    },
+    {
+      "word": "gasp",
+      "pos": "NOUN",
+      "translation": "das Aufkeuchen, das Nach-Luft-Schnappen",
+      "example": "They gave back the word about Madame Ferrand, and there was a gasp from the crowd."
     },
     {
       "word": "gasp",
@@ -12267,6 +12393,12 @@
       "example": "The graphics were old and blocky, but the movement was incredible."
     },
     {
+      "word": "graphite",
+      "pos": "NOUN",
+      "translation": "der Graphit",
+      "example": "But this time the graphite was dark and shiny, and when Noé touched it with his fingertip, it smudged."
+    },
+    {
       "word": "grass",
       "pos": "NOUN",
       "translation": "das Gras",
@@ -12860,6 +12992,12 @@
       "example": "\"Hang him!\""
     },
     {
+      "word": "hang around",
+      "pos": "PHRASE",
+      "translation": "herumhängen („hang around with sb“: mit jemandem abhängen)",
+      "example": "The only reason he hung around with him was that Lucas's brother could get them into clubs in Lille."
+    },
+    {
       "word": "hang up",
       "pos": "PHRASE",
       "translation": "auflegen",
@@ -13128,6 +13266,12 @@
       "pos": "NOUN",
       "translation": "die Schlagzeile",
       "example": "The headline said: OTLEY TEENAGER SMASHES COUNTY RECORD – THEN COLLAPSES."
+    },
+    {
+      "word": "headmistress",
+      "pos": "NOUN",
+      "translation": "die Schulleiterin, die Direktorin",
+      "example": "The deputy mayor would arrive at 10.15, with the headmistress, two journalists from the local paper and a photographer."
     },
     {
       "word": "headphones",
@@ -14300,6 +14444,12 @@
       "example": "He adjusted the wipers, tightened his grip by an imperceptible degree, and let the Duchess find her pace."
     },
     {
+      "word": "importance",
+      "pos": "NOUN",
+      "translation": "die Bedeutung, die Wichtigkeit",
+      "example": "The headmistress walked beside him, talking about the importance of digital skills."
+    },
+    {
       "word": "important",
       "pos": "ADJ",
       "translation": "wichtig",
@@ -15200,6 +15350,12 @@
       "pos": "PROPN",
       "translation": "Jory (Vorname)",
       "example": "\"Jory Penhallow,\" he announced, flinging the trunk into the wagon and himself after it."
+    },
+    {
+      "word": "journalist",
+      "pos": "NOUN",
+      "translation": "der Journalist",
+      "example": "The deputy mayor would arrive at 10.15, with the headmistress, two journalists from the local paper and a photographer."
     },
     {
       "word": "journey",
@@ -16162,6 +16318,12 @@
       "example": "If they did not pay one thousand eight hundred pounds by the end of the month, the letter said, legal action would begin."
     },
     {
+      "word": "legally",
+      "pos": "ADV",
+      "translation": "legal, rechtlich",
+      "example": "\"Even if I could trace it, which I can't legally, the school would never act against the deputy mayor's son without a confession.\""
+    },
+    {
       "word": "leggy",
       "pos": "ADJ",
       "translation": "(Pflanze) vergeilt, lang aufgeschossen",
@@ -16438,6 +16600,12 @@
       "example": "It's an act of faith in a future you'll very likely not attend."
     },
     {
+      "word": "Lille",
+      "pos": "PROPN",
+      "translation": "Lille (Großstadt in Nordfrankreich)",
+      "example": "The only reason he hung around with him was that Lucas's brother could get them into clubs in Lille."
+    },
+    {
       "word": "Lily",
       "pos": "PROPN",
       "translation": "Lily (Vorname)",
@@ -16604,6 +16772,12 @@
       "pos": "ADJ",
       "translation": "örtlich, Lokal-",
       "example": "The local history section was on the top floor, at the end of a corridor nobody seemed to use."
+    },
+    {
+      "word": "local paper",
+      "pos": "PHRASE",
+      "translation": "die Lokalzeitung",
+      "example": "The deputy mayor would arrive at 10.15, with the headmistress, two journalists from the local paper and a photographer."
     },
     {
       "word": "lock",
@@ -18044,6 +18218,12 @@
       "example": "Every morning. — Jeden Morgen."
     },
     {
+      "word": "morning break",
+      "pos": "PHRASE",
+      "translation": "die große Pause (am Vormittag)",
+      "example": "On Friday, at 10.05, the bell rang for the morning break."
+    },
+    {
       "word": "mortify",
       "pos": "VERB",
       "translation": "beschämen („mortified“: zutiefst beschämt)",
@@ -19453,6 +19633,12 @@
       "example": "He dialled 999 on his own phone, gave their position as precisely as he could, and was told, by a calm young woman in Inverness, that the A9 had been closed at both ends twenty minutes earlier, that ploughs were on their way but could not promise to reach them before morning, and that, since nobody was injured and the lorry was warm, the best thing he could possibly do was stay exactly where he was."
     },
     {
+      "word": "on time",
+      "pos": "PHRASE",
+      "translation": "pünktlich",
+      "example": "Maxence arrived at 10.07, exactly on time, with Lucas and Romain behind him."
+    },
+    {
       "word": "on your own",
       "pos": "PHRASE",
       "translation": "allein, aus eigener Kraft",
@@ -20581,6 +20767,12 @@
       "example": "The new students were sorted in the courtyard, under a sky the colour of pewter, by a steward with a ledger."
     },
     {
+      "word": "phase",
+      "pos": "NOUN",
+      "translation": "die Phase",
+      "example": "Inès planned the whole thing the way she planned a raid in their online game: on a shared document, with phases, roles, timings and a section at the bottom called RISKS."
+    },
+    {
       "word": "philosophy",
       "pos": "NOUN",
       "translation": "die Philosophie",
@@ -20621,6 +20813,12 @@
       "pos": "NOUN",
       "translation": "die Fotografie",
       "example": "He found what he was looking for quickly: two books on the strikes of 1948 and a collection of old photographs."
+    },
+    {
+      "word": "photographer",
+      "pos": "NOUN",
+      "translation": "der Fotograf",
+      "example": "The photographer walked backwards in front of them, taking pictures."
     },
     {
       "word": "physical",
@@ -21914,6 +22112,12 @@
     },
     {
       "word": "push",
+      "pos": "NOUN",
+      "translation": "der Stoß",
+      "example": "He raised both hands for the second gesture, the push, aiming at Maxence's feet on the second step."
+    },
+    {
+      "word": "push",
       "pos": "VERB",
       "translation": "schieben, drücken",
       "example": "A cold wind came from the river and pushed the leaves along the street."
@@ -21989,6 +22193,12 @@
       "pos": "PHRASE",
       "translation": "ertragen, sich abfinden mit",
       "example": "But the Tanner brothers, who had claimed the alcoves on either side of his, seemed to have decided on the long journey north that anyone who could put up with Tamsin was all right by them; and Tamsin herself made it clear to the whole of Hearthside, within the first hour, that anyone who had a problem with Rowan Ashby could bring it to her."
+    },
+    {
+      "word": "puzzle",
+      "pos": "VERB",
+      "translation": "verwirren („puzzled“: verwirrt, ratlos)",
+      "example": "At first it was only a whisper, so quiet that a few people looked round, puzzled, as if they had heard someone breathing behind them."
     },
     {
       "word": "pyjamas",
@@ -22151,6 +22361,12 @@
       "pos": "ADJ",
       "translation": "ungleichmäßig, zerlumpt",
       "example": "Nineteen children stood in a ragged line before the Stone, scrubbed and combed and dressed in clothes that had clearly been borrowed for the occasion."
+    },
+    {
+      "word": "raid",
+      "pos": "NOUN",
+      "translation": "der Raid, der Überfall (Videospiel: Gruppenmission)",
+      "example": "Inès planned the whole thing the way she planned a raid in their online game."
     },
     {
       "word": "rail",
@@ -22642,6 +22858,12 @@
       "pos": "NOUN",
       "translation": "die Vorschrift",
       "example": "He began his walk-round check by torchlight, as the regulations required and as habit would have compelled him to do regardless: tyres, wheel nuts, lights, mirrors, the fifth-wheel coupling, the airlines and the suzies coiled behind the cab."
+    },
+    {
+      "word": "rehearse",
+      "pos": "VERB",
+      "translation": "proben, einüben",
+      "example": "They had rehearsed everything."
     },
     {
       "word": "Reid",
@@ -23274,6 +23496,12 @@
       "example": "Behind them, Thornhall rose up on its hill, all towers and living branches and a few lit windows, growing smaller with every step."
     },
     {
+      "word": "risk",
+      "pos": "NOUN",
+      "translation": "das Risiko",
+      "example": "A section at the bottom called RISKS that was longer than all the others put together."
+    },
+    {
       "word": "river",
       "pos": "NOUN",
       "translation": "der Fluss",
@@ -23578,6 +23806,18 @@
       "pos": "NOUN",
       "translation": "der Müll",
       "example": "At that moment, the blue door opened, and a young woman came out with a bag of rubbish."
+    },
+    {
+      "word": "rue",
+      "pos": "X",
+      "translation": "rue (französisch: „Straße“; „rue des Corons“)",
+      "example": "Bus shelter, rue des Corons."
+    },
+    {
+      "word": "rue des corons",
+      "pos": "PHRASE",
+      "translation": "die Rue des Corons (corons: Bergarbeiterhäuser in Nordfrankreich)",
+      "example": "Bus shelter, rue des Corons."
     },
     {
       "word": "rug",
@@ -26022,6 +26262,12 @@
       "example": "The paper itself seemed to relax; the waves smoothed out until the page lay flat."
     },
     {
+      "word": "smudge",
+      "pos": "VERB",
+      "translation": "verschmieren",
+      "example": "But this time the graphite was dark and shiny, and when Noé touched it with his fingertip, it smudged."
+    },
+    {
       "word": "snail",
       "pos": "NOUN",
       "translation": "die Schnecke",
@@ -26542,6 +26788,12 @@
       "pos": "PHRASE",
       "translation": "der Blitzer, die Radarfalle",
       "example": "They talked as drivers talk, which is to say mostly about other things — her mother's hip, his daughter's new kitchen, a mutual acquaintance who had finally been caught by a speed camera he had been boasting about evading for fifteen years."
+    },
+    {
+      "word": "spell",
+      "pos": "NOUN",
+      "translation": "der Zauber, der Zauberspruch",
+      "example": "It had been so strange and so intimate that he had stopped the spell almost immediately."
     },
     {
       "word": "spell",
@@ -28475,6 +28727,12 @@
       "example": "Everyone told him it was impossible, that a squire had no right to address His Majesty directly."
     },
     {
+      "word": "tell the difference",
+      "pos": "PHRASE",
+      "translation": "den Unterschied erkennen",
+      "example": "Or perhaps he was afraid of himself; it was hard to tell the difference."
+    },
+    {
       "word": "temper",
       "pos": "NOUN",
       "translation": "das Temperament („short temper“: aufbrausendes Wesen)",
@@ -29153,6 +29411,12 @@
       "example": "Rowan could hear the frost ticking on the panes."
     },
     {
+      "word": "ticket",
+      "pos": "NOUN",
+      "translation": "die Fahrkarte, das Ticket",
+      "example": "Noé smiled and opened the grimoire at a page he had marked with a bus ticket."
+    },
+    {
       "word": "tickle",
       "pos": "VERB",
       "translation": "kitzeln („tickle trout“: Forellen mit der Hand fangen)",
@@ -29265,6 +29529,12 @@
       "pos": "VERB",
       "translation": "zeitlich abstimmen („perfectly timed“: perfekt getimt)",
       "example": "But it was perfectly timed, and it landed exactly on the point of Jamal's chin."
+    },
+    {
+      "word": "timetable",
+      "pos": "NOUN",
+      "translation": "der Zeitplan, der Stundenplan",
+      "example": "Inès was upstairs, near the computer room, with her phone in her hand and the timetable of the official visit open on the screen."
     },
     {
       "word": "timing",
@@ -30305,6 +30575,12 @@
       "example": "That night, all of them came to the house on Ashley Road: Priya with a cake she had baked herself, which was slightly burnt on one side; Frank and Gaz, looking enormous and uncomfortable in the small front room; even Jamal, who brought a pair of new running shoes that he said he had won in a competition and did not need, although they were exactly Max's size."
     },
     {
+      "word": "uncomfortably",
+      "pos": "ADV",
+      "translation": "unbehaglich, verlegen",
+      "example": "Romain laughed, a little uncomfortably."
+    },
+    {
       "word": "under",
       "pos": "ADP",
       "translation": "unter",
@@ -30922,6 +31198,18 @@
       "example": "\"Maren Vell.\""
     },
     {
+      "word": "vend",
+      "pos": "VERB",
+      "translation": "verkaufen („vending machine“: Verkaufsautomat)",
+      "example": "Then, when Lucas went to buy a can from the vending machine, he leaned towards Romain."
+    },
+    {
+      "word": "vending machine",
+      "pos": "PHRASE",
+      "translation": "der Verkaufsautomat, der Getränkeautomat",
+      "example": "Then, when Lucas went to buy a can from the vending machine, he leaned towards Romain."
+    },
+    {
       "word": "verge",
       "pos": "NOUN",
       "translation": "der Straßenrand, das Bankett; der Rand („on the verge of“: kurz vor)",
@@ -31043,6 +31331,12 @@
     },
     {
       "word": "visit",
+      "pos": "NOUN",
+      "translation": "der Besuch",
+      "example": "Inès was upstairs, near the computer room, with her phone in her hand and the timetable of the official visit open on the screen."
+    },
+    {
+      "word": "visit",
       "pos": "VERB",
       "translation": "besuchen",
       "example": "Letters from village elders asking whether the Wood-boy might visit and bless their orchards."
@@ -31070,6 +31364,12 @@
       "pos": "NOUN",
       "translation": "die Lautstärke; das Volumen",
       "example": "\"It's not about volume,\" said Inès."
+    },
+    {
+      "word": "voter",
+      "pos": "NOUN",
+      "translation": "der Wähler",
+      "example": "A tall man with silver hair and his son's easy smile, shaking hands with the caretaker as if he were a voter."
     },
     {
       "word": "voucher",
@@ -32072,6 +32372,12 @@
       "pos": "VERB",
       "translation": "gewinnen",
       "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time. \"Strength is useless if you cannot control it.\""
+    },
+    {
+      "word": "wince",
+      "pos": "VERB",
+      "translation": "zusammenzucken, das Gesicht verziehen",
+      "example": "He talked about Madame Ferrand, and he used a word about her that made even Romain wince."
     },
     {
       "word": "Winchester",

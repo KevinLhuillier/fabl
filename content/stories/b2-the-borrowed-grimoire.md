@@ -263,3 +263,106 @@ Something cold and very clear settled in Noé's chest. It was not anger exactly.
 
 Inès looked at him for a long moment. He expected her to argue, to say something reasonable about teachers and complaints and proof. Instead, she slid her phone back into her pocket.
 "Then you'll need a plan," she said. "Count me in."
+
+# What the Walls Heard
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_1-1793189801883.mp3
+Inès planned the whole thing the way she planned a raid in their online game: on a shared document, with phases, roles, timings and a section at the bottom called RISKS that was longer than all the others put together.
+"The problem," she explained on Tuesday evening, sitting cross-legged on Noé's bed, "is that nobody can prove the video was posted by Maxence. The account is anonymous. Even if I could trace it, which I can't legally, the school would never act against the deputy mayor's son without a confession."
+"So we get a confession."
+"From Maxence? He'd rather die."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_2-1793189814417.mp3
+Noé smiled and opened the grimoire at a page he had marked with a bus ticket. It belonged to the second chapter, which was called Of the Memory of Places, and it had taken him three nights just to understand the introduction. The idea was simple, though. Places kept traces of what happened in them, the way a beach keeps footprints until the tide comes in. Most traces faded within minutes. But with the right gesture, a person could ask a place to give back what it had heard.
+Walls listen. Few people think to ask them what they heard.
+In the margin, the pencil had written just three words, and Noé had chosen not to think about them too much: Useful. Dangerous. Think.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_3-1793189827709.mp3
+He had practised on the kitchen. On Sunday morning, after his mother had left for work, he had made the gesture by the cooker and listened as the room gave back, faint and slightly metallic, the sound of her humming an old song while she made her coffee. It had been so strange and so intimate that he had stopped the spell almost immediately, feeling as though he had read her diary.
+Inès listened to all this with her chin in her hands.
+"Every day at the morning break," she said slowly, "Maxence stands at the bottom of the main staircase with Lucas and Romain. Every day. Like it's his office. And he talks. He talks about everyone."
+"And on Friday," said Noé, "his father is coming to open the new computer room. On the first floor. Up the main staircase."
+They looked at each other. Inès started typing.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_4-1793189841913.mp3
+They told Adam the next day, in the library at lunchtime. He listened without interrupting, turning his pencil round and round between his fingers. When they had finished, he was quiet for a long time.
+"I don't want to do it," he said at last.
+"Adam, he destroyed your—"
+"I know what he did. And we fixed it." He looked at Noé, and his expression was difficult to read. "The book mended my drawings. I don't want to use it to break something else. I don't want to become someone who enjoys that. That's his thing, not mine."
+"We're not breaking anything," said Inès. "We're just letting people hear the truth."
+Adam shrugged. "Then you don't need me." He picked up his bag. At the door of the library he hesitated, and Noé thought he was going to say something else. But he only said, "Be careful," and left.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_5-1793189850293.mp3
+They didn't tell Arthur at all. He had come back to school on Wednesday, with his hood up and his eyes on the floor, and every time someone whistled the music from the video, his shoulders went up a few centimetres. Noé told himself that they were doing this for him. It was a good reason. It was a much better reason than the cold, clear feeling in his chest, which hadn't gone away.
+On Friday, at 10.05, the bell rang for the morning break.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_6-1793189861222.mp3
+Noé was already sitting on the bottom step of the staircase, pretending to read a history textbook. He had eaten three bananas and a chocolate croissant, and he could feel his heart beating in his fingertips. Inès was upstairs, near the computer room, with her phone in her hand and the timetable of the official visit open on the screen. They had rehearsed everything. The deputy mayor would arrive at 10.15, with the headmistress, two journalists from the local paper and a photographer. They would climb the main staircase at about 10.20.
+Maxence arrived at 10.07, exactly on time, with Lucas and Romain behind him. He didn't even look at Noé. People like Maxence never looked at the bottom step.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_7-1793189874355.mp3
+And he talked. He talked about the video and how many views it had now, almost seven thousand. He talked about how he had posted it from his cousin's old phone so that nobody could trace it, and that even if they did, his dad would sort it out, because his dad always sorted things out. He talked about Madame Ferrand, and he used a word about her that made even Romain wince. Then, when Lucas went to buy a can from the vending machine, he leaned towards Romain and said, in a lower voice, that Lucas was so stupid he would laugh at a wall if you told him it was a joke, and that the only reason he hung around with him was that Lucas's brother could get them into clubs in Lille.
+Romain laughed, a little uncomfortably. On the bottom step, Noé turned a page of his textbook without reading a single word.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_8-1793189887844.mp3
+At 10.19, his phone vibrated once. Inès: They're coming in.
+The deputy mayor came through the main doors first, a tall man with silver hair and his son's easy smile, shaking hands with the caretaker as if he were a voter. The headmistress walked beside him, talking about the importance of digital skills. The photographer walked backwards in front of them, taking pictures. Behind them, a crowd of curious students had gathered, as they always did when anything unusual happened at Lycée Émile-Zola, which was almost never.
+Maxence straightened his jacket and stepped forward to greet his father.
+Noé closed his textbook, put his palm flat against the cold stone of the bottom step, emptied his head of everything except the wall, and spoke the words.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_9-1793189902056.mp3
+At first it was only a whisper, so quiet that a few people looked round, puzzled, as if they had heard someone breathing behind them. Then Noé pushed harder, and the staircase began to speak. The stairwell was tall and bare, made of stone and old tiles, and it carried sound like the inside of a church. Maxence's voice came out of the walls, clear and confident, as if he were standing in five places at once.
+"...posted it from my cousin's old phone, so nobody can trace it. And even if they do, my dad'll sort it out. He always does..."
+The headmistress stopped walking. The photographer lowered his camera. The deputy mayor's smile stayed on his face, but it seemed to have been left there by mistake, like a coat someone had forgotten to take home.
+Maxence went completely white.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_10-1793189911878.mp3
+The walls went on. They gave back the word about Madame Ferrand, and there was a gasp from the crowd. They gave back the sound of Romain's uncomfortable laugh. And then, so clearly that nobody could possibly mistake it, they gave back what Maxence had said about Lucas: that he was stupid enough to laugh at a wall, and that he was only useful because of his brother.
+Lucas was standing by the vending machine, his can of cola halfway to his mouth. Very slowly, he put it down.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_11-1793189925610.mp3
+That should have been enough. Noé knew it, even then; afterwards, he would remember knowing it. The plan said: stop the spell, walk away, let it happen. But the cold, clear thing in his chest had grown during the last few minutes, and it wanted more. It wanted Maxence on the floor, the way the sketchbook had been on the floor. Noé was dizzy now, and his hands were trembling, and the stamina bar in his head was flashing red. He ignored it. He raised both hands for the second gesture, the push, aiming at Maxence's feet on the second step, just enough to make him slip in front of the camera.
+At that exact moment, Lucas pushed through the crowd towards Maxence, his face twisted with fury, and climbed the first three steps to reach him.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_12-1793189935389.mp3
+Noé's focus slipped. He felt it go, like a rope burning through his hands. The push didn't hit Maxence's feet. It hit the space beside them, where Lucas had just put his foot, and it hit it far harder than Noé had intended, with all the strength he no longer had.
+Lucas's leg went out from under him. He fell backwards down the stairs, all the way to the bottom, and landed on his arm with a sound that Noé would hear in his sleep for weeks.
+Then everyone was shouting at once.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_13-1793189950415.mp3
+The ambulance came twenty minutes later. Lucas's wrist was broken in two places. Nobody looked at the boy sitting on the bottom step with his head between his knees, who was so exhausted he could barely stand; there was far too much else to look at. The local paper's photographer, who had come to take pictures of a computer room, took pictures of an ambulance instead. Maxence was taken into the headmistress's office with his father. Romain disappeared. The computer room was not opened that day.
+"It wasn't your fault," Inès kept saying that afternoon, walking him home because he couldn't walk straight on his own. "He ran at Maxence. It was an accident. Nobody could have known."
+Noé didn't answer. He knew exactly whose fault it was. The plan had said stop, and he hadn't stopped.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_4.page_14-1793189966804.mp3
+That evening, he didn't eat. He didn't practise. He sat at his desk with the grimoire closed in front of him, and for the first time since he had found it, he was afraid of it. Or perhaps he was afraid of himself; it was hard to tell the difference.
+At around midnight, he finally opened it, meaning to look at the page about the push again, to understand what had gone wrong. But the book fell open by itself at the first page, at the drawing of the eye and the inscription he knew by heart.
+Under the inscription, there was something new.
+It was written in pencil, in the same cramped, sloping handwriting as all the notes in the margins. But this time the graphite was dark and shiny, and when Noé touched it with his fingertip, it smudged. It had been written that day.
+That is not what it is for. Bus shelter, rue des Corons. Tomorrow, 7 a.m. Come alone, and eat breakfast first.
