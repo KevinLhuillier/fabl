@@ -468,3 +468,118 @@ Rosalind laughed through her tears, a wet, ugly, wonderful laugh. "You don't hav
 > I'm not allowed to tell you that you won't need it. Rule two.
 > So I'll just say: I hope you won't.
 > — R.
+
+# Clues
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_1-1793202649262.mp3
+Rehearsals began on Monday, in the living room at Hallgarth Street, and they were a disaster. Ines sat on the sofa with a bag of salt and vinegar crisps, exactly as she had promised, and Rosalind stood in front of the television with her notes in her hand. She had chosen a poem by Emily Brontë, "No Coward Soul Is Mine", partly because she loved it and partly because the title felt like a joke at her own expense. She opened her mouth. She said, "So." And then nothing else came out for almost a full minute.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_2-1793202660933.mp3
+Ines did not laugh. She ate a crisp, very loudly, and said, "Again." So Rosalind started again. On Tuesday, she managed two minutes before her voice disappeared. On Wednesday, four. On Thursday, after pasta night, she spoke for seven minutes, and when she lost her place, Ines threw a crisp at her and shouted, "Continue! The audience is bored!" and somehow that made it easier. By the end of the week, Rosalind could almost get to the end. Almost. Her hands still shook. Her voice still wobbled on the long words. But it was there.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_3-1793202676252.mp3
+On Wednesday, after a lecture, Callum asked her how the preparation was going. "Ines throws crisps at me," she said, and he laughed so loudly that people turned round. "Brilliant. That's a proper training method. Olympic level." He offered to come and be a second audience member, "for realism", and Rosalind said no so quickly that he raised his hands as if she had pointed a weapon at him. "Fair enough," he said. "But if you need a heckler, I'm very good. I've got three sisters." Femi, who was walking with them, said nothing. But the next day he slid a piece of paper across the desk in the lecture. It was a tiny drawing of a girl with red hair standing on a table and roaring like a lion, while a crowd of very small people ran away. Underneath, he had written: "Week 7." Rosalind put it inside the cover of the green notebook and did not tell anybody.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_4-1793202687310.mp3
+Every night she reported to R., and every night R. answered with something useful: breathe before the first sentence, not after; look at one friendly face, not at the whole room; if you forget, read the line from the poem, because the poem is always on your side. The advice was practical and calm, like the advice of an older sister. But it was on Friday night, when she was tired and a little sad, that the first strange thing happened.
+
+> I'm so tired tonight. I feel thin, like paper. Like something that the first strong wind will carry away.
+> Sorry. That's very dramatic. I'm just tired.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_5-1793202694958.mp3
+> Like the yellow kite on Great Whernside?
+> You let it go on purpose, you know. You were seven. Everyone thought the wind had pulled the string out of your hand, and Grandad bought you a new one at the shop in Grassington. But you opened your fingers yourself. You wanted to see how far it could go without anybody holding it.
+> It went very far, Ros. Further than you could see.
+> You can too.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_6-1793202705208.mp3
+Rosalind dropped the pen. It rolled across the desk and fell on the floor, and she did not pick it up. She sat very still, staring at the green words, while a cold feeling spread from her stomach to her fingers. The kite. She had not thought about the kite in years. It had been a bright day in April, on the big hill above the village, with the wind roaring in her ears and Grandad Alf laughing behind her. And she had let go. On purpose. She had watched it climb and shrink until it was a yellow dot, then nothing, and she had felt free and guilty at the same time.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_7-1793202715237.mp3
+She had never told anyone. Not her mum, not Grandad, not her best friend at primary school. She had never written it in any diary. It was one of those tiny secrets that a child keeps not because it is terrible, but because it is hers. And now it was here, in green ink, in a notebook she had bought for four pounds from a shop that opened "when it felt like it". Her hands were cold. She picked up the pen from the floor and wrote with letters that did not look quite like her own.
+
+> How do you know about the kite?
+> Nobody knows about the kite.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_8-1793202728222.mp3
+> Rule one, Ros. I'm sorry. I shouldn't have said it. I wasn't careful.
+> Go to bed. Chin up, kettle on. Things look better in the morning.
+> — R.
+
+"Chin up, kettle on." Rosalind read it and felt as if the floor had moved. It was Grandad Alf's expression. He had said it every time she fell off her bike, every time she failed a test, every time the rain ruined a day out. "Chin up, kettle on, pet." He had said it on the last day she saw him, from his hospital bed, with a weak smile. It was not a common phrase. She had never heard anybody else use it. She had never written it down, not once, not anywhere.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_9-1793202736882.mp3
+She did not sleep well that night. In the morning she sat at the kitchen table with a cup of tea she did not drink and tried to think like a detective. Who could possibly know these things? Somebody from Kettlewell? But nobody from Kettlewell knew about the kite. Somebody who had read her old diaries? But the kite was not in her old diaries. Somebody who could see inside her head? That was impossible. And then Ines came downstairs in her dressing gown, singing, and a terrible idea arrived.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_10-1793202746942.mp3
+Ines lived on the other side of a very thin wall. Ines heard everything: the shower, the music, the creaking wardrobe. What if Rosalind talked in her sleep? What if she had said things in the night, things about kites and Grandad and Kettlewell, and Ines had heard them? Ines was kind, but Ines was also curious, and bored, and very good at secrets... no, Ines was terrible at secrets. And yet. Who else spent every evening in the same house? Who else had known, before Rosalind herself, that Ines was lonely?
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_11-1793202756145.mp3
+The thought made her feel sick and ashamed at the same time. But she was the sensible one, the one who made experiments. So that afternoon she walked to the cheap shop on the high street and bought a small metal cash box with a key. Back in her room, she wrote a short entry in the notebook, put the notebook inside the box, locked it, and hung the key around her neck on a piece of string. Then she knocked on Ines's door. "Do you want to go to The Lantern?" she asked. "Now. With me." Ines's face lit up like a Christmas tree.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_12-1793202772746.mp3
+At the café, Ines talked about Lyon and her brother and a film she wanted to see, and Rosalind listened with half her mind while the other half counted the minutes. Then, in the middle of a sentence, Ines stopped and looked at her across the table with narrowed eyes. "You have changed," she said. "These last weeks. You are different. You talk more. You go out. Sometimes I hear you laugh alone in your room." She leaned forward. "Tell me the truth. You have a secret, no? A boy who writes to you?" Rosalind almost choked on her tea. "No," she said, and then, because of rule four, even though Ines was not R., she added: "Not a boy. It's... complicated." Ines sat back, satisfied, as if this proved everything. "Complicated is the best kind," she said. "When you want to tell me, I am here." And she went back to talking about the film, and did not ask again.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_13-1793202786200.mp3
+They stayed at the café for two hours. Ines never left Rosalind's sight, not even once; she did not go to the toilet, she did not touch her phone except to show Rosalind a video of her grandmother's cat. Rosalind felt like a spy and a traitor. When they got home, she ran upstairs, unlocked the box with shaking fingers and opened the notebook. Under her short entry, which said only, "Testing. Are you there?", the green ink was waiting.
+
+> I'm here. I'm always here.
+> I'm not Ines, Ros. She couldn't keep a secret this big for more than ten minutes, and you know it. She'd have told you on the first pasta night, crying into the parmesan.
+> A cash box, though. Very clever. Grandad would have liked that.
+> Did you enjoy the coffee?
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_14-1793202801301.mp3
+Rosalind sat down on the bed with the notebook on her knees. She felt relieved, because Ines was Ines and not a spy. She felt guilty, because she had suspected her. And she felt something else too, something she could not quite name. Every answer R. gave seemed to open another question. She turned to the very last page of the notebook, where nobody would look, and made a list, the way she did when she revised for exams.
+
+> WHAT I KNOW ABOUT R.
+> — knows Kettlewell, the shop, the slanted ceiling, Mum's shepherd's pie
+> — knew Grandad (or knows his words)
+> — knows the kite (NOBODY knows the kite)
+> — knew Ines was lonely before I did
+> — gets angry when I want to give up
+> — "has more to lose than I think"
+> — is not Ines
+> — is not a ghost (says so)
+> Who knows me better than I know myself?
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_15-1793202810622.mp3
+She looked at the last question for a long time. It seemed important, and also slightly ridiculous, like a line from a bad song. Then she closed the notebook and went downstairs, where Ines was making hot chocolate and talking to her grandmother on the phone in very fast French. Rosalind made two pieces of toast, put one on a plate in front of Ines, and sat down next to her without a word. Ines, still talking, squeezed her arm. It was, Rosalind thought, a kind of apology, even if only one of them knew it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_5.page_16-1793202818686.mp3
+That night, when she opened the notebook to say goodnight, she found a short message waiting for her. It had been written under her list, on the last page, the page she had thought was private. She went red, even though she was alone.
+
+> Good list. You'd make a decent detective.
+> But stop investigating me and start practising. Week seven is in two weeks, and Emily Brontë deserves better than "So."
+> — R.

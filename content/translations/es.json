@@ -1677,6 +1677,12 @@
       "example": "At first, nobody listened to him."
     },
     {
+      "word": "at her own expense",
+      "pos": "PHRASE",
+      "translation": "a su costa",
+      "example": "Partly because the title felt like a joke at her own expense."
+    },
+    {
       "word": "at intervals",
       "pos": "PHRASE",
       "translation": "a intervalos, de vez en cuando",
@@ -3828,6 +3834,12 @@
       "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
     },
     {
+      "word": "Brontë",
+      "pos": "PROPN",
+      "translation": "Brontë («Emily Brontë»: novelista y poetisa inglesa, 1818-1848)",
+      "example": "She had chosen a poem by Emily Brontë, \"No Coward Soul Is Mine\"."
+    },
+    {
       "word": "bronze",
       "pos": "NOUN",
       "translation": "el bronce",
@@ -4728,6 +4740,12 @@
       "example": "He paused. \"Cash.\""
     },
     {
+      "word": "cash box",
+      "pos": "PHRASE",
+      "translation": "la caja de caudales, la caja para dinero",
+      "example": "She walked to the cheap shop on the high street and bought a small metal cash box with a key."
+    },
+    {
       "word": "casing",
       "pos": "NOUN",
       "translation": "la carcasa",
@@ -5292,6 +5310,12 @@
       "example": "I pressed my head against her chin and purred as loudly as I could."
     },
     {
+      "word": "chin up",
+      "pos": "PHRASE",
+      "translation": "ánimo, cabeza alta («chin up»: levanta la barbilla)",
+      "example": "Go to bed. Chin up, kettle on. Things look better in the morning."
+    },
+    {
       "word": "chink",
       "pos": "NOUN",
       "translation": "el tintineo (de monedas)",
@@ -5398,6 +5422,12 @@
       "pos": "PHRASE",
       "translation": "la Nochebuena",
       "example": "Please can you make the church clock ring again on Christmas Eve?"
+    },
+    {
+      "word": "christmas tree",
+      "pos": "PHRASE",
+      "translation": "el árbol de Navidad",
+      "example": "Ines's face lit up like a Christmas tree."
     },
     {
       "word": "chuckle",
@@ -7698,6 +7728,12 @@
       "example": "On Saturday he had a day off, and Lily dragged him into town to buy a birthday present for one of her friends."
     },
     {
+      "word": "day out",
+      "pos": "PHRASE",
+      "translation": "la excursión, el día de paseo",
+      "example": "Every time the rain ruined a day out."
+    },
+    {
       "word": "daylight",
       "pos": "NOUN",
       "translation": "la luz del día",
@@ -7762,6 +7798,12 @@
       "pos": "PROPN",
       "translation": "diciembre",
       "example": "When you were three weeks old, the bay tree on our windowsill put out a flower in December, and I sat up all night and cried, and your father thought I had gone mad."
+    },
+    {
+      "word": "decent",
+      "pos": "ADJ",
+      "translation": "decente, bastante bueno",
+      "example": "Good list. You'd make a decent detective."
     },
     {
       "word": "decide",
@@ -9540,6 +9582,12 @@
       "example": "At Lycée Émile-Zola, the four of them had a table."
     },
     {
+      "word": "Emily",
+      "pos": "PROPN",
+      "translation": "Emily (nombre; «Emily Brontë»: novelista y poetisa inglesa)",
+      "example": "She had chosen a poem by Emily Brontë, \"No Coward Soul Is Mine\"."
+    },
+    {
       "word": "empty",
       "pos": "ADJ",
       "translation": "vacío",
@@ -10102,6 +10150,12 @@
       "example": "The noise died away to a murmur, and then to an expectant, unpleasant hush."
     },
     {
+      "word": "expense",
+      "pos": "NOUN",
+      "translation": "el gasto («at sb's expense»: a costa de alguien)",
+      "example": "Partly because the title felt like a joke at her own expense."
+    },
+    {
       "word": "expensive",
       "pos": "ADJ",
       "translation": "caro",
@@ -10298,6 +10352,12 @@
       "pos": "ADJ",
       "translation": "rubio ; justo",
       "example": "She was a year or two older than him, tall and fair, with the kind of poise that made the shabby school robe she wore look as if it had been made for her by a tailor."
+    },
+    {
+      "word": "fair enough",
+      "pos": "PHRASE",
+      "translation": "vale, es justo, me parece bien",
+      "example": "\"Fair enough,\" he said. \"But if you need a heckler, I'm very good.\""
     },
     {
       "word": "fairground",
@@ -13185,6 +13245,12 @@
       "example": "Goodnight, Mrs Penrose."
     },
     {
+      "word": "goodnight",
+      "pos": "NOUN",
+      "translation": "buenas noches («say goodnight»: dar las buenas noches)",
+      "example": "That night, when she opened the notebook to say goodnight, she found a short message waiting for her."
+    },
+    {
       "word": "goose",
       "pos": "NOUN",
       "translation": "el ganso, la oca (plural: geese)",
@@ -13339,6 +13405,12 @@
       "pos": "NOUN",
       "translation": "la hierba",
       "example": "The grass is green. — La hierba es verde."
+    },
+    {
+      "word": "Grassington",
+      "pos": "PROPN",
+      "translation": "Grassington (pueblo de Yorkshire)",
+      "example": "Grandad bought you a new one at the shop in Grassington."
     },
     {
       "word": "grateful",
@@ -13639,6 +13711,12 @@
       "pos": "VERB",
       "translation": "guiar",
       "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
+    },
+    {
+      "word": "guilty",
+      "pos": "ADJ",
+      "translation": "culpable",
+      "example": "She had felt free and guilty at the same time."
     },
     {
       "word": "guitar",
@@ -14448,6 +14526,12 @@
       "pos": "PHRASE",
       "translation": "el saco de boxeo",
       "example": "There were two rings, a row of heavy bags hanging from chains, faded posters of fighters from the 1980s and a hand-painted sign above the door that said: NOBODY IS BORN TOUGH."
+    },
+    {
+      "word": "heckler",
+      "pos": "NOUN",
+      "translation": "el alborotador (que interrumpe a un orador para molestarlo)",
+      "example": "\"But if you need a heckler, I'm very good. I've got three sisters.\""
     },
     {
       "word": "hedge",
@@ -16306,6 +16390,12 @@
       "example": "She drove for a supermarket chain now, chilled goods out of a depot near Wakefield, and was on her way to a distribution centre outside Inverness."
     },
     {
+      "word": "investigate",
+      "pos": "VERB",
+      "translation": "investigar",
+      "example": "But stop investigating me and start practising."
+    },
+    {
       "word": "invisible",
       "pos": "ADJ",
       "translation": "invisible",
@@ -16678,6 +16768,12 @@
       "example": "It is also where I keep my secrets."
     },
     {
+      "word": "keep a secret",
+      "pos": "PHRASE",
+      "translation": "guardar un secreto",
+      "example": "She couldn't keep a secret this big for more than ten minutes, and you know it."
+    },
+    {
       "word": "keep going",
       "pos": "PHRASE",
       "translation": "seguir adelante, aguantar",
@@ -16760,6 +16856,12 @@
       "pos": "NOUN",
       "translation": "la tetera, el hervidor",
       "example": "The rain drummed on the slate roof and the camping stove hissed under Solange's kettle."
+    },
+    {
+      "word": "kettle on",
+      "pos": "PHRASE",
+      "translation": "pon el agua a hervir («put the kettle on»: preparar un té)",
+      "example": "Go to bed. Chin up, kettle on. Things look better in the morning."
     },
     {
       "word": "Kettlewell",
@@ -19244,6 +19346,12 @@
       "example": "Down below, somewhere in the dark, they heard a tiny metallic sound."
     },
     {
+      "word": "method",
+      "pos": "NOUN",
+      "translation": "el método",
+      "example": "\"Brilliant. That's a proper training method. Olympic level.\""
+    },
+    {
       "word": "metre",
       "pos": "NOUN",
       "translation": "el metro",
@@ -20468,6 +20576,12 @@
       "example": "In her palm there was a tiny piece of shining metal, no bigger than a fingernail."
     },
     {
+      "word": "no coward soul is mine",
+      "pos": "PHRASE",
+      "translation": "«Mi alma no es cobarde» (poema de Emily Brontë, 1846)",
+      "example": "She had chosen a poem by Emily Brontë, \"No Coward Soul Is Mine\"."
+    },
+    {
       "word": "no doubt",
       "pos": "PHRASE",
       "translation": "sin duda",
@@ -21090,6 +21204,12 @@
       "pos": "PROPN",
       "translation": "Oliver (nombre)",
       "example": "The second was from Oliver Grant, who wanted a new bike and, if possible, a different little brother, \"one who doesn't bite\"."
+    },
+    {
+      "word": "olympic",
+      "pos": "ADJ",
+      "translation": "olímpico",
+      "example": "\"Brilliant. That's a proper training method. Olympic level.\""
     },
     {
       "word": "ominous",
@@ -22009,6 +22129,12 @@
       "example": "Isla, revived by warmth and a cup of tea from his flask, turned out to be a retired schoolteacher with an encyclopaedic knowledge of Gaelic place names and very decided opinions about the Scottish Parliament."
     },
     {
+      "word": "parmesan",
+      "pos": "NOUN",
+      "translation": "el parmesano",
+      "example": "She'd have told you on the first pasta night, crying into the parmesan."
+    },
+    {
       "word": "part",
       "pos": "NOUN",
       "translation": "la parte («take part»: participar)",
@@ -22499,6 +22625,12 @@
       "pos": "NOUN",
       "translation": "el fotógrafo",
       "example": "The photographer walked backwards in front of them, taking pictures."
+    },
+    {
+      "word": "phrase",
+      "pos": "NOUN",
+      "translation": "la expresión, la frase",
+      "example": "It was not a common phrase. She had never heard anybody else use it."
     },
     {
       "word": "physical",
@@ -23293,6 +23425,12 @@
       "example": "\"Power cut,\" said Ruth, who had come to help, holding a candle."
     },
     {
+      "word": "practical",
+      "pos": "ADJ",
+      "translation": "práctico",
+      "example": "The advice was practical and calm, like the advice of an older sister."
+    },
+    {
       "word": "practically",
       "pos": "ADV",
       "translation": "prácticamente",
@@ -23375,6 +23513,12 @@
       "pos": "VERB",
       "translation": "preferir",
       "example": "She said it quietly, almost reluctantly, as though it were a fact she would have preferred not to know."
+    },
+    {
+      "word": "preparation",
+      "pos": "NOUN",
+      "translation": "la preparación",
+      "example": "On Wednesday, after a lecture, Callum asked her how the preparation was going."
     },
     {
       "word": "prepare",
@@ -23525,6 +23669,12 @@
       "pos": "NOUN",
       "translation": "el prisionero",
       "example": "When the fighting was over, the villagers dragged one of the prisoners into the light of the fire."
+    },
+    {
+      "word": "private",
+      "pos": "ADJ",
+      "translation": "privado, personal",
+      "example": "It had been written under her list, on the last page, the page she had thought was private."
     },
     {
       "word": "Priya",
@@ -24432,6 +24582,12 @@
       "example": "He realised that he was no longer afraid of fighting."
     },
     {
+      "word": "realism",
+      "pos": "NOUN",
+      "translation": "el realismo",
+      "example": "He offered to come and be a second audience member, \"for realism\"."
+    },
+    {
       "word": "realist",
       "pos": "NOUN",
       "translation": "el realista, la realista",
@@ -25192,6 +25348,12 @@
       "pos": "PHRASE",
       "translation": "dar marcha atrás hasta",
       "example": "Gideon reversed the Duchess up to the loading bay at a quarter past eleven, some seventeen hours late, and felt neither triumph nor embarrassment, only a vast and peaceable fatigue."
+    },
+    {
+      "word": "revise",
+      "pos": "VERB",
+      "translation": "repasar, estudiar ; revisar",
+      "example": "And made a list, the way she did when she revised for exams."
     },
     {
       "word": "revive",
@@ -26044,6 +26206,12 @@
       "pos": "NOUN",
       "translation": "la sal",
       "example": "One evening at dinner, when Lily reached across the table quickly for the salt, his head moved to one side before he could stop it, and his hands came up."
+    },
+    {
+      "word": "salt and vinegar",
+      "pos": "PHRASE",
+      "translation": "sal y vinagre («salt and vinegar crisps»: patatas fritas de sal y vinagre)",
+      "example": "Ines sat on the sofa with a bag of salt and vinegar crisps."
     },
     {
       "word": "saltire",
@@ -27582,6 +27750,12 @@
       "example": "Master Grey sighed the sigh of a man who had lost an argument before it had begun."
     },
     {
+      "word": "sight",
+      "pos": "NOUN",
+      "translation": "la vista («leave sb's sight»: perderse de vista)",
+      "example": "Ines never left Rosalind's sight, not even once."
+    },
+    {
       "word": "sign",
       "pos": "NOUN",
       "translation": "la señal, el signo",
@@ -27772,6 +27946,12 @@
       "pos": "PHRASE",
       "translation": "sentarse enfrente («sit across from»: frente a)",
       "example": "He sat across from her with his arms folded and waited, the way he would wait out a storm."
+    },
+    {
+      "word": "sit back",
+      "pos": "PHRASE",
+      "translation": "recostarse, echarse hacia atrás",
+      "example": "Ines sat back, satisfied, as if this proved everything."
     },
     {
       "word": "sit down",
@@ -28708,6 +28888,12 @@
       "pos": "PHRASE",
       "translation": "resolver, arreglar",
       "example": "Somebody will sort it out eventually.\""
+    },
+    {
+      "word": "soul",
+      "pos": "NOUN",
+      "translation": "el alma",
+      "example": "She had chosen a poem by Emily Brontë, \"No Coward Soul Is Mine\"."
     },
     {
       "word": "sound",
@@ -31919,6 +32105,12 @@
       "example": "They go home together. — Vuelven juntos a casa."
     },
     {
+      "word": "toilet",
+      "pos": "NOUN",
+      "translation": "el baño, el aseo",
+      "example": "She did not go to the toilet, she did not touch her phone."
+    },
+    {
       "word": "toll",
       "pos": "NOUN",
       "translation": "el peaje",
@@ -32259,6 +32451,12 @@
       "pos": "PHRASE",
       "translation": "el maniquí de entrenamiento",
       "example": "In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult."
+    },
+    {
+      "word": "traitor",
+      "pos": "NOUN",
+      "translation": "el traidor, la traidora",
+      "example": "Rosalind felt like a spy and a traitor."
     },
     {
       "word": "transform",
@@ -33664,6 +33862,12 @@
       "example": "When Edwin arrived at Little Fenwick, the villagers were already packing their belongings, ready to flee into the forest."
     },
     {
+      "word": "vinegar",
+      "pos": "NOUN",
+      "translation": "el vinagre",
+      "example": "Ines sat on the sofa with a bag of salt and vinegar crisps."
+    },
+    {
       "word": "violently",
       "pos": "ADV",
       "translation": "violentamente",
@@ -34532,6 +34736,12 @@
       "pos": "SCONJ",
       "translation": "dondequiera que",
       "example": "All my love, always, wherever I am —"
+    },
+    {
+      "word": "Whernside",
+      "pos": "PROPN",
+      "translation": "Whernside («Great Whernside»: colina de los Yorkshire Dales)",
+      "example": "Like the yellow kite on Great Whernside?"
     },
     {
       "word": "whether",

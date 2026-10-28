@@ -298,6 +298,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "bored",
+      "pos": "VERB",
+      "word": "bored",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "box",
       "pos": "PROPN",
       "word": "box",
@@ -383,6 +389,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Brilliant",
+      "pos": "PROPN",
+      "word": "brilliant",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "bristling",
       "pos": "NOUN",
       "word": "bristling",
@@ -463,6 +475,12 @@
       "pos": "NOUN",
       "next": "was",
       "word": "change",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Chin",
+      "pos": "PROPN",
+      "word": "chin",
       "lemmaPos": "NOUN"
     },
     {
@@ -594,6 +612,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Complicated",
+      "pos": "PROPN",
+      "word": "complicated",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "confetti",
       "pos": "PROPN",
       "word": "confetti",
@@ -619,6 +643,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Coward",
+      "pos": "PROPN",
+      "word": "coward",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "cramped",
       "pos": "VERB",
       "word": "cramped",
@@ -636,6 +666,12 @@
       "next": "into",
       "word": "creep",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "crisp",
+      "pos": "ADJ",
+      "word": "crisp",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "crooked",
@@ -1668,6 +1704,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "kettle",
+      "pos": "VERB",
+      "word": "kettle",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "key",
       "pos": "ADJ",
       "next": "sleeps",
@@ -2057,6 +2099,12 @@
     {
       "text": "mine",
       "pos": "NOUN",
+      "word": "mine",
+      "lemmaPos": "PRON"
+    },
+    {
+      "text": "Mine",
+      "pos": "ADJ",
       "word": "mine",
       "lemmaPos": "PRON"
     },
@@ -2776,6 +2824,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "relieved",
+      "pos": "VERB",
+      "word": "relieved",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "relit",
       "pos": "VERB",
       "word": "relight",
@@ -3281,6 +3335,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Soul",
+      "pos": "PROPN",
+      "word": "soul",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "southern",
       "pos": "PROPN",
       "word": "southern",
@@ -3309,6 +3369,12 @@
       "text": "spinning",
       "pos": "NOUN",
       "word": "spin",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "spread",
+      "pos": "NOUN",
+      "word": "spread",
       "lemmaPos": "VERB"
     },
     {
@@ -3602,6 +3668,12 @@
       "pos": "PROPN",
       "word": "test",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Testing",
+      "pos": "PROPN",
+      "word": "test",
+      "lemmaPos": "VERB"
     },
     {
       "text": "texted",
@@ -3958,6 +4030,12 @@
       "pos": "PROPN",
       "word": "Wednesday",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Week",
+      "pos": "PROPN",
+      "word": "week",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Well",

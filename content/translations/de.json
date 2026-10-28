@@ -1677,6 +1677,12 @@
       "example": "At first, nobody listened to him."
     },
     {
+      "word": "at her own expense",
+      "pos": "PHRASE",
+      "translation": "auf ihre eigenen Kosten",
+      "example": "Partly because the title felt like a joke at her own expense."
+    },
+    {
       "word": "at intervals",
       "pos": "PHRASE",
       "translation": "in Abständen, ab und zu",
@@ -3828,6 +3834,12 @@
       "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
     },
     {
+      "word": "Brontë",
+      "pos": "PROPN",
+      "translation": "Brontë („Emily Brontë“: englische Schriftstellerin und Dichterin, 1818–1848)",
+      "example": "She had chosen a poem by Emily Brontë, \"No Coward Soul Is Mine\"."
+    },
+    {
       "word": "bronze",
       "pos": "NOUN",
       "translation": "die Bronze",
@@ -4728,6 +4740,12 @@
       "example": "He paused. \"Cash.\""
     },
     {
+      "word": "cash box",
+      "pos": "PHRASE",
+      "translation": "die Geldkassette",
+      "example": "She walked to the cheap shop on the high street and bought a small metal cash box with a key."
+    },
+    {
       "word": "casing",
       "pos": "NOUN",
       "translation": "das Gehäuse",
@@ -5292,6 +5310,12 @@
       "example": "I pressed my head against her chin and purred as loudly as I could."
     },
     {
+      "word": "chin up",
+      "pos": "PHRASE",
+      "translation": "Kopf hoch („chin up“: Kinn hoch)",
+      "example": "Go to bed. Chin up, kettle on. Things look better in the morning."
+    },
+    {
       "word": "chink",
       "pos": "NOUN",
       "translation": "das Klimpern, das Klirren (von Münzen)",
@@ -5398,6 +5422,12 @@
       "pos": "PHRASE",
       "translation": "der Heiligabend",
       "example": "Please can you make the church clock ring again on Christmas Eve?"
+    },
+    {
+      "word": "christmas tree",
+      "pos": "PHRASE",
+      "translation": "der Weihnachtsbaum, der Christbaum",
+      "example": "Ines's face lit up like a Christmas tree."
     },
     {
       "word": "chuckle",
@@ -7698,6 +7728,12 @@
       "example": "On Saturday he had a day off, and Lily dragged him into town to buy a birthday present for one of her friends."
     },
     {
+      "word": "day out",
+      "pos": "PHRASE",
+      "translation": "der Ausflug, der Tagesausflug",
+      "example": "Every time the rain ruined a day out."
+    },
+    {
       "word": "daylight",
       "pos": "NOUN",
       "translation": "das Tageslicht",
@@ -7762,6 +7798,12 @@
       "pos": "PROPN",
       "translation": "Dezember",
       "example": "When you were three weeks old, the bay tree on our windowsill put out a flower in December, and I sat up all night and cried, and your father thought I had gone mad."
+    },
+    {
+      "word": "decent",
+      "pos": "ADJ",
+      "translation": "anständig, ganz ordentlich",
+      "example": "Good list. You'd make a decent detective."
     },
     {
       "word": "decide",
@@ -9540,6 +9582,12 @@
       "example": "At Lycée Émile-Zola, the four of them had a table."
     },
     {
+      "word": "Emily",
+      "pos": "PROPN",
+      "translation": "Emily (Vorname; „Emily Brontë“: englische Schriftstellerin und Dichterin)",
+      "example": "She had chosen a poem by Emily Brontë, \"No Coward Soul Is Mine\"."
+    },
+    {
       "word": "empty",
       "pos": "ADJ",
       "translation": "leer",
@@ -10102,6 +10150,12 @@
       "example": "The noise died away to a murmur, and then to an expectant, unpleasant hush."
     },
     {
+      "word": "expense",
+      "pos": "NOUN",
+      "translation": "die Ausgabe, die Kosten („at sb's expense“: auf jemandes Kosten)",
+      "example": "Partly because the title felt like a joke at her own expense."
+    },
+    {
       "word": "expensive",
       "pos": "ADJ",
       "translation": "teuer",
@@ -10298,6 +10352,12 @@
       "pos": "ADJ",
       "translation": "blond ; gerecht",
       "example": "She was a year or two older than him, tall and fair, with the kind of poise that made the shabby school robe she wore look as if it had been made for her by a tailor."
+    },
+    {
+      "word": "fair enough",
+      "pos": "PHRASE",
+      "translation": "na gut, fair genug, verständlich",
+      "example": "\"Fair enough,\" he said. \"But if you need a heckler, I'm very good.\""
     },
     {
       "word": "fairground",
@@ -13185,6 +13245,12 @@
       "example": "Goodnight, Mrs Penrose."
     },
     {
+      "word": "goodnight",
+      "pos": "NOUN",
+      "translation": "gute Nacht („say goodnight“: gute Nacht sagen)",
+      "example": "That night, when she opened the notebook to say goodnight, she found a short message waiting for her."
+    },
+    {
       "word": "goose",
       "pos": "NOUN",
       "translation": "die Gans (Plural: geese)",
@@ -13339,6 +13405,12 @@
       "pos": "NOUN",
       "translation": "das Gras",
       "example": "The grass is green. — Das Gras ist grün."
+    },
+    {
+      "word": "Grassington",
+      "pos": "PROPN",
+      "translation": "Grassington (Dorf in Yorkshire)",
+      "example": "Grandad bought you a new one at the shop in Grassington."
     },
     {
       "word": "grateful",
@@ -13639,6 +13711,12 @@
       "pos": "VERB",
       "translation": "führen, lotsen",
       "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
+    },
+    {
+      "word": "guilty",
+      "pos": "ADJ",
+      "translation": "schuldig, schuldbewusst",
+      "example": "She had felt free and guilty at the same time."
     },
     {
       "word": "guitar",
@@ -14448,6 +14526,12 @@
       "pos": "PHRASE",
       "translation": "der Boxsack",
       "example": "There were two rings, a row of heavy bags hanging from chains, faded posters of fighters from the 1980s and a hand-painted sign above the door that said: NOBODY IS BORN TOUGH."
+    },
+    {
+      "word": "heckler",
+      "pos": "NOUN",
+      "translation": "der Zwischenrufer",
+      "example": "\"But if you need a heckler, I'm very good. I've got three sisters.\""
     },
     {
       "word": "hedge",
@@ -16306,6 +16390,12 @@
       "example": "She drove for a supermarket chain now, chilled goods out of a depot near Wakefield, and was on her way to a distribution centre outside Inverness."
     },
     {
+      "word": "investigate",
+      "pos": "VERB",
+      "translation": "ermitteln, nachforschen",
+      "example": "But stop investigating me and start practising."
+    },
+    {
       "word": "invisible",
       "pos": "ADJ",
       "translation": "unsichtbar",
@@ -16678,6 +16768,12 @@
       "example": "It is also where I keep my secrets."
     },
     {
+      "word": "keep a secret",
+      "pos": "PHRASE",
+      "translation": "ein Geheimnis bewahren",
+      "example": "She couldn't keep a secret this big for more than ten minutes, and you know it."
+    },
+    {
       "word": "keep going",
       "pos": "PHRASE",
       "translation": "weitermachen, durchhalten",
@@ -16760,6 +16856,12 @@
       "pos": "NOUN",
       "translation": "der Wasserkessel",
       "example": "The rain drummed on the slate roof and the camping stove hissed under Solange's kettle."
+    },
+    {
+      "word": "kettle on",
+      "pos": "PHRASE",
+      "translation": "setz Wasser auf („put the kettle on“: Tee kochen)",
+      "example": "Go to bed. Chin up, kettle on. Things look better in the morning."
     },
     {
       "word": "Kettlewell",
@@ -19244,6 +19346,12 @@
       "example": "Down below, somewhere in the dark, they heard a tiny metallic sound."
     },
     {
+      "word": "method",
+      "pos": "NOUN",
+      "translation": "die Methode",
+      "example": "\"Brilliant. That's a proper training method. Olympic level.\""
+    },
+    {
       "word": "metre",
       "pos": "NOUN",
       "translation": "der Meter",
@@ -20468,6 +20576,12 @@
       "example": "In her palm there was a tiny piece of shining metal, no bigger than a fingernail."
     },
     {
+      "word": "no coward soul is mine",
+      "pos": "PHRASE",
+      "translation": "„Keine feige Seele ist die meine“ (Gedicht von Emily Brontë, 1846)",
+      "example": "She had chosen a poem by Emily Brontë, \"No Coward Soul Is Mine\"."
+    },
+    {
       "word": "no doubt",
       "pos": "PHRASE",
       "translation": "zweifellos, sicherlich",
@@ -21090,6 +21204,12 @@
       "pos": "PROPN",
       "translation": "Oliver (Vorname)",
       "example": "The second was from Oliver Grant, who wanted a new bike and, if possible, a different little brother, \"one who doesn't bite\"."
+    },
+    {
+      "word": "olympic",
+      "pos": "ADJ",
+      "translation": "olympisch",
+      "example": "\"Brilliant. That's a proper training method. Olympic level.\""
     },
     {
       "word": "ominous",
@@ -22009,6 +22129,12 @@
       "example": "Isla, revived by warmth and a cup of tea from his flask, turned out to be a retired schoolteacher with an encyclopaedic knowledge of Gaelic place names and very decided opinions about the Scottish Parliament."
     },
     {
+      "word": "parmesan",
+      "pos": "NOUN",
+      "translation": "der Parmesan",
+      "example": "She'd have told you on the first pasta night, crying into the parmesan."
+    },
+    {
       "word": "part",
       "pos": "NOUN",
       "translation": "der Teil („take part“: teilnehmen)",
@@ -22499,6 +22625,12 @@
       "pos": "NOUN",
       "translation": "der Fotograf",
       "example": "The photographer walked backwards in front of them, taking pictures."
+    },
+    {
+      "word": "phrase",
+      "pos": "NOUN",
+      "translation": "der Ausdruck, die Redewendung",
+      "example": "It was not a common phrase. She had never heard anybody else use it."
     },
     {
       "word": "physical",
@@ -23293,6 +23425,12 @@
       "example": "\"Power cut,\" said Ruth, who had come to help, holding a candle."
     },
     {
+      "word": "practical",
+      "pos": "ADJ",
+      "translation": "praktisch",
+      "example": "The advice was practical and calm, like the advice of an older sister."
+    },
+    {
       "word": "practically",
       "pos": "ADV",
       "translation": "praktisch, fast",
@@ -23375,6 +23513,12 @@
       "pos": "VERB",
       "translation": "vorziehen, lieber wollen",
       "example": "She said it quietly, almost reluctantly, as though it were a fact she would have preferred not to know."
+    },
+    {
+      "word": "preparation",
+      "pos": "NOUN",
+      "translation": "die Vorbereitung",
+      "example": "On Wednesday, after a lecture, Callum asked her how the preparation was going."
     },
     {
       "word": "prepare",
@@ -23525,6 +23669,12 @@
       "pos": "NOUN",
       "translation": "der Gefangene",
       "example": "When the fighting was over, the villagers dragged one of the prisoners into the light of the fire."
+    },
+    {
+      "word": "private",
+      "pos": "ADJ",
+      "translation": "privat, persönlich",
+      "example": "It had been written under her list, on the last page, the page she had thought was private."
     },
     {
       "word": "Priya",
@@ -24432,6 +24582,12 @@
       "example": "He realised that he was no longer afraid of fighting."
     },
     {
+      "word": "realism",
+      "pos": "NOUN",
+      "translation": "der Realismus",
+      "example": "He offered to come and be a second audience member, \"for realism\"."
+    },
+    {
       "word": "realist",
       "pos": "NOUN",
       "translation": "der Realist, die Realistin",
@@ -25192,6 +25348,12 @@
       "pos": "PHRASE",
       "translation": "rückwärts heranfahren an",
       "example": "Gideon reversed the Duchess up to the loading bay at a quarter past eleven, some seventeen hours late, and felt neither triumph nor embarrassment, only a vast and peaceable fatigue."
+    },
+    {
+      "word": "revise",
+      "pos": "VERB",
+      "translation": "lernen, wiederholen; überarbeiten",
+      "example": "And made a list, the way she did when she revised for exams."
     },
     {
       "word": "revive",
@@ -26044,6 +26206,12 @@
       "pos": "NOUN",
       "translation": "das Salz",
       "example": "One evening at dinner, when Lily reached across the table quickly for the salt, his head moved to one side before he could stop it, and his hands came up."
+    },
+    {
+      "word": "salt and vinegar",
+      "pos": "PHRASE",
+      "translation": "Salz und Essig („salt and vinegar crisps“: Chips mit Salz und Essig)",
+      "example": "Ines sat on the sofa with a bag of salt and vinegar crisps."
     },
     {
       "word": "saltire",
@@ -27582,6 +27750,12 @@
       "example": "Master Grey sighed the sigh of a man who had lost an argument before it had begun."
     },
     {
+      "word": "sight",
+      "pos": "NOUN",
+      "translation": "die Sicht, der Anblick („leave sb's sight“: jemandem aus den Augen gehen)",
+      "example": "Ines never left Rosalind's sight, not even once."
+    },
+    {
       "word": "sign",
       "pos": "NOUN",
       "translation": "das Zeichen",
@@ -27772,6 +27946,12 @@
       "pos": "PHRASE",
       "translation": "gegenübersitzen",
       "example": "He sat across from her with his arms folded and waited, the way he would wait out a storm."
+    },
+    {
+      "word": "sit back",
+      "pos": "PHRASE",
+      "translation": "sich zurücklehnen",
+      "example": "Ines sat back, satisfied, as if this proved everything."
     },
     {
       "word": "sit down",
@@ -28708,6 +28888,12 @@
       "pos": "PHRASE",
       "translation": "in Ordnung bringen, klären",
       "example": "Somebody will sort it out eventually.\""
+    },
+    {
+      "word": "soul",
+      "pos": "NOUN",
+      "translation": "die Seele",
+      "example": "She had chosen a poem by Emily Brontë, \"No Coward Soul Is Mine\"."
     },
     {
       "word": "sound",
@@ -31919,6 +32105,12 @@
       "example": "They go home together. — Sie gehen zusammen nach Hause."
     },
     {
+      "word": "toilet",
+      "pos": "NOUN",
+      "translation": "die Toilette",
+      "example": "She did not go to the toilet, she did not touch her phone."
+    },
+    {
       "word": "toll",
       "pos": "NOUN",
       "translation": "der Wegzoll, die Maut",
@@ -32259,6 +32451,12 @@
       "pos": "PHRASE",
       "translation": "die Übungspuppe",
       "example": "In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult."
+    },
+    {
+      "word": "traitor",
+      "pos": "NOUN",
+      "translation": "der Verräter, die Verräterin",
+      "example": "Rosalind felt like a spy and a traitor."
     },
     {
       "word": "transform",
@@ -33664,6 +33862,12 @@
       "example": "When Edwin arrived at Little Fenwick, the villagers were already packing their belongings, ready to flee into the forest."
     },
     {
+      "word": "vinegar",
+      "pos": "NOUN",
+      "translation": "der Essig",
+      "example": "Ines sat on the sofa with a bag of salt and vinegar crisps."
+    },
+    {
       "word": "violently",
       "pos": "ADV",
       "translation": "heftig, gewaltsam",
@@ -34532,6 +34736,12 @@
       "pos": "SCONJ",
       "translation": "wo auch immer",
       "example": "All my love, always, wherever I am —"
+    },
+    {
+      "word": "Whernside",
+      "pos": "PROPN",
+      "translation": "Whernside („Great Whernside“: Hügel in den Yorkshire Dales)",
+      "example": "Like the yellow kite on Great Whernside?"
     },
     {
       "word": "whether",
