@@ -118,7 +118,7 @@ export function ChapterCard({
                 </div>
                 <AutoTextarea
                   className="page-text"
-                  placeholder="Écris le texte de la page. Une ligne = un paragraphe."
+                  placeholder="Écris le texte de la page. Une ligne = un paragraphe ; « > » en début de ligne = texte écrit (carnet, lettre)."
                   aria-label={`Texte de la page ${i + 1}`}
                   value={page.text}
                   onChange={(e) => setPage(i, { text: e.target.value })}

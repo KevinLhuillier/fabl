@@ -61,7 +61,16 @@ type RawToken = {
   word: RawLemma | null;
   phrase: RawLemma | null;
 };
-type RawPage = { id: string; page_index: number; audio_url: string | null; tokens: RawToken[] };
+type RawPage = {
+  id: string;
+  page_index: number;
+  text: string;
+  audio_url: string | null;
+  tokens: RawToken[];
+};
+
+/** Written paragraphs start with "> " in the page text (one line per paragraph). */
+const WRITTEN = /^>/;
 
 const LEMMA_COLUMNS = 'id, word, pos, translations(translation, example)';
 
@@ -76,7 +85,7 @@ export async function fetchChapterPages(chapterId: string, lang: string): Promis
     await supabase
       .from('chapters')
       .select(
-        `id, passages(id, page_index, audio_url,
+        `id, passages(id, page_index, text, audio_url,
            tokens(position, text, whitespace, start_ms, end_ms, phrase_start,
              word:lemmas!tokens_lemma_id_fkey(${LEMMA_COLUMNS}),
              phrase:lemmas!tokens_phrase_lemma_id_fkey(${LEMMA_COLUMNS})))`,
@@ -92,6 +101,7 @@ export async function fetchChapterPages(chapterId: string, lang: string): Promis
     .map((p) => ({
       id: p.id,
       index: p.page_index,
+      written: p.text.split('\n').map((line) => WRITTEN.test(line)),
       audioUrl: p.audio_url,
       tokens: [...p.tokens]
         .sort((a, b) => a.position - b.position)

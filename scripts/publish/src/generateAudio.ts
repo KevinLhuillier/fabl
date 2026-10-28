@@ -16,7 +16,7 @@ import { parseArgs } from 'node:util';
 import { adminClient } from './db.js';
 import { requireEnv, resolveUserPath } from './env.js';
 import { VOICE_SETTINGS } from './pronunciations.js';
-import { parseStory, type Page } from './story.js';
+import { pageParagraphs, parseStory, type Page } from './story.js';
 
 const { values, positionals } = parseArgs({
   allowPositionals: true,
@@ -28,7 +28,7 @@ const { values, positionals } = parseArgs({
 
 const AUDIO_BUCKET = 'audio';
 
-const pageText = (page: Page) => page.lines.join('\n');
+const pageText = (page: Page) => pageParagraphs(page).join('\n');
 
 async function main() {
   const [arg] = positionals;
@@ -77,8 +77,8 @@ async function main() {
           text: pageText(page),
           model_id: modelId,
           voice_settings: VOICE_SETTINGS,
-          ...(previous ? { previous_text: previous.lines.at(-1) } : {}),
-          ...(next ? { next_text: next.lines[0] } : {}),
+          ...(previous ? { previous_text: pageParagraphs(previous).at(-1) } : {}),
+          ...(next ? { next_text: pageParagraphs(next)[0] } : {}),
         }),
       },
     );

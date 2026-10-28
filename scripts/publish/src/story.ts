@@ -25,6 +25,10 @@
  *   mixing up the readers' progress.
  * - `---` separates two pages of a chapter.
  * - Each non-empty line is a paragraph. `<!-- comments -->` are ignored.
+ * - `> ` at the start of a line marks written text (a diary, a letter): the
+ *   app shows it apart. The mark stays in `lines` (and in the stored page
+ *   text, which the app reads it from) but is not part of the words:
+ *   use `pageParagraphs` for those.
  * - `@audio <url>` (one per page, anywhere in it) attaches a recorded
  *   voice-over (MP3) to the page. It is not part of the text.
  */
@@ -47,7 +51,7 @@ export type Page = {
   key: string;
   /** Index of the page inside its chapter. */
   index: number;
-  /** Paragraphs, in order. */
+  /** Paragraphs, in order, as written in the file (a written line keeps its `> ` mark). */
   lines: string[];
   /** Voice-over of the page (MP3 URL), or null. */
   audio: string | null;
@@ -72,6 +76,13 @@ export type ParsedStory = {
 const SEPARATOR = /^-{3,}\s*$/;
 const HEADING = /^#\s+(.+?)\s*(?:\{#([\w-]+)\})?\s*$/;
 const AUDIO = /^@audio\b\s*(.*)$/;
+const WRITTEN = /^>\s*/;
+
+/** Text of a paragraph, without the `> ` mark of written text. */
+export const paragraphText = (line: string) => line.replace(WRITTEN, '');
+
+/** The page's paragraphs as read: what is tokenized, voiced and aligned. */
+export const pageParagraphs = (page: Pick<Page, 'lines'>) => page.lines.map(paragraphText);
 
 export function parseStory(source: string, fileName: string): ParsedStory {
   const fail = (message: string, line?: number): never => {
@@ -178,6 +189,7 @@ export function parseStory(source: string, fileName: string): ParsedStory {
       audio = audioLine[1]!;
       continue;
     }
+    if (WRITTEN.test(line) && !paragraphText(line)) fail('"> " needs text after it', i + 1);
     if (!page.length) pageLine = i + 1;
     page.push(line);
   }

@@ -254,6 +254,7 @@ export default function ChapterReader() {
             <View ref={target('text')} collapsable={false}>
               <PassageText
                 tokens={current.tokens}
+                written={current.written}
                 selectedPosition={selected}
                 onWordPress={onWordPress}
                 readAlong={readAlongEnabled ? readAlong : null}

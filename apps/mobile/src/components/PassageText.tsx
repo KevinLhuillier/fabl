@@ -10,6 +10,8 @@ export type ReadAlong = { readUpTo: number; current: number | null };
 
 type Props = {
   tokens: Token[];
+  /** Per paragraph: written text (a diary, a letter), shown in italics behind a rule. */
+  written?: boolean[];
   /** Tapped token; when it belongs to an expression, the whole expression is highlighted. */
   selectedPosition: number | null;
   onWordPress: (token: Token) => void;
@@ -40,13 +42,15 @@ type Segment = { token: Token; spoken: boolean; quote?: 'open' | 'close' };
  *
  * Spoken words (between quotation marks, quotes included) are shown in
  * italics; the narration around them keeps the normal style.
- * Straight quotes become “curly” ones.
+ * Straight quotes become “curly” ones. Written paragraphs (`written`) are all
+ * in italics, set off by a rule; consecutive ones share it.
  *
  * While the voice-over plays, the words already read take `readColor` and the
  * word being spoken gets a `currentColor` background (read-along).
  */
 export const PassageText = memo(function PassageText({
   tokens,
+  written,
   selectedPosition,
   onWordPress,
   readAlong,
@@ -60,33 +64,46 @@ export const PassageText = memo(function PassageText({
   const isSelected = (t: Token) =>
     tapped?.phrase ? t.phrase?.start === tapped.phrase.start : t.position === selectedPosition;
 
+  // Runs of consecutive paragraphs with the same kind (narration or written).
+  const blocks: { written: boolean; paragraphs: Segment[][][] }[] = [];
+  paragraphs.forEach((words, i) => {
+    const isWritten = !!written?.[i];
+    const last = blocks[blocks.length - 1];
+    if (last && last.written === isWritten) last.paragraphs.push(words);
+    else blocks.push({ written: isWritten, paragraphs: [words] });
+  });
+
   return (
     <View style={styles.wrap}>
-      {paragraphs.map((words, i) => (
-        <View key={i} style={styles.paragraph}>
-          {words.map((segments) => (
-            <View key={segments[0]!.token.position} style={styles.word}>
-              {segments.map(({ token: t, spoken, quote }, j) => (
-                <Word
-                  key={t.position}
-                  token={t}
-                  label={quote === 'open' ? '“' : quote === 'close' ? '”' : t.text}
-                  spoken={spoken}
-                  read={!!readAlong && t.position <= readAlong.readUpTo}
-                  current={readAlong?.current === t.position}
-                  selected={isSelected(t)}
-                  padLeft={j === 0}
-                  padRight={j === segments.length - 1}
-                  readColor={readColor}
-                  currentColor={currentColor}
-                  onWordPress={onWordPress}
-                  onWordPlay={onWordPlay}
-                  playGesture={playGesture}
-                />
+      {blocks.map((block, b) => (
+        <View key={b} style={[styles.wrap, block.written && styles.written]}>
+          {block.paragraphs.map((words, i) => (
+            <View key={i} style={styles.paragraph}>
+              {words.map((segments) => (
+                <View key={segments[0]!.token.position} style={styles.word}>
+                  {segments.map(({ token: t, spoken, quote }, j) => (
+                    <Word
+                      key={t.position}
+                      token={t}
+                      label={quote === 'open' ? '“' : quote === 'close' ? '”' : t.text}
+                      spoken={spoken || block.written}
+                      read={!!readAlong && t.position <= readAlong.readUpTo}
+                      current={readAlong?.current === t.position}
+                      selected={isSelected(t)}
+                      padLeft={j === 0}
+                      padRight={j === segments.length - 1}
+                      readColor={readColor}
+                      currentColor={currentColor}
+                      onWordPress={onWordPress}
+                      onWordPlay={onWordPlay}
+                      playGesture={playGesture}
+                    />
+                  ))}
+                  <Text variant="reading">
+                    {segments[segments.length - 1]!.token.whitespace.replace(/\n/g, '')}
+                  </Text>
+                </View>
               ))}
-              <Text variant="reading">
-                {segments[segments.length - 1]!.token.whitespace.replace(/\n/g, '')}
-              </Text>
             </View>
           ))}
         </View>
@@ -247,6 +264,12 @@ export function sentenceAround(tokens: Token[], position: number): string {
 
 const styles = StyleSheet.create({
   wrap: { gap: spacing.lg },
+  written: {
+    borderLeftWidth: 3,
+    borderLeftColor: colors.border,
+    paddingLeft: spacing.md,
+    marginLeft: spacing.xs,
+  },
   paragraph: { flexDirection: 'row', flexWrap: 'wrap' },
   word: { flexDirection: 'row' },
   spoken: { fontFamily: fonts.italic },

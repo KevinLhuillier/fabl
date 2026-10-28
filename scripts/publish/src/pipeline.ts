@@ -14,7 +14,7 @@ import {
   missingPronunciations,
   storyPronunciationTexts,
 } from './pronunciations.js';
-import { parseStory, type ParsedStory } from './story.js';
+import { pageParagraphs, parseStory, type ParsedStory } from './story.js';
 import { loadTranslations } from './translations.js';
 
 export type StoryAnalysis = {
@@ -31,7 +31,7 @@ export type StoryAnalysis = {
 export async function analyzeStory(source: string, fileName: string): Promise<StoryAnalysis> {
   const story = parseStory(source, fileName);
   const pages = story.chapters.flatMap((c) => c.pages);
-  const tokenLists = await lemmatizePassages(pages.map((p) => p.lines));
+  const tokenLists = await lemmatizePassages(pages.map(pageParagraphs));
   const tokensByPage = new Map<string, Token[]>(pages.map((p, i) => [p.key, tokenLists[i]!]));
   applyAlignments(path.basename(fileName, path.extname(fileName)), story, tokensByPage);
   const countPages = (keys: string[]) =>

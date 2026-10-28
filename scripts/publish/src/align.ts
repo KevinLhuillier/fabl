@@ -22,7 +22,7 @@ import {
 import { resolveUserPath } from './env.js';
 import { lemmatizePassages } from './lemmatize.js';
 import { runPythonScript } from './python.js';
-import { parseStory } from './story.js';
+import { pageParagraphs, parseStory } from './story.js';
 
 const { values, positionals } = parseArgs({
   allowPositionals: true,
@@ -57,7 +57,7 @@ async function main() {
     return;
   }
 
-  const tokenLists = await lemmatizePassages(pages.map((p) => p.lines));
+  const tokenLists = await lemmatizePassages(pages.map(pageParagraphs));
   const stored = loadAlignments(slug).pages;
   console.log(`\n🎙️  ${slug}`);
 

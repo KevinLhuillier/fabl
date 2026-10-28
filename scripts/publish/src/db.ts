@@ -131,6 +131,7 @@ export async function publishStory(
           key: p.key,
           position,
           page_index: p.index,
+          // With the `> ` marks of written text: the app reads them from here.
           text: p.lines.join('\n'),
           audio_url: p.audio,
         })),

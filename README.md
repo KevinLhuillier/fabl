@@ -281,6 +281,10 @@ Then Mia sees her neighbour, Mr Green.
   voice-over (MP3) to the page: the reader shows a play button above the text. The URL lives in
   the file, so the recording follows its page when pages or chapters move.
 - Dialogue goes between straight double quotes on a single line; the reader highlights it.
+- **`> ` at the start of a line** marks written text (a diary, a letter, a message): the reader
+  shows it in italics behind a rule, consecutive lines sharing it. The mark is not part of the
+  words, the voice-over or the alignment; it is kept in the page text (`passages.text`), which
+  the app reads it from.
 - Stories are **linear** (no choices), static text only.
 - **Keys**: the file name identifies the story (renaming it publishes a new story). Chapters are
   keyed by position (`chapter_1`, `chapter_2`…) and pages by `<chapter>.page_<n>`; readers'

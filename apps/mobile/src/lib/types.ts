@@ -53,6 +53,8 @@ export type Page = {
   id: string;
   index: number;
   tokens: Token[];
+  /** Per paragraph: written text (a diary, a letter), shown apart from the narration. */
+  written: boolean[];
   /** Recorded voice-over (MP3), or null. */
   audioUrl: string | null;
 };

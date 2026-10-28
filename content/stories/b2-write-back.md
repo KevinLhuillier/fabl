@@ -74,19 +74,21 @@ Her room was small and cold, with a bed, a desk under the window and a wardrobe 
 ---
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_1.page_14-1793197672848.mp3
-Day 9, Durham.
-Today I said four words in my first seminar. "My name is Rosalind." Then I said sorry, because apparently I apologise for existing. Everybody else had something clever to say. I had something clever to say too, but it stayed inside. It always stays inside.
-I think I made a mistake coming here. I think some people are built for big places and some people are built for small ones, and I am a small-place person.
-Grandad, if you were here, you would tell me to be patient. I am trying. I don't know how long I can try.
+
+> Day 9, Durham.
+> Today I said four words in my first seminar. "My name is Rosalind." Then I said sorry, because apparently I apologise for existing. Everybody else had something clever to say. I had something clever to say too, but it stayed inside. It always stays inside.
+> I think I made a mistake coming here. I think some people are built for big places and some people are built for small ones, and I am a small-place person.
+> Grandad, if you were here, you would tell me to be patient. I am trying. I don't know how long I can try.
 
 ---
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_1.page_15-1793197687257.mp3
 She put down the pen and read what she had written. It was not poetry. It was not even a good sentence. But her chest felt a little lighter, as if she had put down a heavy bag after carrying it up a hill. She was reaching out to close the notebook when something on the page moved. At first she thought it was a shadow from the lamp. Then she saw that it was ink. Green ink, appearing on the line just below her own words, slowly, letter by letter, as if an invisible hand were writing it at that very moment.
-Five words, actually. You forgot the "sorry". We'll work on that.
-You are not a small-place person. You are a small-voice person, which is different, and voices can grow.
-Don't be scared. I'm on your side.
-— R.
+
+> Five words, actually. You forgot the "sorry". We'll work on that.
+> You are not a small-place person. You are a small-voice person, which is different, and voices can grow.
+> Don't be scared. I'm on your side.
+> — R.
 
 ---
 
@@ -108,9 +110,10 @@ There had to be an explanation. A trick from the shop, perhaps: some kind of spe
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_1.page_19-1793197730998.mp3
 She did not sleep. She lay in the dark and listened to the house: Ines washing up and still singing, the engineers coming in late and dropping their keys, the pipes knocking in the walls. At three o'clock in the morning, she gave up. She turned on the lamp, opened the wardrobe and took the notebook down. Her heart was beating in her ears. She opened it at the first page, ready to find nothing, ready to discover that she had imagined everything because she was tired and lonely and very far from home.
 Her own words were there, in black. The green words were there too. And below them, there was a new line that had not been there before.
-You can hide me behind your jumpers for as long as you like. I'll still be here in the morning.
-Go to sleep, Ros. Tomorrow we start.
-— R.
+
+> You can hide me behind your jumpers for as long as you like. I'll still be here in the morning.
+> Go to sleep, Ros. Tomorrow we start.
+> — R.
 
 ---
 
