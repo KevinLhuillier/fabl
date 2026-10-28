@@ -359,6 +359,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "braver",
+      "pos": "ADJ",
+      "word": "brave",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Breathe",
       "pos": "ADJ",
       "word": "breathe",
@@ -976,6 +982,12 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "ENOUGH",
+      "pos": "PROPN",
+      "word": "enough",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "exacting",
       "pos": "VERB",
       "word": "exacting",
@@ -1037,6 +1049,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "FAIR",
+      "pos": "PROPN",
+      "word": "fair",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Fall",
       "pos": "NOUN",
       "word": "Fall",
@@ -1065,6 +1083,13 @@
       "pos": "PROPN",
       "word": "Father",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "fear",
+      "pos": "VERB",
+      "next": ".",
+      "word": "fear",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "featured",
@@ -2436,6 +2461,12 @@
       "pos": "PROPN",
       "word": "notice",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "noticing",
+      "pos": "NOUN",
+      "word": "notice",
+      "lemmaPos": "VERB"
     },
     {
       "text": "Nuage",
@@ -4237,6 +4268,12 @@
       "pos": "NOUN",
       "word": "wet",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Whernside",
+      "pos": "ADV",
+      "word": "Whernside",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "whey",

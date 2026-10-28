@@ -1109,9 +1109,21 @@
     },
     {
       "word": "any",
+      "pos": "ADV",
+      "translation": "(ne…) plus (« not any longer / any more » : ne… plus)",
+      "example": "She could not lie under that slanted ceiling any longer."
+    },
+    {
+      "word": "any",
       "pos": "DET",
       "translation": "du, de la, un peu de ; n'importe quel",
       "example": "\"And neither, if you've any sense, do you.\""
+    },
+    {
+      "word": "any longer",
+      "pos": "PHRASE",
+      "translation": "(ne…) plus (longtemps)",
+      "example": "She could not lie under that slanted ceiling any longer."
     },
     {
       "word": "any more",
@@ -2994,6 +3006,12 @@
       "example": "Leo is black and white. — Leo est noir et blanc."
     },
     {
+      "word": "black",
+      "pos": "NOUN",
+      "translation": "le noir (« in black » : en noir, à l'encre noire)",
+      "example": "Her nineteen-year-old self, frightened and furious and funny, writing night after night in black."
+    },
+    {
       "word": "blacken",
       "pos": "VERB",
       "translation": "noircir",
@@ -3922,6 +3940,12 @@
       "pos": "NOUN",
       "translation": "le brun, le marron",
       "example": "Four of them he could read at a glance: the brown of Earth, the blue of Water, the pale grey of Air, the deep red of Fire."
+    },
+    {
+      "word": "brown paper",
+      "pos": "PHRASE",
+      "translation": "le papier kraft, le papier d'emballage",
+      "example": "She remembered Mrs Pennick, behind her counter, wrapping the notebook in brown paper."
     },
     {
       "word": "bruised",
@@ -7446,6 +7470,12 @@
       "example": "The flame licked across his palm, quick and stinging, and the feather crumbled into ash on the stone."
     },
     {
+      "word": "crumpet",
+      "pos": "NOUN",
+      "translation": "le crumpet (petite crêpe épaisse anglaise, mangée grillée avec du beurre)",
+      "example": "Ines's new obsession with English crumpets."
+    },
+    {
       "word": "crumple",
       "pos": "VERB",
       "translation": "froisser, chiffonner",
@@ -7678,6 +7708,12 @@
       "pos": "NOUN",
       "translation": "papa va (« my dad'll » = « my dad will » : mon père va)",
       "example": "\"And even if they do, my dad'll sort it out.\""
+    },
+    {
+      "word": "daffodil",
+      "pos": "NOUN",
+      "translation": "la jonquille",
+      "example": "The first daffodils by the river in Durham."
     },
     {
       "word": "daily",
@@ -8892,6 +8928,12 @@
       "example": "It was much harder than drawing."
     },
     {
+      "word": "dread",
+      "pos": "VERB",
+      "translation": "redouter, appréhender",
+      "example": "Something Rosalind had been half expecting and half dreading for weeks."
+    },
+    {
       "word": "dream",
       "pos": "NOUN",
       "translation": "le rêve",
@@ -9210,6 +9252,12 @@
       "example": "The Writ that Mistress Vell was so eager to dust off is perfectly clear: a probationer is to be assessed alongside his year.\""
     },
     {
+      "word": "dusty",
+      "pos": "ADJ",
+      "translation": "poussiéreux",
+      "example": "She put the box in the corner, under an old lamp, and sat for a moment in the warm, dusty dark."
+    },
+    {
       "word": "dutifully",
       "pos": "ADV",
       "translation": "consciencieusement, docilement",
@@ -9364,6 +9412,12 @@
       "pos": "NOUN",
       "translation": "l'est",
       "example": "In the east, it was starting to turn pink."
+    },
+    {
+      "word": "Easter",
+      "pos": "PROPN",
+      "translation": "Pâques",
+      "example": "She made Rosalind promise to visit her in Lyon at Easter."
     },
     {
       "word": "eastern",
@@ -10160,6 +10214,12 @@
       "pos": "NOUN",
       "translation": "l'examen",
       "example": "\"It's not an exam. It's a conversation. You'll be fine.\""
+    },
+    {
+      "word": "exam result",
+      "pos": "PHRASE",
+      "translation": "le résultat d'examen",
+      "example": "In June, the exam results came out."
     },
     {
       "word": "examine",
@@ -11792,6 +11852,12 @@
       "pos": "PHRASE",
       "translation": "pour le plaisir, pour s'amuser",
       "example": "She was in her final year of a sports science degree at Leeds Beckett, she ran half-marathons for fun, and she believed in nothing she could not measure."
+    },
+    {
+      "word": "for good",
+      "pos": "PHRASE",
+      "translation": "pour de bon, définitivement",
+      "example": "The next morning, Ines left for Lyon for good."
     },
     {
       "word": "for life",
@@ -15374,6 +15440,12 @@
       "example": "\"I've walked a long way, and I'm told that your hospitality is famous throughout the Wilds.\""
     },
     {
+      "word": "host",
+      "pos": "NOUN",
+      "translation": "l'animateur, le présentateur (d'une soirée)",
+      "example": "When the host called \"Rosalind Hale?\", the room went quiet."
+    },
+    {
       "word": "hot",
       "pos": "ADJ",
       "translation": "chaud",
@@ -15768,6 +15840,12 @@
       "pos": "ADJ",
       "translation": "malade",
       "example": "Marked last spring — she was ill at the autumn Marking, so they did her late."
+    },
+    {
+      "word": "illegal",
+      "pos": "ADJ",
+      "translation": "illégal",
+      "example": "A book R. was reading \"just for pleasure, not for work, which feels almost illegal\"."
     },
     {
       "word": "Ilse",
@@ -17446,6 +17524,12 @@
       "example": "Far below, where the Brack spread out into the still grey mirror of a lake, a great green hill rose out of the forest."
     },
     {
+      "word": "lamb",
+      "pos": "NOUN",
+      "translation": "l'agneau",
+      "example": "The first lambs in the fields above Kettlewell."
+    },
+    {
       "word": "lame",
       "pos": "ADJ",
       "translation": "boiteux",
@@ -17888,6 +17972,12 @@
       "pos": "PHRASE",
       "translation": "laisse-moi tranquille",
       "example": "Tell me who you are or leave me alone."
+    },
+    {
+      "word": "leave on",
+      "pos": "PHRASE",
+      "translation": "laisser allumé",
+      "example": "I left my words at the bottom of a page the way you leave a light on in a window."
     },
     {
       "word": "leave out",
@@ -19382,6 +19472,12 @@
       "example": "\"One day, you may become more than we ever were.\""
     },
     {
+      "word": "May",
+      "pos": "PROPN",
+      "translation": "mai",
+      "example": "And in May, after weeks of hesitation, she wrote her name on the list."
+    },
+    {
       "word": "maybe",
       "pos": "ADV",
       "translation": "peut-être",
@@ -20798,6 +20894,12 @@
       "example": "Good night! — Bonne nuit !"
     },
     {
+      "word": "night after night",
+      "pos": "PHRASE",
+      "translation": "nuit après nuit, soir après soir",
+      "example": "Her nineteen-year-old self, writing night after night in black."
+    },
+    {
       "word": "night light",
       "pos": "PHRASE",
       "translation": "la veilleuse",
@@ -21306,6 +21408,12 @@
       "pos": "VERB",
       "translation": "obséder (« obsessed with » : obsédé par)",
       "example": "Small details, but the book was obsessed with small details."
+    },
+    {
+      "word": "obsession",
+      "pos": "NOUN",
+      "translation": "l'obsession",
+      "example": "Ines's new obsession with English crumpets."
     },
     {
       "word": "obvious",
@@ -23665,6 +23773,12 @@
       "example": "The first-years stopped staring at Rowan quite so hard, and found other things to whisper about — chiefly the huge silent woodcutter who had appeared from nowhere, and who split more logs for the kitchen fires before breakfast than the porters managed in a week, and who had been seen, on two separate occasions, sharing a pipe with Old Moss on an upturned barrow and laughing until he wheezed."
     },
     {
+      "word": "portion",
+      "pos": "NOUN",
+      "translation": "la portion",
+      "example": "Ines cried into the parmesan, and then made a double portion."
+    },
+    {
       "word": "position",
       "pos": "NOUN",
       "translation": "la position",
@@ -23849,6 +23963,12 @@
       "pos": "NOUN",
       "translation": "la précaution",
       "example": "It was a precaution that had been drilled into him forty years earlier by an old Glaswegian driver who, he swore, had once found two men asleep for ever in a snowbound cab on Rannoch Moor, and Gideon had never forgotten the flat, matter-of-fact way in which he had told the story."
+    },
+    {
+      "word": "precious",
+      "pos": "ADJ",
+      "translation": "précieux",
+      "example": "For R. these were memories, and some of them were very precious."
     },
     {
       "word": "precise",
@@ -26904,6 +27024,12 @@
       "example": "The school is closed. — L'école est fermée."
     },
     {
+      "word": "school report",
+      "pos": "PHRASE",
+      "translation": "le bulletin scolaire",
+      "example": "Inside it she had put the things she wanted to keep: her school reports."
+    },
+    {
       "word": "schoolboy",
       "pos": "NOUN",
       "translation": "l'écolier",
@@ -28674,6 +28800,12 @@
       "example": "He achieved it by a combination of brute force, improvised engineering and outrageous flattery, and when at last both of them were installed — Isla on the bunk behind the seats, cocooned in his sleeping bag, Alasdair in the passenger seat with the heater roaring at his feet — he discovered that his hands were shaking and that he was, for no reason he could identify, on the verge of laughter."
     },
     {
+      "word": "sleepless",
+      "pos": "ADJ",
+      "translation": "sans sommeil, blanc (« a sleepless night » : une nuit blanche)",
+      "example": "Ten years later, on a sleepless night in October."
+    },
+    {
       "word": "sleepy",
       "pos": "ADJ",
       "translation": "endormi, somnolent",
@@ -29332,6 +29464,12 @@
       "pos": "INTJ",
       "translation": "pardon ; désolé (« Sorry, love? » : Pardon, ma belle ?)",
       "example": "\"Sorry, love?\""
+    },
+    {
+      "word": "sorry",
+      "pos": "NOUN",
+      "translation": "le « pardon », l'excuse",
+      "example": "\"Five,\" she said. \"I forgot the sorry.\""
     },
     {
       "word": "sorry for your loss",

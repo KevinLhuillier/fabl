@@ -1016,3 +1016,126 @@ Rosalind sat for a long time with the notebook open on her knees. The cold had g
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_17-1793207081693.mp3
 When she finally stood up, stiff with cold, Callum was standing at the end of the path with her scarf in his hand, looking worried and slightly out of breath, as if he had been searching the whole riverbank. "You forgot this," he said, holding it out. "You ran off like you'd seen a ghost." Rosalind took the scarf and wound it round her neck. Then, to his great surprise and her own, she laughed, a real laugh, loud enough to make a duck on the river take off in a panic. "Not a ghost," she said. "The opposite of a ghost." And she took his arm, and they walked back up the hill together.
+
+# Write Back
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_1-1793214940033.mp3
+After that day on the bench, the notebook changed again. It was no longer a mystery, or a teacher, or a patient. It was simply a conversation between two people who knew each other better than anyone else in the world, and who were, very slowly, learning to like what they knew. They wrote about small things. Ines's new obsession with English crumpets. A book R. was reading for the first time in years "just for pleasure, not for work, which feels almost illegal". The first daffodils by the river in Durham, and the first lambs in the fields above Kettlewell, ten years apart and on the same page.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_2-1793214949250.mp3
+They kept the rules, mostly. Rosalind never asked about the future again, and R. never told her. But R. asked a lot of questions about the present, about Ines and Femi and Callum and Dr Pell, and Rosalind understood, without being told, that for R. these were memories, and that some of them were very precious. Once, R. wrote: "Tell Ines her pasta is still the best I've ever eaten. Don't tell her who said it." Rosalind told her. Ines cried into the parmesan, exactly as R. had once predicted, and then made a double portion.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_3-1793214962074.mp3
+R. got better. It was not quick, and it was not a straight line. There were still bad days, days when the ink did not come, or came small and shaky. But in March, R. wrote that she had walked all the way up Great Whernside, slowly, stopping every ten minutes, and sat at the top in the wind. In April, she went back to work, three days a week. And at the end of April there was a message that made Rosalind laugh out loud in the library.
+
+> Today's brave thing: my boss asked me to "just quickly" take on another project. I said no. Politely, but no.
+> Nobody died. The building is still standing. My boss said, "Fair enough." FAIR ENOUGH, Ros. Ten years of yes, and all I needed was two letters.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_4-1793214970036.mp3
+Rosalind's own brave things grew bigger too, almost without her noticing. She asked a question in a lecture of two hundred people. She went to a party at Harriet's flat and stayed until midnight. She phoned her mum on a Tuesday, not a Wednesday, just to say hello, and her mum was so surprised that she thought somebody had died. And in May, after weeks of hesitation, she wrote her name on the list for the last open mic night of the year.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_5-1793214977416.mp3
+She did not tell anybody, not even Ines. She told only R., in the notebook, at two in the morning, the night before. "I've written a poem. My own. I'm going to read it. Out loud. In front of forty people. I think I might be sick." The answer came almost at once, and it was the shortest message R. had ever sent: "Breathe before the first line. I'll be there." Rosalind did not ask how. She did not need to.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_6-1793214986635.mp3
+The room above the student union was hotter than ever, full of fairy lights and noise. Callum and Femi were in the front row, because Rosalind had finally told them that afternoon, and Callum had shouted so loudly in the street that a pigeon had fallen off a wall. Ines was there too, with a bag of crisps "for tradition". When the host called "Rosalind Hale?", the room went quiet. She walked to the microphone. It whistled. Everybody laughed, kindly, and so did she. She looked at the page in her hand. She breathed. Then she read.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_7-1793214992853.mp3
+> "Write Back"
+> I left my words at the bottom of a page
+> the way you leave a light on in a window,
+> not sure that anyone will pass.
+> Somebody passed.
+> Somebody wrote back in green,
+> the colour of things that grow in the rain.
+> Now I leave the light on for you.
+> Whoever you are. Whenever you are.
+> I'll write back.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_8-1793215001923.mp3
+For a second, there was nothing. Then the room exploded. Ines was standing on her chair, screaming something in French. Callum was clapping with his hands above his head. Femi had stopped drawing, which he never did, and was simply looking at her with his mouth open. Rosalind stood at the microphone with her cheeks burning, but it was not shame this time, not even fear. It was something she did not have a word for yet. Something that felt like a kite pulling at its string, high up in a strong wind.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_9-1793215009570.mp3
+Afterwards, Callum walked her home along the river, the long way round. At the corner of Hallgarth Street he stopped and took a small box out of his pocket, looking suddenly shy, which was not an expression she had ever seen on his face. "I was going to give you this on your birthday," he said. "But tonight seems better. For your important words." Inside the box was a fountain pen, dark and simple, and a small bottle of ink. Green ink. The colour of moss, of things that grow in the rain.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_10-1793215018718.mp3
+Rosalind looked at the bottle for a long time. Then she started to laugh, and could not stop, and Callum looked at her as if she had gone completely mad. "Do you not like it?" he asked, worried. "I can change the colour. I just thought green was... I don't know. It looked like you." She closed the box and held it against her chest with both hands. "It's perfect," she said. "You have no idea how perfect it is." And then, because she was a braver person than she had been in September, she kissed him on the cheek and ran inside before she could see his face.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_11-1793215030157.mp3
+There were only a few blank pages left in the notebook by then. That night, R. wrote that she had heard everything, "or remembered it, which is the same thing tonight". Then she wrote something else, something Rosalind had been half expecting and half dreading for weeks.
+
+> I think this is where I stop, Ros.
+> Not because I'm leaving. Because you don't need me every night any more, and I need to live my own days, not yours. That was the whole point, I think. For both of us.
+> When you need me, you'll know where I am. Ten years away, and right here.
+> I'm so proud of you. I'm proud of me too, a little. That's new.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_12-1793215041788.mp3
+> Thank you. For everything. For the rules, and the anger, and the pasta.
+> See you in ten years. Don't forget to go up to the loft.
+> — Ros
+
+The last line of green ink was very small, at the very bottom of the page, and Rosalind read it so many times that she knew it by heart before she fell asleep: "I won't. I never did." In June, the exam results came out. She had passed her first year with good marks, very good in fact, and a comment from Dr Pell that said only: "Now let us hear more." On her last evening in Durham, she took the withdrawal form out of the drawer, still folded in four under the packet of tissues, and tore it into very small pieces. Ines threw them out of the window like confetti.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_13-1793215053357.mp3
+The next morning, Ines left for Lyon for good. Her year in Durham was over. At the station, she cried so much that a man selling coffee gave her a free croissant, and she made Rosalind promise three things: to visit her in Lyon at Easter, to make pasta every Thursday "even alone, even badly", and to never, ever buy English cheese. "You are my first English friend," Ines said into her shoulder. "And my best. Even if you talked four words in the first month." Rosalind held her tight. "Five," she said. "I forgot the sorry." Ines did not understand, and Rosalind did not explain. The train pulled away, with Ines waving through the window until it went round the bend.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_14-1793215062982.mp3
+That summer, back in Kettlewell, Rosalind climbed the ladder into the loft with an old shoebox under her arm. Inside it she had put the things she wanted to keep: her school reports, a faded photograph of a yellow kite above Great Whernside, which Grandad had taken a few minutes before it flew away, Femi's drawing of the lion on the mountain of books. And the green notebook, with its elastic band wrapped twice around it. She put the box in the corner, under an old lamp, and sat for a moment in the warm, dusty dark. "See you in ten years," she whispered. Then she climbed down, and went to help her mum with the dinner.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_15-1793215072050.mp3
+Ten years later, on a sleepless night in October, a woman of twenty-nine climbed the ladder into the loft of her mother's house in Kettlewell. She had been in bed for most of three weeks. Her body ached in places she did not know existed, and her mind felt like a room where all the lights had been switched off at once. She did not know what she was looking for. Only that she could not lie under that slanted ceiling any longer, staring at the crack that looked like a river on a map.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_16-1793215081265.mp3
+The box was in the corner, under an old lamp and a bag of Christmas decorations. Inside, there were school reports, an old photograph of a yellow kite high above a hill, and a small drawing of a red-haired lion standing on a mountain of books. And at the bottom, with its black elastic band still wrapped twice around it, there was a green notebook. Her hands were shaking as she opened it. On the first page, in a careful black biro, in handwriting she had almost forgotten, were the words: "Day 9, Durham."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_17-1793215090144.mp3
+She turned the pages slowly. They were all there: her nineteen-year-old self, frightened and furious and funny, writing night after night in black. And under every entry, every single one, there was an empty space. Clean paper, waiting. For ten years she had half believed she had invented the green ink. Now, sitting on the dusty floor of the loft with the notebook on her knees, she understood that it had never been written. Not yet. She was crying, quietly. But for the first time in weeks, she did not feel like a room with the lights off.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_18-1793215098872.mp3
+She went downstairs to her room. On the bedside table, next to her phone, was an old fountain pen, dark and simple, that she had carried everywhere for ten years. Her phone lit up with a message from Callum, who still sent one every Sunday, wherever he was: "Thinking of you. Nothing's ever finished. It's just due. Chin up." She smiled. She filled the pen with green ink from the bottle in her drawer. She sat up in bed, opened the notebook at the first page, and held the pen above the empty space under the words of a girl who was very far from home.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_19-1793215109807.mp3
+She remembered Mrs Pennick, behind her counter, wrapping the notebook in brown paper: "Write the truth in it. It doesn't work otherwise." She did not remember the exact words she had once read. It did not matter. She knew what that girl needed to hear, because she needed to hear it too. She breathed before the first sentence. Not after. Then, slowly, letter by letter, in green ink, Rosalind Hale wrote back.
+
+> Five words, actually. You forgot the "sorry". We'll work on that.
+> You are not a small-place person. You are a small-voice person, which is different, and voices can grow.
+> Don't be scared. I'm on your side.
+> — R.
