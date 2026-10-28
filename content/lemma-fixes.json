@@ -347,6 +347,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Braver",
+      "pos": "ADV",
+      "word": "brave",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Breathe",
       "pos": "ADJ",
       "word": "breathe",
@@ -431,6 +437,18 @@
       "next": "building",
       "word": "burn",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "burnout",
+      "pos": "ADV",
+      "word": "burnout",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Burnout",
+      "pos": "ADV",
+      "word": "burnout",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "burnt",
@@ -1423,6 +1441,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Had",
+      "pos": "VERB",
+      "next": "n't",
+      "word": "have",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "hair",
       "pos": "PROPN",
       "next": "cut",
@@ -1605,6 +1630,12 @@
       "pos": "VERB",
       "word": "idiot",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Ill",
+      "pos": "PROPN",
+      "word": "ill",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "Ilse",
@@ -2264,6 +2295,12 @@
       "text": "neater",
       "pos": "NOUN",
       "word": "neat",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "NEW",
+      "pos": "PROPN",
+      "word": "new",
       "lemmaPos": "ADJ"
     },
     {
@@ -3526,6 +3563,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "straighter",
+      "pos": "ADV",
+      "word": "straight",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "stranger",
       "pos": "NOUN",
       "next": ".",
@@ -4159,6 +4202,12 @@
       "pos": "NOUN",
       "word": "wince",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Window",
+      "pos": "PROPN",
+      "word": "window",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "windscreen",

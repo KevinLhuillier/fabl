@@ -3222,6 +3222,12 @@
       "example": "Under the headline STUDENT INJURED DURING OFFICIAL VISIT, there was a slightly blurred photograph of an ambulance."
     },
     {
+      "word": "blush",
+      "pos": "VERB",
+      "translation": "ruborizarse, sonrojarse",
+      "example": "Rosalind read four lines of Christina Rossetti in front of eleven people and only blushed a little."
+    },
+    {
       "word": "boar",
       "pos": "NOUN",
       "translation": "el jabalí",
@@ -3370,6 +3376,12 @@
       "pos": "PROPN",
       "translation": "Borg (en «Björn Borg», campeón de tenis sueco de los años 70)",
       "example": "One of the old ladies had told him he reminded her of a young Björn Borg, whoever that was."
+    },
+    {
+      "word": "boring",
+      "pos": "ADJ",
+      "translation": "aburrido",
+      "example": "The truth is boring. I'm exhausted."
     },
     {
       "word": "borrow",
@@ -4078,6 +4090,12 @@
       "pos": "ADJ",
       "translation": "quemado",
       "example": "He stood in the middle of it with his burned hand pressed against his chest, his face blazing, and for a long moment he could not see or hear anything at all except that laughter."
+    },
+    {
+      "word": "burnout",
+      "pos": "NOUN",
+      "translation": "el agotamiento, el síndrome de desgaste profesional",
+      "example": "The doctor called it burnout and signed me off work."
     },
     {
       "word": "Burns",
@@ -7876,6 +7894,12 @@
       "pos": "VERB",
       "translation": "declarar",
       "example": "The Writ of Uncertain Marking was declared fulfilled at the end of the spring term, by order of the Warden, in a short ceremony in her study that consisted entirely of Maren Vell writing one line in the great green ledger and blotting it carefully."
+    },
+    {
+      "word": "decorate",
+      "pos": "VERB",
+      "translation": "decorar, adornar",
+      "example": "Ines bought a tiny plastic tree for the kitchen and decorated it with pasta shapes painted gold."
     },
     {
       "word": "decoration",
@@ -12032,6 +12056,12 @@
       "pos": "NOUN",
       "translation": "la fracción («a fraction too late»: una fracción de segundo tarde)",
       "example": "Max moved, but he moved a fraction too late, and the punch caught him on the shoulder."
+    },
+    {
+      "word": "fragile",
+      "pos": "ADJ",
+      "translation": "frágil",
+      "example": "As if she were holding a very fragile thing in both hands."
     },
     {
       "word": "frame",
@@ -17518,6 +17548,12 @@
       "example": "\"Late?\""
     },
     {
+      "word": "late night",
+      "pos": "PHRASE",
+      "translation": "la noche en vela, el trasnoche",
+      "example": "Every job, every favour, every late night, every \"could you just\"."
+    },
+    {
       "word": "late wife",
       "pos": "PHRASE",
       "translation": "la difunta esposa",
@@ -19104,6 +19140,12 @@
       "pos": "PHRASE",
       "translation": "el día de mercado",
       "example": "It was market day, and the square was full of people."
+    },
+    {
+      "word": "market place",
+      "pos": "PHRASE",
+      "translation": "la plaza del mercado",
+      "example": "There were lights across the market place and a giant tree in front of the town hall."
     },
     {
       "word": "Marking",
@@ -21200,6 +21242,12 @@
       "example": "The médiathèque occupied the old offices of the mining company, a heavy brick building with tall windows and an iron staircase that rang under your feet."
     },
     {
+      "word": "occur",
+      "pos": "VERB",
+      "translation": "ocurrir («it never occurred to her»: nunca se le había ocurrido)",
+      "example": "It had never occurred to her that R. could be tired, or sad, or lost."
+    },
+    {
       "word": "October",
       "pos": "PROPN",
       "translation": "octubre",
@@ -21707,6 +21755,12 @@
       "pos": "ADV",
       "translation": "enfrente",
       "example": "Every night, a small grey cat appears on the roof opposite."
+    },
+    {
+      "word": "opposite",
+      "pos": "NOUN",
+      "translation": "lo contrario, lo opuesto",
+      "example": "It wasn't brave. It was the opposite."
     },
     {
       "word": "optimism",
@@ -25344,6 +25398,12 @@
       "example": "\"From tomorrow, during Foundations, you will report to the glasshouses on the western terrace."
     },
     {
+      "word": "report back",
+      "pos": "PHRASE",
+      "translation": "informar, dar cuenta",
+      "example": "Now it was Rosalind who gave the small challenges, and R. who reported back."
+    },
+    {
       "word": "reporter",
       "pos": "NOUN",
       "translation": "el reportero",
@@ -28034,7 +28094,7 @@
     {
       "word": "sign",
       "pos": "VERB",
-      "translation": "firmar",
+      "translation": "firmar («sign sb off work»: darle la baja a alguien)",
       "example": "\"Hale signed that?\""
     },
     {
@@ -29182,6 +29242,12 @@
       "pos": "PHRASE",
       "translation": "pronunciar (sílaba a sílaba)",
       "example": "He whispered the three words written beside it, sounding them out syllable by syllable, like a player trying a cheat code he didn't really believe in."
+    },
+    {
+      "word": "soup",
+      "pos": "NOUN",
+      "translation": "la sopa",
+      "example": "I phoned. I cried. She came round with soup. She didn't mind."
     },
     {
       "word": "source",
@@ -31703,6 +31769,12 @@
       "example": "But she said the first thing that came into her head: \"I'm from the post office.\""
     },
     {
+      "word": "the long way round",
+      "pos": "PHRASE",
+      "translation": "el camino más largo («take the long way round»: dar un rodeo)",
+      "example": "He said it was just taking the long way round."
+    },
+    {
       "word": "the other way round",
       "pos": "PHRASE",
       "translation": "al revés, al contrario",
@@ -32621,6 +32693,12 @@
       "example": "He had never been further than the nearest market town."
     },
     {
+      "word": "town hall",
+      "pos": "PHRASE",
+      "translation": "el ayuntamiento",
+      "example": "There were lights across the market place and a giant tree in front of the town hall."
+    },
+    {
       "word": "toy",
       "pos": "NOUN",
       "translation": "el juguete",
@@ -32985,6 +33063,12 @@
       "pos": "NOUN",
       "translation": "la verdad",
       "example": "\"Do you swear to protect the weak, to defend the truth, and to show mercy even to your enemies?\""
+    },
+    {
+      "word": "truthful",
+      "pos": "ADJ",
+      "translation": "sincero, honesto",
+      "example": "Then, because she was trying to be truthful in every direction now, she said..."
     },
     {
       "word": "try",
@@ -35294,6 +35378,12 @@
       "pos": "ADV",
       "translation": "de par en par («wide open»: abierto de par en par)",
       "example": "Doors left wide open, supper still on the table."
+    },
+    {
+      "word": "wide awake",
+      "pos": "PHRASE",
+      "translation": "completamente despierto",
+      "example": "Rosalind sat up in bed with the notebook on her knees and the lamp pulled close. She was wide awake now."
     },
     {
       "word": "wide open",
