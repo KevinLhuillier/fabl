@@ -764,3 +764,102 @@ There was a long silence on the line. When Mortier spoke again, his voice was qu
 "I was afraid you'd say that. I really was." A pause. "Do you know what's underneath Aubrecourt, Noé? Under the Cité des Acacias, under your school, under the rue des Corons? Two hundred kilometres of tunnels. Old galleries, propped up with wood that's been rotting for forty years. The town is standing on a sponge. It wouldn't take much. A little push, in the right place." Another pause. "I told you the people I work for are less patient than me. They've decided not to wait until Tuesday. I'm sorry. I truly am."
 The line went dead.
 And under Noé's feet, very faintly, so faintly that at first he thought he had imagined it, the pavement began to tremble.
+
+# Three Hundred Steps
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_1-1793193869422.mp3
+Noé didn't think. Afterwards, he was quite proud of that. For once, there was no plan, no spreadsheet, no cold, clear feeling in his chest. There was only his phone in his hand, and the four words he typed into the group chat before he had even finished standing up.
+LAMPS. NOW. EVERYONE.
+Then he called Solange.
+"I know," she said before he could speak. Her voice was steady, but he could hear that she was running. "I can feel it. Everyone can feel it. It's coming from the big slag heap, the one behind your school. There are three of them up there, Noé. Three radios, playing together." A car door slammed. "Didier's driving me. The others are on their way. Where are you?"
+"Rue des Corons."
+"Then you're five minutes away. Don't go up alone. Do you hear me? Whatever happens. Wait for the others."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_2-1793193883048.mp3
+He ran. The trembling under his feet was stronger now, a deep, slow shiver, like the vibration of a lorry passing in the next street, except that there was no lorry. In the Cité des Acacias, car alarms were going off one after another. Lights were coming on in windows. People were standing in doorways in their slippers, looking down at the ground, and then at each other, with the expression of people who had grown up in a mining town and knew exactly what a trembling floor could mean.
+At the corner by the bakery, a crack ran across the road. It was only as wide as a finger, but it was getting longer as he watched, creeping slowly towards the row of miners' cottages like something alive.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_3-1793193898226.mp3
+They were all there when he reached the foot of the slag heap: Inès with her coat over her pyjamas, Adam with his sketchbook and a box of chalk, Arthur, out of breath, holding his little plastic lantern. Behind them, headlights swung into the school car park, and the Watchers poured out of Didier's bus, which he had apparently borrowed from the depot without asking: Solange in her red hat, Father Augustin leaning on Clémence's arm, Madame Benali, the beet farmers in their muddy boots. Every one of them was carrying a lamp.
+High above them, at the top of the black hill, three small figures stood against the orange glow of the town's lights. Noé could feel what they were doing even from here. It was the push, the same gesture he had used on the stairs at school, but huge, patient and terribly precise, aimed straight down through the slag heap into the old ventilation shaft beneath it, and from there along the galleries towards the houses.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_4-1793193907255.mp3
+"Inès," said Solange. "Read it."
+Inès closed her eyes. For a few seconds, her lips moved silently, the way they did when she was solving a maths problem in her head.
+"Three of them," she said. "Sharing the cost, like we do. But it's not even. The one on the left is carrying almost half of it. The one in the middle is doing most of the rest." She opened her eyes. "The one on the right is barely pushing at all. He's holding back. I can see it. It's like he's pretending."
+"Gérald," said Solange quietly.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_5-1793193920555.mp3
+There was no time to discuss it. The ground shivered again, harder, and somewhere in the Cité des Acacias a window cracked with a sound like a gunshot. Solange began to give orders, quickly and calmly, the way Noé imagined a mine foreman might have done when something went wrong underground.
+"Adam, Clémence, Madame Benali: the cottages. Every crack you can find. You know what to draw." Adam was already opening his box of chalk. What was whole remembers being whole. "Augustin, Arthur, everyone else: here, at the bottom, in a circle. Hold the ground. Don't push back against them, you'll only make the tunnels collapse faster. Just hold it. Help it remember." She turned to Noé. "And you and I are going up."
+"You said not to go up alone."
+"You're not alone," said Solange. "You're with me. Bring the book."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_6-1793193928878.mp3
+There were three hundred steps up the slag heap. Noé had climbed them a hundred times since he was a child, on summer evenings, to sit at the top with Inès and Adam and Arthur and look at the town and talk about leaving it. He had never climbed them like this, in the dark, with the whole hill vibrating under his trainers, and a sixty-five-year-old woman in a red hat climbing beside him without once stopping to rest.
+Halfway up, he heard it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_7-1793193940484.mp3
+It began very low, so low it was almost below hearing, rising out of the ground at the foot of the slag heap: Arthur's voice. Then Father Augustin's joined it, thin and cracked and absolutely certain, and then Didier's, and the beet farmers', and the voice of the nervous woman from the post office, who turned out to have a beautiful soprano. They weren't singing a song. They were singing the words of the craft, slowly, all together, the way miners had once sung at the bottom of the pit to keep track of each other in the dark. And under Noé's feet, the trembling began, very slightly, to ease.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_8-1793193951641.mp3
+At the top of the slag heap, the wind was cold and smelled of wet coal. The three members of the Cénacle stood in a triangle on the flat summit, their hands held out towards the ground. On the left was a woman of about seventy in a long dark coat, her white hair tied back, her face as hard and smooth as a stone. In the middle, a young man in a suit, sweating heavily despite the cold. And on the right, his grey coat flapping in the wind, Gérald Mortier.
+He saw them first. His face, in the orange light from the town, looked very tired.
+"Solange," he said.
+"Gérald." She didn't come any closer. "You're pretending. Inès could see it from the bottom."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_9-1793193962725.mp3
+The old woman on the left didn't move her hands, but her eyes turned towards Noé. They were the coldest eyes he had ever seen.
+"So this is the boy," she said. Her voice was elegant and perfectly calm. "Good. It saves time. Here is how this ends, young man. You hold out that book and you say, 'I give it to you,' and you mean it. And we stop. Or you don't, and in about ten minutes, the Cité des Acacias falls into a hole two hundred metres deep, and your mother's flat with it. Your mother is at work tonight, I believe. The neighbours are not."
+Noé looked at her. Then he looked at Mortier, who was not looking at anyone.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_10-1793193972490.mp3
+He thought: Solange said I'm the one who reads. And he understood, at last, what she had meant. It wasn't that he read the grimoire. Everyone could read the grimoire. It was that he read people the way he read a game: their patterns, what they wanted, what they were afraid of. He had read Maxence for six years. He had read the boss's attack pattern. And standing on top of the slag heap in the wind, he read Gérald Mortier, and he saw a seventeen-year-old boy who had once written a note very carefully so that the next person would be able to read it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_11-1793193987949.mp3
+He took the grimoire out of the tea towel. He opened it at the last page of the first chapter. Then he walked across the summit, past the old woman and the sweating young man, and held the open book out to Mortier.
+"I'm not giving it to you," he said. "I'm lending it to you. For one minute. Read the page."
+Mortier stared at him. Then, slowly, as if his hands belonged to somebody else, he let go of the spell, and he took the book.
+The pages were not blank this time. Noé saw the old man's eyes move down the familiar lines: You will want to go too fast. Everyone does. And then they stopped, at the bottom of the page, where there was something new. Noé had written it himself, the night before, in pencil, under the neat handwriting of a boy who had left. He had tried very hard to write it neatly.
+I found them. Thank you.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_12-1793194000355.mp3
+Gérald Mortier made a sound that was not quite a word. His hand, holding the book, began to shake.
+"Gérald!" The old woman's voice cracked like a whip. "Your hands! Take your place!"
+But he didn't. And without him, the triangle was broken. The young man in the suit staggered as the full weight of his share hit him, gasped, and fell to his knees on the black slag. The old woman stood alone, her hands still pointed at the ground, her face suddenly grey with effort. She was very strong, Noé could feel it, stronger than anyone he had ever met. She was still pushing. Under their feet, the slag heap groaned.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_13-1793194018513.mp3
+"She can't hold it alone," said Solange, very quietly. "But she'll try. Her kind always do. The body pays for everything." She held out her hand to Noé. Then, after a moment's hesitation, she held out the other one to Gérald Mortier.
+He looked at it for a long time. Then he closed the grimoire, handed it back to Noé, and took her hand.
+The three of them stood in a line on top of the slag heap. Noé didn't push. None of them pushed. They did what the Watchers were doing at the bottom of the hill, and what Adam was doing with his chalk on the cracked pavements of the rue des Corons: they held. They reached down through the black hill into the old shaft, into the galleries where Solange's grandfather and Noé's great-grandfather had worked by the light of their lamps, and they helped the ground remember what it had been. Far below, Arthur's voice rose to meet them, and Noé felt the others join in, one by one, like lamps being hung on their hooks.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_9.page_14-1793194027168.mp3
+The old woman pushed against all of them for almost a minute. Then her knees gave way, quite slowly, and she sat down on the slag with a look of complete astonishment, as if she had never imagined that such a thing could happen to her.
+The ground was still.
+Far below, in the Cité des Acacias, the car alarms stopped one by one. In the sudden silence, Noé could hear the wind, and somebody laughing at the foot of the slag heap, and, very faintly, Arthur still singing, as if he had forgotten how to stop.

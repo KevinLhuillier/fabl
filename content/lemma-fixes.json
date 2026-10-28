@@ -212,6 +212,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "black",
+      "pos": "PROPN",
+      "word": "black",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "blacker",
       "pos": "PROPN",
       "word": "black",
@@ -471,6 +477,12 @@
       "next": "settled",
       "word": "clear",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "climbing",
+      "pos": "NOUN",
+      "word": "climb",
+      "lemmaPos": "VERB"
     },
     {
       "text": "climbs",
@@ -1633,6 +1645,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "LAMPS",
+      "pos": "PROPN",
+      "word": "lamp",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "laughing",
       "pos": "NOUN",
       "next": ",",
@@ -2743,6 +2761,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Rue",
+      "pos": "PROPN",
+      "word": "rue",
+      "lemmaPos": "X"
+    },
+    {
       "text": "Rule",
       "pos": "VERB",
       "word": "rule",
@@ -3054,6 +3078,12 @@
     {
       "text": "Solange",
       "pos": "ADJ",
+      "word": "Solange",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Solange",
+      "pos": "VERB",
       "word": "Solange",
       "lemmaPos": "PROPN"
     },

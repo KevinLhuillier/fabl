@@ -4350,6 +4350,12 @@
       "example": "There are many cars. — Da sind viele Autos."
     },
     {
+      "word": "car alarm",
+      "pos": "PHRASE",
+      "translation": "die Autoalarmanlage",
+      "example": "In the Cité des Acacias, car alarms were going off one after another."
+    },
+    {
       "word": "car park",
       "pos": "PHRASE",
       "translation": "der Parkplatz",
@@ -8058,6 +8064,12 @@
       "example": "She came into my office one evening with two pieces of paper and an expression on her face that I shall never forget, and asked me, very politely, whether I could explain the discrepancy."
     },
     {
+      "word": "discuss",
+      "pos": "VERB",
+      "translation": "besprechen, diskutieren",
+      "example": "There was no time to discuss it."
+    },
+    {
       "word": "dish",
       "pos": "NOUN",
       "translation": "die Schale, der Teller",
@@ -11254,6 +11266,12 @@
       "example": "\"Last,\" Max repeated, as if it were a word in a foreign language."
     },
     {
+      "word": "foreman",
+      "pos": "NOUN",
+      "translation": "der Vorarbeiter (im Bergwerk: der Steiger)",
+      "example": "Solange began to give orders, quickly and calmly, the way Noé imagined a mine foreman might have done when something went wrong underground."
+    },
+    {
       "word": "forest",
       "pos": "NOUN",
       "translation": "der Wald",
@@ -12839,7 +12857,7 @@
     {
       "word": "great",
       "pos": "ADJ",
-      "translation": "groß, gewaltig",
+      "translation": "groß, gewaltig („great-grandfather“: Urgroßvater)",
       "example": "His Majesty is holding a great tournament at Winchester at the end of the month."
     },
     {
@@ -13005,6 +13023,12 @@
       "example": "Two days later, as Godfrey and Edwin began the slow journey home in a hired cart, they met a group of terrified travellers coming from the south."
     },
     {
+      "word": "group chat",
+      "pos": "PHRASE",
+      "translation": "der Gruppenchat",
+      "example": "There was only his phone in his hand, and the four words he typed into the group chat before he had even finished standing up."
+    },
+    {
       "word": "grow",
       "pos": "VERB",
       "translation": "anbauen; werden („grew tired“: wurde müde)",
@@ -13135,6 +13159,12 @@
       "pos": "ADJ",
       "translation": "metallgrau",
       "example": "Near Berwick he caught a glimpse of the sea, gunmetal grey and flecked with white, and then the road crossed the border, where a roadside sign and a fluttering saltire announced, with characteristic understatement, that he had entered another country."
+    },
+    {
+      "word": "gunshot",
+      "pos": "NOUN",
+      "translation": "der Schuss",
+      "example": "Somewhere in the Cité des Acacias a window cracked with a sound like a gunshot."
     },
     {
       "word": "gust",
@@ -14250,6 +14280,12 @@
       "pos": "PHRASE",
       "translation": "hochhalten; stützen; aufhalten",
       "example": "Bram held the blade up to the firelight, examined its edge, and seemed displeased with it."
+    },
+    {
+      "word": "hole",
+      "pos": "NOUN",
+      "translation": "das Loch",
+      "example": "The Cité des Acacias falls into a hole two hundred metres deep, and your mother's flat with it."
     },
     {
       "word": "holiday",
@@ -15826,6 +15862,12 @@
       "example": "There were five of them, long and high-roofed, built of thousands of small panes of greenish glass set in frames of dark, twisting wood — wood that, Rowan realised as he came closer, had not been cut and joined at all, but had grown into those shapes, bending and branching and interlacing like the walls of Thornhall itself."
     },
     {
+      "word": "join in",
+      "pos": "PHRASE",
+      "translation": "mitmachen, einstimmen",
+      "example": "Far below, Arthur's voice rose to meet them, and Noé felt the others join in, one by one."
+    },
+    {
       "word": "joint",
       "pos": "NOUN",
       "translation": "das Gelenk",
@@ -16004,6 +16046,12 @@
       "pos": "PHRASE",
       "translation": "draußen halten, abhalten",
       "example": "But it had not been made to keep out Bram."
+    },
+    {
+      "word": "keep track of",
+      "pos": "PHRASE",
+      "translation": "im Auge behalten, den Überblick behalten über",
+      "example": "The way miners had once sung at the bottom of the pit to keep track of each other in the dark."
     },
     {
       "word": "keep up",
@@ -22279,6 +22327,12 @@
       "example": "By the end of the second, they had moved on from feathers and pebbles to things that were larger, and harder, and more interesting: lifting a jug of water and pouring it into a cup without spilling a drop; holding a candle flame steady while Mistress Crane opened the window; persuading a brick to stand on its end."
     },
     {
+      "word": "pour out",
+      "pos": "PHRASE",
+      "translation": "herausströmen; ausgießen",
+      "example": "The Watchers poured out of Didier's bus, which he had apparently borrowed from the depot without asking."
+    },
+    {
       "word": "power",
       "pos": "NOUN",
       "translation": "die Kraft, die Macht",
@@ -25788,6 +25842,12 @@
       "example": "It rose from the meadow beyond the mill like a single grey finger raised in warning: twice the height of a man, crusted with gold and silver lichen, and carved all over with spirals so worn that you could only see them when the sun was low and the shadows did the work."
     },
     {
+      "word": "shaft",
+      "pos": "NOUN",
+      "translation": "der Schacht; der Schaft",
+      "example": "Aimed straight down through the slag heap into the old ventilation shaft beneath it."
+    },
+    {
       "word": "shaggy",
       "pos": "ADJ",
       "translation": "zottelig",
@@ -25864,6 +25924,12 @@
       "pos": "NOUN",
       "translation": "die Form, die Gestalt",
       "example": "Peering through a gap between the loft boards, Rowan could make out none of the words, only their shape: a quick, slanting hand, nothing like his uncle's laborious capitals."
+    },
+    {
+      "word": "share",
+      "pos": "NOUN",
+      "translation": "der Anteil",
+      "example": "The young man in the suit staggered as the full weight of his share hit him."
     },
     {
       "word": "share",
@@ -27384,6 +27450,12 @@
       "example": "He understood, slowly, the way you understand the solution to a puzzle you've been staring at for hours."
     },
     {
+      "word": "solve",
+      "pos": "VERB",
+      "translation": "lösen",
+      "example": "Her lips moved silently, the way they did when she was solving a maths problem in her head."
+    },
+    {
       "word": "some",
       "pos": "DET",
       "translation": "einige, manche",
@@ -27472,6 +27544,12 @@
       "pos": "PROPN",
       "translation": "Sophie (Vorname)",
       "example": "Here lived the Taylor family: a father who drove a bus to Kendal, a mother who worked at the bank, and twin girls of eight called Sophie and Sienna."
+    },
+    {
+      "word": "soprano",
+      "pos": "NOUN",
+      "translation": "der Sopran, die Sopranistin",
+      "example": "The voice of the nervous woman from the post office, who turned out to have a beautiful soprano."
     },
     {
       "word": "sore",
@@ -28878,6 +28956,12 @@
       "example": "Tamsin turned around with an expression of such pure, ferocious joy that Rowan laughed out loud in spite of himself."
     },
     {
+      "word": "such",
+      "pos": "DET",
+      "translation": "solch, so ein („such a thing“: so etwas)",
+      "example": "As if she had never imagined that such a thing could happen to her."
+    },
+    {
       "word": "suck",
       "pos": "VERB",
       "translation": "saugen, nuckeln (an einer Pfeife)",
@@ -29200,6 +29284,12 @@
       "pos": "VERB",
       "translation": "schwitzen",
       "example": "He was not sweating."
+    },
+    {
+      "word": "sweating",
+      "pos": "ADJ",
+      "translation": "schwitzend, verschwitzt",
+      "example": "Then he walked across the summit, past the old woman and the sweating young man."
     },
     {
       "word": "sweaty",
@@ -31595,6 +31685,12 @@
       "example": "If a lamp was missing at the end of the shift, it meant a man was still underground."
     },
     {
+      "word": "underground",
+      "pos": "ADV",
+      "translation": "unter Tage, unter der Erde",
+      "example": "The way Noé imagined a mine foreman might have done when something went wrong underground."
+    },
+    {
       "word": "underline",
       "pos": "VERB",
       "translation": "unterstreichen",
@@ -32218,6 +32314,12 @@
       "example": "Then, when Lucas went to buy a can from the vending machine, he leaned towards Romain."
     },
     {
+      "word": "ventilation",
+      "pos": "NOUN",
+      "translation": "die Belüftung („ventilation shaft“: Wetterschacht)",
+      "example": "Aimed straight down through the slag heap into the old ventilation shaft beneath it."
+    },
+    {
       "word": "verge",
       "pos": "NOUN",
       "translation": "der Straßenrand, das Bankett; der Rand („on the verge of“: kurz vor)",
@@ -32258,6 +32360,12 @@
       "pos": "VERB",
       "translation": "vibrieren",
       "example": "Somewhere a loudspeaker was playing heavy music so loudly that the floor vibrated."
+    },
+    {
+      "word": "vibration",
+      "pos": "NOUN",
+      "translation": "die Vibration, das Beben",
+      "example": "A deep, slow shiver, like the vibration of a lorry passing in the next street."
     },
     {
       "word": "vicar",
