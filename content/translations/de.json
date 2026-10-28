@@ -474,6 +474,12 @@
       "example": "In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult."
     },
     {
+      "word": "adventure",
+      "pos": "NOUN",
+      "translation": "das Abenteuer",
+      "example": "The long winters in her old bedroom under the slanted ceiling, reading other people's adventures."
+    },
+    {
       "word": "advert",
       "pos": "NOUN",
       "translation": "die Werbung, die Anzeige",
@@ -1036,6 +1042,18 @@
       "example": "\"Jory Penhallow,\" he announced, flinging the trunk into the wagon and himself after it."
     },
     {
+      "word": "annoy",
+      "pos": "VERB",
+      "translation": "ärgern, stören",
+      "example": "It annoyed her that R. knew about the shepherd's pie."
+    },
+    {
+      "word": "annoying",
+      "pos": "ADJ",
+      "translation": "nervig, lästig",
+      "example": "She had a younger brother who was \"very annoying but I miss him\"."
+    },
+    {
       "word": "anonymous",
       "pos": "ADJ",
       "translation": "anonym",
@@ -1424,6 +1442,12 @@
       "pos": "PHRASE",
       "translation": "was mich betrifft",
       "example": "And as far as I am concerned, that is answer enough."
+    },
+    {
+      "word": "as far as possible",
+      "pos": "PHRASE",
+      "translation": "so weit wie möglich",
+      "example": "She sat in the back row of the big lecture theatre, as usual, as far as possible from everyone."
     },
     {
       "word": "as if",
@@ -1981,6 +2005,12 @@
       "example": "He was sixty-one years old, and in four days' time he would hand that card back for good."
     },
     {
+      "word": "back row",
+      "pos": "PHRASE",
+      "translation": "die letzte Reihe",
+      "example": "She sat in the back row of the big lecture theatre, as usual, as far as possible from everyone."
+    },
+    {
       "word": "backwards",
       "pos": "ADV",
       "translation": "rückwärts, nach hinten",
@@ -2111,6 +2141,12 @@
       "pos": "VERB",
       "translation": "knallen, zuschlagen",
       "example": "Somewhere far off, a long way above them, a door banged."
+    },
+    {
+      "word": "banister",
+      "pos": "NOUN",
+      "translation": "das Treppengeländer",
+      "example": "For a long moment she stood there with one hand on the banister, listening."
     },
     {
       "word": "bank",
@@ -2836,6 +2872,12 @@
       "pos": "NOUN",
       "translation": "das Stück („a bit“: ein bisschen)",
       "example": "Maybe a bit less.\""
+    },
+    {
+      "word": "bite",
+      "pos": "NOUN",
+      "translation": "der Bissen, der Biss",
+      "example": "He took another bite of his sandwich."
     },
     {
       "word": "bite",
@@ -4266,6 +4308,12 @@
       "example": "They looked exactly as they always had: scratched, calloused, a splinter-scar across one knuckle."
     },
     {
+      "word": "Callum",
+      "pos": "PROPN",
+      "translation": "Callum (schottischer Vorname)",
+      "example": "\"I'm Callum, by the way. From the seminar.\""
+    },
+    {
       "word": "calm",
       "pos": "ADJ",
       "translation": "ruhig",
@@ -4576,6 +4624,12 @@
       "pos": "NOUN",
       "translation": "der Kartograf",
       "example": "A band of heavy snow was forecast to move in off the Cairngorms by mid-afternoon, and the Met Office had issued an amber warning that ran, with a cartographer's indifference, straight across the Drumochter Pass."
+    },
+    {
+      "word": "cartoon",
+      "pos": "NOUN",
+      "translation": "der Zeichentrickfilm, der Cartoon („cartoon cat“: Comic-Katze)",
+      "example": "She was wearing a jumper with a cartoon cat on it."
     },
     {
       "word": "cartridge",
@@ -4900,6 +4954,12 @@
       "pos": "PHRASE",
       "translation": "den Besitzer wechseln",
       "example": "\"Just a big warehouse, five hundred people, a lot of beer and a lot of money changing hands at the back."
+    },
+    {
+      "word": "change her mind",
+      "pos": "PHRASE",
+      "translation": "es sich anders überlegen",
+      "example": "Then, before she could change her mind, she turned around and walked into the kitchen."
     },
     {
       "word": "change his mind",
@@ -7296,6 +7356,12 @@
       "example": "But the air in the room turned suddenly damp and cool, and through the crack in the shutters Rowan saw a mist begin to rise from the grass outside — thin at first, then thicker, curling up around the wagon wheels, the horses' legs, the man's knees, swallowing the moonlight."
     },
     {
+      "word": "curly",
+      "pos": "ADJ",
+      "translation": "lockig",
+      "example": "She had dark curly hair tied up with a pencil."
+    },
+    {
       "word": "current",
       "pos": "ADJ",
       "translation": "derzeitig, aktuell",
@@ -7540,6 +7606,12 @@
       "pos": "PHRASE",
       "translation": "der freie Tag",
       "example": "On Saturday he had a day off, and Lily dragged him into town to buy a birthday present for one of her friends."
+    },
+    {
+      "word": "daylight",
+      "pos": "NOUN",
+      "translation": "das Tageslicht",
+      "example": "The green words had not disappeared in the night. They looked even more real in daylight."
     },
     {
       "word": "de",
@@ -9612,6 +9684,12 @@
       "example": "\"Especially when people think they're whispering.\""
     },
     {
+      "word": "essay",
+      "pos": "NOUN",
+      "translation": "der Aufsatz, die Hausarbeit",
+      "example": "Also, if you know everything, what will I get in my first essay?"
+    },
+    {
       "word": "essentially",
       "pos": "ADV",
       "translation": "im Grunde, im Wesentlichen",
@@ -11332,6 +11410,12 @@
       "example": "A letter from a rich merchant on the western coast, offering him a house and a pension for life if he would come and live under his protection."
     },
     {
+      "word": "for no reason",
+      "pos": "PHRASE",
+      "translation": "ohne Grund",
+      "example": "People don't write in other people's diaries for no reason."
+    },
+    {
       "word": "for now",
       "pos": "PHRASE",
       "translation": "vorerst, fürs Erste",
@@ -12044,6 +12128,12 @@
       "pos": "ADJ",
       "translation": "ausgefranst, faserig",
       "example": "One was the letter Rowan had already seen in the firelight, a lifetime ago: worn soft, its folds furred, Whatever happens, Bram showing faintly through the paper."
+    },
+    {
+      "word": "further",
+      "pos": "ADJ",
+      "translation": "weiter („until further notice“: bis auf Weiteres)",
+      "example": "A handwritten card in the window said: CLOSED UNTIL FURTHER NOTICE."
     },
     {
       "word": "further",
@@ -13532,6 +13622,12 @@
       "example": "Home, at the moment, was a narrow terraced house on Hallgarth Street."
     },
     {
+      "word": "hallucination",
+      "pos": "NOUN",
+      "translation": "die Halluzination",
+      "example": "Perhaps it had been a hallucination after all."
+    },
+    {
       "word": "hallway",
       "pos": "NOUN",
       "translation": "der Flur",
@@ -14756,6 +14852,12 @@
       "example": "The sun is hot. — Die Sonne ist heiß."
     },
     {
+      "word": "hot chocolate",
+      "pos": "PHRASE",
+      "translation": "die heiße Schokolade",
+      "example": "She went to the café by the river, ordered a hot chocolate, sat in the corner and opened the notebook on the table."
+    },
+    {
       "word": "Hôtel",
       "pos": "PROPN",
       "translation": "Hôtel (französisch: „Hotel“; „Hôtel de la Gare“)",
@@ -15222,6 +15324,12 @@
       "pos": "VERB",
       "translation": "beeindrucken",
       "example": "What stood beside the shrine, nose to tail, were four long, high-sided farm wagons, each with a canvas hood patched in three different colours and hitched to a pair of shaggy brown oxen who were chewing with the slow, profound indifference of creatures that had seen everything and been impressed by none of it."
+    },
+    {
+      "word": "impression",
+      "pos": "NOUN",
+      "translation": "der Eindruck",
+      "example": "Rosalind had the strange impression that R. was smiling."
     },
     {
       "word": "impressive",
@@ -16264,6 +16372,12 @@
       "example": "At the junction with the A1, a quarter past five, his phone buzzed in its cradle."
     },
     {
+      "word": "June",
+      "pos": "PROPN",
+      "translation": "Juni",
+      "example": "And in June you go home to Kettlewell and tell everyone that university \"wasn't for you\"."
+    },
+    {
       "word": "junior",
       "pos": "ADJ",
       "translation": "jung, Nachwuchs-",
@@ -16286,6 +16400,12 @@
       "pos": "NOUN",
       "translation": "das Känguru",
       "example": "He sends me a calendar with kangaroos every year."
+    },
+    {
+      "word": "karaoke",
+      "pos": "NOUN",
+      "translation": "das Karaoke",
+      "example": "Ines, who had already been to four parties and a karaoke night?"
     },
     {
       "word": "keep",
@@ -17134,6 +17254,18 @@
       "example": "Priya had a lecture in the afternoon, and Max needed to sleep before his night shift."
     },
     {
+      "word": "lecture theatre",
+      "pos": "PHRASE",
+      "translation": "der Hörsaal",
+      "example": "She sat in the back row of the big lecture theatre, as usual, as far as possible from everyone."
+    },
+    {
+      "word": "lecturer",
+      "pos": "NOUN",
+      "translation": "der Dozent",
+      "example": "The lecturer, an elderly man with a soft voice, seemed to be speaking mainly to his own notes."
+    },
+    {
       "word": "LED",
       "pos": "NOUN",
       "translation": "die LED („LED torch“: LED-Taschenlampe)",
@@ -17408,6 +17540,12 @@
       "pos": "NOUN",
       "translation": "das Leben",
       "example": "He had never checked the shutters in his life."
+    },
+    {
+      "word": "lifesaver",
+      "pos": "NOUN",
+      "translation": "der Lebensretter („Lifesaver!“: du rettest mir das Leben!)",
+      "example": "\"Lifesaver,\" he whispered."
     },
     {
       "word": "lifetime",
@@ -17865,6 +18003,12 @@
       "example": "You become a loser."
     },
     {
+      "word": "loss",
+      "pos": "NOUN",
+      "translation": "der Verlust",
+      "example": "The way people say \"sorry for your loss\" without meaning anything special."
+    },
+    {
       "word": "lost",
       "pos": "ADJ",
       "translation": "verloren, entlaufen („lost cat“: Katze entlaufen)",
@@ -17875,6 +18019,12 @@
       "pos": "NOUN",
       "translation": "viel („a lot“)",
       "example": "\"Your cousin says a lot of things.\""
+    },
+    {
+      "word": "lottery",
+      "pos": "NOUN",
+      "translation": "die Lotterie, das Lotto",
+      "example": "I won't tell you about the future, not essays, not lottery numbers, nothing."
     },
     {
       "word": "loud",
@@ -18139,6 +18289,24 @@
       "pos": "PHRASE",
       "translation": "der Hauptkampf",
       "example": "The main event is a local lad called Kyle Burns."
+    },
+    {
+      "word": "mainly",
+      "pos": "ADV",
+      "translation": "hauptsächlich, vor allem",
+      "example": "The lecturer seemed to be speaking mainly to his own notes."
+    },
+    {
+      "word": "Mais",
+      "pos": "PROPN",
+      "translation": "mais (französisch: „aber“; „Mais oui!“: aber ja!)",
+      "example": "\"Mais oui! Of course! There is always pasta! Sit, sit!\""
+    },
+    {
+      "word": "mais oui",
+      "pos": "PHRASE",
+      "translation": "mais oui (französisch: aber ja!, na klar!)",
+      "example": "\"Mais oui! Of course! There is always pasta! Sit, sit!\""
     },
     {
       "word": "Majesty",
@@ -18444,6 +18612,12 @@
       "pos": "VERB",
       "translation": "zusammenpassen („matched horses“: gleiche Pferde)",
       "example": "He had pictured something grand: a gilded carriage, perhaps, drawn by matched grey horses, with the thorned-branch seal of Thornhall painted on its doors."
+    },
+    {
+      "word": "mate",
+      "pos": "NOUN",
+      "translation": "der Kumpel",
+      "example": "Last time, she sold my mate a pen that only writes in the rain."
     },
     {
       "word": "math",
@@ -20012,6 +20186,12 @@
       "example": "Tamsin's whole family had come, and they were making enough noise for a family twice their size: her mother pressing parcels of food into her arms, her little brothers fighting over who got to carry her trunk, her father telling anyone who would listen that his girl had stopped the mill wheel dead, did you hear, dead, with nothing but her own two hands."
     },
     {
+      "word": "noisily",
+      "pos": "ADV",
+      "translation": "laut, geräuschvoll",
+      "example": "The door at the back opened noisily and a tall boy came in, out of breath."
+    },
+    {
       "word": "noisy",
       "pos": "ADJ",
       "translation": "laut",
@@ -20989,6 +21169,12 @@
       "example": "Mistress Ottoline Crane was the tallest person Rowan had ever seen, taller even than Bram, and so thin that her grey robe seemed to hang from her shoulders rather than rest on them."
     },
     {
+      "word": "oui",
+      "pos": "PROPN",
+      "translation": "oui (französisch: „ja“)",
+      "example": "\"Mais oui! Of course! There is always pasta! Sit, sit!\""
+    },
+    {
       "word": "our",
       "pos": "PRON",
       "translation": "unser, unsere",
@@ -21731,6 +21917,12 @@
       "pos": "PROPN",
       "translation": "Penhallow (Nachname)",
       "example": "\"Jory Penhallow,\" he announced, flinging the trunk into the wagon and himself after it."
+    },
+    {
+      "word": "Pennick",
+      "pos": "PROPN",
+      "translation": "Pennick (Nachname; „Mrs Pennick's“: der Laden von Mrs Pennick)",
+      "example": "\"Mrs Pennick's? Nobody knows that, love.\""
     },
     {
       "word": "PENNICK",
@@ -27336,6 +27528,12 @@
       "example": "Light came down through the canopy in long, slanting columns, thick with drifting pollen."
     },
     {
+      "word": "slanted",
+      "pos": "ADJ",
+      "translation": "schräg („slanted ceiling“: Dachschräge)",
+      "example": "The long winters in her old bedroom under the slanted ceiling."
+    },
+    {
       "word": "slanting",
       "pos": "ADJ",
       "translation": "schräg, geneigt",
@@ -28036,6 +28234,12 @@
       "pos": "INTJ",
       "translation": "Entschuldigung ; tut mir leid („Sorry, love?“: Wie bitte, Liebes?)",
       "example": "\"Sorry, love?\""
+    },
+    {
+      "word": "sorry for your loss",
+      "pos": "PHRASE",
+      "translation": "mein Beileid",
+      "example": "The way people say \"sorry for your loss\" without meaning anything special."
     },
     {
       "word": "sort",
@@ -30077,6 +30281,12 @@
       "example": "That in itself was not unusual; he could go a full day on a dozen words and consider himself talkative."
     },
     {
+      "word": "talking",
+      "pos": "NOUN",
+      "translation": "das Reden („do most of the talking“: fast die ganze Zeit reden)",
+      "example": "At first Ines did most of the talking, which was a relief."
+    },
+    {
       "word": "tall",
       "pos": "ADJ",
       "translation": "groß (Körpergröße)",
@@ -30561,6 +30771,12 @@
       "pos": "PHRASE",
       "translation": "verkehrt herum",
       "example": "Now he saw that he had it the wrong way round."
+    },
+    {
+      "word": "theatre",
+      "pos": "NOUN",
+      "translation": "das Theater („lecture theatre“: Hörsaal)",
+      "example": "She sat in the back row of the big lecture theatre."
     },
     {
       "word": "their",
@@ -32525,6 +32741,12 @@
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
     },
     {
+      "word": "until further notice",
+      "pos": "PHRASE",
+      "translation": "bis auf Weiteres",
+      "example": "A handwritten card in the window said: CLOSED UNTIL FURTHER NOTICE."
+    },
+    {
       "word": "untouched",
       "pos": "ADJ",
       "translation": "unberührt",
@@ -32908,6 +33130,12 @@
       "example": "His son had been \"the victim of a cruel recording made without his knowledge\"."
     },
     {
+      "word": "victorian",
+      "pos": "ADJ",
+      "translation": "viktorianisch (aus der Zeit Königin Victorias, 1837–1901)",
+      "example": "The lecture was about Victorian novels."
+    },
+    {
       "word": "victory",
       "pos": "NOUN",
       "translation": "der Sieg",
@@ -33002,6 +33230,12 @@
       "pos": "NOUN",
       "translation": "die Stimme",
       "example": "While Godfrey went to see to the horses, she sat down opposite Edwin and lowered her voice."
+    },
+    {
+      "word": "voice message",
+      "pos": "PHRASE",
+      "translation": "die Sprachnachricht",
+      "example": "She had a grandmother who sent her voice messages every morning."
     },
     {
       "word": "volume",
@@ -33526,6 +33760,12 @@
       "example": "\"No adverts, no magazines, no websites."
     },
     {
+      "word": "wedding",
+      "pos": "NOUN",
+      "translation": "die Hochzeit",
+      "example": "She had done it at school, at parties, at family weddings."
+    },
+    {
       "word": "wedge",
       "pos": "NOUN",
       "translation": "der Keil, das Stück (dreieckig)",
@@ -33578,6 +33818,12 @@
       "pos": "NOUN",
       "translation": "das Gewicht",
       "example": "He could feel the crowd watching him, feel the weight of five hundred pairs of eyes pressing down on the back of his neck like a hand."
+    },
+    {
+      "word": "weird",
+      "pos": "ADJ",
+      "translation": "komisch, seltsam",
+      "example": "\"Why? Did she sell you something weird?\""
     },
     {
       "word": "welcome",

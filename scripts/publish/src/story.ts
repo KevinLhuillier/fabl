@@ -189,9 +189,11 @@ export function parseStory(source: string, fileName: string): ParsedStory {
       audio = audioLine[1]!;
       continue;
     }
-    if (WRITTEN.test(line) && !paragraphText(line)) fail('"> " needs text after it', i + 1);
+    const written = WRITTEN.test(line);
+    // A lone ">" is a blank line inside written text (Markdown tools add them).
+    if (written && !paragraphText(line)) continue;
     if (!page.length) pageLine = i + 1;
-    page.push(line);
+    page.push(written ? `> ${paragraphText(line)}` : line);
   }
   closePage(lines.length);
 

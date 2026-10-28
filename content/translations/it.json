@@ -474,6 +474,12 @@
       "example": "In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult."
     },
     {
+      "word": "adventure",
+      "pos": "NOUN",
+      "translation": "l'avventura",
+      "example": "The long winters in her old bedroom under the slanted ceiling, reading other people's adventures."
+    },
+    {
       "word": "advert",
       "pos": "NOUN",
       "translation": "la pubblicità, lo spot",
@@ -1036,6 +1042,18 @@
       "example": "\"Jory Penhallow,\" he announced, flinging the trunk into the wagon and himself after it."
     },
     {
+      "word": "annoy",
+      "pos": "VERB",
+      "translation": "infastidire, irritare",
+      "example": "It annoyed her that R. knew about the shepherd's pie."
+    },
+    {
+      "word": "annoying",
+      "pos": "ADJ",
+      "translation": "fastidioso, irritante",
+      "example": "She had a younger brother who was \"very annoying but I miss him\"."
+    },
+    {
       "word": "anonymous",
       "pos": "ADJ",
       "translation": "anonimo",
@@ -1424,6 +1442,12 @@
       "pos": "PHRASE",
       "translation": "per quanto mi riguarda",
       "example": "And as far as I am concerned, that is answer enough."
+    },
+    {
+      "word": "as far as possible",
+      "pos": "PHRASE",
+      "translation": "il più lontano possibile; per quanto possibile",
+      "example": "She sat in the back row of the big lecture theatre, as usual, as far as possible from everyone."
     },
     {
       "word": "as if",
@@ -1981,6 +2005,12 @@
       "example": "He was sixty-one years old, and in four days' time he would hand that card back for good."
     },
     {
+      "word": "back row",
+      "pos": "PHRASE",
+      "translation": "l'ultima fila",
+      "example": "She sat in the back row of the big lecture theatre, as usual, as far as possible from everyone."
+    },
+    {
       "word": "backwards",
       "pos": "ADV",
       "translation": "all'indietro",
@@ -2111,6 +2141,12 @@
       "pos": "VERB",
       "translation": "sbattere",
       "example": "Somewhere far off, a long way above them, a door banged."
+    },
+    {
+      "word": "banister",
+      "pos": "NOUN",
+      "translation": "la ringhiera, il corrimano",
+      "example": "For a long moment she stood there with one hand on the banister, listening."
     },
     {
       "word": "bank",
@@ -2836,6 +2872,12 @@
       "pos": "NOUN",
       "translation": "il pezzo («a bit»: un po')",
       "example": "Maybe a bit less.\""
+    },
+    {
+      "word": "bite",
+      "pos": "NOUN",
+      "translation": "il morso, il boccone",
+      "example": "He took another bite of his sandwich."
     },
     {
       "word": "bite",
@@ -4266,6 +4308,12 @@
       "example": "They looked exactly as they always had: scratched, calloused, a splinter-scar across one knuckle."
     },
     {
+      "word": "Callum",
+      "pos": "PROPN",
+      "translation": "Callum (nome scozzese)",
+      "example": "\"I'm Callum, by the way. From the seminar.\""
+    },
+    {
       "word": "calm",
       "pos": "ADJ",
       "translation": "calmo",
@@ -4576,6 +4624,12 @@
       "pos": "NOUN",
       "translation": "il cartografo",
       "example": "A band of heavy snow was forecast to move in off the Cairngorms by mid-afternoon, and the Met Office had issued an amber warning that ran, with a cartographer's indifference, straight across the Drumochter Pass."
+    },
+    {
+      "word": "cartoon",
+      "pos": "NOUN",
+      "translation": "il cartone animato, la vignetta («cartoon cat»: gatto dei cartoni)",
+      "example": "She was wearing a jumper with a cartoon cat on it."
     },
     {
       "word": "cartridge",
@@ -4900,6 +4954,12 @@
       "pos": "PHRASE",
       "translation": "passare di mano",
       "example": "\"Just a big warehouse, five hundred people, a lot of beer and a lot of money changing hands at the back."
+    },
+    {
+      "word": "change her mind",
+      "pos": "PHRASE",
+      "translation": "cambiare idea",
+      "example": "Then, before she could change her mind, she turned around and walked into the kitchen."
     },
     {
       "word": "change his mind",
@@ -7296,6 +7356,12 @@
       "example": "But the air in the room turned suddenly damp and cool, and through the crack in the shutters Rowan saw a mist begin to rise from the grass outside — thin at first, then thicker, curling up around the wagon wheels, the horses' legs, the man's knees, swallowing the moonlight."
     },
     {
+      "word": "curly",
+      "pos": "ADJ",
+      "translation": "riccio",
+      "example": "She had dark curly hair tied up with a pencil."
+    },
+    {
       "word": "current",
       "pos": "ADJ",
       "translation": "attuale",
@@ -7540,6 +7606,12 @@
       "pos": "PHRASE",
       "translation": "il giorno libero",
       "example": "On Saturday he had a day off, and Lily dragged him into town to buy a birthday present for one of her friends."
+    },
+    {
+      "word": "daylight",
+      "pos": "NOUN",
+      "translation": "la luce del giorno",
+      "example": "The green words had not disappeared in the night. They looked even more real in daylight."
     },
     {
       "word": "de",
@@ -9612,6 +9684,12 @@
       "example": "\"Especially when people think they're whispering.\""
     },
     {
+      "word": "essay",
+      "pos": "NOUN",
+      "translation": "il saggio, il tema",
+      "example": "Also, if you know everything, what will I get in my first essay?"
+    },
+    {
       "word": "essentially",
       "pos": "ADV",
       "translation": "essenzialmente, in sostanza",
@@ -11332,6 +11410,12 @@
       "example": "A letter from a rich merchant on the western coast, offering him a house and a pension for life if he would come and live under his protection."
     },
     {
+      "word": "for no reason",
+      "pos": "PHRASE",
+      "translation": "senza motivo",
+      "example": "People don't write in other people's diaries for no reason."
+    },
+    {
       "word": "for now",
       "pos": "PHRASE",
       "translation": "per ora",
@@ -12044,6 +12128,12 @@
       "pos": "ADJ",
       "translation": "sfilacciato, consunto",
       "example": "One was the letter Rowan had already seen in the firelight, a lifetime ago: worn soft, its folds furred, Whatever happens, Bram showing faintly through the paper."
+    },
+    {
+      "word": "further",
+      "pos": "ADJ",
+      "translation": "ulteriore («until further notice»: fino a nuovo avviso)",
+      "example": "A handwritten card in the window said: CLOSED UNTIL FURTHER NOTICE."
     },
     {
       "word": "further",
@@ -13532,6 +13622,12 @@
       "example": "Home, at the moment, was a narrow terraced house on Hallgarth Street."
     },
     {
+      "word": "hallucination",
+      "pos": "NOUN",
+      "translation": "l'allucinazione",
+      "example": "Perhaps it had been a hallucination after all."
+    },
+    {
       "word": "hallway",
       "pos": "NOUN",
       "translation": "il corridoio, l'ingresso",
@@ -14756,6 +14852,12 @@
       "example": "The sun is hot. — Il sole è caldo."
     },
     {
+      "word": "hot chocolate",
+      "pos": "PHRASE",
+      "translation": "la cioccolata calda",
+      "example": "She went to the café by the river, ordered a hot chocolate, sat in the corner and opened the notebook on the table."
+    },
+    {
       "word": "Hôtel",
       "pos": "PROPN",
       "translation": "hôtel (in francese: «albergo»; «Hôtel de la Gare»)",
@@ -15222,6 +15324,12 @@
       "pos": "VERB",
       "translation": "impressionare",
       "example": "What stood beside the shrine, nose to tail, were four long, high-sided farm wagons, each with a canvas hood patched in three different colours and hitched to a pair of shaggy brown oxen who were chewing with the slow, profound indifference of creatures that had seen everything and been impressed by none of it."
+    },
+    {
+      "word": "impression",
+      "pos": "NOUN",
+      "translation": "l'impressione",
+      "example": "Rosalind had the strange impression that R. was smiling."
     },
     {
       "word": "impressive",
@@ -16264,6 +16372,12 @@
       "example": "At the junction with the A1, a quarter past five, his phone buzzed in its cradle."
     },
     {
+      "word": "June",
+      "pos": "PROPN",
+      "translation": "giugno",
+      "example": "And in June you go home to Kettlewell and tell everyone that university \"wasn't for you\"."
+    },
+    {
       "word": "junior",
       "pos": "ADJ",
       "translation": "subalterno, principiante",
@@ -16286,6 +16400,12 @@
       "pos": "NOUN",
       "translation": "il canguro",
       "example": "He sends me a calendar with kangaroos every year."
+    },
+    {
+      "word": "karaoke",
+      "pos": "NOUN",
+      "translation": "il karaoke",
+      "example": "Ines, who had already been to four parties and a karaoke night?"
     },
     {
       "word": "keep",
@@ -17134,6 +17254,18 @@
       "example": "Priya had a lecture in the afternoon, and Max needed to sleep before his night shift."
     },
     {
+      "word": "lecture theatre",
+      "pos": "PHRASE",
+      "translation": "l'aula magna, l'anfiteatro",
+      "example": "She sat in the back row of the big lecture theatre, as usual, as far as possible from everyone."
+    },
+    {
+      "word": "lecturer",
+      "pos": "NOUN",
+      "translation": "il docente (universitario)",
+      "example": "The lecturer, an elderly man with a soft voice, seemed to be speaking mainly to his own notes."
+    },
+    {
       "word": "LED",
       "pos": "NOUN",
       "translation": "il LED («LED torch»: torcia a LED)",
@@ -17408,6 +17540,12 @@
       "pos": "NOUN",
       "translation": "la vita",
       "example": "He had never checked the shutters in his life."
+    },
+    {
+      "word": "lifesaver",
+      "pos": "NOUN",
+      "translation": "il salvavita («Lifesaver!»: mi hai salvato la vita!)",
+      "example": "\"Lifesaver,\" he whispered."
     },
     {
       "word": "lifetime",
@@ -17865,6 +18003,12 @@
       "example": "You become a loser."
     },
     {
+      "word": "loss",
+      "pos": "NOUN",
+      "translation": "la perdita",
+      "example": "The way people say \"sorry for your loss\" without meaning anything special."
+    },
+    {
       "word": "lost",
       "pos": "ADJ",
       "translation": "smarrito, perso («lost cat»: gatto smarrito)",
@@ -17875,6 +18019,12 @@
       "pos": "NOUN",
       "translation": "molto («a lot»)",
       "example": "\"Your cousin says a lot of things.\""
+    },
+    {
+      "word": "lottery",
+      "pos": "NOUN",
+      "translation": "la lotteria",
+      "example": "I won't tell you about the future, not essays, not lottery numbers, nothing."
     },
     {
       "word": "loud",
@@ -18139,6 +18289,24 @@
       "pos": "PHRASE",
       "translation": "l'incontro principale, l'evento clou",
       "example": "The main event is a local lad called Kyle Burns."
+    },
+    {
+      "word": "mainly",
+      "pos": "ADV",
+      "translation": "soprattutto, principalmente",
+      "example": "The lecturer seemed to be speaking mainly to his own notes."
+    },
+    {
+      "word": "Mais",
+      "pos": "PROPN",
+      "translation": "mais (in francese: «ma»; «Mais oui!»: ma certo!)",
+      "example": "\"Mais oui! Of course! There is always pasta! Sit, sit!\""
+    },
+    {
+      "word": "mais oui",
+      "pos": "PHRASE",
+      "translation": "mais oui (in francese: ma certo!, ma sì!)",
+      "example": "\"Mais oui! Of course! There is always pasta! Sit, sit!\""
     },
     {
       "word": "Majesty",
@@ -18444,6 +18612,12 @@
       "pos": "VERB",
       "translation": "abbinare («matched horses»: cavalli appaiati)",
       "example": "He had pictured something grand: a gilded carriage, perhaps, drawn by matched grey horses, with the thorned-branch seal of Thornhall painted on its doors."
+    },
+    {
+      "word": "mate",
+      "pos": "NOUN",
+      "translation": "l'amico",
+      "example": "Last time, she sold my mate a pen that only writes in the rain."
     },
     {
       "word": "math",
@@ -20012,6 +20186,12 @@
       "example": "Tamsin's whole family had come, and they were making enough noise for a family twice their size: her mother pressing parcels of food into her arms, her little brothers fighting over who got to carry her trunk, her father telling anyone who would listen that his girl had stopped the mill wheel dead, did you hear, dead, with nothing but her own two hands."
     },
     {
+      "word": "noisily",
+      "pos": "ADV",
+      "translation": "rumorosamente",
+      "example": "The door at the back opened noisily and a tall boy came in, out of breath."
+    },
+    {
       "word": "noisy",
       "pos": "ADJ",
       "translation": "rumoroso",
@@ -20989,6 +21169,12 @@
       "example": "Mistress Ottoline Crane was the tallest person Rowan had ever seen, taller even than Bram, and so thin that her grey robe seemed to hang from her shoulders rather than rest on them."
     },
     {
+      "word": "oui",
+      "pos": "PROPN",
+      "translation": "oui (in francese: «sì»)",
+      "example": "\"Mais oui! Of course! There is always pasta! Sit, sit!\""
+    },
+    {
       "word": "our",
       "pos": "PRON",
       "translation": "nostro, nostra, nostri",
@@ -21731,6 +21917,12 @@
       "pos": "PROPN",
       "translation": "Penhallow (cognome)",
       "example": "\"Jory Penhallow,\" he announced, flinging the trunk into the wagon and himself after it."
+    },
+    {
+      "word": "Pennick",
+      "pos": "PROPN",
+      "translation": "Pennick (cognome; «Mrs Pennick's»: il negozio della signora Pennick)",
+      "example": "\"Mrs Pennick's? Nobody knows that, love.\""
     },
     {
       "word": "PENNICK",
@@ -27336,6 +27528,12 @@
       "example": "Light came down through the canopy in long, slanting columns, thick with drifting pollen."
     },
     {
+      "word": "slanted",
+      "pos": "ADJ",
+      "translation": "inclinato («slanted ceiling»: soffitto mansardato)",
+      "example": "The long winters in her old bedroom under the slanted ceiling."
+    },
+    {
       "word": "slanting",
       "pos": "ADJ",
       "translation": "inclinato, obliquo",
@@ -28036,6 +28234,12 @@
       "pos": "INTJ",
       "translation": "scusa ; mi dispiace («Sorry, love?»: Come, cara?)",
       "example": "\"Sorry, love?\""
+    },
+    {
+      "word": "sorry for your loss",
+      "pos": "PHRASE",
+      "translation": "condoglianze, mi dispiace per la tua perdita",
+      "example": "The way people say \"sorry for your loss\" without meaning anything special."
     },
     {
       "word": "sort",
@@ -30077,6 +30281,12 @@
       "example": "That in itself was not unusual; he could go a full day on a dozen words and consider himself talkative."
     },
     {
+      "word": "talking",
+      "pos": "NOUN",
+      "translation": "il parlare («do most of the talking»: parlare quasi sempre lei)",
+      "example": "At first Ines did most of the talking, which was a relief."
+    },
+    {
       "word": "tall",
       "pos": "ADJ",
       "translation": "alto (di statura)",
@@ -30561,6 +30771,12 @@
       "pos": "PHRASE",
       "translation": "al contrario, alla rovescia",
       "example": "Now he saw that he had it the wrong way round."
+    },
+    {
+      "word": "theatre",
+      "pos": "NOUN",
+      "translation": "il teatro («lecture theatre»: aula magna)",
+      "example": "She sat in the back row of the big lecture theatre."
     },
     {
       "word": "their",
@@ -32525,6 +32741,12 @@
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
     },
     {
+      "word": "until further notice",
+      "pos": "PHRASE",
+      "translation": "fino a nuovo avviso",
+      "example": "A handwritten card in the window said: CLOSED UNTIL FURTHER NOTICE."
+    },
+    {
       "word": "untouched",
       "pos": "ADJ",
       "translation": "intatto, non toccato",
@@ -32908,6 +33130,12 @@
       "example": "His son had been \"the victim of a cruel recording made without his knowledge\"."
     },
     {
+      "word": "victorian",
+      "pos": "ADJ",
+      "translation": "vittoriano (dell'epoca della regina Vittoria, 1837-1901)",
+      "example": "The lecture was about Victorian novels."
+    },
+    {
       "word": "victory",
       "pos": "NOUN",
       "translation": "la vittoria",
@@ -33002,6 +33230,12 @@
       "pos": "NOUN",
       "translation": "la voce",
       "example": "While Godfrey went to see to the horses, she sat down opposite Edwin and lowered her voice."
+    },
+    {
+      "word": "voice message",
+      "pos": "PHRASE",
+      "translation": "il messaggio vocale",
+      "example": "She had a grandmother who sent her voice messages every morning."
     },
     {
       "word": "volume",
@@ -33526,6 +33760,12 @@
       "example": "\"No adverts, no magazines, no websites."
     },
     {
+      "word": "wedding",
+      "pos": "NOUN",
+      "translation": "il matrimonio",
+      "example": "She had done it at school, at parties, at family weddings."
+    },
+    {
       "word": "wedge",
       "pos": "NOUN",
       "translation": "il cuneo, lo spicchio",
@@ -33578,6 +33818,12 @@
       "pos": "NOUN",
       "translation": "il peso",
       "example": "He could feel the crowd watching him, feel the weight of five hundred pairs of eyes pressing down on the back of his neck like a hand."
+    },
+    {
+      "word": "weird",
+      "pos": "ADJ",
+      "translation": "strano, bizzarro",
+      "example": "\"Why? Did she sell you something weird?\""
     },
     {
       "word": "welcome",

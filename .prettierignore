@@ -4,3 +4,4 @@ dist
 supabase/.temp
 package-lock.json
 expo-env.d.ts
+content/stories

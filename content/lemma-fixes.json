@@ -515,6 +515,12 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "CLOSED",
+      "pos": "PROPN",
+      "word": "closed",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "closes",
       "pos": "NOUN",
       "word": "close",
@@ -977,6 +983,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Fine",
+      "pos": "ADV",
+      "next": ".",
+      "word": "fine",
+      "lemmaPos": "INTJ"
+    },
+    {
       "text": "finer",
       "pos": "PROPN",
       "word": "fine",
@@ -1067,6 +1080,12 @@
     {
       "text": "forgets",
       "pos": "NOUN",
+      "word": "forget",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "forgot",
+      "pos": "VERB",
       "word": "forget",
       "lemmaPos": "VERB"
     },
@@ -1449,6 +1468,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "hopes",
+      "pos": "VERB",
+      "word": "hope",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "House",
       "pos": "PROPN",
       "word": "house",
@@ -1782,6 +1807,12 @@
       "pos": "VERB",
       "word": "lethal",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Lifesaver",
+      "pos": "PROPN",
+      "word": "lifesaver",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "lift",
@@ -2224,6 +2255,12 @@
       "pos": "ADJ",
       "word": "Norwegian",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "NOTICE",
+      "pos": "PROPN",
+      "word": "notice",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Nuage",
@@ -2917,6 +2954,12 @@
       "pos": "NOUN",
       "word": "save",
       "lemmaPos": "ADP"
+    },
+    {
+      "text": "scarf",
+      "pos": "ADJ",
+      "word": "scarf",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Scottish",
@@ -3954,6 +3997,12 @@
       "pos": "PROPN",
       "word": "woodsmoke",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "would",
+      "pos": "NOUN",
+      "word": "would",
+      "lemmaPos": "VERB"
     },
     {
       "text": "wound",

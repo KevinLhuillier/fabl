@@ -119,3 +119,129 @@ Her own words were there, in black. The green words were there too. And below th
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_1.page_20-1793197738980.mp3
 Rosalind read the words three times. Nobody had called her Ros since Grandad Alf. She did not know whether to be frightened or comforted, and in the end she was a little of both. She did not put the notebook back in the wardrobe. She put it on the pillow next to her, with her hand on the cover, the way a child holds a book she is afraid somebody will take away. And for the first time in nine days, Rosalind Hale fell asleep before the sun came up.
+
+# The Rules
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_1-1793199812425.mp3
+When Rosalind woke up, the notebook was still on her pillow and the sun was shining through the thin curtains in a way that made everything look ordinary. For a few seconds she was sure she had dreamt it all. Then she saw the small green mark on the tip of her finger, and her stomach dropped. She sat up, opened the notebook and looked at the first page for a long time. The green words had not disappeared in the night. They looked even more real in daylight.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_2-1793199821819.mp3
+She was a sensible person. Everybody said so: her teachers, her mum, the woman at the post office in Kettlewell. Sensible people did not believe in magic notebooks. Sensible people made experiments. So she took her pen, turned to the second page, and decided to ask questions, the way a scientist or a detective would. She wrote slowly and carefully, pressing hard, as if the pen could hold her steady.
+
+> Who are you?
+> Are you a ghost?
+> Grandad, is it you?
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_3-1793199834075.mp3
+She waited. Nothing happened. She waited longer, counting her breaths, and began to feel foolish. Perhaps the thing only worked at night. Perhaps it had been a hallucination after all, and she should phone her mum and say she wanted to come home. Then, just as she was about to close the cover, the green ink began to appear, slower this time, as if whoever was writing had needed to think.
+
+> I'm not a ghost. I'm not your grandad either. I'm sorry. I know you hoped I was. I miss him too.
+> I can't tell you who I am. Not yet. Please don't ask me every day, because the answer will be the same, and we'll waste a lot of paper.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_4-1793199842483.mp3
+"I miss him too." Rosalind read the line again and frowned. How could somebody miss Grandad Alf if they were not from Kettlewell? Perhaps R. was just being kind, the way people say "sorry for your loss" without meaning anything special. Or perhaps R. was lying. She chewed the end of her pen. There was only one place to look for an explanation, and it was at the top of Saddler Street.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_5-1793199849535.mp3
+She did not have a lecture until two o'clock, so she put the notebook in her bag and walked back into town. The morning was bright and cold, and the river below Framwellgate Bridge was the colour of strong tea. On Saddler Street, she found the phone shop and the candle shop easily. Between them was the green door with the faded gold letters. But the door was locked, the lights were off, and a handwritten card in the window said: CLOSED UNTIL FURTHER NOTICE.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_6-1793199858478.mp3
+Rosalind pressed her face to the glass. Inside, she could see the shelves, the ink bottles, the counter with the crossword still on it. Nobody was there. She stood on the pavement for a minute, unsure what to do. Then, with enormous effort, she went into the phone shop next door. A young man with a beard was eating a sandwich behind the counter. "Excuse me," she said, and her voice came out very small. "The stationer's next door. Do you know when it opens?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_7-1793199867463.mp3
+The young man laughed. "Mrs Pennick's? Nobody knows that, love. She opens when she feels like it. Some weeks it's every day, some months it's never. I've been here three years and I've seen her maybe ten times." He took another bite of his sandwich. "Why? Did she sell you something weird?" Rosalind's heart jumped. "Weird?" she repeated. "Yeah. Last time, she sold my mate a pen that only writes in the rain. He swears it's true." He laughed again. Rosalind did not.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_8-1793199880033.mp3
+She left the shop with burning cheeks and a strange feeling of victory. She had asked a stranger a question. A real question, with a real answer. It was a tiny thing, and nobody else in Durham would have noticed it. But her hands were trembling as she walked down the hill, and not only from fear. She went to the café by the river, ordered a hot chocolate, sat in the corner and opened the notebook on the table.
+
+> I went back to the shop. It's closed. The man next door says Mrs Pennick opens "when she feels like it".
+> Fine. You won't tell me who you are. Then tell me what you want. People don't write in other people's diaries for no reason.
+> Also, if you know everything, what will I get in my first essay?
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_9-1793199893373.mp3
+This time the answer came almost immediately, and Rosalind had the strange impression that R. was smiling.
+
+> You talked to a stranger. Did you notice? Write that down somewhere. It matters.
+> I don't know everything. And I won't tell you about the future, not essays, not lottery numbers, nothing. That's rule number two.
+> Here are all the rules:
+> 1. I don't tell you who I am.
+> 2. I don't tell you the future.
+> 3. Every week, you do one brave thing. Small is fine. Then you write it here.
+> 4. You always tell me the truth. Even when it's embarrassing. Especially then.
+> What I want is simple. I want you to stay in Durham. I want you to stop disappearing.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_10-1793199902237.mp3
+Rosalind read the rules twice, then a third time. "Stop disappearing." It was a strange expression, but it was exactly right. That was what she did. She did not leave rooms; she simply faded out of them, like a photograph left in the sun, until people forgot she was there. She had done it at school, at parties, at family weddings. She had done it so well that sometimes she forgot she was there herself.
+
+> And what if I say no? What if I don't want to play your game?
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_11-1793199915344.mp3
+> Then you close me, put me in a drawer, and in June you go home to Kettlewell and tell everyone that university "wasn't for you". They'll be kind about it. Your mum will make shepherd's pie. And for a very long time, you'll wonder.
+> Your choice, Ros. It always is.
+> — R.
+
+Rosalind closed the notebook and looked out of the window at the river. Her hot chocolate had gone cold. It annoyed her that R. knew about the shepherd's pie. It annoyed her even more that R. was right. She could see that future very clearly: the kind faces, the gentle questions, the long winters in her old bedroom under the slanted ceiling, reading other people's adventures. It was comfortable. It was safe. It frightened her more than any seminar.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_12-1793199924194.mp3
+She opened the notebook again.
+
+> OK. One brave thing a week. What's the first one?
+
+> Two things this week, because you're starting late.
+> The first: before Friday's seminar ends, say one full sentence. Not to Dr Pell, to another student. Something true.
+> The second is easier. Tonight, eat Ines's pasta. She always makes too much because she hopes somebody will join her. She's lonely too, you know. She just hides it with music.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_13-1793199936053.mp3
+At two o'clock, she sat in the back row of the big lecture theatre, as usual, as far as possible from everyone. The lecture was about Victorian novels, and the lecturer, an elderly man with a soft voice, seemed to be speaking mainly to his own notes. Ten minutes after the start, the door at the back opened noisily and a tall boy came in, out of breath, with his scarf half off and his bag open. Rosalind recognised him at once. It was the Scottish boy from the seminar, the one who had made everybody laugh. He looked along the back row, saw the empty seat next to her, and dropped into it with a sigh of relief.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_14-1793199950940.mp3
+For a few minutes he searched through his bag, then through his pockets, then through his bag again. Finally he leaned towards her and whispered, "Sorry. You don't have a pen, do you? I've got three notebooks and no pen. It's a talent." Rosalind hesitated, then gave him her spare biro without a word. "Lifesaver," he whispered. "I'm Callum, by the way. From the seminar. You're Rosalind." It was not a question. She was so surprised that he remembered her name that she simply nodded. He grinned, as if a nod was a perfectly normal way to answer, and started writing. At the end of the lecture he tried to give the pen back, but she shook her head, and he put it in his pocket with a little bow, like a knight receiving a sword. She thought about that bow for the rest of the afternoon, and it annoyed her that she did.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_15-1793199959496.mp3
+Ines, lonely? Rosalind almost laughed. Ines, who sang in the shower, who talked to the postman for twenty minutes, who had already been to four parties and a karaoke night? It seemed impossible. But that evening, when she came home and heard the French music in the kitchen and smelled the garlic and butter, she stopped on the stairs. For a long moment she stood there with one hand on the banister, listening. Then, before she could change her mind, she turned around and walked into the kitchen.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_16-1793199969192.mp3
+Ines was standing at the cooker, stirring a huge pan. She had dark curly hair tied up with a pencil, and she was wearing a jumper with a cartoon cat on it. "Is there..." Rosalind began, and stopped, and tried again. "Is there still some pasta?" Ines turned round so quickly that she almost dropped the spoon. Her face opened like a window. "Mais oui! Of course! There is always pasta! Sit, sit!" She filled two enormous bowls and put one in front of Rosalind with a kind of ceremony.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_17-1793199980682.mp3
+They ate. At first Ines did most of the talking, which was a relief. She was from Lyon. She was in Durham for a year, studying English and history. She had a younger brother who was "very annoying but I miss him" and a grandmother who sent her voice messages every morning. Then, in the middle of a story about the karaoke night, she stopped and looked down at her bowl. "In fact," she said, more quietly, "I sing all the time because the house is so silent. In Lyon, our flat is never silent. Here... sometimes I think I am the only person in the world."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_18-1793199996514.mp3
+Rosalind looked at her for a long moment. Then she said, "Me too." It was only two words. But Ines smiled at her as if she had given a speech. They washed up together, badly, and Ines taught her the words of a French song about a girl who waits for a train that never comes. Rosalind did not sing. But she hummed, very quietly, and Ines pretended not to notice, which was the kindest thing anybody had done for her since she arrived.
+Later, in her room, she opened the green notebook and wrote one line: "I ate the pasta. Ines is lonely too. How did you know?" She waited, but no answer came. She was almost asleep when she looked one last time, and there, in neat green letters, were four words: "Half a brave thing." And underneath, smaller, as if added at the last moment: "Now the sentence."
