@@ -371,6 +371,18 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Breathe",
+      "pos": "NOUN",
+      "word": "breathe",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "breathed",
+      "pos": "NOUN",
+      "word": "breathe",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Bridge",
       "pos": "PROPN",
       "word": "bridge",
@@ -685,6 +697,12 @@
       "next": "-",
       "word": "cross-legged",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "crossword",
+      "pos": "ADJ",
+      "word": "crossword",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "crouch",
@@ -2089,6 +2107,12 @@
       "pos": "NOUN",
       "word": "merciless",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "mic",
+      "pos": "ADJ",
+      "word": "mic",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "midwinter",

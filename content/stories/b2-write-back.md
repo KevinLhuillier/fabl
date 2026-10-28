@@ -699,3 +699,110 @@ She had done it alone. That was true. But it was not completely true. R. had giv
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_19-1793203629293.mp3
 She left the café without explaining and ran all the way back to Hallgarth Street, through the market, over the bridge, up the hill, her bag banging against her side. She went straight through the house to the back door and out into the yard. The blue bin was there, against the wall. She lifted the lid. It was empty. Completely empty. On the pavement outside, a sticker on the next-door bin said, in cheerful letters: COLLECTED FRIDAY MORNING. THANK YOU FOR RECYCLING!
 Rosalind sat down on the wet step, in the yard that smelled of bricks and rain, and for a long time she did not move at all.
+
+# Silence
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_1-1793205162289.mp3
+Ines found her there an hour later, still sitting on the step, wet through, with her bag at her feet. "Rosalind? What are you doing? You will die of cold, and then who will eat my pasta?" She crouched down in front of her and saw her face. Her voice changed. "What happened? The presentation? Callum said it was magnificent, he sent me a message with six exclamation marks..." Rosalind shook her head. "It's not that," she said. "I threw something away. Something important. And now it's gone."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_2-1793205171763.mp3
+"What thing?" Rosalind hesitated. Then, for the first time, she said it out loud. "A notebook. A green notebook. My diary. I put it in the recycling on Monday night because I was angry, and they collected the bins this morning." She waited for Ines to laugh, or to say "It's only a diary, you can buy another one." Instead, Ines went very still. Then she stood up, said, "Wait here. Do not move," and ran into the house.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_3-1793205182491.mp3
+She came back a minute later with a supermarket plastic bag in her hands. Inside the bag, dry and safe, with the black elastic band still wrapped twice around it, was the green notebook. Rosalind stared at it. She could not speak. "On Tuesday morning, I took the paper out," said Ines, a little embarrassed. "Because the engineers never do it, of course. I saw this on top of the pizza boxes. And I thought: nobody throws away a notebook like this, with the elastic so tight, unless they are very sad. So I kept it. For when you are less sad."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_4-1793205193162.mp3
+"Did you read it?" Rosalind's voice came out as a whisper. Ines looked offended. "Of course not! I am French, not a monster." Then, more gently: "I promise. I did not open it. It is complicated, no? You said so. Complicated things, you do not read without permission." Rosalind took the bag with both hands. Then she put it down on the step and threw her arms around Ines, wet coat and all, and held on to her for a long time. Ines patted her back and said, "OK, OK, you are a lion but also a very wet lion."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_5-1793205207445.mp3
+Upstairs, in dry clothes, with a towel around her hair, Rosalind sat at her desk and opened the notebook. Her hands were shaking more than they had that morning in Room 14. She turned the pages slowly, past the first entry, past the rules, past the list on the last page, until she reached Monday night. There were her own angry words, the paper torn where she had pressed too hard: "You're ink... Goodbye." And underneath, in green, small and careful, there was an answer she had never read.
+
+> OK. I understand.
+> You're right that I'm not your mum, or Grandad. You're right that it isn't fair.
+> Good luck on Friday. Breathe before the first sentence. You'll be better than you think.
+> If you ever come back, I'll be here.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_6-1793205222229.mp3
+Rosalind read it three times, and each time it hurt a little more. There was no anger in it. Only a kind of tiredness, as if R. had expected this, as if R. was used to being left. She picked up her pen and wrote quickly, before she could become shy again. She wrote about the presentation, the silence in the fourth minute, the line of the poem that had saved her. She wrote about Dr Pell's "genuinely good" and Femi's lion on the mountain of books. She wrote about Ines and the plastic bag. Then she wrote what she really needed to say.
+
+> I'm sorry. I'm so sorry.
+> You're not "just ink". I was frightened and I wanted somebody to blame, and you were the only one who would never shout back.
+> I didn't do it alone. You were in every sentence. I breathed before the first one, like you said.
+> Please answer. Please.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_7-1793205231665.mp3
+She waited. The house was quiet. Ines had put on soft music downstairs, for once, and the rain had stopped. Rosalind watched the page for ten minutes, then twenty, then an hour. No green ink appeared. At midnight, she wrote, "Goodnight, R." and closed the notebook. In the morning, she opened it before she had even put her glasses on. The page was exactly as she had left it. Her words, in black. Nothing underneath.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_8-1793205241347.mp3
+The silence lasted all weekend. It lasted all the next week. Rosalind wrote every day, at first long apologies, then shorter messages, then simply news. "It snowed a little on Tuesday, but it didn't stay." "Callum got a cold and complained about it like a dying poet." "Ines taught me to make a proper vinaigrette; apparently English people have been doing it wrong for centuries." Every night she wrote, and every morning she looked, and every morning the page under her words was empty.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_9-1793205252408.mp3
+Slowly, a new fear grew inside her, worse than the fear of the presentation. What if she had broken something? What if the notebook only worked as long as you believed in it, and by throwing it away she had killed whatever lived inside? Or worse: what if R. was a real person, somewhere, and something had happened to R.? "I have more to lose than you think." She remembered the blot of ink on the night of the withdrawal form, the letters pressed so hard into the paper. She remembered how tired the last message had sounded.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_10-1793205261620.mp3
+On the second Saturday of the silence, she walked up Saddler Street, not really expecting anything. But the lights in the stationer's were on. The card in the window had gone. When she pushed the door, the little bell rang, and the smell of paper and old wood came out to meet her like an old friend. Mrs Pennick was sitting behind the counter with her crossword, exactly as if she had never left. She looked at Rosalind over her glasses. "Ah," she said. "The green one."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_11-1793205270314.mp3
+Rosalind did not waste time being shy. "It stopped answering," she said. The words came out fast, all together. "It used to answer every night, and then I was horrible, I threw it away, and my friend saved it, and I apologised, but now there's nothing. Two weeks. Is it broken? Did I break it?" Mrs Pennick put down her pencil and folded her thin hands on the counter. For a moment she looked very old, older than the shop, older than the city.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_12-1793205281446.mp3
+"Notebooks like that one don't break, love," she said. "They go both ways. Always have. If nobody's answering, it isn't the paper that's gone quiet." She paused. "It's the person at the other end. Sometimes people have a hard time. Sometimes the hand that writes is too tired to hold the pen." Rosalind felt her throat tighten. "Then what do I do?" Mrs Pennick smiled, and the smile made her look young again, for a second. "What do you think? You write anyway. Writing to somebody is a way of holding their hand. Even when they can't hold yours back."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_13-1793205291452.mp3
+"Who is it?" Rosalind asked. "At the other end. Do you know?" Mrs Pennick picked up her pencil again and looked down at her crossword. "Ten letters," she murmured. "'What we become, given time.' Hmm." Then, without looking up: "Off you go, love. You've got writing to do." When Rosalind reached the door, she turned back to ask what the crossword answer was. But Mrs Pennick had switched off the lamp on the counter, and in the dim light of the shop she seemed to have disappeared into the shadows between the shelves.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_14-1793205301358.mp3
+So Rosalind wrote anyway. She changed the way she wrote. She stopped apologising and stopped asking for answers. Instead, she wrote the way R. had written to her in the first weeks: gently, with small jokes, with tiny challenges. "Today's brave thing for you: drink a glass of water. That's all. It counts." "Ines says that if you are sad, you should eat cheese. She says it is scientific." "I went to the open mic night at the student union with Callum and Femi. I didn't read anything. But I went. Your turn next."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_15-1793205312440.mp3
+The open mic night had been Callum's idea. It took place every other Thursday in a room above the student union bar, a long, low room with fairy lights, a microphone that whistled and about forty people sitting on plastic chairs. Callum read a poem he had written about his dad's bus route, full of street names and the faces of passengers, and it was funny for three verses and then, suddenly, so sad that the room went silent. Femi did not read; he drew everybody who did. Rosalind sat between them with her coat on, ready to leave at any moment, and stayed until the end.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_16-1793205326193.mp3
+Near the end, a first-year girl with a shaved head went up to the microphone with a sheet of paper that shook so much it made a noise. Halfway through her poem, she stopped. She had lost her place. Rosalind recognised the silence immediately, the long white silence of the fourth minute. She held her breath. And then something happened that she had never imagined in any of her fourteen nightmares: somebody at the back called out, "Take your time!" and the whole room began to clap, softly, not to end the poem but to wait for it. The girl laughed, found her line and finished. The applause at the end was enormous. Rosalind clapped until her hands hurt. Walking home, she thought: they wanted her to succeed. All of them. The whole time.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_17-1793205334683.mp3
+She did not know if anyone was reading. Sometimes she felt foolish, like somebody talking to a closed door. But every night she imagined the hand at the other end, tired, too tired to hold the pen, and she thought of Grandad Alf in his hospital bed, smiling weakly and saying, "Chin up, kettle on." So she wrote that too, one night, at the bottom of a page: "Chin up, kettle on. I'm still here. I'm not going anywhere." And she drew a small kettle next to it, very badly, with steam coming out of the spout.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_7.page_18-1793205350708.mp3
+Seventeen days after the silence began, on a cold night at the end of November, Rosalind woke up at two in the morning for no reason. The room was dark. Outside, the streetlight made orange shapes on the ceiling. She lay still for a moment, listening. Then, without knowing why, she turned on the lamp and reached for the notebook on her bedside table. She opened it at the last page she had written on, the page with the bad drawing of the kettle.
+Under the kettle, very slowly, green ink was appearing. The letters were not neat and confident any more. They were small and uneven, and they stopped and started, as if every word cost something. Rosalind held her breath and watched them come.
+
+> Ros.
+> I'm sorry I went quiet. It wasn't because of the bin. I read everything you wrote. Every day. The water, the cheese, the kettle.
+> I'm not doing very well.
+> — R.

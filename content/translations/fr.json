@@ -1671,6 +1671,12 @@
       "translation": "du tout (« not at all » : pas du tout)"
     },
     {
+      "word": "at any moment",
+      "pos": "PHRASE",
+      "translation": "à tout moment",
+      "example": "Rosalind sat between them with her coat on, ready to leave at any moment, and stayed until the end."
+    },
+    {
       "word": "at any rate",
       "pos": "PHRASE",
       "translation": "en tout cas, du moins",
@@ -2375,6 +2381,12 @@
       "pos": "PHRASE",
       "translation": "être sur le point de",
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "be on",
+      "pos": "PHRASE",
+      "translation": "être allumé (lumière, appareil) ; avoir lieu",
+      "example": "But the lights in the stationer's were on."
     },
     {
       "word": "be supposed to",
@@ -4122,6 +4134,12 @@
       "example": "There is a big red bus. — Il y a un grand bus rouge."
     },
     {
+      "word": "bus route",
+      "pos": "PHRASE",
+      "translation": "la ligne de bus, le trajet du bus",
+      "example": "Callum read a poem he had written about his dad's bus route."
+    },
+    {
       "word": "bus shelter",
       "pos": "PHRASE",
       "translation": "l'abribus",
@@ -5008,6 +5026,12 @@
       "pos": "VERB",
       "translation": "écrire à la craie (« chalked with a date » : daté à la craie)",
       "example": "Ruaridh led him down a narrow aisle to a single butt near the far wall, its staves darkened almost to black, its head chalked with a date: 1994."
+    },
+    {
+      "word": "challenge",
+      "pos": "NOUN",
+      "translation": "le défi",
+      "example": "Instead, she wrote the way R. had written to her in the first weeks: gently, with small jokes, with tiny challenges."
     },
     {
       "word": "champion",
@@ -9726,6 +9750,12 @@
       "example": "Sir Edwin became one of the most respected knights in England, known not for the tournaments he won, but for the battles he chose to fight."
     },
     {
+      "word": "english",
+      "pos": "ADJ",
+      "translation": "anglais",
+      "example": "Apparently English people have been doing it wrong for centuries."
+    },
+    {
       "word": "English",
       "pos": "PROPN",
       "translation": "l'anglais (« English department » : département d'anglais)",
@@ -9986,6 +10016,12 @@
       "pos": "DET",
       "translation": "chaque, tous les",
       "example": "Every morning. — Chaque matin."
+    },
+    {
+      "word": "every other",
+      "pos": "PHRASE",
+      "translation": "un… sur deux (« every other Thursday » : un jeudi sur deux)",
+      "example": "It took place every other Thursday in a room above the student union bar."
     },
     {
       "word": "every so often",
@@ -10406,6 +10442,12 @@
       "pos": "NOUN",
       "translation": "la fée (« fairy tale » : conte de fées)",
       "example": "At first it seemed like a fairy tale."
+    },
+    {
+      "word": "fairy lights",
+      "pos": "PHRASE",
+      "translation": "la guirlande lumineuse",
+      "example": "A long, low room with fairy lights, a microphone that whistled and about forty people sitting on plastic chairs."
     },
     {
       "word": "fairy tale",
@@ -14294,6 +14336,12 @@
       "example": "Mia has a cat. — Mia a un chat."
     },
     {
+      "word": "have a hard time",
+      "pos": "PHRASE",
+      "translation": "traverser une période difficile, en baver",
+      "example": "Sometimes people have a hard time."
+    },
+    {
       "word": "have a head for",
       "pos": "PHRASE",
       "translation": "avoir la tête pour, être doué pour",
@@ -14906,6 +14954,12 @@
       "example": "What stood beside the shrine, nose to tail, were four long, high-sided farm wagons, each with a canvas hood patched in three different colours and hitched to a pair of shaggy brown oxen who were chewing with the slow, profound indifference of creatures that had seen everything and been impressed by none of it."
     },
     {
+      "word": "hmm",
+      "pos": "INTJ",
+      "translation": "hum",
+      "example": "\"'What we become, given time.' Hmm.\""
+    },
+    {
       "word": "hoarse",
       "pos": "ADJ",
       "translation": "rauque, enroué",
@@ -14940,6 +14994,12 @@
       "pos": "PHRASE",
       "translation": "maintenir (en place), plaquer",
       "example": "Bram stayed where he was, kneeling on the floor with both hands pressed flat against the hearthstone, as if holding it down."
+    },
+    {
+      "word": "hold her breath",
+      "pos": "PHRASE",
+      "translation": "retenir son souffle",
+      "example": "Rosalind recognised the silence immediately, the long white silence of the fourth minute. She held her breath."
     },
     {
       "word": "hold his breath",
@@ -19466,6 +19526,18 @@
       "example": "Mia has a cat. — Mia a un chat."
     },
     {
+      "word": "mic",
+      "pos": "NOUN",
+      "translation": "le micro (« open mic » : scène ouverte)",
+      "example": "I went to the open mic night at the student union with Callum and Femi."
+    },
+    {
+      "word": "microphone",
+      "pos": "NOUN",
+      "translation": "le microphone, le micro",
+      "example": "A long, low room with fairy lights, a microphone that whistled and about forty people sitting on plastic chairs."
+    },
+    {
       "word": "mid",
       "pos": "NOUN",
       "translation": "le milieu (« mid-afternoon » : le milieu de l'après-midi)",
@@ -20612,6 +20684,12 @@
       "example": "It came out of the north with a howl like a wolf, and by nightfall the snow was so thick that the lamps in the Great Hall could not be seen from Hearthside, fifty paces away."
     },
     {
+      "word": "nightmare",
+      "pos": "NOUN",
+      "translation": "le cauchemar",
+      "example": "Something happened that she had never imagined in any of her fourteen nightmares."
+    },
+    {
       "word": "nightshirt",
       "pos": "NOUN",
       "translation": "la chemise de nuit",
@@ -21182,10 +21260,22 @@
       "example": "For a long while he lay awake in the dark, listening to the strange new sounds of Thornhall settling around him: the breathing of a dozen sleepers behind their curtains, the creak of great branches in the wind, the far-off murmur of the lake, the slow, deep groan of old wood shifting in its sleep."
     },
     {
+      "word": "off you go",
+      "pos": "PHRASE",
+      "translation": "file, vas-y",
+      "example": "Then, without looking up: \"Off you go, love. You've got writing to do.\""
+    },
+    {
       "word": "offend",
       "pos": "VERB",
       "translation": "offenser, vexer (« offended » : vexé)",
       "example": "He had named her after his late wife's favourite expression for anything that refused to be hurried — \"she'll go when she's ready, the duchess\" — and Pauline had pretended to be offended for the better part of a decade."
+    },
+    {
+      "word": "offended",
+      "pos": "ADJ",
+      "translation": "vexé, offensé",
+      "example": "Ines looked offended. \"Of course not! I am French, not a monster.\""
     },
     {
       "word": "offer",
@@ -21575,6 +21665,12 @@
       "pos": "VERB",
       "translation": "ouvrir",
       "example": "For example, I know that the man in the ground-floor flat across the street never opens his curtains."
+    },
+    {
+      "word": "open mic",
+      "pos": "PHRASE",
+      "translation": "la scène ouverte (soirée où chacun peut monter au micro)",
+      "example": "I went to the open mic night at the student union with Callum and Femi."
     },
     {
       "word": "operation",
@@ -22333,6 +22429,12 @@
       "example": "He had eaten two plates of pasta and a whole tub of ice cream, and he was still hungry."
     },
     {
+      "word": "pat",
+      "pos": "VERB",
+      "translation": "tapoter",
+      "example": "Ines patted her back and said, \"OK, OK, you are a lion but also a very wet lion.\""
+    },
+    {
       "word": "patch",
       "pos": "NOUN",
       "translation": "la tache (de lumière), le carré ; la pièce (de tissu)",
@@ -23089,6 +23191,12 @@
       "example": "His eyes were burning so badly that he could hardly see, and every breath tasted of melted plastic."
     },
     {
+      "word": "plastic bag",
+      "pos": "PHRASE",
+      "translation": "le sac en plastique",
+      "example": "She came back a minute later with a supermarket plastic bag in her hands."
+    },
+    {
       "word": "plate",
       "pos": "NOUN",
       "translation": "l'assiette ; la plaque (« metal plate » : plaque de métal)",
@@ -23219,6 +23327,12 @@
       "pos": "NOUN",
       "translation": "le poème",
       "example": "Read the poem for Friday."
+    },
+    {
+      "word": "poet",
+      "pos": "NOUN",
+      "translation": "le poète, la poétesse",
+      "example": "Callum got a cold and complained about it like a dying poet."
     },
     {
       "word": "poetry",
@@ -26616,6 +26730,12 @@
       "example": "She was in her final year of a sports science degree at Leeds Beckett, she ran half-marathons for fun, and she believed in nothing she could not measure."
     },
     {
+      "word": "scientific",
+      "pos": "ADJ",
+      "translation": "scientifique",
+      "example": "Ines says that if you are sad, you should eat cheese. She says it is scientific."
+    },
+    {
       "word": "scientist",
       "pos": "NOUN",
       "translation": "le scientifique",
@@ -27826,6 +27946,12 @@
       "pos": "PHRASE",
       "translation": "le test navette, le Luc Léger",
       "example": "\"You collapsed on the shuttle run.\""
+    },
+    {
+      "word": "shy",
+      "pos": "ADJ",
+      "translation": "timide",
+      "example": "She picked up her pen and wrote quickly, before she could become shy again."
     },
     {
       "word": "sick",
@@ -29334,6 +29460,12 @@
       "example": "He was staring — not at Rowan, but at the fire, at the spot where the shaving had burned — and his face in the orange light wore an expression Rowan had never seen there before."
     },
     {
+      "word": "spout",
+      "pos": "NOUN",
+      "translation": "le bec (d'une bouilloire, d'une théière)",
+      "example": "And she drew a small kettle next to it, very badly, with steam coming out of the spout."
+    },
+    {
       "word": "sprawl",
       "pos": "VERB",
       "translation": "être étendu, vautré",
@@ -30360,6 +30492,12 @@
       "example": "Not as a servant, not as a delivery boy bringing timber to the kitchen gate, but as a student."
     },
     {
+      "word": "student union",
+      "pos": "PHRASE",
+      "translation": "le foyer des étudiants, l'association étudiante",
+      "example": "I went to the open mic night at the student union with Callum and Femi."
+    },
+    {
       "word": "study",
       "pos": "NOUN",
       "translation": "le bureau, le cabinet de travail",
@@ -30412,6 +30550,12 @@
       "pos": "NOUN",
       "translation": "l'affaissement (de terrain)",
       "example": "A localised subsidence event linked to historic underground workings."
+    },
+    {
+      "word": "succeed",
+      "pos": "VERB",
+      "translation": "réussir",
+      "example": "Walking home, she thought: they wanted her to succeed."
     },
     {
       "word": "success",
@@ -33353,6 +33497,12 @@
       "example": "The summons came the next morning, carried by Master Grey, who delivered it with his spectacles on his forehead and an expression of profound unease, as though the note might bite."
     },
     {
+      "word": "uneven",
+      "pos": "ADJ",
+      "translation": "irrégulier, inégal",
+      "example": "They were small and uneven, and they stopped and started, as if every word cost something."
+    },
+    {
       "word": "unexpectedly",
       "pos": "ADV",
       "translation": "de manière inattendue, contre toute attente",
@@ -33423,6 +33573,12 @@
       "pos": "VERB",
       "translation": "désinstaller",
       "example": "\"If they nerf the blacksmiths again, I'm uninstalling,\" Inès said."
+    },
+    {
+      "word": "union",
+      "pos": "NOUN",
+      "translation": "l'union ; le syndicat (« student union » : association étudiante)",
+      "example": "I went to the open mic night at the student union with Callum and Femi."
     },
     {
       "word": "unit",
@@ -33928,6 +34084,12 @@
       "example": "The light had drained away to a dim, sourceless grey in which the road, the verges and the sky were no longer distinguishable from one another."
     },
     {
+      "word": "verse",
+      "pos": "NOUN",
+      "translation": "la strophe, le couplet ; le vers",
+      "example": "It was funny for three verses and then, suddenly, so sad that the room went silent."
+    },
+    {
       "word": "version",
       "pos": "NOUN",
       "translation": "la version",
@@ -34040,6 +34202,12 @@
       "pos": "NOUN",
       "translation": "le villageois",
       "example": "When Edwin arrived at Little Fenwick, the villagers were already packing their belongings, ready to flee into the forest."
+    },
+    {
+      "word": "vinaigrette",
+      "pos": "NOUN",
+      "translation": "la vinaigrette",
+      "example": "Ines taught me to make a proper vinaigrette."
     },
     {
       "word": "vinegar",
@@ -34582,6 +34750,12 @@
       "example": "\"Do you swear to protect the weak, to defend the truth, and to show mercy even to your enemies?\""
     },
     {
+      "word": "weakly",
+      "pos": "ADV",
+      "translation": "faiblement",
+      "example": "Grandad Alf in his hospital bed, smiling weakly and saying, \"Chin up, kettle on.\""
+    },
+    {
       "word": "weapon",
       "pos": "NOUN",
       "translation": "l'arme",
@@ -34808,6 +34982,12 @@
       "pos": "VERB",
       "translation": "mouiller",
       "example": "Max wrapped him and the cat in the duvet from the bed, wet it quickly with water from a glass on the bedside table, and pressed a damp corner of it over the boy's mouth."
+    },
+    {
+      "word": "wet through",
+      "pos": "PHRASE",
+      "translation": "trempé jusqu'aux os",
+      "example": "Ines found her there an hour later, still sitting on the step, wet through, with her bag at her feet."
     },
     {
       "word": "Wetherby",
@@ -35584,6 +35764,12 @@
       "example": "He was tall, good-looking in the way of people who have never had to worry about anything, and his father was the deputy mayor of Aubrecourt."
     },
     {
+      "word": "worse",
+      "pos": "ADV",
+      "translation": "pire (« or worse » : ou pire)",
+      "example": "Or worse: what if R. was a real person, somewhere, and something had happened to R.?"
+    },
+    {
       "word": "worth",
       "pos": "ADJ",
       "translation": "qui vaut (« worth fighting » : qui vaut la peine d'être mené)",
@@ -35660,6 +35846,12 @@
       "pos": "PHRASE",
       "translation": "inscrire, écrire (dans une case)",
       "example": "\"Revenge,\" she said, and wrote it in."
+    },
+    {
+      "word": "write on",
+      "pos": "PHRASE",
+      "translation": "écrire sur",
+      "example": "She opened it at the last page she had written on, the page with the bad drawing of the kettle."
     },
     {
       "word": "writer",
