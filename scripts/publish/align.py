@@ -29,12 +29,21 @@ def normalize(text: str) -> str:
     return "".join(c for c in text.lower() if c.isalnum())
 
 
+# Seconds without progress before a download is given up (a stalled connection otherwise
+# hangs forever); the run stops and can be restarted, aligned pages are skipped.
+FETCH_TIMEOUT = 60
+
+
 def fetch(audio: str) -> str:
     if not audio.startswith(("http://", "https://")):
         return audio
     fd, path = tempfile.mkstemp(suffix=".mp3")
-    with os.fdopen(fd, "wb") as f, urllib.request.urlopen(audio) as r:
-        f.write(r.read())
+    try:
+        with os.fdopen(fd, "wb") as f, urllib.request.urlopen(audio, timeout=FETCH_TIMEOUT) as r:
+            f.write(r.read())
+    except BaseException:
+        os.remove(path)
+        raise
     return path
 
 
