@@ -84,6 +84,12 @@
       "example": "\"She said a great many things.\""
     },
     {
+      "word": "a handful of",
+      "pos": "PHRASE",
+      "translation": "une poignée de, quelques",
+      "example": "There are only a handful of original grimoires left in Europe, Noé."
+    },
+    {
       "word": "a lot",
       "pos": "PHRASE",
       "translation": "beaucoup",
@@ -1639,6 +1645,12 @@
       "example": "Hearthside lay at the foot of the eastern slope, half sunk into the hill like a badger's sett, so that its windows looked out at the level of the grass."
     },
     {
+      "word": "at the last moment",
+      "pos": "PHRASE",
+      "translation": "au dernier moment",
+      "example": "At the last moment, in the lamp room, Solange handed him a dented old miner's lamp from one of the hooks."
+    },
+    {
       "word": "at the same time",
       "pos": "PHRASE",
       "translation": "en même temps",
@@ -1733,6 +1745,12 @@
       "pos": "PROPN",
       "translation": "août",
       "example": "It had one church, one pub, one bakery, a school with forty children and a river that was too cold for swimming even in August."
+    },
+    {
+      "word": "Augustin",
+      "pos": "PROPN",
+      "translation": "Augustin (prénom ; « Father Augustin » : le père Augustin, prêtre)",
+      "example": "An old man in a black jumper whom everyone called Father Augustin."
     },
     {
       "word": "Australia",
@@ -2394,6 +2412,12 @@
       "example": "He was sitting in the pub for the first time in years, with a pint of beer and half the village around him, and he looked almost comfortable."
     },
     {
+      "word": "beet",
+      "pos": "NOUN",
+      "translation": "la betterave",
+      "example": "There were two red-faced brothers in muddy boots who farmed beets near the motorway."
+    },
+    {
       "word": "before",
       "pos": "ADP",
       "translation": "avant, devant",
@@ -2506,6 +2530,12 @@
       "pos": "NOUN",
       "translation": "la ceinture",
       "example": "His keys jingled at his belt."
+    },
+    {
+      "word": "Benali",
+      "pos": "PROPN",
+      "translation": "Benali (nom de famille)",
+      "example": "The woman from the pharmacy on the main street, Madame Benali, who had once sold his mother cough syrup."
     },
     {
       "word": "bench",
@@ -3006,6 +3036,12 @@
       "example": "Godfrey was pale with pain, his leg tied between two wooden boards."
     },
     {
+      "word": "board game",
+      "pos": "PHRASE",
+      "translation": "le jeu de société",
+      "example": "Arthur, after a long hesitation, took from his coat pocket a tiny plastic lantern from a board game, no bigger than his thumb."
+    },
+    {
       "word": "boast",
       "pos": "VERB",
       "translation": "se vanter",
@@ -3106,6 +3142,12 @@
       "pos": "NOUN",
       "translation": "la botte",
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "Bordeaux",
+      "pos": "PROPN",
+      "translation": "Bordeaux (ville du sud-ouest de la France)",
+      "example": "In some families, in Lyon and Bordeaux and elsewhere, the craft is kept like a fortune."
     },
     {
       "word": "border",
@@ -3508,6 +3550,12 @@
       "pos": "ADJ",
       "translation": "brillant, vif, lumineux",
       "example": "Across the square, the blacksmith's son, Edric Vane, was entertaining a half-circle of younger children by snapping his fingers and conjuring a spark — just one, bright and brief as a firefly."
+    },
+    {
+      "word": "brightly",
+      "pos": "ADV",
+      "translation": "vivement, avec éclat",
+      "example": "The tiny plastic lantern in Arthur's hand lit up so brightly that for an instant every shadow in the lamp room disappeared."
     },
     {
       "word": "brilliance",
@@ -4146,6 +4194,18 @@
       "example": "The infirmary healer — a stout, brisk, kindly woman called Mother Rook, who smelled of camphor and treated every student as though they were a slightly disappointing nephew — told him so, at length, while she peered into his eyes and felt the pulse at his wrist and pronounced him, with deep suspicion, to be recovering."
     },
     {
+      "word": "camping",
+      "pos": "NOUN",
+      "translation": "le camping",
+      "example": "Solange made tea on a camping stove at the end of the counter."
+    },
+    {
+      "word": "camping stove",
+      "pos": "PHRASE",
+      "translation": "le réchaud de camping",
+      "example": "Solange made tea on a camping stove at the end of the counter."
+    },
+    {
       "word": "can",
       "pos": "NOUN",
       "translation": "la canette ; la boîte de conserve",
@@ -4584,6 +4644,12 @@
       "example": "In forty years he had hauled steel coil, frozen fish, bagged cement and, on one memorable occasion, a dismantled fairground ride; the Duchess was rated for forty-four tonnes, and today she would be carrying barely six."
     },
     {
+      "word": "Cénacle",
+      "pos": "PROPN",
+      "translation": "le Cénacle (nom du groupe parisien ; un cénacle : un cercle fermé)",
+      "example": "\"The Cénacle. Clever people. Very well dressed.\""
+    },
+    {
       "word": "cent",
       "pos": "NOUN",
       "translation": "cent (« per cent » : pour cent)",
@@ -4648,6 +4714,12 @@
       "pos": "NOUN",
       "translation": "la chaise",
       "example": "A week later, Edwin stood once again in front of the king, this time with Sir Godfrey sitting beside him on a wooden chair, and the young bandit kneeling at his side."
+    },
+    {
+      "word": "chalk",
+      "pos": "NOUN",
+      "translation": "la craie",
+      "example": "Then Adam knelt on the floor with a piece of chalk and drew, very slowly, the diagram from the grimoire."
     },
     {
       "word": "chalk",
@@ -5058,6 +5130,12 @@
       "example": "And Old Moss, on his stool by the fire, gave a small, dry chuckle."
     },
     {
+      "word": "chuckle",
+      "pos": "VERB",
+      "translation": "glousser, rire tout bas",
+      "example": "The Watchers exchanged glances, and Father Augustin chuckled."
+    },
+    {
       "word": "church",
       "pos": "NOUN",
       "translation": "l'église",
@@ -5262,6 +5340,12 @@
       "example": "Nineteen children stood in a ragged line before the Stone, scrubbed and combed and dressed in clothes that had clearly been borrowed for the occasion."
     },
     {
+      "word": "Clémence",
+      "pos": "PROPN",
+      "translation": "Clémence (prénom)",
+      "example": "Clémence, the engineering student, who was twenty-two, had green hair and a nose ring."
+    },
+    {
       "word": "clench",
       "pos": "VERB",
       "translation": "serrer, se crisper",
@@ -5332,6 +5416,24 @@
       "pos": "VERB",
       "translation": "tinter, s'entrechoquer",
       "example": "The bowls clinked."
+    },
+    {
+      "word": "clip",
+      "pos": "NOUN",
+      "translation": "la pince, l'attache (« clip-on light » : lampe à pince)",
+      "example": "Adam had the clip-on light from his drawing desk."
+    },
+    {
+      "word": "clip",
+      "pos": "VERB",
+      "translation": "attacher, fixer (avec une pince) (« clip-on light » : lampe à pince)",
+      "example": "Adam had the clip-on light from his drawing desk."
+    },
+    {
+      "word": "clip on",
+      "pos": "PHRASE",
+      "translation": "à pince, qui se fixe (« clip-on light » : lampe à pince)",
+      "example": "Adam had the clip-on light from his drawing desk."
     },
     {
       "word": "clipboard",
@@ -5838,6 +5940,12 @@
       "example": "Scotch Corner services, at half past seven on a winter's morning, was a place of strange and fleeting communion."
     },
     {
+      "word": "community",
+      "pos": "NOUN",
+      "translation": "la communauté",
+      "example": "\"There are communities all over France,\" she said."
+    },
+    {
       "word": "COMPAGNIE",
       "pos": "PROPN",
       "translation": "compagnie (en français dans le texte)",
@@ -6168,6 +6276,12 @@
       "example": "Every contour of the moor was sheathed in white."
     },
     {
+      "word": "contract",
+      "pos": "NOUN",
+      "translation": "le contrat",
+      "example": "They work for anyone who can pay: companies, ministries, people who want to win elections or contracts."
+    },
+    {
       "word": "contrive",
       "pos": "VERB",
       "translation": "s'arranger pour, réussir à (« contrived to be » : s'était arrangée pour être)",
@@ -6382,6 +6496,12 @@
       "pos": "VERB",
       "translation": "tousser",
       "example": "And from inside the wagon, faint and muffled, so that at first Rowan thought he had imagined it, came the sound of someone coughing — a deep, hoarse, northern cough."
+    },
+    {
+      "word": "cough syrup",
+      "pos": "PHRASE",
+      "translation": "le sirop contre la toux",
+      "example": "Madame Benali, who had once sold his mother cough syrup."
     },
     {
       "word": "could",
@@ -7464,6 +7584,12 @@
       "example": "You can scrub out the ink, but you can't scrub out the dent.\""
     },
     {
+      "word": "dent",
+      "pos": "VERB",
+      "translation": "cabosser (« dented » : cabossé)",
+      "example": "Solange handed him a dented old miner's lamp from one of the hooks."
+    },
+    {
       "word": "Dent",
       "pos": "PROPN",
       "translation": "Dent (nom de famille)",
@@ -7644,6 +7770,12 @@
       "example": "It was wedged between a guide to regional birds and a dictionary of the Picard dialect, and it looked older than both of them put together."
     },
     {
+      "word": "Didier",
+      "pos": "PROPN",
+      "translation": "Didier (prénom)",
+      "example": "Noé recognised the bus driver, whose name was Didier."
+    },
+    {
       "word": "die",
       "pos": "NOUN",
       "translation": "le dé",
@@ -7678,6 +7810,12 @@
       "pos": "ADJ",
       "translation": "différent",
       "example": "Everyone in the castle had a different theory, but nobody had ever dared to ask."
+    },
+    {
+      "word": "differently",
+      "pos": "ADV",
+      "translation": "différemment, autrement",
+      "example": "\"You said there were others. In other towns. Who think differently.\""
     },
     {
       "word": "difficult",
@@ -8856,6 +8994,12 @@
       "example": "\"The Elderwood,\" said Tamsin, leaning over his shoulder."
     },
     {
+      "word": "election",
+      "pos": "NOUN",
+      "translation": "l'élection",
+      "example": "They work for anyone who can pay: companies, ministries, people who want to win elections or contracts."
+    },
+    {
       "word": "electric",
       "pos": "ADJ",
       "translation": "électrique",
@@ -8914,6 +9058,12 @@
       "pos": "ADV",
       "translation": "d'autre (« something else » : autre chose)",
       "example": "But there is something else."
+    },
+    {
+      "word": "elsewhere",
+      "pos": "ADV",
+      "translation": "ailleurs",
+      "example": "In some families, in Lyon and Bordeaux and elsewhere, the craft is kept like a fortune."
     },
     {
       "word": "email",
@@ -9132,6 +9282,12 @@
       "example": "\"So you're the Harehills Hero,\" he said, shaking Max's hand and looking him up and down without much enthusiasm."
     },
     {
+      "word": "enthusiastically",
+      "pos": "ADV",
+      "translation": "avec enthousiasme",
+      "example": "Clémence shook their hands so enthusiastically that Adam's glasses slipped down his nose."
+    },
+    {
       "word": "entire",
       "pos": "ADJ",
       "translation": "entier",
@@ -9226,6 +9382,12 @@
       "pos": "NOUN",
       "translation": "l'étiquette, les convenances",
       "example": "At the door of her cab, Nell hesitated, then hugged him — briefly, awkwardly, in the manner of someone who has never hugged a grown man in a car park before and is uncertain of the etiquette."
+    },
+    {
+      "word": "Europe",
+      "pos": "PROPN",
+      "translation": "l'Europe",
+      "example": "There are only a handful of original grimoires left in Europe, Noé."
     },
     {
       "word": "evacuation",
@@ -9776,6 +9938,12 @@
       "pos": "NOUN",
       "translation": "la ferme",
       "example": "Several farms have been burned, and the king's soldiers have failed to catch the men responsible."
+    },
+    {
+      "word": "farm",
+      "pos": "VERB",
+      "translation": "cultiver, exploiter (une ferme)",
+      "example": "There were two red-faced brothers in muddy boots who farmed beets near the motorway."
     },
     {
       "word": "farmer",
@@ -10834,6 +11002,12 @@
       "example": "She pushed her bicycle beside him for a while before she answered."
     },
     {
+      "word": "for an instant",
+      "pos": "PHRASE",
+      "translation": "un instant",
+      "example": "The tiny plastic lantern in Arthur's hand lit up so brightly that for an instant every shadow in the lamp room disappeared."
+    },
+    {
       "word": "for certain",
       "pos": "PHRASE",
       "translation": "avec certitude, à coup sûr",
@@ -11074,6 +11248,12 @@
       "example": "You know this; every pedlar between here and Mossbridge has been talking about Ashwater for a fortnight."
     },
     {
+      "word": "fortune",
+      "pos": "NOUN",
+      "translation": "la fortune ; la chance",
+      "example": "In some families, in Lyon and Bordeaux and elsewhere, the craft is kept like a fortune."
+    },
+    {
       "word": "forty",
       "pos": "NUM",
       "translation": "quarante",
@@ -11084,6 +11264,12 @@
       "pos": "ADV",
       "translation": "en avant (« step forward » : s'avancer)",
       "example": "Then an old shepherd stepped forward."
+    },
+    {
+      "word": "Fosse",
+      "pos": "PROPN",
+      "translation": "fosse (mot du Nord : le puits de mine ; « Fosse 9 » : le puits n° 9)",
+      "example": "\"Fosse 9? You'll want a lamp, then.\""
     },
     {
       "word": "Foundations",
@@ -11156,6 +11342,12 @@
       "pos": "PHRASE",
       "translation": "image par image",
       "example": "He filmed his hand with his phone and compared it with the diagram, frame by frame, the way he used to study combos in fighting games."
+    },
+    {
+      "word": "France",
+      "pos": "PROPN",
+      "translation": "la France",
+      "example": "\"There are communities all over France,\" she said."
     },
     {
       "word": "frank",
@@ -13016,6 +13208,12 @@
       "example": "On the fourth day, Moss handed him a seed."
     },
     {
+      "word": "hand down",
+      "pos": "PHRASE",
+      "translation": "transmettre (de génération en génération)",
+      "example": "The craft is kept like a fortune and handed down from parents to children."
+    },
+    {
       "word": "hand dryer",
       "pos": "PHRASE",
       "translation": "le sèche-mains",
@@ -13568,6 +13766,12 @@
       "example": "It rose from the meadow beyond the mill like a single grey finger raised in warning: twice the height of a man, crusted with gold and silver lichen, and carved all over with spirals so worn that you could only see them when the sun was low and the shadows did the work."
     },
     {
+      "word": "Heirs",
+      "pos": "PROPN",
+      "translation": "les Héritiers (nom du groupe ; « heir » : héritier)",
+      "example": "They call themselves the Heirs."
+    },
+    {
       "word": "hello",
       "pos": "INTJ",
       "translation": "bonjour, salut",
@@ -13692,6 +13896,12 @@
       "pos": "VERB",
       "translation": "hésiter",
       "example": "The villagers hesitated, then slowly lowered their weapons."
+    },
+    {
+      "word": "hesitation",
+      "pos": "NOUN",
+      "translation": "l'hésitation",
+      "example": "Arthur, after a long hesitation, took from his coat pocket a tiny plastic lantern from a board game."
     },
     {
       "word": "hey",
@@ -14754,6 +14964,12 @@
       "example": "It was full of things in pieces: a radio with no back, three bicycle wheels, a clock from a kitchen, an old sewing machine."
     },
     {
+      "word": "in reply",
+      "pos": "PHRASE",
+      "translation": "en réponse",
+      "example": "The racks of hooks hummed in reply."
+    },
+    {
       "word": "in silence",
       "pos": "PHRASE",
       "translation": "en silence",
@@ -15712,6 +15928,12 @@
       "example": "Not swinging now, but steady, a dull orange glow among the trunks just beyond the shoreline, like the embers of a fire seen through a keyhole."
     },
     {
+      "word": "keyring",
+      "pos": "NOUN",
+      "translation": "le porte-clés",
+      "example": "Inès had the little LED torch from her keyring, which she had used to read under the covers when she was eight."
+    },
+    {
       "word": "kick",
       "pos": "VERB",
       "translation": "donner un coup de pied, frapper (le ballon)",
@@ -16430,6 +16652,12 @@
       "pos": "NOUN",
       "translation": "le cours (magistral)",
       "example": "Priya had a lecture in the afternoon, and Max needed to sleep before his night shift."
+    },
+    {
+      "word": "LED",
+      "pos": "NOUN",
+      "translation": "la LED (« LED torch » : lampe de poche à LED)",
+      "example": "Inès had the little LED torch from her keyring."
     },
     {
       "word": "ledge",
@@ -17403,6 +17631,12 @@
       "example": "It was the name in the last lines that made him read the notice twice."
     },
     {
+      "word": "make a face",
+      "pos": "PHRASE",
+      "translation": "faire la grimace",
+      "example": "\"They call themselves the Heirs.\" She made a face."
+    },
+    {
       "word": "make a mess",
       "pos": "PHRASE",
       "translation": "salir, mettre le désordre",
@@ -18174,6 +18408,12 @@
       "pos": "NOUN",
       "translation": "l'exploitation minière (« mining town » : ville minière)",
       "example": "You come from the forest villages of the south and the mining towns of the northern mountains, from the fishing ports of the western coast and the windswept heights of the east."
+    },
+    {
+      "word": "ministry",
+      "pos": "NOUN",
+      "translation": "le ministère",
+      "example": "They work for anyone who can pay: companies, ministries, people who want to win elections or contracts."
     },
     {
       "word": "minus",
@@ -19298,6 +19538,12 @@
       "example": "That evening, Rowan sat by the hearth with his whittling knife and a block of lime wood, working on a figure he had been carving for a week: a fox, curled nose to tail, asleep."
     },
     {
+      "word": "nose ring",
+      "pos": "PHRASE",
+      "translation": "l'anneau de nez, le piercing au nez",
+      "example": "Clémence, the engineering student, who was twenty-two, had green hair and a nose ring."
+    },
+    {
       "word": "nostril",
       "pos": "NOUN",
       "translation": "la narine",
@@ -19506,6 +19752,12 @@
       "pos": "ADJ",
       "translation": "obligatoire",
       "example": "A driver was permitted nine hours behind the wheel in a single day, extendable to ten no more than twice a week; after four and a half hours of driving, a break of forty-five minutes was obligatory."
+    },
+    {
+      "word": "oblige",
+      "pos": "VERB",
+      "translation": "obliger (« be obliged » : être obligé)",
+      "example": "\"Nobody is obliged.\""
     },
     {
       "word": "observation",
@@ -20593,6 +20845,12 @@
       "example": "The ceremony took place in the great hall of the castle, in front of the king, the lords of the realm and, to Edwin's astonishment, his own parents, whom the king had invited from Ashford."
     },
     {
+      "word": "Paris",
+      "pos": "PROPN",
+      "translation": "Paris",
+      "example": "\"And then there's Paris.\""
+    },
+    {
       "word": "park",
       "pos": "NOUN",
       "translation": "le parc",
@@ -20633,6 +20891,12 @@
       "pos": "ADJ",
       "translation": "particulier ; difficile, pointilleux",
       "example": "Other woodcutters in the Hollow Wilds were less particular."
+    },
+    {
+      "word": "partly",
+      "pos": "ADV",
+      "translation": "en partie",
+      "example": "\"Partly. Yes.\""
     },
     {
       "word": "party",
@@ -20993,6 +21257,12 @@
       "pos": "NOUN",
       "translation": "le pharmacien",
       "example": "A bus driver, a pharmacist, a retired priest, two farmers, a girl who's studying engineering in Lille."
+    },
+    {
+      "word": "pharmacy",
+      "pos": "NOUN",
+      "translation": "la pharmacie",
+      "example": "He thought he recognised the woman from the pharmacy on the main street, Madame Benali."
     },
     {
       "word": "phase",
@@ -23416,6 +23686,12 @@
       "pos": "VERB",
       "translation": "décider, résoudre (de)",
       "example": "But the distillery had asked for the casks by Monday evening — a filling run was scheduled for Tuesday morning — and besides, there was the lay-by above Dalwhinnie, which he had resolved, without quite admitting it, to reach before dark."
+    },
+    {
+      "word": "resource",
+      "pos": "NOUN",
+      "translation": "la ressource",
+      "example": "They believe the craft is a resource, like coal, and that resources exist to be sold."
     },
     {
       "word": "respect",
@@ -28716,6 +28992,12 @@
       "example": "Priya did not look sympathetic."
     },
     {
+      "word": "syrup",
+      "pos": "NOUN",
+      "translation": "le sirop",
+      "example": "Madame Benali, who had once sold his mother cough syrup."
+    },
+    {
       "word": "system",
       "pos": "NOUN",
       "translation": "le système",
@@ -30941,6 +31223,12 @@
       "example": "A small silver hatchback had slid off the road and come to rest nose-down in the ditch, tilted at an angle which suggested that it would not be leaving under its own power."
     },
     {
+      "word": "under the covers",
+      "pos": "PHRASE",
+      "translation": "sous les couvertures, sous la couette",
+      "example": "Inès had the little LED torch from her keyring, which she had used to read under the covers when she was eight."
+    },
+    {
       "word": "Underbrook",
       "pos": "PROPN",
       "translation": "Underbrook (lieu inconnu ; « sous le ruisseau »)",
@@ -31359,6 +31647,12 @@
       "pos": "ADV",
       "translation": "droit, bien droit",
       "example": "This time, there was nobody else in the round room at the top of the tower but the Warden herself, and Maren Vell, sitting very upright at the writing desk by the window with her ink-stained hands folded in her lap."
+    },
+    {
+      "word": "upset",
+      "pos": "ADJ",
+      "translation": "contrarié, bouleversé, fâché",
+      "example": "They would be very upset to hear that anybody can learn it."
     },
     {
       "word": "upside",
@@ -32042,6 +32336,18 @@
       "pos": "PHRASE",
       "translation": "le chef de garde (grade de pompier, ≈ lieutenant)",
       "example": "\"Watch Manager Hollis,\" she said."
+    },
+    {
+      "word": "watcher",
+      "pos": "NOUN",
+      "translation": "le veilleur, le guetteur",
+      "example": "\"Every Watcher lights their own lamp,\" Solange explained."
+    },
+    {
+      "word": "Watcher",
+      "pos": "PROPN",
+      "translation": "Veilleur (membre des Veilleurs, le groupe de Solange)",
+      "example": "\"Every Watcher lights their own lamp,\" Solange explained."
     },
     {
       "word": "Watchers",
@@ -32800,6 +33106,12 @@
       "example": "Then the next, and the next, faster and faster, red, blue, green, until his arms were moving like the wings of a hummingbird."
     },
     {
+      "word": "wink",
+      "pos": "VERB",
+      "translation": "faire un clin d'œil",
+      "example": "When Noé showed him his ticket, he winked and said, \"Fosse 9? You'll want a lamp, then.\""
+    },
+    {
       "word": "winner",
       "pos": "NOUN",
       "translation": "le vainqueur, le gagnant",
@@ -32924,6 +33236,12 @@
       "pos": "PHRASE",
       "translation": "sans prévenir, sans crier gare",
       "example": "It threads its way north from Perth through a succession of glens, now dual carriageway, now single, so that impatient motorists are forever being lured into overtaking on stretches that narrow without warning."
+    },
+    {
+      "word": "wizard",
+      "pos": "NOUN",
+      "translation": "le sorcier, le magicien",
+      "example": "They were not, Noé thought, what anyone would imagine when they heard the word \"wizards\"."
     },
     {
       "word": "wobble",

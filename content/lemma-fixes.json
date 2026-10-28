@@ -754,6 +754,12 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "drew",
+      "pos": "NOUN",
+      "word": "draw",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "drystone",
       "pos": "NOUN",
       "word": "drystone",
@@ -1635,6 +1641,18 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "LED",
+      "pos": "ADJ",
+      "word": "LED",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "LED",
+      "pos": "NOUN",
+      "word": "LED",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "left",
       "pos": "ADJ",
       "next": ",",
@@ -2209,6 +2227,12 @@
       "pos": "NOUN",
       "word": "Otley",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Ours",
+      "pos": "PROPN",
+      "word": "ours",
+      "lemmaPos": "PRON"
     },
     {
       "text": "out",

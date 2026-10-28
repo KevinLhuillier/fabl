@@ -476,3 +476,103 @@ Lucas stared at the photocopies, then at him. Something in his face changed slig
 "Maxence hasn't even sent a message," he said. "Not one. Romain neither." He took the notes awkwardly with his left hand. "Six years I've been his friend."
 Noé didn't know what to say to that, so he didn't say anything. They stood on the doorstep for a moment in the drizzle, two boys who had never had a real conversation, and the weight of what Noé knew, and Lucas didn't, sat between them like a third person.
 "See you," said Lucas finally, and closed the door. But he didn't slam it.
+
+# The Lamp Room
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_1-1793191449641.mp3
+Telling them the truth was harder than anything the grimoire had asked of him.
+He did it on Monday evening in Arthur's garage, with the fridge humming and the bare bulb swinging slightly in the draught. He told them about the walls, which Inès already knew, and about the push, which she didn't. He told them that the plan had said stop, and that he had heard it in his head, clearly, and had decided not to listen. He told them about the bus shelter and the woman in the red hat. He didn't make himself look better than he was. Solange had said all of it, and he had found that the only way to say all of it was not to look at anyone while he did.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_2-1793191462320.mp3
+When he finished, Inès was very pale. "I helped," she said. "It was my plan. I wrote the timings."
+"Your plan said stop."
+"My plan said a lot of things." She pulled her sleeves down over her hands. "It didn't have a section for what happens if somebody gets hurt. I had a whole page of risks and I didn't think of that one. Not once."
+Adam didn't say "I told you so". Noé had been waiting for it, and almost wanted it, because it would have been easier than silence. Instead, Adam opened his sketchbook, the mended one, and turned it so that Noé could see the girl on the slag heap.
+"You did this too," he said. "Both things are true. You have to remember both."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_3-1793191471303.mp3
+It was Arthur who surprised them. He had listened to everything without moving, his huge hands flat on the green blanket. Now he looked up, and his face was not red or embarrassed. It was something Noé had never seen on Arthur's face before. It was angry.
+"You did it for me," he said.
+"Partly. Yes."
+"You didn't ask me." His voice was quiet, as always, but it didn't shake. "Everybody decides things for me. Teachers. My parents. Maxence. I thought you were the only people who didn't. Don't do things for me without asking me. Ever. Even good things."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_4-1793191486660.mp3
+It was the longest speech any of them had ever heard him make. Nobody spoke for a while after it. Then Noé said, "OK," and Inès said, "OK," and Adam said, "That's fair," and Arthur nodded once, as if a door had been closed and locked.
+"So," he said. "Saturday. Six o'clock. Do we need to bring anything?"
+They needed to bring a lamp.
+Solange hadn't told Noé that, but the bus driver did, on Saturday afternoon, when the four of them climbed onto the last bus to the end of the line. He was a big, cheerful man with a grey moustache, and when Noé showed him his ticket, he winked and said, "Fosse 9? You'll want a lamp, then. Any kind. Something that means something to you." Then he drove the rest of the way whistling, and Inès stared at the back of his head as if she were trying to read it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_5-1793191495301.mp3
+They found lamps on the way. Inès had the little LED torch from her keyring, which she had used to read under the covers when she was eight. Adam had the clip-on light from his drawing desk. Arthur, after a long hesitation, took from his coat pocket a tiny plastic lantern from a board game, no bigger than his thumb. Noé had nothing. He had forgotten. At the last moment, in the lamp room, Solange handed him a dented old miner's lamp from one of the hooks.
+"It was my grandfather's," she said. "Don't drop it."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_6-1793191511438.mp3
+There were nine Watchers in the lamp room that evening. Noé recognised the bus driver, whose name was Didier, and he thought he recognised the woman from the pharmacy on the main street, Madame Benali, who had once sold his mother cough syrup. There were two red-faced brothers in muddy boots who farmed beets near the motorway, an old man in a black jumper whom everyone called Father Augustin, a nervous woman who worked at the post office, and Clémence, the engineering student, who was twenty-two, had green hair and a nose ring, and shook their hands so enthusiastically that Adam's glasses slipped down his nose.
+They were not, Noé thought, what anyone would imagine when they heard the word "wizards". They looked like the people waiting at the bus stop on any wet morning in Aubrecourt. He realised, slowly, that this was probably the point.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_7-1793191521313.mp3
+The first lesson was the lamps.
+"Every Watcher lights their own lamp," Solange explained, "using nothing but the craft. Not because it's difficult, although it is the first time, but because it's a promise. When you hang your lamp on a hook, it means you're here. It means you'll come back. If a lamp is missing, the others go looking for you." She looked at the four of them in turn. "Nobody is obliged. You can walk out of here tonight and never come back, and nobody will stop you. But if you hang a lamp, you're one of us, and we're yours."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_8-1793191530851.mp3
+Inès went first, because Inès always went first. It took her four attempts. Her mind kept running ahead, as it had in the garage, until Clémence came and stood next to her and said something quietly in her ear. Inès laughed in surprise, and on the next try, the little LED torch came on by itself, with no battery inside it at all.
+"What did you tell her?" Noé asked Clémence later.
+"That the questions will still be there afterwards," Clémence said. "They always are. She doesn't have to hold them all at once."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_9-1793191542041.mp3
+Adam didn't use a gesture at all. He asked Solange whether he could draw one instead, and the Watchers exchanged glances, and Father Augustin chuckled. Then Adam knelt on the floor with a piece of chalk and drew, very slowly, the diagram from the grimoire: two hands, every angle exact, every arrow in place. When he spoke the words over the drawing, the chalk lines glowed for a second, and the clip-on lamp beside them flickered and came on.
+"A drawn gesture," said Father Augustin, "is a gesture that waits. Very few people can do that. You have to draw it perfectly, and nobody draws perfectly." He looked at Adam over his glasses. "Almost nobody."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_10-1793191552180.mp3
+Then it was Arthur's turn, and Noé held his breath.
+Arthur's gesture was perfect, as it had been in the garage. His focus was perfect. And his voice, once again, was too quiet; the words came out apologising, and the little plastic lantern stayed dark. He tried again, and again. On the fourth attempt, his neck started to turn red, and Noé saw his shoulders begin to rise the way they did in the school corridors.
+Father Augustin got up from his chair. He was very old and very thin, and he had to tilt his head right back to look at Arthur's face.
+"Don't speak the words," he said. "Sing them."
+"I can't sing."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_11-1793191565202.mp3
+"Everyone can sing. Most people have just been told not to." The old man smiled. "For forty years I sang in a church that held six hundred people, and on a good Sunday there were eleven. You learn not to care who is listening. Sing them as low as you can. Don't think about the words. Think about the floor. Think about the mine underneath it."
+Arthur closed his eyes. For a long moment, nothing happened. Then he opened his mouth, and a sound came out of it that none of them had ever heard: a voice so deep it seemed to come up through the soles of their shoes, slow and steady and enormous, filling the long room right up to the slate roof. The racks of hooks hummed in reply. The cracked oil lamp on its hook rang like a glass. And the tiny plastic lantern in Arthur's hand lit up so brightly that for an instant every shadow in the lamp room disappeared.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_12-1793191575505.mp3
+When it was over, the beet farmers were clapping, and Clémence was wiping her eyes, and Arthur stood in the middle of it all with an expression of total astonishment, as if someone had just handed him a present he had been looking for his whole life without knowing it.
+Noé lit Solange's grandfather's lamp last. He did it slowly, without hurry, with no anger in him at all, and the old lamp gave a warm, steady light that didn't flicker once. When he hung it on hook number 1924, next to Arthur's lantern and Adam's clip-on light and Inès's little torch, it felt like the most important thing he had ever done. Not the most impressive. The most important.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_13-1793191589298.mp3
+Later, when the others had gone outside to look at the stars above the headframe, Solange made tea on a camping stove at the end of the counter, and Noé asked her the question he had been holding on to all evening.
+"You said there were others. In other towns. Who think differently."
+Solange poured the tea before answering.
+"There are communities all over France," she said. "Most of them are like us. Small, quiet, a bit old-fashioned. But not all. In some families, in Lyon and Bordeaux and elsewhere, the craft is kept like a fortune and handed down from parents to children, and they would be very upset to hear that anybody can learn it. They call themselves the Heirs." She made a face. "And then there's Paris."
+"What's in Paris?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_6.page_14-1793191603157.mp3
+"The Cénacle. Clever people. Very well dressed. They believe the craft is a resource, like coal, and that resources exist to be sold. They work for anyone who can pay: companies, ministries, people who want to win elections or contracts." She blew on her tea. "And for a very long time, they have wanted that book. There are only a handful of original grimoires left in Europe, Noé. Most of them belong to the Cénacle now. Ours is one of the last that doesn't belong to anyone."
+"Do they know I have it?"
+Solange didn't answer immediately. She was looking out of the tall arched window, towards the road and the fields and the distant lights of Aubrecourt. Her hand had stopped halfway to her mouth with the cup.
+"Somebody has just switched a radio on," she said quietly. "In town. Somebody I don't know." She put the cup down very carefully on the counter. "And they're not trying to hide it at all."
