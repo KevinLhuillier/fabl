@@ -22,6 +22,7 @@ import {
 } from 'react';
 import { AppState, Platform } from 'react-native';
 import Purchases, {
+  LOG_LEVEL,
   PURCHASES_ERROR_CODE,
   type CustomerInfo,
   type PurchasesPackage,
@@ -85,9 +86,28 @@ const isActive = (s: Subscription | null) =>
 
 const hasEntitlement = (info: CustomerInfo) => info.entitlements.active[ENTITLEMENT] !== undefined;
 
+/**
+ * The SDK's default handler sends everything to the console, closing the Google Play sheet
+ * included (logged as an error): the app handles that one, it is only debug noise.
+ */
+function logStore(level: LOG_LEVEL, message: string) {
+  const line = `[RevenueCat] ${message}`;
+  if (level === LOG_LEVEL.ERROR && /USER_CANCELED|PurchaseCancelledError/.test(message)) {
+    console.debug(line);
+  } else if (level === LOG_LEVEL.ERROR) {
+    console.error(line);
+  } else if (level === LOG_LEVEL.WARN) {
+    console.warn(line);
+  } else {
+    console.debug(line);
+  }
+}
+
 let configured = false;
 function configureStore() {
   if (configured || !API_KEY) return;
+  // Before configure, which installs the default handler otherwise.
+  Purchases.setLogHandler(logStore);
   Purchases.configure({ apiKey: API_KEY });
   configured = true;
 }
