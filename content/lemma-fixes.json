@@ -212,6 +212,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Biscuits",
+      "pos": "PROPN",
+      "word": "biscuit",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "black",
       "pos": "PROPN",
       "word": "black",
@@ -424,6 +430,12 @@
       "next": "-",
       "word": "broad-shouldered",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Brook",
+      "pos": "PROPN",
+      "word": "brook",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "bruised",
@@ -735,6 +747,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "curiously",
+      "pos": "NOUN",
+      "word": "curiously",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "curling",
       "pos": "NOUN",
       "word": "curl",
@@ -986,6 +1004,18 @@
       "pos": "ADJ",
       "word": "extinguish",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "F",
+      "pos": "NOUN",
+      "word": "F",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "F.",
+      "pos": "PROPN",
+      "word": "F",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "facing",
@@ -2915,6 +2945,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "remembering",
+      "pos": "NOUN",
+      "word": "remember",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "remembers",
       "pos": "NOUN",
       "word": "remember",
@@ -3590,6 +3626,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Stream",
+      "pos": "PROPN",
+      "word": "stream",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "streaming",
       "pos": "NOUN",
       "word": "stream",
@@ -3602,9 +3644,21 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "stuffing",
+      "pos": "VERB",
+      "word": "stuffing",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "stumble",
       "pos": "NOUN",
       "word": "stumble",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "SUBMIT",
+      "pos": "PROPN",
+      "word": "submit",
       "lemmaPos": "VERB"
     },
     {
@@ -3741,6 +3795,12 @@
       "pos": "PROPN",
       "word": "teenager",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Ten",
+      "pos": "PROPN",
+      "word": "ten",
+      "lemmaPos": "NUM"
     },
     {
       "text": "Tennis",
@@ -4257,6 +4317,13 @@
       "pos": "VERB",
       "word": "wind",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "wrong",
+      "pos": "NOUN",
+      "next": "?",
+      "word": "wrong",
+      "lemmaPos": "ADV"
     },
     {
       "text": "x.",

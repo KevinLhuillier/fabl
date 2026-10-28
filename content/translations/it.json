@@ -629,6 +629,12 @@
       "example": "\"Ah,\" she said, without looking up."
     },
     {
+      "word": "ah well",
+      "pos": "PHRASE",
+      "translation": "vabbè, pazienza",
+      "example": "\"Ah well,\" he said cheerfully. \"Nothing's ever finished. It's just due.\""
+    },
+    {
       "word": "ahead",
       "pos": "ADV",
       "translation": "avanti, davanti",
@@ -3666,6 +3672,12 @@
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
     },
     {
+      "word": "breadcrumb",
+      "pos": "NOUN",
+      "translation": "la briciola di pane («breadcrumbs»: il pangrattato)",
+      "example": "She went to the kitchen cupboard, took out the bag of breadcrumbs and the dried sage."
+    },
+    {
       "word": "breadth",
       "pos": "NOUN",
       "translation": "la larghezza («a hair's breadth»: un capello; «a finger's breadth»: un dito)",
@@ -5442,6 +5454,12 @@
       "example": "Sir Edwin became one of the most respected knights in England, known not for the tournaments he won, but for the battles he chose to fight."
     },
     {
+      "word": "chop",
+      "pos": "VERB",
+      "translation": "tritare, tagliare",
+      "example": "When her mum came back with the dog, Rosalind was already chopping onions."
+    },
+    {
       "word": "christening",
       "pos": "NOUN",
       "translation": "il battesimo",
@@ -6186,6 +6204,12 @@
       "example": "\"Come along, Ashby.\""
     },
     {
+      "word": "come and go",
+      "pos": "PHRASE",
+      "translation": "andare e venire, passare («Christmas came and went»: il Natale passò)",
+      "example": "Christmas came and went."
+    },
+    {
       "word": "come back",
       "pos": "PHRASE",
       "translation": "tornare",
@@ -6454,6 +6478,12 @@
       "pos": "NOUN",
       "translation": "il concerto",
       "example": "But Ruth stood up suddenly, because a group of children from the school had arrived with their teacher to practise songs for the Christmas concert."
+    },
+    {
+      "word": "conclusion",
+      "pos": "NOUN",
+      "translation": "la conclusione",
+      "example": "\"The conclusion is terrible. The introduction is worse.\""
     },
     {
       "word": "concrete",
@@ -7522,6 +7552,12 @@
       "pos": "ADJ",
       "translation": "curioso",
       "example": "He had not been in the hall five minutes before he became aware of the looks: quick, curious, sliding glances from the tables around him, followed by murmurs behind hands."
+    },
+    {
+      "word": "curiously",
+      "pos": "ADV",
+      "translation": "con curiosità",
+      "example": "A man walked past with a dog and looked at her curiously."
     },
     {
       "word": "curl",
@@ -9091,6 +9127,12 @@
     },
     {
       "word": "duck",
+      "pos": "NOUN",
+      "translation": "l'anatra",
+      "example": "Loud enough to make a duck on the river take off in a panic."
+    },
+    {
+      "word": "duck",
       "pos": "VERB",
       "translation": "abbassarsi, schivare",
       "example": "Max slipped, ducked, stepped back, stepped in."
@@ -9190,6 +9232,12 @@
       "pos": "NOUN",
       "translation": "(Scozia) il muretto; la diga",
       "example": "At Aviemore he turned off towards Grantown, and the road narrowed and grew intimate, winding between birch woods and drystone dykes and fields in which sheep stood motionless, their fleeces yellowish against the snow."
+    },
+    {
+      "word": "E",
+      "pos": "PROPN",
+      "translation": "E (la lettera)",
+      "example": "Rosalind counted on her cold fingers, the way she had counted words on her ninth day in Durham. F, U, T, U, R, E. S, E, L, F. Ten."
     },
     {
       "word": "E.",
@@ -10364,6 +10412,12 @@
       "pos": "PROPN",
       "translation": "il Nido (casa dell'Aria, «nido d'aquila»)",
       "example": "The Eyrie, top of the north stair, and I'm afraid it is the top, all two hundred and twelve steps of it."
+    },
+    {
+      "word": "F",
+      "pos": "PROPN",
+      "translation": "F (la lettera)",
+      "example": "Rosalind counted on her cold fingers, the way she had counted words on her ninth day in Durham. F, U, T, U, R, E. S, E, L, F. Ten."
     },
     {
       "word": "F.C.",
@@ -12521,9 +12575,21 @@
     },
     {
       "word": "future",
+      "pos": "ADJ",
+      "translation": "futuro",
+      "example": "Ten letters. \"What we become, given time.\" FUTURE SELF."
+    },
+    {
+      "word": "future",
       "pos": "NOUN",
       "translation": "il futuro, l'avvenire",
       "example": "It's an act of faith in a future you'll very likely not attend."
+    },
+    {
+      "word": "future self",
+      "pos": "PHRASE",
+      "translation": "il sé futuro, l'io del futuro",
+      "example": "Ten letters. \"What we become, given time.\" FUTURE SELF."
     },
     {
       "word": "Gaelic",
@@ -12710,6 +12776,12 @@
       "pos": "NOUN",
       "translation": "il cambio",
       "example": "Seven years earlier she had been a nervous twenty-year-old with a brand-new licence and a habit of apologising to the gearbox; he had been assigned to sit beside her for her first month on the road, and had done so with a forbearance she still described, to anyone who would listen, as saintly."
+    },
+    {
+      "word": "general",
+      "pos": "ADJ",
+      "translation": "generale («in general»: in generale)",
+      "example": "\"He says it about bus timetables. And about life in general.\""
     },
     {
       "word": "generally",
@@ -15906,6 +15978,12 @@
       "example": "When Sir Hugh passed in front of them, he looked at Godfrey with open contempt."
     },
     {
+      "word": "in general",
+      "pos": "PHRASE",
+      "translation": "in generale",
+      "example": "\"He says it about bus timetables. And about life in general.\""
+    },
+    {
       "word": "in half",
       "pos": "PHRASE",
       "translation": "a metà, in due",
@@ -17044,6 +17122,12 @@
       "example": "Priya had a key card for the testing lab, because she worked there part-time, helping a professor with his research on sprinters."
     },
     {
+      "word": "keyboard",
+      "pos": "NOUN",
+      "translation": "la tastiera",
+      "example": "The library seemed to go silent around her, the keyboards, the whispers, the radiator ticking under the window."
+    },
+    {
       "word": "keyhole",
       "pos": "NOUN",
       "translation": "il buco della serratura",
@@ -17276,6 +17360,12 @@
       "pos": "PROPN",
       "translation": "Kyle (nome)",
       "example": "The main event is a local lad called Kyle Burns."
+    },
+    {
+      "word": "L",
+      "pos": "PROPN",
+      "translation": "L (la lettera)",
+      "example": "Rosalind counted on her cold fingers, the way she had counted words on her ninth day in Durham. F, U, T, U, R, E. S, E, L, F. Ten."
     },
     {
       "word": "la",
@@ -20106,6 +20196,12 @@
       "pos": "NOUN",
       "translation": "la montagna",
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
+    },
+    {
+      "word": "mouse",
+      "pos": "NOUN",
+      "translation": "il mouse, il topo",
+      "example": "Then he sighed, shrugged, and moved his mouse towards the button that said SUBMIT."
     },
     {
       "word": "moustache",
@@ -24535,6 +24631,12 @@
       "example": "The rod was quivering now, its forked tip dipping and lifting like the nose of a hound that has caught a scent."
     },
     {
+      "word": "R",
+      "pos": "PROPN",
+      "translation": "R (la lettera)",
+      "example": "Rosalind counted on her cold fingers, the way she had counted words on her ninth day in Durham. F, U, T, U, R, E. S, E, L, F. Ten."
+    },
+    {
       "word": "R.",
       "pos": "PROPN",
       "translation": "R. (iniziale della firma)",
@@ -25428,6 +25530,12 @@
       "example": "He began his walk-round check by torchlight, as the regulations required and as habit would have compelled him to do regardless: tyres, wheel nuts, lights, mirrors, the fifth-wheel coupling, the airlines and the suzies coiled behind the cab."
     },
     {
+      "word": "reread",
+      "pos": "VERB",
+      "translation": "rileggere",
+      "example": "She sat at a table near the window, rereading it for the tenth time."
+    },
+    {
       "word": "rescue",
       "pos": "NOUN",
       "translation": "il salvataggio",
@@ -25878,6 +25986,12 @@
       "example": "A section at the bottom called RISKS that was longer than all the others put together."
     },
     {
+      "word": "risk",
+      "pos": "VERB",
+      "translation": "rischiare",
+      "example": "I won't risk that. Those years were good."
+    },
+    {
       "word": "river",
       "pos": "NOUN",
       "translation": "il fiume",
@@ -25888,6 +26002,12 @@
       "pos": "PROPN",
       "translation": "(«River Brack»: il fiume Brack)",
       "example": "The road north followed the River Brack, and for the first few hours Rowan knew every bend of it."
+    },
+    {
+      "word": "riverbank",
+      "pos": "NOUN",
+      "translation": "la riva, la sponda",
+      "example": "As if he had been searching the whole riverbank."
     },
     {
       "word": "road",
@@ -26412,6 +26532,12 @@
       "example": "The vicar, Reverend Ruth Amos, was standing on a chair near the altar."
     },
     {
+      "word": "S",
+      "pos": "PROPN",
+      "translation": "S (la lettera)",
+      "example": "Rosalind counted on her cold fingers, the way she had counted words on her ninth day in Durham. F, U, T, U, R, E. S, E, L, F. Ten."
+    },
+    {
       "word": "S.",
       "pos": "PROPN",
       "translation": "S. (iniziale del nome del bambino)",
@@ -26482,6 +26608,18 @@
       "pos": "VERB",
       "translation": "accasciarsi",
       "example": "They released Grey, who sagged to his knees in the snow and stayed there."
+    },
+    {
+      "word": "sage",
+      "pos": "NOUN",
+      "translation": "la salvia; il saggio",
+      "example": "Sage and onion, too much butter, the way Grandad liked it."
+    },
+    {
+      "word": "sage and onion",
+      "pos": "PHRASE",
+      "translation": "salvia e cipolla (ripieno natalizio tradizionale)",
+      "example": "Sage and onion, too much butter, the way Grandad liked it."
     },
     {
       "word": "sail",
@@ -27118,6 +27256,12 @@
       "pos": "VERB",
       "translation": "afferrare, impadronirsi di",
       "example": "\"Have you seen it?\" She seized his sleeve."
+    },
+    {
+      "word": "self",
+      "pos": "NOUN",
+      "translation": "il sé, l'io",
+      "example": "Ten letters. \"What we become, given time.\" FUTURE SELF."
     },
     {
       "word": "selfie",
@@ -28096,6 +28240,12 @@
       "pos": "VERB",
       "translation": "firmare («sign sb off work»: mettere qualcuno in malattia)",
       "example": "\"Hale signed that?\""
+    },
+    {
+      "word": "sign off",
+      "pos": "PHRASE",
+      "translation": "mettere in malattia («signed off work»: in malattia)",
+      "example": "Twenty-nine. Burnout. Signed off work. In bed for weeks."
     },
     {
       "word": "signal",
@@ -30522,6 +30672,12 @@
       "example": "You have strong hands, and you grew up in a forest."
     },
     {
+      "word": "strongly",
+      "pos": "ADV",
+      "translation": "fortemente",
+      "example": "Ines came back from Lyon with a suitcase that smelled so strongly of cheese that the engineers complained."
+    },
+    {
       "word": "struggle",
       "pos": "VERB",
       "translation": "lottare, faticare",
@@ -30582,6 +30738,12 @@
       "example": "I've had six years of Maxence pretending to be friendly before he took my stuff."
     },
     {
+      "word": "stuffing",
+      "pos": "NOUN",
+      "translation": "il ripieno",
+      "example": "Today's brave thing: I helped Mum make the stuffing."
+    },
+    {
       "word": "stumble",
       "pos": "VERB",
       "translation": "inciampare, barcollare",
@@ -30610,6 +30772,12 @@
       "pos": "NOUN",
       "translation": "l'argomento",
       "example": "They said it the way people mention a ghost — quickly, and then they changed the subject."
+    },
+    {
+      "word": "submit",
+      "pos": "VERB",
+      "translation": "consegnare, inviare",
+      "example": "Then he sighed, shrugged, and moved his mouse towards the button that said SUBMIT."
     },
     {
       "word": "subsidence",
@@ -31122,6 +31290,12 @@
       "example": "\"It isn't in the system at all."
     },
     {
+      "word": "T",
+      "pos": "PROPN",
+      "translation": "T (la lettera)",
+      "example": "Rosalind counted on her cold fingers, the way she had counted words on her ninth day in Durham. F, U, T, U, R, E. S, E, L, F. Ten."
+    },
+    {
       "word": "T-shirt",
       "pos": "NOUN",
       "translation": "la maglietta, la T-shirt",
@@ -31213,7 +31387,7 @@
     {
       "word": "take off",
       "pos": "PHRASE",
-      "translation": "togliere, levarsi",
+      "translation": "togliere, levarsi; decollare, prendere il volo",
       "example": "His spectacles were fogged, and he took them off and wiped them on his scarf with fingers that were shaking with cold, and his round, kind face was creased with worry."
     },
     {
@@ -32862,6 +33036,12 @@
     },
     {
       "word": "trap",
+      "pos": "NOUN",
+      "translation": "la trappola",
+      "example": "And wrote something light, something that could not possibly be a trap."
+    },
+    {
+      "word": "trap",
       "pos": "VERB",
       "translation": "intrappolare, bloccare",
       "example": "It had closed around him the way water closes over a stone — one arm pinned behind his back, the other trapped above his head, the bag of coins spilled glittering in the snow at his feet."
@@ -33377,6 +33557,12 @@
       "example": "He began his walk-round check by torchlight, as the regulations required and as habit would have compelled him to do regardless: tyres, wheel nuts, lights, mirrors, the fifth-wheel coupling, the airlines and the suzies coiled behind the cab."
     },
     {
+      "word": "U",
+      "pos": "PROPN",
+      "translation": "U (la lettera)",
+      "example": "Rosalind counted on her cold fingers, the way she had counted words on her ninth day in Durham. F, U, T, U, R, E. S, E, L, F. Ten."
+    },
+    {
       "word": "ugly",
       "pos": "ADJ",
       "translation": "brutto",
@@ -33741,6 +33927,12 @@
       "pos": "ADJ",
       "translation": "senza segno ; (qui) senza Marchio, senza elemento",
       "example": "\"Unmarked.\""
+    },
+    {
+      "word": "unopened",
+      "pos": "ADJ",
+      "translation": "chiuso, non aperto",
+      "example": "With the notebook unopened on her knees."
     },
     {
       "word": "unpleasant",
@@ -35924,6 +36116,12 @@
       "pos": "VERB",
       "translation": "scrivere",
       "example": "His name is written on the letterbox: Albert Morel."
+    },
+    {
+      "word": "write back",
+      "pos": "PHRASE",
+      "translation": "rispondere (per iscritto)",
+      "example": "Maybe the point is that when it comes, you'll know somebody will write back."
     },
     {
       "word": "write down",

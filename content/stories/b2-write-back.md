@@ -900,3 +900,119 @@ The house smelled exactly the same as always: woodsmoke, dog, and something in t
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_8.page_16-1793206222458.mp3
 That night she climbed the narrow stairs to her old room under the roof. She put her bag on the bed, switched on the lamp and, for the first time in three months, lay down and looked up at her own ceiling. It was slanted, of course. It had always been slanted. And across the white paint, from the corner above the window towards the middle of the room, there was a long, thin crack, with small branches on either side, exactly like a river on a map.
+
+# Ten Letters
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_1-1793206904983.mp3
+For a long time, Rosalind lay on her bed in Kettlewell and stared at the crack in the ceiling. She had known it all her life. When she was small, she had pretended it was a real river, the Wharfe running through a white country, and she had given names to the little branches: Grandad's Stream, Mum's Brook, the River of Biscuits. She had forgotten all that until tonight. Now she followed the line with her eyes from the window to the middle of the room, again and again, and her heart beat slowly and heavily, like somebody knocking on a door.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_2-1793206914832.mp3
+It was a coincidence. It had to be. Thousands of houses in the Dales had slanted ceilings and old cracks in the plaster. Thousands of women of twenty-nine had gone home to their mothers when life became too heavy. She told herself this firmly, the way she had told herself, in September, that the green ink was a chemical trick. Then she looked at the shelf of old books by the window, and at the poster above her desk: a black-and-white photograph of a poet with a serious face, which she had put up at fifteen and had been meaning to take down for years.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_3-1793206926959.mp3
+She did not sleep much that night. In the morning, she opened the notebook at the kitchen table, while her mum was out walking the dog, and wrote something light, something that could not possibly be a trap.
+
+> I'm home for Christmas. In my old room. It has a slanted ceiling too. Funny, isn't it?
+> How are you today? What's your brave thing?
+
+> Very funny.
+> Today's brave thing: I helped Mum make the stuffing. Sage and onion, too much butter, the way Grandad liked it. I only burned one finger.
+> Help your mum with it too, Ros. She pretends she doesn't need help. She does.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_4-1793206938318.mp3
+Sage and onion, with too much butter. Rosalind closed the notebook very carefully, as if it might explode. Every family made stuffing at Christmas, she told herself. Every grandfather liked butter. She went to the kitchen cupboard, took out the bag of breadcrumbs and the dried sage, and when her mum came back with the dog, Rosalind was already chopping onions. Her mum stopped in the doorway with her coat still on. "Well," she said, in a strange voice. "Look at you." Then she took off her coat and came to help, and neither of them said anything for a long time, and it was one of the best mornings Rosalind could remember.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_5-1793206949534.mp3
+Christmas came and went. There was a walk on Christmas Day up to the stone wall above the village, a phone call from Ines that lasted forty minutes and was mostly about cheese, and a photo of a sheep sent to Callum, who replied with a photo of a Glasgow pigeon wearing a tiny paper hat. R. wrote every day now, short messages, steadier and steadier. "Walked to the river." "Read for an hour." "Laughed at something on the radio. First time in months." Rosalind read them all and said nothing about ceilings. She was afraid of the question growing inside her. She was afraid of the answer even more.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_6-1793206959363.mp3
+In January she went back to Durham, and the city was grey and cold and wonderful. Ines came back from Lyon with a suitcase that smelled so strongly of cheese that the engineers complained. The first deadline of the new term was an essay for Dr Pell, due at noon on a Thursday, and on Thursday morning half the seminar group was in the library, typing like people trying to escape from a fire. Rosalind had finished hers the night before. She sat at a table near the window, rereading it for the tenth time, while Callum, opposite her, typed with two fingers and muttered at his screen.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_7-1793206966181.mp3
+At eleven fifty-two, he stopped typing. He read the last paragraph, made a face, and ran his hands through his hair. "It's terrible," he said. "The conclusion is terrible. The introduction is worse. I need another week." Then he sighed, shrugged, and moved his mouse towards the button that said SUBMIT. "Ah well," he said cheerfully. "Nothing's ever finished. It's just due." And he clicked.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_8-1793206977090.mp3
+Rosalind went completely still. The library seemed to go silent around her, the keyboards, the whispers, the radiator ticking under the window. "Nothing's ever finished. It's just due." She had read those exact words, in green ink, on the night of the withdrawal form. "Remember what a friend of mine always says." A friend. "Where did you get that?" she heard herself ask. Her voice sounded far away. Callum looked up, surprised. "What, the line? My dad. He says it about bus timetables. And about life in general. Why? Have you heard it before?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_9-1793206985623.mp3
+"Yes," said Rosalind. "I think so. A long time ago." Which was a very strange thing to say, she realised, about something that had not happened yet. She gathered her things, said she needed air, and walked out of the library without her scarf. Callum called after her, but she did not turn round. She walked down to the river, to the bench under the trees where she had sat on the day of the coffee, and sat on it in the cold, with the notebook unopened on her knees and the pieces turning in her head like the parts of a lock.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_10-1793206996527.mp3
+The shepherd's pie. The slanted ceiling. The kite that nobody knew about, because only one person in the world had opened her fingers on Great Whernside. Grandad's "chin up, kettle on", which nobody else had ever heard. "I miss him too." "I have more to lose than you think." A woman of twenty-nine, in her old room at her mother's house, under a crack that looked like a river on a map. Twenty-nine. Ten years from now. And a friend who always said, "Nothing's ever finished. It's just due."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_11-1793207011561.mp3
+And then, last of all, the crossword. Mrs Pennick in the dim shop, murmuring over her pencil: "Ten letters. 'What we become, given time.'" Rosalind counted on her cold fingers, the way she had counted words on her ninth day in Durham. F, U, T, U, R, E. S, E, L, F. Ten. The lock turned. Everything opened at once, and she sat very still on the bench while the river went past, brown and fast and full of winter, exactly as it had been going past all along.
+
+> R.
+> Ten letters. "What we become, given time." FUTURE SELF.
+> R. for Rosalind. For Ros.
+> I know you can't tell me. I know it's rule one. So I'm not asking you to tell me. I'm telling you.
+> You're me.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_12-1793207021627.mp3
+She waited, with her breath making small clouds in the cold air. A man walked past with a dog and looked at her curiously, a girl alone on a bench in January, staring at an open notebook as if it were about to speak. Then the green ink appeared, and the handwriting was steady and calm, as steady as it had been on the very first night.
+
+> You broke rule one yourself, so I suppose it doesn't count.
+> Yes. Hello, Ros. It's me. It's you.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_13-1793207034707.mp3
+> In October, in the worst week, I couldn't sleep, so I went up into the loft at Mum's. I found a box of old things. The green notebook was at the bottom. I opened it and saw your first page: "Day 9, Durham." And under it, an empty space.
+> I'd always remembered the green ink. But remembering isn't the same as believing. For ten years I half thought I'd invented it, a lonely girl's fairy tale. Sitting in the loft, looking at that empty space, I understood that it was real, and that it was my turn. So I picked up a pen.
+> I didn't remember the exact words. I just wrote what I needed to hear when I was nineteen.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_14-1793207048788.mp3
+Rosalind read it with tears running down her face, and she did not care who saw. The kind green voice, the jokes, the anger, the rules. All of it had been her. Herself at twenty-nine, exhausted, in her old bed, finding the strength to be the person her younger self needed. And then, suddenly, the other half of it hit her, and she went cold. Twenty-nine. Burnout. Signed off work. In bed for weeks. She wrote quickly, her letters falling over each other the way they had on the night of the withdrawal form.
+
+> So that's my future? I work too hard for ten years and then I break?
+> Tell me what to do so it doesn't happen. Please. What job? What did I do wrong? I'll change it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_15-1793207059372.mp3
+> Rule two still stands, Ros. Not because of the rules. Because I don't know if it can be changed, and I'm too scared to try. If I change one thing, maybe you never go to Durham. Maybe you never meet Ines, or Callum, or Femi. Maybe you never stand up in Room 14. I won't risk that. Those years were good. Most of them were very good.
+> And listen. It's not a sad future. A hard month isn't a sad life.
+> Maybe the point was never to stop the hard part from coming. Maybe the point is that when it comes, you'll know somebody will write back.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_16-1793207070673.mp3
+Rosalind sat for a long time with the notebook open on her knees. The cold had gone right through her coat, and she did not notice. She thought about the two sisters in "Goblin Market", the poem that had given her her first sentence in Room 14. Laura and Lizzie. One fell; one went to the river to save her. And Rosalind had said, with her voice shaking, that the rescue went both ways. She picked up her pen one last time, and this time her hand was perfectly steady.
+
+> We've been saving each other. Like Laura and Lizzie.
+> You were only brave because you had someone to be brave for. So was I.
+> I'm here, Ros. I'm still here. I'm not going anywhere.
+> — Ros
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_17-1793207081693.mp3
+When she finally stood up, stiff with cold, Callum was standing at the end of the path with her scarf in his hand, looking worried and slightly out of breath, as if he had been searching the whole riverbank. "You forgot this," he said, holding it out. "You ran off like you'd seen a ghost." Rosalind took the scarf and wound it round her neck. Then, to his great surprise and her own, she laughed, a real laugh, loud enough to make a duck on the river take off in a panic. "Not a ghost," she said. "The opposite of a ghost." And she took his arm, and they walked back up the hill together.
