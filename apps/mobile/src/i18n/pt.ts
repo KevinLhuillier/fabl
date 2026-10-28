@@ -303,7 +303,7 @@ export const pt: Messages = {
     loadError: 'Não foi possível carregar as ofertas. Verifique sua conexão e tente de novo.',
     purchaseError: 'A compra não foi concluída. Nada foi cobrado.',
     pending: 'Pagamento pendente: o Premium será ativado assim que for confirmado.',
-    welcome: 'Bem-vindo ao Premium!',
+    welcome: 'Obrigado!',
     activeTitle: 'Você é Premium',
     renewsOn: (date: string) => `Renovação em ${date}`,
     endsOn: (date: string) => `Ativo até ${date}`,

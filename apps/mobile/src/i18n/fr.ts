@@ -311,7 +311,7 @@ export const fr = {
     loadError: 'Impossible de charger les offres. Vérifie ta connexion et réessaie.',
     purchaseError: 'L’achat n’a pas abouti. Aucun montant n’a été débité.',
     pending: 'Paiement en attente : Premium s’activera dès sa confirmation.',
-    welcome: 'Bienvenue dans Premium !',
+    welcome: 'Merci !',
     activeTitle: 'Tu es Premium',
     renewsOn: (date: string) => `Renouvellement le ${date}`,
     endsOn: (date: string) => `Actif jusqu’au ${date}`,

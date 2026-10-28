@@ -305,7 +305,7 @@ export const de: Messages = {
     loadError: 'Die Angebote konnten nicht geladen werden. Prüfe deine Verbindung.',
     purchaseError: 'Der Kauf wurde nicht abgeschlossen. Es wurde nichts abgebucht.',
     pending: 'Zahlung ausstehend: Premium wird nach der Bestätigung aktiviert.',
-    welcome: 'Willkommen bei Premium!',
+    welcome: 'Danke!',
     activeTitle: 'Du hast Premium',
     renewsOn: (date: string) => `Verlängerung am ${date}`,
     endsOn: (date: string) => `Aktiv bis ${date}`,

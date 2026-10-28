@@ -305,7 +305,7 @@ export const es: Messages = {
     loadError: 'No se pudieron cargar las ofertas. Comprueba tu conexión e inténtalo de nuevo.',
     purchaseError: 'La compra no se ha completado. No se ha cobrado nada.',
     pending: 'Pago pendiente: Premium se activará en cuanto se confirme.',
-    welcome: '¡Bienvenido a Premium!',
+    welcome: '¡Gracias!',
     activeTitle: 'Eres Premium',
     renewsOn: (date: string) => `Se renueva el ${date}`,
     endsOn: (date: string) => `Activo hasta el ${date}`,
