@@ -712,6 +712,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "des",
+      "pos": "PROPN",
+      "word": "des",
+      "lemmaPos": "X"
+    },
+    {
       "text": "dim",
       "pos": "NOUN",
       "word": "dim",
@@ -794,6 +800,12 @@
       "pos": "NOUN",
       "word": "electronics",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Eleven",
+      "pos": "PROPN",
+      "word": "eleven",
+      "lemmaPos": "NUM"
     },
     {
       "text": "Enough",
@@ -1493,6 +1505,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "ivy",
+      "pos": "PROPN",
+      "word": "ivy",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "jeans",
       "pos": "NOUN",
       "word": "jeans",
@@ -1656,6 +1674,12 @@
       "next": "from",
       "word": "stiff-legged",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "lent",
+      "pos": "NOUN",
+      "word": "lend",
+      "lemmaPos": "VERB"
     },
     {
       "text": "lethal",
@@ -1829,6 +1853,12 @@
       "next": "-",
       "word": "matter-of-fact",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "MAXENCE",
+      "pos": "PROPN",
+      "word": "Maxence",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "melt",
@@ -2016,6 +2046,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Nine",
+      "pos": "PROPN",
+      "word": "nine",
+      "lemmaPos": "NUM"
+    },
+    {
       "text": "nineties",
       "pos": "NOUN",
       "word": "nineties",
@@ -2086,6 +2122,12 @@
       "pos": "NOUN",
       "word": "Nuage",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Number",
+      "pos": "PROPN",
+      "word": "number",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "OCTOBER",
@@ -2311,6 +2353,12 @@
       "text": "pine",
       "pos": "ADJ",
       "word": "pine",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Pit",
+      "pos": "PROPN",
+      "word": "pit",
       "lemmaPos": "NOUN"
     },
     {
@@ -2580,6 +2628,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "Romain",
+      "pos": "VERB",
+      "word": "Romain",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "roof",
       "pos": "VERB",
       "word": "roof",
@@ -2734,6 +2788,12 @@
       "next": "low",
       "word": "set",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Seven",
+      "pos": "PROPN",
+      "word": "seven",
+      "lemmaPos": "NUM"
     },
     {
       "text": "Seventy",
@@ -3274,6 +3334,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "thermos",
+      "pos": "NOUN",
+      "word": "thermos",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "thickening",
       "pos": "NOUN",
       "word": "thicken",
@@ -3529,6 +3595,12 @@
       "text": "vest",
       "pos": "ADJ",
       "word": "vest",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "VISIT",
+      "pos": "PROPN",
+      "word": "visit",
       "lemmaPos": "NOUN"
     },
     {

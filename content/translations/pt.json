@@ -216,6 +216,12 @@
       "example": "When she landed, she rolled forward to absorb the impact."
     },
     {
+      "word": "Acacias",
+      "pos": "PROPN",
+      "translation": "Acacias (nome do bairro: “Cité des Acacias”)",
+      "example": "Three weeks ago, somebody in the Cité des Acacias switched the radio on for the first time in thirty-seven years."
+    },
+    {
       "word": "Academy",
       "pos": "PROPN",
       "translation": "a Academia",
@@ -719,6 +725,12 @@
       "example": "After forty minutes and a dozen failures, it rolled ten centimetres across his desk, all by itself, and dropped onto the carpet."
     },
     {
+      "word": "all kinds of",
+      "pos": "PHRASE",
+      "translation": "todo tipo de",
+      "example": "Not the heavy metal miners' lamps he had seen in the museum, but all kinds of lamps."
+    },
+    {
       "word": "all right",
       "pos": "PHRASE",
       "translation": "tudo bem, certo"
@@ -1184,6 +1196,12 @@
       "pos": "VERB",
       "translation": "arquear-se, formar um arco",
       "example": "Branches arched overhead to form galleries and bridges between the towers."
+    },
+    {
+      "word": "arched",
+      "pos": "ADJ",
+      "translation": "arqueado, em arco",
+      "example": "This was a long, low building at the edge of the site, with a row of tall arched windows and a roof of grey slate."
     },
     {
       "word": "archive",
@@ -2970,6 +2988,12 @@
       "example": "The stars had begun to swim and blur."
     },
     {
+      "word": "blurred",
+      "pos": "ADJ",
+      "translation": "borrado, desfocado",
+      "example": "Under the headline STUDENT INJURED DURING OFFICIAL VISIT, there was a slightly blurred photograph of an ambulance."
+    },
+    {
       "word": "boar",
       "pos": "NOUN",
       "translation": "o javali",
@@ -3312,6 +3336,12 @@
       "example": "The second examiner was a small, wiry woman of indeterminate age, with a long iron-grey braid, a battered leather satchel, and ink stains on three of her fingers."
     },
     {
+      "word": "brake",
+      "pos": "NOUN",
+      "translation": "o freio",
+      "example": "A bus appeared out of the fog, its headlights enormous, and stopped in front of the shelter with a sigh of brakes."
+    },
+    {
       "word": "Bram",
       "pos": "PROPN",
       "translation": "Bram (nome)",
@@ -3496,6 +3526,12 @@
       "pos": "VERB",
       "translation": "trazer",
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "bring back",
+      "pos": "PHRASE",
+      "translation": "trazer de volta, devolver",
+      "example": "Every evening he brought it back."
     },
     {
       "word": "bring down",
@@ -4411,6 +4447,12 @@
     },
     {
       "word": "cast",
+      "pos": "NOUN",
+      "translation": "o gesso; o elenco (de um filme)",
+      "example": "His right arm was in a cast from his fingers to his elbow."
+    },
+    {
+      "word": "cast",
       "pos": "VERB",
       "translation": "lançar, projetar (“cast shadows”: projetar sombras)",
       "example": "The ice was black and glassy and perfectly smooth, and the moon was so bright on it that they cast four long, sharp shadows ahead of them as they went."
@@ -5074,6 +5116,18 @@
       "pos": "PROPN",
       "translation": "a Cisterna (casa da Água)",
       "example": "The Cistern, west door."
+    },
+    {
+      "word": "Cité",
+      "pos": "PROPN",
+      "translation": "cité (em francês: bairro de habitação operária ou social)",
+      "example": "Three weeks ago, somebody in the Cité des Acacias switched the radio on for the first time in thirty-seven years."
+    },
+    {
+      "word": "cité des acacias",
+      "pos": "PHRASE",
+      "translation": "a Cité des Acacias (o bairro de Noé)",
+      "example": "Three weeks ago, somebody in the Cité des Acacias switched the radio on for the first time in thirty-seven years."
     },
     {
       "word": "city",
@@ -5766,6 +5820,12 @@
       "example": "In the margin, the pencil had added a single comment: Start small."
     },
     {
+      "word": "committee",
+      "pos": "NOUN",
+      "translation": "o comitê",
+      "example": "They knocked most of it down, but they kept the headframe because some committee decided it was heritage."
+    },
+    {
       "word": "common",
       "pos": "ADJ",
       "translation": "comum (“common room”: sala comum)",
@@ -5926,6 +5986,12 @@
       "pos": "NOUN",
       "translation": "a condensação",
       "example": "The Duchess was waiting for him at the end of the third row, her cab beaded with condensation."
+    },
+    {
+      "word": "condition",
+      "pos": "NOUN",
+      "translation": "a condição; o estado",
+      "example": "\"Here are the conditions,\" she said, without looking round."
     },
     {
       "word": "conditioning",
@@ -6474,6 +6540,12 @@
       "example": "His father, a poor farmer, had sold two cows to pay for the journey."
     },
     {
+      "word": "cowardice",
+      "pos": "NOUN",
+      "translation": "a covardia",
+      "example": "He wasn't sure whether that was obedience or cowardice."
+    },
+    {
       "word": "crack",
       "pos": "NOUN",
       "translation": "a rachadura ; o estalo",
@@ -6484,6 +6556,12 @@
       "pos": "VERB",
       "translation": "rachar, trincar ; (voz) falhar",
       "example": "The Standing Stone of Brackenford,\" she said quietly, \"has cracked."
+    },
+    {
+      "word": "cracked",
+      "pos": "ADJ",
+      "translation": "rachado, trincado",
+      "example": "An old oil lamp with a cracked glass."
     },
     {
       "word": "cracker",
@@ -6736,6 +6814,12 @@
       "pos": "NOUN",
       "translation": "(“crossroads”: a encruzilhada)",
       "example": "The second waystation stood alone at a crossroads half a day north of Mossbridge, and it was there, on the last night of the journey, that Rowan saw the night wagons."
+    },
+    {
+      "word": "crossword",
+      "pos": "NOUN",
+      "translation": "as palavras cruzadas",
+      "example": "She had a thermos on her knees and was doing a crossword in the local paper."
     },
     {
       "word": "crouch",
@@ -7436,7 +7520,7 @@
     {
       "word": "des",
       "pos": "X",
-      "translation": "des (em francês: “dos”; “rue des Corons”)",
+      "translation": "des (em francês: “dos”; “rue des Corons”, “Cité des Acacias”)",
       "example": "Bus shelter, rue des Corons."
     },
     {
@@ -9326,6 +9410,12 @@
       "pos": "ADJ",
       "translation": "emocionante",
       "example": "My other secret is more exciting."
+    },
+    {
+      "word": "excuse",
+      "pos": "NOUN",
+      "translation": "a desculpa, o pretexto",
+      "example": "He had brought photocopies of the week's notes in maths and history, because it was the only excuse he could think of."
     },
     {
       "word": "excuse",
@@ -11266,6 +11356,12 @@
       "example": "At the front desk, the librarian scanned the books on the strikes, then turned the leather book over twice, looking for a label."
     },
     {
+      "word": "front page",
+      "pos": "PHRASE",
+      "translation": "a primeira página, a capa",
+      "example": "On the front page, under the headline STUDENT INJURED DURING OFFICIAL VISIT, there was a slightly blurred photograph of an ambulance."
+    },
+    {
       "word": "front room",
       "pos": "PHRASE",
       "translation": "a sala da frente",
@@ -11732,6 +11828,12 @@
       "pos": "PHRASE",
       "translation": "casar-se",
       "example": "\"If she left to get married, she'd be written down under her married name as well."
+    },
+    {
+      "word": "get off",
+      "pos": "PHRASE",
+      "translation": "descer (do ônibus, do trem), saltar",
+      "example": "Solange got off at a stop with no name, beside a high brick wall covered in ivy."
     },
     {
       "word": "get on",
@@ -13262,6 +13364,18 @@
       "example": "Draw a great deal, and you will sleep for a day and wake up with a headache that makes you wish you hadn't."
     },
     {
+      "word": "headframe",
+      "pos": "NOUN",
+      "translation": "a torre de extração (de mina)",
+      "example": "Noé saw the black iron skeleton of a headframe, the great wheel at the top still in place, rusted and motionless against the sky."
+    },
+    {
+      "word": "headlight",
+      "pos": "NOUN",
+      "translation": "o farol (de um veículo)",
+      "example": "A bus appeared out of the fog, its headlights enormous, and stopped in front of the shelter with a sigh of brakes."
+    },
+    {
       "word": "headline",
       "pos": "NOUN",
       "translation": "a manchete",
@@ -13278,6 +13392,12 @@
       "pos": "NOUN",
       "translation": "os fones de ouvido",
       "example": "Instead he turned on his console, put his headphones on and played a racing game until his eyes closed by themselves."
+    },
+    {
+      "word": "heal",
+      "pos": "VERB",
+      "translation": "curar, sarar",
+      "example": "You don't try to heal the boy's arm."
     },
     {
       "word": "healer",
@@ -13530,6 +13650,12 @@
       "pos": "PHRASE",
       "translation": "aqui e ali",
       "example": "Here and there, very rarely, two symbols side by side."
+    },
+    {
+      "word": "heritage",
+      "pos": "NOUN",
+      "translation": "o patrimônio",
+      "example": "They knocked most of it down, but they kept the headframe because some committee decided it was heritage."
     },
     {
       "word": "hero",
@@ -14468,6 +14594,12 @@
       "example": "What stood beside the shrine, nose to tail, were four long, high-sided farm wagons, each with a canvas hood patched in three different colours and hitched to a pair of shaggy brown oxen who were chewing with the slow, profound indifference of creatures that had seen everything and been impressed by none of it."
     },
     {
+      "word": "impressive",
+      "pos": "ADJ",
+      "translation": "impressionante",
+      "example": "Not the most impressive. The most important."
+    },
+    {
       "word": "improve",
       "pos": "VERB",
       "translation": "melhorar, progredir",
@@ -14685,6 +14817,12 @@
       "pos": "PHRASE",
       "translation": "no meio de",
       "example": "How did you ask a man why he had been reading your dead mother's letters in the middle of the night?"
+    },
+    {
+      "word": "in the shape of",
+      "pos": "PHRASE",
+      "translation": "em forma de",
+      "example": "A child's night light in the shape of a moon."
     },
     {
       "word": "in the shoes of",
@@ -14990,6 +15128,12 @@
       "pos": "NOUN",
       "translation": "o instinto",
       "example": "\"As if someone had copied a footballer's instincts into me,\" said Max."
+    },
+    {
+      "word": "instruct",
+      "pos": "VERB",
+      "translation": "instruir, dar instruções (“as instructed”: conforme pedido)",
+      "example": "Noé had eaten breakfast, as instructed."
     },
     {
       "word": "instructor",
@@ -15502,6 +15646,12 @@
       "example": "Grey kept up a gentle, breathless stream of talk as they walked — about the weather, about Bram, about how the glasshouses had always been the warmest place on the hill in winter, even when he had been a young man and the old Warden had kept the whole Academy on half-rations of coal."
     },
     {
+      "word": "keep watch",
+      "pos": "PHRASE",
+      "translation": "vigiar, montar guarda",
+      "example": "\"And we keep watch. Over the town, and over the craft.\""
+    },
+    {
       "word": "keep your head down",
       "pos": "PHRASE",
       "translation": "ficar na sua, não chamar atenção",
@@ -15706,6 +15856,12 @@
       "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
     },
     {
+      "word": "knock down",
+      "pos": "PHRASE",
+      "translation": "derrubar, demolir",
+      "example": "They knocked most of it down, but they kept the headframe because some committee decided it was heritage."
+    },
+    {
       "word": "knock off",
       "pos": "PHRASE",
       "translation": "derrubar; arrancar («knock his head off»: arrancar a cabeça dele)",
@@ -15854,6 +16010,18 @@
       "pos": "NOUN",
       "translation": "a lâmpada, o lampião",
       "example": "Bring the lamp."
+    },
+    {
+      "word": "lamp room",
+      "pos": "PHRASE",
+      "translation": "a lampistaria (sala das lâmpadas da mina)",
+      "example": "\"The lamp room,\" Solange said, taking an enormous key from her pocket."
+    },
+    {
+      "word": "LAMPISTERIE",
+      "pos": "PROPN",
+      "translation": "lampisterie (em francês: a sala das lâmpadas da mina)",
+      "example": "Above the door, painted letters had almost faded away: LAMPISTERIE."
     },
     {
       "word": "lamplight",
@@ -17708,6 +17876,12 @@
       "example": "He had shaved, which he did twice a year at most, and put on the good coat — the brown one with the mended elbow that smelled faintly of cedar from the chest where it lived."
     },
     {
+      "word": "mending",
+      "pos": "NOUN",
+      "translation": "o conserto, o remendo",
+      "example": "\"But the mending gesture—\""
+    },
+    {
       "word": "mental",
       "pos": "ADJ",
       "translation": "mental; (informal) maluco, doido",
@@ -18302,6 +18476,12 @@
       "example": "It happened in a single night, the way it did, Moss said, perhaps once in a generation: one evening the water lay black and still under a low grey sky, and the next morning it had turned to a single vast sheet of iron-grey ice, so thick and so clear that the students who crept down to the shore could see pale weeds hanging motionless far beneath it, like hair in a sleeping face."
     },
     {
+      "word": "motorbike",
+      "pos": "NOUN",
+      "translation": "a moto",
+      "example": "Lucas lived in a narrow house near the old railway station, with a motorbike under a plastic cover in the yard."
+    },
+    {
       "word": "motorist",
       "pos": "NOUN",
       "translation": "o motorista",
@@ -18480,6 +18660,12 @@
       "pos": "PHRASE",
       "translation": "a ruptura muscular, o estiramento",
       "example": "A physiotherapist at the hospital told him it was a muscle tear, not serious, but that he could not run for at least three weeks."
+    },
+    {
+      "word": "museum",
+      "pos": "NOUN",
+      "translation": "o museu",
+      "example": "Not the heavy metal miners' lamps he had seen in the museum, but all kinds of lamps."
     },
     {
       "word": "mushroom",
@@ -18705,6 +18891,12 @@
     },
     {
       "word": "neither",
+      "pos": "ADV",
+      "translation": "também não (“Romain neither”: o Romain também não)",
+      "example": "\"Maxence hasn't even sent a message,\" he said. \"Not one. Romain neither.\""
+    },
+    {
+      "word": "neither",
       "pos": "CCONJ",
       "translation": "também não; nem um nem outro",
       "example": "\"And neither, if you've any sense, do you.\""
@@ -18870,6 +19062,12 @@
       "pos": "NOUN",
       "translation": "a noite",
       "example": "Good night! — Boa noite!"
+    },
+    {
+      "word": "night light",
+      "pos": "PHRASE",
+      "translation": "a luz de presença, a luz noturna",
+      "example": "A child's night light in the shape of a moon."
     },
     {
       "word": "night shift",
@@ -19238,6 +19436,12 @@
       "example": "As if to prove the point, the number 49 was pulling away from the stop just as he turned the corner."
     },
     {
+      "word": "numbered",
+      "pos": "ADJ",
+      "translation": "numerado",
+      "example": "Along the walls stood long racks of numbered hooks, hundreds of them, most of them empty."
+    },
+    {
       "word": "nurse",
       "pos": "NOUN",
       "translation": "a enfermeira, o enfermeiro",
@@ -19272,6 +19476,12 @@
       "pos": "NOUN",
       "translation": "o juramento",
       "example": "Sir Hugh of Blackmoor, you have betrayed your oath, your king and the people you were supposed to protect."
+    },
+    {
+      "word": "obedience",
+      "pos": "NOUN",
+      "translation": "a obediência",
+      "example": "He wasn't sure whether that was obedience or cowardice."
     },
     {
       "word": "obedient",
@@ -19458,6 +19668,12 @@
       "pos": "NOUN",
       "translation": "o óleo",
       "example": "Harry Dent's workshop smelled of oil, wood and cold coffee."
+    },
+    {
+      "word": "oil lamp",
+      "pos": "PHRASE",
+      "translation": "a lamparina, a lâmpada a óleo",
+      "example": "An old oil lamp with a cracked glass."
     },
     {
       "word": "oilcloth",
@@ -20341,6 +20557,12 @@
       "example": "Pinned to the board beside the shrine was a sheet of heavy cream paper bearing the seal of Thornhall: a thorned branch encircling a well."
     },
     {
+      "word": "paper lantern",
+      "pos": "PHRASE",
+      "translation": "a lanterna de papel",
+      "example": "A bicycle light. A paper lantern."
+    },
+    {
       "word": "paperwork",
       "pos": "NOUN",
       "translation": "a papelada",
@@ -20767,6 +20989,12 @@
       "example": "The new students were sorted in the courtyard, under a sky the colour of pewter, by a steward with a ledger."
     },
     {
+      "word": "pharmacist",
+      "pos": "NOUN",
+      "translation": "o farmacêutico",
+      "example": "A bus driver, a pharmacist, a retired priest, two farmers, a girl who's studying engineering in Lille."
+    },
+    {
       "word": "phase",
       "pos": "NOUN",
       "translation": "a fase",
@@ -20807,6 +21035,12 @@
       "pos": "NOUN",
       "translation": "a foto",
       "example": "On the wall, there were photos of a smiling woman with short white hair."
+    },
+    {
+      "word": "photocopy",
+      "pos": "NOUN",
+      "translation": "a fotocópia, a xerox",
+      "example": "He had brought photocopies of the week's notes in maths and history, because it was the only excuse he could think of."
     },
     {
       "word": "photograph",
@@ -21011,6 +21245,18 @@
       "pos": "PROPN",
       "translation": "Pistache (nome; “pistache” em francês)",
       "example": "My name is Pistache."
+    },
+    {
+      "word": "pit",
+      "pos": "NOUN",
+      "translation": "o poço (de mina), a mina; o fosso",
+      "example": "My grandfather used to say that this was the most important room in the whole pit."
+    },
+    {
+      "word": "pit number nine",
+      "pos": "PHRASE",
+      "translation": "o poço número nove",
+      "example": "My father was a miner at Pit Number Nine, and his father before him."
     },
     {
       "word": "pitchfork",
@@ -21293,6 +21539,12 @@
       "pos": "VERB",
       "translation": "manter suspenso, equilibrar",
       "example": "She was looking at him now, her pen poised above her little black book."
+    },
+    {
+      "word": "Poland",
+      "pos": "PROPN",
+      "translation": "a Polônia",
+      "example": "His father came here from Poland in 1923 with one suitcase and a shovel."
     },
     {
       "word": "pole",
@@ -21725,6 +21977,12 @@
       "pos": "VERB",
       "translation": "picar, espetar",
       "example": "They closed over the cloaked figures on the causeway one by one, the way a hand closes over a moth — not crushing, but holding, tighter and tighter, until the men who had been shouting were not shouting any more, only standing very, very still, while the thorns pricked at their throats."
+    },
+    {
+      "word": "priest",
+      "pos": "NOUN",
+      "translation": "o padre, o sacerdote",
+      "example": "A bus driver, a pharmacist, a retired priest, two farmers, a girl who's studying engineering in Lille."
     },
     {
       "word": "primary",
@@ -22333,6 +22591,12 @@
       "example": "Instead he turned on his console, put his headphones on and played a racing game until his eyes closed by themselves."
     },
     {
+      "word": "rack",
+      "pos": "NOUN",
+      "translation": "a estante, o suporte, o cabide",
+      "example": "Along the walls stood long racks of numbered hooks, hundreds of them, most of them empty."
+    },
+    {
       "word": "racket",
       "pos": "NOUN",
       "translation": "a raquete",
@@ -22379,6 +22643,12 @@
       "pos": "NOUN",
       "translation": "a ferrovia («railway land»: terreno da ferrovia)",
       "example": "The quickest way was through the back alleys behind Ashley Road and across the old railway land, but there was a high brick wall in the way, and Max always walked around it."
+    },
+    {
+      "word": "railway station",
+      "pos": "PHRASE",
+      "translation": "a estação de trem",
+      "example": "Lucas lived in a narrow house near the old railway station, with a motorbike under a plastic cover in the yard."
     },
     {
       "word": "rain",
@@ -23250,6 +23520,12 @@
       "example": "\"I thought you had retired to grow cabbages.\""
     },
     {
+      "word": "retired",
+      "pos": "ADJ",
+      "translation": "aposentado",
+      "example": "A bus driver, a pharmacist, a retired priest, two farmers, a girl who's studying engineering in Lille."
+    },
+    {
       "word": "retirement",
       "pos": "NOUN",
       "translation": "a aposentadoria",
@@ -23272,6 +23548,12 @@
       "pos": "VERB",
       "translation": "revelar",
       "example": "Every man reveals his intentions before he strikes."
+    },
+    {
+      "word": "revenge",
+      "pos": "NOUN",
+      "translation": "a vingança",
+      "example": "\"Revenge,\" she said, and wrote it in."
     },
     {
       "word": "Reverend",
@@ -23962,6 +24244,12 @@
       "pos": "NOUN",
       "translation": "a ferrugem",
       "example": "In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail."
+    },
+    {
+      "word": "rust",
+      "pos": "VERB",
+      "translation": "enferrujar (“rusted”: enferrujado)",
+      "example": "The great wheel at the top still in place, rusted and motionless against the sky."
     },
     {
       "word": "rustle",
@@ -25728,6 +26016,12 @@
       "example": "Below, the fire had sunk to a sullen red glow, and by its light he could make out the bulk of his uncle kneeling on the floor."
     },
     {
+      "word": "sip",
+      "pos": "NOUN",
+      "translation": "o gole, o golinho",
+      "example": "She took a sip of coffee."
+    },
+    {
       "word": "sir",
       "pos": "NOUN",
       "translation": "senhor, senhor cavaleiro (para se dirigir a um cavaleiro, a um superior)",
@@ -25822,6 +26116,12 @@
       "pos": "NOUN",
       "translation": "o bando (de gansos); a meada",
       "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
+    },
+    {
+      "word": "skeleton",
+      "pos": "NOUN",
+      "translation": "o esqueleto; a estrutura",
+      "example": "Noé saw the black iron skeleton of a headframe, the great wheel at the top still in place."
     },
     {
       "word": "sketch",
@@ -26488,6 +26788,12 @@
       "pos": "NOUN",
       "translation": "a terra, o solo",
       "example": "He loosened the soil where it had packed hard."
+    },
+    {
+      "word": "Solange",
+      "pos": "PROPN",
+      "translation": "Solange (nome)",
+      "example": "\"My name is Solange Wiśniewski.\""
     },
     {
       "word": "soldier",
@@ -27186,6 +27492,12 @@
       "example": "She stood up, picking up the lamp."
     },
     {
+      "word": "stand up to",
+      "pos": "PHRASE",
+      "translation": "enfrentar, peitar",
+      "example": "If you want to stand up to him, and you should, you'll do it with your own face and your own voice, like everybody else."
+    },
+    {
       "word": "standard",
       "pos": "NOUN",
       "translation": "o padrão, o nível exigido",
@@ -27744,6 +28056,12 @@
       "example": "The first one was on the High Street, next to the bakery."
     },
     {
+      "word": "street lamp",
+      "pos": "PHRASE",
+      "translation": "o poste de luz, o lampião",
+      "example": "The street lamps made yellow circles in the grey, and the only sound was the hiss of a lorry somewhere on the main road."
+    },
+    {
       "word": "streetlamp",
       "pos": "NOUN",
       "translation": "o poste de luz",
@@ -28020,6 +28338,12 @@
       "example": "She returned a few minutes later with a stocky, grey-bearded man in a boiler suit, who introduced himself as the distillery manager and enquired, with elaborate casualness, whether it was true that Gideon had spent the night on Drumochter with Alasdair Beaton."
     },
     {
+      "word": "suitcase",
+      "pos": "NOUN",
+      "translation": "a mala",
+      "example": "His father came here from Poland in 1923 with one suitcase and a shovel."
+    },
+    {
       "word": "sulkily",
       "pos": "ADV",
       "translation": "emburrado, de má vontade",
@@ -28180,6 +28504,12 @@
       "pos": "ADJ",
       "translation": "surpreendente",
       "example": "There were a surprising number."
+    },
+    {
+      "word": "surprisingly",
+      "pos": "ADV",
+      "translation": "surpreendentemente",
+      "example": "Her grip was surprisingly strong."
     },
     {
       "word": "surround",
@@ -28595,6 +28925,12 @@
       "example": "His sketchbook, held together with tape, contained three years of characters, cities and monsters, and a manga he had been working on since he was fourteen."
     },
     {
+      "word": "target",
+      "pos": "NOUN",
+      "translation": "o alvo",
+      "example": "But it also chooses the target for you, and it never knows when to stop."
+    },
+    {
       "word": "tarmac",
       "pos": "NOUN",
       "translation": "o asfalto",
@@ -28743,6 +29079,12 @@
       "pos": "NOUN",
       "translation": "a temperatura",
       "example": "The temperature display on the dashboard slid from two degrees to zero, then to minus one, and then, with a kind of casual malice, to minus four."
+    },
+    {
+      "word": "temple",
+      "pos": "NOUN",
+      "translation": "a têmpora; o templo",
+      "example": "She tapped her temple."
     },
     {
       "word": "ten",
@@ -29055,6 +29397,12 @@
       "pos": "PHRASE",
       "translation": "na hora, ali mesmo",
       "example": "Ruth had given Margaret a key to the tower, and so they climbed it, there and then."
+    },
+    {
+      "word": "thermos",
+      "pos": "NOUN",
+      "translation": "a garrafa térmica",
+      "example": "She had a thermos on her knees and was doing a crossword in the local paper."
     },
     {
       "word": "these",
@@ -30599,6 +30947,12 @@
       "example": "Held at Underbrook."
     },
     {
+      "word": "underground",
+      "pos": "ADJ",
+      "translation": "debaixo da terra, subterrâneo",
+      "example": "If a lamp was missing at the end of the shift, it meant a man was still underground."
+    },
+    {
       "word": "underline",
       "pos": "VERB",
       "translation": "sublinhar",
@@ -31690,6 +32044,12 @@
       "example": "\"Watch Manager Hollis,\" she said."
     },
     {
+      "word": "Watchers",
+      "pos": "PROPN",
+      "translation": "os Vigias (nome do grupo; “watcher”: vigia)",
+      "example": "We call ourselves the Watchers."
+    },
+    {
       "word": "watchful",
       "pos": "ADJ",
       "translation": "vigilante, atento",
@@ -31754,6 +32114,12 @@
       "pos": "NOUN",
       "translation": "a cera",
       "example": "He carried a letter sealed with the red wax of the king himself."
+    },
+    {
+      "word": "wax",
+      "pos": "VERB",
+      "translation": "encerar (“waxed jacket”: jaqueta encerada)",
+      "example": "A small woman of about sixty-five, in a man's waxed jacket and a woollen hat the colour of a fire engine."
     },
     {
       "word": "way",
@@ -32488,6 +32854,12 @@
       "example": "Draw a great deal, and you will sleep for a day and wake up with a headache that makes you wish you hadn't."
     },
     {
+      "word": "Wiśniewski",
+      "pos": "PROPN",
+      "translation": "Wiśniewski (sobrenome polonês)",
+      "example": "\"My name is Solange Wiśniewski.\""
+    },
+    {
       "word": "wit",
       "pos": "NOUN",
       "translation": "a esperteza (“wits”: a inteligência, o juízo)",
@@ -32798,6 +33170,12 @@
       "pos": "PHRASE",
       "translation": "anotar, pôr por escrito",
       "example": "\"Everything the Wood-wardens ever wrote down about the Wood — what it is, and how it works, and how they taught it."
+    },
+    {
+      "word": "write in",
+      "pos": "PHRASE",
+      "translation": "escrever, preencher (num espaço)",
+      "example": "\"Revenge,\" she said, and wrote it in."
     },
     {
       "word": "writer",

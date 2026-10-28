@@ -216,6 +216,12 @@
       "example": "When she landed, she rolled forward to absorb the impact."
     },
     {
+      "word": "Acacias",
+      "pos": "PROPN",
+      "translation": "Acacias (Name des Viertels: „Cité des Acacias“)",
+      "example": "Three weeks ago, somebody in the Cité des Acacias switched the radio on for the first time in thirty-seven years."
+    },
+    {
       "word": "Academy",
       "pos": "PROPN",
       "translation": "die Akademie",
@@ -719,6 +725,12 @@
       "example": "After forty minutes and a dozen failures, it rolled ten centimetres across his desk, all by itself, and dropped onto the carpet."
     },
     {
+      "word": "all kinds of",
+      "pos": "PHRASE",
+      "translation": "alle möglichen, allerlei",
+      "example": "Not the heavy metal miners' lamps he had seen in the museum, but all kinds of lamps."
+    },
+    {
       "word": "all right",
       "pos": "PHRASE",
       "translation": "in Ordnung, gut"
@@ -1184,6 +1196,12 @@
       "pos": "VERB",
       "translation": "sich wölben",
       "example": "Branches arched overhead to form galleries and bridges between the towers."
+    },
+    {
+      "word": "arched",
+      "pos": "ADJ",
+      "translation": "gewölbt, Bogen- („arched windows“: Bogenfenster)",
+      "example": "This was a long, low building at the edge of the site, with a row of tall arched windows and a roof of grey slate."
     },
     {
       "word": "archive",
@@ -2970,6 +2988,12 @@
       "example": "The stars had begun to swim and blur."
     },
     {
+      "word": "blurred",
+      "pos": "ADJ",
+      "translation": "verschwommen, unscharf",
+      "example": "Under the headline STUDENT INJURED DURING OFFICIAL VISIT, there was a slightly blurred photograph of an ambulance."
+    },
+    {
       "word": "boar",
       "pos": "NOUN",
       "translation": "der Eber, das Wildschwein",
@@ -3312,6 +3336,12 @@
       "example": "The second examiner was a small, wiry woman of indeterminate age, with a long iron-grey braid, a battered leather satchel, and ink stains on three of her fingers."
     },
     {
+      "word": "brake",
+      "pos": "NOUN",
+      "translation": "die Bremse",
+      "example": "A bus appeared out of the fog, its headlights enormous, and stopped in front of the shelter with a sigh of brakes."
+    },
+    {
       "word": "Bram",
       "pos": "PROPN",
       "translation": "Bram (Vorname)",
@@ -3496,6 +3526,12 @@
       "pos": "VERB",
       "translation": "bringen",
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "bring back",
+      "pos": "PHRASE",
+      "translation": "zurückbringen",
+      "example": "Every evening he brought it back."
     },
     {
       "word": "bring down",
@@ -4411,6 +4447,12 @@
     },
     {
       "word": "cast",
+      "pos": "NOUN",
+      "translation": "der Gips(verband); die Besetzung (eines Films)",
+      "example": "His right arm was in a cast from his fingers to his elbow."
+    },
+    {
+      "word": "cast",
       "pos": "VERB",
       "translation": "werfen („cast shadows“: Schatten werfen)",
       "example": "The ice was black and glassy and perfectly smooth, and the moon was so bright on it that they cast four long, sharp shadows ahead of them as they went."
@@ -5074,6 +5116,18 @@
       "pos": "PROPN",
       "translation": "die Zisterne (Haus des Wassers)",
       "example": "The Cistern, west door."
+    },
+    {
+      "word": "Cité",
+      "pos": "PROPN",
+      "translation": "Cité (französisch: Wohnsiedlung, Arbeitersiedlung)",
+      "example": "Three weeks ago, somebody in the Cité des Acacias switched the radio on for the first time in thirty-seven years."
+    },
+    {
+      "word": "cité des acacias",
+      "pos": "PHRASE",
+      "translation": "die Cité des Acacias (Noés Wohnviertel)",
+      "example": "Three weeks ago, somebody in the Cité des Acacias switched the radio on for the first time in thirty-seven years."
     },
     {
       "word": "city",
@@ -5766,6 +5820,12 @@
       "example": "In the margin, the pencil had added a single comment: Start small."
     },
     {
+      "word": "committee",
+      "pos": "NOUN",
+      "translation": "das Komitee, der Ausschuss",
+      "example": "They knocked most of it down, but they kept the headframe because some committee decided it was heritage."
+    },
+    {
       "word": "common",
       "pos": "ADJ",
       "translation": "gemeinsam („common room“: Gemeinschaftsraum)",
@@ -5926,6 +5986,12 @@
       "pos": "NOUN",
       "translation": "das Kondenswasser",
       "example": "The Duchess was waiting for him at the end of the third row, her cab beaded with condensation."
+    },
+    {
+      "word": "condition",
+      "pos": "NOUN",
+      "translation": "die Bedingung; der Zustand",
+      "example": "\"Here are the conditions,\" she said, without looking round."
     },
     {
       "word": "conditioning",
@@ -6474,6 +6540,12 @@
       "example": "His father, a poor farmer, had sold two cows to pay for the journey."
     },
     {
+      "word": "cowardice",
+      "pos": "NOUN",
+      "translation": "die Feigheit",
+      "example": "He wasn't sure whether that was obedience or cowardice."
+    },
+    {
       "word": "crack",
       "pos": "NOUN",
       "translation": "der Riss, der Spalt ; das Knacken",
@@ -6484,6 +6556,12 @@
       "pos": "VERB",
       "translation": "(zer)springen, einen Riss bekommen ; (Stimme) brechen",
       "example": "The Standing Stone of Brackenford,\" she said quietly, \"has cracked."
+    },
+    {
+      "word": "cracked",
+      "pos": "ADJ",
+      "translation": "gesprungen, rissig",
+      "example": "An old oil lamp with a cracked glass."
     },
     {
       "word": "cracker",
@@ -6736,6 +6814,12 @@
       "pos": "NOUN",
       "translation": "(„crossroads“: die Kreuzung, die Weggabelung)",
       "example": "The second waystation stood alone at a crossroads half a day north of Mossbridge, and it was there, on the last night of the journey, that Rowan saw the night wagons."
+    },
+    {
+      "word": "crossword",
+      "pos": "NOUN",
+      "translation": "das Kreuzworträtsel",
+      "example": "She had a thermos on her knees and was doing a crossword in the local paper."
     },
     {
       "word": "crouch",
@@ -7436,7 +7520,7 @@
     {
       "word": "des",
       "pos": "X",
-      "translation": "des (französisch: „der“; „rue des Corons“)",
+      "translation": "des (französisch: „der“; „rue des Corons“, „Cité des Acacias“)",
       "example": "Bus shelter, rue des Corons."
     },
     {
@@ -9326,6 +9410,12 @@
       "pos": "ADJ",
       "translation": "spannend, aufregend",
       "example": "My other secret is more exciting."
+    },
+    {
+      "word": "excuse",
+      "pos": "NOUN",
+      "translation": "die Ausrede, der Vorwand",
+      "example": "He had brought photocopies of the week's notes in maths and history, because it was the only excuse he could think of."
     },
     {
       "word": "excuse",
@@ -11266,6 +11356,12 @@
       "example": "At the front desk, the librarian scanned the books on the strikes, then turned the leather book over twice, looking for a label."
     },
     {
+      "word": "front page",
+      "pos": "PHRASE",
+      "translation": "die Titelseite",
+      "example": "On the front page, under the headline STUDENT INJURED DURING OFFICIAL VISIT, there was a slightly blurred photograph of an ambulance."
+    },
+    {
       "word": "front room",
       "pos": "PHRASE",
       "translation": "das Wohnzimmer (zur Straße hin)",
@@ -11732,6 +11828,12 @@
       "pos": "PHRASE",
       "translation": "heiraten",
       "example": "\"If she left to get married, she'd be written down under her married name as well."
+    },
+    {
+      "word": "get off",
+      "pos": "PHRASE",
+      "translation": "aussteigen",
+      "example": "Solange got off at a stop with no name, beside a high brick wall covered in ivy."
     },
     {
       "word": "get on",
@@ -13262,6 +13364,18 @@
       "example": "Draw a great deal, and you will sleep for a day and wake up with a headache that makes you wish you hadn't."
     },
     {
+      "word": "headframe",
+      "pos": "NOUN",
+      "translation": "das Fördergerüst",
+      "example": "Noé saw the black iron skeleton of a headframe, the great wheel at the top still in place, rusted and motionless against the sky."
+    },
+    {
+      "word": "headlight",
+      "pos": "NOUN",
+      "translation": "der Scheinwerfer",
+      "example": "A bus appeared out of the fog, its headlights enormous, and stopped in front of the shelter with a sigh of brakes."
+    },
+    {
       "word": "headline",
       "pos": "NOUN",
       "translation": "die Schlagzeile",
@@ -13278,6 +13392,12 @@
       "pos": "NOUN",
       "translation": "die Kopfhörer",
       "example": "Instead he turned on his console, put his headphones on and played a racing game until his eyes closed by themselves."
+    },
+    {
+      "word": "heal",
+      "pos": "VERB",
+      "translation": "heilen",
+      "example": "You don't try to heal the boy's arm."
     },
     {
       "word": "healer",
@@ -13530,6 +13650,12 @@
       "pos": "PHRASE",
       "translation": "hier und da",
       "example": "Here and there, very rarely, two symbols side by side."
+    },
+    {
+      "word": "heritage",
+      "pos": "NOUN",
+      "translation": "das Erbe, das Kulturerbe",
+      "example": "They knocked most of it down, but they kept the headframe because some committee decided it was heritage."
     },
     {
       "word": "hero",
@@ -14468,6 +14594,12 @@
       "example": "What stood beside the shrine, nose to tail, were four long, high-sided farm wagons, each with a canvas hood patched in three different colours and hitched to a pair of shaggy brown oxen who were chewing with the slow, profound indifference of creatures that had seen everything and been impressed by none of it."
     },
     {
+      "word": "impressive",
+      "pos": "ADJ",
+      "translation": "beeindruckend",
+      "example": "Not the most impressive. The most important."
+    },
+    {
       "word": "improve",
       "pos": "VERB",
       "translation": "sich verbessern",
@@ -14685,6 +14817,12 @@
       "pos": "PHRASE",
       "translation": "mitten in",
       "example": "How did you ask a man why he had been reading your dead mother's letters in the middle of the night?"
+    },
+    {
+      "word": "in the shape of",
+      "pos": "PHRASE",
+      "translation": "in Form von, in Form eines/einer",
+      "example": "A child's night light in the shape of a moon."
     },
     {
       "word": "in the shoes of",
@@ -14990,6 +15128,12 @@
       "pos": "NOUN",
       "translation": "der Instinkt",
       "example": "\"As if someone had copied a footballer's instincts into me,\" said Max."
+    },
+    {
+      "word": "instruct",
+      "pos": "VERB",
+      "translation": "anweisen („as instructed“: wie angewiesen)",
+      "example": "Noé had eaten breakfast, as instructed."
     },
     {
       "word": "instructor",
@@ -15502,6 +15646,12 @@
       "example": "Grey kept up a gentle, breathless stream of talk as they walked — about the weather, about Bram, about how the glasshouses had always been the warmest place on the hill in winter, even when he had been a young man and the old Warden had kept the whole Academy on half-rations of coal."
     },
     {
+      "word": "keep watch",
+      "pos": "PHRASE",
+      "translation": "Wache halten, wachen",
+      "example": "\"And we keep watch. Over the town, and over the craft.\""
+    },
+    {
       "word": "keep your head down",
       "pos": "PHRASE",
       "translation": "nicht auffallen, den Kopf einziehen",
@@ -15706,6 +15856,12 @@
       "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
     },
     {
+      "word": "knock down",
+      "pos": "PHRASE",
+      "translation": "abreißen; umwerfen",
+      "example": "They knocked most of it down, but they kept the headframe because some committee decided it was heritage."
+    },
+    {
       "word": "knock off",
       "pos": "PHRASE",
       "translation": "herunterschlagen („knock his head off“: ihm den Kopf abreißen)",
@@ -15854,6 +16010,18 @@
       "pos": "NOUN",
       "translation": "die Lampe",
       "example": "Bring the lamp."
+    },
+    {
+      "word": "lamp room",
+      "pos": "PHRASE",
+      "translation": "die Lampenstube (im Bergwerk)",
+      "example": "\"The lamp room,\" Solange said, taking an enormous key from her pocket."
+    },
+    {
+      "word": "LAMPISTERIE",
+      "pos": "PROPN",
+      "translation": "Lampisterie (französisch: die Lampenstube des Bergwerks)",
+      "example": "Above the door, painted letters had almost faded away: LAMPISTERIE."
     },
     {
       "word": "lamplight",
@@ -17708,6 +17876,12 @@
       "example": "He had shaved, which he did twice a year at most, and put on the good coat — the brown one with the mended elbow that smelled faintly of cedar from the chest where it lived."
     },
     {
+      "word": "mending",
+      "pos": "NOUN",
+      "translation": "das Reparieren, das Flicken",
+      "example": "\"But the mending gesture—\""
+    },
+    {
       "word": "mental",
       "pos": "ADJ",
       "translation": "geistig; (umgangssprachlich) verrückt, irre",
@@ -18302,6 +18476,12 @@
       "example": "It happened in a single night, the way it did, Moss said, perhaps once in a generation: one evening the water lay black and still under a low grey sky, and the next morning it had turned to a single vast sheet of iron-grey ice, so thick and so clear that the students who crept down to the shore could see pale weeds hanging motionless far beneath it, like hair in a sleeping face."
     },
     {
+      "word": "motorbike",
+      "pos": "NOUN",
+      "translation": "das Motorrad",
+      "example": "Lucas lived in a narrow house near the old railway station, with a motorbike under a plastic cover in the yard."
+    },
+    {
       "word": "motorist",
       "pos": "NOUN",
       "translation": "der Autofahrer",
@@ -18480,6 +18660,12 @@
       "pos": "PHRASE",
       "translation": "der Muskelfaserriss",
       "example": "A physiotherapist at the hospital told him it was a muscle tear, not serious, but that he could not run for at least three weeks."
+    },
+    {
+      "word": "museum",
+      "pos": "NOUN",
+      "translation": "das Museum",
+      "example": "Not the heavy metal miners' lamps he had seen in the museum, but all kinds of lamps."
     },
     {
       "word": "mushroom",
@@ -18705,6 +18891,12 @@
     },
     {
       "word": "neither",
+      "pos": "ADV",
+      "translation": "auch nicht („Romain neither“: Romain auch nicht)",
+      "example": "\"Maxence hasn't even sent a message,\" he said. \"Not one. Romain neither.\""
+    },
+    {
+      "word": "neither",
       "pos": "CCONJ",
       "translation": "auch nicht; weder … noch",
       "example": "\"And neither, if you've any sense, do you.\""
@@ -18870,6 +19062,12 @@
       "pos": "NOUN",
       "translation": "die Nacht",
       "example": "Good night! — Gute Nacht!"
+    },
+    {
+      "word": "night light",
+      "pos": "PHRASE",
+      "translation": "das Nachtlicht",
+      "example": "A child's night light in the shape of a moon."
     },
     {
       "word": "night shift",
@@ -19238,6 +19436,12 @@
       "example": "As if to prove the point, the number 49 was pulling away from the stop just as he turned the corner."
     },
     {
+      "word": "numbered",
+      "pos": "ADJ",
+      "translation": "nummeriert",
+      "example": "Along the walls stood long racks of numbered hooks, hundreds of them, most of them empty."
+    },
+    {
       "word": "nurse",
       "pos": "NOUN",
       "translation": "die Krankenschwester, der Pfleger",
@@ -19272,6 +19476,12 @@
       "pos": "NOUN",
       "translation": "der Eid, der Schwur",
       "example": "Sir Hugh of Blackmoor, you have betrayed your oath, your king and the people you were supposed to protect."
+    },
+    {
+      "word": "obedience",
+      "pos": "NOUN",
+      "translation": "der Gehorsam",
+      "example": "He wasn't sure whether that was obedience or cowardice."
     },
     {
       "word": "obedient",
@@ -19458,6 +19668,12 @@
       "pos": "NOUN",
       "translation": "das Öl",
       "example": "Harry Dent's workshop smelled of oil, wood and cold coffee."
+    },
+    {
+      "word": "oil lamp",
+      "pos": "PHRASE",
+      "translation": "die Öllampe",
+      "example": "An old oil lamp with a cracked glass."
     },
     {
       "word": "oilcloth",
@@ -20341,6 +20557,12 @@
       "example": "Pinned to the board beside the shrine was a sheet of heavy cream paper bearing the seal of Thornhall: a thorned branch encircling a well."
     },
     {
+      "word": "paper lantern",
+      "pos": "PHRASE",
+      "translation": "der Papierlampion",
+      "example": "A bicycle light. A paper lantern."
+    },
+    {
       "word": "paperwork",
       "pos": "NOUN",
       "translation": "der Papierkram",
@@ -20767,6 +20989,12 @@
       "example": "The new students were sorted in the courtyard, under a sky the colour of pewter, by a steward with a ledger."
     },
     {
+      "word": "pharmacist",
+      "pos": "NOUN",
+      "translation": "der Apotheker",
+      "example": "A bus driver, a pharmacist, a retired priest, two farmers, a girl who's studying engineering in Lille."
+    },
+    {
       "word": "phase",
       "pos": "NOUN",
       "translation": "die Phase",
@@ -20807,6 +21035,12 @@
       "pos": "NOUN",
       "translation": "das Foto",
       "example": "On the wall, there were photos of a smiling woman with short white hair."
+    },
+    {
+      "word": "photocopy",
+      "pos": "NOUN",
+      "translation": "die Fotokopie",
+      "example": "He had brought photocopies of the week's notes in maths and history, because it was the only excuse he could think of."
     },
     {
       "word": "photograph",
@@ -21011,6 +21245,18 @@
       "pos": "PROPN",
       "translation": "Pistache (Name; „Pistazie“ auf Französisch)",
       "example": "My name is Pistache."
+    },
+    {
+      "word": "pit",
+      "pos": "NOUN",
+      "translation": "die Grube, die Zeche; das Loch",
+      "example": "My grandfather used to say that this was the most important room in the whole pit."
+    },
+    {
+      "word": "pit number nine",
+      "pos": "PHRASE",
+      "translation": "die Zeche Nummer neun",
+      "example": "My father was a miner at Pit Number Nine, and his father before him."
     },
     {
       "word": "pitchfork",
@@ -21293,6 +21539,12 @@
       "pos": "VERB",
       "translation": "schwebend halten",
       "example": "She was looking at him now, her pen poised above her little black book."
+    },
+    {
+      "word": "Poland",
+      "pos": "PROPN",
+      "translation": "Polen",
+      "example": "His father came here from Poland in 1923 with one suitcase and a shovel."
     },
     {
       "word": "pole",
@@ -21725,6 +21977,12 @@
       "pos": "VERB",
       "translation": "stechen",
       "example": "They closed over the cloaked figures on the causeway one by one, the way a hand closes over a moth — not crushing, but holding, tighter and tighter, until the men who had been shouting were not shouting any more, only standing very, very still, while the thorns pricked at their throats."
+    },
+    {
+      "word": "priest",
+      "pos": "NOUN",
+      "translation": "der Priester, der Pfarrer",
+      "example": "A bus driver, a pharmacist, a retired priest, two farmers, a girl who's studying engineering in Lille."
     },
     {
       "word": "primary",
@@ -22333,6 +22591,12 @@
       "example": "Instead he turned on his console, put his headphones on and played a racing game until his eyes closed by themselves."
     },
     {
+      "word": "rack",
+      "pos": "NOUN",
+      "translation": "das Gestell, das Regal",
+      "example": "Along the walls stood long racks of numbered hooks, hundreds of them, most of them empty."
+    },
+    {
       "word": "racket",
       "pos": "NOUN",
       "translation": "der Schläger (Tennisschläger)",
@@ -22379,6 +22643,12 @@
       "pos": "NOUN",
       "translation": "die Eisenbahn („railway land“: das Bahngelände)",
       "example": "The quickest way was through the back alleys behind Ashley Road and across the old railway land, but there was a high brick wall in the way, and Max always walked around it."
+    },
+    {
+      "word": "railway station",
+      "pos": "PHRASE",
+      "translation": "der Bahnhof",
+      "example": "Lucas lived in a narrow house near the old railway station, with a motorbike under a plastic cover in the yard."
     },
     {
       "word": "rain",
@@ -23250,6 +23520,12 @@
       "example": "\"I thought you had retired to grow cabbages.\""
     },
     {
+      "word": "retired",
+      "pos": "ADJ",
+      "translation": "pensioniert, im Ruhestand",
+      "example": "A bus driver, a pharmacist, a retired priest, two farmers, a girl who's studying engineering in Lille."
+    },
+    {
       "word": "retirement",
       "pos": "NOUN",
       "translation": "der Ruhestand",
@@ -23272,6 +23548,12 @@
       "pos": "VERB",
       "translation": "enthüllen",
       "example": "Every man reveals his intentions before he strikes."
+    },
+    {
+      "word": "revenge",
+      "pos": "NOUN",
+      "translation": "die Rache",
+      "example": "\"Revenge,\" she said, and wrote it in."
     },
     {
       "word": "Reverend",
@@ -23962,6 +24244,12 @@
       "pos": "NOUN",
       "translation": "der Rost",
       "example": "In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail."
+    },
+    {
+      "word": "rust",
+      "pos": "VERB",
+      "translation": "rosten („rusted“: verrostet)",
+      "example": "The great wheel at the top still in place, rusted and motionless against the sky."
     },
     {
       "word": "rustle",
@@ -25728,6 +26016,12 @@
       "example": "Below, the fire had sunk to a sullen red glow, and by its light he could make out the bulk of his uncle kneeling on the floor."
     },
     {
+      "word": "sip",
+      "pos": "NOUN",
+      "translation": "der Schluck",
+      "example": "She took a sip of coffee."
+    },
+    {
       "word": "sir",
       "pos": "NOUN",
       "translation": "Herr (Anrede für einen Ritter, einen Vorgesetzten)",
@@ -25822,6 +26116,12 @@
       "pos": "NOUN",
       "translation": "der Zug (Wildgänse); der Strang",
       "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
+    },
+    {
+      "word": "skeleton",
+      "pos": "NOUN",
+      "translation": "das Skelett; das Gerippe",
+      "example": "Noé saw the black iron skeleton of a headframe, the great wheel at the top still in place."
     },
     {
       "word": "sketch",
@@ -26488,6 +26788,12 @@
       "pos": "NOUN",
       "translation": "die Erde, der Boden",
       "example": "He loosened the soil where it had packed hard."
+    },
+    {
+      "word": "Solange",
+      "pos": "PROPN",
+      "translation": "Solange (Vorname)",
+      "example": "\"My name is Solange Wiśniewski.\""
     },
     {
       "word": "soldier",
@@ -27186,6 +27492,12 @@
       "example": "She stood up, picking up the lamp."
     },
     {
+      "word": "stand up to",
+      "pos": "PHRASE",
+      "translation": "sich (jemandem) widersetzen, die Stirn bieten",
+      "example": "If you want to stand up to him, and you should, you'll do it with your own face and your own voice, like everybody else."
+    },
+    {
       "word": "standard",
       "pos": "NOUN",
       "translation": "die Norm, das geforderte Niveau",
@@ -27744,6 +28056,12 @@
       "example": "The first one was on the High Street, next to the bakery."
     },
     {
+      "word": "street lamp",
+      "pos": "PHRASE",
+      "translation": "die Straßenlaterne",
+      "example": "The street lamps made yellow circles in the grey, and the only sound was the hiss of a lorry somewhere on the main road."
+    },
+    {
       "word": "streetlamp",
       "pos": "NOUN",
       "translation": "die Straßenlaterne",
@@ -28020,6 +28338,12 @@
       "example": "She returned a few minutes later with a stocky, grey-bearded man in a boiler suit, who introduced himself as the distillery manager and enquired, with elaborate casualness, whether it was true that Gideon had spent the night on Drumochter with Alasdair Beaton."
     },
     {
+      "word": "suitcase",
+      "pos": "NOUN",
+      "translation": "der Koffer",
+      "example": "His father came here from Poland in 1923 with one suitcase and a shovel."
+    },
+    {
       "word": "sulkily",
       "pos": "ADV",
       "translation": "schmollend, mürrisch",
@@ -28180,6 +28504,12 @@
       "pos": "ADJ",
       "translation": "überraschend, erstaunlich",
       "example": "There were a surprising number."
+    },
+    {
+      "word": "surprisingly",
+      "pos": "ADV",
+      "translation": "überraschend, erstaunlich",
+      "example": "Her grip was surprisingly strong."
     },
     {
       "word": "surround",
@@ -28595,6 +28925,12 @@
       "example": "His sketchbook, held together with tape, contained three years of characters, cities and monsters, and a manga he had been working on since he was fourteen."
     },
     {
+      "word": "target",
+      "pos": "NOUN",
+      "translation": "das Ziel, die Zielscheibe",
+      "example": "But it also chooses the target for you, and it never knows when to stop."
+    },
+    {
       "word": "tarmac",
       "pos": "NOUN",
       "translation": "der Asphalt",
@@ -28743,6 +29079,12 @@
       "pos": "NOUN",
       "translation": "die Temperatur",
       "example": "The temperature display on the dashboard slid from two degrees to zero, then to minus one, and then, with a kind of casual malice, to minus four."
+    },
+    {
+      "word": "temple",
+      "pos": "NOUN",
+      "translation": "die Schläfe; der Tempel",
+      "example": "She tapped her temple."
     },
     {
       "word": "ten",
@@ -29055,6 +29397,12 @@
       "pos": "PHRASE",
       "translation": "auf der Stelle",
       "example": "Ruth had given Margaret a key to the tower, and so they climbed it, there and then."
+    },
+    {
+      "word": "thermos",
+      "pos": "NOUN",
+      "translation": "die Thermoskanne",
+      "example": "She had a thermos on her knees and was doing a crossword in the local paper."
     },
     {
       "word": "these",
@@ -30599,6 +30947,12 @@
       "example": "Held at Underbrook."
     },
     {
+      "word": "underground",
+      "pos": "ADJ",
+      "translation": "unter Tage, unterirdisch",
+      "example": "If a lamp was missing at the end of the shift, it meant a man was still underground."
+    },
+    {
       "word": "underline",
       "pos": "VERB",
       "translation": "unterstreichen",
@@ -31690,6 +32044,12 @@
       "example": "\"Watch Manager Hollis,\" she said."
     },
     {
+      "word": "Watchers",
+      "pos": "PROPN",
+      "translation": "die Wächter (Name der Gruppe; „watcher“: Wächter)",
+      "example": "We call ourselves the Watchers."
+    },
+    {
       "word": "watchful",
       "pos": "ADJ",
       "translation": "wachsam",
@@ -31754,6 +32114,12 @@
       "pos": "NOUN",
       "translation": "das Wachs",
       "example": "He carried a letter sealed with the red wax of the king himself."
+    },
+    {
+      "word": "wax",
+      "pos": "VERB",
+      "translation": "wachsen („waxed jacket“: Wachsjacke)",
+      "example": "A small woman of about sixty-five, in a man's waxed jacket and a woollen hat the colour of a fire engine."
     },
     {
       "word": "way",
@@ -32488,6 +32854,12 @@
       "example": "Draw a great deal, and you will sleep for a day and wake up with a headache that makes you wish you hadn't."
     },
     {
+      "word": "Wiśniewski",
+      "pos": "PROPN",
+      "translation": "Wiśniewski (polnischer Nachname)",
+      "example": "\"My name is Solange Wiśniewski.\""
+    },
+    {
       "word": "wit",
       "pos": "NOUN",
       "translation": "der Verstand („wits“: der Grips)",
@@ -32798,6 +33170,12 @@
       "pos": "PHRASE",
       "translation": "aufschreiben, niederschreiben",
       "example": "\"Everything the Wood-wardens ever wrote down about the Wood — what it is, and how it works, and how they taught it."
+    },
+    {
+      "word": "write in",
+      "pos": "PHRASE",
+      "translation": "eintragen",
+      "example": "\"Revenge,\" she said, and wrote it in."
     },
     {
       "word": "writer",

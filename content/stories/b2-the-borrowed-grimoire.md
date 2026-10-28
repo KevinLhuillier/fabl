@@ -366,3 +366,113 @@ At around midnight, he finally opened it, meaning to look at the page about the 
 Under the inscription, there was something new.
 It was written in pencil, in the same cramped, sloping handwriting as all the notes in the margins. But this time the graphite was dark and shiny, and when Noé touched it with his fingertip, it smudged. It had been written that day.
 That is not what it is for. Bus shelter, rue des Corons. Tomorrow, 7 a.m. Come alone, and eat breakfast first.
+
+# The Pencil
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_1-1793190731704.mp3
+At ten to seven the next morning, Aubrecourt was wrapped in a fog so thick that the slag heaps had disappeared completely, as if someone had finally taken them away in the night. The street lamps made yellow circles in the grey, and the only sound was the hiss of a lorry somewhere on the main road.
+Noé had eaten breakfast, as instructed. He had also brought the grimoire, wrapped in its tea towel, because he couldn't imagine leaving it behind. He had not told Inès. He wasn't sure whether that was obedience or cowardice.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_2-1793190742713.mp3
+The bus shelter on the rue des Corons stood at the end of a row of miners' cottages, opposite a closed bakery. Someone was already sitting on the narrow bench inside it: a small woman of about sixty-five, in a man's waxed jacket and a woollen hat the colour of a fire engine. She had a thermos on her knees and was doing a crossword in the local paper. On the front page, under the headline STUDENT INJURED DURING OFFICIAL VISIT, there was a slightly blurred photograph of an ambulance.
+She didn't look up. "Seven letters," she said. "'Something you can't give back once you've taken it.'"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_3-1793190757245.mp3
+Noé stood in front of the shelter, the fog wet on his face. He had imagined this meeting a hundred times during the night. In some versions, the pencil belonged to an old man with a long beard; in others, to someone his own age, or to a ghost. He had not imagined a woman with a red hat doing a crossword.
+"I don't know," he said.
+"Revenge," she said, and wrote it in. "Seven. Good." She folded the paper, screwed the top off the thermos and poured some coffee into the cup. Then, at last, she looked at him. Her eyes were very pale, almost grey, and they were not unkind, but they were not soft either. "Sit down, Noé Garnier. You look like a boy who hasn't slept."
+"How do you know my name?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_4-1793190768708.mp3
+"The same way I knew where to find you. The same way I knew the book had been borrowed again." She tapped her temple. "When someone works the craft nearby, the ones who practise it can feel it. It's a bit like hearing a radio in the next flat. You don't hear the words, but you know it's on. Three weeks ago, somebody in the Cité des Acacias switched the radio on for the first time in thirty-seven years. Then they kept switching it on, every evening, a little louder each time." She took a sip of coffee. "And yesterday, at twenty past ten, somebody turned it up so loud that I spilled my tea."
+Noé sat down on the bench. It was cold through his jeans.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_5-1793190780706.mp3
+"You wrote the notes," he said. "In the margins."
+"I did. A long time ago. My name is Solange Wiśniewski. My father was a miner at Pit Number Nine, and his father before him, and his father came here from Poland in 1923 with one suitcase and a shovel." She held out her hand, and he shook it, because he didn't know what else to do. Her grip was surprisingly strong. "I've been waiting a long time for someone to read my notes. I'll be honest, I hoped they would read them more carefully."
+Noé felt his face grow hot. "Useful. Dangerous. Think," he said quietly.
+"Useful. Dangerous. Think." She nodded. "You managed the first two."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_6-1793190788357.mp3
+For a while neither of them said anything. A cat crossed the road and vanished into the fog. Noé stared at the photograph of the ambulance on the folded newspaper.
+"Why didn't you stop me?" he said finally. "If you knew. If you felt it every evening. Why didn't you come before?"
+It was a fair question, and he saw that she knew it. She turned the cup slowly in her hands.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_7-1793190802776.mp3
+"Because the book isn't mine," she said. "It doesn't belong to anyone. You've read the first page. It's lent, and it chooses who it's lent to, and it has its reasons, even if I don't always understand them. I wanted to see what you would do with it, before I came and told you what to do. People who are told everything at the beginning never really learn anything." She paused. "And because I was wrong. I thought you'd be like the last one, or like me: slow, careful, frightened of it. You weren't. You learned faster than anyone I've ever heard of. I should have come a week ago. That's my fault, and I'll carry it." She looked at him. "But the boy on the stairs is yours."
+"I know."
+"Do you? Tell me what happened. Not the story you've been telling yourself all night. What actually happened."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_8-1793190817653.mp3
+So he told her. The plan, the walls, the confession. And then the moment when he should have stopped and didn't. He told her about the cold, clear feeling in his chest, and how it had made him feel strong, stronger than he had ever felt, and how it had wanted more. When he finished, his voice was hoarse.
+Solange listened without interrupting. Then she said, "Anger works. That's the problem. Nobody tells you that, so I'll tell you. Anger is a very good fuel. It gives you strength you don't have, and it makes the focus feel easy. But it also chooses the target for you, and it never knows when to stop. It's like driving a car very fast with your eyes shut." She finished her coffee. "You didn't lose control because you were tired, Noé. You were tired because you'd lost control a long time before that."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_9-1793190832786.mp3
+A bus appeared out of the fog, its headlights enormous, and stopped in front of the shelter with a sigh of brakes. The doors opened. Solange stood up and tucked the thermos under her arm.
+"Come on," she said. "I want to show you something."
+They rode to the end of the line, past the last houses of Aubrecourt and out between flat, wet fields. Solange got off at a stop with no name, beside a high brick wall covered in ivy. Behind it, the fog was beginning to lift, and Noé saw the black iron skeleton of a headframe, the great wheel at the top still in place, rusted and motionless against the sky.
+"Pit Number Nine," said Solange. "Closed in 1986. They knocked most of it down, but they kept the headframe because some committee decided it was heritage. And they forgot about this."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_10-1793190842450.mp3
+This was a long, low building at the edge of the site, with a row of tall arched windows and a roof of grey slate. Above the door, painted letters had almost faded away: LAMPISTERIE.
+"The lamp room," Solange said, taking an enormous key from her pocket. "Every morning, every miner came here and collected his lamp before going down. Every evening he brought it back. If a lamp was missing at the end of the shift, it meant a man was still underground. My grandfather used to say that this was the most important room in the whole pit. Not the most impressive. The most important."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_11-1793190851773.mp3
+Inside, the room was cold and smelled of dust and old oil. Along the walls stood long racks of numbered hooks, hundreds of them, most of them empty. But on some of the hooks, Noé saw, there were lamps: not the heavy metal miners' lamps he had seen in the museum, but all kinds of lamps. A bicycle light. A paper lantern. A child's night light in the shape of a moon. An old oil lamp with a cracked glass. Under each one, on a small brass plate, there was a name.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_12-1793190866739.mp3
+"There are a few of us," Solange said. "Not many. Eleven, at the moment, in Aubrecourt and the villages around. A bus driver, a pharmacist, a retired priest, two farmers, a girl who's studying engineering in Lille. We call ourselves the Watchers. It isn't a very original name, but it was chosen in 1902 by a group of very tired men, so we forgive them." She touched the cracked oil lamp gently. "We learn the craft together, and we teach it to anyone the book chooses. And we keep watch. Over the town, and over the craft. Because we're not the only ones who practise it, Noé. There are others, in other towns, and not all of them think the way we do."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_13-1793190877687.mp3
+"Is that why you didn't keep the book? Why it was in the médiathèque?"
+"Nobody keeps the book. It goes where it wants. It has been in that building since before it was a library, since the mining company's time." Something passed across her face, quickly, like the shadow of a bird. "The last person to borrow it before you wasn't me. I only read it with him."
+Noé thought of the library card, of the name scratched out so violently that the pen had torn the paper. He opened his mouth to ask, but Solange had already turned away and was walking towards the end of the room, where an old wooden counter stood under the windows.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_14-1793190893977.mp3
+"Here are the conditions," she said, without looking round. "One. No more revenge. Not on Maxence, not on anyone. If you want to stand up to him, and you should, you'll do it with your own face and your own voice, like everybody else. Two. You tell your friends the truth about the stairs. All of it. Three. You don't try to heal the boy's arm."
+"But the mending gesture—"
+"Works on paper, on cups, on a torn coat. A body is not a drawing. It has its own memory and its own speed, and if you try to hurry it, you'll make it worse. Doctors will mend that wrist. Your job is different." She turned round. "Your job is to go and see him."
+She put the enormous key on the counter and slid it towards him.
+"And four. Saturday, six o'clock, here. Bring the others. All three of them. What you learn alone, you learn badly."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_15-1793190903489.mp3
+Lucas lived in a narrow house near the old railway station, with a motorbike under a plastic cover in the yard. Noé stood outside it for ten minutes on Sunday afternoon before he rang the bell. He had brought photocopies of the week's notes in maths and history, because it was the only excuse he could think of.
+Lucas opened the door himself. His right arm was in a cast from his fingers to his elbow, and somebody had already written MAXENCE IS A on it, and then, apparently, been stopped before finishing. He looked at Noé with deep suspicion.
+"What do you want, freak?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_5.page_16-1793190917156.mp3
+It would have been easy to leave the notes and go. Instead, Noé held them out and said, "I thought you'd need these. You write with your right hand, don't you?"
+Lucas stared at the photocopies, then at him. Something in his face changed slightly, the way the ink had moved in Adam's sketchbook.
+"Maxence hasn't even sent a message," he said. "Not one. Romain neither." He took the notes awkwardly with his left hand. "Six years I've been his friend."
+Noé didn't know what to say to that, so he didn't say anything. They stood on the doorstep for a moment in the drizzle, two boys who had never had a real conversation, and the weight of what Noé knew, and Lucas didn't, sat between them like a third person.
+"See you," said Lucas finally, and closed the door. But he didn't slam it.
