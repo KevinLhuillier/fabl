@@ -707,6 +707,12 @@
       "example": "Alert."
     },
     {
+      "word": "Alf",
+      "pos": "PROPN",
+      "translation": "Alf (nombre, diminutivo de Alfred)",
+      "example": "Her grandad Alf had given her the first one when she was eight."
+    },
+    {
       "word": "alike",
       "pos": "ADV",
       "translation": "por igual («X and Y alike»: tanto X como Y)",
@@ -1703,6 +1709,12 @@
       "pos": "PHRASE",
       "translation": "en el último momento",
       "example": "At the last moment, in the lamp room, Solange handed him a dented old miner's lamp from one of the hooks."
+    },
+    {
+      "word": "at the moment",
+      "pos": "PHRASE",
+      "translation": "en este momento, por ahora",
+      "example": "Home, at the moment, was a narrow terraced house on Hallgarth Street."
     },
     {
       "word": "at the same time",
@@ -2790,6 +2802,12 @@
       "example": "But this was a different kind of silence — tight and watchful, like the hush that falls over the forest before a storm, when even the birds think better of singing."
     },
     {
+      "word": "biro",
+      "pos": "NOUN",
+      "translation": "el bolígrafo, el boli",
+      "example": "She found a black biro in her bag."
+    },
+    {
       "word": "birthday",
       "pos": "NOUN",
       "translation": "el cumpleaños",
@@ -3852,6 +3870,12 @@
       "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
     },
     {
+      "word": "bun",
+      "pos": "NOUN",
+      "translation": "el moño ; el bollo",
+      "example": "Behind the counter sat a very old woman with white hair pinned up in a bun."
+    },
+    {
       "word": "bunch",
       "pos": "NOUN",
       "translation": "el racimo, el ramo («a bunch of grapes»: un racimo de uvas)",
@@ -4710,6 +4734,12 @@
       "example": "Warehouse four was the oldest on the site, a dunnage warehouse with an earthen floor and walls a yard thick, in which the casks lay three high on wooden runners in a cool, damp, cathedral dark."
     },
     {
+      "word": "cathedral",
+      "pos": "NOUN",
+      "translation": "la catedral",
+      "example": "She crossed Framwellgate Bridge and climbed up through the narrow streets towards the cathedral."
+    },
+    {
       "word": "cause",
       "pos": "NOUN",
       "translation": "la causa",
@@ -5062,6 +5092,12 @@
       "pos": "NOUN",
       "translation": "el queso",
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "chemical",
+      "pos": "NOUN",
+      "translation": "el producto químico",
+      "example": "Some kind of special paper, a chemical that reacted with biro."
     },
     {
       "word": "chest",
@@ -6012,6 +6048,12 @@
       "example": "Their phones, Alasdair explained with a certain gloomy relish, had been left fully charged on the kitchen table, where they would no doubt be of great comfort to the cat."
     },
     {
+      "word": "comfort",
+      "pos": "VERB",
+      "translation": "consolar, reconfortar",
+      "example": "She did not know whether to be frightened or comforted, and in the end she was a little of both."
+    },
+    {
       "word": "comfortable",
       "pos": "ADJ",
       "translation": "cómodo, confortable",
@@ -6895,6 +6937,12 @@
     },
     {
       "word": "cream",
+      "pos": "ADJ",
+      "translation": "crema (color)",
+      "example": "The paper was thick and slightly cream, with pale blue lines."
+    },
+    {
+      "word": "cream",
       "pos": "NOUN",
       "translation": "la nata, la crema; (color) crema",
       "example": "Pinned to the board beside the shrine was a sheet of heavy cream paper bearing the seal of Thornhall: a thorned branch encircling a well."
@@ -7356,6 +7404,12 @@
       "example": "They took the man who was kneeling on Tamsin's back and plucked him off her as easily as a child plucks a daisy, and flung him tumbling into the snow."
     },
     {
+      "word": "Dales",
+      "pos": "PROPN",
+      "translation": "los Dales (valles del norte de Inglaterra; «dale»: valle)",
+      "example": "She came from Kettlewell, a village in the Yorkshire Dales."
+    },
+    {
       "word": "Dalwhinnie",
       "pos": "PROPN",
       "translation": "Dalwhinnie (pueblo de las Highlands)",
@@ -7732,6 +7786,12 @@
       "pos": "VERB",
       "translation": "partir, salir de",
       "example": "Then the old couple were helped down from the cab and into the four-by-four, Isla waving regally through the rear window like a dowager departing a garden party, and Gideon was alone once more, with his casks and his card and a road that was slowly, mile by mile, being given back to him."
+    },
+    {
+      "word": "department",
+      "pos": "NOUN",
+      "translation": "el departamento",
+      "example": "In Room 14 of the English department, in her very first seminar."
     },
     {
       "word": "departure",
@@ -8394,6 +8454,12 @@
       "example": "That in itself was not unusual; he could go a full day on a dozen words and consider himself talkative."
     },
     {
+      "word": "Dr",
+      "pos": "PROPN",
+      "translation": "Dr (abreviatura de «Doctor»: doctora, doctor)",
+      "example": "The tutor was a small, sharp woman called Dr Margaret Pell."
+    },
+    {
       "word": "drag",
       "pos": "VERB",
       "translation": "arrastrar",
@@ -8766,6 +8832,12 @@
       "example": "He was walking back from the glasshouses one evening, a week after the storm, and found himself at the gatehouse instead, and the guard on the door — a fifth-year Fire boy called Dunstan, who had been one of the loudest in the Thorn Ring chanting Blank — looked at him for a long moment, and then looked away, and stepped aside."
     },
     {
+      "word": "Durham",
+      "pos": "PROPN",
+      "translation": "Durham (ciudad universitaria del noreste de Inglaterra)",
+      "example": "On her ninth day in Durham, Rosalind Hale counted the words she had spoken out loud since breakfast."
+    },
+    {
       "word": "during",
       "pos": "ADP",
       "translation": "durante",
@@ -8872,6 +8944,12 @@
       "pos": "VERB",
       "translation": "ganarse, merecer",
       "example": "I do not think I have earned it."
+    },
+    {
+      "word": "earring",
+      "pos": "NOUN",
+      "translation": "el pendiente, el arete",
+      "example": "Dr Margaret Pell, who wore large silver earrings."
     },
     {
       "word": "earth",
@@ -9378,6 +9456,12 @@
       "example": "Sir Edwin became one of the most respected knights in England, known not for the tournaments he won, but for the battles he chose to fight."
     },
     {
+      "word": "English",
+      "pos": "PROPN",
+      "translation": "el inglés («English department»: departamento de inglés)",
+      "example": "In Room 14 of the English department, in her very first seminar."
+    },
+    {
       "word": "engrave",
       "pos": "VERB",
       "translation": "grabar",
@@ -9462,6 +9546,12 @@
       "example": "Above the main entrance, half hidden behind a modern sign, you could still read the original words carved in stone: COMPAGNIE DES MINES D'AUBRECOURT."
     },
     {
+      "word": "entry",
+      "pos": "NOUN",
+      "translation": "la entrada ; la anotación («diary entry»: entrada del diario)",
+      "example": "Since then she had not written a single diary entry."
+    },
+    {
       "word": "envelope",
       "pos": "NOUN",
       "translation": "el sobre",
@@ -9526,6 +9616,12 @@
       "pos": "ADV",
       "translation": "esencialmente, en esencia",
       "example": "Within the hour the two men had established, to their mutual satisfaction, that they had spent their lives in essentially the same trade, merely conducted on different surfaces."
+    },
+    {
+      "word": "EST",
+      "pos": "PROPN",
+      "translation": "EST. (abreviatura de «established»: fundado en)",
+      "example": "Above it, in faded gold letters, a sign said: PENNICK & DAUGHTER, STATIONERS, EST. 1921."
     },
     {
       "word": "establish",
@@ -9818,6 +9914,12 @@
       "pos": "VERB",
       "translation": "explicar",
       "example": "\"He has won the last three tournaments,\" a merchant explained to Edwin."
+    },
+    {
+      "word": "explanation",
+      "pos": "NOUN",
+      "translation": "la explicación",
+      "example": "There had to be an explanation."
     },
     {
       "word": "explode",
@@ -11134,6 +11236,12 @@
       "example": "He was so delighted that he punched the air like a footballer after a goal."
     },
     {
+      "word": "footnote",
+      "pos": "NOUN",
+      "translation": "la nota a pie de página",
+      "example": "She looked at people as if she could read the footnotes in their heads."
+    },
+    {
       "word": "footprint",
       "pos": "NOUN",
       "translation": "la huella",
@@ -11470,6 +11578,12 @@
       "example": "Max stood up to stretch his legs, took one step towards the water fountain and fell flat on his face."
     },
     {
+      "word": "fountain pen",
+      "pos": "PHRASE",
+      "translation": "la pluma estilográfica",
+      "example": "The window was full of ink bottles, fountain pens and notebooks of every colour."
+    },
+    {
       "word": "four",
       "pos": "NUM",
       "translation": "cuatro",
@@ -11534,6 +11648,12 @@
       "pos": "PHRASE",
       "translation": "fotograma a fotograma",
       "example": "He filmed his hand with his phone and compared it with the diagram, frame by frame, the way he used to study combos in fighting games."
+    },
+    {
+      "word": "Framwellgate",
+      "pos": "PROPN",
+      "translation": "Framwellgate (nombre de un puente de Durham)",
+      "example": "She crossed Framwellgate Bridge and climbed up through the narrow streets towards the cathedral."
     },
     {
       "word": "France",
@@ -11620,6 +11740,12 @@
       "example": "Without the game, his body was more tired than ever, and Gaz had to cover for him twice when he fell asleep sitting on a pallet in the freezer section."
     },
     {
+      "word": "french",
+      "pos": "ADJ",
+      "translation": "francés",
+      "example": "A French girl called Ines, who was always there, and always singing."
+    },
+    {
       "word": "French",
       "pos": "PROPN",
       "translation": "el francés (la lengua)",
@@ -11630,6 +11756,12 @@
       "pos": "ADJ",
       "translation": "fresco",
       "example": "Only the smell of fresh bread climbs up the walls and comes in through the window."
+    },
+    {
+      "word": "Freshers",
+      "pos": "PROPN",
+      "translation": "Freshers («Freshers' Week»: semana de bienvenida a los nuevos estudiantes)",
+      "example": "It was the reason she had spent the whole of Freshers' Week in her room with a packet of biscuits."
     },
     {
       "word": "freshly",
@@ -12038,6 +12170,12 @@
       "pos": "PROPN",
       "translation": "gare (en francés: «estación»; «Hôtel de la Gare»)",
       "example": "A woman in a fur coat who stayed at the Hôtel de la Gare for a week and took him to dinner every evening."
+    },
+    {
+      "word": "garlic",
+      "pos": "NOUN",
+      "translation": "el ajo",
+      "example": "Ines was cooking something that smelled of garlic and butter."
     },
     {
       "word": "Garnier",
@@ -13386,6 +13524,12 @@
       "pos": "PROPN",
       "translation": "la Sala («Ember Hall», «Great Hall»)",
       "example": "\"Ember Hall won't take anyone who can't light a candle, and frankly I wouldn't send a dog there.\""
+    },
+    {
+      "word": "Hallgarth",
+      "pos": "PROPN",
+      "translation": "Hallgarth (nombre de calle: «Hallgarth Street»)",
+      "example": "Home, at the moment, was a narrow terraced house on Hallgarth Street."
     },
     {
       "word": "hallway",
@@ -15130,7 +15274,7 @@
     {
       "word": "in a row",
       "pos": "PHRASE",
-      "translation": "en fila",
+      "translation": "en fila ; seguidos («three years in a row»: tres años seguidos)",
       "example": "On each desk, while their eyes had been closed, someone had placed four small objects in a row: a shallow dish of water, a stub of candle, a smooth river pebble, and a single white feather."
     },
     {
@@ -15459,6 +15603,12 @@
       "pos": "ADJ",
       "translation": "contenido («indrawn breath»: aliento contenido)",
       "example": "The word dropped into the meadow like a stone into a well, and Rowan heard the ripples spread behind him: a murmur, a hiss of indrawn breath, someone saying poor lad in the tone people use for a lame horse."
+    },
+    {
+      "word": "Ines",
+      "pos": "PROPN",
+      "translation": "Ines (nombre)",
+      "example": "A French girl called Ines, who was always there, and always singing."
     },
     {
       "word": "Inès",
@@ -16226,6 +16376,12 @@
       "pos": "NOUN",
       "translation": "la tetera, el hervidor",
       "example": "The rain drummed on the slate roof and the camping stove hissed under Solange's kettle."
+    },
+    {
+      "word": "Kettlewell",
+      "pos": "PROPN",
+      "translation": "Kettlewell (pueblo de Yorkshire)",
+      "example": "She came from Kettlewell, a village in the Yorkshire Dales."
     },
     {
       "word": "key",
@@ -17146,6 +17302,12 @@
       "example": "He carried a letter sealed with the red wax of the king himself."
     },
     {
+      "word": "letter by letter",
+      "pos": "PHRASE",
+      "translation": "letra por letra",
+      "example": "Green ink, appearing on the line just below her own words, slowly, letter by letter."
+    },
+    {
       "word": "letterbox",
       "pos": "NOUN",
       "translation": "el buzón",
@@ -17336,6 +17498,12 @@
       "pos": "NOUN",
       "translation": "el tilo («lime wood»: madera de tilo); la lima",
       "example": "That evening, Rowan sat by the hearth with his whittling knife and a block of lime wood, working on a figure he had been carving for a week: a fox, curled nose to tail, asleep."
+    },
+    {
+      "word": "liminal",
+      "pos": "ADJ",
+      "translation": "liminal (palabra culta: que está en un umbral, entre dos estados)",
+      "example": "A girl from London talked about poetry and used the word \"liminal\" twice."
     },
     {
       "word": "limit",
@@ -17540,6 +17708,12 @@
       "pos": "NOUN",
       "translation": "el tronco, el leño",
       "example": "But it landed in the small room like a log dropped on the hearth, and Rowan let the question die."
+    },
+    {
+      "word": "London",
+      "pos": "PROPN",
+      "translation": "Londres",
+      "example": "A girl from London talked about poetry and used the word \"liminal\" twice."
     },
     {
       "word": "lonely",
@@ -19232,6 +19406,12 @@
       "example": "\"Something like that,\" he mumbled."
     },
     {
+      "word": "Muriel",
+      "pos": "PROPN",
+      "translation": "Muriel (nombre; «Muriel Spark»: novelista escocesa)",
+      "example": "A tall boy with a Scottish accent said something about a novel by Muriel Spark."
+    },
+    {
       "word": "murmur",
       "pos": "NOUN",
       "translation": "el murmullo",
@@ -20018,6 +20198,12 @@
       "example": "Gideon laughed, and then, rather to his own surprise, found himself telling Alasdair about the lay-by above Dalwhinnie — about Pauline and the sandwiches and the thirty-one summers, about the funeral and the long, numb months that had followed it, about the half-formed notion that had brought him north on this particular run with ninety empty casks rattling behind him."
     },
     {
+      "word": "novel",
+      "pos": "NOUN",
+      "translation": "la novela",
+      "example": "A tall boy with a Scottish accent said something about a novel by Muriel Spark."
+    },
+    {
       "word": "November",
       "pos": "PROPN",
       "translation": "noviembre",
@@ -20507,6 +20693,12 @@
       "pos": "PHRASE",
       "translation": "tú solo, por tu cuenta",
       "example": "On your own."
+    },
+    {
+      "word": "on your side",
+      "pos": "PHRASE",
+      "translation": "de tu lado, contigo",
+      "example": "Don't be scared. I'm on your side."
     },
     {
       "word": "once",
@@ -21517,6 +21709,12 @@
       "example": "Then, without turning around, without a single word, Bram took his coat from the peg by the door and went out into the dark."
     },
     {
+      "word": "Pell",
+      "pos": "PROPN",
+      "translation": "Pell (apellido)",
+      "example": "The tutor was a small, sharp woman called Dr Margaret Pell."
+    },
+    {
       "word": "pen",
       "pos": "NOUN",
       "translation": "la pluma, el bolígrafo",
@@ -21533,6 +21731,12 @@
       "pos": "PROPN",
       "translation": "Penhallow (apellido)",
       "example": "\"Jory Penhallow,\" he announced, flinging the trunk into the wagon and himself after it."
+    },
+    {
+      "word": "PENNICK",
+      "pos": "PROPN",
+      "translation": "Pennick (apellido, nombre de la tienda)",
+      "example": "Above it, in faded gold letters, a sign said: PENNICK & DAUGHTER, STATIONERS, EST. 1921."
     },
     {
       "word": "penny",
@@ -21653,6 +21857,12 @@
       "pos": "PROPN",
       "translation": "Perth (ciudad de Escocia)",
       "example": "She held out her phone so that he could see the Traffic Scotland page, on which the A9 north of Perth was marked with a scattering of ominous yellow triangles."
+    },
+    {
+      "word": "pet",
+      "pos": "NOUN",
+      "translation": "la mascota ; cariño, cielo (apelativo cariñoso del norte de Inglaterra)",
+      "example": "\"When you can't say a thing, pet, write it down,\" he had told her."
     },
     {
       "word": "petal",
@@ -21895,6 +22105,12 @@
       "example": "Pinned to the board beside the shrine was a sheet of heavy cream paper bearing the seal of Thornhall: a thorned branch encircling a well."
     },
     {
+      "word": "pin up",
+      "pos": "PHRASE",
+      "translation": "recoger (el pelo con horquillas) ; colgar, clavar (un cartel)",
+      "example": "A very old woman with white hair pinned up in a bun."
+    },
+    {
       "word": "pinch",
       "pos": "NOUN",
       "translation": "la pizca («at a pinch»: en caso de apuro)",
@@ -21989,6 +22205,12 @@
       "pos": "NOUN",
       "translation": "el píxel",
       "example": "A woman made of pixels with a grey moustache of soot."
+    },
+    {
+      "word": "pizza",
+      "pos": "NOUN",
+      "translation": "la pizza",
+      "example": "They walked in groups across the old bridges, laughing, carrying pizza boxes and bottles."
     },
     {
       "word": "place",
@@ -22334,9 +22556,21 @@
     },
     {
       "word": "pop",
+      "pos": "NOUN",
+      "translation": "el pop (música) ; el estallido",
+      "example": "A French pop song played very loudly from her phone."
+    },
+    {
+      "word": "pop",
       "pos": "VERB",
       "translation": "chisporrotear, estallar",
       "example": "The fire popped."
+    },
+    {
+      "word": "pop song",
+      "pos": "PHRASE",
+      "translation": "la canción pop",
+      "example": "A French pop song played very loudly from her phone."
     },
     {
       "word": "popcorn",
@@ -23291,6 +23525,12 @@
       "pos": "VERB",
       "translation": "temblar, estremecerse",
       "example": "The rod was quivering now, its forked tip dipping and lifting like the nose of a hound that has caught a scent."
+    },
+    {
+      "word": "R.",
+      "pos": "PROPN",
+      "translation": "R. (inicial de la firma)",
+      "example": "Don't be scared. I'm on your side. — R."
     },
     {
       "word": "R.B.",
@@ -24738,6 +24978,18 @@
       "example": "A rope was brought."
     },
     {
+      "word": "Ros",
+      "pos": "PROPN",
+      "translation": "Ros (diminutivo de Rosalind)",
+      "example": "Go to sleep, Ros. Tomorrow we start."
+    },
+    {
+      "word": "Rosalind",
+      "pos": "PROPN",
+      "translation": "Rosalind (nombre)",
+      "example": "On her ninth day in Durham, Rosalind Hale counted the words she had spoken out loud since breakfast."
+    },
+    {
       "word": "rosary",
       "pos": "NOUN",
       "translation": "el rosario",
@@ -25108,6 +25360,12 @@
       "pos": "NOUN",
       "translation": "la silla de montar ; (relieve) el collado",
       "example": "On the second, Godfrey struck Hugh so hard that the younger knight almost fell from his saddle."
+    },
+    {
+      "word": "Saddler",
+      "pos": "PROPN",
+      "translation": "Saddler (nombre de calle: «Saddler Street»; «saddler»: guarnicionero)",
+      "example": "On Saddler Street, between a phone shop and a place that sold expensive candles, she noticed a door she had not seen before."
     },
     {
       "word": "sadly",
@@ -25774,6 +26032,12 @@
       "pos": "VERB",
       "translation": "vender",
       "example": "His father, a poor farmer, had sold two cows to pay for the journey."
+    },
+    {
+      "word": "seminar",
+      "pos": "NOUN",
+      "translation": "el seminario",
+      "example": "In Room 14 of the English department, in her very first seminar."
     },
     {
       "word": "send",
@@ -27548,7 +27812,7 @@
     {
       "word": "so much as",
       "pos": "PHRASE",
-      "translation": "ni siquiera",
+      "translation": "ni siquiera ; más que («not fall so much as hang»: más que caer, flotar)",
       "example": "\"He was most entertaining about it at dinner last night — the woodcutter's boy who couldn't make a Standing Stone so much as yawn, and old Vell, scurrying about the meadow with her little book, determined to make a scholar out of a stump.\""
     },
     {
@@ -27892,6 +28156,12 @@
       "pos": "NOUN",
       "translation": "la chispa",
       "example": "Across the square, the blacksmith's son, Edric Vane, was entertaining a half-circle of younger children by snapping his fingers and conjuring a spark — just one, bright and brief as a firefly."
+    },
+    {
+      "word": "Spark",
+      "pos": "PROPN",
+      "translation": "Spark (apellido; «Muriel Spark»: novelista escocesa)",
+      "example": "A tall boy with a Scottish accent said something about a novel by Muriel Spark."
     },
     {
       "word": "sparring",
@@ -28474,6 +28744,12 @@
       "pos": "PROPN",
       "translation": "Station (en «Station Road», nombre de calle)",
       "example": "He doesn't live here, he lives up on Station Road."
+    },
+    {
+      "word": "stationer",
+      "pos": "NOUN",
+      "translation": "el papelero («stationer's»: la papelería)",
+      "example": "Above it, in faded gold letters, a sign said: PENNICK & DAUGHTER, STATIONERS, EST. 1921."
     },
     {
       "word": "stave",
@@ -29226,6 +29502,12 @@
       "example": "She returned a few minutes later with a stocky, grey-bearded man in a boiler suit, who introduced himself as the distillery manager and enquired, with elaborate casualness, whether it was true that Gideon had spent the night on Drumochter with Alasdair Beaton."
     },
     {
+      "word": "suit",
+      "pos": "VERB",
+      "translation": "convenir, venir bien",
+      "example": "Nobody there expected her to talk very much, and that had suited her perfectly."
+    },
+    {
       "word": "suitcase",
       "pos": "NOUN",
       "translation": "la maleta",
@@ -29521,6 +29803,12 @@
     },
     {
       "word": "sweet",
+      "pos": "ADJ",
+      "translation": "dulce ; amable, encantador",
+      "example": "Inside, it smelled of paper, dust and something sweet, like old wood."
+    },
+    {
+      "word": "sweet",
       "pos": "NOUN",
       "translation": "el caramelo, la golosina",
       "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
@@ -29751,6 +30039,12 @@
       "pos": "PHRASE",
       "translation": "ocupar",
       "example": "He was round-faced and freckled, with a shock of copper hair and a grin that seemed to take up most of his face."
+    },
+    {
+      "word": "take your time",
+      "pos": "PHRASE",
+      "translation": "tómate tu tiempo",
+      "example": "\"Take your time, love,\" she said. \"Nothing in here is in a hurry.\""
     },
     {
       "word": "talent",
@@ -31079,6 +31373,12 @@
       "example": "\"He says you're to be given the tour,\" said Ruaridh."
     },
     {
+      "word": "tourist",
+      "pos": "NOUN",
+      "translation": "el turista",
+      "example": "A joke for tourists."
+    },
+    {
       "word": "tournament",
       "pos": "NOUN",
       "translation": "el torneo",
@@ -31385,6 +31685,12 @@
       "example": "Rowan saw columns of names in a neat, cramped hand, and beside each a single symbol: a wavy line, a triangle, a spiral, a small circle."
     },
     {
+      "word": "trick",
+      "pos": "NOUN",
+      "translation": "el truco, la broma",
+      "example": "A trick from the shop, perhaps: some kind of special paper, a chemical that reacted with biro."
+    },
+    {
       "word": "trip",
       "pos": "VERB",
       "translation": "tropezar",
@@ -31641,6 +31947,12 @@
       "pos": "NOUN",
       "translation": "el nabo",
       "example": "He was Earth, but only just — \"enough to tell a stone from a turnip,\" he said, \"and not a great deal more.\""
+    },
+    {
+      "word": "tutor",
+      "pos": "NOUN",
+      "translation": "el tutor, el profesor (de un grupo reducido en la universidad)",
+      "example": "The tutor was a small, sharp woman called Dr Margaret Pell."
     },
     {
       "word": "tutorial",
@@ -32980,6 +33292,12 @@
       "example": "The sky turned from black to grey to a pale, washed-out pink above the fields."
     },
     {
+      "word": "wash up",
+      "pos": "PHRASE",
+      "translation": "fregar los platos",
+      "example": "Ines washing up and still singing, the engineers coming in late and dropping their keys."
+    },
+    {
       "word": "washbasin",
       "pos": "NOUN",
       "translation": "el lavabo, la palangana",
@@ -33380,6 +33698,12 @@
       "pos": "PROPN",
       "translation": "Wetherby (pequeña ciudad de Yorkshire)",
       "example": "Wetherby."
+    },
+    {
+      "word": "Wharfe",
+      "pos": "PROPN",
+      "translation": "el Wharfe (río de Yorkshire)",
+      "example": "A village in the Yorkshire Dales with one shop, two pubs, a river called the Wharfe and more sheep than people."
     },
     {
       "word": "Wharfedale",
@@ -34358,6 +34682,12 @@
       "pos": "PROPN",
       "translation": "Yorkshire (región del norte de Inglaterra)",
       "example": "Jamal Reid was twenty-two, the Yorkshire amateur champion at his weight, and he moved like water."
+    },
+    {
+      "word": "yorkshire dales",
+      "pos": "PHRASE",
+      "translation": "los Yorkshire Dales (valles y colinas de Yorkshire, parque nacional)",
+      "example": "She came from Kettlewell, a village in the Yorkshire Dales."
     },
     {
       "word": "you",

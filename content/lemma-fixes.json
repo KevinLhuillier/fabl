@@ -365,6 +365,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Bridge",
+      "pos": "PROPN",
+      "word": "bridge",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "BRIGADE",
       "pos": "ADV",
       "word": "brigade",
@@ -607,6 +613,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "cream",
+      "pos": "VERB",
+      "word": "cream",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "creep",
       "pos": "NOUN",
       "next": "into",
@@ -680,6 +692,12 @@
       "next": "behind",
       "word": "dance",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "DAUGHTER",
+      "pos": "PROPN",
+      "word": "daughter",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Day",
@@ -778,6 +796,12 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "Downstairs",
+      "pos": "PROPN",
+      "word": "downstairs",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "drew",
       "pos": "NOUN",
       "word": "draw",
@@ -834,6 +858,12 @@
     {
       "text": "Eleven",
       "pos": "PROPN",
+      "word": "eleven",
+      "lemmaPos": "NUM"
+    },
+    {
+      "text": "Eleven",
+      "pos": "ADJ",
       "word": "eleven",
       "lemmaPos": "NUM"
     },
@@ -1491,6 +1521,12 @@
       "pos": "VERB",
       "word": "indrawn",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Ines",
+      "pos": "NOUN",
+      "word": "Ines",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "infirmary",
@@ -2321,6 +2357,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Paper",
+      "pos": "PROPN",
+      "word": "paper",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Park",
       "pos": "PROPN",
       "word": "park",
@@ -2408,6 +2450,12 @@
       "pos": "VERB",
       "word": "perfect",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "pet",
+      "pos": "ADJ",
+      "word": "pet",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "petal",
@@ -2748,10 +2796,34 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Room",
+      "pos": "PROPN",
+      "word": "room",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "ropes",
       "pos": "VERB",
       "word": "rope",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Rosalind",
+      "pos": "ADJ",
+      "word": "Rosalind",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Rosalind",
+      "pos": "NOUN",
+      "word": "Rosalind",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Rosalind",
+      "pos": "VERB",
+      "word": "Rosalind",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "rosemary",
@@ -3165,6 +3237,12 @@
       "pos": "VERB",
       "word": "stare",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "STATIONERS",
+      "pos": "PROPN",
+      "word": "stationer",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "staying",
