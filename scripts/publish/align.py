@@ -103,7 +103,8 @@ def main() -> None:
     path = fetch(req["audio"])
     try:
         timings, matched = align(words, transcribe(model, path, " ".join(words)))
-        if matched < RETRY_BELOW:
+        # Also when words are left without timing (the prompt can make Whisper skip the start).
+        if matched < RETRY_BELOW or None in timings:
             retry = align(words, transcribe(model, path, None))
             if retry[1] > matched:
                 timings, matched = retry

@@ -665,3 +665,102 @@ Mortier took a small white card from his coat pocket and laid it on top of the b
 He walked away down the corridor. At the top of the iron staircase, he stopped and looked back.
 "Oh, and Noé? Tell Solange I'm sorry about the card. She'll know what I mean."
 His footsteps rang on the iron stairs, one after another, until they were gone. A moment later, the rain began to hit the tall window again, hard and loud, as if it had been waiting.
+
+# Two Kinds of People
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_1-1793193179334.mp3
+Solange didn't say anything when he told her. She was sitting at the old wooden counter in the lamp room, with the white card in front of her, and she looked at the silver numbers for so long that Noé began to wonder whether she had heard him.
+Then she said, "He apologised about the card?"
+"He said you'd know what he meant."
+She laughed, a short, dry sound with no pleasure in it. "Thirty-seven years. And he sends a message through a schoolboy." She pushed the card away with one finger, as if it were dirty. "Sit down. The others too. If he's come back, you all have a right to know why."
+Inès, Adam and Arthur pulled up stools. Outside, it was getting dark, and the wind was moving the ivy on the high brick wall. Solange lit the camping stove, not to make tea, Noé thought, but just to have something to do with her hands.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_2-1793193188652.mp3
+"In 1987," she began, "I was twenty-six. I worked in the offices of the mining company, in that building that's a médiathèque now, typing letters to men to tell them they had lost their jobs. The pit had closed the year before. My father was one of the men I typed letters to." She turned the flame down. "Gérald was seventeen. He used to come to the library every evening after school, because it was warm and it was free. He was the cleverest person I had ever met. He read everything. He wanted everything. And one evening, on the wrong shelf, he found the book."
+"Like me," said Noé.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_3-1793193201404.mp3
+"Exactly like you. He showed me, because I was the only adult who ever talked to him about books. We learned it together, the two of us, here, in this room. The Watchers were almost gone by then: three old men who could barely light a candle. I wrote the notes in the margins. Gérald was better at the craft than me, much better, but he never had the patience to write anything down." She looked at Noé. "Most of the notes are mine. Not all."
+Noé felt the hair rise on the back of his neck. He took the grimoire out of his bag, unwrapped it from the tea towel and opened it at the last page of the first chapter. The longer note. The neater handwriting, as if this one really mattered.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_4-1793193209817.mp3
+You will want to go too fast. Everyone does. The body pays for everything the mind asks of it, and it never gives credit. And one more thing: what you learn alone, you learn badly. Find the others.
+"He wrote that," Solange said, "the night before he left for Paris. He'd been trying to make himself write it neatly, you see, so that the next person would be able to read it. It was the only thing he ever wrote in that book."
+Nobody spoke. Arthur reached out and touched the page very gently, the way Adam had touched his mended drawing.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_5-1793193221130.mp3
+"The Cénacle came for him that spring," Solange went on. "A woman in a fur coat who stayed at the Hôtel de la Gare for a week and took him to dinner every evening. She offered him everything. Paris, a future, money for his mother. He said yes. Of course he said yes. I'd have said yes at seventeen, in a town where the only job left was typing letters to tell people they had no job." She shook her head. "He wanted to take the book. I told him he couldn't, that it wasn't ours to take, and we had a terrible argument, here, in this room. He took it anyway."
+"But the book came back," said Inès slowly.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_6-1793193230874.mp3
+"The morning after he arrived in Paris, he opened it, and every page was blank. And the next morning, I went to work, and there it was on the wrong shelf on the top floor, between the birds and the Picard dictionary, as if it had never left." Solange's hands were still on the counter. "I scratched his name off the card that day. I was so angry I tore the paper."
+"So why does he want it now?" said Adam. "If it can't be taken."
+Solange looked at the white card.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_7-1793193238455.mp3
+"It can't be taken," she said. "It can't be stolen, or bought, or forced. But I have always believed it can be given. If the person it has been lent to chooses, freely, to hand it over, and means it... then perhaps it belongs to someone at last." She looked at Noé. "That's why he isn't threatening you. That's why he's offering you everything you've ever wanted. He needs you to want it."
+They argued about it all the way home on the bus, and for most of the next day.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_8-1793193248555.mp3
+Inès, to Noé's surprise, didn't think it was a simple question. "I'm not saying give him the book," she said, at the table by the broken radiator. "Obviously not. But a place at a top lycée in Paris, Noé. Do you know how many people from Aubrecourt get that? I looked it up. Since 2010, two. Maybe you can negotiate. Take the school, keep the book."
+"He'll never agree to that," said Adam. "The school is the bait. The book is the hook."
+"You don't know that."
+"I know what it looks like when somebody is being nice to you because they want something." Adam didn't look up from his sketchbook. "I've had six years of Maxence pretending to be friendly before he took my stuff."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_9-1793193260816.mp3
+Arthur said almost nothing during all of this. When Noé finally asked him what he thought, he took a long time to answer.
+"I think it's your choice," he said. "I'm not going to decide for you. I hate it when people do that." He paused. "But if you go, I want you to go because you want to. Not because you think you have to get out of here to be somebody. You're already somebody. Here."
+That night, Noé waited up for his mother.
+She came home at a quarter past six in the morning, as she always did after a night shift, and found him sitting at the kitchen table with two cups of coffee in front of him. She stopped in the doorway with her coat half off.
+"What's happened? What's wrong?"
+"Nothing's wrong. I just wanted to ask you something."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_10-1793193270898.mp3
+He couldn't tell her about the book, or the craft, or the man in the grey coat. So he told her the part he could: that someone had offered him a place at a school in Paris, with everything paid, starting in January. A sort of scholarship. He didn't say who.
+His mother sat down slowly and wrapped her hands around the coffee. She looked very tired, and she was quiet for a long time.
+"And they'd help with... things here," Noé said. "So you wouldn't have to do nights anymore."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_11-1793193283257.mp3
+His mother put down her cup. When she spoke, her voice was very calm, the voice she used with patients who were frightened.
+"Noé. Listen to me. I do nights because I'm good at them, and because at four in the morning, when someone is frightened and alone, I'm the one who's there. I like my job. I'm not waiting to be rescued from it." She reached across the table and took his hand. "If you want to go to Paris, I'll put you on the train myself, and I'll cry all the way home, and I'll be so proud of you I won't be able to breathe. But don't you dare leave for me. And don't you dare stay for me either. Do whatever you would do if I weren't in the picture at all."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_12-1793193293932.mp3
+Noé looked at her hand on his, at her tired eyes, at the grey morning starting outside the kitchen window above the slag heaps. And he understood, slowly, the way you understand the solution to a puzzle you've been staring at for hours, that the question had never really been about Paris.
+Gérald Mortier had been right about one thing: there were two kinds of people in Aubrecourt. But he had been wrong about which two. It wasn't those who left and those who stayed. It was those who found the others, and those who didn't.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_13-1793193301426.mp3
+He called the number on the white card on Monday evening, from the bus shelter on the rue des Corons.
+Mortier answered on the first ring, as if he had been holding the phone. "Noé. I'm glad you called."
+"The answer's no," said Noé. "To all of it. The book stays here. And I'm not coming."
+There was a long silence on the line. When Mortier spoke again, his voice was quite different. It was not angry. It sounded almost sad.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_8.page_14-1793193314963.mp3
+"I was afraid you'd say that. I really was." A pause. "Do you know what's underneath Aubrecourt, Noé? Under the Cité des Acacias, under your school, under the rue des Corons? Two hundred kilometres of tunnels. Old galleries, propped up with wood that's been rotting for forty years. The town is standing on a sponge. It wouldn't take much. A little push, in the right place." Another pause. "I told you the people I work for are less patient than me. They've decided not to wait until Tuesday. I'm sorry. I truly am."
+The line went dead.
+And under Noé's feet, very faintly, so faintly that at first he thought he had imagined it, the pavement began to tremble.

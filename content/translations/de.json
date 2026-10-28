@@ -1981,6 +1981,12 @@
       "example": "In forty years he had hauled steel coil, frozen fish, bagged cement and, on one memorable occasion, a dismantled fairground ride; the Duchess was rated for forty-four tonnes, and today she would be carrying barely six."
     },
     {
+      "word": "bait",
+      "pos": "NOUN",
+      "translation": "der Köder",
+      "example": "\"He'll never agree to that,\" said Adam. \"The school is the bait. The book is the hook.\""
+    },
+    {
       "word": "bake",
       "pos": "VERB",
       "translation": "backen",
@@ -5128,6 +5134,12 @@
       "pos": "PHRASE",
       "translation": "die Schokoladenmünze",
       "example": "You could buy stamps there, but also milk, bread, newspapers, birthday cards and, in December, little bags of chocolate coins."
+    },
+    {
+      "word": "choice",
+      "pos": "NOUN",
+      "translation": "die Wahl, die Entscheidung",
+      "example": "\"I think it's your choice,\" he said."
     },
     {
       "word": "choke",
@@ -11500,6 +11512,12 @@
       "example": "During philosophy, while Madame Ferrand talked about freedom and responsibility, he kept rubbing his thumb against his middle finger under the desk, tracing tiny half-circles in the air."
     },
     {
+      "word": "freely",
+      "pos": "ADV",
+      "translation": "freiwillig, frei",
+      "example": "If the person it has been lent to chooses, freely, to hand it over, and means it..."
+    },
+    {
       "word": "freeze",
       "pos": "VERB",
       "translation": "frieren, erstarren („frozen“: erstarrt)",
@@ -11918,6 +11936,12 @@
       "pos": "NOUN",
       "translation": "der Gärtner",
       "example": "The gardener has been asking for help for years, and nobody has ever been able to spare him any."
+    },
+    {
+      "word": "Gare",
+      "pos": "PROPN",
+      "translation": "Gare (französisch: „Bahnhof“; „Hôtel de la Gare“)",
+      "example": "A woman in a fur coat who stayed at the Hôtel de la Gare for a week and took him to dinner every evening."
     },
     {
       "word": "Garnier",
@@ -13562,6 +13586,12 @@
       "example": "She had a head for it, Bram said — for ledgers and lists and long columns of names."
     },
     {
+      "word": "have a right to",
+      "pos": "PHRASE",
+      "translation": "ein Recht haben auf, das Recht haben zu",
+      "example": "If he's come back, you all have a right to know why."
+    },
+    {
       "word": "have any idea",
       "pos": "PHRASE",
       "translation": "eine Ahnung haben",
@@ -14444,6 +14474,18 @@
       "example": "The sun is hot. — Die Sonne ist heiß."
     },
     {
+      "word": "Hôtel",
+      "pos": "PROPN",
+      "translation": "Hôtel (französisch: „Hotel“; „Hôtel de la Gare“)",
+      "example": "A woman in a fur coat who stayed at the Hôtel de la Gare for a week and took him to dinner every evening."
+    },
+    {
+      "word": "hôtel de la gare",
+      "pos": "PHRASE",
+      "translation": "das Hôtel de la Gare (französisch: „Bahnhofshotel“)",
+      "example": "A woman in a fur coat who stayed at the Hôtel de la Gare for a week and took him to dinner every evening."
+    },
+    {
       "word": "hound",
       "pos": "NOUN",
       "translation": "der Jagdhund",
@@ -15129,6 +15171,12 @@
       "pos": "PHRASE",
       "translation": "mitten in",
       "example": "How did you ask a man why he had been reading your dead mother's letters in the middle of the night?"
+    },
+    {
+      "word": "in the picture",
+      "pos": "PHRASE",
+      "translation": "im Spiel, beteiligt („if I weren't in the picture“: wenn es mich nicht gäbe)",
+      "example": "Do whatever you would do if I weren't in the picture at all."
     },
     {
       "word": "in the shape of",
@@ -19256,6 +19304,12 @@
       "example": "Bram had drawn the cart up beside the cooper's yard to unload, and a pedlar Rowan didn't recognise — a stooped, sharp-eyed woman with a tray of tin pots and needles slung from her neck — had sidled up to him and was talking in a low, urgent voice."
     },
     {
+      "word": "negotiate",
+      "pos": "VERB",
+      "translation": "verhandeln",
+      "example": "Maybe you can negotiate. Take the school, keep the book."
+    },
+    {
       "word": "negotiation",
       "pos": "NOUN",
       "translation": "die Verhandlung",
@@ -19518,6 +19572,12 @@
       "pos": "INTJ",
       "translation": "nein",
       "example": "No, sorry. — Nein, tut mir leid."
+    },
+    {
+      "word": "no",
+      "pos": "NOUN",
+      "translation": "das Nein („the answer's no“: die Antwort ist Nein)",
+      "example": "\"The answer's no,\" said Noé. \"To all of it.\""
     },
     {
       "word": "no bigger than",
@@ -21169,6 +21229,12 @@
       "example": "If you are patient enough to notice, you will always be one step ahead."
     },
     {
+      "word": "patient",
+      "pos": "NOUN",
+      "translation": "der Patient, die Patientin",
+      "example": "When she spoke, her voice was very calm, the voice she used with patients who were frightened."
+    },
+    {
       "word": "patiently",
       "pos": "ADV",
       "translation": "geduldig",
@@ -22561,6 +22627,18 @@
       "example": "Without proof, I cannot punish a knight of the realm."
     },
     {
+      "word": "prop",
+      "pos": "VERB",
+      "translation": "stützen, abstützen („prop up“: abstützen)",
+      "example": "Old galleries, propped up with wood that's been rotting for forty years."
+    },
+    {
+      "word": "prop up",
+      "pos": "PHRASE",
+      "translation": "abstützen",
+      "example": "Old galleries, propped up with wood that's been rotting for forty years."
+    },
+    {
       "word": "proper",
       "pos": "ADJ",
       "translation": "richtig, ordentlich",
@@ -22707,7 +22785,7 @@
     {
       "word": "pull up",
       "pos": "PHRASE",
-      "translation": "hochziehen",
+      "translation": "heranziehen (einen Stuhl); hochziehen",
       "example": "Tamsin pulled her scarf up over her chin."
     },
     {
@@ -22883,6 +22961,12 @@
       "pos": "PHRASE",
       "translation": "ertragen, sich abfinden mit",
       "example": "But the Tanner brothers, who had claimed the alcoves on either side of his, seemed to have decided on the long journey north that anyone who could put up with Tamsin was all right by them; and Tamsin herself made it clear to the whole of Hearthside, within the first hour, that anyone who had a problem with Rowan Ashby could bring it to her."
+    },
+    {
+      "word": "puzzle",
+      "pos": "NOUN",
+      "translation": "das Rätsel; das Puzzle",
+      "example": "He understood, slowly, the way you understand the solution to a puzzle you've been staring at for hours."
     },
     {
       "word": "puzzle",
@@ -23814,6 +23898,12 @@
       "example": "He began his walk-round check by torchlight, as the regulations required and as habit would have compelled him to do regardless: tyres, wheel nuts, lights, mirrors, the fifth-wheel coupling, the airlines and the suzies coiled behind the cab."
     },
     {
+      "word": "rescue",
+      "pos": "VERB",
+      "translation": "retten",
+      "example": "I like my job. I'm not waiting to be rescued from it."
+    },
+    {
       "word": "Rescue",
       "pos": "PROPN",
       "translation": "Rescue (Rettung; in „Fire and Rescue“: Feuerwehr)",
@@ -24412,6 +24502,12 @@
       "pos": "NOUN",
       "translation": "der Rosmarin",
       "example": "Your mother kept a row of pots on the sill — rosemary and thyme, and a little bay tree she'd grown from a cutting."
+    },
+    {
+      "word": "rot",
+      "pos": "VERB",
+      "translation": "verrotten, faulen",
+      "example": "Old galleries, propped up with wood that's been rotting for forty years."
     },
     {
       "word": "rotten",
@@ -25054,6 +25150,12 @@
       "pos": "NOUN",
       "translation": "der Gelehrte",
       "example": "\"He was most entertaining about it at dinner last night — the woodcutter's boy who couldn't make a Standing Stone so much as yawn, and old Vell, scurrying about the meadow with her little book, determined to make a scholar out of a stump.\""
+    },
+    {
+      "word": "scholarship",
+      "pos": "NOUN",
+      "translation": "das Stipendium",
+      "example": "A sort of scholarship. He didn't say who."
     },
     {
       "word": "school",
@@ -27276,6 +27378,12 @@
       "example": "It was taller than the wagons and as thick as a wall: a solid barrier of black, glossy thorn, each spine as long as a finger."
     },
     {
+      "word": "solution",
+      "pos": "NOUN",
+      "translation": "die Lösung",
+      "example": "He understood, slowly, the way you understand the solution to a puzzle you've been staring at for hours."
+    },
+    {
       "word": "some",
       "pos": "DET",
       "translation": "einige, manche",
@@ -28714,6 +28822,12 @@
       "pos": "VERB",
       "translation": "studieren, betrachten",
       "example": "The king, however, studied the strap carefully."
+    },
+    {
+      "word": "stuff",
+      "pos": "NOUN",
+      "translation": "die Sachen, das Zeug",
+      "example": "I've had six years of Maxence pretending to be friendly before he took my stuff."
     },
     {
       "word": "stumble",
@@ -31163,6 +31277,12 @@
       "example": "I turned around."
     },
     {
+      "word": "turn down",
+      "pos": "PHRASE",
+      "translation": "herunterdrehen (die Flamme, die Lautstärke); ablehnen (ein Angebot)",
+      "example": "She turned the flame down."
+    },
+    {
       "word": "turn into",
       "pos": "PHRASE",
       "translation": "sich verwandeln in, werden zu",
@@ -32312,6 +32432,12 @@
       "pos": "PHRASE",
       "translation": "abwarten, aussitzen",
       "example": "He sat across from her with his arms folded and waited, the way he would wait out a storm."
+    },
+    {
+      "word": "wait up",
+      "pos": "PHRASE",
+      "translation": "aufbleiben (und auf jemanden warten)",
+      "example": "That night, Noé waited up for his mother."
     },
     {
       "word": "wake",

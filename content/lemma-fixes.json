@@ -454,6 +454,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "chooses",
+      "pos": "NOUN",
+      "word": "choose",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "CHRISTMAS",
       "pos": "PROPN",
       "word": "Christmas",
@@ -716,6 +722,12 @@
       "pos": "PROPN",
       "word": "des",
       "lemmaPos": "X"
+    },
+    {
+      "text": "dictionary",
+      "pos": "PROPN",
+      "word": "dictionary",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "dim",
@@ -2249,6 +2261,12 @@
     {
       "text": "Ours",
       "pos": "PROPN",
+      "word": "ours",
+      "lemmaPos": "PRON"
+    },
+    {
+      "text": "ours",
+      "pos": "ADJ",
       "word": "ours",
       "lemmaPos": "PRON"
     },
