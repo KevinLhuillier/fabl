@@ -263,10 +263,11 @@ export const pt: Messages = {
   premium: {
     badge: 'Premium',
     title: 'Assine o Premium',
-    subtitle: 'Leia todas as histórias até o fim e guarde todas as palavras que descobrir.',
+    coffee: 'Pelo preço de um café',
+    subtitle: 'Assine pelo preço de um café e desbloqueie todo o conteúdo.',
     benefits: {
       stories: 'Todas as histórias completas',
-      words: 'Palavras ilimitadas em “Minhas palavras”',
+      words: 'Palavras ilimitadas no vocabulário',
       newStories: 'Cada nova história assim que sair',
     },
     periods: {

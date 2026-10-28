@@ -265,10 +265,11 @@ export const de: Messages = {
   premium: {
     badge: 'Premium',
     title: 'Hol dir Premium',
-    subtitle: 'Lies alle Geschichten bis zum Ende und behalte alle Wörter, die du entdeckst.',
+    coffee: 'Für den Preis eines Kaffees',
+    subtitle: 'Abonniere für den Preis eines Kaffees und schalte alle Inhalte frei.',
     benefits: {
       stories: 'Alle Geschichten vollständig',
-      words: 'Unbegrenzt viele Wörter in „Meine Wörter“',
+      words: 'Unbegrenzt viele Wörter im Wortschatz',
       newStories: 'Jede neue Geschichte sofort',
     },
     periods: {

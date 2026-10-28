@@ -271,10 +271,11 @@ export const fr = {
   premium: {
     badge: 'Premium',
     title: 'Passe à Premium',
-    subtitle: 'Lis toutes les histoires jusqu’au bout et garde tous les mots que tu découvres.',
+    coffee: 'Pour le prix d’un café',
+    subtitle: 'Abonne-toi pour le prix d’un café et débloque tout le contenu.',
     benefits: {
       stories: 'Toutes les histoires en entier',
-      words: 'Mots illimités dans « Mes mots »',
+      words: 'Mots illimités dans le vocabulaire',
       newStories: 'Chaque nouvelle histoire dès sa sortie',
     },
     periods: {

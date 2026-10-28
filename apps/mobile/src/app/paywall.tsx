@@ -7,6 +7,7 @@ import type { PurchasesPackage } from 'react-native-purchases';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { BrandGradient } from '@/components/BrandGradient';
+import { CoffeeCup } from '@/components/CoffeeCup';
 import { useI18n, type Messages } from '@/i18n';
 import { usePremium } from '@/lib/premium';
 import {
@@ -41,19 +42,14 @@ const periodOf = (pkg: PurchasesPackage): Period | null =>
   (PERIOD_ORDER as string[]).includes(pkg.packageType) ? (pkg.packageType as Period) : null;
 
 /**
- * Regular monthly price (EUR) once the launch is over; the current monthly price is the launch
- * offer, kept by subscribers for as long as their subscription stays active. Set to null when the
- * launch ends to drop the discount badge and the guarantee.
+ * Launch discount of the monthly plan over its regular price (8.99 €), in %, shown as is in every
+ * currency. Subscribers keep the launch price for as long as their subscription stays active. Set
+ * to null when the launch ends to drop the discount badge and the guarantee.
  */
-const REGULAR_MONTHLY_EUR: number | null = 8.99;
+const LAUNCH_DISCOUNT: number | null = 73;
 
-/** Launch discount of the monthly plan over its regular price, in %. */
-function launchDiscount(pkg: PurchasesPackage): number | null {
-  if (REGULAR_MONTHLY_EUR === null || pkg.packageType !== 'MONTHLY') return null;
-  if (pkg.product.currencyCode !== 'EUR') return null;
-  const discount = Math.round((1 - pkg.product.price / REGULAR_MONTHLY_EUR) * 100);
-  return discount > 0 ? discount : null;
-}
+const launchDiscount = (pkg: PurchasesPackage): number | null =>
+  pkg.packageType === 'MONTHLY' ? LAUNCH_DISCOUNT : null;
 
 /** Days of the free trial of a Google Play subscription, if it has one. */
 function trialDays(pkg: PurchasesPackage): number | null {
@@ -162,19 +158,25 @@ export default function Paywall() {
       <ScrollView contentContainerStyle={styles.content}>
         <Animated.View entering={enter.up()} style={styles.hero}>
           <BrandGradient />
-          <IconBubble
-            icon={welcome ? Check : Crown}
-            diameter={72}
-            color={palette.white}
-            background="rgba(255,255,255,0.18)"
-          />
+          {welcome || premium ? (
+            <IconBubble
+              icon={welcome ? Check : Crown}
+              diameter={72}
+              color={palette.white}
+              background="rgba(255,255,255,0.18)"
+            />
+          ) : (
+            <CoffeeCup />
+          )}
           <Text variant="title" align="center" color={palette.white}>
             {welcome ? p.welcome : premium ? p.activeTitle : p.title}
           </Text>
           {welcome || premium ? null : (
-            <Text align="center" color="rgba(255,255,255,0.88)">
-              {p.subtitle}
-            </Text>
+            <View style={styles.coffee}>
+              <Text variant="bodyBold" align="center" color={palette.white}>
+                {p.coffee}
+              </Text>
+            </View>
           )}
         </Animated.View>
 
@@ -335,7 +337,7 @@ function PlanCard({
               {p.bestValue}
             </Text>
           ) : null}
-          {REGULAR_MONTHLY_EUR !== null && pkg.packageType === 'MONTHLY' ? (
+          {LAUNCH_DISCOUNT !== null && pkg.packageType === 'MONTHLY' ? (
             <Text variant="caption" color={colors.successShade}>
               {p.launchPrice}
             </Text>
@@ -372,6 +374,12 @@ const styles = StyleSheet.create({
     padding: spacing.xl,
     borderRadius: radii.xl,
     overflow: 'hidden',
+  },
+  coffee: {
+    paddingHorizontal: spacing.lg,
+    paddingVertical: spacing.sm,
+    borderRadius: radii.pill,
+    backgroundColor: 'rgba(255,255,255,0.18)',
   },
   benefits: { gap: spacing.md },
   benefit: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
