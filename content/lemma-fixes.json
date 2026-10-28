@@ -1230,6 +1230,24 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "goblin",
+      "pos": "PROPN",
+      "word": "goblin",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Goblin",
+      "pos": "PROPN",
+      "word": "goblin",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Goblins",
+      "pos": "PROPN",
+      "word": "goblin",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "GOLDEN",
       "pos": "PROPN",
       "word": "golden",
@@ -2722,6 +2740,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "rehearse",
+      "pos": "ADJ",
+      "word": "rehearse",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "relit",
       "pos": "VERB",
       "word": "relight",
@@ -3030,6 +3054,12 @@
       "pos": "ADV",
       "word": "clean-shaven",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "She",
+      "pos": "PROPN",
+      "word": "she",
+      "lemmaPos": "PRON"
     },
     {
       "text": "Shh",
@@ -3892,6 +3922,12 @@
       "pos": "PROPN",
       "word": "weather",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Wednesdays",
+      "pos": "PROPN",
+      "word": "Wednesday",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Well",

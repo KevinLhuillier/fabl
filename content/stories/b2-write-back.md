@@ -245,3 +245,118 @@ They ate. At first Ines did most of the talking, which was a relief. She was fro
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_2.page_18-1793199996514.mp3
 Rosalind looked at her for a long moment. Then she said, "Me too." It was only two words. But Ines smiled at her as if she had given a speech. They washed up together, badly, and Ines taught her the words of a French song about a girl who waits for a train that never comes. Rosalind did not sing. But she hummed, very quietly, and Ines pretended not to notice, which was the kindest thing anybody had done for her since she arrived.
 Later, in her room, she opened the green notebook and wrote one line: "I ate the pasta. Ines is lonely too. How did you know?" She waited, but no answer came. She was almost asleep when she looked one last time, and there, in neat green letters, were four words: "Half a brave thing." And underneath, smaller, as if added at the last moment: "Now the sentence."
+
+# Small Steps
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_1-1793200801528.mp3
+The week went by faster than Rosalind wanted it to. Every morning she woke up and thought, "Friday," and every night she went to bed and thought, "Friday," and in between she did all the normal things a student does: she went to lectures, she read in the library, she ate toast standing up in the kitchen. But the word was always there, at the back of her mind, like a stone in her shoe. One full sentence. To another student. Something true.
+On Tuesday night she wrote to R. She did not mean to complain, but the words came out that way, the way water comes out of a tap that has been turned too far.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_2-1793200815870.mp3
+> I can't do it. I've tried to imagine it a hundred times and every time my mouth goes dry and my mind goes white. It's not that I have nothing to say. It's that when everybody looks at me, the words run away and hide.
+> How do other people do it? Callum just opens his mouth and jokes come out.
+
+> Callum practises more than you think. Everybody does. Confident people aren't born with a different brain. They've just had more rehearsals.
+> So rehearse. Read the poem for Friday. Find one thing you really think about it. Write the sentence here, exactly as you'll say it. Then say it out loud ten times a day. In the shower is good: Ines sings so loudly she won't hear a thing.
+> Words that have been practised don't run away so easily. They know the way out.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_3-1793200824602.mp3
+The poem for Friday was "Goblin Market" by Christina Rossetti, a long, strange Victorian poem about two sisters, Laura and Lizzie, and a group of goblin men who sell magical fruit by the river. Rosalind read it three times in the library, then twice more in bed. At first it seemed like a fairy tale. Then it seemed like something darker. Laura eats the goblins' fruit and becomes ill with longing; Lizzie goes to the goblins herself, refuses to eat, and comes home covered in juice so that her sister can be saved.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_4-1793200838609.mp3
+Somewhere around the fourth reading, Rosalind noticed something. Everybody always said the poem was about temptation, about a girl who falls and a girl who rescues her. But it seemed to her that the rescue went both ways. Laura needed Lizzie's courage, yes. But Lizzie only found her courage because she had somebody to be brave for. Without her sister, she would never have gone to the river at all. Rosalind sat up in bed, switched on the lamp, and wrote her sentence in the green notebook.
+
+> My sentence:
+> "I don't think Lizzie only saves Laura. I think they save each other, because Lizzie is only brave when she has someone to be brave for."
+> Is that stupid?
+
+> It's not stupid. It's the best thing anyone will say on Friday.
+> (That's not the future. That's just my opinion.)
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_5-1793200847589.mp3
+So she practised. She said the sentence in the shower, under the noise of the water and Ines's version of a song by Édith Piaf in the next room. She said it walking to lectures, very quietly, so that a man walking his dog turned to look at her. She said it to the mirror, which was terrible, because she could see her own face turning red. By Thursday night she could say it without thinking. It had become like a path she had walked many times, and her feet knew where to go even in the dark.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_6-1793200860844.mp3
+On Wednesday evening, her mum phoned. She always phoned on Wednesdays, at seven o'clock exactly, after the news. Rosalind could hear the kettle in the background and the radio, and the dog barking at something in the garden, and for a moment Kettlewell was so close that she could almost smell the wet stone and the woodsmoke. "So," said her mum, in the careful voice she used when she was trying not to worry. "Have you made some friends, love?" Rosalind looked at the wall of her small room. "A few," she said. "They're nice." Her mum sounded so relieved that Rosalind felt sick. They talked about the dog, about the weather, about Auntie Jean's new knee. When she put the phone down, she sat on the bed for a long time without moving.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_7-1793200873348.mp3
+> I lied to Mum. I told her I have friends. I have one housemate who feeds me pasta and one boy who borrowed a pen. That isn't "a few friends". That's a pasta and a pen.
+> I know. Rule four. I'm telling you the truth now, at least.
+
+> A pasta and a pen is how most friendships start. Nobody begins with ten best friends.
+> You didn't really lie. You told her where you're going, not where you are. Next Wednesday, try to make it a little more true.
+> And Ros: your mum knows. Mums usually do. She's just letting you get there on your own.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_8-1793200882593.mp3
+Thursday night was also the night Ines declared "pasta night". "Every Thursday, from now until the end of the universe," she announced, pointing a wooden spoon at Rosalind like a sword. "You cannot say no. It is a law. A French law." Rosalind did not say no. They ate at the small kitchen table, and Ines told her about a boy in her history class who wore a cape, a real cape, to every lecture. Rosalind laughed so much that she had to put down her fork. It surprised them both.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_9-1793200893680.mp3
+On Friday morning, Room 14 was warm and smelled of wet coats. Rosalind arrived early and sat in a corner, with the poem open on the table and her heart already beating too fast. The others came in slowly, talking about the weekend. Callum arrived last, of course, with his hair wet from the rain and her biro behind his ear. He saw her and lifted the pen in a little salute. She looked down at her book quickly. Dr Pell came in, put her bag on the table, and smiled at them all with her sharp, silver smile.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_10-1793200902742.mp3
+"Today," she said, "you're going to work in pairs for the first half hour. Two people, one question: who saves whom in this poem? Then we'll share." Rosalind felt her whole body go cold, then hot. Pairs. She had prepared for the whole room, and now the rules had changed. Dr Pell began to point. "You two. You two. Callum, with... Rosalind." Callum picked up his chair and carried it round the table, put it down next to her, and sat on it backwards, with his arms folded on the back.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_11-1793200911553.mp3
+"Right," he said. "Goblins. Fruit. Sisters. I'll be honest, I read it on the bus this morning and I think it's mostly about not buying things from strange men by the river, which is good advice in Glasgow too." He waited for her to laugh. She did not. She was too busy breathing. He looked at her more carefully, and something in his face changed, became softer. "Or," he said, "you could tell me what you think. You look like someone who's read it more than once."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_12-1793200921604.mp3
+This was it. Rosalind looked at the poem, at the line where Lizzie comes home covered in juice and tells her sister to kiss her. The path was there in her head, the one she had walked so many times in the shower. She took a breath. "I don't think Lizzie only saves Laura," she said. Her voice shook, but it did not stop. "I think they save each other, because Lizzie is only brave when she has someone to be brave for." Then she closed her mouth and waited for the world to end.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_13-1793200932222.mp3
+The world did not end. Callum looked at her for a second, then down at the poem, then back at her. "Oh," he said slowly. "Oh, that's good. That's really good. So the courage isn't Lizzie's at all, it's... it's between them. It belongs to both." He grabbed her biro from behind his ear and started writing in the margin of his book. "You have to say that to the group." Rosalind shook her head quickly. "No. You say it." He looked at her strangely. "It's your idea." "Please," she said. It was the second sentence of the day, and it came out more easily than the first.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_14-1793200943075.mp3
+When the pairs shared their ideas, Callum spoke for both of them. But he did not steal anything. "Rosalind had this idea," he began, "and I think it changes the whole poem." He explained it well, better than she could have. Then, at the end, he turned to her and said, "Is that right?" Twelve faces turned towards her, just like the first day. Her cheeks burned. But this time the words had a path to follow. "Yes," she said. "They save each other." Dr Pell looked at her for a long moment and wrote something in her notebook. "Interesting," she said. "Very interesting, Rosalind."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_15-1793200952794.mp3
+After the seminar, as everybody was putting on their coats, Callum caught up with her at the door. "A few of us are going for coffee at the place on Elvet Bridge," he said. "You should come. You can tell me what else I've missed in every poem I've ever read." Rosalind's courage, which had been so big a moment ago, suddenly shrank to the size of a pea. "Maybe," she said. "Next time." And she walked away quickly, before he could see her face, feeling at the same time like a hero and a coward.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_16-1793200965825.mp3
+She did not go home. She sat on a bench by the river, under the trees that were starting to turn yellow, and opened the notebook on her knees.
+
+> I said it. To Callum, and then to everybody. Three sentences in total, if you count "Please".
+> Dr Pell said "interesting" twice.
+> Then Callum asked me to come for coffee and I ran away. So I'm a coward again.
+
+> You're not a coward. You climbed a mountain today and you're angry that you didn't climb the next one straight away. Nobody does that. Sit down. Enjoy the view.
+> I'm very proud of you, Ros. You have no idea how proud.
+> Next week's brave thing: the coffee. You said "next time". Make it true.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_3.page_17-1793200974211.mp3
+Rosalind read the words, and something warm moved in her chest. Nobody had said "I'm proud of you" to her since Grandad Alf had read her prize-winning poem in the kitchen at Kettlewell, holding the paper very close to his old eyes. She closed the notebook and stayed on the bench for a long time, watching the rowers on the river pull their long boats through the brown water, all together, in perfect time. It looked very hard. It also looked, she thought, like something you could learn.

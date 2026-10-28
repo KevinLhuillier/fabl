@@ -1711,6 +1711,12 @@
       "example": "He couldn't have said afterwards how he got out of the meadow, only that at some point Tamsin was beside him, gripping his arm, saying things that were meant to be kind — it doesn't matter, it doesn't change anything, Edric's a pig and everyone knows it — and that at some point he had asked her, as gently as he could manage, to leave him alone."
     },
     {
+      "word": "at the back of her mind",
+      "pos": "PHRASE",
+      "translation": "no fundo da mente, num cantinho da cabeça",
+      "example": "But the word was always there, at the back of her mind, like a stone in her shoe."
+    },
+    {
       "word": "at the cost of",
       "pos": "PHRASE",
       "translation": "ao custo de, à custa de",
@@ -1841,6 +1847,12 @@
       "pos": "PROPN",
       "translation": "Augustin (nome; “Father Augustin”: o padre Augustin)",
       "example": "An old man in a black jumper whom everyone called Father Augustin."
+    },
+    {
+      "word": "Auntie",
+      "pos": "PROPN",
+      "translation": "tia (“Auntie Jean”: a tia Jean)",
+      "example": "They talked about the dog, about the weather, about Auntie Jean's new knee."
     },
     {
       "word": "Australia",
@@ -2009,6 +2021,12 @@
       "pos": "PHRASE",
       "translation": "a última fila",
       "example": "She sat in the back row of the big lecture theatre, as usual, as far as possible from everyone."
+    },
+    {
+      "word": "background",
+      "pos": "NOUN",
+      "translation": "o fundo; a origem",
+      "example": "Rosalind could hear the kettle in the background and the radio."
     },
     {
       "word": "backwards",
@@ -2730,6 +2748,12 @@
       "example": "And a few other things besides.\""
     },
     {
+      "word": "best friend",
+      "pos": "PHRASE",
+      "translation": "o melhor amigo, a melhor amiga",
+      "example": "A pasta and a pen is how most friendships start. Nobody begins with ten best friends."
+    },
+    {
       "word": "bet",
       "pos": "NOUN",
       "translation": "a aposta",
@@ -3336,6 +3360,12 @@
       "example": "On the first pass, both lances broke against the shields."
     },
     {
+      "word": "both ways",
+      "pos": "PHRASE",
+      "translation": "nos dois sentidos (“go both ways”: ser recíproco)",
+      "example": "But it seemed to her that the rescue went both ways."
+    },
+    {
       "word": "bother",
       "pos": "VERB",
       "translation": "dar-se ao trabalho de; incomodar",
@@ -3508,6 +3538,12 @@
       "pos": "NOUN",
       "translation": "a trança",
       "example": "The second examiner was a small, wiry woman of indeterminate age, with a long iron-grey braid, a battered leather satchel, and ink stains on three of her fingers."
+    },
+    {
+      "word": "brain",
+      "pos": "NOUN",
+      "translation": "o cérebro",
+      "example": "Confident people aren't born with a different brain."
     },
     {
       "word": "brake",
@@ -4428,6 +4464,12 @@
       "example": "ACE POINT put him in the shoes of a tall, calm player with long arms and a white cap."
     },
     {
+      "word": "cape",
+      "pos": "NOUN",
+      "translation": "a capa",
+      "example": "Ines told her about a boy in her history class who wore a cape, a real cape, to every lecture."
+    },
+    {
       "word": "capital",
       "pos": "NOUN",
       "translation": "a letra maiúscula; a capital",
@@ -5302,6 +5344,12 @@
       "pos": "NOUN",
       "translation": "o batizado",
       "example": "Their names, he learned over the next ten minutes, were Alasdair and Isla Beaton, and they had been driving home to Newtonmore from a granddaughter's christening in Stirling when the snow had overtaken them."
+    },
+    {
+      "word": "Christina",
+      "pos": "PROPN",
+      "translation": "Christina (nome; “Christina Rossetti”: poetisa inglesa, 1830-1894)",
+      "example": "The poem for Friday was \"Goblin Market\" by Christina Rossetti."
     },
     {
       "word": "Christmas",
@@ -6810,6 +6858,12 @@
       "example": "He began his walk-round check by torchlight, as the regulations required and as habit would have compelled him to do regardless: tyres, wheel nuts, lights, mirrors, the fifth-wheel coupling, the airlines and the suzies coiled behind the cab."
     },
     {
+      "word": "courage",
+      "pos": "NOUN",
+      "translation": "a coragem",
+      "example": "Laura needed Lizzie's courage, yes."
+    },
+    {
       "word": "course",
       "pos": "ADV",
       "translation": "claro",
@@ -6874,6 +6928,12 @@
       "pos": "NOUN",
       "translation": "a vaca",
       "example": "His father, a poor farmer, had sold two cows to pay for the journey."
+    },
+    {
+      "word": "coward",
+      "pos": "NOUN",
+      "translation": "o covarde, a covarde",
+      "example": "Feeling at the same time like a hero and a coward."
     },
     {
       "word": "cowardice",
@@ -9144,6 +9204,12 @@
       "example": "He took his second break at a truck stop outside Edinburgh, ate nothing, and pressed on across the Queensferry Crossing, whose great white cables flashed past him like the strings of some colossal instrument."
     },
     {
+      "word": "Édith",
+      "pos": "PROPN",
+      "translation": "Édith (nome; “Édith Piaf”: cantora francesa)",
+      "example": "Ines's version of a song by Édith Piaf in the next room."
+    },
+    {
       "word": "Edric",
       "pos": "PROPN",
       "translation": "Edric (nome)",
@@ -9370,6 +9436,12 @@
       "pos": "ADV",
       "translation": "em outros lugares, noutro lugar",
       "example": "In some families, in Lyon and Bordeaux and elsewhere, the craft is kept like a fortune."
+    },
+    {
+      "word": "Elvet",
+      "pos": "PROPN",
+      "translation": "Elvet (nome de uma ponte de Durham: “Elvet Bridge”)",
+      "example": "A few of us are going for coffee at the place on Elvet Bridge."
     },
     {
       "word": "email",
@@ -10166,6 +10238,18 @@
       "pos": "NOUN",
       "translation": "o parque de diversões (“fairground ride”: brinquedo de parque)",
       "example": "In forty years he had hauled steel coil, frozen fish, bagged cement and, on one memorable occasion, a dismantled fairground ride; the Duchess was rated for forty-four tonnes, and today she would be carrying barely six."
+    },
+    {
+      "word": "fairy",
+      "pos": "NOUN",
+      "translation": "a fada (“fairy tale”: conto de fadas)",
+      "example": "At first it seemed like a fairy tale."
+    },
+    {
+      "word": "fairy tale",
+      "pos": "PHRASE",
+      "translation": "o conto de fadas",
+      "example": "At first it seemed like a fairy tale."
     },
     {
       "word": "faith",
@@ -11878,6 +11962,12 @@
       "example": "\"By the end of the month it will have reached Ashwater, and Mossbridge, and places a good deal less friendly than either.\""
     },
     {
+      "word": "friendship",
+      "pos": "NOUN",
+      "translation": "a amizade",
+      "example": "A pasta and a pen is how most friendships start."
+    },
+    {
       "word": "frighten",
       "pos": "VERB",
       "translation": "assustar, dar medo",
@@ -12825,6 +12915,12 @@
       "example": "Mia goes to the park. — Mia vai ao parque."
     },
     {
+      "word": "go by",
+      "pos": "PHRASE",
+      "translation": "passar (o tempo)",
+      "example": "The week went by faster than Rosalind wanted it to."
+    },
+    {
       "word": "go down",
       "pos": "PHRASE",
       "translation": "descer; (sol) se pôr",
@@ -12907,6 +13003,18 @@
       "pos": "NOUN",
       "translation": "o gol",
       "example": "He was so delighted that he punched the air like a footballer after a goal."
+    },
+    {
+      "word": "goblin",
+      "pos": "NOUN",
+      "translation": "o duende, o goblin",
+      "example": "Two sisters, Laura and Lizzie, and a group of goblin men who sell magical fruit by the river."
+    },
+    {
+      "word": "goblin market",
+      "pos": "PHRASE",
+      "translation": "“O Mercado dos Duendes” (poema de Christina Rossetti, 1862)",
+      "example": "The poem for Friday was \"Goblin Market\" by Christina Rossetti."
     },
     {
       "word": "God",
@@ -13572,6 +13680,12 @@
       "pos": "PHRASE",
       "translation": "meia hora",
       "example": "Max was too old to be grounded, but he received a lecture that lasted almost half an hour."
+    },
+    {
+      "word": "half hour",
+      "pos": "PHRASE",
+      "translation": "a meia hora",
+      "example": "You're going to work in pairs for the first half hour."
     },
     {
       "word": "half past",
@@ -14900,6 +15014,12 @@
       "example": "That was the first rule of the Ashby household, and very nearly the only one Bram had ever bothered to say out loud."
     },
     {
+      "word": "housemate",
+      "pos": "NOUN",
+      "translation": "o colega de casa, a colega de casa",
+      "example": "I have one housemate who feeds me pasta and one boy who borrowed a pen."
+    },
+    {
       "word": "housing",
       "pos": "NOUN",
       "translation": "a habitação («housing association»: a entidade de habitação social)",
@@ -15474,6 +15594,12 @@
       "example": "It came out haltingly, in no particular order, and when he had finished he sat staring at the wheel, mortified, waiting for the inevitable kindly platitude."
     },
     {
+      "word": "in pairs",
+      "pos": "PHRASE",
+      "translation": "em duplas",
+      "example": "You're going to work in pairs for the first half hour."
+    },
+    {
       "word": "in particular",
       "pos": "PHRASE",
       "translation": "em particular",
@@ -15519,6 +15645,12 @@
       "pos": "PHRASE",
       "translation": "em sets diretos (sem que o perdedor vença um set)",
       "example": "He lost the match in straight sets, six-one, six-two, six-love."
+    },
+    {
+      "word": "in the background",
+      "pos": "PHRASE",
+      "translation": "ao fundo",
+      "example": "Rosalind could hear the kettle in the background and the radio."
     },
     {
       "word": "in the distance",
@@ -15615,6 +15747,12 @@
       "pos": "PHRASE",
       "translation": "a tempo",
       "example": "He could still see the punches coming, but his body no longer reacted in time."
+    },
+    {
+      "word": "in total",
+      "pos": "PHRASE",
+      "translation": "no total",
+      "example": "Three sentences in total, if you count \"Please\"."
     },
     {
       "word": "in turn",
@@ -16324,6 +16462,12 @@
       "example": "By the end of the second, they had moved on from feathers and pebbles to things that were larger, and harder, and more interesting: lifting a jug of water and pouring it into a cup without spilling a drop; holding a candle flame steady while Mistress Crane opened the window; persuading a brick to stand on its end."
     },
     {
+      "word": "juice",
+      "pos": "NOUN",
+      "translation": "o suco, o sumo",
+      "example": "Lizzie comes home covered in juice so that her sister can be saved."
+    },
+    {
       "word": "July",
       "pos": "PROPN",
       "translation": "julho",
@@ -16616,6 +16760,12 @@
       "pos": "PROPN",
       "translation": "Kirkgate (em «Kirkgate Market», grande mercado coberto de Leeds)",
       "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
+    },
+    {
+      "word": "kiss",
+      "pos": "VERB",
+      "translation": "beijar",
+      "example": "At the line where Lizzie comes home covered in juice and tells her sister to kiss her."
     },
     {
       "word": "kitchen",
@@ -17770,6 +17920,12 @@
       "example": "It answers the living."
     },
     {
+      "word": "Lizzie",
+      "pos": "PROPN",
+      "translation": "Lizzie (nome, diminutivo de Elizabeth)",
+      "example": "Two sisters, Laura and Lizzie, and a group of goblin men who sell magical fruit by the river."
+    },
+    {
       "word": "load",
       "pos": "NOUN",
       "translation": "a carga",
@@ -17876,6 +18032,12 @@
       "pos": "PHRASE",
       "translation": "há muito tempo",
       "example": "Gideon had long since come to regard it as a kind of conscience."
+    },
+    {
+      "word": "longing",
+      "pos": "NOUN",
+      "translation": "o anseio, o desejo",
+      "example": "Laura eats the goblins' fruit and becomes ill with longing."
     },
     {
       "word": "look",
@@ -18247,6 +18409,12 @@
       "pos": "NOUN",
       "translation": "a magia",
       "example": "Magic is not a gift."
+    },
+    {
+      "word": "magical",
+      "pos": "ADJ",
+      "translation": "mágico",
+      "example": "A group of goblin men who sell magical fruit by the river."
     },
     {
       "word": "magnet",
@@ -22183,6 +22351,12 @@
       "example": "A physiotherapist at the hospital told him it was a muscle tear, not serious, but that he could not run for at least three weeks."
     },
     {
+      "word": "Piaf",
+      "pos": "PROPN",
+      "translation": "Piaf (“Édith Piaf”: cantora francesa, 1915-1963)",
+      "example": "Ines's version of a song by Édith Piaf in the next room."
+    },
+    {
       "word": "Picard",
       "pos": "PROPN",
       "translation": "picardo (língua regional do norte da França)",
@@ -22613,6 +22787,12 @@
       "pos": "NOUN",
       "translation": "o bolso",
       "example": "She took a stub of charcoal from her pocket — the kind the archivists used for marking shelves — and a scrap of thin paper from the desk, laid the paper over the blot, and began very gently to rub the charcoal across it."
+    },
+    {
+      "word": "poem",
+      "pos": "NOUN",
+      "translation": "o poema",
+      "example": "Read the poem for Friday."
     },
     {
       "word": "poetry",
@@ -24378,6 +24558,12 @@
       "example": "The village elder cleared his throat, made a speech nobody listened to, and stepped aside with visible relief."
     },
     {
+      "word": "relieved",
+      "pos": "ADJ",
+      "translation": "aliviado",
+      "example": "Her mum sounded so relieved that Rosalind felt sick."
+    },
+    {
       "word": "relight",
       "pos": "VERB",
       "translation": "reacender(-se)",
@@ -24568,6 +24754,12 @@
       "pos": "VERB",
       "translation": "exigir",
       "example": "He began his walk-round check by torchlight, as the regulations required and as habit would have compelled him to do regardless: tyres, wheel nuts, lights, mirrors, the fifth-wheel coupling, the airlines and the suzies coiled behind the cab."
+    },
+    {
+      "word": "rescue",
+      "pos": "NOUN",
+      "translation": "o resgate",
+      "example": "But it seemed to her that the rescue went both ways."
     },
     {
       "word": "rescue",
@@ -24895,6 +25087,12 @@
     },
     {
       "word": "right",
+      "pos": "INTJ",
+      "translation": "certo, bom, então",
+      "example": "\"Right,\" he said. \"Goblins. Fruit. Sisters.\""
+    },
+    {
+      "word": "right",
       "pos": "NOUN",
       "translation": "o direito",
       "example": "Everyone told him it was impossible, that a squire had no right to address His Majesty directly."
@@ -25194,6 +25392,12 @@
       "example": "Your mother kept a row of pots on the sill — rosemary and thyme, and a little bay tree she'd grown from a cutting."
     },
     {
+      "word": "Rossetti",
+      "pos": "PROPN",
+      "translation": "Rossetti (“Christina Rossetti”: poetisa inglesa, 1830-1894)",
+      "example": "The poem for Friday was \"Goblin Market\" by Christina Rossetti."
+    },
+    {
       "word": "rot",
       "pos": "VERB",
       "translation": "apodrecer",
@@ -25300,6 +25504,12 @@
       "pos": "PROPN",
       "translation": "Rowan (nome)",
       "example": "Rowan Ashby felt it before he heard it: a faint shudder through the soles of his boots, the kind of tremor that runs ahead of a fall the way a rumour runs ahead of a storm."
+    },
+    {
+      "word": "rower",
+      "pos": "NOUN",
+      "translation": "o remador, a remadora",
+      "example": "Watching the rowers on the river pull their long boats through the brown water, all together, in perfect time."
     },
     {
       "word": "royal",
@@ -30251,6 +30461,12 @@
       "example": "\"Take your time, love,\" she said. \"Nothing in here is in a hurry.\""
     },
     {
+      "word": "tale",
+      "pos": "NOUN",
+      "translation": "o conto, a história",
+      "example": "At first it seemed like a fairy tale."
+    },
+    {
       "word": "talent",
       "pos": "NOUN",
       "translation": "o talento, o dom",
@@ -30507,6 +30723,12 @@
       "pos": "NOUN",
       "translation": "a têmpora; o templo",
       "example": "She tapped her temple."
+    },
+    {
+      "word": "temptation",
+      "pos": "NOUN",
+      "translation": "a tentação",
+      "example": "Everybody always said the poem was about temptation, about a girl who falls and a girl who rescues her."
     },
     {
       "word": "ten",
@@ -31563,6 +31785,12 @@
       "pos": "ADJ",
       "translation": "total",
       "example": "Not just the right movement and the right sound, but total focus, the kind he only ever reached at two in the morning in the final round of a tournament, when the rest of the world simply disappeared."
+    },
+    {
+      "word": "total",
+      "pos": "NOUN",
+      "translation": "o total (“in total”: no total)",
+      "example": "Three sentences in total, if you count \"Please\"."
     },
     {
       "word": "touch",
