@@ -1322,6 +1322,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "hardback",
+      "pos": "VERB",
+      "word": "hardback",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "hated",
       "pos": "VERB",
       "word": "hate",
@@ -2434,6 +2440,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "pink",
+      "pos": "VERB",
+      "word": "pink",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Pit",
       "pos": "PROPN",
       "word": "pit",
@@ -3152,6 +3164,12 @@
       "text": "staring",
       "pos": "VERB",
       "word": "stare",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "staying",
+      "pos": "NOUN",
+      "word": "stay",
       "lemmaPos": "VERB"
     },
     {

@@ -863,3 +863,84 @@ The three of them stood in a line on top of the slag heap. Noé didn't push. Non
 The old woman pushed against all of them for almost a minute. Then her knees gave way, quite slowly, and she sat down on the slag with a look of complete astonishment, as if she had never imagined that such a thing could happen to her.
 The ground was still.
 Far below, in the Cité des Acacias, the car alarms stopped one by one. In the sudden silence, Noé could hear the wind, and somebody laughing at the foot of the slag heap, and, very faintly, Arthur still singing, as if he had forgotten how to stop.
+
+# Return Date
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_10.page_1-1793195679271.mp3
+The local paper called it a "minor earth tremor". The experts from the regional mining authority, who arrived two days later in white vans and orange jackets, called it "a localised subsidence event linked to historic underground workings", which meant the same thing but took longer to say. They measured the cracks in the rue des Corons and photographed the broken window in the Cité des Acacias, and they lowered cameras on cables into the old ventilation shaft under the slag heap.
+What puzzled them, according to Madame Benali, whose cousin drove one of the white vans, was that the cracks seemed to be closing up by themselves. Each morning they were a little narrower than the day before. One engineer had found faint chalk marks on the pavement beside several of them, strange drawings of hands, and had photographed them for his report. His colleagues had told him it was probably children.
+"It was children," said Adam, when he heard this, and looked extremely pleased with himself.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_10.page_2-1793195696304.mp3
+The Cénacle left Aubrecourt before dawn on the night of the tremor. Noé watched them go from the top of the slag heap: the young man in the suit half carrying the old woman down the three hundred steps, slowly, one at a time, her white hair loose in the wind. At the bottom, a long black car was waiting with its engine running. Neither of them looked back.
+Gérald Mortier did not go with them.
+He stayed on the summit with Solange while the sky turned from black to grey to a pale, washed-out pink above the fields. Noé left them there. He didn't hear what they said to each other, and he didn't try to; he had learned, by then, that some things were not for reading. But when he looked back from the bottom of the steps, he saw that they were sitting side by side on the black slag, not touching, looking out at the town together, and that Solange had taken off her red hat and was holding it in her lap.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_10.page_3-1793195709038.mp3
+A week later, on Saturday evening, there was a new lamp in the lamp room.
+It was a cheap plastic bicycle light, the kind that clipped onto handlebars, its red casing faded almost to pink. It hung on hook number 1987, which had been empty for thirty-seven years. Under it, there was no brass plate yet.
+"He kept it," said Solange, when Noé asked. "All this time. In a drawer in his flat in Paris." She was making tea on the camping stove and didn't turn round. "I haven't decided about the plate. I told him to ask me again in a year." A pause. "He said he'd ask every week. He probably will. He was always stubborn."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_10.page_4-1793195722301.mp3
+Mortier himself had rented a small flat above the closed bakery on the rue des Corons. He said he had resigned from the Cénacle, although Solange said that nobody resigned from the Cénacle, and that he had better keep his doors locked and his windows drawn on. Adam had already drawn on them, in fact, very carefully, the night Mortier moved in. Mortier had looked at the chalk gestures on his front door for a long time, and then gone inside without saying anything, and the next morning Adam had found a box of artists' pencils on his doorstep, the expensive Japanese kind he had been saving up for since he was fourteen.
+At school, the weeks before Christmas passed in a way that would have seemed impossible in September.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_10.page_5-1793195734808.mp3
+Noé gave his history presentation on the miners' strikes a fortnight late, with Madame Ferrand's permission. He had meant to talk about wages and working hours and the government's response. Instead, almost without deciding to, he found himself talking about the lamp rooms: about how every miner collected his lamp in the morning and brought it back at night, and how a missing lamp meant that the others went down to look for him. "That's what the strikes were really about," he said, and his voice only shook a little. "Not just money. Making sure nobody was left at the bottom." When he finished, the class was very quiet, and then Lucas, at the back, started clapping with his left hand against his desk, and the others joined in.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_10.page_6-1793195746436.mp3
+Lucas's cast came off in December. He didn't become one of them, exactly, but he sat at their table by the broken radiator some days, and once, to everyone's amazement, he asked Arthur whether he could come to the role-playing session on Saturday. Arthur said yes before anyone else could answer for him.
+Arthur himself had joined the town choir, which met in the church that was far too big for the people who still went to it. The choir had eleven members, and Arthur was the only one under seventy, and they adored him. Father Augustin went to every rehearsal and sat in the front row with his eyes closed.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_10.page_7-1793195756706.mp3
+Maxence never spoke to any of them again. But on the last day of term, when Adam came back to the canteen after queuing for his tray, there was a new sketchbook on his chair: a good one, hardback, with thick cream paper. There was no note with it. Adam looked across the canteen at the table where Maxence was sitting alone with Romain, staring very hard at his phone, and then he looked at the sketchbook for a long time.
+"Are you going to use it?" asked Inès.
+"Eventually," said Adam. "Not yet." He put it carefully in his bag. "Both things are true."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_10.page_8-1793195770451.mp3
+On the last Saturday before Christmas, Noé took the grimoire back to the médiathèque.
+He had thought about it for a long time, lying awake in his room with the book on the desk under the lamp. The others had been surprised when he told them; Inès had made a spreadsheet of arguments for and against, and the column for "keep it" had been much longer. But in the end, the reason was simple, and it was written on the very first page. This book belongs to no one. It is lent to those who know how to read. He had borrowed it, and he had read it, and he had found what the boy in 1987 had told him to find. Somewhere, perhaps in Aubrecourt, perhaps not, there was someone else who needed it now, on a wet afternoon, on the wrong shelf. It wasn't his to keep.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_10.page_9-1793195783273.mp3
+And besides, Solange had said it on the very first morning, at the bus shelter, and the book had said it before her. Magic is not a gift. It is a craft. Whoever learns it, possesses it. He had learned it. He didn't need to carry the book on his back in a tea towel to keep what he knew. And he had the others.
+The librarian at the front desk was the same tired woman who had let him take it in October. She turned the book over twice, as she had then, looking for a label.
+"Oh, it's that one," she said. "Still not in the system. I'll put it on the trolley and somebody will..."
+"Could you stamp the card?" Noé asked. "Just the return date. Please."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_10.page_10-1793195794652.mp3
+She looked at him strangely, but she found the old stamp at the back of a drawer, and an ink pad that was almost dry, and she pressed the date onto the yellowed card in faint purple letters, under the only other date on it, 14 March 1987, and the name that had been scratched out so hard it had torn the paper.
+Then Noé took a pencil from his pocket and wrote his own name beside the new date. Noé Garnier. He wrote it neatly, so that the next person would be able to read it. He didn't scratch it out.
+"Funny old thing," said the librarian, sliding the book back across the desk towards him. "Do you want to put it back yourself? You seem to know where it goes."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_10.page_11-1793195808671.mp3
+He climbed the iron staircase to the top floor, his footsteps ringing, and walked to the end of the corridor that nobody seemed to use. Between the guide to regional birds and the dictionary of the Picard dialect, there was a gap exactly the width of a book. He was about to slide it in when, out of habit, he opened it one last time at the first page.
+The eye was there, and the two lines in faded brown ink. But under them, where Solange's pencil message had once appeared, there was something he had never seen before. It was not in pencil, and it was not in any handwriting he knew. It was in the same elegant brown ink as the book itself, as if the book had written it.
+Well read. There are other books, and other readers. Not all of them have found the others yet.
+Noé stood very still in the empty corridor for a long time. Then he smiled, closed the book, and slid it gently back onto the wrong shelf, where it belonged.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-the-borrowed-grimoire/chapter_10.page_12-1793195820476.mp3
+Outside, it had stopped raining. Inès, Adam and Arthur were waiting for him at the bottom of the steps, under the old words carved in stone above the door, COMPAGNIE DES MINES D'AUBRECOURT, stamping their feet in the cold. Arthur was holding four tickets for the last bus to Pit Number Nine.
+"Well?" said Inès.
+"It's back," said Noé. He took his ticket. "There's something we need to talk about. Something it said." He looked at the three of them, and then up at the black shapes of the slag heaps against the evening sky, and for the first time in his life, the thought of leaving Aubrecourt one day and the thought of staying did not feel like two different things. "But let's light the lamps first."

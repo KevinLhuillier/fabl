@@ -258,6 +258,12 @@
       "example": "My master did not fall by accident, Your Majesty."
     },
     {
+      "word": "accord",
+      "pos": "VERB",
+      "translation": "concordare, accordare («according to»: secondo)",
+      "example": "What puzzled them, according to Madame Benali, was that the cracks seemed to be closing up by themselves."
+    },
+    {
       "word": "according",
       "pos": "ADP",
       "translation": "secondo",
@@ -448,6 +454,12 @@
       "pos": "VERB",
       "translation": "ammettere ; far entrare",
       "example": "How did you admit you had been watching?"
+    },
+    {
+      "word": "adore",
+      "pos": "VERB",
+      "translation": "adorare",
+      "example": "The choir had eleven members, and Arthur was the only one under seventy, and they adored him."
     },
     {
       "word": "adrenaline",
@@ -884,6 +896,12 @@
       "pos": "ADJ",
       "translation": "dilettante",
       "example": "Jamal Reid was twenty-two, the Yorkshire amateur champion at his weight, and he moved like water."
+    },
+    {
+      "word": "amazement",
+      "pos": "NOUN",
+      "translation": "lo stupore («to everyone's amazement»: con stupore di tutti)",
+      "example": "Once, to everyone's amazement, he asked Arthur whether he could come to the role-playing session on Saturday."
     },
     {
       "word": "amazing",
@@ -1372,6 +1390,12 @@
       "example": "It had seemed fitting, in a way he would have been embarrassed to articulate, that the last road he drove for money should be the one he had driven most often for love."
     },
     {
+      "word": "artist",
+      "pos": "NOUN",
+      "translation": "l'artista («artists' pencils»: matite da artista)",
+      "example": "The next morning Adam had found a box of artists' pencils on his doorstep."
+    },
+    {
       "word": "as",
       "pos": "ADP",
       "translation": "come, in qualità di",
@@ -1787,6 +1811,12 @@
       "pos": "PROPN",
       "translation": "l'Australia",
       "example": "It's from my nephew in Australia."
+    },
+    {
+      "word": "authority",
+      "pos": "NOUN",
+      "translation": "l'autorità, l'ente",
+      "example": "The experts from the regional mining authority arrived two days later in white vans and orange jackets."
     },
     {
       "word": "autumn",
@@ -4560,6 +4590,12 @@
       "example": "He paused. \"Cash.\""
     },
     {
+      "word": "casing",
+      "pos": "NOUN",
+      "translation": "l'involucro, la scocca",
+      "example": "It was a cheap plastic bicycle light, the kind that clipped onto handlebars, its red casing faded almost to pink."
+    },
+    {
       "word": "cask",
       "pos": "NOUN",
       "translation": "la botte, il barile",
@@ -5146,6 +5182,12 @@
       "pos": "NOUN",
       "translation": "la scelta",
       "example": "\"I think it's your choice,\" he said."
+    },
+    {
+      "word": "choir",
+      "pos": "NOUN",
+      "translation": "il coro",
+      "example": "Arthur himself had joined the town choir, which met in the church that was far too big for the people who still went to it."
     },
     {
       "word": "choke",
@@ -8418,6 +8460,12 @@
       "example": "Then, with a dry, whispering rustle, like a great many pages turning at once, the thorns drew back."
     },
     {
+      "word": "draw on",
+      "pos": "PHRASE",
+      "translation": "disegnare su; attingere a",
+      "example": "He had better keep his doors locked and his windows drawn on. Adam had already drawn on them."
+    },
+    {
       "word": "draw out",
       "pos": "PHRASE",
       "translation": "tirare fuori",
@@ -8836,6 +8884,12 @@
       "pos": "PROPN",
       "translation": "la Terra (elemento)",
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
+    },
+    {
+      "word": "earth tremor",
+      "pos": "PHRASE",
+      "translation": "la scossa di terremoto",
+      "example": "The local paper called it a \"minor earth tremor\"."
     },
     {
       "word": "earthen",
@@ -9742,10 +9796,22 @@
       "example": "The noise died away to a murmur, and then to an expectant, unpleasant hush."
     },
     {
+      "word": "expensive",
+      "pos": "ADJ",
+      "translation": "costoso, caro",
+      "example": "A box of artists' pencils on his doorstep, the expensive Japanese kind he had been saving up for since he was fourteen."
+    },
+    {
       "word": "experiment",
       "pos": "NOUN",
       "translation": "l'esperimento",
       "example": "That evening, he started the experiments properly."
+    },
+    {
+      "word": "expert",
+      "pos": "NOUN",
+      "translation": "l'esperto",
+      "example": "The experts from the regional mining authority arrived two days later in white vans and orange jackets."
     },
     {
       "word": "explain",
@@ -11116,6 +11182,12 @@
       "example": "The tiny plastic lantern in Arthur's hand lit up so brightly that for an instant every shadow in the lamp room disappeared."
     },
     {
+      "word": "for and against",
+      "pos": "PHRASE",
+      "translation": "pro e contro",
+      "example": "Inès had made a spreadsheet of arguments for and against."
+    },
+    {
       "word": "for certain",
       "pos": "PHRASE",
       "translation": "con certezza",
@@ -11684,6 +11756,12 @@
       "pos": "PHRASE",
       "translation": "il salotto (sul davanti)",
       "example": "That night, all of them came to the house on Ashley Road: Priya with a cake she had baked herself, which was slightly burnt on one side; Frank and Gaz, looking enormous and uncomfortable in the small front room; even Jamal, who brought a pair of new running shoes that he said he had won in a competition and did not need, although they were exactly Max's size."
+    },
+    {
+      "word": "front row",
+      "pos": "PHRASE",
+      "translation": "la prima fila",
+      "example": "Father Augustin went to every rehearsal and sat in the front row with his eyes closed."
     },
     {
       "word": "Frontera",
@@ -12699,6 +12777,12 @@
       "example": "The houses were built of timber and grey stone, three and four storeys high, their upper floors leaning out over narrow streets as though gossiping with their neighbours across the way."
     },
     {
+      "word": "government",
+      "pos": "NOUN",
+      "translation": "il governo",
+      "example": "He had meant to talk about wages and working hours and the government's response."
+    },
+    {
       "word": "gown",
       "pos": "NOUN",
       "translation": "l'abito lungo, la veste",
@@ -13406,6 +13490,12 @@
       "example": "He unwrapped it the way a man handles something that might break."
     },
     {
+      "word": "handlebar",
+      "pos": "NOUN",
+      "translation": "il manubrio",
+      "example": "It was a cheap plastic bicycle light, the kind that clipped onto handlebars."
+    },
+    {
       "word": "handling",
       "pos": "NOUN",
       "translation": "la manipolazione («grey with handling»: grigio a forza di essere maneggiato)",
@@ -13512,6 +13602,12 @@
       "pos": "PHRASE",
       "translation": "subito dopo, alle calcagna",
       "example": "And then, hard on its heels, a look of such shame that Bram had to drop his gaze to the grass."
+    },
+    {
+      "word": "hardback",
+      "pos": "ADJ",
+      "translation": "rilegato, con copertina rigida",
+      "example": "There was a new sketchbook on his chair: a good one, hardback, with thick cream paper."
     },
     {
       "word": "hardly",
@@ -14166,6 +14262,12 @@
       "pos": "VERB",
       "translation": "sibilare, sfrigolare",
       "example": "The lamp hissed softly."
+    },
+    {
+      "word": "historic",
+      "pos": "ADJ",
+      "translation": "storico, antico",
+      "example": "A localised subsidence event linked to historic underground workings."
     },
     {
       "word": "history",
@@ -15437,6 +15539,12 @@
       "example": "The second examiner was a small, wiry woman of indeterminate age, with a long iron-grey braid, a battered leather satchel, and ink stains on three of her fingers."
     },
     {
+      "word": "ink pad",
+      "pos": "PHRASE",
+      "translation": "il tampone per timbri",
+      "example": "She found the old stamp at the back of a drawer, and an ink pad that was almost dry."
+    },
+    {
       "word": "inn",
       "pos": "NOUN",
       "translation": "la locanda",
@@ -15788,6 +15896,12 @@
       "pos": "PROPN",
       "translation": "gennaio",
       "example": "At ten to four on a Monday morning in late January, the port of Immingham resembled nothing so much as a city abandoned mid-sentence."
+    },
+    {
+      "word": "japanese",
+      "pos": "ADJ",
+      "translation": "giapponese",
+      "example": "The expensive Japanese kind he had been saving up for since he was fourteen."
     },
     {
       "word": "jaw",
@@ -17254,6 +17368,12 @@
       "example": "The old man smeared it with something cool and green that smelled of crushed leaves, and wound a strip of clean linen around it with fingers that trembled, but did not fumble."
     },
     {
+      "word": "link",
+      "pos": "VERB",
+      "translation": "collegare («linked to»: legato a)",
+      "example": "A localised subsidence event linked to historic underground workings."
+    },
+    {
       "word": "lintel",
       "pos": "NOUN",
       "translation": "l'architrave (sopra una porta)",
@@ -17384,6 +17504,12 @@
       "pos": "PHRASE",
       "translation": "il giornale locale",
       "example": "The deputy mayor would arrive at 10.15, with the headmistress, two journalists from the local paper and a photographer."
+    },
+    {
+      "word": "localise",
+      "pos": "VERB",
+      "translation": "localizzare («localised»: localizzato)",
+      "example": "A localised subsidence event linked to historic underground workings."
     },
     {
       "word": "lock",
@@ -18638,6 +18764,12 @@
       "example": "They work for anyone who can pay: companies, ministries, people who want to win elections or contracts."
     },
     {
+      "word": "minor",
+      "pos": "ADJ",
+      "translation": "minore, lieve",
+      "example": "The local paper called it a \"minor earth tremor\"."
+    },
+    {
       "word": "minus",
       "pos": "ADP",
       "translation": "meno",
@@ -18690,6 +18822,12 @@
       "pos": "PROPN",
       "translation": "Signorina",
       "example": "Hearthside is for Earth, Miss Reed."
+    },
+    {
+      "word": "missing",
+      "pos": "ADJ",
+      "translation": "mancante, scomparso",
+      "example": "A missing lamp meant that the others went down to look for him."
     },
     {
       "word": "mist",
@@ -21475,6 +21613,12 @@
       "example": "She was a head shorter than him, freckled, and permanently windswept, as though she had just come in from a gale even on the stillest of days."
     },
     {
+      "word": "permission",
+      "pos": "NOUN",
+      "translation": "il permesso",
+      "example": "Noé gave his history presentation on the miners' strikes a fortnight late, with Madame Ferrand's permission."
+    },
+    {
       "word": "permit",
       "pos": "VERB",
       "translation": "permettere",
@@ -21593,6 +21737,12 @@
       "pos": "NOUN",
       "translation": "la fotografia",
       "example": "He found what he was looking for quickly: two books on the strikes of 1948 and a collection of old photographs."
+    },
+    {
+      "word": "photograph",
+      "pos": "VERB",
+      "translation": "fotografare",
+      "example": "They measured the cracks in the rue des Corons and photographed the broken window in the Cité des Acacias."
     },
     {
       "word": "photographer",
@@ -21773,6 +21923,12 @@
       "pos": "ADJ",
       "translation": "rosa",
       "example": "In the east, it was starting to turn pink."
+    },
+    {
+      "word": "pink",
+      "pos": "NOUN",
+      "translation": "il rosa",
+      "example": "Its red casing faded almost to pink."
     },
     {
       "word": "pint",
@@ -23089,6 +23245,12 @@
       "example": "In the queue for the washrooms in the morning."
     },
     {
+      "word": "queue",
+      "pos": "VERB",
+      "translation": "fare la fila",
+      "example": "When Adam came back to the canteen after queuing for his tray, there was a new sketchbook on his chair."
+    },
+    {
       "word": "quick",
       "pos": "ADJ",
       "translation": "rapido",
@@ -23418,6 +23580,12 @@
       "example": "Sir Godfrey read it twice before he spoke."
     },
     {
+      "word": "reader",
+      "pos": "NOUN",
+      "translation": "il lettore",
+      "example": "Well read. There are other books, and other readers."
+    },
+    {
       "word": "readiness",
       "pos": "NOUN",
       "translation": "la prontezza, la disponibilità",
@@ -23712,6 +23880,12 @@
       "example": "He began his walk-round check by torchlight, as the regulations required and as habit would have compelled him to do regardless: tyres, wheel nuts, lights, mirrors, the fifth-wheel coupling, the airlines and the suzies coiled behind the cab."
     },
     {
+      "word": "rehearsal",
+      "pos": "NOUN",
+      "translation": "la prova",
+      "example": "Father Augustin went to every rehearsal and sat in the front row with his eyes closed."
+    },
+    {
       "word": "rehearse",
       "pos": "VERB",
       "translation": "provare, fare le prove",
@@ -23868,6 +24042,12 @@
       "example": "The mines had closed forty years earlier, but the town still lived in their shadow: rows of identical red-brick houses, a church that was far too big for the people who still went to it, and a main street where every third shop had a \"For Rent\" sign in the window."
     },
     {
+      "word": "rent",
+      "pos": "VERB",
+      "translation": "affittare, prendere in affitto",
+      "example": "Mortier himself had rented a small flat above the closed bakery on the rue des Corons."
+    },
+    {
       "word": "reopen",
       "pos": "VERB",
       "translation": "riaprire",
@@ -23920,6 +24100,12 @@
       "pos": "VERB",
       "translation": "rispondere",
       "example": "\"By waiting,\" the knight replied calmly."
+    },
+    {
+      "word": "report",
+      "pos": "NOUN",
+      "translation": "il rapporto, la relazione",
+      "example": "One engineer had found faint chalk marks on the pavement beside several of them, and had photographed them for his report."
     },
     {
       "word": "report",
@@ -23980,6 +24166,12 @@
       "pos": "VERB",
       "translation": "mal sopportare, provare risentimento per",
       "example": "Younger drivers resented the machine."
+    },
+    {
+      "word": "resign",
+      "pos": "VERB",
+      "translation": "dimettersi",
+      "example": "He said he had resigned from the Cénacle, although Solange said that nobody resigned from the Cénacle."
     },
     {
       "word": "resin",
@@ -25090,6 +25282,12 @@
       "pos": "VERB",
       "translation": "salvare",
       "example": "\"Running will not save you,\" he told them, trying to sound more confident than he felt."
+    },
+    {
+      "word": "save up",
+      "pos": "PHRASE",
+      "translation": "risparmiare («save up for»: mettere da parte per)",
+      "example": "The expensive Japanese kind he had been saving up for since he was fourteen."
     },
     {
       "word": "saving",
@@ -26446,6 +26644,12 @@
       "pos": "ADJ",
       "translation": "nauseante, disgustoso",
       "example": "It was exactly as it had been on the ice — that cold, sickening tug deep in his chest, as though a fish-hook had caught behind his ribs — and every nerve in his body screamed at him to pull away, to fight, to run."
+    },
+    {
+      "word": "side",
+      "pos": "ADV",
+      "translation": "fianco («side by side»: fianco a fianco)",
+      "example": "He saw that they were sitting side by side on the black slag, not touching."
     },
     {
       "word": "side",
@@ -28936,6 +29140,12 @@
       "pos": "NOUN",
       "translation": "l'argomento",
       "example": "They said it the way people mention a ghost — quickly, and then they changed the subject."
+    },
+    {
+      "word": "subsidence",
+      "pos": "NOUN",
+      "translation": "il cedimento (del terreno), la subsidenza",
+      "example": "A localised subsidence event linked to historic underground workings."
     },
     {
       "word": "success",
@@ -32512,6 +32722,12 @@
       "example": "Once, when Rowan asked him directly why the saplings had turned, Moss looked at him for a long moment and said, \"Why does a dog wag its tail?\" and then refused to say another word for the rest of the afternoon."
     },
     {
+      "word": "wage",
+      "pos": "NOUN",
+      "translation": "il salario, la paga",
+      "example": "He had meant to talk about wages and working hours and the government's response."
+    },
+    {
       "word": "wager",
       "pos": "NOUN",
       "translation": "la scommessa",
@@ -32756,6 +32972,12 @@
       "pos": "VERB",
       "translation": "lavare («wash over»: travolgere, investire)",
       "example": "It washed over him like a wave, from every side at once: not all of it cruel, but enough."
+    },
+    {
+      "word": "wash out",
+      "pos": "PHRASE",
+      "translation": "sbiadire («washed-out»: slavato, pallido)",
+      "example": "The sky turned from black to grey to a pale, washed-out pink above the fields."
     },
     {
       "word": "washbasin",
@@ -33860,6 +34082,18 @@
       "pos": "NOUN",
       "translation": "il lavoratore, l'operaio",
       "example": "We ran along the rooftops of the Croix-Rousse, the old hill where silk workers lived a long time ago."
+    },
+    {
+      "word": "working",
+      "pos": "NOUN",
+      "translation": "il funzionamento («underground workings»: gallerie, vecchi scavi minerari)",
+      "example": "A localised subsidence event linked to historic underground workings."
+    },
+    {
+      "word": "working hours",
+      "pos": "PHRASE",
+      "translation": "l'orario di lavoro",
+      "example": "He had meant to talk about wages and working hours and the government's response."
     },
     {
       "word": "workshop",
