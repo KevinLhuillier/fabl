@@ -310,7 +310,7 @@ export function EditorPage({ slug, server }: { slug: string; server: ServerStatu
                     <span className="t-bold">Histoire premium</span>
                     <br />
                     <span className="t-caption c-secondary">
-                      Sans abonnement, seul le premier chapitre se lit.
+                      Sans abonnement, seuls les deux premiers chapitres se lisent.
                     </span>
                   </span>
                 </label>

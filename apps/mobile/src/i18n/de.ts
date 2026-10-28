@@ -318,7 +318,7 @@ export const de: Messages = {
     limitText:
       'Dieses Wort wurde nicht hinzugefügt. Mit Premium behältst du so viele, wie du willst.',
     limitReached: 'Limit erreicht: Neue Wörter werden nicht mehr hinzugefügt.',
-    firstChapterFree: 'Erstes Kapitel gratis',
+    freeChapters: 'Die ersten zwei Kapitel gratis',
     unlockStory: 'Schalte die ganze Geschichte mit Premium frei.',
     lockedChapter: 'PREMIUM-KAPITEL',
     lockedChapterA11y: (n: number, title: string) =>

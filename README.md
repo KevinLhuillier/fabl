@@ -109,19 +109,19 @@ The rules live in `apps/mobile/src/lib/gamification.ts` (`DAILY_GOAL_OPTIONS`, `
 
 ### Data model
 
-| Table                                                                                       | Access                                                             |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| `stories`, `chapters`, `lemmas`, `translations`                                             | public read, written by the publish script                         |
-| `passages` (pages), `tokens`                                                                | same, but premium stories: first chapter only without subscription |
-| `user_progress`, `user_chapter_progress`, `user_vocabulary`, `user_stats`, `daily_activity` | owner only (RLS on `auth.uid()`)                                   |
-| `subscriptions`                                                                             | owner read, written by the Edge Functions                          |
+| Table                                                                                       | Access                                                                  |
+| ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| `stories`, `chapters`, `lemmas`, `translations`                                             | public read, written by the publish script                              |
+| `passages` (pages), `tokens`                                                                | same, but premium stories: first two chapters only without subscription |
+| `user_progress`, `user_chapter_progress`, `user_vocabulary`, `user_stats`, `daily_activity` | owner only (RLS on `auth.uid()`)                                        |
+| `subscriptions`                                                                             | owner read, written by the Edge Functions                               |
 
 A `user_stats` row is created automatically when an account signs up.
 
 ## Premium subscription (RevenueCat)
 
 **What premium opens**: every chapter of the stories marked `premium: true` (free accounts read
-their first chapter), and an unlimited word list (free accounts keep 30 words, `FREE_WORD_LIMIT`).
+their first two chapters), and an unlimited word list (free accounts keep 30 words, `FREE_WORD_LIMIT`).
 Both are enforced by the database, not only by the app: the `passages` and `tokens` policies call
 `is_premium()`, and the `check_vocabulary_limit` trigger refuses the 31st word (`vocabulary_limit`).
 
@@ -273,7 +273,7 @@ Then Mia sees her neighbour, Mr Green.
 
 - **Front matter** (between the first two `---` lines): `title`, `level` (A1–C2), `summary`
   and optionally `cover` (http(s) URL of the front cover image; without it the app draws a
-  default cover in the level color), `premium: true` (only the first chapter is free, see
+  default cover in the level color), `premium: true` (only the first two chapters are free, see
   [Premium subscription](#premium-subscription-revenuecat)). Chapters share the story's level.
 - **`# Title` starts a chapter**; `---` separates two **pages** of a chapter. Only `#` headings.
 - **One line = one paragraph**; blank lines are ignored. `<!-- comments -->` are allowed.

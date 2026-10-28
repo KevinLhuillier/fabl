@@ -6,7 +6,7 @@
  *   level: A1
  *   summary: Mia's cat is not at home.
  *   cover: https://example.com/leo.jpg   (optional, front cover image)
- *   premium: true                        (optional: only the first chapter is free)
+ *   premium: true                        (optional: only the first two chapters are free)
  *   ---
  *
  *   # Leo Is Not Here
@@ -38,7 +38,7 @@ export type StoryMeta = {
   summary: string;
   /** Front cover image URL; null lets the app draw a default cover. */
   cover: string | null;
-  /** Premium story: free accounts read the first chapter only. */
+  /** Premium story: free accounts read the first two chapters only. */
   premium: boolean;
 };
 

@@ -142,7 +142,7 @@ export default function StoryScreen() {
               <View style={styles.offerRow}>
                 <Icon icon={Crown} size={28} color={colors.xpShade} />
                 <View style={styles.flex}>
-                  <Text variant="heading">{t.premium.firstChapterFree}</Text>
+                  <Text variant="heading">{t.premium.freeChapters}</Text>
                   <Text color={colors.textSecondary}>{t.premium.unlockStory}</Text>
                 </View>
               </View>

@@ -8,7 +8,7 @@ export type StorySummary = {
   summary: string;
   /** Front cover image; null → default cover drawn by the app. */
   cover_url: string | null;
-  /** Premium story: free accounts read the first chapter only. */
+  /** Premium story: free accounts read the first two chapters only. */
   premium: boolean;
   /** Total number of pages. */
   passage_count: number;

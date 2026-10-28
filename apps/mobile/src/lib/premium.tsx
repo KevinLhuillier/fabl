@@ -32,6 +32,8 @@ import { supabase, unwrap } from './supabase';
 
 /** Words a free account can keep. Enforced by the database (check_vocabulary_limit). */
 export const FREE_WORD_LIMIT = 30;
+/** Chapters of a premium story a free account can read. Enforced by the passages policy. */
+export const FREE_CHAPTERS = 2;
 /** RevenueCat entitlement of the subscription (also REVENUECAT_ENTITLEMENT on the server). */
 const ENTITLEMENT = 'premium';
 
@@ -230,6 +232,6 @@ export function usePremium() {
   return ctx;
 }
 
-/** A chapter free accounts can read: any chapter of a free story, the first of a premium one. */
+/** A chapter free accounts can read: any chapter of a free story, the first ones of a premium one. */
 export const isFreeChapter = (storyPremium: boolean, chapterPosition: number) =>
-  !storyPremium || chapterPosition === 0;
+  !storyPremium || chapterPosition < FREE_CHAPTERS;

@@ -317,7 +317,7 @@ export const es: Messages = {
     limitTitle: (max: number) => `Has llegado a ${max} palabras`,
     limitText: 'Esta palabra no se ha añadido. Con Premium, guarda todas las que quieras.',
     limitReached: 'Límite alcanzado: las nuevas palabras ya no se añaden.',
-    firstChapterFree: 'Primer capítulo gratis',
+    freeChapters: 'Los dos primeros capítulos gratis',
     unlockStory: 'Desbloquea toda la historia con Premium.',
     lockedChapter: 'CAPÍTULO PREMIUM',
     lockedChapterA11y: (n: number, title: string) =>

@@ -323,7 +323,7 @@ export const fr = {
     limitTitle: (max: number) => `Tu as atteint ${max} mots`,
     limitText: 'Ce mot n’a pas été ajouté. Avec Premium, garde tous les mots que tu veux.',
     limitReached: 'Limite atteinte : les nouveaux mots ne sont plus ajoutés.',
-    firstChapterFree: 'Premier chapitre offert',
+    freeChapters: 'Deux premiers chapitres offerts',
     unlockStory: 'Débloque toute l’histoire avec Premium.',
     lockedChapter: 'CHAPITRE PREMIUM',
     lockedChapterA11y: (n: number, title: string) =>

@@ -27,7 +27,7 @@ export type StoryListItem = {
   level: Level;
   summary: string;
   cover: string | null;
-  /** Only the first chapter is free in the app. */
+  /** Only the first two chapters are free in the app. */
   premium: boolean;
   status: StoryStatus;
   chapters: number;
