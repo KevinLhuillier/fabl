@@ -91,7 +91,7 @@ export const fr = {
     },
   },
   home: {
-    title: 'Tes histoires',
+    title: 'Que lire aujourd’hui ?',
     toReviewToday: (n: number) => `${count(n, 'mot', 'mots')} à réviser aujourd’hui`,
     review: 'Réviser',
     loadError: (message: string) => `Impossible de charger les histoires : ${message}`,

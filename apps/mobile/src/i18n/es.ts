@@ -90,7 +90,7 @@ export const es: Messages = {
     },
   },
   home: {
-    title: 'Tus historias',
+    title: '¿Qué leer hoy?',
     toReviewToday: (n) => `${count(n, 'palabra', 'palabras')} para repasar hoy`,
     review: 'Repasar',
     loadError: (message) => `No se pudieron cargar las historias: ${message}`,

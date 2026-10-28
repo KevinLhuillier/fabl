@@ -88,7 +88,7 @@ export const pt: Messages = {
     },
   },
   home: {
-    title: 'Suas histórias',
+    title: 'O que ler hoje?',
     toReviewToday: (n) => `${count(n, 'palavra', 'palavras')} para revisar hoje`,
     review: 'Revisar',
     loadError: (message) => `Não foi possível carregar as histórias: ${message}`,
