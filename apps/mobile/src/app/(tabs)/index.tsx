@@ -5,12 +5,19 @@ import { RefreshControl, ScrollView, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+import { ContinueReading } from '@/components/ContinueReading';
 import { StatsBar } from '@/components/StatsBar';
 import { StoryTile } from '@/components/StoryTile';
 import { useI18n } from '@/i18n';
 import { fetchStories } from '@/lib/api/content';
-import { fetchProgressByStory, type StoryProgressSummary } from '@/lib/api/progress';
+import {
+  fetchProgressByStory,
+  fetchResumePoint,
+  type ResumePoint,
+  type StoryProgressSummary,
+} from '@/lib/api/progress';
 import { countDueVocabulary } from '@/lib/api/vocabulary';
+import { isFreeChapter, usePremium } from '@/lib/premium';
 import { useStats } from '@/lib/stats';
 import { useTour } from '@/lib/tour';
 import type { StorySummary } from '@/lib/types';
@@ -20,8 +27,10 @@ export default function Home() {
   const router = useRouter();
   const { refresh: refreshStats } = useStats();
   const { t } = useI18n();
+  const { premium } = usePremium();
   const [stories, setStories] = useState<StorySummary[] | null>(null);
   const [progress, setProgress] = useState(new Map<string, StoryProgressSummary>());
+  const [resume, setResume] = useState<ResumePoint | null>(null);
   const [due, setDue] = useState(0);
   const [error, setError] = useState<string | null>(null);
   const [refreshing, setRefreshing] = useState(false);
@@ -30,7 +39,14 @@ export default function Home() {
   const load = useCallback(async () => {
     try {
       const [s, d] = await Promise.all([fetchStories(), countDueVocabulary(), refreshStats()]);
-      setProgress(await fetchProgressByStory(s));
+      const p = await fetchProgressByStory(s);
+      // A shortcut only: the shelf still shows if it fails.
+      const r = await fetchResumePoint(s, p).catch((e: unknown) => {
+        console.warn('resume', e);
+        return null;
+      });
+      setProgress(p);
+      setResume(r);
       setStories(s);
       setDue(d);
       setError(null);
@@ -65,6 +81,24 @@ export default function Home() {
         <View ref={target('stats')} collapsable={false}>
           <StatsBar />
         </View>
+
+        {resume ? (
+          <Animated.View entering={enter.up()}>
+            <ContinueReading
+              resume={resume}
+              fraction={progress.get(resume.story.id)?.fraction ?? 0}
+              onPress={() =>
+                // A premium chapter without subscription: the story page shows the offer.
+                isFreeChapter(resume.story.premium, resume.chapter.position) || premium
+                  ? router.push({
+                      pathname: '/read/[chapterId]',
+                      params: { chapterId: resume.chapter.id, storyId: resume.story.id },
+                    })
+                  : router.push({ pathname: '/story/[id]', params: { id: resume.story.id } })
+              }
+            />
+          </Animated.View>
+        ) : null}
 
         {due > 0 ? (
           <Card tint={{ face: colors.infoSoft, edge: colors.info }}>

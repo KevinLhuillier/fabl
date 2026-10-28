@@ -95,6 +95,11 @@ export const es: Messages = {
     review: 'Repasar',
     loadError: (message) => `No se pudieron cargar las historias: ${message}`,
     comingSoon: 'Pronto habrá nuevas historias',
+    continueReading: 'Seguir leyendo',
+    continueChapter: (n, title, page, total) =>
+      `Capítulo ${n} · ${title} · página ${page}/${total}`,
+    continueA11y: (story, n, page, total) =>
+      `Seguir leyendo: ${story}, capítulo ${n}, página ${page} de ${total}`,
   },
   stats: {
     goalReached: '¡Objetivo cumplido!',
