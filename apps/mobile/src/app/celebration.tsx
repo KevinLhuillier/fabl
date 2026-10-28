@@ -1,4 +1,4 @@
-import { router, useLocalSearchParams } from 'expo-router';
+import { useRouter, useLocalSearchParams } from 'expo-router';
 import {
   BookCheck,
   BookOpen,
@@ -55,6 +55,7 @@ const HERO: Record<Kind, { icon: LucideIcon; color: string; background: string }
 
 /** Reward screen after a chapter, a whole story or a review session. */
 export default function Celebration() {
+  const router = useRouter();
   const {
     kind = 'story',
     seconds = '0',

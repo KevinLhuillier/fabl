@@ -1,4 +1,4 @@
-import { router } from 'expo-router';
+import { useRouter } from 'expo-router';
 import { BookOpen, Check, Crown, Infinity as InfinityIcon, Sparkles, X } from 'lucide-react-native';
 import { useEffect, useState } from 'react';
 import { Linking, Pressable, ScrollView, StyleSheet, View } from 'react-native';
@@ -40,6 +40,21 @@ const PERIOD_ORDER: Period[] = [
 const periodOf = (pkg: PurchasesPackage): Period | null =>
   (PERIOD_ORDER as string[]).includes(pkg.packageType) ? (pkg.packageType as Period) : null;
 
+/**
+ * Regular monthly price (EUR) once the launch is over; the current monthly price is the launch
+ * offer, kept by subscribers for as long as their subscription stays active. Set to null when the
+ * launch ends to drop the discount badge and the guarantee.
+ */
+const REGULAR_MONTHLY_EUR: number | null = 8.99;
+
+/** Launch discount of the monthly plan over its regular price, in %. */
+function launchDiscount(pkg: PurchasesPackage): number | null {
+  if (REGULAR_MONTHLY_EUR === null || pkg.packageType !== 'MONTHLY') return null;
+  if (pkg.product.currencyCode !== 'EUR') return null;
+  const discount = Math.round((1 - pkg.product.price / REGULAR_MONTHLY_EUR) * 100);
+  return discount > 0 ? discount : null;
+}
+
 /** Days of the free trial of a Google Play subscription, if it has one. */
 function trialDays(pkg: PurchasesPackage): number | null {
   const period = pkg.product.defaultOption?.freePhase?.billingPeriod;
@@ -59,6 +74,7 @@ function annualSaving(packages: PurchasesPackage[]): number | null {
 
 /** The premium offer: what it gives, the plans of the current RevenueCat offering, restore. */
 export default function Paywall() {
+  const router = useRouter();
   const { t } = useI18n();
   const p = t.premium;
   const { premium, subscription, storeAvailable, managementUrl, loadPackages, purchase, restore } =
@@ -199,7 +215,7 @@ export default function Paywall() {
                 <PlanCard
                   pkg={pkg}
                   selected={pkg.identifier === selected}
-                  saving={pkg.packageType === 'ANNUAL' ? saving : null}
+                  saving={pkg.packageType === 'ANNUAL' ? saving : launchDiscount(pkg)}
                   onPress={() => {
                     haptics.tap();
                     setSelected(pkg.identifier);
@@ -317,6 +333,11 @@ function PlanCard({
           {pkg.packageType === 'ANNUAL' ? (
             <Text variant="caption" color={colors.primary}>
               {p.bestValue}
+            </Text>
+          ) : null}
+          {REGULAR_MONTHLY_EUR !== null && pkg.packageType === 'MONTHLY' ? (
+            <Text variant="caption" color={colors.successShade}>
+              {p.launchPrice}
             </Text>
           ) : null}
           {trial ? (

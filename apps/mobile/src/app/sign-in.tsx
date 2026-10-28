@@ -1,4 +1,4 @@
-import { router } from 'expo-router';
+import { useRouter } from 'expo-router';
 import { AtSign, BookOpen, KeyRound, Mail } from 'lucide-react-native';
 import { useState } from 'react';
 import { KeyboardAvoidingView, Platform, ScrollView, StyleSheet, View } from 'react-native';
@@ -24,6 +24,7 @@ import {
 type Mode = 'signIn' | 'signUp';
 
 export default function SignIn() {
+  const router = useRouter();
   const { t } = useI18n();
   const [mode, setMode] = useState<Mode>('signIn');
   const [username, setUsername] = useState('');

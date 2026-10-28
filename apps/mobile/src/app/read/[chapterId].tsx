@@ -1,4 +1,4 @@
-import { router, useLocalSearchParams } from 'expo-router';
+import { useRouter, useLocalSearchParams } from 'expo-router';
 import { BookOpen, ChevronLeft, ChevronRight, Lightbulb, X } from 'lucide-react-native';
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, View, type ScrollViewInstance } from 'react-native';
@@ -46,6 +46,7 @@ type Loaded = {
 
 /** Reads one chapter, page by page; the reading time counts towards the daily goal. */
 export default function ChapterReader() {
+  const router = useRouter();
   const { chapterId, storyId } = useLocalSearchParams<{ chapterId: string; storyId: string }>();
   const { stats } = useStats();
   const {
@@ -121,7 +122,7 @@ export default function ChapterReader() {
     return () => {
       cancelled = true;
     };
-  }, [chapterId, storyId, lang, t]);
+  }, [chapterId, storyId, lang, t, router]);
 
   if (!data) {
     return (

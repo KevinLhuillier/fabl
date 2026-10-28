@@ -290,6 +290,7 @@ export const es: Messages = {
     perMonth: (price: string) => `o sea ${price} / mes`,
     bestValue: 'La mejor opción',
     save: (percent: number) => `−${percent} %`,
+    launchPrice: 'Precio de lanzamiento, garantizado mientras tu suscripción siga activa',
     freeTrial: (days: number) => `${days} días gratis`,
     subscribe: 'Suscribirme',
     startTrial: 'Empezar la prueba gratuita',

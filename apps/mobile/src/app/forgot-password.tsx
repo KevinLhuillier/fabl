@@ -1,4 +1,4 @@
-import { router, useLocalSearchParams } from 'expo-router';
+import { useRouter, useLocalSearchParams } from 'expo-router';
 import { Hash, KeyRound, LockKeyhole, Mail } from 'lucide-react-native';
 import { useState } from 'react';
 import { KeyboardAvoidingView, Platform, ScrollView, StyleSheet, View } from 'react-native';
@@ -25,6 +25,7 @@ import {
  * signs in with it and the guard in `_layout` opens the stories.
  */
 export default function ForgotPassword() {
+  const router = useRouter();
   const { t } = useI18n();
   const params = useLocalSearchParams<{ email?: string }>();
   const [step, setStep] = useState<'email' | 'code'>('email');

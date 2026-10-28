@@ -296,6 +296,7 @@ export const fr = {
     perMonth: (price: string) => `soit ${price} / mois`,
     bestValue: 'Le plus avantageux',
     save: (percent: number) => `−${percent} %`,
+    launchPrice: 'Prix de lancement, garanti tant que ton abonnement reste actif',
     freeTrial: (days: number) => `${days} jours gratuits`,
     subscribe: 'S’abonner',
     startTrial: 'Commencer l’essai gratuit',

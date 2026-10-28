@@ -1,4 +1,4 @@
-import { router, useFocusEffect } from 'expo-router';
+import { useRouter, useFocusEffect } from 'expo-router';
 import { Brain, Library, Lock } from 'lucide-react-native';
 import { useCallback, useState } from 'react';
 import { RefreshControl, ScrollView, StyleSheet, View } from 'react-native';
@@ -17,6 +17,7 @@ import type { StorySummary } from '@/lib/types';
 import { Button, Card, Icon, Loader, Text, colors, enter, radii, spacing } from '@/theme';
 
 export default function Home() {
+  const router = useRouter();
   const { refresh: refreshStats } = useStats();
   const { t } = useI18n();
   const [stories, setStories] = useState<StorySummary[] | null>(null);

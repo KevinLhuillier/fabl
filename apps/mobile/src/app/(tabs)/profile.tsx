@@ -1,4 +1,4 @@
-import { router } from 'expo-router';
+import { useRouter } from 'expo-router';
 import {
   AudioLines,
   Crown,
@@ -37,6 +37,7 @@ const GESTURE_ROWS = [
 ] as const;
 
 export default function Profile() {
+  const router = useRouter();
   const { session } = useAuth();
   const { t, lang, setLang } = useI18n();
   const { stats, updateDailyGoal, updateReadAlong, updatePlayFromWord } = useStats();
@@ -247,6 +248,7 @@ export default function Profile() {
 
 /** Subscription status: renewal date and store link, or the way to premium and restore. */
 function PremiumCard() {
+  const router = useRouter();
   const { t } = useI18n();
   const p = t.premium;
   const { premium, subscription, managementUrl, restore } = usePremium();

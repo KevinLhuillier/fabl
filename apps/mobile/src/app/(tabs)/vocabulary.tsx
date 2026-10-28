@@ -1,4 +1,4 @@
-import { router, useFocusEffect } from 'expo-router';
+import { useRouter, useFocusEffect } from 'expo-router';
 import { BookOpen, Brain, Crown, Search, Sparkles, Trash2 } from 'lucide-react-native';
 import { useCallback, useState } from 'react';
 import { FlatList, Pressable, StyleSheet, View } from 'react-native';
@@ -35,6 +35,7 @@ import {
 const normalize = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 
 export default function Vocabulary() {
+  const router = useRouter();
   const { t, lang } = useI18n();
   const { premium, ready: premiumReady } = usePremium();
   const [items, setItems] = useState<VocabularyItem[] | null>(null);
@@ -170,6 +171,7 @@ export default function Vocabulary() {
 
 /** Free account: words used out of FREE_WORD_LIMIT, and the way to more. */
 function WordLimit({ count }: { count: number }) {
+  const router = useRouter();
   const { t } = useI18n();
   const full = count >= FREE_WORD_LIMIT;
   return (
@@ -210,21 +212,28 @@ function WordCard({
   return (
     <Card>
       <View style={styles.cardTop}>
-        <Text variant="heading">{item.word}</Text>
-        <SpeakButton texts={[item.word]} size={32} />
-        <Text variant="caption" color={colors.textMuted}>
-          {posLabel(t, item.pos)}
-        </Text>
-        <View style={styles.flex} />
-        {due ? <Badge label={t.vocabulary.due} tone="primary" /> : null}
-        <Pressable
-          onPress={onRemove}
-          hitSlop={10}
-          accessibilityRole="button"
-          accessibilityLabel={t.vocabulary.removeA11y(item.word)}
-          style={styles.remove}>
-          <Icon icon={Trash2} size={18} color={colors.textMuted} />
-        </Pressable>
+        {/* Takes the remaining width and wraps, so a long word never pushes the badge and bin out. */}
+        <View style={styles.wordGroup}>
+          <Text variant="heading" style={styles.word}>
+            {item.word}
+          </Text>
+          <SpeakButton texts={[item.word]} size={32} />
+          <Text variant="caption" color={colors.textMuted}>
+            {posLabel(t, item.pos)}
+          </Text>
+        </View>
+        {/* Lined up with the first line of the word, even when it wraps. */}
+        <View style={styles.actions}>
+          {due ? <Badge label={t.vocabulary.due} tone="primary" style={styles.badge} /> : null}
+          <Pressable
+            onPress={onRemove}
+            hitSlop={10}
+            accessibilityRole="button"
+            accessibilityLabel={t.vocabulary.removeA11y(item.word)}
+            style={styles.remove}>
+            <Icon icon={Trash2} size={18} color={colors.textMuted} />
+          </Pressable>
+        </View>
       </View>
       <Text variant="bodyBold" color={colors.primary}>
         {item.translation ?? '—'}
@@ -253,7 +262,19 @@ const styles = StyleSheet.create({
   reviewRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
   flex: { flex: 1 },
   empty: { marginTop: spacing.xl },
-  cardTop: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm },
+  cardTop: { flexDirection: 'row', alignItems: 'flex-start', gap: spacing.sm },
+  // Height of the word's first line (the speaker button), so the bin stays level with it.
+  actions: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm, minHeight: 32 },
+  // The badge sticks to the top of its row by default.
+  badge: { alignSelf: 'center' },
+  wordGroup: {
+    flex: 1,
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    alignItems: 'center',
+    gap: spacing.sm,
+  },
+  word: { flexShrink: 1 },
   remove: { padding: spacing.xs },
   limitRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
   limitBody: { flex: 1, gap: spacing.xs },

@@ -1,4 +1,4 @@
-import { router } from 'expo-router';
+import { useRouter } from 'expo-router';
 import { Brain, Sparkles, Trophy, X } from 'lucide-react-native';
 import { useEffect, useState } from 'react';
 import { KeyboardAvoidingView, Platform, Pressable, StyleSheet, View } from 'react-native';
@@ -58,6 +58,7 @@ async function loadSession(lang: string): Promise<Exercise[]> {
 }
 
 export default function Review() {
+  const router = useRouter();
   const { touch, flush, seconds } = useActivityTimer();
   const { t, lang } = useI18n();
   const [exercises, setExercises] = useState<Exercise[] | null>(null);

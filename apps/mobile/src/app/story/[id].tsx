@@ -1,4 +1,4 @@
-import { router, useFocusEffect, useLocalSearchParams } from 'expo-router';
+import { useRouter, useFocusEffect, useLocalSearchParams } from 'expo-router';
 import { BookOpen, ChevronLeft, Clock, Crown } from 'lucide-react-native';
 import { useCallback, useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
@@ -30,6 +30,7 @@ import {
 
 /** A story: cover, summary, overall progress and the table of contents of its chapters. */
 export default function StoryScreen() {
+  const router = useRouter();
   const { id } = useLocalSearchParams<{ id: string }>();
   const { t } = useI18n();
   const { premium } = usePremium();

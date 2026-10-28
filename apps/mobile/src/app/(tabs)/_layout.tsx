@@ -1,6 +1,7 @@
 import { Tabs } from 'expo-router';
 import { CircleUserRound, LibraryBig, Map as MapIcon } from 'lucide-react-native';
 import { StyleSheet, View } from 'react-native';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { useI18n } from '@/i18n';
 import { useTourTarget } from '@/lib/tour';
@@ -10,6 +11,9 @@ export default function TabsLayout() {
   const { t } = useI18n();
   // The home tour points at the tab bar ("Mes mots", "Profil").
   const target = useTourTarget('home');
+  // The bar pads itself by the system navigation bar, so that height has to be added on top
+  // (Android with 3-button navigation: ~48px, which a fixed height would eat into).
+  const insets = useSafeAreaInsets();
   return (
     <Tabs
       screenListeners={{ tabPress: () => haptics.select() }}
@@ -26,7 +30,7 @@ export default function TabsLayout() {
           backgroundColor: colors.surface,
           borderTopWidth: 2,
           borderTopColor: colors.border,
-          height: 72,
+          height: 72 + insets.bottom,
           paddingTop: 6,
         },
       }}>
