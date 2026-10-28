@@ -1139,6 +1139,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "FRIDAY",
+      "pos": "PROPN",
+      "word": "Friday",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "Frozen",
       "pos": "PROPN",
       "word": "frozen",
@@ -2664,6 +2670,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Practise",
+      "pos": "NOUN",
+      "word": "practise",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Press",
       "pos": "NOUN",
       "next": "start",
@@ -3262,6 +3274,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Sleep",
+      "pos": "PROPN",
+      "word": "sleep",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "slide",
       "pos": "NOUN",
       "next": "beneath",
@@ -3302,6 +3320,12 @@
       "text": "smoking",
       "pos": "NOUN",
       "word": "smoke",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "snap",
+      "pos": "ADJ",
+      "word": "snap",
       "lemmaPos": "VERB"
     },
     {

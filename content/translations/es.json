@@ -486,6 +486,12 @@
       "example": "\"No adverts, no magazines, no websites."
     },
     {
+      "word": "advertisement",
+      "pos": "NOUN",
+      "translation": "el anuncio",
+      "example": "An article about stress, and an advertisement for a mattress."
+    },
+    {
       "word": "advice",
       "pos": "NOUN",
       "translation": "el consejo",
@@ -1202,6 +1208,12 @@
       "pos": "VERB",
       "translation": "aparecer",
       "example": "Every night, a small grey cat appears on the roof opposite."
+    },
+    {
+      "word": "applaud",
+      "pos": "VERB",
+      "translation": "aplaudir",
+      "example": "Ines stood up on the sofa and applauded like a football crowd."
     },
     {
       "word": "applause",
@@ -4896,6 +4908,12 @@
       "example": "Its long, low common room was built around the roots of a single enormous oak, which came down through the ceiling and spread across the walls and floor in great grey coils, polished smooth by generations of students who had sat on them, leaned on them and carved their initials into them."
     },
     {
+      "word": "celebrate",
+      "pos": "VERB",
+      "translation": "celebrar, festejar",
+      "example": "Afterwards, everybody went to The Lantern to celebrate the end of the presentations."
+    },
+    {
       "word": "cellar",
       "pos": "NOUN",
       "translation": "el sótano, la bodega",
@@ -6666,6 +6684,12 @@
       "example": "He had made the gesture by the cooker and listened as the room gave back the sound of her humming an old song."
     },
     {
+      "word": "cooking",
+      "pos": "NOUN",
+      "translation": "la cocina, la comida (que se prepara)",
+      "example": "The kite, Grandad, my bedroom, my mum's cooking."
+    },
+    {
       "word": "cool",
       "pos": "ADJ",
       "translation": "fresco",
@@ -6712,6 +6736,12 @@
       "pos": "VERB",
       "translation": "copiar",
       "example": "Then, almost without deciding to, he copied the first diagram with his right hand: thumb against middle finger, palm turned towards the lamp, a slow half-circle from left to right."
+    },
+    {
+      "word": "cord",
+      "pos": "NOUN",
+      "translation": "la cuerda, el cordón",
+      "example": "Rosalind felt something snap inside her, a thin cord that had been stretched too far."
     },
     {
       "word": "core",
@@ -8320,6 +8350,12 @@
       "pos": "VERB",
       "translation": "desaparecer",
       "example": "As soon as their eyes met, the squire turned and disappeared into the crowd."
+    },
+    {
+      "word": "disappoint",
+      "pos": "VERB",
+      "translation": "decepcionar («disappointed»: decepcionado)",
+      "example": "If she failed on Friday, she would fail alone, and nobody would be disappointed in green ink."
     },
     {
       "word": "disappointed",
@@ -10384,6 +10420,12 @@
       "example": "It's an act of faith in a future you'll very likely not attend."
     },
     {
+      "word": "fake",
+      "pos": "ADJ",
+      "translation": "falso, fingido",
+      "example": "And then asked her five horrible questions in a fake English accent."
+    },
+    {
       "word": "fall",
       "pos": "NOUN",
       "translation": "la caída",
@@ -11866,6 +11908,12 @@
       "example": "He told Léa about Jeanne, about the silk workers of the Croix-Rousse, about his job as a train driver forty years ago."
     },
     {
+      "word": "forum",
+      "pos": "NOUN",
+      "translation": "el foro",
+      "example": "It offered her a forum of people who believed their toasters were spying on them."
+    },
+    {
       "word": "forward",
       "pos": "ADV",
       "translation": "hacia delante («step forward»: dar un paso adelante)",
@@ -12140,6 +12188,12 @@
       "pos": "ADP",
       "translation": "de, desde",
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "from beginning to end",
+      "pos": "PHRASE",
+      "translation": "de principio a fin",
+      "example": "Rosalind did the whole presentation from beginning to end, ten minutes and twenty seconds, without stopping once."
     },
     {
       "word": "from end to end",
@@ -13225,6 +13279,12 @@
       "pos": "PHRASE",
       "translation": "bueno para, bueno en",
       "example": "\"Old people are good at talking.\""
+    },
+    {
+      "word": "goodbye",
+      "pos": "INTJ",
+      "translation": "adiós",
+      "example": "I'll do Friday on my own. I don't need you. Goodbye."
     },
     {
       "word": "goodbye",
@@ -14604,6 +14664,12 @@
       "pos": "PHRASE",
       "translation": "ayudar a levantarse",
       "example": "Then Jamal laughed, a real, surprised laugh, and held up his glove so Max could help him up."
+    },
+    {
+      "word": "helpful",
+      "pos": "ADJ",
+      "translation": "útil ; servicial",
+      "example": "The internet, as usual, was not helpful."
     },
     {
       "word": "helping",
@@ -16234,6 +16300,12 @@
       "example": "Noé had eaten breakfast, as instructed."
     },
     {
+      "word": "instruction",
+      "pos": "NOUN",
+      "translation": "la instrucción, la indicación",
+      "example": "It was the instructions that did it. Practise. Call your mum. Sleep."
+    },
+    {
       "word": "instructor",
       "pos": "NOUN",
       "translation": "el instructor, el monitor",
@@ -17626,6 +17698,12 @@
       "example": "\"Serve him well,\" his mother had whispered as he left."
     },
     {
+      "word": "leave me alone",
+      "pos": "PHRASE",
+      "translation": "déjame en paz",
+      "example": "Tell me who you are or leave me alone."
+    },
+    {
       "word": "leave out",
       "pos": "PHRASE",
       "translation": "dejar fuera; omitir",
@@ -18387,6 +18465,12 @@
       "example": "He lost his balance, Hugh's lance hit him in the chest, and the old knight crashed to the ground."
     },
     {
+      "word": "lose her place",
+      "pos": "PHRASE",
+      "translation": "perder el hilo, no saber por dónde iba",
+      "example": "In the middle of the fourth minute, she lost her place completely."
+    },
+    {
       "word": "lose his nerve",
       "pos": "PHRASE",
       "translation": "perder el valor, acobardarse",
@@ -18637,6 +18721,12 @@
       "pos": "PHRASE",
       "translation": "hecho de",
       "example": "A woman made of pixels with a grey moustache of soot."
+    },
+    {
+      "word": "madness",
+      "pos": "NOUN",
+      "translation": "la locura",
+      "example": "Then, with a cold feeling in her stomach: \"first signs of madness\"."
     },
     {
       "word": "magazine",
@@ -18986,6 +19076,12 @@
       "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
     },
     {
+      "word": "marshmallow",
+      "pos": "NOUN",
+      "translation": "la nube, el malvavisco",
+      "example": "Callum bought her a hot chocolate with cream and marshmallows, \"the hero's drink\"."
+    },
+    {
       "word": "mask",
       "pos": "NOUN",
       "translation": "la máscara",
@@ -19062,6 +19158,12 @@
       "pos": "ADJ",
       "translation": "prosaico, práctico, sin emoción",
       "example": "It was a precaution that had been drilled into him forty years earlier by an old Glaswegian driver who, he swore, had once found two men asleep for ever in a snowbound cab on Rannoch Moor, and Gideon had never forgotten the flat, matter-of-fact way in which he had told the story."
+    },
+    {
+      "word": "mattress",
+      "pos": "NOUN",
+      "translation": "el colchón",
+      "example": "An article about stress, and an advertisement for a mattress."
     },
     {
       "word": "Maud",
@@ -21305,6 +21407,12 @@
       "pos": "PHRASE",
       "translation": "en llano, en terreno llano",
       "example": "On Saturday mornings, he and Priya took the bus to Otley and ran up the Chevin with Ruth Bell, who was slower than both of them on the flat but somehow always reached the top first, because she never stopped."
+    },
+    {
+      "word": "on the other end of the line",
+      "pos": "PHRASE",
+      "translation": "al otro lado de la línea",
+      "example": "Her mum went quiet on the other end of the line."
     },
     {
       "word": "on the other hand",
@@ -23659,6 +23767,18 @@
       "example": "Inside, there was a single card with a small robin printed in one corner."
     },
     {
+      "word": "printer",
+      "pos": "NOUN",
+      "translation": "la impresora",
+      "example": "She took a sheet of printer paper instead and wrote \"Wednesday\" at the top."
+    },
+    {
+      "word": "printer paper",
+      "pos": "PHRASE",
+      "translation": "el papel de impresora",
+      "example": "She took a sheet of printer paper instead and wrote \"Wednesday\" at the top."
+    },
+    {
       "word": "printout",
       "pos": "NOUN",
       "translation": "la copia impresa",
@@ -24744,6 +24864,18 @@
       "example": "He did not tell her that she had, with uncanny precision, described his recurring dream of the past three months."
     },
     {
+      "word": "recycling",
+      "pos": "NOUN",
+      "translation": "el reciclaje",
+      "example": "COLLECTED FRIDAY MORNING. THANK YOU FOR RECYCLING!"
+    },
+    {
+      "word": "recycling bin",
+      "pos": "PHRASE",
+      "translation": "el contenedor de reciclaje",
+      "example": "She lifted the lid of the blue recycling bin, the one for paper and cardboard."
+    },
+    {
       "word": "red",
       "pos": "ADJ",
       "translation": "rojo",
@@ -24928,6 +25060,12 @@
       "pos": "VERB",
       "translation": "volver a encender(se)",
       "example": "Then, one by one, in the same order, they relit."
+    },
+    {
+      "word": "religion",
+      "pos": "NOUN",
+      "translation": "la religión",
+      "example": "Harriet asked something long and complicated about religion in Victorian poetry."
     },
     {
       "word": "relish",
@@ -27576,6 +27714,12 @@
       "example": "Max took the longest shower of his life, watching the black water run down the drain."
     },
     {
+      "word": "shower",
+      "pos": "VERB",
+      "translation": "ducharse",
+      "example": "She showered, dressed, changed her clothes twice and ate half a piece of toast."
+    },
+    {
       "word": "shriek",
       "pos": "VERB",
       "translation": "chillar",
@@ -29286,6 +29430,12 @@
       "example": "I suspect she made it sound like something out of a spy film."
     },
     {
+      "word": "spy",
+      "pos": "VERB",
+      "translation": "espiar",
+      "example": "It offered her a forum of people who believed their toasters were spying on them."
+    },
+    {
       "word": "spy film",
       "pos": "PHRASE",
       "translation": "la película de espías",
@@ -29724,6 +29874,12 @@
       "example": "There are roots sticking out of the ice as thick as Hob."
     },
     {
+      "word": "sticker",
+      "pos": "NOUN",
+      "translation": "la pegatina",
+      "example": "On the pavement outside, a sticker on the next-door bin said, in cheerful letters: COLLECTED FRIDAY MORNING."
+    },
+    {
       "word": "stiff",
       "pos": "ADJ",
       "translation": "rígido, tieso",
@@ -30058,6 +30214,12 @@
       "pos": "PHRASE",
       "translation": "fuerza y acondicionamiento físico",
       "example": "Strength and conditioning."
+    },
+    {
+      "word": "stress",
+      "pos": "NOUN",
+      "translation": "el estrés",
+      "example": "An article about stress, and an advertisement for a mattress."
     },
     {
       "word": "stress",
@@ -32664,6 +32826,12 @@
     },
     {
       "word": "trust",
+      "pos": "NOUN",
+      "translation": "la confianza",
+      "example": "\"Trust me.\" Rosalind stared at the words and felt the anger rise in her again."
+    },
+    {
+      "word": "trust",
       "pos": "VERB",
       "translation": "confiar en",
       "example": "Then he picked up his bag and climbed into the wagon, and did not trust himself to speak for a long time."
@@ -33077,6 +33245,12 @@
       "example": "She looks under the table. — Mira debajo de la mesa."
     },
     {
+      "word": "under her breath",
+      "pos": "PHRASE",
+      "translation": "en voz baja, entre dientes",
+      "example": "Practising her first sentence under her breath."
+    },
+    {
       "word": "under its own power",
       "pos": "PHRASE",
       "translation": "por sus propios medios",
@@ -33477,6 +33651,12 @@
       "pos": "ADV",
       "translation": "arriba, hacia arriba",
       "example": "Up close, she was even thinner than I thought."
+    },
+    {
+      "word": "up",
+      "pos": "NOUN",
+      "translation": "arriba («thumbs-up»: pulgar arriba, gesto de ánimo)",
+      "example": "Callum gave her a tiny thumbs-up under the table."
     },
     {
       "word": "up and down",

@@ -583,3 +583,119 @@ That night, when she opened the notebook to say goodnight, she found a short mes
 > Good list. You'd make a decent detective.
 > But stop investigating me and start practising. Week seven is in two weeks, and Emily Brontë deserves better than "So."
 > — R.
+
+# On My Own
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_1-1793203442556.mp3
+The week before the presentation, Rosalind stopped sleeping properly. It was not only the fear, although the fear was there, sitting on her chest every night like a heavy cat. It was the questions. They went round and round in her head, louder than any rehearsal. The kite. Grandad's words. The shepherd's pie. The slanted ceiling. "I have more to lose than you think." Every night she opened the notebook meaning to practise, and every night she ended up asking R. something R. would not answer.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_2-1793203455695.mp3
+On Monday night, at two in the morning, she did something stupid. She typed into her laptop: "seeing handwriting that isn't there". Then: "hearing voices in a diary". Then, with a cold feeling in her stomach: "first signs of madness". The internet, as usual, was not helpful. It offered her a forum of people who believed their toasters were spying on them, an article about stress, and an advertisement for a mattress. She closed the laptop and sat in the dark, listening to her own heart.
+Then she turned on the lamp and opened the notebook. If she was going mad, she wanted to know. She wanted to be sure. A sensible person, she told herself, would ask for proof.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_3-1793203466975.mp3
+> I need to know if you're real.
+> I need to know I'm not imagining you. Because if I am, then I'm ill, and I should go home, and the presentation doesn't matter at all.
+> Give me proof. Tell me one thing that will happen tomorrow. Anything. The weather. What Ines will cook. Then I'll know.
+
+> You're not imagining me, Ros. You're not ill. You're tired and frightened, which is not the same thing.
+> I can't give you that proof. Rule two. If I start telling you about tomorrow, even small things, everything changes. I've thought about it a lot. It's not safe.
+> You'll have to trust me a little longer.
+> — R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_4-1793203475787.mp3
+"Trust me." Rosalind stared at the words and felt the anger rise in her again, the same clean, bright anger as the night of the withdrawal form. Trust. How could she trust somebody with no face and no name, somebody who knew all her secrets and gave nothing back? It was not a friendship. It was a one-way mirror. R. could see her, and all she could see was her own reflection, tired and pale, with ink on her fingers.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_5-1793203484404.mp3
+> That's not fair. You know everything about me. Everything. The kite, Grandad, my bedroom, my mum's cooking. I don't know anything about you. Not your name, not your face, not if you're old or young, not why you care.
+> How do I know you're not just playing with me? How do I know this isn't some kind of experiment, and you're laughing at the stupid girl who believes a notebook?
+> Tell me who you are or leave me alone.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_6-1793203500566.mp3
+> I'm not laughing at you. I would never laugh at you.
+> If I tell you who I am, it won't work any more. I know that sounds like an excuse. It isn't. You'll understand one day, I promise.
+> Please, Ros. Not this week. You have Emily Brontë on Friday. Practise. Call your mum on Wednesday and tell her about the presentation; she'll be so happy you told her. Sleep.
+> — R.
+
+It was the instructions that did it. Practise. Call your mum. Sleep. As if R. were her teacher, her parent, her owner. Rosalind felt something snap inside her, a thin cord that had been stretched too far. She pressed the pen so hard that it tore the paper.
+
+> Stop running my life.
+> You're not my mum. You're not Grandad. You're not anybody. You're ink.
+> I'll do Friday on my own. I don't need you.
+> Goodbye.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_7-1793203512150.mp3
+She did not wait for an answer. She closed the notebook, wrapped the elastic band round it twice, and went downstairs in her socks. The house was dark and silent; even Ines was asleep. Rosalind opened the back door. Outside, it was raining hard, and the yard smelled of wet bricks and rubbish. She lifted the lid of the blue recycling bin, the one for paper and cardboard, and dropped the green notebook inside, on top of a pile of pizza boxes and old newspapers. The lid closed with a hollow sound. She stood there in the rain for a moment, waiting to feel better. Then she went back to bed.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_8-1793203523477.mp3
+The strange thing was that, the next morning, she did feel better. Lighter. Like someone who has finally put down a bag they did not know they were carrying. Nobody was watching her now. Nobody was waiting for her report in the evening. If she failed on Friday, she would fail alone, and nobody would be disappointed in green ink. She went to her lectures. She ate lunch with Femi, who drew her a cartoon of the lecturer as a sleepy owl. She even answered a question in a lecture, not because R. had told her to, but because she knew the answer and felt like saying it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_9-1793203533785.mp3
+On Wednesday, at seven o'clock exactly, her mum phoned. Rosalind almost did not mention the presentation, just to prove that she did not do what R. said. But in the end she told her anyway, because it was true and because she wanted to. Her mum went quiet on the other end of the line. Then she said, in a voice that was not quite steady, "Your grandad would be so proud of you, love. Standing up in front of all those clever people." Rosalind had to sit down on the stairs. R. had been right, again. It was very annoying.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_10-1793203544557.mp3
+That night, at eleven o'clock, her hand reached for the desk drawer before she remembered. For weeks, the last thing she had done every day was open the green notebook and write a few lines: a small victory, a fear, a question. Now there was nothing to open. She took a sheet of printer paper instead and wrote "Wednesday" at the top, in her neatest handwriting. Then she sat and looked at it. Nothing happened, of course. Nothing appeared under her words. The page stayed white and flat and silent, like any other page in the world, and she understood for the first time how much she had been talking to somebody, and how much she had been listened to.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_11-1793203550783.mp3
+She crumpled the paper into a ball and threw it at the bin, and missed. "Fine," she said out loud, to nobody. "Fine." Then she switched off the light and lay in the dark, practising her first sentence under her breath, and trying very hard not to wonder whether, somewhere, somebody was sitting in front of an empty page too, waiting for her to write.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_12-1793203560025.mp3
+Rehearsals with Ines continued. On Thursday, after pasta night, Rosalind did the whole presentation from beginning to end, ten minutes and twenty seconds, without stopping once. Ines stood up on the sofa and applauded like a football crowd, and then asked her five horrible questions in a fake English accent, and Rosalind answered all five. "You see?" said Ines, out of breath from laughing. "You are a lion. Femi is right." Rosalind had shown her the cartoon. It was the only secret she had told her.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_13-1793203569593.mp3
+On Friday morning, she woke up at five and could not go back to sleep. She showered, dressed, changed her clothes twice and ate half a piece of toast. At the door, Ines was waiting in her dressing gown with a cup of coffee. She hugged Rosalind so hard that the coffee nearly went everywhere. "Breathe before the first sentence," Ines said. "Not after." Rosalind stared at her. It was exactly what R. had written, weeks ago. "Where did you hear that?" "I don't know," said Ines, surprised. "It's just true, no?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_14-1793203579454.mp3
+Room 14 was warm and smelled of wet coats, as always. Rosalind was the third to present, after Harriet, whose Tennyson slides were very beautiful and very long, and a boy who talked so fast that nobody understood anything. Then Dr Pell said, "Rosalind?" and she stood up. Her legs felt like they belonged to somebody else. She walked to the front of the room. She put her notes on the table. Twelve faces looked at her. Callum gave her a tiny thumbs-up under the table. Femi was drawing something. She breathed before the first sentence. Not after.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_15-1793203589033.mp3
+It was not perfect. Her voice shook for the first minute, and she spoke too fast, and at one point, in the middle of the fourth minute, she lost her place completely. The silence came, the long terrible silence she had imagined fourteen times. Her mind went white. And then, without thinking, she looked down at the poem and read the line in front of her, aloud, slowly. The poem was on her side. The words came back. She found her place. She continued. She finished at nine minutes and forty seconds, and looked up, and nobody had died.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_16-1793203599895.mp3
+The questions were hard. Harriet asked something long and complicated about religion in Victorian poetry, and Rosalind did not know the whole answer, so she said so, and then said what she did know, and Dr Pell nodded. Callum asked an easy question on purpose, she was sure of it, and she answered it well. At the end, Dr Pell wrote in her notebook for a long time. "Good," she said finally. "Genuinely good, Rosalind. Next time, look up from your notes more. You have things worth saying. Let us see your face when you say them."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_17-1793203610737.mp3
+Afterwards, everybody went to The Lantern to celebrate the end of the presentations, and Callum bought her a hot chocolate with cream and marshmallows, "the hero's drink". Femi gave her the drawing he had been doing during her presentation: the red-haired lion again, this time standing on top of a mountain of books. Rosalind laughed and talked and felt, for the first time in Durham, completely at home. And in the middle of all the noise and warmth, a thought arrived, quietly, like a cold draught under a door: she wanted to tell R.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_18-1793203618607.mp3
+She had done it alone. That was true. But it was not completely true. R. had given her the breathing, the friendly face, the poem that was always on her side. R. had sent her to Ines. R. had been angry when she wanted to give up. She had said, "You're ink." She had said, "Goodbye." She had dropped the notebook into a bin full of pizza boxes in the rain. Suddenly, the hot chocolate tasted of nothing at all.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_6.page_19-1793203629293.mp3
+She left the café without explaining and ran all the way back to Hallgarth Street, through the market, over the bridge, up the hill, her bag banging against her side. She went straight through the house to the back door and out into the yard. The blue bin was there, against the wall. She lifted the lid. It was empty. Completely empty. On the pavement outside, a sticker on the next-door bin said, in cheerful letters: COLLECTED FRIDAY MORNING. THANK YOU FOR RECYCLING!
+Rosalind sat down on the wet step, in the yard that smelled of bricks and rain, and for a long time she did not move at all.
