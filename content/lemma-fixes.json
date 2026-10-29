@@ -1460,6 +1460,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "gran",
+      "pos": "PROPN",
+      "word": "gran",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "grandad",
       "pos": "X",
       "word": "grandad",
@@ -1624,6 +1630,12 @@
     {
       "text": "hers",
       "pos": "NOUN",
+      "word": "hers",
+      "lemmaPos": "PRON"
+    },
+    {
+      "text": "Hers",
+      "pos": "PROPN",
       "word": "hers",
       "lemmaPos": "PRON"
     },
@@ -2039,6 +2051,13 @@
       "pos": "NOUN",
       "word": "lift",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "lift",
+      "pos": "NOUN",
+      "next": ".",
+      "word": "lift",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "lifting",
@@ -2994,6 +3013,12 @@
       "pos": "PROPN",
       "word": "red",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "REGAL",
+      "pos": "NOUN",
+      "word": "Regal",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "rehearse",
@@ -4105,6 +4130,13 @@
       "pos": "VERB",
       "word": "uninstall",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "University",
+      "pos": "PROPN",
+      "next": "!",
+      "word": "university",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Unlicensed",

@@ -2,6 +2,7 @@
 title: The Last Bus to Ravensby
 level: B1
 summary: Callum Reddaway hates Halloween. When he misses the party and the last bus to his grandmother's village, an old green double-decker appears out of the fog, with a strange driver and passengers in costume. Destination: Ravensby.
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b1-the-last-bus-to-ravensby/1793302322642.png
 ---
 
 # The Last Bus
@@ -36,3 +37,36 @@ Callum smiled for the first time that evening. He didn't know any bus number 31,
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-last-bus-to-ravensby/chapter_1.page_5-1793300870630.mp3
 "Ravensby?" asked Callum. "Ravensby," said the driver. "Last bus tonight, young man. Hop on." Callum climbed onto the platform and held out a two-pound coin. The driver looked at the coin for a long moment, turned it in his fingers, and frowned. Then he shrugged, put it in a leather bag and turned a handle on a strange metal machine hanging from his neck. A small paper ticket came out. "Mind the step," he said. On the ticket, in faded purple ink, Callum read: Fare 1s. 6d.
 He laughed quietly. One shilling and sixpence: old money, from before 1971. These people had really thought of every detail. He walked down the aisle. The bus was almost full, and all the passengers were in costume. A young man in an old army uniform. A woman with a huge bun of hair, knitting something red. A couple in long coats and hats. And near the back, alone by the window, a girl of about sixteen in a yellow raincoat, holding a strange lantern on her knees. The seat next to her was free. Callum sat down, and the bus drove into the fog.
+
+# The Girl with the Lantern
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-last-bus-to-ravensby/chapter_2.page_1-1793302524367.mp3
+The inside of the bus smelled of old leather, wet coats and cigarette smoke. The seats were covered in a green and brown fabric, and the windows had small curtains. Yellow lamps on the ceiling gave a soft, warm light. Somewhere at the front, a bell rang twice, and the bus turned out of the station. Callum looked at the girl next to him. She had short dark hair, freckles on her nose and very bright, curious eyes. She was looking at his black cape with great interest.
+"Are you going to a party?" she asked. "I was," said Callum. "But I missed my lift. So now I'm going to my nan's house." The girl laughed. "Me too, in a way. I'm going home to my little sister. She's ten, and she made me promise to be back before midnight. We always light the lanterns together on Halloween." She lifted the strange object on her knees. It was not a pumpkin. It was a big round vegetable, white and purple, with a scary face carved into it and a candle inside.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-last-bus-to-ravensby/chapter_2.page_2-1793302538594.mp3
+"Is that a turnip?" asked Callum. "Of course it's a turnip," said the girl, surprised. "What else? My dad grows them in the garden. It took me two hours to carve it. Look, it has real teeth." She smiled proudly. Callum didn't want to be rude, so he said nothing about pumpkins. He had read somewhere that, before pumpkins became popular, people in England and Scotland used turnips for Halloween lanterns. Again, he thought, these actors had really done their homework.
+"My sister helped me choose the face," Dot went on. "She wanted a happy one, but I said Halloween lanterns must be scary, or the bad spirits will come into the house. That's what our gran told us. You put the lantern in the window, and the spirits see the ugly face and run away. My sister is carving her own lantern at home tonight. Hers is going to be very small, because she's not allowed to use the big knife." She laughed. "Every year she says she's going to make the scariest lantern in the village. Every year it looks like a smiling potato."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-last-bus-to-ravensby/chapter_2.page_3-1793302553809.mp3
+"I'm Dot, by the way," said the girl, and she held out her hand. "Dorothy, really, but nobody calls me that except my teachers and the vicar." "Callum," he said, and shook her hand. It was very cold, colder than the night outside. "Callum? That's a Scottish name. Are you Scottish?" "No, my mum just liked it." Dot nodded seriously, as if this was important information. Then she asked him what he did, and he told her about the university and his engineering course.
+"University!" said Dot. "You must be very clever. I left school at fifteen. I work in a dress shop on the high street in Wetherholme. It's boring, but I'm saving my money. Next year I want to go to London. Everybody is in London now. The music, the clothes, everything. Have you heard the new Beatles record? My friend Sheila has it. We listened to it ten times on Sunday." Callum smiled. "Which one?" "The new one, silly! The one that came out in the summer."
+At that moment, the young man in the army uniform turned around in his seat. He had red ears and a friendly face.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-last-bus-to-ravensby/chapter_2.page_4-1793302570880.mp3
+"Don't listen to her, mate," he said. "She talks about the Beatles all day long. I'm Eddie. Eddie Larkin. I'm going home on leave. Three whole days! My mum is making a steak and kidney pie." He showed Callum a photo of a young woman with a big smile. "That's my girl, Pauline. I'm going to ask her to marry me tomorrow. Don't tell anyone."
+Callum promised not to tell anyone. He was starting to enjoy himself. These people were very good. Nobody ever stopped playing their role. The woman with the big bun of hair, Mrs Bramwell, offered him a peppermint from a paper bag. The couple in the long coats talked quietly about the price of coal. The driver whistled an old song. And outside, through the fog, the lights of Wetherholme went past the window slowly, like lights under water.
+The bus stopped at a place called Tanner's Row. Nobody got on and nobody got off. Callum looked out of the window and felt a small, cold shock in his stomach. On the other side of the street, there was a cinema. Its name, THE REGAL, was written in pink and blue lights, and people in hats were coming out of the doors, laughing.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-last-bus-to-ravensby/chapter_2.page_5-1793302585989.mp3
+But Callum knew this street. He walked down it every week. There was no cinema here. There was a big, ugly supermarket with a car park.
+"Dot," he said slowly. "That cinema. Has it always been there?" Dot looked at him as if he was a little strange. "The Regal? Since before I was born. My mum and dad had their first date there." Callum didn't answer. He told himself that it was a decoration, that the bus company had organised everything, that it was all part of the show. It was Halloween, after all. People did crazy things for Halloween. But a small voice in his head said: nobody builds a whole cinema for a bus ride.
+The bus started again. Callum looked up at the small round clock above the driver's head. It said 23:47. He watched it for a long time while Dot talked about her sister, her favourite dress and a boy called Roy who was "really not her type". The bus left the town and climbed onto the dark road across the moor. Dot laughed, Eddie sang, Mrs Bramwell knitted. And the clock above the driver still said 23:47. The hands did not move at all.

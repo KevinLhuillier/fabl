@@ -378,6 +378,12 @@
       "example": "A reporter in a yellow jacket was standing in Ashley Road, in front of the blackened windows of the flats, saying that the fire brigade had praised the \"incredibly calm and professional\" actions of the unknown man and were asking him to come forward."
     },
     {
+      "word": "actor",
+      "pos": "NOUN",
+      "translation": "l'acteur, le comédien",
+      "example": "Again, he thought, these actors had really done their homework."
+    },
+    {
       "word": "actual",
       "pos": "ADJ",
       "translation": "vrai, réel (≠ « actuel »)",
@@ -765,6 +771,12 @@
       "pos": "PHRASE",
       "translation": "tout seul",
       "example": "After forty minutes and a dozen failures, it rolled ten centimetres across his desk, all by itself, and dropped onto the carpet."
+    },
+    {
+      "word": "all day long",
+      "pos": "PHRASE",
+      "translation": "toute la journée, à longueur de journée",
+      "example": "\"She talks about the Beatles all day long.\""
     },
     {
       "word": "all kinds of",
@@ -2509,6 +2521,12 @@
       "example": "He sat and breathed and listened, the way he had on the ice, and for a long and terrible moment he heard nothing but the crackle of the fire and the beating of his own heart."
     },
     {
+      "word": "Beatles",
+      "pos": "PROPN",
+      "translation": "les Beatles (groupe de rock de Liverpool, années 1960)",
+      "example": "Have you heard the new Beatles record?"
+    },
+    {
       "word": "Beaton",
       "pos": "PROPN",
       "translation": "Beaton (nom de famille)",
@@ -3654,6 +3672,12 @@
       "example": "Ten paces behind him, Uncle Bram lowered his axe, wiped his brow with a forearm as thick as a fencepost, and waited."
     },
     {
+      "word": "Bramwell",
+      "pos": "PROPN",
+      "translation": "Bramwell (nom de famille)",
+      "example": "The woman with the big bun of hair, Mrs Bramwell, offered him a peppermint from a paper bag."
+    },
+    {
       "word": "branch",
       "pos": "NOUN",
       "translation": "la branche",
@@ -4342,6 +4366,12 @@
       "pos": "PHRASE",
       "translation": "à en juger par son allure, apparemment",
       "example": "Came across the causeway on foot, in this weather, if you can believe it — walked the whole way up from the south, by the look of him."
+    },
+    {
+      "word": "by the way",
+      "pos": "PHRASE",
+      "translation": "au fait, d'ailleurs",
+      "example": "\"I'm Dot, by the way,\" said the girl, and she held out her hand."
     },
     {
       "word": "by themselves",
@@ -5596,6 +5626,12 @@
       "pos": "PROPN",
       "translation": "Cinder (« cendre » ; « the Cinder Marches » : les Marches de Cendre, région)",
       "example": "Twins from the Cinder Marches, both Fire: root, drop, root, drop."
+    },
+    {
+      "word": "cinema",
+      "pos": "NOUN",
+      "translation": "le cinéma (la salle)",
+      "example": "On the other side of the street, there was a cinema."
     },
     {
       "word": "cinnamon",
@@ -8700,6 +8736,12 @@
       "example": "Do you see a cat? — Est-ce que tu vois un chat ?"
     },
     {
+      "word": "do their homework",
+      "pos": "PHRASE",
+      "translation": "faire leurs devoirs ; ici : bien se préparer, bien se documenter",
+      "example": "Again, he thought, these actors had really done their homework."
+    },
+    {
       "word": "doctor",
       "pos": "NOUN",
       "translation": "le médecin",
@@ -8760,10 +8802,22 @@
       "example": "An old man stood in the doorway, wearing a brown dressing gown."
     },
     {
+      "word": "Dorothy",
+      "pos": "PROPN",
+      "translation": "Dorothy (prénom ; « Dot » en est le diminutif)",
+      "example": "\"Dorothy, really, but nobody calls me that except my teachers and the vicar.\""
+    },
+    {
       "word": "dot",
       "pos": "NOUN",
       "translation": "le point",
       "example": "Then she took the marker from his desk, and at the very beginning of the line, right next to TODAY, she drew a tiny, very small dot."
+    },
+    {
+      "word": "Dot",
+      "pos": "PROPN",
+      "translation": "Dot (diminutif de Dorothy)",
+      "example": "\"I'm Dot, by the way,\" said the girl, and she held out her hand."
     },
     {
       "word": "double",
@@ -9508,6 +9562,12 @@
       "pos": "NOUN",
       "translation": "l'économie",
       "example": "That Tuesday, Inès had her laptop open next to her tray, as usual, and was explaining to nobody in particular why the latest update of their favourite online game had wrecked its economy."
+    },
+    {
+      "word": "Eddie",
+      "pos": "PROPN",
+      "translation": "Eddie (prénom)",
+      "example": "I'm Eddie. Eddie Larkin."
     },
     {
       "word": "edge",
@@ -10534,6 +10594,12 @@
       "example": "With thanks, F.C."
     },
     {
+      "word": "fabric",
+      "pos": "NOUN",
+      "translation": "le tissu",
+      "example": "The seats were covered in a green and brown fabric, and the windows had small curtains."
+    },
+    {
       "word": "face",
       "pos": "NOUN",
       "translation": "le visage",
@@ -11348,6 +11414,12 @@
       "pos": "ADV",
       "translation": "d'abord",
       "example": "At first, nobody listened to him."
+    },
+    {
+      "word": "first date",
+      "pos": "PHRASE",
+      "translation": "le premier rendez-vous (amoureux)",
+      "example": "\"My mum and dad had their first date there.\""
     },
     {
       "word": "first round",
@@ -12308,6 +12380,12 @@
       "pos": "NOUN",
       "translation": "le monstre, le phénomène de foire (insulte : « les tarés »)",
       "example": "Not an official one, of course, but everyone knew that the small table at the back of the canteen, next to the radiator that never worked, belonged to \"the freaks\"."
+    },
+    {
+      "word": "freckle",
+      "pos": "NOUN",
+      "translation": "la tache de rousseur",
+      "example": "She had short dark hair, freckles on her nose and very bright, curious eyes."
     },
     {
       "word": "freckle",
@@ -17326,6 +17404,12 @@
       "example": "He just kept his hands up the way he had seen Frank show the kids at the gym, and he kept walking forward."
     },
     {
+      "word": "kidney",
+      "pos": "NOUN",
+      "translation": "le rein ; (cuisine) le rognon",
+      "example": "My mum is making a steak and kidney pie."
+    },
+    {
       "word": "kill",
       "pos": "VERB",
       "translation": "tuer",
@@ -17764,6 +17848,12 @@
       "example": "The thought was so large that he could not hold all of it at once; it kept slipping out of his grip like a wet fish."
     },
     {
+      "word": "Larkin",
+      "pos": "PROPN",
+      "translation": "Larkin (nom de famille)",
+      "example": "I'm Eddie. Eddie Larkin."
+    },
+    {
       "word": "lash",
       "pos": "VERB",
       "translation": "arrimer, attacher",
@@ -18062,6 +18152,12 @@
       "pos": "NOUN",
       "translation": "le cuir",
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "leave",
+      "pos": "NOUN",
+      "translation": "le congé, la permission (d'un soldat)",
+      "example": "I'm going home on leave."
     },
     {
       "word": "leave",
@@ -18392,6 +18488,12 @@
       "pos": "NOUN",
       "translation": "la vie (« a lifetime ago » : il y a une éternité)",
       "example": "One was the letter Rowan had already seen in the firelight, a lifetime ago: worn soft, its folds furred, Whatever happens, Bram showing faintly through the paper."
+    },
+    {
+      "word": "lift",
+      "pos": "NOUN",
+      "translation": "l'ascenseur ; ici : la personne qui devait m'emmener en voiture (« give somebody a lift » : emmener quelqu'un en voiture)",
+      "example": "\"But I missed my lift.\""
     },
     {
       "word": "lift",
@@ -21848,6 +21950,12 @@
       "example": "On its own."
     },
     {
+      "word": "on leave",
+      "pos": "PHRASE",
+      "translation": "en permission (soldat), en congé",
+      "example": "I'm going home on leave."
+    },
+    {
       "word": "on one hand",
       "pos": "PHRASE",
       "translation": "d'un côté, d'une part",
@@ -23047,6 +23155,12 @@
       "example": "Pepper!"
     },
     {
+      "word": "peppermint",
+      "pos": "NOUN",
+      "translation": "le bonbon à la menthe ; la menthe poivrée",
+      "example": "The woman with the big bun of hair, Mrs Bramwell, offered him a peppermint from a paper bag."
+    },
+    {
       "word": "per",
       "pos": "ADP",
       "translation": "par (« per cent » : pour cent)",
@@ -23899,6 +24013,12 @@
       "example": "After that, it happened all around the room, like popcorn in a pan."
     },
     {
+      "word": "popular",
+      "pos": "ADJ",
+      "translation": "populaire, à la mode",
+      "example": "He had read somewhere that, before pumpkins became popular, people in England and Scotland used turnips for Halloween lanterns."
+    },
+    {
       "word": "porch",
       "pos": "NOUN",
       "translation": "le porche",
@@ -24005,6 +24125,12 @@
       "pos": "NOUN",
       "translation": "la marmite",
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "potato",
+      "pos": "NOUN",
+      "translation": "la pomme de terre",
+      "example": "\"Every year it looks like a smiling potato.\""
     },
     {
       "word": "potted",
@@ -24503,6 +24629,12 @@
       "pos": "ADJ",
       "translation": "fier",
       "example": "Walter nodded, a little proud."
+    },
+    {
+      "word": "proudly",
+      "pos": "ADV",
+      "translation": "fièrement",
+      "example": "She smiled proudly."
     },
     {
       "word": "prove",
@@ -25382,7 +25514,7 @@
     {
       "word": "record",
       "pos": "NOUN",
-      "translation": "le registre ; (records) les archives ; le record (sport) ; la trace (« no record of » : aucune trace de)",
+      "translation": "le registre ; (records) les archives ; le record (sport) ; la trace (« no record of » : aucune trace de) ; le disque (de musique)",
       "example": "\"Between us, and the records we keep at Thornhall, we can account for every Marking in the Hollow Wilds for the past three centuries.\""
     },
     {
@@ -25480,6 +25612,12 @@
       "pos": "VERB",
       "translation": "refuser",
       "example": "But Edwin refused to leave, and in the end, the king agreed to see him."
+    },
+    {
+      "word": "Regal",
+      "pos": "PROPN",
+      "translation": "le Regal (nom du cinéma ; « regal » : royal)",
+      "example": "Its name, THE REGAL, was written in pink and blue lights, and people in hats were coming out of the doors, laughing."
     },
     {
       "word": "regally",
@@ -26610,6 +26748,12 @@
       "example": "Watching the rowers on the river pull their long boats through the brown water, all together, in perfect time."
     },
     {
+      "word": "Roy",
+      "pos": "PROPN",
+      "translation": "Roy (prénom)",
+      "example": "He watched it for a long time while Dot talked about her sister, her favourite dress and a boy called Roy who was \"really not her type\"."
+    },
+    {
       "word": "royal",
       "pos": "ADJ",
       "translation": "royal",
@@ -26632,6 +26776,12 @@
       "pos": "NOUN",
       "translation": "les ordures, les déchets",
       "example": "At that moment, the blue door opened, and a young woman came out with a bag of rubbish."
+    },
+    {
+      "word": "rude",
+      "pos": "ADJ",
+      "translation": "impoli, grossier",
+      "example": "Callum didn't want to be rude, so he said nothing about pumpkins."
     },
     {
       "word": "rue",
@@ -26710,6 +26860,12 @@
       "pos": "VERB",
       "translation": "courir",
       "example": "She runs to the park. — Elle court au parc."
+    },
+    {
+      "word": "run away",
+      "pos": "PHRASE",
+      "translation": "s'enfuir, se sauver",
+      "example": "You put the lantern in the window, and the spirits see the ugly face and run away."
     },
     {
       "word": "run down",
@@ -28030,6 +28186,12 @@
       "pos": "NOUN",
       "translation": "la feuille (de papier) ; le drap",
       "example": "Pinned to the board beside the shrine was a sheet of heavy cream paper bearing the seal of Thornhall: a thorned branch encircling a well."
+    },
+    {
+      "word": "Sheila",
+      "pos": "PROPN",
+      "translation": "Sheila (prénom)",
+      "example": "My friend Sheila has it."
     },
     {
       "word": "shelf",
@@ -30436,6 +30598,18 @@
       "pos": "ADJ",
       "translation": "ferme, assuré",
       "example": "\"I swear it,\" Edwin answered, his voice steady."
+    },
+    {
+      "word": "steak",
+      "pos": "NOUN",
+      "translation": "le steak, le bifteck ; (en ragoût) le bœuf",
+      "example": "My mum is making a steak and kidney pie."
+    },
+    {
+      "word": "steak and kidney pie",
+      "pos": "PHRASE",
+      "translation": "la tourte au bœuf et aux rognons (plat britannique traditionnel)",
+      "example": "My mum is making a steak and kidney pie."
     },
     {
       "word": "steal",
@@ -33879,6 +34053,12 @@
       "pos": "PROPN",
       "translation": "Tyne (zone de la mer du Nord, dans le bulletin météo marine)",
       "example": "The radio offered him the shipping forecast — Tyne, Dogger, Fisher, German Bight — recited in the hushed, liturgical cadence he had always found more soothing than any music."
+    },
+    {
+      "word": "type",
+      "pos": "NOUN",
+      "translation": "le type, le genre (« not her type » : pas son genre)",
+      "example": "He watched it for a long time while Dot talked about her sister, her favourite dress and a boy called Roy who was \"really not her type\"."
     },
     {
       "word": "type",
