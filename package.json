@@ -15,6 +15,8 @@
     "generate-audio": "npm run generate-audio -w publish --",
     "generate-word-audio": "npm run generate-word-audio -w publish --",
     "seed-translations": "npm run seed-translations -w publish --",
+    "store-graphics": "npm run store-graphics -w store --",
+    "store-screenshots": "npm run store-screenshots -w store --",
     "lint": "npm run lint --workspaces --if-present",
     "typecheck": "npm run typecheck --workspaces --if-present",
     "format": "prettier --write ."

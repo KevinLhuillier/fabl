@@ -1,0 +1,13 @@
+{
+  "name": "store",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "store-graphics": "node src/graphics.mjs",
+    "store-screenshots": "node src/screenshots.mjs"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^23.11.1"
+  }
+}
