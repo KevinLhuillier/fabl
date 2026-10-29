@@ -98,7 +98,7 @@ export default function Vocabulary() {
               <Card tint={{ face: colors.primarySoft, edge: colors.primary }}>
                 <View style={styles.reviewRow}>
                   <Icon icon={dueCount ? Brain : Sparkles} size={28} color={colors.primary} />
-                  <View style={styles.flex}>
+                  <View style={styles.reviewText}>
                     <Text variant="heading">
                       {dueCount ? t.vocabulary.toReview(dueCount) : t.vocabulary.allReviewed}
                     </Text>
@@ -110,6 +110,7 @@ export default function Vocabulary() {
                     label={dueCount ? t.vocabulary.review : t.vocabulary.practice}
                     disabled={!items?.length}
                     onPress={() => router.push('/review')}
+                    style={styles.reviewButton}
                   />
                 </View>
               </Card>
@@ -259,8 +260,12 @@ const styles = StyleSheet.create({
   safe: { flex: 1, backgroundColor: colors.background },
   content: { padding: spacing.xl, gap: spacing.md, paddingBottom: spacing.xxxl },
   header: { gap: spacing.lg, marginBottom: spacing.sm },
-  reviewRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
-  flex: { flex: 1 },
+  // Wraps when the text would get less than a long word's width beside the button
+  // (German "wiederholen" ≈ 120): the button then goes under the text, full width,
+  // instead of breaking words.
+  reviewRow: { flexDirection: 'row', flexWrap: 'wrap', alignItems: 'center', gap: spacing.md },
+  reviewText: { flexGrow: 999, flexShrink: 1, flexBasis: 120 },
+  reviewButton: { flexGrow: 1 },
   empty: { marginTop: spacing.xl },
   cardTop: { flexDirection: 'row', alignItems: 'flex-start', gap: spacing.sm },
   // Height of the word's first line (the speaker button), so the bin stays level with it.
