@@ -5,10 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="google-site-verification" content="WOW7FAAcDZXQlHICTPu9-qziDt0kELmx7pw4z3ytflg" />
     <title>Taleway — Apprends l'anglais avec des histoires</title>
-    <meta
-      name="description"
-      content="Taleway : apprends l'anglais grâce à des mini-histoires interactives, du niveau A1 au C2."
-    />
+    <meta name="description" content="Taleway : apprends l'anglais grâce à des mini-histoires interactives, du niveau A1 au C2." />
+    <link rel="alternate" hreflang="fr" href="https://fabl-site.vercel.app/" />
+    <link rel="alternate" hreflang="en" href="https://fabl-site.vercel.app/en" />
+    <link rel="alternate" hreflang="es" href="https://fabl-site.vercel.app/es" />
+    <link rel="alternate" hreflang="de" href="https://fabl-site.vercel.app/de" />
+    <link rel="alternate" hreflang="it" href="https://fabl-site.vercel.app/it" />
+    <link rel="alternate" hreflang="pt" href="https://fabl-site.vercel.app/pt" />
+    <link rel="alternate" hreflang="x-default" href="https://fabl-site.vercel.app/en" />
     <link rel="icon" href="/favicon.png" />
     <link rel="stylesheet" href="/styles.css" />
   </head>
@@ -16,10 +20,13 @@
     <header>
       <div class="wrap">
         <a class="brand" href="/"><img src="/icon.png" alt="" />Taleway</a>
-        <nav>
-          <a href="/confidentialite">Confidentialité</a>
-          <a href="/contact">Contact</a>
-        </nav>
+        <div class="header-end">
+          <nav class="links">
+            <a href="/confidentialite">Confidentialité</a>
+            <a href="/contact">Contact</a>
+          </nav>
+          <nav class="langs" aria-label="Langue"><a href="/" hreflang="fr" lang="fr" title="Français" aria-current="page">FR</a><a href="/en" hreflang="en" lang="en" title="English">EN</a><a href="/es" hreflang="es" lang="es" title="Español">ES</a><a href="/de" hreflang="de" lang="de" title="Deutsch">DE</a><a href="/it" hreflang="it" lang="it" title="Italiano">IT</a><a href="/pt" hreflang="pt" lang="pt" title="Português">PT</a></nav>
+        </div>
       </div>
     </header>
 
@@ -34,7 +41,7 @@
           </p>
           <span class="badge">Bientôt sur Google Play</span>
         </section>
-
+      
         <section class="features">
           <div class="card">
             <h2><span class="dot" style="background: var(--violet)"></span>Des histoires</h2>

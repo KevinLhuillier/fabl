@@ -8,7 +8,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { BrandGradient } from '@/components/BrandGradient';
 import { CoffeeCup } from '@/components/CoffeeCup';
-import { useI18n, type Messages } from '@/i18n';
+import { useI18n, type Lang, type Messages } from '@/i18n';
 import { usePremium } from '@/lib/premium';
 import {
   Badge,
@@ -28,6 +28,12 @@ import {
 } from '@/theme';
 
 const SITE = 'https://fabl-site.vercel.app';
+
+/** The site's pages in the interface language (French at the root, the others under /<lang>). */
+function siteUrl(lang: Lang, page: 'privacy' | 'legal') {
+  if (lang === 'fr') return `${SITE}/${page === 'privacy' ? 'confidentialite' : 'mentions-legales'}`;
+  return `${SITE}/${lang}/${page}`;
+}
 
 type Period = keyof Messages['premium']['periods'];
 const PERIOD_ORDER: Period[] = [
@@ -71,7 +77,7 @@ function annualSaving(packages: PurchasesPackage[]): number | null {
 /** The premium offer: what it gives, the plans of the current RevenueCat offering, restore. */
 export default function Paywall() {
   const router = useRouter();
-  const { t } = useI18n();
+  const { t, lang } = useI18n();
   const p = t.premium;
   const { premium, subscription, storeAvailable, managementUrl, loadPackages, purchase, restore } =
     usePremium();
@@ -258,7 +264,7 @@ export default function Paywall() {
                 variant="caption"
                 color={colors.textSecondary}
                 style={styles.link}
-                onPress={() => Linking.openURL(`${SITE}/confidentialite`)}>
+                onPress={() => Linking.openURL(siteUrl(lang, 'privacy'))}>
                 {p.privacy}
               </Text>
               <Text variant="caption" color={colors.textMuted}>
@@ -268,7 +274,7 @@ export default function Paywall() {
                 variant="caption"
                 color={colors.textSecondary}
                 style={styles.link}
-                onPress={() => Linking.openURL(`${SITE}/mentions-legales`)}>
+                onPress={() => Linking.openURL(siteUrl(lang, 'legal'))}>
                 {p.legalNotice}
               </Text>
             </View>
