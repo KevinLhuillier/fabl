@@ -32,6 +32,12 @@
       "example": "There were two rings, a row of heavy bags hanging from chains, faded posters of fighters from the 1980s and a hand-painted sign above the door that said: NOBODY IS BORN TOUGH."
     },
     {
+      "word": "31st",
+      "pos": "NOUN",
+      "translation": "31 («31st October», «the 31st of October»: il 31 ottobre)",
+      "example": "And at the top of the page, in small black letters, he read the date: Monday, 31st October 1966."
+    },
+    {
       "word": "a",
       "pos": "DET",
       "translation": "un, una",
@@ -502,6 +508,12 @@
       "pos": "NOUN",
       "translation": "il consiglio",
       "example": "TEST 10: he followed the pencil's advice, relaxed his wrist and slowed the gesture down until it felt almost lazy."
+    },
+    {
+      "word": "advise",
+      "pos": "VERB",
+      "translation": "consigliare («are advised to»: si consiglia di)",
+      "example": "Drivers are advised to stay at home."
     },
     {
       "word": "adviser",
@@ -2329,6 +2341,12 @@
       "example": "In summer, swallows came to Ellerdale from Africa and built their nests under roofs, in barns, in old buildings."
     },
     {
+      "word": "barracks",
+      "pos": "NOUN",
+      "translation": "la caserma",
+      "example": "I watched the final in the barracks with two hundred other lads."
+    },
+    {
       "word": "barrier",
       "pos": "NOUN",
       "translation": "la barriera",
@@ -3070,6 +3088,12 @@
       "pos": "NOUN",
       "translation": "il prugnolo",
       "example": "He was small and bent nearly double, like a tree that has grown for a century against the wind, and he leaned on a stick of polished blackthorn as gnarled as his own knuckles."
+    },
+    {
+      "word": "Blackwater",
+      "pos": "PROPN",
+      "translation": "Blackwater (nome del ponte; «black water»: acqua nera)",
+      "example": "\"Blackwater Bridge, of course,\" said Dot."
     },
     {
       "word": "blade",
@@ -6996,6 +7020,18 @@
       "example": "That meant Fellside, the small cottage hospital above the village, where old people went after an operation or a fall."
     },
     {
+      "word": "cotton",
+      "pos": "NOUN",
+      "translation": "il cotone",
+      "example": "Only the fog, thick and white, pressing against the windows like cotton wool."
+    },
+    {
+      "word": "cotton wool",
+      "pos": "PHRASE",
+      "translation": "l'ovatta, il cotone idrofilo",
+      "example": "Only the fog, thick and white, pressing against the windows like cotton wool."
+    },
+    {
       "word": "cough",
       "pos": "NOUN",
       "translation": "la tosse",
@@ -10228,6 +10264,12 @@
       "example": "That evening, they found shelter at a small inn called the Crooked Crown."
     },
     {
+      "word": "evening post",
+      "pos": "PHRASE",
+      "translation": "il giornale della sera (qui, il suo nome: «Evening Post»)",
+      "example": "It was the Wetherholme Evening Post."
+    },
+    {
       "word": "event",
       "pos": "NOUN",
       "translation": "l'evento («in the event»: alla fine)",
@@ -11248,6 +11290,12 @@
       "example": "I can't find my cat. — Non trovo il mio gatto."
     },
     {
+      "word": "find her way",
+      "pos": "PHRASE",
+      "translation": "trovare la strada («find her way home»: ritrovare la strada di casa)",
+      "example": "\"It's for Dot. So she can find her way home.\""
+    },
+    {
       "word": "find out",
       "pos": "PHRASE",
       "translation": "scoprire",
@@ -11816,6 +11864,12 @@
       "pos": "VERB",
       "translation": "piegare",
       "example": "Inside lay a folded letter, its paper yellowed with age, and pressed flat between its pages was a single leaf — not oak, not ash, not any tree Rowan knew, but long and silvery and veined with the faintest trace of gold."
+    },
+    {
+      "word": "fold in two",
+      "pos": "PHRASE",
+      "translation": "piegare in due",
+      "example": "Under the seat in front of him, there was a newspaper, folded in two."
     },
     {
       "word": "fold up",
@@ -14984,6 +15038,12 @@
       "example": "They call themselves the Heirs."
     },
     {
+      "word": "helicopter",
+      "pos": "NOUN",
+      "translation": "l'elicottero",
+      "example": "The police looked for it for weeks, with dogs and men and even a helicopter, but they never found the bus, the driver or any of the passengers."
+    },
+    {
       "word": "hello",
       "pos": "INTJ",
       "translation": "ciao",
@@ -17214,7 +17274,7 @@
     {
       "word": "June",
       "pos": "PROPN",
-      "translation": "giugno",
+      "translation": "giugno ; June (nome)",
       "example": "And in June you go home to Kettlewell and tell everyone that university \"wasn't for you\"."
     },
     {
@@ -17486,6 +17546,12 @@
       "pos": "PROPN",
       "translation": "Kingussie (villaggio delle Highlands)",
       "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
+    },
+    {
+      "word": "Kirk",
+      "pos": "PROPN",
+      "translation": "Kirk (in «Kirk Moor», nome di un luogo nella brughiera; «kirk»: chiesa, in scozzese)",
+      "example": "Through the fog, Callum saw a small wooden sign: KIRK MOOR."
     },
     {
       "word": "Kirkgate",
@@ -18092,6 +18158,12 @@
       "pos": "PHRASE",
       "translation": "chinarsi, piegarsi",
       "example": "He leaned down, very slightly."
+    },
+    {
+      "word": "lean forward",
+      "pos": "PHRASE",
+      "translation": "sporgersi in avanti, chinarsi in avanti",
+      "example": "He leaned forward and touched Eddie's shoulder."
     },
     {
       "word": "lean in",
@@ -18871,6 +18943,12 @@
       "word": "look forward to",
       "pos": "PHRASE",
       "translation": "non vedere l'ora di"
+    },
+    {
+      "word": "look like",
+      "pos": "PHRASE",
+      "translation": "sembrare, assomigliare a («You look like you've seen a ghost»: sembra che tu abbia visto un fantasma)",
+      "example": "\"You look like you've seen a ghost.\""
     },
     {
       "word": "look like death",
@@ -20350,7 +20428,7 @@
     {
       "word": "Moor",
       "pos": "PROPN",
-      "translation": "Moor (in «Rannoch Moor», vasta brughiera delle Highlands)",
+      "translation": "Moor («moor»: la brughiera; in nomi di luoghi: Rannoch Moor, Kirk Moor)",
       "example": "It was a precaution that had been drilled into him forty years earlier by an old Glaswegian driver who, he swore, had once found two men asleep for ever in a snowbound cab on Rannoch Moor, and Gideon had never forgotten the flat, matter-of-fact way in which he had told the story."
     },
     {
@@ -25021,6 +25099,12 @@
       "example": "\"Whoever did this was not hungry,\" he said quietly."
     },
     {
+      "word": "Quill",
+      "pos": "PROPN",
+      "translation": "Quill (cognome dell'autista; «quill»: penna d'oca)",
+      "example": "In the mirror, he could see Mr Quill's eyes, and Mr Quill's eyes were looking at him."
+    },
+    {
       "word": "quilt",
       "pos": "NOUN",
       "translation": "la trapunta",
@@ -25510,6 +25594,12 @@
       "pos": "NOUN",
       "translation": "il ritrarsi, il rinculo",
       "example": "Each time, he felt the same thing: the reaching, the recoil, the clenching, the stillness."
+    },
+    {
+      "word": "recommend",
+      "pos": "VERB",
+      "translation": "raccomandare, consigliare",
+      "example": "There were advertisements for televisions in wooden boxes, for cigarettes \"recommended by doctors\" and for a new washing machine that cost forty-nine pounds."
     },
     {
       "word": "record",
@@ -27286,6 +27376,12 @@
       "pos": "ADV",
       "translation": "appena, a malapena",
       "example": "Empty, each cask weighed scarcely more than a grown man."
+    },
+    {
+      "word": "scare",
+      "pos": "VERB",
+      "translation": "spaventare",
+      "example": "When he was small, he thought it was for Halloween, to scare the witches."
     },
     {
       "word": "scared",
@@ -30582,6 +30678,12 @@
       "example": "If we stay together, we have a chance."
     },
     {
+      "word": "stay at home",
+      "pos": "PHRASE",
+      "translation": "restare a casa",
+      "example": "Drivers are advised to stay at home."
+    },
+    {
       "word": "stay on",
       "pos": "PHRASE",
       "translation": "restare, fermarsi (più a lungo)",
@@ -30796,6 +30898,12 @@
       "pos": "PROPN",
       "translation": "Stirling (città della Scozia)",
       "example": "Their names, he learned over the next ten minutes, were Alasdair and Isla Beaton, and they had been driving home to Newtonmore from a granddaughter's christening in Stirling when the snow had overtaken them."
+    },
+    {
+      "word": "stitch",
+      "pos": "NOUN",
+      "translation": "la maglia (lavoro a maglia); il punto (cucito)",
+      "example": "Mrs Bramwell was counting her stitches out loud, and nothing came out of her mouth either."
     },
     {
       "word": "stock",
@@ -31530,6 +31638,12 @@
       "example": "Water drew beads of dew across its surface, even on the driest day."
     },
     {
+      "word": "surname",
+      "pos": "NOUN",
+      "translation": "il cognome",
+      "example": "\"What's your surname?\""
+    },
+    {
       "word": "surprise",
       "pos": "NOUN",
       "translation": "la sorpresa",
@@ -32115,6 +32229,12 @@
       "pos": "NOUN",
       "translation": "l'insegnante, il maestro",
       "example": "Before me, my teacher did it for forty."
+    },
+    {
+      "word": "team",
+      "pos": "NOUN",
+      "translation": "la squadra",
+      "example": "On the front page there was a photo of a football team and a long article about a new road."
     },
     {
       "word": "tear",
@@ -33185,6 +33305,12 @@
       "example": "You saw a convoy of merchants travelling at night to avoid the tolls."
     },
     {
+      "word": "Tolley",
+      "pos": "PROPN",
+      "translation": "Tolley (cognome)",
+      "example": "\"Dorothy Tolley, from Ravensby.\""
+    },
+    {
       "word": "Tom",
       "pos": "PROPN",
       "translation": "Tom (nome)",
@@ -33873,6 +33999,12 @@
       "pos": "PHRASE",
       "translation": "girarsi, voltarsi",
       "example": "I turned around."
+    },
+    {
+      "word": "turn back",
+      "pos": "PHRASE",
+      "translation": "rigirarsi (in avanti), tornare; tornare indietro",
+      "example": "Then he turned back to his seat and started singing again."
     },
     {
       "word": "turn down",
@@ -35332,6 +35464,12 @@
       "example": "It was warm."
     },
     {
+      "word": "warm",
+      "pos": "VERB",
+      "translation": "scaldare, riscaldare",
+      "example": "Callum pulled his cape around his shoulders and breathed on his hands to warm them."
+    },
+    {
       "word": "warmly",
       "pos": "ADV",
       "translation": "calorosamente",
@@ -35606,6 +35744,12 @@
       "pos": "VERB",
       "translation": "segnare, consumare (dalle intemperie)",
       "example": "He had pictured himself here: felling dead oaks with Bram, sorting kindling, growing broad and quiet and weathered like the trees."
+    },
+    {
+      "word": "weather forecast",
+      "pos": "PHRASE",
+      "translation": "le previsioni del tempo, il meteo",
+      "example": "On page six, there was the weather forecast: \"Thick fog expected on the moors tonight."
     },
     {
       "word": "weave",
@@ -36572,6 +36716,12 @@
       "pos": "NOUN",
       "translation": "il mondo",
       "example": "Then I go to my favourite place in the world: the kitchen window."
+    },
+    {
+      "word": "world cup",
+      "pos": "PHRASE",
+      "translation": "i Mondiali, la Coppa del Mondo",
+      "example": "England won the World Cup, mate!"
     },
     {
       "word": "worn",

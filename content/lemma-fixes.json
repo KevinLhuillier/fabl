@@ -765,6 +765,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Cup",
+      "pos": "PROPN",
+      "word": "cup",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "curiously",
       "pos": "NOUN",
       "word": "curiously",
@@ -1013,6 +1019,13 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "Evening",
+      "pos": "PROPN",
+      "next": "post",
+      "word": "evening",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "exacting",
       "pos": "VERB",
       "word": "exacting",
@@ -1221,6 +1234,12 @@
       "pos": "NOUN",
       "word": "flower",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "fog",
+      "pos": "PROPN",
+      "word": "fog",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "fool",
@@ -1896,6 +1915,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "KIRK",
+      "pos": "PROPN",
+      "word": "Kirk",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "kneeling",
       "pos": "NOUN",
       "word": "kneel",
@@ -2321,6 +2346,12 @@
       "text": "Mistresses",
       "pos": "NOUN",
       "word": "Mistress",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "MOOR",
+      "pos": "PROPN",
+      "word": "Moor",
       "lemmaPos": "PROPN"
     },
     {
@@ -2841,6 +2872,13 @@
       "pos": "PROPN",
       "word": "Pole",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Post",
+      "pos": "PROPN",
+      "next": ".",
+      "word": "post",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "potting",
@@ -3465,6 +3503,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "sixty",
+      "pos": "ADJ",
+      "word": "sixty",
+      "lemmaPos": "NUM"
+    },
+    {
       "text": "slanting",
       "pos": "NOUN",
       "word": "slanting",
@@ -3958,6 +4002,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Thick",
+      "pos": "PROPN",
+      "word": "thick",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "thickening",
       "pos": "NOUN",
       "word": "thicken",
@@ -4371,6 +4421,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "white",
+      "pos": "PROPN",
+      "word": "white",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "wince",
       "pos": "NOUN",
       "word": "wince",
@@ -4410,6 +4466,13 @@
       "text": "woodsmoke",
       "pos": "PROPN",
       "word": "woodsmoke",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "World",
+      "pos": "PROPN",
+      "next": "cup",
+      "word": "world",
       "lemmaPos": "NOUN"
     },
     {

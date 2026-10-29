@@ -70,3 +70,37 @@ The bus stopped at a place called Tanner's Row. Nobody got on and nobody got off
 But Callum knew this street. He walked down it every week. There was no cinema here. There was a big, ugly supermarket with a car park.
 "Dot," he said slowly. "That cinema. Has it always been there?" Dot looked at him as if he was a little strange. "The Regal? Since before I was born. My mum and dad had their first date there." Callum didn't answer. He told himself that it was a decoration, that the bus company had organised everything, that it was all part of the show. It was Halloween, after all. People did crazy things for Halloween. But a small voice in his head said: nobody builds a whole cinema for a bus ride.
 The bus started again. Callum looked up at the small round clock above the driver's head. It said 23:47. He watched it for a long time while Dot talked about her sister, her favourite dress and a boy called Roy who was "really not her type". The bus left the town and climbed onto the dark road across the moor. Dot laughed, Eddie sang, Mrs Bramwell knitted. And the clock above the driver still said 23:47. The hands did not move at all.
+
+# The Evening Post
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-last-bus-to-ravensby/chapter_3.page_1-1793304013448.mp3
+Outside, there was nothing. No houses, no trees, no other cars. Only the fog, thick and white, pressing against the windows like cotton wool. The bus moved slowly, and its engine made a low, regular noise, like an old animal breathing. It was getting colder. Callum pulled his cape around his shoulders and breathed on his hands to warm them. A small white cloud came out of his mouth. Then he noticed something, and he stopped breathing for a second.
+Dot was talking about her sister again, and her breath made no cloud. Eddie was singing, and his breath made no cloud. Mrs Bramwell was counting her stitches out loud, and nothing came out of her mouth either. In the whole cold bus, Callum was the only one whose breath was visible. He told himself it was a question of light, or of where they were sitting. He was an engineer. Engineers did not believe in ghosts. Engineers believed in facts.
+So he looked for facts. Under the seat in front of him, there was a newspaper, folded in two. He picked it up. It was the Wetherholme Evening Post. The paper was not yellow or old. It was fresh and white, and the ink came off on his fingers.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-last-bus-to-ravensby/chapter_3.page_2-1793304029804.mp3
+On the front page there was a photo of a football team and a long article about a new road. And at the top of the page, in small black letters, he read the date: Monday, 31st October 1966.
+Callum read the date three times. His hands were shaking a little. He turned the pages. There were advertisements for televisions in wooden boxes, for cigarettes "recommended by doctors" and for a new washing machine that cost forty-nine pounds. On page six, there was the weather forecast: "Thick fog expected on the moors tonight. Drivers are advised to stay at home." Callum folded the newspaper carefully and put it back under the seat, as if it was dangerous.
+He needed to know more. He leaned forward and touched Eddie's shoulder. "Eddie," he said, trying to sound normal, "what was the best thing that happened this year? In the news, I mean." Eddie turned around with an enormous smile. "Are you joking? The World Cup, of course! England won the World Cup, mate! I watched the final in the barracks with two hundred other lads. When the fourth goal went in, we all jumped on the tables. I'll remember that day until I die." Then he turned back to his seat and started singing again. Callum sat very still. England had won the World Cup only once. In the summer of 1966.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-last-bus-to-ravensby/chapter_3.page_3-1793304045272.mp3
+"Dot," he said, and his voice sounded strange to him. "What's your surname?" "Tolley," she answered. "Dorothy Tolley, from Ravensby. Number four, Chapel Street. Why?" Callum did not answer. He could not. Tolley. He knew that name very well. It was his grandmother's name before she married his grandfather. Nan was born June Tolley, in Ravensby, in a small house on Chapel Street. And Nan had once had an older sister.
+It was an old family story, and nobody liked to talk about it. When Nan was ten years old, her big sister took the last bus home from Wetherholme on Halloween night. There was a terrible fog on the moor. The bus never arrived in Ravensby. The police looked for it for weeks, with dogs and men and even a helicopter, but they never found the bus, the driver or any of the passengers. It disappeared completely, as if the fog had eaten it.
+Callum remembered something else. Every year, on the 31st of October, Nan put a lamp in the front window of her house and left it on all night.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-last-bus-to-ravensby/chapter_3.page_4-1793304063471.mp3
+When he was small, he thought it was for Halloween, to scare the witches. Later, his mother explained: "It's for Dot. So she can find her way home." Nan had done it for sixty years. Callum looked at the girl next to him, at her yellow raincoat and her turnip lantern, and he felt tears in his eyes.
+The bus slowed down and stopped. Through the fog, Callum saw a small wooden sign: KIRK MOOR. There was nothing else: no shelter, no house, no light. He stood up suddenly. He needed air. He needed to think. He walked quickly to the front. "Excuse me," he said to the driver. "Can I get off here, please? Just for a minute?" The driver did not turn his head. "Nobody gets off before Ravensby, son," he said calmly. "Company rules."
+Callum went to the open platform at the back. There was no door, nothing to stop him. He held the cold metal pole and looked down. He could not see the road. He could not see the grass or the stones of the moor. Under the bus, there was only white fog, moving slowly, like a sea without a bottom. He did not jump. He stayed there for a long time, holding the pole, with his heart beating very fast. Then he went back to his seat.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-last-bus-to-ravensby/chapter_3.page_5-1793304077308.mp3
+As he walked down the aisle, he passed in front of the driver's small mirror. In the mirror, he could see Mr Quill's eyes, and Mr Quill's eyes were looking at him. They were not angry or frightening. They were simply very, very tired, like the eyes of a man who has driven the same road for too long. For a second, Callum had the strange feeling that the driver knew. That he knew what Callum had found in the newspaper, and what it meant. Then the driver looked back at the fog, rang the bell twice, and the bus moved on.
+"Are you all right?" asked Dot. "You look like you've seen a ghost." Callum almost laughed. "I'm fine," he said. "Just tired." Dot smiled and pressed her face against the window. "Don't worry. We're nearly there. After Kirk Moor, there's only the bridge, and then Ravensby." "Which bridge?" asked Callum, but he already knew the answer. "Blackwater Bridge, of course," said Dot. "Over the river. There's no other way."

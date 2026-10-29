@@ -32,6 +32,12 @@
       "example": "There were two rings, a row of heavy bags hanging from chains, faded posters of fighters from the 1980s and a hand-painted sign above the door that said: NOBODY IS BORN TOUGH."
     },
     {
+      "word": "31st",
+      "pos": "NOUN",
+      "translation": "31. („31st October“, „the 31st of October“: der 31. Oktober)",
+      "example": "And at the top of the page, in small black letters, he read the date: Monday, 31st October 1966."
+    },
+    {
       "word": "a",
       "pos": "DET",
       "translation": "ein, eine",
@@ -502,6 +508,12 @@
       "pos": "NOUN",
       "translation": "der Rat, der Ratschlag",
       "example": "TEST 10: he followed the pencil's advice, relaxed his wrist and slowed the gesture down until it felt almost lazy."
+    },
+    {
+      "word": "advise",
+      "pos": "VERB",
+      "translation": "raten, empfehlen („are advised to“: es wird empfohlen)",
+      "example": "Drivers are advised to stay at home."
     },
     {
       "word": "adviser",
@@ -2329,6 +2341,12 @@
       "example": "In summer, swallows came to Ellerdale from Africa and built their nests under roofs, in barns, in old buildings."
     },
     {
+      "word": "barracks",
+      "pos": "NOUN",
+      "translation": "die Kaserne",
+      "example": "I watched the final in the barracks with two hundred other lads."
+    },
+    {
       "word": "barrier",
       "pos": "NOUN",
       "translation": "die Barriere, die Schranke",
@@ -3070,6 +3088,12 @@
       "pos": "NOUN",
       "translation": "der Schlehdorn",
       "example": "He was small and bent nearly double, like a tree that has grown for a century against the wind, and he leaned on a stick of polished blackthorn as gnarled as his own knuckles."
+    },
+    {
+      "word": "Blackwater",
+      "pos": "PROPN",
+      "translation": "Blackwater (Name der Brücke; „black water“: schwarzes Wasser)",
+      "example": "\"Blackwater Bridge, of course,\" said Dot."
     },
     {
       "word": "blade",
@@ -6996,6 +7020,18 @@
       "example": "That meant Fellside, the small cottage hospital above the village, where old people went after an operation or a fall."
     },
     {
+      "word": "cotton",
+      "pos": "NOUN",
+      "translation": "die Baumwolle",
+      "example": "Only the fog, thick and white, pressing against the windows like cotton wool."
+    },
+    {
+      "word": "cotton wool",
+      "pos": "PHRASE",
+      "translation": "die Watte",
+      "example": "Only the fog, thick and white, pressing against the windows like cotton wool."
+    },
+    {
       "word": "cough",
       "pos": "NOUN",
       "translation": "der Husten",
@@ -10228,6 +10264,12 @@
       "example": "That evening, they found shelter at a small inn called the Crooked Crown."
     },
     {
+      "word": "evening post",
+      "pos": "PHRASE",
+      "translation": "die Abendzeitung (hier ihr Name: „Evening Post“)",
+      "example": "It was the Wetherholme Evening Post."
+    },
+    {
       "word": "event",
       "pos": "NOUN",
       "translation": "das Ereignis („in the event“: letztendlich)",
@@ -11248,6 +11290,12 @@
       "example": "I can't find my cat. — Ich finde meine Katze nicht."
     },
     {
+      "word": "find her way",
+      "pos": "PHRASE",
+      "translation": "den Weg finden („find her way home“: den Weg nach Hause finden)",
+      "example": "\"It's for Dot. So she can find her way home.\""
+    },
+    {
       "word": "find out",
       "pos": "PHRASE",
       "translation": "herausfinden",
@@ -11816,6 +11864,12 @@
       "pos": "VERB",
       "translation": "falten",
       "example": "Inside lay a folded letter, its paper yellowed with age, and pressed flat between its pages was a single leaf — not oak, not ash, not any tree Rowan knew, but long and silvery and veined with the faintest trace of gold."
+    },
+    {
+      "word": "fold in two",
+      "pos": "PHRASE",
+      "translation": "in der Mitte falten",
+      "example": "Under the seat in front of him, there was a newspaper, folded in two."
     },
     {
       "word": "fold up",
@@ -14984,6 +15038,12 @@
       "example": "They call themselves the Heirs."
     },
     {
+      "word": "helicopter",
+      "pos": "NOUN",
+      "translation": "der Hubschrauber",
+      "example": "The police looked for it for weeks, with dogs and men and even a helicopter, but they never found the bus, the driver or any of the passengers."
+    },
+    {
       "word": "hello",
       "pos": "INTJ",
       "translation": "hallo",
@@ -17214,7 +17274,7 @@
     {
       "word": "June",
       "pos": "PROPN",
-      "translation": "Juni",
+      "translation": "Juni ; June (Vorname)",
       "example": "And in June you go home to Kettlewell and tell everyone that university \"wasn't for you\"."
     },
     {
@@ -17486,6 +17546,12 @@
       "pos": "PROPN",
       "translation": "Kingussie (Dorf in den Highlands)",
       "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
+    },
+    {
+      "word": "Kirk",
+      "pos": "PROPN",
+      "translation": "Kirk (in „Kirk Moor“, Name eines Ortes im Moor; „kirk“: Kirche, schottisch)",
+      "example": "Through the fog, Callum saw a small wooden sign: KIRK MOOR."
     },
     {
       "word": "Kirkgate",
@@ -18092,6 +18158,12 @@
       "pos": "PHRASE",
       "translation": "sich hinunterbeugen",
       "example": "He leaned down, very slightly."
+    },
+    {
+      "word": "lean forward",
+      "pos": "PHRASE",
+      "translation": "sich vorbeugen",
+      "example": "He leaned forward and touched Eddie's shoulder."
     },
     {
       "word": "lean in",
@@ -18871,6 +18943,12 @@
       "word": "look forward to",
       "pos": "PHRASE",
       "translation": "sich freuen auf"
+    },
+    {
+      "word": "look like",
+      "pos": "PHRASE",
+      "translation": "aussehen wie, aussehen, als ob („You look like you've seen a ghost“: du siehst aus, als hättest du ein Gespenst gesehen)",
+      "example": "\"You look like you've seen a ghost.\""
     },
     {
       "word": "look like death",
@@ -20350,7 +20428,7 @@
     {
       "word": "Moor",
       "pos": "PROPN",
-      "translation": "Moor (in „Rannoch Moor“, weites Moorgebiet in den Highlands)",
+      "translation": "Moor („moor“: das Moor, die Heide; in Ortsnamen: Rannoch Moor, Kirk Moor)",
       "example": "It was a precaution that had been drilled into him forty years earlier by an old Glaswegian driver who, he swore, had once found two men asleep for ever in a snowbound cab on Rannoch Moor, and Gideon had never forgotten the flat, matter-of-fact way in which he had told the story."
     },
     {
@@ -25021,6 +25099,12 @@
       "example": "\"Whoever did this was not hungry,\" he said quietly."
     },
     {
+      "word": "Quill",
+      "pos": "PROPN",
+      "translation": "Quill (Nachname des Fahrers; „quill“: Federkiel)",
+      "example": "In the mirror, he could see Mr Quill's eyes, and Mr Quill's eyes were looking at him."
+    },
+    {
       "word": "quilt",
       "pos": "NOUN",
       "translation": "die Steppdecke",
@@ -25510,6 +25594,12 @@
       "pos": "NOUN",
       "translation": "das Zurückweichen, der Rückstoß",
       "example": "Each time, he felt the same thing: the reaching, the recoil, the clenching, the stillness."
+    },
+    {
+      "word": "recommend",
+      "pos": "VERB",
+      "translation": "empfehlen",
+      "example": "There were advertisements for televisions in wooden boxes, for cigarettes \"recommended by doctors\" and for a new washing machine that cost forty-nine pounds."
     },
     {
       "word": "record",
@@ -27286,6 +27376,12 @@
       "pos": "ADV",
       "translation": "kaum",
       "example": "Empty, each cask weighed scarcely more than a grown man."
+    },
+    {
+      "word": "scare",
+      "pos": "VERB",
+      "translation": "erschrecken, Angst machen",
+      "example": "When he was small, he thought it was for Halloween, to scare the witches."
     },
     {
       "word": "scared",
@@ -30582,6 +30678,12 @@
       "example": "If we stay together, we have a chance."
     },
     {
+      "word": "stay at home",
+      "pos": "PHRASE",
+      "translation": "zu Hause bleiben",
+      "example": "Drivers are advised to stay at home."
+    },
+    {
       "word": "stay on",
       "pos": "PHRASE",
       "translation": "bleiben, dableiben",
@@ -30796,6 +30898,12 @@
       "pos": "PROPN",
       "translation": "Stirling (Stadt in Schottland)",
       "example": "Their names, he learned over the next ten minutes, were Alasdair and Isla Beaton, and they had been driving home to Newtonmore from a granddaughter's christening in Stirling when the snow had overtaken them."
+    },
+    {
+      "word": "stitch",
+      "pos": "NOUN",
+      "translation": "die Masche (Stricken); der Stich (Nähen)",
+      "example": "Mrs Bramwell was counting her stitches out loud, and nothing came out of her mouth either."
     },
     {
       "word": "stock",
@@ -31530,6 +31638,12 @@
       "example": "Water drew beads of dew across its surface, even on the driest day."
     },
     {
+      "word": "surname",
+      "pos": "NOUN",
+      "translation": "der Nachname",
+      "example": "\"What's your surname?\""
+    },
+    {
       "word": "surprise",
       "pos": "NOUN",
       "translation": "die Überraschung",
@@ -32115,6 +32229,12 @@
       "pos": "NOUN",
       "translation": "der Lehrer, die Lehrerin",
       "example": "Before me, my teacher did it for forty."
+    },
+    {
+      "word": "team",
+      "pos": "NOUN",
+      "translation": "die Mannschaft",
+      "example": "On the front page there was a photo of a football team and a long article about a new road."
     },
     {
       "word": "tear",
@@ -33185,6 +33305,12 @@
       "example": "You saw a convoy of merchants travelling at night to avoid the tolls."
     },
     {
+      "word": "Tolley",
+      "pos": "PROPN",
+      "translation": "Tolley (Nachname)",
+      "example": "\"Dorothy Tolley, from Ravensby.\""
+    },
+    {
       "word": "Tom",
       "pos": "PROPN",
       "translation": "Tom (Vorname)",
@@ -33873,6 +33999,12 @@
       "pos": "PHRASE",
       "translation": "sich umdrehen",
       "example": "I turned around."
+    },
+    {
+      "word": "turn back",
+      "pos": "PHRASE",
+      "translation": "sich wieder umdrehen, zurückkehren; umkehren",
+      "example": "Then he turned back to his seat and started singing again."
     },
     {
       "word": "turn down",
@@ -35332,6 +35464,12 @@
       "example": "It was warm."
     },
     {
+      "word": "warm",
+      "pos": "VERB",
+      "translation": "wärmen",
+      "example": "Callum pulled his cape around his shoulders and breathed on his hands to warm them."
+    },
+    {
       "word": "warmly",
       "pos": "ADV",
       "translation": "warm, herzlich",
@@ -35606,6 +35744,12 @@
       "pos": "VERB",
       "translation": "verwittern",
       "example": "He had pictured himself here: felling dead oaks with Bram, sorting kindling, growing broad and quiet and weathered like the trees."
+    },
+    {
+      "word": "weather forecast",
+      "pos": "PHRASE",
+      "translation": "der Wetterbericht, die Wettervorhersage",
+      "example": "On page six, there was the weather forecast: \"Thick fog expected on the moors tonight."
     },
     {
       "word": "weave",
@@ -36572,6 +36716,12 @@
       "pos": "NOUN",
       "translation": "die Welt",
       "example": "Then I go to my favourite place in the world: the kitchen window."
+    },
+    {
+      "word": "world cup",
+      "pos": "PHRASE",
+      "translation": "die Weltmeisterschaft, die WM",
+      "example": "England won the World Cup, mate!"
     },
     {
       "word": "worn",
