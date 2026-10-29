@@ -1498,6 +1498,12 @@
       "example": "\"His Majesty is holding a great tournament at Winchester at the end of the month. Every knight in the kingdom has been invited to take part.\""
     },
     {
+      "word": "as a child",
+      "pos": "PHRASE",
+      "translation": "als Kind",
+      "example": "As a child, Callum used to wave at the stone and call it \"the giant\"."
+    },
+    {
       "word": "as far as",
       "pos": "PHRASE",
       "translation": "so weit wie, bis",
@@ -1793,6 +1799,12 @@
       "pos": "PHRASE",
       "translation": "im Hinterkopf",
       "example": "But the word was always there, at the back of her mind, like a stone in her shoe."
+    },
+    {
+      "word": "at the bottom of",
+      "pos": "PHRASE",
+      "translation": "am Fuß von, unten an, auf dem Grund von",
+      "example": "It was an old stone bridge over a deep, fast river, at the bottom of a steep hill."
     },
     {
       "word": "at the cost of",
@@ -7062,6 +7074,12 @@
       "example": "For a single heartbeat, Rowan could have sworn he felt the faint, distant thrum of something alive."
     },
     {
+      "word": "council",
+      "pos": "NOUN",
+      "translation": "der Gemeinderat, die Gemeinde, die Behörde",
+      "example": "But it was narrow and dangerous, and in the early seventies the council built a new road and a new bridge, two kilometres further up the river."
+    },
+    {
       "word": "counsel",
       "pos": "NOUN",
       "translation": "der Rat",
@@ -7768,6 +7786,12 @@
       "pos": "PHRASE",
       "translation": "abschneiden, abhacken",
       "example": "And tonight I stood in a room at the top of a tower and asked the one person who might, and she looked at me like I'd asked her to cut off her own hand."
+    },
+    {
+      "word": "cut through",
+      "pos": "PHRASE",
+      "translation": "durchdringen, durchschneiden",
+      "example": "The yellow lights of the bus could not cut through it."
     },
     {
       "word": "cute",
@@ -10304,6 +10328,12 @@
       "pos": "PHRASE",
       "translation": "ab und zu",
       "example": "Every so often the canvas hood above her stirred and rippled, although there was no wind at all beneath the trees."
+    },
+    {
+      "word": "every time",
+      "pos": "PHRASE",
+      "translation": "jedes Mal",
+      "example": "\"Every time.\""
     },
     {
       "word": "everybody",
@@ -13581,6 +13611,12 @@
       "example": "It comes close to the village, it goes round three times, and then it goes home."
     },
     {
+      "word": "go round and round",
+      "pos": "PHRASE",
+      "translation": "sich im Kreis drehen, im Kreis fahren",
+      "example": "\"We've been going round and round all night.\""
+    },
+    {
       "word": "go to bed",
       "pos": "PHRASE",
       "translation": "ins Bett gehen",
@@ -15134,6 +15170,12 @@
       "example": "Here and there, very rarely, two symbols side by side."
     },
     {
+      "word": "here we are",
+      "pos": "PHRASE",
+      "translation": "da wären wir, da sind wir",
+      "example": "\"Here we are again,\" said the driver quietly."
+    },
+    {
       "word": "heritage",
       "pos": "NOUN",
       "translation": "das Erbe, das Kulturerbe",
@@ -15366,6 +15408,12 @@
       "pos": "PHRASE",
       "translation": "festhalten, niederhalten",
       "example": "Bram stayed where he was, kneeling on the floor with both hands pressed flat against the hearthstone, as if holding it down."
+    },
+    {
+      "word": "hold hands",
+      "pos": "PHRASE",
+      "translation": "sich an den Händen halten, Händchen halten",
+      "example": "The couple in the long coats held hands and said, \"Please.\""
     },
     {
       "word": "hold her breath",
@@ -16906,6 +16954,12 @@
       "example": "Mia goes into the garden. — Mia geht in den Garten."
     },
     {
+      "word": "into gear",
+      "pos": "PHRASE",
+      "translation": "in den Gang („put into gear“: einen Gang einlegen)",
+      "example": "He put the bus into gear and drove forward onto the bridge."
+    },
+    {
       "word": "into the middle of next week",
       "pos": "PHRASE",
       "translation": "(„knock someone into the middle of next week“: jemanden ins Jenseits befördern, k.o. schlagen)",
@@ -17618,6 +17672,12 @@
       "pos": "VERB",
       "translation": "stricken",
       "example": "A woman with a huge bun of hair, knitting something red."
+    },
+    {
+      "word": "knitting",
+      "pos": "NOUN",
+      "translation": "das Strickzeug",
+      "example": "Mrs Bramwell put down her knitting."
     },
     {
       "word": "knock",
@@ -20252,6 +20312,12 @@
       "example": "Within minutes, the remaining bandits had fled into the darkness."
     },
     {
+      "word": "minute hand",
+      "pos": "PHRASE",
+      "translation": "der Minutenzeiger",
+      "example": "With a small click, the minute hand moved."
+    },
+    {
       "word": "Mira",
       "pos": "PROPN",
       "translation": "Mira (Vorname)",
@@ -21314,6 +21380,12 @@
       "example": "First Multiple they'd seen on this hill in a generation, and they made no end of fuss of her."
     },
     {
+      "word": "no entry",
+      "pos": "PHRASE",
+      "translation": "Zutritt verboten, Einfahrt verboten",
+      "example": "Today, it was still there, covered in moss, behind a fence with a sign: DANGER – NO ENTRY."
+    },
+    {
       "word": "no longer",
       "pos": "PHRASE",
       "translation": "nicht mehr",
@@ -22040,6 +22112,12 @@
       "example": "On one hand, the book was the most important thing that had ever happened to him."
     },
     {
+      "word": "on paper",
+      "pos": "PHRASE",
+      "translation": "auf dem Papier",
+      "example": "It was only a project, an idea on paper."
+    },
+    {
       "word": "on purpose",
       "pos": "PHRASE",
       "translation": "absichtlich"
@@ -22073,6 +22151,12 @@
       "pos": "PHRASE",
       "translation": "auf der anderen Seite von",
       "example": "His grandmother lived in Ravensby, a small village on the other side of the moor, about twenty kilometres north."
+    },
+    {
+      "word": "on the right",
+      "pos": "PHRASE",
+      "translation": "rechts, auf der rechten Seite",
+      "example": "\"After the Kirk Moor sign, there's a big standing stone on the right."
     },
     {
       "word": "on the verge of",
@@ -28057,6 +28141,12 @@
     },
     {
       "word": "seventy",
+      "pos": "NOUN",
+      "translation": "siebzig („the seventies“: die Siebzigerjahre; „in the early seventies“: Anfang der Siebziger)",
+      "example": "But it was narrow and dangerous, and in the early seventies the council built a new road and a new bridge, two kilometres further up the river."
+    },
+    {
+      "word": "seventy",
       "pos": "NUM",
       "translation": "siebzig",
       "example": "\"Seventy-one years,\" the old man said at last, softly, to the tree."
@@ -28204,6 +28294,12 @@
       "pos": "ADJ",
       "translation": "scharf",
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "sharp bend",
+      "pos": "PHRASE",
+      "translation": "die scharfe Kurve",
+      "example": "He knew that road with his eyes closed: the farm, the barn, the sharp bend, the long straight line down to the river, and then the new bridge with its orange lamps."
     },
     {
       "word": "sharpen",
@@ -30576,6 +30672,18 @@
       "example": "But when the referee raised Burns's arm, the crowd booed, and when Max was helped out of the ring, five hundred people gave him a standing ovation."
     },
     {
+      "word": "standing stone",
+      "pos": "PHRASE",
+      "translation": "der Menhir, der Hinkelstein",
+      "example": "After the Kirk Moor sign, his mother always turned left at the big standing stone, onto the new road."
+    },
+    {
+      "word": "Stanley",
+      "pos": "PROPN",
+      "translation": "Stanley (Vorname)",
+      "example": "\"Quill. Stanley Quill.\""
+    },
+    {
       "word": "star",
       "pos": "NOUN",
       "translation": "der Stern",
@@ -30754,6 +30862,18 @@
       "pos": "ADV",
       "translation": "steil",
       "example": "On the far side, the slope ran down steeply through the snow to the shore of the lake."
+    },
+    {
+      "word": "steering",
+      "pos": "NOUN",
+      "translation": "die Lenkung",
+      "example": "He hit the steering wheel softly with his hand, once."
+    },
+    {
+      "word": "steering wheel",
+      "pos": "PHRASE",
+      "translation": "das Lenkrad",
+      "example": "He hit the steering wheel softly with his hand, once."
     },
     {
       "word": "stem",
@@ -36494,6 +36614,12 @@
       "pos": "PHRASE",
       "translation": "sorgfältig, mit Bedacht",
       "example": "She told them her story slowly, choosing her words with care, like someone walking across ice."
+    },
+    {
+      "word": "with his eyes closed",
+      "pos": "PHRASE",
+      "translation": "mit geschlossenen Augen („know something with his eyes closed“: etwas in- und auswendig kennen)",
+      "example": "He knew that road with his eyes closed: the farm, the barn, the sharp bend, the long straight line down to the river, and then the new bridge with its orange lamps."
     },
     {
       "word": "withdraw",

@@ -820,6 +820,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "darker",
+      "pos": "ADJ",
+      "word": "dark",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "DAUGHTER",
       "pos": "PROPN",
       "word": "daughter",
@@ -2041,6 +2047,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Left",
+      "pos": "PROPN",
+      "next": "!",
+      "word": "left",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "legged",
       "pos": "ADJ",
       "word": "cross-legged",
@@ -2311,6 +2324,13 @@
       "pos": "CCONJ",
       "word": "minus",
       "lemmaPos": "ADP"
+    },
+    {
+      "text": "minute",
+      "pos": "ADJ",
+      "next": "hand",
+      "word": "minute",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "mismatched",

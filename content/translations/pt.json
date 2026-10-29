@@ -1498,6 +1498,12 @@
       "example": "\"His Majesty is holding a great tournament at Winchester at the end of the month. Every knight in the kingdom has been invited to take part.\""
     },
     {
+      "word": "as a child",
+      "pos": "PHRASE",
+      "translation": "quando criança, quando era pequeno",
+      "example": "As a child, Callum used to wave at the stone and call it \"the giant\"."
+    },
+    {
       "word": "as far as",
       "pos": "PHRASE",
       "translation": "até onde, o mais longe possível",
@@ -1793,6 +1799,12 @@
       "pos": "PHRASE",
       "translation": "no fundo da mente, num cantinho da cabeça",
       "example": "But the word was always there, at the back of her mind, like a stone in her shoe."
+    },
+    {
+      "word": "at the bottom of",
+      "pos": "PHRASE",
+      "translation": "no pé de, no fundo de",
+      "example": "It was an old stone bridge over a deep, fast river, at the bottom of a steep hill."
     },
     {
       "word": "at the cost of",
@@ -7062,6 +7074,12 @@
       "example": "For a single heartbeat, Rowan could have sworn he felt the faint, distant thrum of something alive."
     },
     {
+      "word": "council",
+      "pos": "NOUN",
+      "translation": "a prefeitura, a câmara municipal",
+      "example": "But it was narrow and dangerous, and in the early seventies the council built a new road and a new bridge, two kilometres further up the river."
+    },
+    {
       "word": "counsel",
       "pos": "NOUN",
       "translation": "o conselho",
@@ -7768,6 +7786,12 @@
       "pos": "PHRASE",
       "translation": "cortar, decepar",
       "example": "And tonight I stood in a room at the top of a tower and asked the one person who might, and she looked at me like I'd asked her to cut off her own hand."
+    },
+    {
+      "word": "cut through",
+      "pos": "PHRASE",
+      "translation": "atravessar, cortar",
+      "example": "The yellow lights of the bus could not cut through it."
     },
     {
       "word": "cute",
@@ -10304,6 +10328,12 @@
       "pos": "PHRASE",
       "translation": "de vez em quando",
       "example": "Every so often the canvas hood above her stirred and rippled, although there was no wind at all beneath the trees."
+    },
+    {
+      "word": "every time",
+      "pos": "PHRASE",
+      "translation": "toda vez, sempre",
+      "example": "\"Every time.\""
     },
     {
       "word": "everybody",
@@ -13581,6 +13611,12 @@
       "example": "It comes close to the village, it goes round three times, and then it goes home."
     },
     {
+      "word": "go round and round",
+      "pos": "PHRASE",
+      "translation": "andar em círculos, dar voltas e voltas",
+      "example": "\"We've been going round and round all night.\""
+    },
+    {
       "word": "go to bed",
       "pos": "PHRASE",
       "translation": "ir para a cama, deitar-se",
@@ -15134,6 +15170,12 @@
       "example": "Here and there, very rarely, two symbols side by side."
     },
     {
+      "word": "here we are",
+      "pos": "PHRASE",
+      "translation": "aqui estamos, chegamos",
+      "example": "\"Here we are again,\" said the driver quietly."
+    },
+    {
       "word": "heritage",
       "pos": "NOUN",
       "translation": "o patrimônio",
@@ -15366,6 +15408,12 @@
       "pos": "PHRASE",
       "translation": "segurar, manter (no lugar)",
       "example": "Bram stayed where he was, kneeling on the floor with both hands pressed flat against the hearthstone, as if holding it down."
+    },
+    {
+      "word": "hold hands",
+      "pos": "PHRASE",
+      "translation": "dar as mãos, ficar de mãos dadas",
+      "example": "The couple in the long coats held hands and said, \"Please.\""
     },
     {
       "word": "hold her breath",
@@ -16906,6 +16954,12 @@
       "example": "Mia goes into the garden. — Mia vai para o jardim."
     },
     {
+      "word": "into gear",
+      "pos": "PHRASE",
+      "translation": "engatado (“put into gear”: engatar a marcha)",
+      "example": "He put the bus into gear and drove forward onto the bridge."
+    },
+    {
       "word": "into the middle of next week",
       "pos": "PHRASE",
       "translation": "(«knock someone into the middle of next week»: mandar alguém longe com um soco)",
@@ -17618,6 +17672,12 @@
       "pos": "VERB",
       "translation": "tricotar",
       "example": "A woman with a huge bun of hair, knitting something red."
+    },
+    {
+      "word": "knitting",
+      "pos": "NOUN",
+      "translation": "o tricô",
+      "example": "Mrs Bramwell put down her knitting."
     },
     {
       "word": "knock",
@@ -20252,6 +20312,12 @@
       "example": "Within minutes, the remaining bandits had fled into the darkness."
     },
     {
+      "word": "minute hand",
+      "pos": "PHRASE",
+      "translation": "o ponteiro dos minutos",
+      "example": "With a small click, the minute hand moved."
+    },
+    {
       "word": "Mira",
       "pos": "PROPN",
       "translation": "Mira (nome)",
@@ -21314,6 +21380,12 @@
       "example": "First Multiple they'd seen on this hill in a generation, and they made no end of fuss of her."
     },
     {
+      "word": "no entry",
+      "pos": "PHRASE",
+      "translation": "entrada proibida",
+      "example": "Today, it was still there, covered in moss, behind a fence with a sign: DANGER – NO ENTRY."
+    },
+    {
       "word": "no longer",
       "pos": "PHRASE",
       "translation": "não… mais, já não",
@@ -22040,6 +22112,12 @@
       "example": "On one hand, the book was the most important thing that had ever happened to him."
     },
     {
+      "word": "on paper",
+      "pos": "PHRASE",
+      "translation": "no papel",
+      "example": "It was only a project, an idea on paper."
+    },
+    {
       "word": "on purpose",
       "pos": "PHRASE",
       "translation": "de propósito"
@@ -22073,6 +22151,12 @@
       "pos": "PHRASE",
       "translation": "do outro lado de",
       "example": "His grandmother lived in Ravensby, a small village on the other side of the moor, about twenty kilometres north."
+    },
+    {
+      "word": "on the right",
+      "pos": "PHRASE",
+      "translation": "à direita",
+      "example": "\"After the Kirk Moor sign, there's a big standing stone on the right."
     },
     {
       "word": "on the verge of",
@@ -28057,6 +28141,12 @@
     },
     {
       "word": "seventy",
+      "pos": "NOUN",
+      "translation": "setenta (“the seventies”: os anos 70; “in the early seventies”: no começo dos anos 70)",
+      "example": "But it was narrow and dangerous, and in the early seventies the council built a new road and a new bridge, two kilometres further up the river."
+    },
+    {
+      "word": "seventy",
       "pos": "NUM",
       "translation": "setenta",
       "example": "\"Seventy-one years,\" the old man said at last, softly, to the tree."
@@ -28204,6 +28294,12 @@
       "pos": "ADJ",
       "translation": "aguçado, afiado",
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "sharp bend",
+      "pos": "PHRASE",
+      "translation": "a curva fechada",
+      "example": "He knew that road with his eyes closed: the farm, the barn, the sharp bend, the long straight line down to the river, and then the new bridge with its orange lamps."
     },
     {
       "word": "sharpen",
@@ -30576,6 +30672,18 @@
       "example": "But when the referee raised Burns's arm, the crowd booed, and when Max was helped out of the ring, five hundred people gave him a standing ovation."
     },
     {
+      "word": "standing stone",
+      "pos": "PHRASE",
+      "translation": "o menir, a pedra erguida",
+      "example": "After the Kirk Moor sign, his mother always turned left at the big standing stone, onto the new road."
+    },
+    {
+      "word": "Stanley",
+      "pos": "PROPN",
+      "translation": "Stanley (nome)",
+      "example": "\"Quill. Stanley Quill.\""
+    },
+    {
       "word": "star",
       "pos": "NOUN",
       "translation": "a estrela",
@@ -30754,6 +30862,18 @@
       "pos": "ADV",
       "translation": "em declive acentuado",
       "example": "On the far side, the slope ran down steeply through the snow to the shore of the lake."
+    },
+    {
+      "word": "steering",
+      "pos": "NOUN",
+      "translation": "a direção (de um veículo)",
+      "example": "He hit the steering wheel softly with his hand, once."
+    },
+    {
+      "word": "steering wheel",
+      "pos": "PHRASE",
+      "translation": "o volante",
+      "example": "He hit the steering wheel softly with his hand, once."
     },
     {
       "word": "stem",
@@ -36494,6 +36614,12 @@
       "pos": "PHRASE",
       "translation": "com cuidado",
       "example": "She told them her story slowly, choosing her words with care, like someone walking across ice."
+    },
+    {
+      "word": "with his eyes closed",
+      "pos": "PHRASE",
+      "translation": "de olhos fechados (“know something with his eyes closed”: conhecer algo de cor)",
+      "example": "He knew that road with his eyes closed: the farm, the barn, the sharp bend, the long straight line down to the river, and then the new bridge with its orange lamps."
     },
     {
       "word": "withdraw",
