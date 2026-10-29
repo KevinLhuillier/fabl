@@ -19,6 +19,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "6d",
+      "pos": "X",
+      "word": "sixpence",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "A180",
       "pos": "NOUN",
       "word": "A180",
@@ -29,6 +35,12 @@
       "pos": "NOUN",
       "word": "A9",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Above",
+      "pos": "PROPN",
+      "word": "above",
+      "lemmaPos": "ADP"
     },
     {
       "text": "According",
@@ -511,6 +523,12 @@
       "pos": "VERB",
       "word": "calloused",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "carved",
+      "pos": "ADJ",
+      "word": "carve",
+      "lemmaPos": "VERB"
     },
     {
       "text": "CAT",
@@ -1287,6 +1305,12 @@
     },
     {
       "text": "FRIDAY",
+      "pos": "PROPN",
+      "word": "Friday",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Fridays",
       "pos": "PROPN",
       "word": "Friday",
       "lemmaPos": "PROPN"
@@ -2660,6 +2684,13 @@
     {
       "text": "orange",
       "pos": "PROPN",
+      "word": "orange",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Orange",
+      "pos": "PROPN",
+      "next": "!",
       "word": "orange",
       "lemmaPos": "ADJ"
     },
@@ -4133,6 +4164,12 @@
       "text": "turf",
       "pos": "ADJ",
       "word": "turf",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "turnip",
+      "pos": "ADJ",
+      "word": "turnip",
       "lemmaPos": "NOUN"
     },
     {

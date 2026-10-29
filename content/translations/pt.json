@@ -1843,6 +1843,12 @@
       "example": "A woman was trying to give him a bottle of water and take a selfie at the same time."
     },
     {
+      "word": "at this time of",
+      "pos": "PHRASE",
+      "translation": "a esta hora (“at this time of night”: a esta hora da noite)",
+      "example": "\"Callum? What are you doing here at this time of—\""
+    },
+    {
       "word": "athlete",
       "pos": "NOUN",
       "translation": "o atleta, a atleta",
@@ -5028,6 +5034,12 @@
       "example": "The haystack behind the barn caught fire."
     },
     {
+      "word": "catch up",
+      "pos": "PHRASE",
+      "translation": "recuperar o atraso, alcançar",
+      "example": "The hands were moving now, quickly, as if they wanted to catch up: 23:52, 23:55, 23:57."
+    },
+    {
       "word": "catch up with",
       "pos": "PHRASE",
       "translation": "alcançar, cobrar o seu preço",
@@ -5518,6 +5530,12 @@
       "pos": "VERB",
       "translation": "lascar (“chipped”: lascado)",
       "example": "Gideon had taken his break here so often over the decades that he could have drawn the place from memory, down to the chipped tile by the hand dryers and the laminated notice forbidding the overnight parking of caravans."
+    },
+    {
+      "word": "chip shop",
+      "pos": "PHRASE",
+      "translation": "a loja de fish and chips (para viagem)",
+      "example": "\"And there's the chip shop!\""
     },
     {
       "word": "Chloe",
@@ -9990,6 +10008,12 @@
       "example": "Great grey trunks, wider than Bram's cabin, rose out of the hillside and fused with the masonry so seamlessly that it was impossible to tell where living wood ended and dressed stone began."
     },
     {
+      "word": "end of the line",
+      "pos": "PHRASE",
+      "translation": "o ponto final, o fim da linha",
+      "example": "\"End of the line, ladies and gentlemen.\""
+    },
+    {
       "word": "end of the round",
       "pos": "PHRASE",
       "translation": "o fim do round",
@@ -11728,6 +11752,12 @@
       "example": "Scotch Corner services, at half past seven on a winter's morning, was a place of strange and fleeting communion."
     },
     {
+      "word": "Fletchers",
+      "pos": "PROPN",
+      "translation": "os Fletcher (uma família do vilarejo)",
+      "example": "\"That's the Fletchers' farm,\" she said."
+    },
+    {
       "word": "flick",
       "pos": "NOUN",
       "translation": "o peteleco (“at a flick of his fingers”: com um estalar de dedos)",
@@ -13100,6 +13130,12 @@
       "pos": "ADJ",
       "translation": "dócil, meigo",
       "example": "Very gentle."
+    },
+    {
+      "word": "gentleman",
+      "pos": "NOUN",
+      "translation": "o cavalheiro",
+      "example": "\"End of the line, ladies and gentlemen.\""
     },
     {
       "word": "gently",
@@ -14484,6 +14520,12 @@
       "pos": "PHRASE",
       "translation": "entregar",
       "example": "As he handed over the money, the old man held on to the notes for a second longer than necessary."
+    },
+    {
+      "word": "handbrake",
+      "pos": "NOUN",
+      "translation": "o freio de mão",
+      "example": "Mr Quill pulled the handbrake, turned off the engine and stood up."
     },
     {
       "word": "handful",
@@ -17296,6 +17338,12 @@
       "example": "Leo jumps into her arms. — Leo pula nos braços dela."
     },
     {
+      "word": "jump down",
+      "pos": "PHRASE",
+      "translation": "pular (para baixo), descer de um pulo",
+      "example": "Then she jumped down from the platform and ran across the square towards Chapel Street, her yellow raincoat shining under the streetlamp."
+    },
+    {
       "word": "jump in",
       "pos": "PHRASE",
       "translation": "pular (na água)",
@@ -17386,10 +17434,22 @@
       "example": "For the first time in his life, he had kept going when everything in his body was telling him to stop."
     },
     {
+      "word": "keep her promise",
+      "pos": "PHRASE",
+      "translation": "cumprir a promessa",
+      "example": "\"She always kept her promises,\" she said."
+    },
+    {
       "word": "keep his mouth shut",
       "pos": "PHRASE",
       "translation": "ficar de boca fechada",
       "example": "She told only three people the truth: Ruth, because it was her church; Harry, who already knew; and Jim Askew, who owned the pub, because he knew everybody and could keep his mouth shut."
+    },
+    {
+      "word": "keep my promise",
+      "pos": "PHRASE",
+      "translation": "cumprir a minha promessa",
+      "example": "\"And tell her I kept my promise.\""
     },
     {
       "word": "keep out",
@@ -17822,6 +17882,12 @@
       "pos": "ADJ",
       "translation": "carregado",
       "example": "A high-sided trailer carrying six tonnes of empty casks offered the wind an enormous surface and almost nothing with which to resist it; laden with steel, the Duchess would have shrugged off these gusts, but today she was little more than a box kite on wheels."
+    },
+    {
+      "word": "ladies and gentlemen",
+      "pos": "PHRASE",
+      "translation": "senhoras e senhores",
+      "example": "\"End of the line, ladies and gentlemen.\""
     },
     {
       "word": "lady",
@@ -19413,6 +19479,12 @@
       "example": "The main event is a local lad called Kyle Burns."
     },
     {
+      "word": "main street",
+      "pos": "PHRASE",
+      "translation": "a rua principal",
+      "example": "The bus went slowly down the main street and stopped in the market square, in front of the old church, at 23:59 exactly."
+    },
+    {
       "word": "mainly",
       "pos": "ADV",
       "translation": "principalmente, sobretudo",
@@ -19668,6 +19740,12 @@
       "pos": "PHRASE",
       "translation": "a praça do mercado",
       "example": "There were lights across the market place and a giant tree in front of the town hall."
+    },
+    {
+      "word": "market square",
+      "pos": "PHRASE",
+      "translation": "a praça do mercado",
+      "example": "The bus went slowly down the main street and stopped in the market square, in front of the old church, at 23:59 exactly."
     },
     {
       "word": "Marking",
@@ -23827,6 +23905,12 @@
       "example": "He thought about it at supper, while Jory described in loving detail the dead eel he was planning to hide in Seraphine Hale's boots."
     },
     {
+      "word": "planet",
+      "pos": "NOUN",
+      "translation": "o planeta",
+      "example": "To the people on the bus, it looked like something from another planet."
+    },
+    {
       "word": "plank",
       "pos": "NOUN",
       "translation": "a prancha",
@@ -24245,6 +24329,12 @@
       "pos": "VERB",
       "translation": "pôr no correio, enviar",
       "example": "Amy the nurse said she had posted only one card."
+    },
+    {
+      "word": "post box",
+      "pos": "PHRASE",
+      "translation": "a caixa de correio (na rua)",
+      "example": "\"And that's the old post box.\""
     },
     {
       "word": "post office",
@@ -29634,6 +29724,12 @@
       "example": "The paper itself seemed to relax; the waves smoothed out until the page lay flat."
     },
     {
+      "word": "smoothly",
+      "pos": "ADV",
+      "translation": "suavemente, sem solavancos",
+      "example": "The wheels rolled smoothly over the concrete, and under them the river shone in the orange light."
+    },
+    {
       "word": "smudge",
       "pos": "VERB",
       "translation": "borrar(-se), manchar",
@@ -30906,6 +31002,12 @@
       "example": "Then, in a tiny moment when Jamal dropped his right hand to throw a hook, Max stepped in and hit him with a short, straight left, exactly like Danny McBride did a hundred times in the game."
     },
     {
+      "word": "step off",
+      "pos": "PHRASE",
+      "translation": "descer (de um veículo, de um degrau)",
+      "example": "Then they stepped off the platform and disappeared too, like breath on a cold window."
+    },
+    {
       "word": "step out",
       "pos": "PHRASE",
       "translation": "dar um passo atrás, sair",
@@ -31158,6 +31260,12 @@
       "example": "He did not go back up the hill straight away."
     },
     {
+      "word": "straight on",
+      "pos": "PHRASE",
+      "translation": "em frente, sempre reto",
+      "example": "Straight on past the old barn."
+    },
+    {
       "word": "straighten",
       "pos": "VERB",
       "translation": "endireitar(-se)",
@@ -31346,8 +31454,14 @@
     {
       "word": "strike",
       "pos": "VERB",
-      "translation": "bater, golpear; parecer (“it struck him as comic”: pareceu-lhe cômico)",
+      "translation": "bater, golpear; parecer (“it struck him as comic”: pareceu-lhe cômico) ; bater (as horas, um relógio)",
       "example": "Every man reveals his intentions before he strikes."
+    },
+    {
+      "word": "strike twelve",
+      "pos": "PHRASE",
+      "translation": "bater as doze badaladas",
+      "example": "Above Callum's head, the church clock began to strike twelve."
     },
     {
       "word": "string",
@@ -31382,7 +31496,7 @@
     {
       "word": "stroke",
       "pos": "NOUN",
-      "translation": "o golpe (de machado, de lâmina), o traço",
+      "translation": "o golpe (de machado, de lâmina), o traço ; a badalada (“on the twelfth stroke”: na décima segunda badalada)",
       "example": "Bram stripped the fallen oak with short, economical strokes while Rowan dragged the branches to the pile and sorted them by thickness: kindling, fencing, firewood, nothing wasted."
     },
     {
@@ -32086,6 +32200,12 @@
       "pos": "PHRASE",
       "translation": "respirar fundo, tomar fôlego",
       "example": "He took a breath and began to count."
+    },
+    {
+      "word": "take a deep breath",
+      "pos": "PHRASE",
+      "translation": "respirar fundo",
+      "example": "Mr Quill slowed down, took a deep breath and drove onto the bridge."
     },
     {
       "word": "take a long time",
@@ -34223,6 +34343,12 @@
       "example": "He was an old man, eighty at least, with a magnificent white moustache and a tweed cap pulled low over his ears, and beside him a woman of similar age sat swaddled in a tartan travel rug, her lips an alarming shade of blue."
     },
     {
+      "word": "twelfth",
+      "pos": "ADJ",
+      "translation": "décimo segundo",
+      "example": "On the twelfth stroke, Callum turned around."
+    },
+    {
       "word": "twelve",
       "pos": "NUM",
       "translation": "doze",
@@ -34335,6 +34461,12 @@
       "pos": "NOUN",
       "translation": "o pneu",
       "example": "He began his walk-round check by torchlight, as the regulations required and as habit would have compelled him to do regardless: tyres, wheel nuts, lights, mirrors, the fifth-wheel coupling, the airlines and the suzies coiled behind the cab."
+    },
+    {
+      "word": "tyre mark",
+      "pos": "PHRASE",
+      "translation": "a marca de pneu",
+      "example": "There was no green double-decker, no Mr Quill, no tyre marks on the wet ground."
     },
     {
       "word": "U",
