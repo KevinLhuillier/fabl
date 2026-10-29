@@ -1384,6 +1384,12 @@
       "example": "In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail."
     },
     {
+      "word": "army",
+      "pos": "NOUN",
+      "translation": "el ejército",
+      "example": "A young man in an old army uniform."
+    },
+    {
       "word": "around",
       "pos": "ADP",
       "translation": "alrededor de",
@@ -2081,6 +2087,12 @@
       "pos": "NOUN",
       "translation": "el fondo ; los orígenes",
       "example": "Rosalind could hear the kettle in the background and the radio."
+    },
+    {
+      "word": "backpack",
+      "pos": "NOUN",
+      "translation": "la mochila",
+      "example": "He put a toothbrush and a clean T-shirt in his backpack."
     },
     {
       "word": "backwards",
@@ -3106,6 +3118,12 @@
       "pos": "VERB",
       "translation": "bendecir",
       "example": "Letters from village elders asking whether the Wood-boy might visit and bless their orchards."
+    },
+    {
+      "word": "blind",
+      "pos": "NOUN",
+      "translation": "la persiana; aquí: el letrero (que indica el destino de un autobús)",
+      "example": "Above the windscreen, in white letters on a black blind, Callum read: 31 RAVENSBY."
     },
     {
       "word": "blind",
@@ -4198,6 +4216,12 @@
       "pos": "PHRASE",
       "translation": "la marquesina (del autobús), la parada cubierta",
       "example": "Bus shelter, rue des Corons."
+    },
+    {
+      "word": "bus station",
+      "pos": "PHRASE",
+      "translation": "la estación de autobuses",
+      "example": "The last bus to Ravensby, the number 7, left the bus station at 23:15."
     },
     {
       "word": "bus stop",
@@ -6906,6 +6930,12 @@
       "example": "What does it cost you?"
     },
     {
+      "word": "costume",
+      "pos": "NOUN",
+      "translation": "el disfraz",
+      "example": "He had even bought a costume: a cheap black cape and a pair of plastic vampire teeth."
+    },
+    {
       "word": "cot",
       "pos": "NOUN",
       "translation": "el catre",
@@ -8748,6 +8778,12 @@
       "example": "Someone who was going to come tonight and — and buy—\" He doubled over, coughing."
     },
     {
+      "word": "double-decker",
+      "pos": "NOUN",
+      "translation": "el autobús de dos pisos",
+      "example": "It was an old green double-decker, the kind you see in museums or in old films."
+    },
+    {
       "word": "doubt",
       "pos": "ADV",
       "translation": "la duda («no doubt»: sin duda)",
@@ -8958,6 +8994,12 @@
       "example": "Nineteen children stood in a ragged line before the Stone, scrubbed and combed and dressed in clothes that had clearly been borrowed for the occasion."
     },
     {
+      "word": "dressed as",
+      "pos": "PHRASE",
+      "translation": "disfrazado de",
+      "example": "Then he walked through the wet streets of Wetherholme, past pubs full of witches, zombies and people dressed as giant pumpkins."
+    },
+    {
       "word": "dressing",
       "pos": "NOUN",
       "translation": "(en «dressing gown»: bata)",
@@ -9112,6 +9154,12 @@
       "pos": "PROPN",
       "translation": "Drumochter (el puerto más alto de la A9, en las Highlands)",
       "example": "A band of heavy snow was forecast to move in off the Cairngorms by mid-afternoon, and the Met Office had issued an amber warning that ran, with a cartographer's indifference, straight across the Drumochter Pass."
+    },
+    {
+      "word": "drunk",
+      "pos": "ADJ",
+      "translation": "borracho",
+      "example": "It was a much better plan than a party full of drunk vampires."
     },
     {
       "word": "dry",
@@ -10856,6 +10904,12 @@
       "pos": "PHRASE",
       "translation": "tener la sensación de, sentirse como ; tener ganas de",
       "example": "They feel like they want to follow her."
+    },
+    {
+      "word": "feel sorry for",
+      "pos": "PHRASE",
+      "translation": "compadecer, sentir lástima por («feel sorry for himself»: compadecerse de sí mismo)",
+      "example": "Or he could sit here and feel sorry for himself."
     },
     {
       "word": "feeling",
@@ -14132,6 +14186,12 @@
       "example": "Rowan was playing a half-hearted game of draughts with Tamsin, and losing, when the door opened and Master Grey came in with the storm at his back."
     },
     {
+      "word": "half-term",
+      "pos": "NOUN",
+      "translation": "las vacaciones de mitad de trimestre (en Gran Bretaña)",
+      "example": "It was half-term, he had no classes the next day, and Nan always said, \"Come whenever you want, love."
+    },
+    {
       "word": "halfway",
       "pos": "ADV",
       "translation": "a mitad, a medio camino",
@@ -14166,6 +14226,12 @@
       "pos": "PROPN",
       "translation": "Hallgarth (nombre de calle: «Hallgarth Street»)",
       "example": "Home, at the moment, was a narrow terraced house on Hallgarth Street."
+    },
+    {
+      "word": "Halloween",
+      "pos": "PROPN",
+      "translation": "Halloween (fiesta del 31 de octubre)",
+      "example": "Callum Reddaway hated Halloween."
     },
     {
       "word": "hallucination",
@@ -15338,6 +15404,18 @@
       "example": "It hooks your Well, and then it waits for you to struggle."
     },
     {
+      "word": "hop",
+      "pos": "VERB",
+      "translation": "saltar, brincar",
+      "example": "\"Last bus tonight, young man. Hop on.\""
+    },
+    {
+      "word": "hop on",
+      "pos": "PHRASE",
+      "translation": "subirse (a un autobús, un tren; coloquial)",
+      "example": "\"Last bus tonight, young man. Hop on.\""
+    },
+    {
       "word": "hope",
       "pos": "NOUN",
       "translation": "la esperanza",
@@ -16033,6 +16111,12 @@
       "example": "It was not two thousand pounds in cash."
     },
     {
+      "word": "in costume",
+      "pos": "PHRASE",
+      "translation": "disfrazado",
+      "example": "Some bus companies did that: old vehicles, staff in costume, a bit of fun for the tourists."
+    },
+    {
       "word": "in exchange for",
       "pos": "PHRASE",
       "translation": "a cambio de",
@@ -16108,6 +16192,12 @@
       "pos": "PHRASE",
       "translation": "de pasada",
       "example": "Only when he mentioned, almost in passing, that this was his last week did her face change."
+    },
+    {
+      "word": "in pen",
+      "pos": "PHRASE",
+      "translation": "con bolígrafo (a tinta, sin poder borrar)",
+      "example": "She was seventy years old, but she still walked five kilometres every morning, did the crossword in pen and argued with the television during the news."
     },
     {
       "word": "in pieces",
@@ -16287,6 +16377,12 @@
       "pos": "ADJ",
       "translation": "inclinado («I am inclined to believe him»: me inclino a creerle)",
       "example": "For once, I am inclined to believe him."
+    },
+    {
+      "word": "inconvenience",
+      "pos": "NOUN",
+      "translation": "la molestia («We apologise for any inconvenience»: disculpen las molestias)",
+      "example": "We apologise for any inconvenience."
     },
     {
       "word": "increase",
@@ -17366,6 +17462,12 @@
       "pos": "NOUN",
       "translation": "la investidura, el título de caballero",
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "knit",
+      "pos": "VERB",
+      "translation": "tejer (con agujas)",
+      "example": "A woman with a huge bun of hair, knitting something red."
     },
     {
       "word": "knock",
@@ -19898,6 +20000,12 @@
       "example": "I don't mind."
     },
     {
+      "word": "mind the step",
+      "pos": "PHRASE",
+      "translation": "cuidado con el escalón",
+      "example": "\"Mind the step,\" he said."
+    },
+    {
       "word": "mind you",
       "pos": "PHRASE",
       "translation": "eso sí, ojo",
@@ -20004,6 +20112,12 @@
       "pos": "PROPN",
       "translation": "Señorita",
       "example": "Hearthside is for Earth, Miss Reed."
+    },
+    {
+      "word": "missed call",
+      "pos": "PHRASE",
+      "translation": "la llamada perdida",
+      "example": "His phone showed eleven missed calls and a message from Priya: \"We waited 30 minutes."
     },
     {
       "word": "missing",
@@ -20562,6 +20676,12 @@
       "pos": "NOUN",
       "translation": "la abuelita (coloquial)",
       "example": "My nan had one that—\""
+    },
+    {
+      "word": "Nan",
+      "pos": "PROPN",
+      "translation": "la abuela, la yaya (forma cariñosa)",
+      "example": "It was half-term, he had no classes the next day, and Nan always said, \"Come whenever you want, love."
     },
     {
       "word": "napkin",
@@ -21763,6 +21883,12 @@
       "example": "On the other hand, he could already imagine their faces."
     },
     {
+      "word": "on the other side of",
+      "pos": "PHRASE",
+      "translation": "al otro lado de",
+      "example": "His grandmother lived in Ravensby, a small village on the other side of the moor, about twenty kilometres north."
+    },
+    {
       "word": "on the verge of",
       "pos": "PHRASE",
       "translation": "al borde de, a punto de",
@@ -21971,6 +22097,12 @@
       "pos": "NOUN",
       "translation": "el optimismo",
       "example": "Gideon had seen the aftermath of such optimism more times than he cared to remember."
+    },
+    {
+      "word": "option",
+      "pos": "NOUN",
+      "translation": "la opción",
+      "example": "He chose the third option, at least for a few minutes."
     },
     {
       "word": "or",
@@ -22813,6 +22945,18 @@
       "example": "I said he looked peaceful."
     },
     {
+      "word": "peaked",
+      "pos": "ADJ",
+      "translation": "con visera (gorra)",
+      "example": "The driver was a thin man of about fifty, with a grey uniform, a peaked cap and a small moustache."
+    },
+    {
+      "word": "peaked cap",
+      "pos": "PHRASE",
+      "translation": "la gorra de plato (de uniforme)",
+      "example": "The driver was a thin man of about fifty, with a grey uniform, a peaked cap and a small moustache."
+    },
+    {
       "word": "pebble",
       "pos": "NOUN",
       "translation": "el guijarro, la piedrecita",
@@ -23459,6 +23603,12 @@
       "pos": "NOUN",
       "translation": "el plato ; la placa («metal plate»: placa de metal)",
       "example": "Instead, he went back into his flat and returned with an old towel and a plate of chicken."
+    },
+    {
+      "word": "platform",
+      "pos": "NOUN",
+      "translation": "la plataforma; el andén (de una estación)",
+      "example": "It had a long silver radiator, a big rounded front and an open platform at the back, with a pole to hold."
     },
     {
       "word": "platitude",
@@ -24475,6 +24625,12 @@
       "example": "A boy who drew Wood out of the Elderwood like water out of a pump, and who doesn't know how to stop."
     },
     {
+      "word": "pumpkin",
+      "pos": "NOUN",
+      "translation": "la calabaza",
+      "example": "Then he walked through the wet streets of Wetherholme, past pubs full of witches, zombies and people dressed as giant pumpkins."
+    },
+    {
       "word": "punch",
       "pos": "NOUN",
       "translation": "el puñetazo, el golpe",
@@ -24871,6 +25027,12 @@
       "example": "And drew a little raincloud on his napkin."
     },
     {
+      "word": "raincoat",
+      "pos": "NOUN",
+      "translation": "el impermeable",
+      "example": "And near the back, alone by the window, a girl of about sixteen in a yellow raincoat, holding a strange lantern on her knees."
+    },
+    {
       "word": "raise",
       "pos": "VERB",
       "translation": "levantar, alzar",
@@ -24988,6 +25150,12 @@
       "pos": "VERB",
       "translation": "hacer vibrar, sacudir, traquetear",
       "example": "He was a fourth-year, a big, slow-spoken boy from a mining town in the northern mountains, with hands like shovels and a laugh that could rattle the shutters."
+    },
+    {
+      "word": "Ravensby",
+      "pos": "PROPN",
+      "translation": "Ravensby (pueblo)",
+      "example": "His grandmother lived in Ravensby, a small village on the other side of the moor, about twenty kilometres north."
     },
     {
       "word": "raw",
@@ -25270,6 +25438,12 @@
       "pos": "ADJ",
       "translation": "rojo",
       "example": "A big red bus. — Un gran autobús rojo."
+    },
+    {
+      "word": "Reddaway",
+      "pos": "PROPN",
+      "translation": "Reddaway (apellido)",
+      "example": "Callum Reddaway hated Halloween."
     },
     {
       "word": "reed",
@@ -26386,6 +26560,12 @@
       "pos": "PHRASE",
       "translation": "arremeter contra, volverse contra",
       "example": "Tamsin rounded on them with a face like thunder."
+    },
+    {
+      "word": "rounded",
+      "pos": "ADJ",
+      "translation": "redondeado",
+      "example": "It had a long silver radiator, a big rounded front and an open platform at the back, with a pole to hold."
     },
     {
       "word": "Roundhay",
@@ -27918,6 +28098,12 @@
       "example": "For a long while he lay awake in the dark, listening to the strange new sounds of Thornhall settling around him: the breathing of a dozen sleepers behind their curtains, the creak of great branches in the wind, the far-off murmur of the lake, the slow, deep groan of old wood shifting in its sleep."
     },
     {
+      "word": "shilling",
+      "pos": "NOUN",
+      "translation": "el chelín (antigua moneda británica; «1s.»: un chelín)",
+      "example": "One shilling and sixpence: old money, from before 1971."
+    },
+    {
       "word": "shimmer",
       "pos": "VERB",
       "translation": "reverberar, rielar",
@@ -28594,6 +28780,12 @@
       "pos": "NUM",
       "translation": "seis",
       "example": "She came to the clearing at dusk that same day, on foot, as though she had walked the six miles from Brackenford for the pleasure of it."
+    },
+    {
+      "word": "sixpence",
+      "pos": "NOUN",
+      "translation": "seis peniques (antigua moneda británica; «6d.»: seis peniques)",
+      "example": "One shilling and sixpence: old money, from before 1971."
     },
     {
       "word": "sixteen",
@@ -31715,6 +31907,12 @@
       "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
     },
     {
+      "word": "taxi",
+      "pos": "NOUN",
+      "translation": "el taxi",
+      "example": "The farmhouse was fifteen kilometres away, in the middle of the hills, and no taxi in Wetherholme was free on Halloween night."
+    },
+    {
       "word": "Taylor",
       "pos": "PROPN",
       "translation": "Taylor (apellido)",
@@ -32247,6 +32445,12 @@
       "pos": "VERB",
       "translation": "pensar",
       "example": "\"I thought you had retired to grow cabbages.\""
+    },
+    {
+      "word": "think of",
+      "pos": "PHRASE",
+      "translation": "pensar en",
+      "example": "When he thought of the word \"home\", he often thought of Nan's kitchen."
     },
     {
       "word": "thinking",
@@ -32871,6 +33075,12 @@
       "pos": "NOUN",
       "translation": "el diente",
       "example": "It was not much: a long, low ripple through the turf, like a shrug passing beneath a blanket, and a sound Rowan felt in his teeth more than heard."
+    },
+    {
+      "word": "toothbrush",
+      "pos": "NOUN",
+      "translation": "el cepillo de dientes",
+      "example": "He put a toothbrush and a clean T-shirt in his backpack."
     },
     {
       "word": "top",
@@ -34402,6 +34612,12 @@
       "example": "A crow lifted from its crown, complaining loudly, and then the whole grey mass of it tilted — slowly at first, almost reluctantly — before crashing down through the bracken with a sound that rolled across the valley and came back twice."
     },
     {
+      "word": "vampire",
+      "pos": "NOUN",
+      "translation": "el vampiro",
+      "example": "He had even bought a costume: a cheap black cape and a pair of plastic vampire teeth."
+    },
+    {
       "word": "van",
       "pos": "NOUN",
       "translation": "la furgoneta",
@@ -34454,6 +34670,12 @@
       "pos": "NOUN",
       "translation": "la verdura, la hortaliza",
       "example": "It was Priya, already: Also, eat some vegetables."
+    },
+    {
+      "word": "vehicle",
+      "pos": "NOUN",
+      "translation": "el vehículo",
+      "example": "Some bus companies did that: old vehicles, staff in costume, a bit of fun for the tourists."
     },
     {
       "word": "vein",
@@ -35410,6 +35632,12 @@
       "example": "Wetherby."
     },
     {
+      "word": "Wetherholme",
+      "pos": "PROPN",
+      "translation": "Wetherholme (ciudad universitaria)",
+      "example": "He was nineteen, he studied engineering at the university in Wetherholme, and he thought that costumes, plastic skeletons and fake blood were for children."
+    },
+    {
       "word": "Wharfe",
       "pos": "PROPN",
       "translation": "el Wharfe (río de Yorkshire)",
@@ -35924,6 +36152,12 @@
       "pos": "NOUN",
       "translation": "el ingenio («wits»: el ingenio, la cabeza)",
       "example": "\"Several of you will need your wits as well, but I am a realist.\""
+    },
+    {
+      "word": "witch",
+      "pos": "NOUN",
+      "translation": "la bruja",
+      "example": "Then he walked through the wet streets of Wetherholme, past pubs full of witches, zombies and people dressed as giant pumpkins."
     },
     {
       "word": "with",

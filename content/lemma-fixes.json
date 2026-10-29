@@ -7,6 +7,18 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "1s",
+      "pos": "NOUN",
+      "word": "shilling",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "6d",
+      "pos": "PROPN",
+      "word": "sixpence",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "A180",
       "pos": "NOUN",
       "word": "A180",
@@ -820,6 +832,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "decker",
+      "pos": "NOUN",
+      "word": "double-decker",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Deep",
       "pos": "PROPN",
       "word": "deep",
@@ -896,6 +914,13 @@
       "pos": "VERB",
       "word": "do",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "double",
+      "pos": "ADJ",
+      "next": "-",
+      "word": "double-decker",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "down",
@@ -1059,6 +1084,12 @@
       "pos": "NOUN",
       "word": "Fall",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Fare",
+      "pos": "ADJ",
+      "word": "fare",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Farmer",
@@ -1527,6 +1558,13 @@
       "next": "frightened",
       "word": "half",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "half",
+      "pos": "ADJ",
+      "next": "-",
+      "word": "half-term",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "hang",
@@ -2913,6 +2951,12 @@
       "pos": "VERB",
       "word": "rate",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "RAVENSBY",
+      "pos": "NOUN",
+      "word": "Ravensby",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "re",

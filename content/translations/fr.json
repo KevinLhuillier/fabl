@@ -1384,6 +1384,12 @@
       "example": "In the afternoon, Edwin sat in the armoury, cleaning the rust from his master's chain mail."
     },
     {
+      "word": "army",
+      "pos": "NOUN",
+      "translation": "l'armée",
+      "example": "A young man in an old army uniform."
+    },
+    {
       "word": "around",
       "pos": "ADP",
       "translation": "autour de",
@@ -2081,6 +2087,12 @@
       "pos": "NOUN",
       "translation": "l'arrière-plan, le fond ; le milieu, les origines",
       "example": "Rosalind could hear the kettle in the background and the radio."
+    },
+    {
+      "word": "backpack",
+      "pos": "NOUN",
+      "translation": "le sac à dos",
+      "example": "He put a toothbrush and a clean T-shirt in his backpack."
     },
     {
       "word": "backwards",
@@ -3106,6 +3118,12 @@
       "pos": "VERB",
       "translation": "bénir",
       "example": "Letters from village elders asking whether the Wood-boy might visit and bless their orchards."
+    },
+    {
+      "word": "blind",
+      "pos": "NOUN",
+      "translation": "le store ; ici : le bandeau (qui indique la destination d'un bus)",
+      "example": "Above the windscreen, in white letters on a black blind, Callum read: 31 RAVENSBY."
     },
     {
       "word": "blind",
@@ -4198,6 +4216,12 @@
       "pos": "PHRASE",
       "translation": "l'abribus",
       "example": "Bus shelter, rue des Corons."
+    },
+    {
+      "word": "bus station",
+      "pos": "PHRASE",
+      "translation": "la gare routière",
+      "example": "The last bus to Ravensby, the number 7, left the bus station at 23:15."
     },
     {
       "word": "bus stop",
@@ -6906,6 +6930,12 @@
       "example": "What does it cost you?"
     },
     {
+      "word": "costume",
+      "pos": "NOUN",
+      "translation": "le déguisement, le costume",
+      "example": "He had even bought a costume: a cheap black cape and a pair of plastic vampire teeth."
+    },
+    {
       "word": "cot",
       "pos": "NOUN",
       "translation": "le lit de camp",
@@ -8748,6 +8778,12 @@
       "example": "Someone who was going to come tonight and — and buy—\" He doubled over, coughing."
     },
     {
+      "word": "double-decker",
+      "pos": "NOUN",
+      "translation": "le bus à impériale (bus à deux étages)",
+      "example": "It was an old green double-decker, the kind you see in museums or in old films."
+    },
+    {
       "word": "doubt",
       "pos": "ADV",
       "translation": "le doute (« no doubt » : sans doute)",
@@ -8958,6 +8994,12 @@
       "example": "Nineteen children stood in a ragged line before the Stone, scrubbed and combed and dressed in clothes that had clearly been borrowed for the occasion."
     },
     {
+      "word": "dressed as",
+      "pos": "PHRASE",
+      "translation": "déguisé en",
+      "example": "Then he walked through the wet streets of Wetherholme, past pubs full of witches, zombies and people dressed as giant pumpkins."
+    },
+    {
       "word": "dressing",
       "pos": "NOUN",
       "translation": "(dans « dressing gown » : robe de chambre)",
@@ -9112,6 +9154,12 @@
       "pos": "PROPN",
       "translation": "Drumochter (col le plus haut de l'A9, dans les Highlands)",
       "example": "A band of heavy snow was forecast to move in off the Cairngorms by mid-afternoon, and the Met Office had issued an amber warning that ran, with a cartographer's indifference, straight across the Drumochter Pass."
+    },
+    {
+      "word": "drunk",
+      "pos": "ADJ",
+      "translation": "ivre, soûl",
+      "example": "It was a much better plan than a party full of drunk vampires."
     },
     {
       "word": "dry",
@@ -10856,6 +10904,12 @@
       "pos": "PHRASE",
       "translation": "avoir l'impression de, se sentir comme ; avoir envie de",
       "example": "They feel like they want to follow her."
+    },
+    {
+      "word": "feel sorry for",
+      "pos": "PHRASE",
+      "translation": "plaindre, avoir pitié de (« feel sorry for himself » : s'apitoyer sur son sort)",
+      "example": "Or he could sit here and feel sorry for himself."
     },
     {
       "word": "feeling",
@@ -14132,6 +14186,12 @@
       "example": "Rowan was playing a half-hearted game of draughts with Tamsin, and losing, when the door opened and Master Grey came in with the storm at his back."
     },
     {
+      "word": "half-term",
+      "pos": "NOUN",
+      "translation": "les petites vacances (au milieu du trimestre, en Grande-Bretagne)",
+      "example": "It was half-term, he had no classes the next day, and Nan always said, \"Come whenever you want, love."
+    },
+    {
       "word": "halfway",
       "pos": "ADV",
       "translation": "à mi-chemin, à la moitié",
@@ -14166,6 +14226,12 @@
       "pos": "PROPN",
       "translation": "Hallgarth (nom de rue : « Hallgarth Street »)",
       "example": "Home, at the moment, was a narrow terraced house on Hallgarth Street."
+    },
+    {
+      "word": "Halloween",
+      "pos": "PROPN",
+      "translation": "Halloween (fête du 31 octobre)",
+      "example": "Callum Reddaway hated Halloween."
     },
     {
       "word": "hallucination",
@@ -15338,6 +15404,18 @@
       "example": "It hooks your Well, and then it waits for you to struggle."
     },
     {
+      "word": "hop",
+      "pos": "VERB",
+      "translation": "sauter, sautiller",
+      "example": "\"Last bus tonight, young man. Hop on.\""
+    },
+    {
+      "word": "hop on",
+      "pos": "PHRASE",
+      "translation": "monter (dans un bus, un train ; familier)",
+      "example": "\"Last bus tonight, young man. Hop on.\""
+    },
+    {
       "word": "hope",
       "pos": "NOUN",
       "translation": "l'espoir",
@@ -16033,6 +16111,12 @@
       "example": "It was not two thousand pounds in cash."
     },
     {
+      "word": "in costume",
+      "pos": "PHRASE",
+      "translation": "déguisé, en costume",
+      "example": "Some bus companies did that: old vehicles, staff in costume, a bit of fun for the tourists."
+    },
+    {
       "word": "in exchange for",
       "pos": "PHRASE",
       "translation": "en échange de",
@@ -16108,6 +16192,12 @@
       "pos": "PHRASE",
       "translation": "en passant",
       "example": "Only when he mentioned, almost in passing, that this was his last week did her face change."
+    },
+    {
+      "word": "in pen",
+      "pos": "PHRASE",
+      "translation": "au stylo (à l'encre, donc sans pouvoir effacer)",
+      "example": "She was seventy years old, but she still walked five kilometres every morning, did the crossword in pen and argued with the television during the news."
     },
     {
       "word": "in pieces",
@@ -16287,6 +16377,12 @@
       "pos": "ADJ",
       "translation": "enclin (« I am inclined to believe him » : je suis tentée de le croire)",
       "example": "For once, I am inclined to believe him."
+    },
+    {
+      "word": "inconvenience",
+      "pos": "NOUN",
+      "translation": "le désagrément, la gêne (« We apologise for any inconvenience » : veuillez nous excuser pour la gêne occasionnée)",
+      "example": "We apologise for any inconvenience."
     },
     {
       "word": "increase",
@@ -17366,6 +17462,12 @@
       "pos": "NOUN",
       "translation": "l'adoubement, le titre de chevalier",
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "knit",
+      "pos": "VERB",
+      "translation": "tricoter",
+      "example": "A woman with a huge bun of hair, knitting something red."
     },
     {
       "word": "knock",
@@ -19898,6 +20000,12 @@
       "example": "I don't mind."
     },
     {
+      "word": "mind the step",
+      "pos": "PHRASE",
+      "translation": "attention à la marche",
+      "example": "\"Mind the step,\" he said."
+    },
+    {
       "word": "mind you",
       "pos": "PHRASE",
       "translation": "remarque, notez bien",
@@ -20004,6 +20112,12 @@
       "pos": "PROPN",
       "translation": "Mademoiselle",
       "example": "Hearthside is for Earth, Miss Reed."
+    },
+    {
+      "word": "missed call",
+      "pos": "PHRASE",
+      "translation": "l'appel manqué",
+      "example": "His phone showed eleven missed calls and a message from Priya: \"We waited 30 minutes."
     },
     {
       "word": "missing",
@@ -20562,6 +20676,12 @@
       "pos": "NOUN",
       "translation": "la mamie, la grand-mère (familier)",
       "example": "My nan had one that—\""
+    },
+    {
+      "word": "Nan",
+      "pos": "PROPN",
+      "translation": "Mamie (nom affectueux de la grand-mère)",
+      "example": "It was half-term, he had no classes the next day, and Nan always said, \"Come whenever you want, love."
     },
     {
       "word": "napkin",
@@ -21763,6 +21883,12 @@
       "example": "On the other hand, he could already imagine their faces."
     },
     {
+      "word": "on the other side of",
+      "pos": "PHRASE",
+      "translation": "de l'autre côté de",
+      "example": "His grandmother lived in Ravensby, a small village on the other side of the moor, about twenty kilometres north."
+    },
+    {
       "word": "on the verge of",
       "pos": "PHRASE",
       "translation": "au bord de, sur le point de",
@@ -21971,6 +22097,12 @@
       "pos": "NOUN",
       "translation": "l'optimisme",
       "example": "Gideon had seen the aftermath of such optimism more times than he cared to remember."
+    },
+    {
+      "word": "option",
+      "pos": "NOUN",
+      "translation": "l'option, le choix",
+      "example": "He chose the third option, at least for a few minutes."
     },
     {
       "word": "or",
@@ -22813,6 +22945,18 @@
       "example": "I said he looked peaceful."
     },
     {
+      "word": "peaked",
+      "pos": "ADJ",
+      "translation": "à visière (casquette)",
+      "example": "The driver was a thin man of about fifty, with a grey uniform, a peaked cap and a small moustache."
+    },
+    {
+      "word": "peaked cap",
+      "pos": "PHRASE",
+      "translation": "la casquette à visière (d'uniforme)",
+      "example": "The driver was a thin man of about fifty, with a grey uniform, a peaked cap and a small moustache."
+    },
+    {
       "word": "pebble",
       "pos": "NOUN",
       "translation": "le caillou, le galet",
@@ -23459,6 +23603,12 @@
       "pos": "NOUN",
       "translation": "l'assiette ; la plaque (« metal plate » : plaque de métal)",
       "example": "Instead, he went back into his flat and returned with an old towel and a plate of chicken."
+    },
+    {
+      "word": "platform",
+      "pos": "NOUN",
+      "translation": "la plateforme ; le quai (d'une gare)",
+      "example": "It had a long silver radiator, a big rounded front and an open platform at the back, with a pole to hold."
     },
     {
       "word": "platitude",
@@ -24475,6 +24625,12 @@
       "example": "A boy who drew Wood out of the Elderwood like water out of a pump, and who doesn't know how to stop."
     },
     {
+      "word": "pumpkin",
+      "pos": "NOUN",
+      "translation": "la citrouille",
+      "example": "Then he walked through the wet streets of Wetherholme, past pubs full of witches, zombies and people dressed as giant pumpkins."
+    },
+    {
       "word": "punch",
       "pos": "NOUN",
       "translation": "le coup de poing",
@@ -24871,6 +25027,12 @@
       "example": "And drew a little raincloud on his napkin."
     },
     {
+      "word": "raincoat",
+      "pos": "NOUN",
+      "translation": "l'imperméable, le ciré",
+      "example": "And near the back, alone by the window, a girl of about sixteen in a yellow raincoat, holding a strange lantern on her knees."
+    },
+    {
       "word": "raise",
       "pos": "VERB",
       "translation": "lever",
@@ -24988,6 +25150,12 @@
       "pos": "VERB",
       "translation": "faire trembler, secouer, cliqueter",
       "example": "He was a fourth-year, a big, slow-spoken boy from a mining town in the northern mountains, with hands like shovels and a laugh that could rattle the shutters."
+    },
+    {
+      "word": "Ravensby",
+      "pos": "PROPN",
+      "translation": "Ravensby (village)",
+      "example": "His grandmother lived in Ravensby, a small village on the other side of the moor, about twenty kilometres north."
     },
     {
       "word": "raw",
@@ -25270,6 +25438,12 @@
       "pos": "ADJ",
       "translation": "rouge",
       "example": "A big red bus. — Un grand bus rouge."
+    },
+    {
+      "word": "Reddaway",
+      "pos": "PROPN",
+      "translation": "Reddaway (nom de famille)",
+      "example": "Callum Reddaway hated Halloween."
     },
     {
       "word": "reed",
@@ -26386,6 +26560,12 @@
       "pos": "PHRASE",
       "translation": "s'en prendre à, se retourner contre",
       "example": "Tamsin rounded on them with a face like thunder."
+    },
+    {
+      "word": "rounded",
+      "pos": "ADJ",
+      "translation": "arrondi",
+      "example": "It had a long silver radiator, a big rounded front and an open platform at the back, with a pole to hold."
     },
     {
       "word": "Roundhay",
@@ -27918,6 +28098,12 @@
       "example": "For a long while he lay awake in the dark, listening to the strange new sounds of Thornhall settling around him: the breathing of a dozen sleepers behind their curtains, the creak of great branches in the wind, the far-off murmur of the lake, the slow, deep groan of old wood shifting in its sleep."
     },
     {
+      "word": "shilling",
+      "pos": "NOUN",
+      "translation": "le shilling (ancienne pièce britannique ; « 1s. » : un shilling)",
+      "example": "One shilling and sixpence: old money, from before 1971."
+    },
+    {
       "word": "shimmer",
       "pos": "VERB",
       "translation": "miroiter, trembloter (air chaud)",
@@ -28594,6 +28780,12 @@
       "pos": "NUM",
       "translation": "six",
       "example": "She came to the clearing at dusk that same day, on foot, as though she had walked the six miles from Brackenford for the pleasure of it."
+    },
+    {
+      "word": "sixpence",
+      "pos": "NOUN",
+      "translation": "six pence (ancienne pièce britannique ; « 6d. » : six pence)",
+      "example": "One shilling and sixpence: old money, from before 1971."
     },
     {
       "word": "sixteen",
@@ -31715,6 +31907,12 @@
       "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
     },
     {
+      "word": "taxi",
+      "pos": "NOUN",
+      "translation": "le taxi",
+      "example": "The farmhouse was fifteen kilometres away, in the middle of the hills, and no taxi in Wetherholme was free on Halloween night."
+    },
+    {
       "word": "Taylor",
       "pos": "PROPN",
       "translation": "Taylor (nom de famille)",
@@ -32247,6 +32445,12 @@
       "pos": "VERB",
       "translation": "penser",
       "example": "\"I thought you had retired to grow cabbages.\""
+    },
+    {
+      "word": "think of",
+      "pos": "PHRASE",
+      "translation": "penser à",
+      "example": "When he thought of the word \"home\", he often thought of Nan's kitchen."
     },
     {
       "word": "thinking",
@@ -32871,6 +33075,12 @@
       "pos": "NOUN",
       "translation": "la dent",
       "example": "It was not much: a long, low ripple through the turf, like a shrug passing beneath a blanket, and a sound Rowan felt in his teeth more than heard."
+    },
+    {
+      "word": "toothbrush",
+      "pos": "NOUN",
+      "translation": "la brosse à dents",
+      "example": "He put a toothbrush and a clean T-shirt in his backpack."
     },
     {
       "word": "top",
@@ -34402,6 +34612,12 @@
       "example": "A crow lifted from its crown, complaining loudly, and then the whole grey mass of it tilted — slowly at first, almost reluctantly — before crashing down through the bracken with a sound that rolled across the valley and came back twice."
     },
     {
+      "word": "vampire",
+      "pos": "NOUN",
+      "translation": "le vampire",
+      "example": "He had even bought a costume: a cheap black cape and a pair of plastic vampire teeth."
+    },
+    {
       "word": "van",
       "pos": "NOUN",
       "translation": "la camionnette",
@@ -34454,6 +34670,12 @@
       "pos": "NOUN",
       "translation": "le légume",
       "example": "It was Priya, already: Also, eat some vegetables."
+    },
+    {
+      "word": "vehicle",
+      "pos": "NOUN",
+      "translation": "le véhicule",
+      "example": "Some bus companies did that: old vehicles, staff in costume, a bit of fun for the tourists."
     },
     {
       "word": "vein",
@@ -35410,6 +35632,12 @@
       "example": "Wetherby."
     },
     {
+      "word": "Wetherholme",
+      "pos": "PROPN",
+      "translation": "Wetherholme (ville universitaire)",
+      "example": "He was nineteen, he studied engineering at the university in Wetherholme, and he thought that costumes, plastic skeletons and fake blood were for children."
+    },
+    {
       "word": "Wharfe",
       "pos": "PROPN",
       "translation": "la Wharfe (rivière du Yorkshire)",
@@ -35924,6 +36152,12 @@
       "pos": "NOUN",
       "translation": "l'esprit (« wits » : la présence d'esprit, l'intelligence)",
       "example": "\"Several of you will need your wits as well, but I am a realist.\""
+    },
+    {
+      "word": "witch",
+      "pos": "NOUN",
+      "translation": "la sorcière",
+      "example": "Then he walked through the wet streets of Wetherholme, past pubs full of witches, zombies and people dressed as giant pumpkins."
     },
     {
       "word": "with",

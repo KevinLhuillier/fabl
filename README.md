@@ -317,7 +317,8 @@ The publish script lists the untranslated ones with the other lemmas.
 - **Fixed phrases** ("of course", "in front of", "be about to") are listed in
   `content/expressions.json` and matched on consecutive words, each by its text or its base form
   ("took care of" → _take care of_). The longest match wins.
-- `ignore` in the same file lists phrasal verbs that mean nothing more than their words.
+- `ignore` in the same file lists phrasal verbs that mean nothing more than their words, and
+  exact words that only look like a fixed phrase ("bus stopped" is not _bus stop_).
 
 After changing `content/expressions.json`, republish the stories and translate the new expressions.
 

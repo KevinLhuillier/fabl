@@ -9,7 +9,8 @@
  * - content/expressions.json: fixed phrases the parser can't see, matched on
  *   consecutive words (each word by its text or its lemma: "took care of" →
  *   "take care of"). The longest match wins; `ignore` lists phrasal verbs that
- *   mean nothing more than their words.
+ *   mean nothing more than their words, and exact words that only look like a
+ *   fixed phrase ("bus stopped" is not "bus stop").
  */
 import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
@@ -69,7 +70,9 @@ export function markPhrases(tokens: Token[], deps: Dependency[]) {
           matches(tokens[p]!, words[k]!) &&
           (k === words.length - 1 || !tokens[p]!.whitespace.includes('\n')),
       );
-      if (fits) {
+      // `ignore` also lists exact words that only look like a phrase ("the bus stopped").
+      const text = positions.map((p) => tokens[p]?.text.toLowerCase()).join(' ');
+      if (fits && !ignore.has(text)) {
         mark(positions, phraseLemma(words));
         break;
       }
