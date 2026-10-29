@@ -362,16 +362,26 @@ export default function ChapterReader() {
   );
 }
 
-/** Last timed word reached at `ms`, and whether it is being spoken right now. */
+/** The highlight runs this much ahead of the voice: the time it takes to show. */
+const LEAD_MS = 60;
+/** After a word, its highlight stays through a short silence (a comma, a breath). */
+const HOLD_MS = 600;
+
+/**
+ * Last timed word reached at `ms`, and whether it is being spoken right now. A word
+ * stays current until the next one starts (or a long silence), so the highlight
+ * never blinks off between two words.
+ */
 function locate(timed: Token[], ms: number): ReadAlong {
+  const at = ms + LEAD_MS;
   let last: Token | null = null;
   for (const t of timed) {
-    if (t.startMs! > ms) break;
+    if (t.startMs! > at) break;
     last = t;
   }
   return {
     readUpTo: last?.position ?? -1,
-    current: last && ms <= last.endMs! ? last.position : null,
+    current: last && at <= last.endMs! + HOLD_MS ? last.position : null,
   };
 }
 

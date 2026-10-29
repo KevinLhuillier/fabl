@@ -1,6 +1,6 @@
 import { useAudioPlayer, useAudioPlayerStatus } from 'expo-audio';
 import { Pause, Play, RotateCcw } from 'lucide-react-native';
-import { useEffect, useImperativeHandle, type Ref } from 'react';
+import { useEffect, useImperativeHandle, useRef, type Ref } from 'react';
 import { ActivityIndicator, Pressable, StyleSheet, View, type ViewStyle } from 'react-native';
 import Svg, { Circle } from 'react-native-svg';
 
@@ -17,6 +17,8 @@ const RING = 4;
 const RADIUS = (PAGE_AUDIO_SIZE - RING) / 2;
 const CIRCUMFERENCE = 2 * Math.PI * RADIUS;
 const BUTTON = PAGE_AUDIO_SIZE - RING * 2 - 4;
+/** How far past the last status update the position is extrapolated (a stall stops it). */
+const MAX_EXTRAPOLATION_MS = 300;
 
 /**
  * Compact player for a page's recorded voice-over: one round button (play / pause /
@@ -51,12 +53,39 @@ export function PageAudio({
   const ended = status.duration > 0 && status.currentTime >= status.duration - 0.25;
   const progress = status.duration ? Math.min(1, status.currentTime / status.duration) : 0;
   const started = status.playing || status.currentTime > 0;
+  const running = started && !ended && status.playing;
 
   useEffect(ensureAudioMode, []);
 
+  // Last position reported by the player, and when it arrived.
+  const clock = useRef({ ms: 0, at: 0 });
   useEffect(() => {
-    onTime?.(started && !ended ? status.currentTime * 1000 : null);
-  }, [onTime, started, ended, status.currentTime]);
+    clock.current = { ms: status.currentTime * 1000, at: performance.now() };
+  }, [status.currentTime]);
+
+  useEffect(() => {
+    if (!running) onTime?.(started && !ended ? status.currentTime * 1000 : null);
+  }, [onTime, running, started, ended, status.currentTime]);
+
+  // While playing, the position is extrapolated every frame between two status updates
+  // (irregular on Android): short words are no longer skipped and the highlight keeps up.
+  useEffect(() => {
+    if (!onTime || !running) return;
+    const rate = status.playbackRate || 1;
+    let last = -1;
+    let frame = 0;
+    const tick = () => {
+      const { ms, at } = clock.current;
+      let now = ms + Math.min(performance.now() - at, MAX_EXTRAPOLATION_MS) * rate;
+      // An update slightly behind the extrapolation must not step back a word (a seek may).
+      if (now < last && last - now < MAX_EXTRAPOLATION_MS) now = last;
+      last = now;
+      onTime(now);
+      frame = requestAnimationFrame(tick);
+    };
+    tick();
+    return () => cancelAnimationFrame(frame);
+  }, [onTime, running, status.playbackRate]);
 
   useImperativeHandle(
     ref,

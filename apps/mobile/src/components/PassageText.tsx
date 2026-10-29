@@ -282,7 +282,8 @@ const styles = StyleSheet.create({
     right: 0,
     borderRadius: radii.sm,
     transitionProperty: 'opacity',
-    transitionDuration: 220,
+    // Short: a quickly spoken word must be fully highlighted before the next one.
+    transitionDuration: 90,
     transitionTimingFunction: 'ease-out',
   },
   highlightLeft: { left: -spacing.xs - spacing.xxs },
