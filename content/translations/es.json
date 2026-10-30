@@ -162,6 +162,12 @@
       "example": "The A180 was deserted save for a gritting lorry lumbering ahead of him, its amber beacon sweeping the hedgerows in slow, hypnotic arcs, and Gideon settled in behind it without impatience."
     },
     {
+      "word": "A38",
+      "pos": "PROPN",
+      "translation": "A38 (carretera principal que cruza Bristol)",
+      "example": "Nadia called him, and he agreed, not very happily, to meet them at eleven at a petrol station on the A38, where he stopped every morning for coffee."
+    },
+    {
       "word": "A9",
       "pos": "PROPN",
       "translation": "A9 (carretera de Perth a Inverness, por las Highlands)",
@@ -2503,6 +2509,12 @@
       "example": "In summer, swallows came to Ellerdale from Africa and built their nests under roofs, in barns, in old buildings."
     },
     {
+      "word": "Barnes",
+      "pos": "PROPN",
+      "translation": "Barnes (apellido)",
+      "example": "The delivery driver, Lee Barnes, was not at the bakery."
+    },
+    {
       "word": "barracks",
       "pos": "NOUN",
       "translation": "el cuartel",
@@ -3186,6 +3198,12 @@
       "example": "Inside, her cat Biscuit was waiting for her on the stairs, with the face of a cat who has not eaten for three weeks."
     },
     {
+      "word": "biscuit tin",
+      "pos": "PHRASE",
+      "translation": "la lata de galletas",
+      "example": "He felt a small, warm, childish guilt, the kind of guilt a boy feels with his hand in the biscuit tin."
+    },
+    {
       "word": "bishop",
       "pos": "NOUN",
       "translation": "el obispo",
@@ -3556,6 +3574,12 @@
       "pos": "NOUN",
       "translation": "el cuerpo",
       "example": "I found a small space under a chimney and pressed my body against the bricks."
+    },
+    {
+      "word": "boil",
+      "pos": "VERB",
+      "translation": "hervir",
+      "example": "Hot, tired, old anger, the kind of anger that has been boiling for a long time."
     },
     {
       "word": "boiler",
@@ -4048,6 +4072,12 @@
       "pos": "PHRASE",
       "translation": "inspirar, aspirar",
       "example": "Like himself: steady, strong, breathing in for four and out for four."
+    },
+    {
+      "word": "breathe out",
+      "pos": "PHRASE",
+      "translation": "espirar, soltar el aire",
+      "example": "Priya breathed out."
     },
     {
       "word": "breathing",
@@ -5838,6 +5868,12 @@
       "example": "Priya Shah had lived three doors down from the Turners for most of their childhood, before her family moved across the city to Roundhay."
     },
     {
+      "word": "childish",
+      "pos": "ADJ",
+      "translation": "infantil, pueril",
+      "example": "He felt a small, warm, childish guilt, the kind of guilt a boy feels with his hand in the biscuit tin."
+    },
+    {
       "word": "chill",
       "pos": "NOUN",
       "translation": "el frío, el fresco",
@@ -6328,6 +6364,12 @@
       "pos": "NOUN",
       "translation": "el acantilado",
       "example": "Then the trees fell back, and the hedge rose out of the storm in front of him like a black cliff."
+    },
+    {
+      "word": "Clifton",
+      "pos": "PROPN",
+      "translation": "Clifton (barrio elegante de Bristol)",
+      "example": "\"I went to Clifton."
     },
     {
       "word": "climb",
@@ -6954,6 +6996,12 @@
       "example": "The médiathèque occupied the old offices of the mining company, a heavy brick building with tall windows and an iron staircase that rang under your feet."
     },
     {
+      "word": "Company",
+      "pos": "PROPN",
+      "translation": "Company («Crust and Company»: nombre de una panadería; «company»: la empresa)",
+      "example": "\"To a café called Crust and Company."
+    },
+    {
       "word": "compare",
       "pos": "VERB",
       "translation": "comparar",
@@ -7138,6 +7186,12 @@
       "pos": "ADJ",
       "translation": "seguro de sí mismo, confiado",
       "example": "\"Running will not save you,\" he told them, trying to sound more confident than he felt."
+    },
+    {
+      "word": "confirm",
+      "pos": "VERB",
+      "translation": "confirmar",
+      "example": "\"Can anyone confirm that?\""
     },
     {
       "word": "confused",
@@ -8146,6 +8200,12 @@
       "pos": "VERB",
       "translation": "cubrir de costra",
       "example": "It rose from the meadow beyond the mill like a single grey finger raised in warning: twice the height of a man, crusted with gold and silver lichen, and carved all over with spirals so worn that you could only see them when the sun was low and the shadows did the work."
+    },
+    {
+      "word": "Crust",
+      "pos": "PROPN",
+      "translation": "Crust («Crust and Company»: nombre de una panadería; «crust»: la corteza)",
+      "example": "\"To a café called Crust and Company."
     },
     {
       "word": "cry",
@@ -9264,6 +9324,12 @@
       "example": "That, you will discover for yourselves."
     },
     {
+      "word": "discreet",
+      "pos": "ADJ",
+      "translation": "discreto",
+      "example": "\"But we'll be discreet."
+    },
+    {
       "word": "discrepancy",
       "pos": "NOUN",
       "translation": "la discrepancia",
@@ -9556,6 +9622,12 @@
       "pos": "VERB",
       "translation": "descargar",
       "example": "I downloaded it."
+    },
+    {
+      "word": "Downs",
+      "pos": "PROPN",
+      "translation": "los Downs (gran parque abierto al norte de Bristol)",
+      "example": "\"We had lunch, we went for a walk on the Downs, we watched a bit of television in the evening."
     },
     {
       "word": "downstairs",
@@ -10228,6 +10300,12 @@
       "pos": "ADJ",
       "translation": "oriental, del este",
       "example": "There were Standing Stones all across the Hollow Wilds — a dozen or so in the southern forest alone, and hundreds more scattered throughout the land: squat grey pillars on the passes of the northern mountains, needles of black basalt rising from the shallows off the western coast, slender white spires on the windswept eastern heights."
+    },
+    {
+      "word": "Easton",
+      "pos": "PROPN",
+      "translation": "Easton (barrio de Bristol)",
+      "example": "On Sunday evening he had been at a Polish church in Easton for a christening, and then at a party until midnight."
     },
     {
       "word": "easy",
@@ -12310,6 +12388,12 @@
       "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
     },
     {
+      "word": "Fishponds",
+      "pos": "PROPN",
+      "translation": "Fishponds (barrio de Bristol)",
+      "example": "\"I live with my sister in Fishponds."
+    },
+    {
       "word": "fist",
       "pos": "NOUN",
       "translation": "el puño",
@@ -12482,6 +12566,12 @@
       "pos": "ADJ",
       "translation": "fugaz, efímero",
       "example": "Scotch Corner services, at half past seven on a winter's morning, was a place of strange and fleeting communion."
+    },
+    {
+      "word": "Fletcher",
+      "pos": "PROPN",
+      "translation": "Fletcher (apellido)",
+      "example": "The first was Ray Fletcher, a big man of sixty with grey hair and arms like a boxer's."
     },
     {
       "word": "Fletchers",
@@ -14391,6 +14481,12 @@
       "example": "Fire made the old spirals glow, one by one, like embers being blown on."
     },
     {
+      "word": "glue",
+      "pos": "NOUN",
+      "translation": "el pegamento, la cola",
+      "example": "They met her in an empty classroom full of tiny chairs, children's paintings and a smell of glue and orange peel."
+    },
+    {
       "word": "gnarl",
       "pos": "VERB",
       "translation": "(«gnarled») nudoso, retorcido",
@@ -15127,6 +15223,12 @@
       "pos": "VERB",
       "translation": "guiar",
       "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
+    },
+    {
+      "word": "guilt",
+      "pos": "NOUN",
+      "translation": "la culpa",
+      "example": "He felt a small, warm, childish guilt, the kind of guilt a boy feels with his hand in the biscuit tin."
     },
     {
       "word": "guilty",
@@ -16646,6 +16748,12 @@
       "example": "They started with the student rolls, because that was what Rowan had asked for, and quickly realised it was hopeless."
     },
     {
+      "word": "Horfield",
+      "pos": "PROPN",
+      "translation": "Horfield (barrio del norte de Bristol)",
+      "example": "She was a teacher at a primary school in Horfield, and she had agreed to see them in her lunch break."
+    },
+    {
       "word": "horizon",
       "pos": "NOUN",
       "translation": "el horizonte",
@@ -16740,6 +16848,12 @@
       "pos": "PHRASE",
       "translation": "el chocolate caliente",
       "example": "She went to the café by the river, ordered a hot chocolate, sat in the corner and opened the notebook on the table."
+    },
+    {
+      "word": "hotel",
+      "pos": "NOUN",
+      "translation": "el hotel",
+      "example": "He was out in the van, delivering bread to cafés and small hotels across the city."
     },
     {
       "word": "Hôtel",
@@ -18964,6 +19078,12 @@
       "example": "You played a firefighter called Kowalski, a broad, patient woman with a grey moustache of soot across her face, and your job was not to win but to save people."
     },
     {
+      "word": "Kraków",
+      "pos": "PROPN",
+      "translation": "Cracovia (ciudad de Polonia)",
+      "example": "The second baker was Tomasz Nowak, a thin, quiet man of thirty from Kraków, who had worked at the bakery for four years."
+    },
+    {
       "word": "Kyle",
       "pos": "PROPN",
       "translation": "Kyle (nombre)",
@@ -20577,6 +20697,12 @@
       "example": "\"On Tuesday mornings he goes to the wholesale market in Lowestoft,\" she said, without looking at Maya."
     },
     {
+      "word": "loyalty",
+      "pos": "NOUN",
+      "translation": "la lealtad",
+      "example": "It was the note of a wife lying for her husband, out of loyalty."
+    },
+    {
       "word": "Lucas",
       "pos": "PROPN",
       "translation": "Lucas (nombre)",
@@ -21090,6 +21216,12 @@
       "pos": "VERB",
       "translation": "aislar, dejar abandonado («marooned»: aislado, varado)",
       "example": "Thanks to the night he had spent marooned on the pass, the tachograph had registered a full daily rest; as far as the regulations were concerned, he was a new man with a fresh allowance of hours, and he found the notion more consoling than he would have expected."
+    },
+    {
+      "word": "marriage",
+      "pos": "NOUN",
+      "translation": "el matrimonio",
+      "example": "\"Is your marriage all right, Mrs Hartley?"
     },
     {
       "word": "married",
@@ -21840,6 +21972,12 @@
       "pos": "NOUN",
       "translation": "la mezcla",
       "example": "Every person was a mix of many feelings, one on top of another, like layers in a cake."
+    },
+    {
+      "word": "mix",
+      "pos": "VERB",
+      "translation": "mezclar",
+      "example": "It was guilt, mixed with embarrassment, mixed with a hot, uncomfortable feeling that Tom knew well: the feeling of someone who likes the people they are hurting."
     },
     {
       "word": "mixture",
@@ -23174,6 +23312,12 @@
       "example": "\"Now and again, one of the people they've taken turns up again, years later, wandering some road with no memory of where they've been."
     },
     {
+      "word": "Nowak",
+      "pos": "PROPN",
+      "translation": "Nowak (apellido polaco)",
+      "example": "The second baker was Tomasz Nowak, a thin, quiet man of thirty from Kraków, who had worked at the bakery for four years."
+    },
+    {
       "word": "nowhere",
       "pos": "ADV",
       "translation": "ninguna parte («from nowhere»: de la nada)",
@@ -23977,6 +24121,12 @@
       "example": "A sullen boy whom Rowan didn't know made two of the spirals flare a dull, angry orange, and Edric Vane, watching from the edge of the crowd with his arms folded, nodded approvingly, as one Fire to another."
     },
     {
+      "word": "orange peel",
+      "pos": "PHRASE",
+      "translation": "la piel de naranja",
+      "example": "They met her in an empty classroom full of tiny chairs, children's paintings and a smell of glue and orange peel."
+    },
+    {
       "word": "orchard",
       "pos": "NOUN",
       "translation": "el huerto (de frutales)",
@@ -24131,6 +24281,12 @@
       "pos": "PHRASE",
       "translation": "por amabilidad",
       "example": "Callum looking away out of kindness, which would be the worst of all."
+    },
+    {
+      "word": "out of loyalty",
+      "pos": "PHRASE",
+      "translation": "por lealtad",
+      "example": "It was the note of a wife lying for her husband, out of loyalty."
     },
     {
       "word": "out of nowhere",
@@ -24449,6 +24605,12 @@
       "pos": "PHRASE",
       "translation": "el decapante",
       "example": "\"We fill them,\" said Alasdair, \"with spirit that's as clear as water and as raw as paint stripper, and then we roll them into a dark warehouse and we leave them alone.\""
+    },
+    {
+      "word": "painting",
+      "pos": "NOUN",
+      "translation": "la pintura, el cuadro",
+      "example": "They met her in an empty classroom full of tiny chairs, children's paintings and a smell of glue and orange peel."
     },
     {
       "word": "pair",
@@ -24878,6 +25040,12 @@
     },
     {
       "word": "peel",
+      "pos": "NOUN",
+      "translation": "la piel, la cáscara",
+      "example": "They met her in an empty classroom full of tiny chairs, children's paintings and a smell of glue and orange peel."
+    },
+    {
+      "word": "peel",
       "pos": "VERB",
       "translation": "pelar, pelarse (juego de palabras con «feeling»: sentirse)",
       "example": "\"Because it wasn't peeling very well.\""
@@ -25075,6 +25243,18 @@
       "example": "Small and hard and greenish-white, they split as the crowd watched, and opened, one after another, all the way round the hedge, into tiny five-petalled flowers as white as the snow that drifted down between them."
     },
     {
+      "word": "petrol",
+      "pos": "NOUN",
+      "translation": "la gasolina («petrol station»: la gasolinera)",
+      "example": "Nadia called him, and he agreed, not very happily, to meet them at eleven at a petrol station on the A38, where he stopped every morning for coffee."
+    },
+    {
+      "word": "petrol station",
+      "pos": "PHRASE",
+      "translation": "la gasolinera",
+      "example": "Nadia called him, and he agreed, not very happily, to meet them at eleven at a petrol station on the A38, where he stopped every morning for coffee."
+    },
+    {
       "word": "pewter",
       "pos": "NOUN",
       "translation": "el peltre (color gris)",
@@ -25211,6 +25391,12 @@
       "pos": "PROPN",
       "translation": "Piaf («Édith Piaf»: cantante francesa, 1915-1963)",
       "example": "Ines's version of a song by Édith Piaf in the next room."
+    },
+    {
+      "word": "piano",
+      "pos": "NOUN",
+      "translation": "el piano",
+      "example": "Tom heard nothing but clear, simple notes, like a piano that someone had just tuned."
     },
     {
       "word": "Picard",
@@ -25829,6 +26015,12 @@
       "pos": "VERB",
       "translation": "lustrar, pulir",
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
+    },
+    {
+      "word": "Polish",
+      "pos": "ADJ",
+      "translation": "polaco",
+      "example": "On Sunday evening he had been at a Polish church in Easton for a christening, and then at a party until midnight."
     },
     {
       "word": "polished",
@@ -26821,6 +27013,12 @@
       "example": "He puts his arms up. — Levanta los brazos."
     },
     {
+      "word": "put a lid on",
+      "pos": "PHRASE",
+      "translation": "tapar ; (fig.) contener, reprimir",
+      "example": "Only for a second, but Tom felt the anger inside her rise, very hot, and then go quiet again, as if she had put a lid on a pan."
+    },
+    {
       "word": "put away",
       "pos": "PHRASE",
       "translation": "guardar, apartar",
@@ -27023,6 +27221,12 @@
       "pos": "PROPN",
       "translation": "R.B. (iniciales de Ruth Bell)",
       "example": "R.B."
+    },
+    {
+      "word": "rabbit",
+      "pos": "NOUN",
+      "translation": "el conejo",
+      "example": "\"The look of a dog that's seen a rabbit.\""
     },
     {
       "word": "race",
@@ -27370,6 +27574,12 @@
       "pos": "NOUN",
       "translation": "la lectura («reading desk»: atril, mesa de lectura)",
       "example": "Ilse laid the heavy ledger open on the reading desk, and Rowan held the lamp close."
+    },
+    {
+      "word": "reading glasses",
+      "pos": "PHRASE",
+      "translation": "las gafas de leer",
+      "example": "She was a slim woman of about forty-five, with short fair hair and reading glasses on a chain around her neck."
     },
     {
       "word": "ready",
@@ -29146,6 +29356,12 @@
       "pos": "NOUN",
       "translation": "el bien («for pity's sake»: por piedad)",
       "example": "\"For pity's sake, just take him, the watch will be round in—\""
+    },
+    {
+      "word": "salary",
+      "pos": "NOUN",
+      "translation": "el sueldo, el salario",
+      "example": "The guilt was still there, but it was the guilt of a woman who wanted a better salary, not the guilt of a thief."
     },
     {
       "word": "sale",
@@ -31156,6 +31372,12 @@
       "pos": "NOUN",
       "translation": "el tamaño",
       "example": "Tamsin's whole family had come, and they were making enough noise for a family twice their size: her mother pressing parcels of food into her arms, her little brothers fighting over who got to carry her trunk, her father telling anyone who would listen that his girl had stopped the mill wheel dead, did you hear, dead, with nothing but her own two hands."
+    },
+    {
+      "word": "sized",
+      "pos": "ADJ",
+      "translation": "de tamaño («medium-sized», «middle-sized»: de tamaño mediano)",
+      "example": "A clear false note, middle-sized."
     },
     {
       "word": "skein",
@@ -36203,6 +36425,12 @@
       "example": "It was called the Trial of Thorns."
     },
     {
+      "word": "trial shift",
+      "pos": "PHRASE",
+      "translation": "el turno de prueba",
+      "example": "\"I did a trial shift there, from twelve to six.\""
+    },
+    {
       "word": "triangle",
       "pos": "NOUN",
       "translation": "el triángulo",
@@ -36393,6 +36621,12 @@
       "pos": "NOUN",
       "translation": "la melodía («in tune»: afinado)",
       "example": "But inside his head, a lie was like a false note, like a guitar string that was not quite in tune."
+    },
+    {
+      "word": "tune",
+      "pos": "VERB",
+      "translation": "afinar",
+      "example": "Tom heard nothing but clear, simple notes, like a piano that someone had just tuned."
     },
     {
       "word": "tunic",
@@ -38446,6 +38680,12 @@
       "example": "These days, the people of the Wilds were simply Marked — Earth, Water, Air or Fire, one element apiece and, very rarely, two — and they drew on the Well inside them, whether they felled trees in the forest, cut stone in the northern mountains or hauled nets on the western coast."
     },
     {
+      "word": "Weston-super-Mare",
+      "pos": "PROPN",
+      "translation": "Weston-super-Mare (ciudad costera cerca de Bristol)",
+      "example": "On Sunday he had been at his daughter's house in Weston-super-Mare."
+    },
+    {
       "word": "wet",
       "pos": "ADJ",
       "translation": "mojado, húmedo",
@@ -39224,6 +39464,12 @@
       "pos": "NOUN",
       "translation": "la palabra",
       "example": "Edwin had never forgotten those words."
+    },
+    {
+      "word": "word for word",
+      "pos": "PHRASE",
+      "translation": "palabra por palabra",
+      "example": "The same lie as her husband, almost word for word."
     },
     {
       "word": "work",

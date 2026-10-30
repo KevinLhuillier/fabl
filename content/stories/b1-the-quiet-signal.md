@@ -208,3 +208,69 @@ At ten past five, Nadia's computer made a small sound. "Email," she said. "From 
 Saturday, 18:42: alarm on. Monday, 05:03: alarm off. That was normal; that was Mark closing on Saturday and opening this morning. But between those two lines, there were two more. Sunday, 21:48: alarm off. Sunday, 22:26: alarm on. "Thirty-eight minutes," said Nadia quietly. "Somebody went into that bakery on Sunday night, with the right code, and stayed for thirty-eight minutes." "And Mark Hartley says he went to bed at half past nine," said Tom.
 Nadia leaned back in her chair and put the pen between her teeth. "This is good," she said. "This is real. This is something Harris can hold in his hand." Then she shook her head. "But it doesn't say who. Six people know that code, remember. It could be any of them. It could be someone they told. We can't arrest a man because he was in bed when he says he was in bed." "He wasn't in bed," said Tom. "I know," said Nadia. "You know. And now we have to prove it."
 She picked up her phone and started making a list on the back of an envelope. "Tomorrow morning we talk to all of them. Priya Shah, the assistant manager. Lee, the delivery driver. The two bakers. And Helen Hartley, the wife, because if Mark went out on Sunday night, she knows about it." She looked up at Tom. "You listen. I ask the questions. And afterwards you tell me everything you heard. Every little note. Deal?" Tom nodded. "Deal," he said. And there was no false note in his voice at all.
+
+# Small Lies
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_4.page_1-1793356523463.mp3
+On Tuesday morning, Hartley's Bakery opened again. Mrs Hartley had insisted. "People need their bread," she had told Inspector Harris on the phone, "and I need something to do with my hands, or I'll go mad." So when Tom and Nadia arrived at eight o'clock, the little bell rang over the door and the shop was full of customers, the smell of coffee and the warm noise of people buying breakfast on their way to work. It felt almost normal. Almost.
+Mark was not there. He had gone to the bank, said the young woman behind the counter, to explain to them why there was no money this week. The young woman was Priya Shah. She was twenty-eight, with long dark hair tied up under a white cap, and a quick, nervous smile. She served two more customers and then asked a colleague to take her place. "We can use the office," she said. "It's the only quiet room in the building." She led them through the hot kitchen, where two men in white were pulling trays of bread out of the enormous old oven.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_4.page_2-1793356540409.mp3
+"We'll talk to the bakers first, if that's OK," said Nadia. "We know they're going home soon." The two bakers came into the office one by one, wiping their hands on their aprons. The first was Ray Fletcher, a big man of sixty with grey hair and arms like a boxer's. He had worked at Hartley's for thirty-one years. "Since before Mark could walk," he said proudly. He answered every question slowly and carefully. On Sunday he had been at his daughter's house in Weston-super-Mare. He had photos on his phone to prove it, of his three grandchildren on the beach in the wind.
+Tom felt only one false note from Ray, and it made him want to laugh. Nadia asked, "Do you ever take anything home from the bakery?" and Ray said, "No, never." Ting. Tom looked at the big man's face, which was turning slightly pink. He felt a small, warm, childish guilt, the kind of guilt a boy feels with his hand in the biscuit tin. Ray took cakes home. Probably the ones that did not sell. Probably for his grandchildren. Tom decided that this was not a crime that interested him today.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_4.page_3-1793356558528.mp3
+The second baker was Tomasz Nowak, a thin, quiet man of thirty from Kraków, who had worked at the bakery for four years. His English was careful and a little formal. On Sunday evening he had been at a Polish church in Easton for a christening, and then at a party until midnight. "Many people saw me," he said. "Maybe too many. I danced. My wife has videos. I do not recommend you watch them." Everything he said was true. Tom heard nothing but clear, simple notes, like a piano that someone had just tuned.
+Then it was Priya's turn. She sat down on the edge of the chair, with her hands together in her lap, and Tom immediately felt the storm inside her. It was not fear, exactly. It was guilt, mixed with embarrassment, mixed with a hot, uncomfortable feeling that Tom knew well: the feeling of someone who likes the people they are hurting. Nadia began with easy questions. How long had Priya worked there? Five years. Did she like it? Yes, very much. Mrs Hartley had given her a job when nobody else would. True, true, true.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_4.page_4-1793356574662.mp3
+"And what did you do on Sunday?" "Nothing much. I stayed at home. I cleaned my flat, I watched a film." Ting. A clear false note, middle-sized. Not a car horn, but not a fingernail on a glass either. And with it came a wave of shame that made Priya's cheeks go red. "All day?" asked Nadia. "Yes. All day." Ting again. Nadia waited, her pen in the air. Tom felt the young woman's guilt growing, like water filling a cup. Finally she put her face in her hands.
+"OK," she said through her fingers. "OK. I didn't stay at home. Not in the afternoon. I went to Clifton. To a café called Crust and Company. They're opening a new bakery, a big one, and they're looking for a manager. I did a trial shift there, from twelve to six." She looked up, and her eyes were wet. "Please don't tell Joan. She's been so good to me. If she finds out I'm looking for another job, now, after the money..." She could not finish.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_4.page_5-1793356590810.mp3
+Tom listened very carefully. Every word was true now. The guilt was still there, but it was the guilt of a woman who wanted a better salary, not the guilt of a thief. "And after six o'clock?" asked Nadia. "I went home. Really home, this time. I live with my sister in Fishponds. She was there all evening. We ordered a pizza and argued about the television." Clear note. Clear, clear, clear. Tom gave Nadia a very small nod, the kind that nobody else in the world would notice.
+"We'll need to check that with Crust and Company," said Nadia, closing her notebook. "And with your sister. But we'll be discreet. We won't say anything to Mrs Hartley unless it becomes important for the case." Priya breathed out. "Thank you." She stood up, then hesitated at the door. "Can I say something? Mark would never take that money. Never. He loves this place more than anything. If you knew him, you'd know." And that was true too. Priya believed every word of it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_4.page_6-1793356605261.mp3
+The delivery driver, Lee Barnes, was not at the bakery. He was out in the van, delivering bread to cafés and small hotels across the city. Nadia called him, and he agreed, not very happily, to meet them at eleven at a petrol station on the A38, where he stopped every morning for coffee. When they got there, he was leaning against his white van, smoking. He was about thirty-five, tall and thin, with a tattoo of a swallow on his neck and a cap that said Bristol Rovers.
+"Harris would like him," said Nadia under her breath, looking at the cap. Tom did not smile. As soon as he got out of the car, he felt something from Lee that was much stronger than anything he had felt from Priya. It was fear: cold, sharp, nervous fear, the kind that makes people talk too fast and look at the ground. Lee threw away his cigarette and shook their hands quickly. "This is about the money, yeah? Terrible. Terrible thing. Joan's a lovely woman."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_4.page_7-1793356618190.mp3
+Nadia asked the usual questions. How long had he worked for the Hartleys? Two years. Did he know the alarm code? Yes, everybody did. Did he know the code for the safe? "No. Course not. Why would I?" That was true. Tom felt no false note at all. Lee did not know the safe code. But the fear was still there, and when Nadia asked about Sunday, it jumped like a cat. "Sunday? I was at home. All day. Watching the football." Ting. Loud.
+"Can anyone confirm that?" "My girlfriend. She was there." Ting. "And the van? Where was the van on Sunday?" "Parked outside my house. It's always outside my house on Sundays. Mark lets me keep it." True. "And you didn't drive it anywhere?" Lee looked at the ground. "No." Ting. Ting. This was the loudest Tom had heard since Mark's lie in the back office. Lee Barnes was lying about Sunday, and he was lying about the van, and he was terrified.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_4.page_8-1793356633296.mp3
+They thanked him and drove away. In the car, Tom told Nadia everything. She listened with her eyes on the road. "So now we've got two men lying about Sunday," she said. "Interesting. But be careful, Tom. You told me yesterday that Mark was afraid. Now Lee is afraid. Lots of people are afraid of the police. It doesn't make them thieves." "I know." "Do you? You've got that look." "What look?" "The look of a dog that's seen a rabbit."
+The last person on their list was Helen Hartley, Mark's wife. She was a teacher at a primary school in Horfield, and she had agreed to see them in her lunch break. They met her in an empty classroom full of tiny chairs, children's paintings and a smell of glue and orange peel. She was a slim woman of about forty-five, with short fair hair and reading glasses on a chain around her neck. She shook their hands firmly and sat down on the edge of a desk, because the chairs were too small for adults.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_4.page_9-1793356647565.mp3
+Tom felt her at once, and she surprised him. He had expected worry, or fear, like her husband. But what came from Helen Hartley was anger. Hot, tired, old anger, the kind of anger that has been boiling for a long time. And yet it was not directed at the detectives, and Tom did not think it was directed at Mark either. When she said her husband's name, there was love in it, and frustration, but no rage. The rage was for someone else. Someone who was not in the room.
+"Sunday was a quiet day," Helen said. "We had lunch, we went for a walk on the Downs, we watched a bit of television in the evening. Mark went to bed early. About half past nine. He always does." Ting. The same lie as her husband, almost word for word. It was a medium-sized note, but it was not the note of a woman lying for herself. It was the note of a wife lying for her husband, out of loyalty. Tom had heard that kind of lie many times before. It always sounded a little sad.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_4.page_10-1793356660391.mp3
+"And you? When did you go to bed?" "Later. About eleven. I had some marking to do." True. "So you were downstairs, and Mark was upstairs, from half past nine to eleven?" Helen hesitated. Only for a second, but Tom felt the anger inside her rise, very hot, and then go quiet again, as if she had put a lid on a pan. "Yes," she said. "That's right." Ting. Then she looked at her watch. "I'm sorry. The children come back in ten minutes. Is there anything else?"
+Nadia asked one more question, almost casually, as she stood up. "Is your marriage all right, Mrs Hartley? Sorry, I have to ask. Money problems can put a lot of pressure on a couple." "We're fine," said Helen, with a polite teacher's smile. "Mark and I are absolutely fine." Ting. But this note was different from the others. It was not about the marriage. Tom could feel her love for Mark, strong and steady. The lie was in the word "fine". The Hartleys were not fine. Something in their life was very, very wrong.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_4.page_11-1793356675513.mp3
+Back in the car, Nadia did not start the engine. She took out the envelope from yesterday and turned it over. "Right," she said. "Let's sort them. Like letters in a post office." She drew a line down the middle. "Ray: lies about cakes. Doesn't matter. Tomasz: no lies. Priya: lied about Sunday afternoon, then told the truth. We'll check, but I don't think it's her. Lee: lies about Sunday and the van, and he's terrified. Helen: lies to protect Mark. And Mark..." She tapped the paper with her pen. "Mark lies about Sunday evening, and the alarm says someone was in the bakery."
+"Lots of small lies," said Tom. "And one big one. Maybe two." "Which is the important one?" Tom looked out of the window at the children running back into the school, screaming happily in the cold. Their joy came to him like a wind full of bright colours. He thought about Lee's terror, and about Mark's strange relief, and about Helen's hot anger for someone who was not there. "I don't know yet," he said honestly. Nadia nodded. "Good answer," she said. "Then tomorrow we follow the money."

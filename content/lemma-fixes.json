@@ -632,6 +632,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "cafés",
+      "pos": "VERB",
+      "word": "café",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "calloused",
       "pos": "VERB",
       "word": "calloused",
@@ -1165,6 +1171,12 @@
     {
       "text": "Downstairs",
       "pos": "PROPN",
+      "word": "downstairs",
+      "lemmaPos": "ADV"
+    },
+    {
+      "text": "downstairs",
+      "pos": "ADJ",
       "word": "downstairs",
       "lemmaPos": "ADV"
     },
@@ -2562,6 +2574,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Loud",
+      "pos": "PROPN",
+      "word": "loud",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Louder",
       "pos": "PROPN",
       "word": "loud",
@@ -2616,6 +2634,13 @@
       "pos": "PROPN",
       "word": "manager",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Mare",
+      "pos": "ADJ",
+      "prev": "-",
+      "word": "Weston-super-Mare",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Marked",
@@ -3374,6 +3399,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "Polish",
+      "pos": "ADJ",
+      "word": "Polish",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Post",
       "pos": "PROPN",
       "next": ".",
@@ -3644,6 +3675,13 @@
       "next": ",",
       "word": "ring",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "rise",
+      "pos": "NOUN",
+      "prev": "her",
+      "word": "rise",
+      "lemmaPos": "VERB"
     },
     {
       "text": "RISKS",
@@ -4387,6 +4425,13 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "super",
+      "pos": "ADJ",
+      "prev": "-",
+      "word": "Weston-super-Mare",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "supper",
       "pos": "VERB",
       "word": "supper",
@@ -4697,6 +4742,12 @@
       "pos": "PROPN",
       "word": "today",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Tomasz",
+      "pos": "NOUN",
+      "word": "Tomasz",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Took",
@@ -5053,6 +5104,13 @@
       "pos": "PROPN",
       "word": "west",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Weston",
+      "pos": "PROPN",
+      "next": "-",
+      "word": "Weston-super-Mare",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "wet",
