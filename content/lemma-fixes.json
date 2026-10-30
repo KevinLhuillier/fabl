@@ -575,6 +575,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "BROWN",
+      "pos": "PROPN",
+      "word": "brown",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "bruised",
       "pos": "VERB",
       "word": "bruised",
@@ -680,6 +686,12 @@
       "next": ",",
       "word": "change",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "childish",
+      "pos": "VERB",
+      "word": "childish",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "Chin",
@@ -1116,6 +1128,12 @@
       "pos": "NOUN",
       "word": "dip",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "disappointment",
+      "pos": "ADJ",
+      "word": "disappointment",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "disappointment",
@@ -1802,6 +1820,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "GREEN",
+      "pos": "PROPN",
+      "word": "green",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "green",
       "pos": "PROPN",
       "word": "green",
@@ -2231,6 +2255,12 @@
       "pos": "PROPN",
       "word": "Jason",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Jealousy",
+      "pos": "PROPN",
+      "word": "jealousy",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "jeans",
@@ -3638,6 +3668,27 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "REX",
+      "pos": "PROPN",
+      "prev": "-",
+      "word": "T-Rex",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Rex",
+      "pos": "PROPN",
+      "prev": "-",
+      "word": "T-Rex",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Rexes",
+      "pos": "PROPN",
+      "prev": "-",
+      "word": "T-Rex",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "REYNE",
       "pos": "PROPN",
       "word": "Reyne",
@@ -3688,6 +3739,12 @@
       "pos": "PROPN",
       "word": "risk",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "ROAR",
+      "pos": "PROPN",
+      "word": "Roar",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Robins",
@@ -4438,6 +4495,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "surprise",
+      "pos": "ADJ",
+      "word": "surprise",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "swam",
       "pos": "VERB",
       "word": "swim",
@@ -4494,9 +4557,57 @@
     },
     {
       "text": "T",
+      "pos": "NOUN",
+      "prev": ":",
+      "next": "-",
+      "word": "T-Rex",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "T",
+      "pos": "NOUN",
+      "prev": "brown",
+      "next": "-",
+      "word": "T-Rex",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "T",
+      "pos": "NOUN",
+      "prev": "green",
+      "next": "-",
+      "word": "T-Rex",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "T",
       "pos": "PROPN",
       "next": "-",
       "word": "T-shirt",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "T",
+      "pos": "PROPN",
+      "prev": ":",
+      "next": "-",
+      "word": "T-Rex",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "T",
+      "pos": "PROPN",
+      "prev": "brown",
+      "next": "-",
+      "word": "T-Rex",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "T",
+      "pos": "PROPN",
+      "prev": "green",
+      "next": "-",
+      "word": "T-Rex",
       "lemmaPos": "NOUN"
     },
     {
@@ -4603,6 +4714,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "texting",
+      "pos": "VERB",
+      "word": "text",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "thank",
       "pos": "NOUN",
       "next": "you",
@@ -4694,6 +4811,12 @@
       "pos": "NOUN",
       "word": "thud",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "THUNDER",
+      "pos": "PROPN",
+      "word": "Thunder",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Thursdays",
@@ -4817,6 +4940,12 @@
       "lemmaPos": "NUM"
     },
     {
+      "text": "twenties",
+      "pos": "NOUN",
+      "word": "twenties",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "TWENTY",
       "pos": "PROPN",
       "word": "twenty",
@@ -4906,6 +5035,12 @@
       "text": "Unmarked",
       "pos": "VERB",
       "word": "unmarked",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "unripe",
+      "pos": "NOUN",
+      "word": "unripe",
       "lemmaPos": "ADJ"
     },
     {
@@ -5048,6 +5183,12 @@
       "pos": "PROPN",
       "word": "weather",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Wednesdays",
+      "pos": "NOUN",
+      "word": "Wednesday",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Wednesdays",

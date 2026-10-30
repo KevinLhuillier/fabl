@@ -1762,6 +1762,12 @@
       "example": "\"And Priya, Priya Shah, she's my assistant manager."
     },
     {
+      "word": "assistant",
+      "pos": "NOUN",
+      "translation": "l'assistente («shop assistant»: il commesso)",
+      "example": "He went to the counter and asked the shop assistant if there were any green T-Rexes in the stockroom."
+    },
+    {
       "word": "assistant manager",
       "pos": "PHRASE",
       "translation": "il vicedirettore, la vicedirettrice",
@@ -8400,6 +8406,12 @@
       "example": "But she made him promise three things before she cycled away."
     },
     {
+      "word": "D.",
+      "pos": "PROPN",
+      "translation": "D. (iniziale di un nome)",
+      "example": "She checked the receipt. \"Mr D. Smith.\""
+    },
+    {
       "word": "dad",
       "pos": "NOUN",
       "translation": "il papà",
@@ -8770,6 +8782,12 @@
       "pos": "NOUN",
       "translation": "il difensore",
       "example": "He could stop a long ball dead with the side of his boot, flick it over a defender's head and hit it into the top corner before it touched the ground."
+    },
+    {
+      "word": "defiance",
+      "pos": "NOUN",
+      "translation": "la sfida, la provocazione",
+      "example": "But it was mixed with guilt, heavy and dark, and with fear, and with something else, something strange and almost childish: a kind of proud defiance, like a teenager who has done something forbidden and is pleased with himself."
     },
     {
       "word": "define",
@@ -9502,6 +9520,12 @@
       "pos": "PROPN",
       "translation": "Dogger (zona del Mare del Nord, nel bollettino del mare)",
       "example": "The radio offered him the shipping forecast — Tyne, Dogger, Fisher, German Bight — recited in the hushed, liturgical cadence he had always found more soothing than any music."
+    },
+    {
+      "word": "doll",
+      "pos": "NOUN",
+      "translation": "la bambola",
+      "example": "Tom found the dinosaur section at the back, between the dolls and the board games."
     },
     {
       "word": "dome",
@@ -10938,6 +10962,12 @@
       "example": "The hall erupted with applause."
     },
     {
+      "word": "escalator",
+      "pos": "NOUN",
+      "translation": "la scala mobile",
+      "example": "And he walked on towards the escalators, carrying a little bit of her warmth with him."
+    },
+    {
       "word": "escape",
       "pos": "VERB",
       "translation": "scappare, fuggire",
@@ -12286,6 +12316,12 @@
       "example": "Bram stripped the fallen oak with short, economical strokes while Rowan dragged the branches to the pile and sorted them by thickness: kindling, fencing, firewood, nothing wasted."
     },
     {
+      "word": "firework",
+      "pos": "NOUN",
+      "translation": "il fuoco d'artificio",
+      "example": "Then she had an idea, and Tom felt it arrive in her like a small firework."
+    },
+    {
       "word": "firm",
       "pos": "ADJ",
       "translation": "fermo, deciso",
@@ -12344,6 +12380,12 @@
       "pos": "NOUN",
       "translation": "il pesce",
       "example": "The thought was so large that he could not hold all of it at once; it kept slipping out of his grip like a wet fish."
+    },
+    {
+      "word": "fish",
+      "pos": "VERB",
+      "translation": "pescare",
+      "example": "The man in the red jacket had an old, tired greed, almost bored, like a fisherman who has been fishing in the same river for too many years."
     },
     {
       "word": "fish and chips",
@@ -12832,6 +12874,12 @@
       "example": "His shoulders move, his eyes change, his feet prepare."
     },
     {
+      "word": "footage",
+      "pos": "NOUN",
+      "translation": "le riprese, il filmato",
+      "example": "\"Tomorrow we'll get the bank records and the camera footage, and we'll see what's real.\""
+    },
+    {
       "word": "football",
       "pos": "NOUN",
       "translation": "il calcio ; il pallone",
@@ -13286,6 +13334,12 @@
       "pos": "ADJ",
       "translation": "fragile",
       "example": "As if she were holding a very fragile thing in both hands."
+    },
+    {
+      "word": "fragrance",
+      "pos": "NOUN",
+      "translation": "la fragranza, il profumo",
+      "example": "A girl at a perfume counter sprayed something that smelled of flowers and petrol in his direction and said, \"Would you like to try our new fragrance, sir?"
     },
     {
       "word": "frame",
@@ -15434,6 +15488,12 @@
       "example": "\"Ember Hall won't take anyone who can't light a candle, and frankly I wouldn't send a dog there.\""
     },
     {
+      "word": "Hallam",
+      "pos": "PROPN",
+      "translation": "Hallam («Hallam and Price»: nome di una gioielleria)",
+      "example": "Below him, on the first floor, there was a jeweller's shop called Hallam and Price, with watches in the window that cost more than his car."
+    },
+    {
       "word": "Hallgarth",
       "pos": "PROPN",
       "translation": "Hallgarth (nome di strada: «Hallgarth Street»)",
@@ -17018,10 +17078,22 @@
       "example": "My human is called Léa."
     },
     {
+      "word": "Human",
+      "pos": "PROPN",
+      "translation": "Human («Human Resources»: le risorse umane)",
+      "example": "\"Human Resources have sent me an email about it."
+    },
+    {
       "word": "human being",
       "pos": "PHRASE",
       "translation": "l'essere umano",
       "example": "Gaz, without being asked, moved Max from the night shift to the early morning shift at the warehouse, so that he could sleep at night like a normal human being."
+    },
+    {
+      "word": "human resources",
+      "pos": "PHRASE",
+      "translation": "le risorse umane",
+      "example": "\"Human Resources have sent me an email about it."
     },
     {
       "word": "Humber",
@@ -18424,6 +18496,18 @@
       "example": "The rod in his hand jerked one way, then the other, then swung wildly back and forth, unable to settle, as though whatever it had been following were suddenly everywhere at once, spreading through the ground beneath the hall like roots."
     },
     {
+      "word": "Jess",
+      "pos": "PROPN",
+      "translation": "Jess (nome, diminutivo di Jessica)",
+      "example": "\"It's just a funny video, Jess. Relax.\""
+    },
+    {
+      "word": "jeweller",
+      "pos": "NOUN",
+      "translation": "il gioielliere («jeweller's shop»: la gioielleria)",
+      "example": "Below him, on the first floor, there was a jeweller's shop called Hallam and Price, with watches in the window that cost more than his car."
+    },
+    {
       "word": "Jim",
       "pos": "PROPN",
       "translation": "Jim (nome)",
@@ -19660,6 +19744,12 @@
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
     },
     {
+      "word": "leather jacket",
+      "pos": "PHRASE",
+      "translation": "la giacca di pelle",
+      "example": "He was about forty, in a black leather jacket and a dark cap."
+    },
+    {
       "word": "leave",
       "pos": "NOUN",
       "translation": "il congedo, la licenza (di un soldato)",
@@ -19796,6 +19886,12 @@
       "pos": "PHRASE",
       "translation": "il centro sportivo",
       "example": "Then he remembered: he had promised to meet Lily outside the leisure centre at eleven to carry her bags home after her netball tournament."
+    },
+    {
+      "word": "lemon",
+      "pos": "NOUN",
+      "translation": "il limone",
+      "example": "But he asked her what the new fragrance was called, and where it came from, and listened while she told him about Italian lemons and French lavender."
     },
     {
       "word": "lemonade",
@@ -23438,6 +23534,12 @@
       "example": "Alasdair, it also transpired, was Ruaridh's uncle, and had telephoned from the hospital in Inverness — where he and Isla had been taken, much against their will, for observation — to deliver a lengthy and, in Ruaridh's words, \"frankly embarrassing\" account of Gideon's conduct."
     },
     {
+      "word": "observe",
+      "pos": "VERB",
+      "translation": "osservare, notare",
+      "example": "\"Underlined twice,\" he observed."
+    },
+    {
       "word": "Observer",
       "pos": "PROPN",
       "translation": "Observer («the Wharfedale Observer»: giornale locale)",
@@ -24265,6 +24367,12 @@
       "example": "That was the first rule of the Ashby household, and very nearly the only one Bram had ever bothered to say out loud."
     },
     {
+      "word": "out of all proportion",
+      "pos": "PHRASE",
+      "translation": "del tutto sproporzionato rispetto a",
+      "example": "Tom felt him too: guilt, and tiredness, and a terrible feeling of failure, out of all proportion to a plastic toy."
+    },
+    {
       "word": "out of breath",
       "pos": "PHRASE",
       "translation": "senza fiato, col fiatone («get out of breath»: restare senza fiato)",
@@ -24653,6 +24761,12 @@
       "pos": "NOUN",
       "translation": "il vetro (di finestra)",
       "example": "There were five of them, long and high-roofed, built of thousands of small panes of greenish glass set in frames of dark, twisting wood — wood that, Rowan realised as he came closer, had not been cut and joined at all, but had grown into those shapes, bending and branching and interlacing like the walls of Thornhall itself."
+    },
+    {
+      "word": "panel",
+      "pos": "NOUN",
+      "translation": "il pannello («solar panel»: il pannello solare)",
+      "example": "A young woman with a tablet wanted to sell him solar panels for his roof."
     },
     {
       "word": "panic",
@@ -25163,6 +25277,12 @@
       "pos": "ADV",
       "translation": "perfettamente",
       "example": "The lake was called Stillwater, Gethin said, and Rowan could see why: not a ripple marked it, not a breath of wind, and the hill and its towers lay reflected in it so perfectly that it was hard to say which Thornhall was the real one and which the echo."
+    },
+    {
+      "word": "perfume",
+      "pos": "NOUN",
+      "translation": "il profumo",
+      "example": "A girl at a perfume counter sprayed something that smelled of flowers and petrol in his direction and said, \"Would you like to try our new fragrance, sir?"
     },
     {
       "word": "perhaps",
@@ -26713,6 +26833,12 @@
       "example": "We went down a drainpipe, crossed a little courtyard and squeezed under a wooden door that didn't close properly."
     },
     {
+      "word": "proportion",
+      "pos": "NOUN",
+      "translation": "la proporzione",
+      "example": "Tom felt him too: guilt, and tiredness, and a terrible feeling of failure, out of all proportion to a plastic toy."
+    },
+    {
       "word": "proposal",
       "pos": "NOUN",
       "translation": "la proposta di matrimonio ; la proposta",
@@ -28176,6 +28302,12 @@
       "example": "But every first-year knew that their whole year's reputation would be decided on that cold grey floor, in front of five hundred watching faces, and they had been sick with nerves about it for weeks."
     },
     {
+      "word": "request",
+      "pos": "NOUN",
+      "translation": "la richiesta",
+      "example": "\"Cole has sent the request for the bank records."
+    },
+    {
       "word": "require",
       "pos": "VERB",
       "translation": "richiedere",
@@ -28258,6 +28390,12 @@
       "pos": "NOUN",
       "translation": "la risorsa",
       "example": "They believe the craft is a resource, like coal, and that resources exist to be sold."
+    },
+    {
+      "word": "Resources",
+      "pos": "PROPN",
+      "translation": "Resources («Human Resources»: le risorse umane)",
+      "example": "\"Human Resources have sent me an email about it."
     },
     {
       "word": "respect",
@@ -28696,6 +28834,12 @@
       "pos": "VERB",
       "translation": "ruggire, urlare",
       "example": "Her father, a great slab of a man, lifted her off the ground and roared."
+    },
+    {
+      "word": "Roar",
+      "pos": "PROPN",
+      "translation": "Roar («T-Rex Thunder Roar»: nome del giocattolo; «roar»: il ruggito)",
+      "example": "It said: T-REX THUNDER ROAR, GREEN, NOT THE BROWN ONE."
     },
     {
       "word": "roast",
@@ -29668,6 +29812,12 @@
       "pos": "NOUN",
       "translation": "lo scolaro",
       "example": "And Arthur, who had been sitting with his huge hands folded on the table like a schoolboy, asked the only question that really mattered."
+    },
+    {
+      "word": "schoolchildren",
+      "pos": "NOUN",
+      "translation": "gli scolari",
+      "example": "Then a crowd of schoolchildren came out of a shop, thirty of them, with two teachers, all shouting and laughing, and for a few seconds their noise filled Tom's head completely."
     },
     {
       "word": "schooling",
@@ -30750,6 +30900,18 @@
       "example": "The mines had closed forty years earlier, but the town still lived in their shadow: rows of identical red-brick houses, a church that was far too big for the people who still went to it, and a main street where every third shop had a \"For Rent\" sign in the window."
     },
     {
+      "word": "shop assistant",
+      "pos": "PHRASE",
+      "translation": "il commesso, la commessa",
+      "example": "He went to the counter and asked the shop assistant if there were any green T-Rexes in the stockroom."
+    },
+    {
+      "word": "shopper",
+      "pos": "NOUN",
+      "translation": "il cliente, chi fa acquisti",
+      "example": "He walked fast, keeping the man's black jacket in sight between the shoppers."
+    },
+    {
       "word": "shopping",
       "pos": "NOUN",
       "translation": "la spesa («shopping bag»: borsa della spesa)",
@@ -30760,6 +30922,12 @@
       "pos": "PHRASE",
       "translation": "la borsa della spesa",
       "example": "She took her shopping bag, a few small parcels to deliver and her list, and she walked slowly down every street in Ellerdale, looking at doors."
+    },
+    {
+      "word": "shopping centre",
+      "pos": "PHRASE",
+      "translation": "il centro commerciale",
+      "example": "Cabot Circus was Bristol's biggest shopping centre, a huge building of glass and steel with a roof shaped like a wave."
     },
     {
       "word": "shopping trolley",
@@ -31758,6 +31926,12 @@
       "example": "And then, a little later, he heard a sound he had heard perhaps a thousand times in his life, and never once at night: the steady, rhythmic chock of an axe splitting wood, going on and on into the small hours, as though there were something out there in the darkness that needed to be cut into pieces small enough to carry."
     },
     {
+      "word": "smart",
+      "pos": "ADJ",
+      "translation": "elegante ; sveglio",
+      "example": "He went back to Hallam and Price and showed his police card to the shop assistant, a smart young woman with very red lips."
+    },
+    {
       "word": "smash",
       "pos": "VERB",
       "translation": "fracassare; polverizzare («smash a record»: polverizzare un record)",
@@ -31810,6 +31984,12 @@
       "pos": "VERB",
       "translation": "sorridere con aria compiaciuta",
       "example": "He caught Rowan's eye and smirked, then turned deliberately away to talk to the driver."
+    },
+    {
+      "word": "Smith",
+      "pos": "PROPN",
+      "translation": "Smith (cognome molto comune, spesso un nome falso)",
+      "example": "She checked the receipt. \"Mr D. Smith.\""
     },
     {
       "word": "smoke",
@@ -32110,6 +32290,18 @@
       "pos": "PROPN",
       "translation": "Solange (nome)",
       "example": "\"My name is Solange Wiśniewski.\""
+    },
+    {
+      "word": "solar",
+      "pos": "ADJ",
+      "translation": "solare",
+      "example": "A young woman with a tablet wanted to sell him solar panels for his roof."
+    },
+    {
+      "word": "solar panel",
+      "pos": "PHRASE",
+      "translation": "il pannello solare",
+      "example": "A young woman with a tablet wanted to sell him solar panels for his roof."
     },
     {
       "word": "soldier",
@@ -32470,6 +32662,12 @@
       "pos": "NOUN",
       "translation": "lo specialista, l'esperto",
       "example": "A specialist came to look for fingerprints on the safe, but he did not seem hopeful."
+    },
+    {
+      "word": "specific",
+      "pos": "ADJ",
+      "translation": "specifico, preciso",
+      "example": "\"A specific dinosaur."
     },
     {
       "word": "spectacle",
@@ -32935,6 +33133,12 @@
     },
     {
       "word": "stand",
+      "pos": "NOUN",
+      "translation": "lo stand, la bancarella",
+      "example": "The worst place was always the ground floor, near the entrance, where the companies put their little stands."
+    },
+    {
+      "word": "stand",
       "pos": "VERB",
       "translation": "stare in piedi",
       "example": "Sam stands under the tree. — Sam sta in piedi sotto l'albero."
@@ -32962,6 +33166,12 @@
       "pos": "PHRASE",
       "translation": "tenere testa a, opporsi a",
       "example": "If you want to stand up to him, and you should, you'll do it with your own face and your own voice, like everybody else."
+    },
+    {
+      "word": "stand up to leave",
+      "pos": "PHRASE",
+      "translation": "alzarsi per andarsene",
+      "example": "He stood up to leave."
     },
     {
       "word": "standard",
@@ -33288,6 +33498,12 @@
       "example": "And from him came a feeling that Tom knew very well: a hungry, sticky feeling, like fingers that wanted to get into his pockets."
     },
     {
+      "word": "sticky note",
+      "pos": "PHRASE",
+      "translation": "il post-it, il foglietto adesivo",
+      "example": "She wrote the name of the dinosaur on a sticky note and stuck it on his coat."
+    },
+    {
       "word": "stiff",
       "pos": "ADJ",
       "translation": "rigido",
@@ -33364,6 +33580,12 @@
       "pos": "NOUN",
       "translation": "la stirpe («farm stock»: gente di campagna)",
       "example": "Farm stock."
+    },
+    {
+      "word": "stockroom",
+      "pos": "NOUN",
+      "translation": "il magazzino",
+      "example": "He went to the counter and asked the shop assistant if there were any green T-Rexes in the stockroom."
     },
     {
       "word": "stocky",
@@ -34440,6 +34662,12 @@
       "example": "Rosalind counted on her cold fingers, the way she had counted words on her ninth day in Durham. F, U, T, U, R, E. S, E, L, F. Ten."
     },
     {
+      "word": "T-Rex",
+      "pos": "NOUN",
+      "translation": "il T-Rex, il tirannosauro",
+      "example": "He went to the counter and asked the shop assistant if there were any green T-Rexes in the stockroom."
+    },
+    {
       "word": "T-shirt",
       "pos": "NOUN",
       "translation": "la maglietta, la T-shirt",
@@ -34456,6 +34684,12 @@
       "pos": "NOUN",
       "translation": "il tavolo",
       "example": "She looks under the table. — Guarda sotto il tavolo."
+    },
+    {
+      "word": "tablet",
+      "pos": "NOUN",
+      "translation": "il tablet ; la compressa",
+      "example": "A young woman with a tablet wanted to sell him solar panels for his roof."
     },
     {
       "word": "tachograph",
@@ -34533,6 +34767,12 @@
       "pos": "PHRASE",
       "translation": "togliere, rimuovere (un video, un cartello); abbattere (un albero)",
       "example": "He told it the way he did everything: slowly, and plainly, and in the right order, the way you take down a tree."
+    },
+    {
+      "word": "take his breath away",
+      "pos": "PHRASE",
+      "translation": "togliergli il fiato",
+      "example": "Tom felt the boy's feeling before he saw his face, and it was so strong that it took his breath away."
     },
     {
       "word": "take hold of",
@@ -35591,6 +35831,12 @@
       "example": "The thunder was too loud."
     },
     {
+      "word": "Thunder",
+      "pos": "PROPN",
+      "translation": "Thunder («T-Rex Thunder Roar»: nome del giocattolo; «thunder»: il tuono)",
+      "example": "It said: T-REX THUNDER ROAR, GREEN, NOT THE BROWN ONE."
+    },
+    {
       "word": "thunderclap",
       "pos": "NOUN",
       "translation": "il tuono",
@@ -35829,6 +36075,12 @@
       "pos": "NOUN",
       "translation": "la stanchezza",
       "example": "Then it went out, and the tiredness hit him like a wave crashing against a wall."
+    },
+    {
+      "word": "Tissot",
+      "pos": "PROPN",
+      "translation": "Tissot (marca svizzera di orologi)",
+      "example": "\"A Tissot."
     },
     {
       "word": "tissue",
@@ -36779,6 +37031,12 @@
       "example": "The Eyrie, top of the north stair, and I'm afraid it is the top, all two hundred and twelve steps of it."
     },
     {
+      "word": "twenties",
+      "pos": "NOUN",
+      "translation": "le banconote da venti (sterline)",
+      "example": "\"All in twenties."
+    },
+    {
       "word": "twenty",
       "pos": "NUM",
       "translation": "venti",
@@ -37329,6 +37587,12 @@
       "pos": "ADJ",
       "translation": "insignificante, qualunque",
       "example": "It was small and dark and wrinkled, like a dried pea, and it lay in the middle of his palm looking utterly unremarkable."
+    },
+    {
+      "word": "unripe",
+      "pos": "ADJ",
+      "translation": "acerbo, non maturo",
+      "example": "And from both of them came a feeling that was green and bitter, like an unripe apple."
     },
     {
       "word": "unroll",
@@ -38008,6 +38272,12 @@
       "example": "That night, Noé waited up for his mother."
     },
     {
+      "word": "waitress",
+      "pos": "NOUN",
+      "translation": "la cameriera",
+      "example": "And then the woman said, \"Well, I saw how you looked at the waitress,\" and the man said, \"I didn't look at anyone,\" and that was true, completely true."
+    },
+    {
       "word": "wake",
       "pos": "VERB",
       "translation": "svegliarsi",
@@ -38048,6 +38318,12 @@
       "pos": "PHRASE",
       "translation": "andarsene (a piedi)",
       "example": "He'll have walked off in the night to save the fare.\""
+    },
+    {
+      "word": "walk on",
+      "pos": "PHRASE",
+      "translation": "proseguire, continuare a camminare",
+      "example": "And he walked on towards the escalators, carrying a little bit of her warmth with him."
     },
     {
       "word": "walk out",
@@ -39182,6 +39458,12 @@
       "pos": "ADJ",
       "translation": "scompigliato dal vento, battuto dal vento",
       "example": "She was a head shorter than him, freckled, and permanently windswept, as though she had just come in from a gale even on the stillest of days."
+    },
+    {
+      "word": "wine",
+      "pos": "NOUN",
+      "translation": "il vino",
+      "example": "Tom had learned to tell the difference, like a wine expert tasting wines."
     },
     {
       "word": "wing",
