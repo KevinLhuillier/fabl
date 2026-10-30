@@ -221,6 +221,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "barking",
+      "pos": "NOUN",
+      "word": "bark",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Beatons",
       "pos": "PROPN",
       "word": "Beaton",
@@ -804,6 +810,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Cromer",
+      "pos": "NOUN",
+      "word": "Cromer",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "crooked",
       "pos": "VERB",
       "word": "crooked",
@@ -1366,6 +1378,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "flint",
+      "pos": "ADJ",
+      "word": "flint",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "flowering",
       "pos": "NOUN",
       "word": "flower",
@@ -1762,6 +1780,12 @@
     },
     {
       "text": "hated",
+      "pos": "VERB",
+      "word": "hate",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "hates",
       "pos": "VERB",
       "word": "hate",
       "lemmaPos": "VERB"
@@ -4310,6 +4334,13 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "that",
+      "pos": "ADV",
+      "prev": "n't",
+      "word": "that",
+      "lemmaPos": "PRON"
+    },
+    {
       "text": "thermos",
       "pos": "NOUN",
       "word": "thermos",
@@ -4657,6 +4688,14 @@
       "text": "Warehouse",
       "pos": "PROPN",
       "word": "warehouse",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "washing",
+      "pos": "VERB",
+      "prev": "of",
+      "next": "up",
+      "word": "washing",
       "lemmaPos": "NOUN"
     },
     {

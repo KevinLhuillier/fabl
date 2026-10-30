@@ -2455,6 +2455,12 @@
       "example": "Rowan drifted closer, feigning an interest in a basket of eggs."
     },
     {
+      "word": "bath",
+      "pos": "NOUN",
+      "translation": "el baño, la bañera",
+      "example": "I could cry in the bath for an hour and they'd ask what was for dinner."
+    },
+    {
       "word": "bathroom",
       "pos": "NOUN",
       "translation": "el cuarto de baño",
@@ -6150,6 +6156,12 @@
       "example": "\"It's clockwork,\" said Ilse, from the back."
     },
     {
+      "word": "cloister",
+      "pos": "NOUN",
+      "translation": "el claustro",
+      "example": "\"I'll come to the city tomorrow. Eleven o'clock. The cathedral cloisters."
+    },
+    {
       "word": "clop",
       "pos": "NOUN",
       "translation": "el clop-clop (ruido de cascos)",
@@ -6554,7 +6566,7 @@
     {
       "word": "come on",
       "pos": "PHRASE",
-      "translation": "¡vamos!, ¡venga! ; (luz) encenderse",
+      "translation": "¡vamos!, ¡venga! ; (luz) encenderse ; («come on Monday»: ven el lunes)",
       "example": "Come on, Ice Cream."
     },
     {
@@ -7678,6 +7690,12 @@
       "pos": "PROPN",
       "translation": "Cromarty (en «Cromarty Firth», estuario del noreste de Escocia)",
       "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
+    },
+    {
+      "word": "Cromer",
+      "pos": "PROPN",
+      "translation": "Cromer (pequeña ciudad costera de Norfolk)",
+      "example": "Cromer was a small Victorian town on top of the cliffs, with narrow streets that smelled of fish and chips and salt."
     },
     {
       "word": "crooked",
@@ -10158,6 +10176,12 @@
       "example": "In some families, in Lyon and Bordeaux and elsewhere, the craft is kept like a fortune."
     },
     {
+      "word": "Elsie",
+      "pos": "PROPN",
+      "translation": "Elsie (nombre)",
+      "example": "\"Elsie was Leo's girlfriend,\" said Tess."
+    },
+    {
       "word": "Elvet",
       "pos": "PROPN",
       "translation": "Elvet (nombre de un puente de Durham: «Elvet Bridge»)",
@@ -11128,6 +11152,12 @@
       "example": "Max stood up to stretch his legs, took one step towards the water fountain and fell flat on his face."
     },
     {
+      "word": "fall in love",
+      "pos": "PHRASE",
+      "translation": "enamorarse",
+      "example": "Did I fall in love with him, or did he build a door that was exactly my shape and wait for me to walk through it?"
+    },
+    {
       "word": "fall off",
       "pos": "PHRASE",
       "translation": "caerse",
@@ -11826,7 +11856,7 @@
     {
       "word": "first thing",
       "pos": "PHRASE",
-      "translation": "a primera hora",
+      "translation": "a primera hora ; (al principio de frase) primero, lo primero",
       "example": "First thing."
     },
     {
@@ -11840,6 +11870,12 @@
       "pos": "NOUN",
       "translation": "el pez, el pescado",
       "example": "The thought was so large that he could not hold all of it at once; it kept slipping out of his grip like a wet fish."
+    },
+    {
+      "word": "fish and chips",
+      "pos": "PHRASE",
+      "translation": "el fish and chips (pescado rebozado con patatas fritas)",
+      "example": "Cromer was a small Victorian town on top of the cliffs, with narrow streets that smelled of fish and chips and salt."
     },
     {
       "word": "Fisher",
@@ -12104,6 +12140,12 @@
       "pos": "VERB",
       "translation": "lanzar, arrojar",
       "example": "\"Jory Penhallow,\" he announced, flinging the trunk into the wagon and himself after it."
+    },
+    {
+      "word": "flint",
+      "pos": "NOUN",
+      "translation": "el sílex, el pedernal («flint churches»: las iglesias de sílex)",
+      "example": "The train to Cromer took an hour and went through a landscape of small villages, flint churches and fields full of cows."
     },
     {
       "word": "float",
@@ -13663,6 +13705,12 @@
       "pos": "NOUN",
       "translation": "la chica, la muchacha",
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "girlfriend",
+      "pos": "NOUN",
+      "translation": "la novia",
+      "example": "\"Elsie was Leo's girlfriend,\" said Tess."
     },
     {
       "word": "give",
@@ -16860,6 +16908,12 @@
       "example": "The racks of hooks hummed in reply."
     },
     {
+      "word": "in secret",
+      "pos": "PHRASE",
+      "translation": "en secreto",
+      "example": "Things he'd asked her mother, in secret, at the supermarket."
+    },
+    {
       "word": "in silence",
       "pos": "PHRASE",
       "translation": "en silencio",
@@ -19246,6 +19300,12 @@
       "example": "After supper, while the others settled down by the fire, Rowan found Maren Vell sitting outside on the steps with a pipe she never lit, watching the dark wall of trees beyond the clearing."
     },
     {
+      "word": "light bulb",
+      "pos": "PHRASE",
+      "translation": "la bombilla",
+      "example": "Then in June he came home from the market and he was shining like a light bulb, and he said, 'She came, Tess."
+    },
+    {
       "word": "light up",
       "pos": "PHRASE",
       "translation": "iluminar",
@@ -19831,6 +19891,12 @@
       "pos": "VERB",
       "translation": "bajar",
       "example": "While Godfrey went to see to the horses, she sat down opposite Edwin and lowered her voice."
+    },
+    {
+      "word": "Lowestoft",
+      "pos": "PROPN",
+      "translation": "Lowestoft (ciudad portuaria de Suffolk)",
+      "example": "\"On Tuesday mornings he goes to the wholesale market in Lowestoft,\" she said, without looking at Maya."
     },
     {
       "word": "Lucas",
@@ -21206,6 +21272,12 @@
       "example": "He paused, and his expression became more serious."
     },
     {
+      "word": "more or less",
+      "pos": "PHRASE",
+      "translation": "más o menos",
+      "example": "She told the story more or less as Tess had told it."
+    },
+    {
       "word": "more than once",
       "pos": "PHRASE",
       "translation": "más de una vez",
@@ -22164,6 +22236,12 @@
       "pos": "PRON",
       "translation": "ninguno, ninguna",
       "example": "Peering through a gap between the loft boards, Rowan could make out none of the words, only their shape: a quick, slanting hand, nothing like his uncle's laborious capitals."
+    },
+    {
+      "word": "none of my business",
+      "pos": "PHRASE",
+      "translation": "no es asunto mío",
+      "example": "\"I told myself it was none of my business."
     },
     {
       "word": "nonsense",
@@ -24409,6 +24487,12 @@
       "example": "And then, a little later, he heard a sound he had heard perhaps a thousand times in his life, and never once at night: the steady, rhythmic chock of an axe splitting wood, going on and on into the small hours, as though there were something out there in the darkness that needed to be cut into pieces small enough to carry."
     },
     {
+      "word": "pier",
+      "pos": "NOUN",
+      "translation": "el muelle, el embarcadero",
+      "example": "I work at the café on the pier."
+    },
+    {
       "word": "pig",
       "pos": "NOUN",
       "translation": "el cerdo",
@@ -26171,6 +26255,12 @@
       "pos": "NOUN",
       "translation": "la barandilla",
       "example": "He stopped on the bridge over the Brack and leaned on the rail, watching the brown water slide beneath him."
+    },
+    {
+      "word": "railing",
+      "pos": "NOUN",
+      "translation": "la barandilla",
+      "example": "Outside, seagulls were standing on the railings, looking in at the cakes."
     },
     {
       "word": "railway",
@@ -34451,6 +34541,12 @@
       "example": "Then, to be fair, she knocked anyway, because she had a parcel for Mrs Bell."
     },
     {
+      "word": "to death",
+      "pos": "PHRASE",
+      "translation": "a muerte («frighten to death»: dar un susto de muerte)",
+      "example": "But it frightened her to death."
+    },
+    {
       "word": "to one side",
       "pos": "PHRASE",
       "translation": "a un lado",
@@ -35697,6 +35793,12 @@
       "pos": "ADJ",
       "translation": "desprevenido, descuidado",
       "example": "And across his face, for one unguarded moment, passed something Rowan would remember for the rest of his life: not disappointment, not pity, but relief — vast, shaking, almost painful relief."
+    },
+    {
+      "word": "unhappiness",
+      "pos": "NOUN",
+      "translation": "la infelicidad, la tristeza",
+      "example": "Because after Mum left, he couldn't stand the idea of not seeing someone's unhappiness until it was too late."
     },
     {
       "word": "unhappy",
@@ -37456,6 +37558,12 @@
       "example": "Leo is black and white. — Leo es blanco y negro."
     },
     {
+      "word": "white as a sheet",
+      "pos": "PHRASE",
+      "translation": "blanco como el papel",
+      "example": "And then one day she came into the kitchen with a notebook in her hand, white as a sheet, and she put it on the table in front of me and said, 'Did you know about this?'"
+    },
+    {
       "word": "whitewashed",
       "pos": "ADJ",
       "translation": "encalado",
@@ -37490,6 +37598,18 @@
       "pos": "NOUN",
       "translation": "el todo («the whole of»: todo el/la)",
       "example": "But the Tanner brothers, who had claimed the alcoves on either side of his, seemed to have decided on the long journey north that anyone who could put up with Tamsin was all right by them; and Tamsin herself made it clear to the whole of Hearthside, within the first hour, that anyone who had a problem with Rowan Ashby could bring it to her."
+    },
+    {
+      "word": "wholesale",
+      "pos": "ADJ",
+      "translation": "mayorista, al por mayor",
+      "example": "\"On Tuesday mornings he goes to the wholesale market in Lowestoft,\" she said, without looking at Maya."
+    },
+    {
+      "word": "wholesale market",
+      "pos": "PHRASE",
+      "translation": "el mercado mayorista",
+      "example": "\"On Tuesday mornings he goes to the wholesale market in Lowestoft,\" she said, without looking at Maya."
     },
     {
       "word": "whom",
