@@ -4164,6 +4164,12 @@
       "example": "He achieved it by a combination of brute force, improvised engineering and outrageous flattery, and when at last both of them were installed — Isla on the bunk behind the seats, cocooned in his sleeping bag, Alasdair in the passenger seat with the heater roaring at his feet — he discovered that his hands were shaking and that he was, for no reason he could identify, on the verge of laughter."
     },
     {
+      "word": "Bryony",
+      "pos": "PROPN",
+      "translation": "Bryony (Vorname)",
+      "example": "\"Look, if this is about Bryony, it's over, actually, we…\""
+    },
+    {
       "word": "bubble",
       "pos": "VERB",
       "translation": "Blasen werfen, blubbern",
@@ -4474,6 +4480,12 @@
       "pos": "PHRASE",
       "translation": "auswendig",
       "example": "But I know what they say about the first signs, because my grandmother made me learn it by heart when I was younger than you.\""
+    },
+    {
+      "word": "by herself",
+      "pos": "PHRASE",
+      "translation": "allein, selbst",
+      "example": "If Leo would not tell her everything, she would find out by herself."
     },
     {
       "word": "by mistake",
@@ -5418,6 +5430,12 @@
       "example": "\"There's a fight night in Bradford in three weeks. Charity event. Unlicensed.\""
     },
     {
+      "word": "charity shop",
+      "pos": "PHRASE",
+      "translation": "der Secondhandladen einer Wohltätigkeitsorganisation",
+      "example": "She asked in the launderette, in the bakery, in the charity shop, in the flats above the shoe repair shop."
+    },
+    {
       "word": "charm",
       "pos": "NOUN",
       "translation": "der Charme; der Glücksbringer („lucky charm“)",
@@ -6316,6 +6334,12 @@
       "pos": "NOUN",
       "translation": "der Kaffee",
       "example": "She opened the kitchen window to let some air in, drank her coffee in two seconds and ran downstairs."
+    },
+    {
+      "word": "coffin",
+      "pos": "NOUN",
+      "translation": "der Sarg",
+      "example": "He carried his father's coffin and then he came straight here and sold cherries, because the cherries wouldn't wait."
     },
     {
       "word": "coil",
@@ -7608,6 +7632,12 @@
       "example": "Leaving Hearthside after the tenth bell, crossing the ice, going into the Elderwood — Master Hale had listed their crimes in the Warden's study the following morning in a voice like a frost, and Tamsin, Jory and Ilse had been given a month of scrubbing pans in the kitchens."
     },
     {
+      "word": "crime novel",
+      "pos": "PHRASE",
+      "translation": "der Krimi, der Kriminalroman",
+      "example": "She would ask questions the way a detective in one of the library's crime novels would ask them: calmly, carefully, without saying why."
+    },
+    {
       "word": "crisp",
       "pos": "NOUN",
       "translation": "der Chip („a bag of crisps“: eine Tüte Chips)",
@@ -8034,6 +8064,12 @@
       "example": "The first daffodils by the river in Durham."
     },
     {
+      "word": "dahlia",
+      "pos": "NOUN",
+      "translation": "die Dahlie",
+      "example": "But Doreen was already there, putting buckets of sunflowers and dahlias in neat rows, with a cigarette behind her ear that she never smoked."
+    },
+    {
       "word": "daily",
       "pos": "ADJ",
       "translation": "täglich („daily rest“: Tagesruhezeit)",
@@ -8316,6 +8352,12 @@
       "example": "A pull, deep down, as if something were rising towards the surface of a dark pool, slow and patient and very old."
     },
     {
+      "word": "deep down",
+      "pos": "PHRASE",
+      "translation": "tief im Innern",
+      "example": "She had known since Doreen's words, maybe even before, somewhere deep down where she kept the things she did not want to look at."
+    },
+    {
       "word": "deeply",
       "pos": "ADV",
       "translation": "tief",
@@ -8380,6 +8422,12 @@
       "pos": "PROPN",
       "translation": "Delattre (Nachname)",
       "example": "On the other side of the canteen, Monsieur Delattre, the supervisor, was looking at his phone with great concentration."
+    },
+    {
+      "word": "delete",
+      "pos": "VERB",
+      "translation": "löschen",
+      "example": "She had deleted his number in April, in a moment of anger, but she still knew it by heart, the way you know the number of a house you lived in as a child."
     },
     {
       "word": "deliberate",
@@ -9382,6 +9430,12 @@
       "pos": "ADJ",
       "translation": "triefend, tropfnass",
       "example": "\"Did you see that?\" he said, dripping and delighted."
+    },
+    {
+      "word": "drive",
+      "pos": "NOUN",
+      "translation": "die Fahrt (mit dem Auto)",
+      "example": "He usually arrived at half past seven, after the long drive from Saxby Green."
     },
     {
       "word": "drive",
@@ -11320,6 +11374,12 @@
       "example": "They felled whatever stood straight and sold whatever sold."
     },
     {
+      "word": "fellow",
+      "pos": "NOUN",
+      "translation": "der Kerl, der Typ",
+      "example": "\"Every Saturday, you came past here with that tall fellow in the expensive coat."
+    },
+    {
       "word": "Fellside",
       "pos": "PROPN",
       "translation": "Fellside (Name des Krankenhauses)",
@@ -12884,6 +12944,12 @@
       "pos": "PHRASE",
       "translation": "von Anfang bis Ende",
       "example": "Rosalind did the whole presentation from beginning to end, ten minutes and twenty seconds, without stopping once."
+    },
+    {
+      "word": "from door to door",
+      "pos": "PHRASE",
+      "translation": "von Tür zu Tür",
+      "example": "Without telling Maya, she went from door to door along Magdalen Street with a photo of the cherry flyer on her phone."
     },
     {
       "word": "from end to end",
@@ -14583,6 +14649,12 @@
       "example": "Below me, there was a narrow ledge, and from the ledge, a gutter led to the roof next door."
     },
     {
+      "word": "guy",
+      "pos": "NOUN",
+      "translation": "der Typ",
+      "example": "\"There was a guy."
+    },
+    {
       "word": "gym",
       "pos": "NOUN",
       "translation": "das Fitnessstudio",
@@ -15036,6 +15108,12 @@
       "pos": "NOUN",
       "translation": "die Ernte",
       "example": "Four years ago, his father had died suddenly, of a heart attack, in the middle of the harvest."
+    },
+    {
+      "word": "Hassan",
+      "pos": "PROPN",
+      "translation": "Hassan (Nachname)",
+      "example": "She asked Mr Hassan, who owned the launderette and had lived on the street for thirty years and noticed everything."
     },
     {
       "word": "hat",
@@ -18670,6 +18748,12 @@
       "example": "By order of the Wardens of Thornhall Academy, the Marking of all children of Brackenford and the surrounding villages who have attained their fourteenth year shall take place at the Standing Stone of Brackenford on the first morning of Leaf-Fall."
     },
     {
+      "word": "leaflet",
+      "pos": "NOUN",
+      "translation": "der Prospekt, das Faltblatt",
+      "example": "\"Mr Hassan says he gets every leaflet that's ever been printed in Norwich: pizza, taxis, churches, people who want to buy your gold."
+    },
+    {
       "word": "leak",
       "pos": "VERB",
       "translation": "durchsickern lassen, austreten",
@@ -20828,6 +20912,12 @@
       "example": "I don't mind."
     },
     {
+      "word": "mind my own business",
+      "pos": "PHRASE",
+      "translation": "mich um meine eigenen Angelegenheiten kümmern („mind your own business“: kümmer dich um deinen Kram)",
+      "example": "\"I asked him what it was, and he told me to mind my own business.\""
+    },
+    {
       "word": "mind the step",
       "pos": "PHRASE",
       "translation": "Vorsicht, Stufe!",
@@ -21296,6 +21386,12 @@
       "example": "Mistress Crane glanced at her, raised one eyebrow by perhaps a hair's breadth, and moved on."
     },
     {
+      "word": "move out",
+      "pos": "PHRASE",
+      "translation": "ausziehen",
+      "example": "I told him you'd moved out."
+    },
+    {
       "word": "movement",
       "pos": "NOUN",
       "translation": "die Bewegung",
@@ -21594,6 +21690,12 @@
       "pos": "VERB",
       "translation": "sich nähern",
       "example": "By the time Gideon neared the summit, a little after three, the snow was coming at him horizontally, driven by a wind that buffeted the high-sided trailer like a hand slapping a sail."
+    },
+    {
+      "word": "near enough",
+      "pos": "PHRASE",
+      "translation": "so ungefähr, fast",
+      "example": "\"Since his dad died. Four years, near enough."
     },
     {
       "word": "nearby",
@@ -29532,6 +29634,12 @@
       "example": "She showered, dressed, changed her clothes twice and ate half a piece of toast."
     },
     {
+      "word": "shrewd",
+      "pos": "ADJ",
+      "translation": "scharfsinnig, schlau",
+      "example": "She looked at Maya with her shrewd old eyes, and Maya understood that Doreen had known exactly what this conversation was about from the beginning."
+    },
+    {
       "word": "shriek",
       "pos": "VERB",
       "translation": "kreischen",
@@ -31042,6 +31150,18 @@
       "pos": "VERB",
       "translation": "sprechen",
       "example": "Godfrey sat beside him, which was unusual, and for a while neither of them spoke."
+    },
+    {
+      "word": "speaker",
+      "pos": "NOUN",
+      "translation": "der Lautsprecher ; der Redner („with the speaker on“: über Lautsprecher)",
+      "example": "She played it with the speaker on, so that Gemma could hear."
+    },
+    {
+      "word": "speakerphone",
+      "pos": "NOUN",
+      "translation": "die Freisprechfunktion, der Lautsprecher",
+      "example": "She had not imagined it like this, on a speakerphone, with her best friend's hand on her arm and a cold, sick feeling in her stomach."
     },
     {
       "word": "spear",
@@ -33333,6 +33453,12 @@
       "pos": "NOUN",
       "translation": "die Träne (Tropfenform)",
       "example": "A single small, neat teardrop, filled in solid with ink."
+    },
+    {
+      "word": "tease",
+      "pos": "VERB",
+      "translation": "necken, aufziehen",
+      "example": "I teased him about it."
     },
     {
       "word": "teatime",
@@ -37916,6 +38042,12 @@
       "pos": "VERB",
       "translation": "Hilfsverb des Konditionals („would“: würde)",
       "example": "Sir Godfrey never complained, so Edwin decided that he would not complain either."
+    },
+    {
+      "word": "wow",
+      "pos": "INTJ",
+      "translation": "wow, Mensch",
+      "example": "\"Wow. Hi. How are you?\""
     },
     {
       "word": "wrap",

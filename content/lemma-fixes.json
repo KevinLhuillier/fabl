@@ -1031,6 +1031,14 @@
     },
     {
       "text": "down",
+      "pos": "ADJ",
+      "prev": "-",
+      "next": "bucket",
+      "word": "down",
+      "lemmaPos": "ADV"
+    },
+    {
+      "text": "down",
       "pos": "NOUN",
       "word": "down",
       "lemmaPos": "ADV"
@@ -3110,6 +3118,13 @@
       "lemmaPos": "INTJ"
     },
     {
+      "text": "pleased",
+      "pos": "VERB",
+      "prev": "then",
+      "word": "pleased",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "POINT",
       "pos": "PROPN",
       "word": "point",
@@ -3232,6 +3247,12 @@
       "pos": "ADJ",
       "word": "quite",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "Rang",
+      "pos": "PROPN",
+      "word": "ring",
+      "lemmaPos": "VERB"
     },
     {
       "text": "rang",
@@ -3819,6 +3840,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "smelling",
+      "pos": "NOUN",
+      "word": "smell",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "smoking",
       "pos": "NOUN",
       "word": "smoke",
@@ -4194,6 +4221,12 @@
       "text": "taxes",
       "pos": "NOUN",
       "word": "tax",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "taxis",
+      "pos": "NOUN",
+      "word": "taxi",
       "lemmaPos": "NOUN"
     },
     {
@@ -4587,6 +4620,12 @@
       "text": "wading",
       "pos": "VERB",
       "word": "wade",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "Wait",
+      "pos": "PROPN",
+      "word": "wait",
       "lemmaPos": "VERB"
     },
     {
