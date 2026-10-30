@@ -75,3 +75,69 @@ So that was it, thought Tom. That was the soft feeling. "She went to school with
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_1.page_12-1793351800481.mp3
 They took Nadia's car, an old blue Ford that smelled of crisps and children's crayons. She drove north through the morning traffic, past Cabot Circus and up the hill towards Gloucester Road, with its long line of small shops, cafés and second-hand bookshops. Tom looked out of the window and did his breathing exercises. A new case always made him a little nervous. Each new case meant new people, and new people meant new feelings that he would have to sort, one by one, like letters in a post office.
 "Are you OK?" asked Nadia, stopping at a red light. "Fine," said Tom. She looked at him. "That was a lie, wasn't it? Even I could hear that one." He laughed. "A small one." "Well, keep the small ones for other people," she said. "With me, you tell the truth. That was the deal." The light turned green. Ahead of them, on the left, Tom could already see a green sign with gold letters: HARTLEY'S BAKERY, SINCE 1962. There was a police car outside. And there was a smell of warm bread in the cold air.
+
+# The Missing Money
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_2.page_1-1793353626379.mp3
+Hartley's Bakery was the kind of shop that people photographed. It had a big front window full of golden loaves, round cakes and trays of cinnamon buns, and an old wooden door with a little bell that rang when you opened it. Inside, the walls were painted cream and green, and there were black-and-white photos of the shop in the 1960s, with a young woman in a white apron smiling behind the counter. The young woman was Joan Hartley. Today she was eighty-one, and she was sitting at a small table by the window with a cup of tea that she was not drinking.
+The shop was closed. A sign on the door said SORRY, CLOSED TODAY. A young uniformed officer, PC Sam Jones, was standing by the counter with a notebook. He looked relieved when he saw the two detectives. "Morning, Sarge," he said to Nadia. "The manager's in the back office. That's where the safe is. Mrs Hartley's here, as you can see. The bakers have gone home. They start at four in the morning, so they were already working when the manager found the safe empty."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_2.page_2-1793353640482.mp3
+Tom walked slowly into the middle of the shop and stopped. He let the feelings come to him. There were not many people here, so it was easy. PC Jones was bored and a bit hungry; the smell of bread was making his stomach talk. Mrs Hartley, by the window, was a deep, quiet pool of sadness, older and stronger than Mr Okafor's. But there was something else in it too. Shame. The old woman was ashamed. Tom frowned. Why would a woman feel ashamed when somebody had stolen from her?
+Nadia went to the old woman first. She sat down opposite her and spoke gently. "Mrs Hartley? I'm Detective Sergeant Cole, and this is Detective Constable Reed. Inspector Harris sent us. We're going to do everything we can to find your money." Mrs Hartley looked up. Her eyes were red, but her voice was strong. "Paul is a good boy," she said. "He was always a good boy. He used to come in here after school for a jam doughnut." Nadia smiled. Tom smiled too. It was difficult to imagine Inspector Harris as a boy with a doughnut.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_2.page_3-1793353655035.mp3
+"Can you tell us about the money?" asked Nadia. Mrs Hartley nodded. "We were saving it for a new oven. The big oven is forty years old, you see. It's tired, like me. A new one costs twenty-five thousand pounds. We had nearly enough. Every Saturday evening my son puts the week's cash in the safe, and on Mondays he takes some of it to the bank and pays the suppliers. But we kept the oven money there too. My husband never trusted banks, God rest him. I suppose I'm the same."
+There it was again. When she said "my son", the shame came up like smoke. Tom said nothing. He wrote "son" in his notebook and drew a small circle round it. "How much was in the safe exactly?" asked Nadia. "Twenty thousand, four hundred pounds. Mark counted it on Saturday. He always counts it twice. He's very careful, my Mark." Her voice was proud, and the pride was true. Tom felt no false note at all. But the shame was still there, underneath, like a stone at the bottom of a river.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_2.page_4-1793353673517.mp3
+The back office was a small, warm room behind the kitchen, with a desk covered in invoices, a calendar from a flour company and, in the corner, a grey metal safe about the size of a washing machine. The door of the safe was open. It was completely empty. A man was standing next to it with his hands in his pockets. He was in his middle forties, with a round, kind face, flour on his sleeves and the tired eyes of someone who got up at four o'clock every morning of his life. "Mark Hartley," he said, shaking their hands. "I'm the manager. Joan's son."
+His hand was warm and a little wet. And as Tom touched it, the feelings arrived all together, so fast that he nearly stepped back. On the top there was sadness, which was normal. Under the sadness there was fear, a lot of fear, cold and tight like ice in his stomach. And under the fear, deeper still, there was something that made no sense at all. It was relief. Mark Hartley was relieved. It was the feeling of a man who has been carrying something heavy for a long time and has finally put it down.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_2.page_5-1793353686820.mp3
+Tom let go of his hand and looked around the room to hide his face. "Can you tell us what happened this morning, Mr Hartley?" asked Nadia, taking out her notebook. "Mark, please. Well, I got here at five, like always. The bakers were already in, Ray and Tomasz. I came in here to get the float for the till, the coins and small notes for the morning. I opened the safe, and..." He opened his hands. "Nothing. Everything was gone. The cash bags, the envelopes, all of it."
+"Was the safe locked when you arrived?" "Yes. Locked, closed, normal. That's what I don't understand." He shook his head. The sadness was true. The fear was true. But Tom heard nothing false yet. "Who knows the code for the safe?" asked Nadia. Mark thought about it. "Me. My mum. And Priya, Priya Shah, she's my assistant manager. She closes the shop when I'm not here. That's all. Three people." "Not your wife?" "Helen? No. She doesn't work here. She's a teacher."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_2.page_6-1793353701547.mp3
+A small sound rang in Tom's head, like a fingernail on a glass. Ting. It was very quiet, but it was there. Something about the code was not true. Either more people knew it, or Mark was not sure who knew it. Tom wrote "code?" in his notebook. Nadia saw him write it and did not say anything. She went on with her questions. "And the building? How did the thief get in? PC Jones says there's no damage to the doors or windows."
+"I don't know. There's an alarm. It was on when I came in this morning. I turned it off myself, same as every day." "Who knows the alarm code?" Mark laughed, but it was not a happy laugh. "That's a longer list, I'm afraid. Me, Mum, Priya, the two bakers, and Lee, our delivery driver, because he comes in early to load the van. Six people. And it's the same code for everybody. I know, I know. It's stupid. We've had the same code for ten years."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_2.page_7-1793353714526.mp3
+"Does the alarm company keep a record? Of when it's turned on and off?" Mark blinked. For a second the fear inside him jumped, like a fish in a bucket. "I... I suppose so. I've never asked. It's a company called SecureWest. The number's on the box by the back door." "Thank you. We'll call them." Nadia wrote it down. Tom watched Mark's hands. He had taken them out of his pockets, and now he was holding the edge of the desk, quite tightly.
+"Is there a camera?" asked Tom. It was the first time he had spoken. "There's one in the shop, over the counter. But it broke two weeks ago. I keep meaning to call someone about it." Ting. Another small false note. Not about the camera breaking; that part was true. About "meaning to call someone". Mark had not meant to call anyone. Maybe he had been too busy. Maybe he had been too tired. Or maybe, Tom thought, he had not wanted the camera to work.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_2.page_8-1793353728158.mp3
+Then Nadia asked the most important question, the one she always asked in the same calm voice. "Mark, where were you yesterday, on Sunday? Especially in the evening." "At home," he said at once. "The shop's closed on Sundays. I stayed in all day. We had a roast dinner, Helen and me, and then we watched television. I went to bed early, about half past nine, because I have to get up at four."
+This time the note was not small. It was loud and ugly, like a car horn in a quiet street. It was so loud that Tom nearly put his hand to his ear. Mark Hartley had not been at home all evening on Sunday. Tom was completely sure of it, as sure as he was of his own name. And yet he could do nothing with it. He could not write in his report: "The suspect's lie sounded like a car horn." Inspector Harris would laugh at him, and then he would stop laughing and send him to see a doctor.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_2.page_9-1793353740192.mp3
+So Tom did what he had learned to do. He kept his face calm, he wrote a few neutral words in his notebook, and he asked a different question, an ordinary one. "Did you notice anything strange last week? Anyone hanging around the shop? New customers who asked unusual questions?" Mark thought. "No. Nothing. It was a normal week. Busy, but normal." That was true. No false note. Tom nodded and thanked him.
+They spent another hour at the bakery. Nadia called SecureWest and asked for the alarm records for the weekend; a polite woman promised to send them by email before the end of the day. PC Jones took photos of the safe and the back door. A specialist came to look for fingerprints on the safe, but he did not seem hopeful. "Everybody's touched this thing," he said, looking at the grey metal. "And everybody's had flour on their hands. It's like looking for a snowflake in a snowstorm."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_2.page_10-1793353754063.mp3
+Before they left, Tom went back into the shop to say goodbye to Mrs Hartley. She was still at her table by the window. She looked very small in her big wool coat. "Will you find it?" she asked him. "The money? I'm not worried about myself. I'm old. But the shop is everything to Mark. It's his whole life. If the oven breaks and we can't buy a new one..." She did not finish. Tom felt the shame again, rising. "And Mark's had a difficult year," she added quietly. "A very difficult year."
+"Difficult in what way?" asked Tom gently. But the old woman shook her head and looked out of the window at the traffic on Gloucester Road. "Oh, you know. Business. Prices. Everything costs more now." Ting. A small note, sad and soft. She was protecting someone. Tom did not push her. He had learned long ago that if you push a frightened person, they close like a door. "Thank you, Mrs Hartley," he said. "We'll do our best." And that, at least, was completely true.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_2.page_11-1793353769234.mp3
+In the car, Nadia did not start the engine. She sat with her hands on the steering wheel and waited. She knew him well. After a minute, Tom said: "He's lying about Sunday evening. He wasn't at home. Not all evening, anyway." Nadia nodded slowly. "How sure?" "Completely. It was the loudest lie I've heard this year." "OK. What else?" "He's frightened. Very frightened. But he's also relieved, and I don't understand why. And his mother is ashamed of something. Of him, I think. Or for him."
+Nadia was quiet for a long time. Outside, a woman with a dog walked past and looked at the closed bakery with surprise. "So the manager is lying, the owner is hiding something, and six people know the alarm code," Nadia said at last. "And the only proof we have is your ears." "My ears and your notebook," said Tom. She almost smiled. "Right. Then we do it the hard way. We find out where Mark Hartley really was on Sunday night, and we find out with evidence that Harris can hold in his hand." She started the engine. "Welcome to another Monday, Tom."

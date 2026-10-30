@@ -20,6 +20,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "1960s",
+      "pos": "NOUN",
+      "word": "1960s",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "1970s",
       "pos": "NOUN",
       "word": "1970s",
@@ -101,6 +107,12 @@
       "text": "aisle",
       "pos": "PROPN",
       "word": "aisle",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "alarm",
+      "pos": "PROPN",
+      "word": "alarm",
       "lemmaPos": "NOUN"
     },
     {
@@ -470,6 +482,20 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "breaking",
+      "pos": "NOUN",
+      "prev": "camera",
+      "word": "break",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "breaks",
+      "pos": "NOUN",
+      "prev": "oven",
+      "word": "break",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Breathe",
       "pos": "ADJ",
       "word": "breathe",
@@ -666,6 +692,12 @@
       "pos": "PROPN",
       "word": "Christmas",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "cinnamon",
+      "pos": "ADJ",
+      "word": "cinnamon",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "cinnamon",
@@ -1494,6 +1526,12 @@
       "pos": "VERB",
       "word": "forget",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "forties",
+      "pos": "NOUN",
+      "word": "forties",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "four",
@@ -2726,6 +2764,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "Mondays",
+      "pos": "PROPN",
+      "word": "Monday",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "MOOR",
       "pos": "PROPN",
       "word": "Moor",
@@ -3078,6 +3122,12 @@
       "next": "flats",
       "word": "burnt-out",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "oven",
+      "pos": "ADJ",
+      "word": "oven",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "overalls",
@@ -4056,6 +4106,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "SORRY",
+      "pos": "PROPN",
+      "word": "sorry",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Soul",
       "pos": "PROPN",
       "word": "soul",
@@ -4285,6 +4341,12 @@
       "pos": "NOUN",
       "word": "summons",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Sundays",
+      "pos": "PROPN",
+      "word": "Sunday",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "supper",
@@ -4567,6 +4629,12 @@
       "pos": "NOUN",
       "word": "tights",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Ting",
+      "pos": "PROPN",
+      "word": "ting",
+      "lemmaPos": "INTJ"
     },
     {
       "text": "Tiredness",

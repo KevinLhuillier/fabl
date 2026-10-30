@@ -26,6 +26,12 @@
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
     },
     {
+      "word": "1960s",
+      "pos": "NOUN",
+      "translation": "die 1960er-Jahre („the 1960s“: die Sechziger)",
+      "example": "Inside, the walls were painted cream and green, and there were black-and-white photos of the shop in the 1960s, with a young woman in a white apron smiling behind the counter."
+    },
+    {
       "word": "1970s",
       "pos": "NOUN",
       "translation": "die 1970er-Jahre („the 1970s“: die Siebziger)",
@@ -1720,6 +1726,18 @@
       "example": "Seven years earlier she had been a nervous twenty-year-old with a brand-new licence and a habit of apologising to the gearbox; he had been assigned to sit beside her for her first month on the road, and had done so with a forbearance she still described, to anyone who would listen, as saintly."
     },
     {
+      "word": "assistant",
+      "pos": "ADJ",
+      "translation": "stellvertretend („assistant manager“: die stellvertretende Leiterin)",
+      "example": "\"And Priya, Priya Shah, she's my assistant manager."
+    },
+    {
+      "word": "assistant manager",
+      "pos": "PHRASE",
+      "translation": "der stellvertretende Leiter, die stellvertretende Leiterin",
+      "example": "\"And Priya, Priya Shah, she's my assistant manager."
+    },
+    {
       "word": "association",
       "pos": "NOUN",
       "translation": "der Verband, die Gesellschaft",
@@ -2179,10 +2197,22 @@
       "example": "The rod in his hand jerked one way, then the other, then swung wildly back and forth, unable to settle, as though whatever it had been following were suddenly everywhere at once, spreading through the ground beneath the hall like roots."
     },
     {
+      "word": "back door",
+      "pos": "PHRASE",
+      "translation": "die Hintertür",
+      "example": "\"It's a company called SecureWest. The number's on the box by the back door.\""
+    },
+    {
       "word": "back for good",
       "pos": "PHRASE",
       "translation": "(zurückgeben) für immer, endgültig",
       "example": "He was sixty-one years old, and in four days' time he would hand that card back for good."
+    },
+    {
+      "word": "back office",
+      "pos": "PHRASE",
+      "translation": "das Hinterzimmer, das Büro hinten",
+      "example": "\"The manager's in the back office."
     },
     {
       "word": "back row",
@@ -4926,6 +4956,12 @@
       "example": "In the Cité des Acacias, car alarms were going off one after another."
     },
     {
+      "word": "car horn",
+      "pos": "PHRASE",
+      "translation": "die Autohupe",
+      "example": "It was loud and ugly, like a car horn in a quiet street."
+    },
+    {
       "word": "car park",
       "pos": "PHRASE",
       "translation": "der Parkplatz",
@@ -5134,6 +5170,12 @@
       "pos": "NOUN",
       "translation": "das Bargeld, bar",
       "example": "He paused. \"Cash.\""
+    },
+    {
+      "word": "cash bag",
+      "pos": "PHRASE",
+      "translation": "die Geldtasche, der Geldbeutel",
+      "example": "\"The cash bags, the envelopes, all of it.\""
     },
     {
       "word": "cash box",
@@ -7116,6 +7158,12 @@
       "example": "Tom had worked there for six years, first in uniform and then as a detective constable in CID."
     },
     {
+      "word": "Constable",
+      "pos": "PROPN",
+      "translation": "Constable („Detective Constable“: Kriminalbeamter; „constable“: der Polizist)",
+      "example": "\"Mrs Hartley? I'm Detective Sergeant Cole, and this is Detective Constable Reed."
+    },
+    {
       "word": "Constanța",
       "pos": "PROPN",
       "translation": "Constanța (Hafenstadt in Rumänien)",
@@ -8299,6 +8347,12 @@
     },
     {
       "word": "damage",
+      "pos": "NOUN",
+      "translation": "der Schaden",
+      "example": "\"PC Jones says there's no damage to the doors or windows.\""
+    },
+    {
+      "word": "damage",
       "pos": "VERB",
       "translation": "beschädigen",
       "example": "\"Much better than the cheap ones, which can damage your battery.\""
@@ -8680,6 +8734,12 @@
       "pos": "NOUN",
       "translation": "die Lieferung („delivery boy“: Laufbursche)",
       "example": "Not as a servant, not as a delivery boy bringing timber to the kitchen gate, but as a student."
+    },
+    {
+      "word": "delivery driver",
+      "pos": "PHRASE",
+      "translation": "der Lieferfahrer",
+      "example": "Me, Mum, Priya, the two bakers, and Lee, our delivery driver, because he comes in early to load the van."
     },
     {
       "word": "delivery note",
@@ -9286,6 +9346,12 @@
       "pos": "VERB",
       "translation": "tun, machen (auch Hilfsverb für Fragen und Verneinungen)",
       "example": "Do you see a cat? — Siehst du eine Katze?"
+    },
+    {
+      "word": "do our best",
+      "pos": "PHRASE",
+      "translation": "unser Bestes tun",
+      "example": "\"We'll do our best.\""
     },
     {
       "word": "do their homework",
@@ -12413,6 +12479,12 @@
     },
     {
       "word": "float",
+      "pos": "NOUN",
+      "translation": "das Wechselgeld (in der Kasse) ; der Schwimmer",
+      "example": "I came in here to get the float for the till, the coins and small notes for the morning."
+    },
+    {
+      "word": "float",
       "pos": "VERB",
       "translation": "treiben, schwimmen",
       "example": "It simply happened, the way a man stops struggling in deep water and finds, to his astonishment, that he floats."
@@ -12932,6 +13004,12 @@
       "pos": "ADV",
       "translation": "(„back and forth“: hin und her)",
       "example": "The rod in his hand jerked one way, then the other, then swung wildly back and forth, unable to settle, as though whatever it had been following were suddenly everywhere at once, spreading through the ground beneath the hall like roots."
+    },
+    {
+      "word": "forties",
+      "pos": "NOUN",
+      "translation": "die Vierziger („in his middle forties“: Mitte vierzig)",
+      "example": "He was in his middle forties, with a round, kind face, flour on his sleeves and the tired eyes of someone who got up at four o'clock every morning of his life."
     },
     {
       "word": "fortnight",
@@ -14379,6 +14457,12 @@
       "example": "Thank God the clock doesn't need electricity."
     },
     {
+      "word": "god rest him",
+      "pos": "PHRASE",
+      "translation": "Gott hab ihn selig",
+      "example": "\"My husband never trusted banks, God rest him."
+    },
+    {
       "word": "Godfrey",
       "pos": "PROPN",
       "translation": "Godfrey (Vorname)",
@@ -15340,7 +15424,7 @@
     {
       "word": "hang around",
       "pos": "PHRASE",
-      "translation": "herumhängen („hang around with sb“: mit jemandem abhängen)",
+      "translation": "herumhängen („hang around with sb“: mit jemandem abhängen) ; umgeben, in der Luft hängen (Geruch, Wärme)",
       "example": "The only reason he hung around with him was that Lucas's brother could get them into clubs in Lille."
     },
     {
@@ -15902,6 +15986,12 @@
       "example": "They call themselves the Heirs."
     },
     {
+      "word": "Helen",
+      "pos": "PROPN",
+      "translation": "Helen (Vorname)",
+      "example": "\"Helen? No. She doesn't work here. She's a teacher.\""
+    },
+    {
       "word": "helicopter",
       "pos": "NOUN",
       "translation": "der Hubschrauber",
@@ -16452,6 +16542,12 @@
       "pos": "VERB",
       "translation": "hoffen",
       "example": "\"Welcome,\" she said, \"to the newest of you, and welcome back to the rest, some of whom I had rather hoped not to see again.\""
+    },
+    {
+      "word": "hopeful",
+      "pos": "ADJ",
+      "translation": "hoffnungsvoll, zuversichtlich",
+      "example": "A specialist came to look for fingerprints on the safe, but he did not seem hopeful."
     },
     {
       "word": "hopefully",
@@ -17944,6 +18040,12 @@
       "example": "Every knight in the kingdom has been invited to take part."
     },
     {
+      "word": "invoice",
+      "pos": "NOUN",
+      "translation": "die Rechnung",
+      "example": "The back office was a small, warm room behind the kitchen, with a desk covered in invoices, a calendar from a flour company and, in the corner, a grey metal safe about the size of a washing machine."
+    },
+    {
       "word": "inwards",
       "pos": "ADV",
       "translation": "nach innen",
@@ -18194,6 +18296,12 @@
       "pos": "NOUN",
       "translation": "der Ruck, der Schlag",
       "example": "He stood there for a long time with his palm against the bark and his good eye half-closed, and Rowan, watching him, felt a jolt of recognition so strong that it was almost painful."
+    },
+    {
+      "word": "Jones",
+      "pos": "PROPN",
+      "translation": "Jones (Nachname)",
+      "example": "A young uniformed officer, PC Sam Jones, was standing by the counter with a notebook."
     },
     {
       "word": "Jory",
@@ -19400,6 +19508,12 @@
       "pos": "NOUN",
       "translation": "das Register, das Kassenbuch",
       "example": "Normally they just send a couple of junior examiners with a ledger.\""
+    },
+    {
+      "word": "Lee",
+      "pos": "PROPN",
+      "translation": "Lee (Vorname)",
+      "example": "Me, Mum, Priya, the two bakers, and Lee, our delivery driver, because he comes in early to load the van."
     },
     {
       "word": "Leeds",
@@ -20808,6 +20922,12 @@
       "pos": "VERB",
       "translation": "markieren; (hier) das Zeichen eines Elements empfangen",
       "example": "He had been Marked the previous autumn: Fire, as everyone had predicted, since his father had Fire and his grandfather before him."
+    },
+    {
+      "word": "Mark",
+      "pos": "PROPN",
+      "translation": "Mark (Vorname)",
+      "example": "\"Mark Hartley,\" he said, shaking their hands."
     },
     {
       "word": "marked",
@@ -22412,6 +22532,12 @@
       "example": "Lily played netball for the school and ran everywhere."
     },
     {
+      "word": "neutral",
+      "pos": "ADJ",
+      "translation": "neutral",
+      "example": "He kept his face calm, he wrote a few neutral words in his notebook, and he asked a different question, an ordinary one."
+    },
+    {
       "word": "never",
       "pos": "ADV",
       "translation": "nie",
@@ -23158,7 +23284,7 @@
     {
       "word": "of his own",
       "pos": "PHRASE",
-      "translation": "eigen, sein eigener",
+      "translation": "eigen, sein eigener ; („as sure as he was of his own name“: so sicher wie seines eigenen Namens)",
       "example": "Twelve weeks of training, and then, if he passed, a station of his own."
     },
     {
@@ -24575,6 +24701,12 @@
       "pos": "PHRASE",
       "translation": "aufpassen, beachten",
       "example": "\"Marcus never paid attention to you."
+    },
+    {
+      "word": "PC",
+      "pos": "PROPN",
+      "translation": "PC („Police Constable“: Polizeibeamter, Wachtmeister)",
+      "example": "A young uniformed officer, PC Sam Jones, was standing by the counter with a notebook."
     },
     {
       "word": "pea",
@@ -26059,6 +26191,12 @@
       "example": "They closed over the cloaked figures on the causeway one by one, the way a hand closes over a moth — not crushing, but holding, tighter and tighter, until the men who had been shouting were not shouting any more, only standing very, very still, while the thorns pricked at their throats."
     },
     {
+      "word": "pride",
+      "pos": "NOUN",
+      "translation": "der Stolz",
+      "example": "Her voice was proud, and the pride was true."
+    },
+    {
       "word": "priest",
       "pos": "NOUN",
       "translation": "der Priester, der Pfarrer",
@@ -27016,6 +27154,12 @@
       "pos": "ADJ",
       "translation": "roh",
       "example": "On the other side, the stone was raw and pale and freshly broken."
+    },
+    {
+      "word": "Ray",
+      "pos": "PROPN",
+      "translation": "Ray (Vorname)",
+      "example": "\"The bakers were already in, Ray and Tomasz."
     },
     {
       "word": "re-form",
@@ -28213,9 +28357,21 @@
     },
     {
       "word": "roast",
+      "pos": "NOUN",
+      "translation": "der Braten („roast dinner“: der Sonntagsbraten)",
+      "example": "\"We had a roast dinner, Helen and me, and then we watched television."
+    },
+    {
+      "word": "roast",
       "pos": "VERB",
       "translation": "braten, rösten",
       "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "roast dinner",
+      "pos": "PHRASE",
+      "translation": "der Sonntagsbraten (Braten mit Gemüse und Soße)",
+      "example": "\"We had a roast dinner, Helen and me, and then we watched television."
     },
     {
       "word": "robe",
@@ -28938,6 +29094,12 @@
       "example": "A row of young saplings in tubs along the back wall, each one no taller than his knee, each one bent in the same direction, towards the light of the cracked windows, as though they were trying with all their strength to lean out of their pots and escape."
     },
     {
+      "word": "Sarge",
+      "pos": "PROPN",
+      "translation": "Chefin, Sergeant (umgangssprachlich für „sergeant“)",
+      "example": "\"Morning, Sarge,\" he said to Nadia."
+    },
+    {
       "word": "satchel",
       "pos": "NOUN",
       "translation": "die Umhängetasche",
@@ -29488,6 +29650,12 @@
       "pos": "NOUN",
       "translation": "die Abteilung",
       "example": "The local history section was on the top floor, at the end of a corridor nobody seemed to use."
+    },
+    {
+      "word": "SecureWest",
+      "pos": "PROPN",
+      "translation": "SecureWest (Name einer Alarmanlagenfirma)",
+      "example": "\"It's a company called SecureWest. The number's on the box by the back door.\""
     },
     {
       "word": "see",
@@ -31452,6 +31620,12 @@
       "example": "The first snowplough appeared at a quarter to seven, a great yellow apparition crawling south out of the half-light with its blade raised and its beacons strobing across the drifts."
     },
     {
+      "word": "snowstorm",
+      "pos": "NOUN",
+      "translation": "der Schneesturm",
+      "example": "\"It's like looking for a snowflake in a snowstorm.\""
+    },
+    {
       "word": "snowy",
       "pos": "ADJ",
       "translation": "verschneit",
@@ -31930,6 +32104,12 @@
       "pos": "ADJ",
       "translation": "besonder, speziell",
       "example": "That night, Margaret sat by the fire with her best pen and her special red paper."
+    },
+    {
+      "word": "specialist",
+      "pos": "NOUN",
+      "translation": "der Spezialist, der Experte",
+      "example": "A specialist came to look for fingerprints on the safe, but he did not seem hopeful."
     },
     {
       "word": "spectacle",
@@ -33558,6 +33738,12 @@
       "example": "Doors left wide open, supper still on the table."
     },
     {
+      "word": "supplier",
+      "pos": "NOUN",
+      "translation": "der Lieferant",
+      "example": "\"Every Saturday evening my son puts the week's cash in the safe, and on Mondays he takes some of it to the bank and pays the suppliers."
+    },
+    {
       "word": "supply",
       "pos": "NOUN",
       "translation": "die Versorgung („supply vessel“: Versorgungsschiff)",
@@ -33640,6 +33826,12 @@
       "pos": "VERB",
       "translation": "überleben, überstehen",
       "example": "She was a Scania, eleven years old and well past the age at which the firm normally sold its tractor units on to hauliers in Lithuania, but the transport manager had a soft spot for Gideon, and Gideon had a soft spot for the truck, and the arrangement had quietly survived three rounds of fleet renewal."
+    },
+    {
+      "word": "suspect",
+      "pos": "NOUN",
+      "translation": "der Verdächtige",
+      "example": "He could not write in his report: \"The suspect's lie sounded like a car horn.\""
     },
     {
       "word": "suspect",
@@ -35142,6 +35334,12 @@
     },
     {
       "word": "till",
+      "pos": "NOUN",
+      "translation": "die Kasse",
+      "example": "I came in here to get the float for the till, the coins and small notes for the morning."
+    },
+    {
+      "word": "till",
       "pos": "SCONJ",
       "translation": "bis",
       "example": "\"Nine days till the Marking,\" Rowan said, through a mouthful of apple."
@@ -35193,6 +35391,12 @@
       "pos": "NOUN",
       "translation": "die Dose, die Blechdose",
       "example": "She had gone to Bennet's alcove that evening to fetch the honey-cake tin he had borrowed from her and never returned — or so she said, though Rowan suspected she simply could not bear not to look."
+    },
+    {
+      "word": "ting",
+      "pos": "INTJ",
+      "translation": "pling (heller Ton, wie an einem Glas)",
+      "example": "A small sound rang in Tom's head, like a fingernail on a glass. Ting."
     },
     {
       "word": "tingling",
@@ -35337,6 +35541,12 @@
       "pos": "PROPN",
       "translation": "Tom (Vorname)",
       "example": "Tom, the baker's son, was there too."
+    },
+    {
+      "word": "Tomasz",
+      "pos": "PROPN",
+      "translation": "Tomasz (polnischer Vorname)",
+      "example": "\"The bakers were already in, Ray and Tomasz."
     },
     {
       "word": "tomato",
@@ -36561,6 +36771,12 @@
       "pos": "NOUN",
       "translation": "die Uniform, die Dienstkleidung",
       "example": "In the street below, a woman in a nurse's uniform was being held back by two neighbours."
+    },
+    {
+      "word": "uniformed",
+      "pos": "ADJ",
+      "translation": "uniformiert",
+      "example": "A young uniformed officer, PC Sam Jones, was standing by the counter with a notebook."
     },
     {
       "word": "unimpressed",
