@@ -674,6 +674,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "cautions",
+      "pos": "VERB",
+      "word": "caution",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "championships",
       "pos": "VERB",
       "word": "championship",
@@ -1581,6 +1587,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "floury",
+      "pos": "NOUN",
+      "word": "floury",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "flowering",
       "pos": "NOUN",
       "word": "flower",
@@ -2115,6 +2127,12 @@
       "pos": "PROPN",
       "word": "home",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "Honesty",
+      "pos": "PROPN",
+      "word": "honesty",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "hoodie",
@@ -3828,6 +3846,13 @@
     {
       "text": "rise",
       "pos": "NOUN",
+      "prev": "fear",
+      "word": "rise",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "rise",
+      "pos": "NOUN",
       "prev": "her",
       "word": "rise",
       "lemmaPos": "VERB"
@@ -4561,6 +4586,12 @@
       "pos": "NOUN",
       "word": "stumble",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Stupid",
+      "pos": "PROPN",
+      "word": "stupid",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "SUBMIT",

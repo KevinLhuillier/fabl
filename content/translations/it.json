@@ -1174,6 +1174,12 @@
       "example": "He would be sent south when the roads opened, the Warden said, to answer for what he had done."
     },
     {
+      "word": "answer for a long time",
+      "pos": "PHRASE",
+      "translation": "rispondere a lungo («did not answer for a long time»: rimase a lungo senza rispondere)",
+      "example": "Mark did not answer for a long time."
+    },
+    {
       "word": "answer to the name",
       "pos": "PHRASE",
       "translation": "rispondere al nome di",
@@ -4314,6 +4320,12 @@
       "example": "Getting someone's bank records was not easy in Britain."
     },
     {
+      "word": "bro",
+      "pos": "NOUN",
+      "translation": "il fratello, fra' (familiare)",
+      "example": "\"With a note. Sorry bro. Had no choice. They were going to hurt me."
+    },
+    {
       "word": "broad",
       "pos": "ADJ",
       "translation": "largo, robusto",
@@ -5494,6 +5506,12 @@
       "pos": "NOUN",
       "translation": "la strada rialzata",
       "example": "A causeway of grey stone ran out across the lake from the southern shore, so low and so narrow that the wagons seemed to be rolling across the surface of the water itself."
+    },
+    {
+      "word": "caution",
+      "pos": "NOUN",
+      "translation": "l'ammonimento (della polizia) ; la cautela",
+      "example": "There was a page about Danny's past: two cautions for theft as a teenager, a fight outside a pub in London, and a court order for an unpaid debt of eleven thousand pounds."
     },
     {
       "word": "cedar",
@@ -7014,6 +7032,12 @@
       "example": "\"Léa will come back up at seven to feed me.\""
     },
     {
+      "word": "comedian",
+      "pos": "NOUN",
+      "translation": "il comico",
+      "example": "Douglas used to say he'd be a comedian one day."
+    },
+    {
       "word": "comfort",
       "pos": "NOUN",
       "translation": "il conforto; la comodità",
@@ -7530,6 +7554,12 @@
       "example": "Bram had drawn the cart up beside the cooper's yard to unload, and a pedlar Rowan didn't recognise — a stooped, sharp-eyed woman with a tray of tin pots and needles slung from her neck — had sidled up to him and was talking in a low, urgent voice."
     },
     {
+      "word": "Cooper",
+      "pos": "PROPN",
+      "translation": "Cooper (cognome)",
+      "example": "Old Mr Cooper from number 87, with the little white dog. He wants two grand."
+    },
+    {
       "word": "coordination",
       "pos": "NOUN",
       "translation": "la coordinazione",
@@ -7822,6 +7852,12 @@
       "pos": "NOUN",
       "translation": "la corte (del re); il campo (da tennis)",
       "example": "The boy told his story to the whole court: the meetings in the forest, the bags of silver, the orders to burn the southern villages so that frightened landowners would sell their farms cheaply to the lord of Blackmoor."
+    },
+    {
+      "word": "court order",
+      "pos": "PHRASE",
+      "translation": "l'ordinanza del tribunale",
+      "example": "There was a page about Danny's past: two cautions for theft as a teenager, a fight outside a pub in London, and a court order for an unpaid debt of eleven thousand pounds."
     },
     {
       "word": "courteous",
@@ -12934,6 +12970,12 @@
       "example": "Her apron was covered in flour, and soon my fur was too."
     },
     {
+      "word": "floury",
+      "pos": "ADJ",
+      "translation": "infarinato",
+      "example": "He wiped his eyes with his floury sleeve."
+    },
+    {
       "word": "flower",
       "pos": "NOUN",
       "translation": "il fiore",
@@ -15141,6 +15183,12 @@
       "example": "He had pictured something grand: a gilded carriage, perhaps, drawn by matched grey horses, with the thorned-branch seal of Thornhall painted on its doors."
     },
     {
+      "word": "grand",
+      "pos": "NOUN",
+      "translation": "(familiare) mille sterline («two grand»: duemila sterline)",
+      "example": "Old Mr Cooper from number 87, with the little white dog. He wants two grand."
+    },
+    {
       "word": "grandad",
       "pos": "NOUN",
       "translation": "il nonno",
@@ -15241,6 +15289,12 @@
       "pos": "ADJ",
       "translation": "grato, riconoscente",
       "example": "He did not know whether to feel sad or grateful."
+    },
+    {
+      "word": "gratitude",
+      "pos": "NOUN",
+      "translation": "la gratitudine",
+      "example": "From Mark: gratitude, small and surprised."
     },
     {
       "word": "gravel",
@@ -17000,6 +17054,12 @@
       "example": "\"Yes,\" he said honestly."
     },
     {
+      "word": "honesty",
+      "pos": "NOUN",
+      "translation": "l'onestà",
+      "example": "Honesty, perhaps."
+    },
+    {
       "word": "honey",
       "pos": "NOUN",
       "translation": "il miele",
@@ -17886,6 +17946,12 @@
       "example": "She was in her fifties, broad-shouldered, with grey hair cut very short and a face that had seen a great deal."
     },
     {
+      "word": "in his own words",
+      "pos": "PHRASE",
+      "translation": "con le sue stesse parole",
+      "example": "\"If Danny comes, and if he talks to you about Sunday, and about the money, then we have him, in his own words."
+    },
+    {
       "word": "in its place",
       "pos": "PHRASE",
       "translation": "al suo posto",
@@ -17938,6 +18004,12 @@
       "pos": "PHRASE",
       "translation": "a pezzi, smontato",
       "example": "It was full of things in pieces: a radio with no back, three bicycle wheels, a clock from a kitchen, an old sewing machine."
+    },
+    {
+      "word": "in plain clothes",
+      "pos": "PHRASE",
+      "translation": "in borghese",
+      "example": "Inspector Harris arrived at seven, with two officers in plain clothes and a technician who put a tiny microphone under the edge of the desk and another one in the kitchen."
     },
     {
       "word": "in reply",
@@ -19120,6 +19192,12 @@
       "example": "For the first time in his life, he had kept going when everything in his body was telling him to stop."
     },
     {
+      "word": "keep her company",
+      "pos": "PHRASE",
+      "translation": "farle compagnia",
+      "example": "Then Harris sent Joan upstairs with a policewoman to keep her company, and the shop lights were turned off one by one."
+    },
+    {
       "word": "keep her promise",
       "pos": "PHRASE",
       "translation": "mantenere la promessa",
@@ -19142,6 +19220,12 @@
       "pos": "PHRASE",
       "translation": "tenere fuori ; (su una porta) vietato entrare",
       "example": "But it had not been made to keep out Bram."
+    },
+    {
+      "word": "keep quiet",
+      "pos": "PHRASE",
+      "translation": "stare zitto, tacere",
+      "example": "But he wanted money to keep quiet."
     },
     {
       "word": "keep track of",
@@ -19442,6 +19526,12 @@
       "pos": "NOUN",
       "translation": "il lavoro a maglia",
       "example": "Mrs Bramwell put down her knitting."
+    },
+    {
+      "word": "knock",
+      "pos": "NOUN",
+      "translation": "il bussare, il colpo alla porta",
+      "example": "He felt him before there was any sound, before the knock, before Mark's phone lit up on the desk."
     },
     {
       "word": "knock",
@@ -21423,6 +21513,12 @@
       "example": "They made a mess on the floor and he had to clean it."
     },
     {
+      "word": "make faces",
+      "pos": "PHRASE",
+      "translation": "fare le smorfie",
+      "example": "\"He used to sit on the counter and make faces at the customers."
+    },
+    {
       "word": "make out",
       "pos": "PHRASE",
       "translation": "distinguere, scorgere; capire",
@@ -23232,6 +23328,12 @@
       "pos": "ADV",
       "translation": "nervosamente",
       "example": "She glanced nervously towards the door."
+    },
+    {
+      "word": "nervousness",
+      "pos": "NOUN",
+      "translation": "il nervosismo",
+      "example": "He could feel her nervousness, cool and sharp, and her focus, like a cat watching a hole in a wall."
     },
     {
       "word": "nest",
@@ -26551,6 +26653,12 @@
       "example": "Trinity Road police station was a large, ugly building from the 1970s, made of brown brick and dirty glass."
     },
     {
+      "word": "policewoman",
+      "pos": "NOUN",
+      "translation": "la poliziotta",
+      "example": "Then Harris sent Joan upstairs with a policewoman to keep her company, and the shop lights were turned off one by one."
+    },
+    {
       "word": "polish",
       "pos": "NOUN",
       "translation": "la cera, il lucido; lo smalto",
@@ -28308,6 +28416,12 @@
       "example": "Every answer, in every village, was recorded at Thornhall, and had been for three hundred years."
     },
     {
+      "word": "recorder",
+      "pos": "NOUN",
+      "translation": "il registratore",
+      "example": "\"There's a fake witness, and there's you, and there's a little recorder in this office."
+    },
+    {
       "word": "recording",
       "pos": "NOUN",
       "translation": "la registrazione",
@@ -29896,6 +30010,12 @@
       "pos": "ADJ",
       "translation": "sicuro («the safest»: il più sicuro)",
       "example": "He chose the safest."
+    },
+    {
+      "word": "safe",
+      "pos": "NOUN",
+      "translation": "la cassaforte",
+      "example": "He looked at the empty safe in the corner."
     },
     {
       "word": "safety",
@@ -32910,6 +33030,12 @@
       "example": "He was tired and hungry, his eyes were sore, and the computer player was merciless."
     },
     {
+      "word": "sorrow",
+      "pos": "NOUN",
+      "translation": "il dolore, la tristezza",
+      "example": "From Harris: respect, and something like sorrow."
+    },
+    {
       "word": "sorry",
       "pos": "ADJ",
       "translation": "dispiaciuto",
@@ -33076,6 +33202,18 @@
       "pos": "VERB",
       "translation": "risparmiare, concedere («spare him any»: dargliene qualcuno)",
       "example": "The gardener has been asking for help for years, and nobody has ever been able to spare him any."
+    },
+    {
+      "word": "spare key",
+      "pos": "PHRASE",
+      "translation": "la chiave di riserva",
+      "example": "\"The house, the bakery, and the spare key for the van."
+    },
+    {
+      "word": "spare room",
+      "pos": "PHRASE",
+      "translation": "la stanza degli ospiti",
+      "example": "Danny had been living in their spare room since July."
     },
     {
       "word": "spark",
@@ -33808,6 +33946,12 @@
       "pos": "PHRASE",
       "translation": "restare a casa",
       "example": "Drivers are advised to stay at home."
+    },
+    {
+      "word": "stay in",
+      "pos": "PHRASE",
+      "translation": "alloggiare in (un albergo) ; restare a casa",
+      "example": "\"They sent me photos of the hotel I was staying in."
     },
     {
       "word": "stay on",
@@ -35064,6 +35208,12 @@
       "example": "He tried them in order and out of order, with his eyes open and his eyes shut, holding his breath and breathing so slowly that the room began to swim."
     },
     {
+      "word": "swimmer",
+      "pos": "NOUN",
+      "translation": "il nuotatore, la nuotatrice",
+      "example": "A huge, grey, bone-deep tiredness, like a swimmer who has been fighting the current for too long and is starting to think about letting go."
+    },
+    {
       "word": "swimming",
       "pos": "NOUN",
       "translation": "il nuoto",
@@ -35571,6 +35721,12 @@
       "pos": "NOUN",
       "translation": "l'ora del tè",
       "example": "\"They'll shut it by teatime,\" she said."
+    },
+    {
+      "word": "technician",
+      "pos": "NOUN",
+      "translation": "il tecnico",
+      "example": "Inspector Harris arrived at seven, with two officers in plain clothes and a technician who put a tiny microphone under the edge of the desk and another one in the kitchen."
     },
     {
       "word": "technique",
@@ -36303,6 +36459,12 @@
       "pos": "PHRASE",
       "translation": "buttarlo via",
       "example": "He did not throw it away."
+    },
+    {
+      "word": "throw out",
+      "pos": "PHRASE",
+      "translation": "cacciare (di casa) ; buttare via",
+      "example": "\"Because Dad threw him out, and I always thought that was wrong."
     },
     {
       "word": "throw up",
@@ -38097,6 +38259,12 @@
       "pos": "ADJ",
       "translation": "chiuso, non aperto",
       "example": "With the notebook unopened on her knees."
+    },
+    {
+      "word": "unpaid",
+      "pos": "ADJ",
+      "translation": "non pagato, insoluto",
+      "example": "There was a page about Danny's past: two cautions for theft as a teenager, a fight outside a pub in London, and a court order for an unpaid debt of eleven thousand pounds."
     },
     {
       "word": "unpleasant",
@@ -40142,6 +40310,12 @@
       "pos": "PHRASE",
       "translation": "a occhi chiusi («know something with his eyes closed»: conoscere qualcosa a memoria)",
       "example": "He knew that road with his eyes closed: the farm, the barn, the sharp bend, the long straight line down to the river, and then the new bridge with its orange lamps."
+    },
+    {
+      "word": "with interest",
+      "pos": "PHRASE",
+      "translation": "con gli interessi",
+      "example": "With interest, it was now nearly fifteen thousand pounds."
     },
     {
       "word": "withdraw",
