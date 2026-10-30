@@ -1,0 +1,6 @@
+node_modules/
+auth-state.json
+explore/
+check/
+clips/.tmp-*/
+expo-8082.log

@@ -1,0 +1,15 @@
+{
+  "duration": 17.211,
+  "frames": 401,
+  "avgFps": 23.3,
+  "taps": [
+    3.554
+  ],
+  "audio": [
+    {
+      "t": 3.698,
+      "src": "https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_1.page_2-1793351655278.mp3",
+      "pos": 0.018479
+    }
+  ]
+}
