@@ -141,3 +141,70 @@ Before they left, Tom went back into the shop to say goodbye to Mrs Hartley. She
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_2.page_11-1793353769234.mp3
 In the car, Nadia did not start the engine. She sat with her hands on the steering wheel and waited. She knew him well. After a minute, Tom said: "He's lying about Sunday evening. He wasn't at home. Not all evening, anyway." Nadia nodded slowly. "How sure?" "Completely. It was the loudest lie I've heard this year." "OK. What else?" "He's frightened. Very frightened. But he's also relieved, and I don't understand why. And his mother is ashamed of something. Of him, I think. Or for him."
 Nadia was quiet for a long time. Outside, a woman with a dog walked past and looked at the closed bakery with surprise. "So the manager is lying, the owner is hiding something, and six people know the alarm code," Nadia said at last. "And the only proof we have is your ears." "My ears and your notebook," said Tom. She almost smiled. "Right. Then we do it the hard way. We find out where Mark Hartley really was on Sunday night, and we find out with evidence that Harris can hold in his hand." She started the engine. "Welcome to another Monday, Tom."
+
+# Nadia Knows
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_3.page_1-1793355560697.mp3
+They drove back to Trinity Road, but they did not go straight up to the office. It was nearly one o'clock, and Nadia said that she could not think on an empty stomach. So they walked to a small café round the corner called Marco's, where the sandwiches were large and the coffee was terrible. They sat at their usual table at the back, near the radiator. Tom liked this café. At lunchtime it was full of builders and taxi drivers, people with simple, tired, hungry feelings that did not ask anything of him.
+Nadia ordered a bacon sandwich and ate half of it before she said anything. Then she wiped her fingers on a paper napkin and looked at him. "OK," she said. "Before we go any further, I want to say something. And I want you to listen, not just nod." Tom put down his cup. He could feel what was coming. Not the words, of course; he could never feel words. But he could feel her worry, cool and careful, like someone checking the ice on a lake before they walk on it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_3.page_2-1793355576080.mp3
+"Mrs Hartley is a friend of Harris's family," she said. "That means this case is personal for him. If we get it wrong, if we accuse the wrong person, or if we accuse the right person without proof, he won't just be angry. He'll be hurt. And you know what Harris does when he's hurt." "He writes reports," said Tom. "Long ones. To people with bigger offices than him." "Exactly." She leaned forward. "So remember the first rule. Say it." Tom sighed. "My feeling is a start. It's not a proof."
+"Good boy," said Nadia, and she smiled for the first time since breakfast. Tom smiled too. He remembered very clearly the day she had made that rule. It was three years ago, in this same café, at this same table. But that conversation had been very different. That day, Nadia had been frightened of him. It was the only time in their friendship that he had felt real fear coming from her, and he had never forgotten how much it had hurt.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_3.page_3-1793355592509.mp3
+Three years ago, Nadia Cole had been new in CID. She had come from Cardiff, where she had been a uniformed officer for eight years, and Inspector Harris had put her with Tom because, he said, "Reed needs someone sensible, and you look sensible." For the first two months, they had worked well together. She was clever and fast and organised. He was quiet and patient and good with people. But little by little, Nadia had started to notice things about her new partner. Things that did not add up.
+He always knew which witness was lying, before there was any evidence. He knew when a suspect was about to become violent, a few seconds before it happened. Once, he had told her to go home early because "your mum needs you tonight", and that same evening her mother had fallen in her kitchen and broken her wrist. Nadia had laughed about it at first. "You're a witch, Reed," she had said. But after a while, she had stopped laughing. She had started watching him instead.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_3.page_4-1793355609020.mp3
+Then came the day at Temple Meads. They had gone to the railway station to meet a witness who was arriving on the train from London. The station was crowded, as it always was on Friday afternoons. Tom was standing by the ticket machines, doing his breathing, when suddenly he felt something that made his whole body go hot. It was rage. Not ordinary anger, but a deep, red, burning rage, the kind of feeling that wants to break things. And under it, there was a decision. Someone in this crowd had decided to hurt someone else.
+He turned around slowly. There were hundreds of people. Students with suitcases, businessmen in suits, families with children, a group of football fans in red shirts. It was like trying to find one voice in a stadium. He closed his eyes and followed the heat, the way you follow the sound of a radio through a house. When he opened them, he was looking at a man of about forty in a grey jacket, standing near platform three. The man had his right hand in his pocket, and he was watching the arrivals board.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_3.page_5-1793355623458.mp3
+"Nadia," Tom said quietly. "The man in the grey jacket. Platform three. He's going to attack someone." She looked at him as if he was mad. "What? How do you know?" "I can't explain. Please. Trust me." There was no time to argue. The train from Cardiff was coming in. Tom was already walking. Nadia swore under her breath and followed him. When they were three metres from the man, the train doors opened and a woman got out with a little boy. The man in the grey jacket took his hand out of his pocket. There was a knife in it.
+It was over in five seconds. Tom caught the man's arm, Nadia caught the other one, and the knife fell on the ground with a sound that Tom still heard in his dreams sometimes. The woman screamed and pulled her son away. Later, they learned that she was the man's ex-wife. He had found out which train she was taking. He had come to the station to kill her. Nobody was hurt that day. The man went to prison for eight years. And Tom and Nadia got a letter of thanks from the Chief Constable.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_3.page_6-1793355638612.mp3
+But that evening, in Nadia's car, outside Tom's flat, she did not start the engine. She sat with her hands on the steering wheel, exactly as she had done this morning, and she said, "How did you know?" Tom said, "I saw his hand in his pocket." "Rubbish," said Nadia. "You knew before you saw anything. You were looking at the ticket machines. I was watching you. You turned round like someone had called your name." She turned to look at him. "I want the truth, Tom. Or I'm asking Harris for a new partner tomorrow."
+So he told her. For the first time in his adult life, he told another person everything. He told her about the feelings, the temperatures, the colours, the tastes. He told her about the false notes. He told her about his childhood, about the library and the doctors and the breathing exercises. He told her that his own mother had never really believed him, and that his only girlfriend, years ago, had left him because "it's like living with someone who reads your diary." He talked for nearly an hour. Nadia did not say a word.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_3.page_7-1793355656781.mp3
+And all that time, he could feel her. First disbelief, like a wall. Then curiosity, sharp and bright. And then, slowly, rising like water in a bath, fear. She was afraid of him. Not of what he could do, but of what he could know. Every secret she had ever had, every bad thought, every small jealousy and every sadness she had hidden from the world: he could feel all of it, just by sitting next to her. Tom understood. He would be afraid too. But it hurt him all the same, more than he wanted to show.
+"Prove it," Nadia said finally. "I'm going to tell you five things about me. Some are true and some are lies. Tell me which ones are which." She took a deep breath. "I've got a brother in Australia. I hate cats. I've never been to Paris. My favourite film is Titanic. I once stole a lipstick from a shop when I was fourteen." Tom smiled sadly. "Brother: lie. Cats: true. Paris: lie. Titanic: true, and you're embarrassed about it. Lipstick: true. And it was red."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_3.page_8-1793355669858.mp3
+Nadia had stared at him for a long time. Then she had started the car, driven him to Marco's café, bought him a cup of terrible coffee and taken out her notebook. "Right," she had said, with the pen between her teeth. "If we're going to do this, we need rules. Rule number one: your feeling is a start, not a proof. You feel something, fine. Then we go and find the evidence. Always. No arrests because of your feelings. Never."
+"Rule number two: nobody else knows. Not Harris, not your family, not anybody. If people find out, you lose your job, and every lawyer in Bristol will use it to destroy our cases. Rule number three..." She had stopped and looked at him, and the fear in her had changed into something else, something warmer and more difficult. "Rule number three: with me, you always tell the truth. Because you'll always know when I'm lying. So it's only fair."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_3.page_9-1793355683308.mp3
+That had been three years ago. Since then, Nadia had never been afraid of him again. Tom did not know how she had done it. Maybe she had simply decided not to be. Maybe she had decided that she had nothing to hide from him. Whatever the reason, it was the greatest gift anyone had ever given him. With Nadia, he did not have to pretend. With Nadia, he did not have to be careful. It was like taking off a heavy coat at the end of a long day.
+"Tom? Are you still with me?" Nadia was waving her hand in front of his face. He came back to the present: the radiator, the smell of bacon, the builders laughing at the next table. "Sorry. I was remembering Temple Meads." "Ah." Her face softened. "Well, this isn't Temple Meads. Nobody's going to get stabbed over a bakery. So we do it slowly. We do it properly. OK?" "OK." "Say it again." "My feeling is a start, not a proof." "Good. Now finish your sandwich, you look like a ghost."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_3.page_10-1793355696553.mp3
+They went back to the office at two o'clock. The afternoon was slow. Nadia made a list of everyone connected to the bakery and started looking for their names on the police computer. Tom read old reports about thefts from small shops in North Bristol, looking for anything similar. There was nothing. No other bakery had lost money in the same way. Whoever had opened the Hartleys' safe had not done it before, or at least not in Bristol. Outside the window, the sky turned grey, and it started to rain.
+At ten past five, Nadia's computer made a small sound. "Email," she said. "From SecureWest." She opened it, read it, and then read it again. Tom watched her face. He did not need his gift to see that something important had happened, but he felt it anyway: a sudden bright spark of excitement, like a light switching on. "Come and look at this," she said. Tom came round the desk and looked over her shoulder at the screen. It was a simple table, with dates and times.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-quiet-signal/chapter_3.page_11-1793355718007.mp3
+Saturday, 18:42: alarm on. Monday, 05:03: alarm off. That was normal; that was Mark closing on Saturday and opening this morning. But between those two lines, there were two more. Sunday, 21:48: alarm off. Sunday, 22:26: alarm on. "Thirty-eight minutes," said Nadia quietly. "Somebody went into that bakery on Sunday night, with the right code, and stayed for thirty-eight minutes." "And Mark Hartley says he went to bed at half past nine," said Tom.
+Nadia leaned back in her chair and put the pen between her teeth. "This is good," she said. "This is real. This is something Harris can hold in his hand." Then she shook her head. "But it doesn't say who. Six people know that code, remember. It could be any of them. It could be someone they told. We can't arrest a man because he was in bed when he says he was in bed." "He wasn't in bed," said Tom. "I know," said Nadia. "You know. And now we have to prove it."
+She picked up her phone and started making a list on the back of an envelope. "Tomorrow morning we talk to all of them. Priya Shah, the assistant manager. Lee, the delivery driver. The two bakers. And Helen Hartley, the wife, because if Mark went out on Sunday night, she knows about it." She looked up at Tom. "You listen. I ask the questions. And afterwards you tell me everything you heard. Every little note. Deal?" Tom nodded. "Deal," he said. And there was no false note in his voice at all.

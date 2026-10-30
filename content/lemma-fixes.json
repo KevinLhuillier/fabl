@@ -1021,6 +1021,19 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Deal",
+      "pos": "PROPN",
+      "word": "deal",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Deal",
+      "pos": "VERB",
+      "next": "?",
+      "word": "deal",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Dear",
       "pos": "PROPN",
       "word": "dear",
@@ -1264,6 +1277,13 @@
       "pos": "PROPN",
       "next": "post",
       "word": "evening",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "ex",
+      "pos": "NOUN",
+      "next": "-",
+      "word": "ex-wife",
       "lemmaPos": "NOUN"
     },
     {
@@ -2518,6 +2538,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "Lipstick",
+      "pos": "PROPN",
+      "word": "lipstick",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "loft",
       "pos": "PROPN",
       "word": "loft",
@@ -2935,6 +2961,12 @@
       "pos": "PROPN",
       "word": "nobody",
       "lemmaPos": "PRON"
+    },
+    {
+      "text": "nod",
+      "pos": "ADJ",
+      "word": "nod",
+      "lemmaPos": "VERB"
     },
     {
       "text": "none",
@@ -3715,6 +3747,12 @@
       "next": ",",
       "word": "round",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Rubbish",
+      "pos": "PROPN",
+      "word": "rubbish",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Rue",
@@ -4641,6 +4679,12 @@
       "pos": "PROPN",
       "word": "tiredness",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Titanic",
+      "pos": "ADJ",
+      "word": "Titanic",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "to",

@@ -832,6 +832,12 @@
       "translation": "va bene, d'accordo"
     },
     {
+      "word": "all the same",
+      "pos": "PHRASE",
+      "translation": "lo stesso, comunque",
+      "example": "But it hurt him all the same, more than he wanted to show."
+    },
+    {
       "word": "all the way",
       "pos": "PHRASE",
       "translation": "fino in fondo, per tutto il tragitto",
@@ -1486,10 +1492,28 @@
       "example": "And the usual arrangement for the list."
     },
     {
+      "word": "arrest",
+      "pos": "NOUN",
+      "translation": "l'arresto",
+      "example": "\"No arrests because of your feelings. Never.\""
+    },
+    {
+      "word": "arrest",
+      "pos": "VERB",
+      "translation": "arrestare",
+      "example": "\"We can't arrest a man because he was in bed when he says he was in bed.\""
+    },
+    {
       "word": "arrival",
       "pos": "NOUN",
       "translation": "l'arrivo",
       "example": "They stopped that night at a waystation on the edge of the Deepwood: a long, low timber hall with a turf roof, a well, a paddock for the oxen, and a keeper who seemed to regard the arrival of two dozen hungry children as a personal misfortune."
+    },
+    {
+      "word": "arrivals board",
+      "pos": "PHRASE",
+      "translation": "il tabellone degli arrivi",
+      "example": "The man had his right hand in his pocket, and he was watching the arrivals board."
     },
     {
       "word": "arrive",
@@ -2249,6 +2273,12 @@
       "pos": "NOUN",
       "translation": "la pancetta, il bacon",
       "example": "He was halfway through a bacon sandwich, the tachograph dutifully recording his forty-five minutes of rest, when a voice behind him said, \"Well, if it isn't the Duchess's chauffeur.\""
+    },
+    {
+      "word": "bacon sandwich",
+      "pos": "PHRASE",
+      "translation": "il panino con la pancetta",
+      "example": "Nadia ordered a bacon sandwich and ate half of it before she said anything."
     },
     {
       "word": "bad",
@@ -4530,6 +4560,12 @@
       "example": "\"You asked what business I have on this hill,\" said Bram at last, slowly, in the voice he kept for things that mattered."
     },
     {
+      "word": "businessman",
+      "pos": "NOUN",
+      "translation": "l'uomo d'affari",
+      "example": "Students with suitcases, businessmen in suits, families with children, a group of football fans in red shirts."
+    },
+    {
       "word": "busy",
       "pos": "ADJ",
       "translation": "occupato («too busy thinking»: troppo impegnato a pensare)",
@@ -4984,6 +5020,12 @@
       "pos": "NOUN",
       "translation": "il cartone",
       "example": "Next to it was a cardboard box full of cartridges, the old-fashioned kind you pushed into the top of the machine."
+    },
+    {
+      "word": "Cardiff",
+      "pos": "PROPN",
+      "translation": "Cardiff (capitale del Galles)",
+      "example": "She had come from Cardiff, where she had been a uniformed officer for eight years, and Inspector Harris had put her with Tom because, he said, \"Reed needs someone sensible, and you look sensible.\""
     },
     {
       "word": "care",
@@ -5764,6 +5806,18 @@
       "pos": "NOUN",
       "translation": "il pollo",
       "example": "Instead, he went back into his flat and returned with an old towel and a plate of chicken."
+    },
+    {
+      "word": "Chief",
+      "pos": "PROPN",
+      "translation": "Chief («Chief Constable»: il capo della polizia di una contea; «chief»: il capo)",
+      "example": "And Tom and Nadia got a letter of thanks from the Chief Constable."
+    },
+    {
+      "word": "chief constable",
+      "pos": "PHRASE",
+      "translation": "il capo della polizia (di una contea britannica)",
+      "example": "And Tom and Nadia got a letter of thanks from the Chief Constable."
     },
     {
       "word": "chiefly",
@@ -8534,7 +8588,7 @@
     {
       "word": "deal",
       "pos": "NOUN",
-      "translation": "l'affare («a good deal»: molto)",
+      "translation": "l'affare («a good deal»: molto) ; il patto, l'accordo («Deal?»: affare fatto?; «That was the deal»: quello era il patto)",
       "example": "\"By the end of the month it will have reached Ashwater, and Mossbridge, and places a good deal less friendly than either.\""
     },
     {
@@ -11002,6 +11056,12 @@
       "example": "Not evil, not dangerous."
     },
     {
+      "word": "ex-wife",
+      "pos": "NOUN",
+      "translation": "l'ex moglie",
+      "example": "Later, they learned that she was the man's ex-wife."
+    },
+    {
       "word": "exact",
       "pos": "ADJ",
       "translation": "esatto, preciso",
@@ -11540,6 +11600,12 @@
       "pos": "ADJ",
       "translation": "famoso",
       "example": "\"I've walked a long way, and I'm told that your hospitality is famous throughout the Wilds.\""
+    },
+    {
+      "word": "fan",
+      "pos": "NOUN",
+      "translation": "il tifoso, il fan ; il ventilatore",
+      "example": "Students with suitcases, businessmen in suits, families with children, a group of football fans in red shirts."
     },
     {
       "word": "far",
@@ -12680,6 +12746,12 @@
       "pos": "NOUN",
       "translation": "il calcio ; il pallone",
       "example": "Last summer he had needed a stepladder just to get a football back from the neighbours' garden."
+    },
+    {
+      "word": "football fan",
+      "pos": "PHRASE",
+      "translation": "il tifoso di calcio",
+      "example": "Students with suitcases, businessmen in suits, families with children, a group of football fans in red shirts."
     },
     {
       "word": "footballer",
@@ -14331,6 +14403,12 @@
       "example": "Mia goes to the park. — Mia va al parco."
     },
     {
+      "word": "go any further",
+      "pos": "PHRASE",
+      "translation": "andare oltre, proseguire",
+      "example": "\"Before we go any further, I want to say something."
+    },
+    {
       "word": "go by",
       "pos": "PHRASE",
       "translation": "passare (il tempo)",
@@ -15576,6 +15654,12 @@
       "pos": "PROPN",
       "translation": "(cognome)",
       "example": "\"Do you know Hartley's Bakery? On Gloucester Road?\""
+    },
+    {
+      "word": "Hartleys",
+      "pos": "PROPN",
+      "translation": "gli Hartley (la famiglia Hartley)",
+      "example": "Whoever had opened the Hartleys' safe had not done it before, or at least not in Bristol."
     },
     {
       "word": "harvest",
@@ -18190,6 +18274,12 @@
       "example": "He's seen you with Leo, he's jealous, and he wants to ruin it."
     },
     {
+      "word": "jealousy",
+      "pos": "NOUN",
+      "translation": "la gelosia",
+      "example": "Every secret she had ever had, every bad thought, every small jealousy and every sadness she had hidden from the world: he could feel all of it, just by sitting next to her."
+    },
+    {
       "word": "Jean",
       "pos": "PROPN",
       "translation": "Jean (nome femminile inglese)",
@@ -19252,6 +19342,12 @@
       "example": "He repaired everything: radios, lawnmowers, bicycles, washing machines."
     },
     {
+      "word": "lawyer",
+      "pos": "NOUN",
+      "translation": "l'avvocato",
+      "example": "If people find out, you lose your job, and every lawyer in Bristol will use it to destroy our cases."
+    },
+    {
       "word": "lay",
       "pos": "VERB",
       "translation": "posare, stendere",
@@ -19994,6 +20090,12 @@
       "pos": "NOUN",
       "translation": "il labbro",
       "example": "They found the right decade on the third shelf, and Ilse ran her finger down the A's, page by page, year by year, her lips moving silently."
+    },
+    {
+      "word": "lipstick",
+      "pos": "NOUN",
+      "translation": "il rossetto",
+      "example": "\"I've got a brother in Australia. I hate cats. I've never been to Paris. My favourite film is Titanic. I once stole a lipstick from a shop when I was fourteen.\""
     },
     {
       "word": "list",
@@ -20888,6 +20990,12 @@
       "example": "Twins from the Cinder Marches, both Fire: root, drop, root, drop."
     },
     {
+      "word": "Marco",
+      "pos": "PROPN",
+      "translation": "Marco («Marco's»: da Marco, nome di un caffè)",
+      "example": "So they walked to a small café round the corner called Marco's, where the sandwiches were large and the coffee was terrible."
+    },
+    {
       "word": "Marcus",
       "pos": "PROPN",
       "translation": "Marcus (nome)",
@@ -21150,6 +21258,12 @@
       "pos": "NOUN",
       "translation": "il prato",
       "example": "It rose from the meadow beyond the mill like a single grey finger raised in warning: twice the height of a man, crusted with gold and silver lichen, and carved all over with spirals so worn that you could only see them when the sun was low and the shadows did the work."
+    },
+    {
+      "word": "Meads",
+      "pos": "PROPN",
+      "translation": "Meads («Temple Meads»: la stazione principale di Bristol)",
+      "example": "Then came the day at Temple Meads."
     },
     {
       "word": "meal",
@@ -24415,6 +24529,12 @@
       "example": "A bicycle light. A paper lantern."
     },
     {
+      "word": "paper napkin",
+      "pos": "PHRASE",
+      "translation": "il tovagliolo di carta",
+      "example": "Then she wiped her fingers on a paper napkin and looked at him."
+    },
+    {
       "word": "paperwork",
       "pos": "NOUN",
       "translation": "le scartoffie, le pratiche",
@@ -26245,6 +26365,12 @@
       "example": "She pushed a second printout across the table."
     },
     {
+      "word": "prison",
+      "pos": "NOUN",
+      "translation": "il carcere, la prigione",
+      "example": "The man went to prison for eight years."
+    },
+    {
       "word": "prisoner",
       "pos": "NOUN",
       "translation": "il prigioniero",
@@ -26951,6 +27077,12 @@
       "pos": "NOUN",
       "translation": "la radio",
       "example": "Through the thin wall he could hear the neighbours' radio."
+    },
+    {
+      "word": "rage",
+      "pos": "NOUN",
+      "translation": "la rabbia, la furia",
+      "example": "It was rage."
     },
     {
       "word": "ragged",
@@ -28682,7 +28814,7 @@
     {
       "word": "rubbish",
       "pos": "NOUN",
-      "translation": "la spazzatura",
+      "translation": "la spazzatura ; («Rubbish!»: sciocchezze!)",
       "example": "At that moment, the blue door opened, and a young woman came out with a bag of rubbish."
     },
     {
@@ -31728,6 +31860,12 @@
       "example": "She was a Scania, eleven years old and well past the age at which the firm normally sold its tractor units on to hauliers in Lithuania, but the transport manager had a soft spot for Gideon, and Gideon had a soft spot for the truck, and the arrangement had quietly survived three rounds of fleet renewal."
     },
     {
+      "word": "soften",
+      "pos": "VERB",
+      "translation": "addolcirsi, ammorbidirsi",
+      "example": "\"Ah.\" Her face softened."
+    },
+    {
       "word": "softly",
       "pos": "ADV",
       "translation": "dolcemente, sottovoce",
@@ -32454,6 +32592,12 @@
       "example": "St Oswald's was an old church, built of grey stone nine hundred years ago."
     },
     {
+      "word": "stab",
+      "pos": "VERB",
+      "translation": "accoltellare («get stabbed»: essere accoltellato)",
+      "example": "\"Nobody's going to get stabbed over a bakery."
+    },
+    {
       "word": "stack",
       "pos": "NOUN",
       "translation": "la pila",
@@ -32464,6 +32608,12 @@
       "pos": "VERB",
       "translation": "impilare, accatastare",
       "example": "He was stacking firewood against the side of the cabin — the kind of mindless, repetitive work he had thrown himself into since the Marking, because it left no room for thinking — when a figure emerged from between the birches at the far end of the track."
+    },
+    {
+      "word": "stadium",
+      "pos": "NOUN",
+      "translation": "lo stadio",
+      "example": "It was like trying to find one voice in a stadium."
     },
     {
       "word": "staff",
@@ -34373,6 +34523,12 @@
       "example": "The farmhouse was fifteen kilometres away, in the middle of the hills, and no taxi in Wetherholme was free on Halloween night."
     },
     {
+      "word": "taxi driver",
+      "pos": "PHRASE",
+      "translation": "il tassista",
+      "example": "At lunchtime it was full of builders and taxi drivers, people with simple, tired, hungry feelings that did not ask anything of him."
+    },
+    {
       "word": "Taylor",
       "pos": "PROPN",
       "translation": "Taylor (cognome)",
@@ -34509,6 +34665,12 @@
       "pos": "NOUN",
       "translation": "la tempia; il tempio",
       "example": "She tapped her temple."
+    },
+    {
+      "word": "Temple",
+      "pos": "PROPN",
+      "translation": "Temple («Temple Meads»: la stazione principale di Bristol; «temple»: il tempio)",
+      "example": "Then came the day at Temple Meads."
     },
     {
       "word": "temptation",
@@ -34803,6 +34965,12 @@
       "pos": "NOUN",
       "translation": "il teatro («lecture theatre»: aula magna)",
       "example": "She sat in the back row of the big lecture theatre."
+    },
+    {
+      "word": "theft",
+      "pos": "NOUN",
+      "translation": "il furto",
+      "example": "Tom read old reports about thefts from small shops in North Bristol, looking for anything similar."
     },
     {
       "word": "their",
@@ -35249,6 +35417,12 @@
       "example": "Noé smiled and opened the grimoire at a page he had marked with a bus ticket."
     },
     {
+      "word": "ticket machine",
+      "pos": "PHRASE",
+      "translation": "la biglietteria automatica",
+      "example": "Tom was standing by the ticket machines, doing his breathing, when suddenly he felt something that made his whole body go hot."
+    },
+    {
       "word": "tickle",
       "pos": "VERB",
       "translation": "fare il solletico («tickle trout»: pescare trote a mano)",
@@ -35439,6 +35613,12 @@
       "pos": "NOUN",
       "translation": "il fazzoletto di carta; il tessuto",
       "example": "She put it in the drawer, under a packet of tissues, and went downstairs."
+    },
+    {
+      "word": "Titanic",
+      "pos": "PROPN",
+      "translation": "Titanic (il film)",
+      "example": "\"I've got a brother in Australia. I hate cats. I've never been to Paris. My favourite film is Titanic. I once stole a lipstick from a shop when I was fourteen.\""
     },
     {
       "word": "title",
@@ -37462,6 +37642,12 @@
       "example": "Ines sat on the sofa with a bag of salt and vinegar crisps."
     },
     {
+      "word": "violent",
+      "pos": "ADJ",
+      "translation": "violento",
+      "example": "He knew when a suspect was about to become violent, a few seconds before it happened."
+    },
+    {
       "word": "violently",
       "pos": "ADV",
       "translation": "violentemente",
@@ -38918,6 +39104,12 @@
       "pos": "PHRASE",
       "translation": "senza preavviso",
       "example": "It threads its way north from Perth through a succession of glens, now dual carriageway, now single, so that impatient motorists are forever being lured into overtaking on stretches that narrow without warning."
+    },
+    {
+      "word": "witness",
+      "pos": "NOUN",
+      "translation": "il testimone",
+      "example": "He always knew which witness was lying, before there was any evidence."
     },
     {
       "word": "wizard",
