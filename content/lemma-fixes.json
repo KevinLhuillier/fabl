@@ -158,10 +158,23 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "apologise",
+      "pos": "NOUN",
+      "word": "apologise",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "archive",
       "pos": "ADJ",
       "word": "archive",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "arguing",
+      "pos": "NOUN",
+      "prev": ",",
+      "word": "argue",
+      "lemmaPos": "VERB"
     },
     {
       "text": "ashamed",
@@ -1673,6 +1686,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "FUND",
+      "pos": "PROPN",
+      "word": "fund",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "furred",
       "pos": "VERB",
       "word": "furred",
@@ -1853,6 +1872,12 @@
       "pos": "PROPN",
       "word": "get",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Grace",
+      "pos": "NOUN",
+      "word": "Grace",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "grained",
@@ -2184,6 +2209,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Hymns",
+      "pos": "PROPN",
+      "word": "hymn",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "I.",
       "pos": "NOUN",
       "word": "I",
@@ -2435,6 +2466,13 @@
       "pos": "PROPN",
       "word": "Kirk",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "kissing",
+      "pos": "NOUN",
+      "prev": ",",
+      "word": "kiss",
+      "lemmaPos": "VERB"
     },
     {
       "text": "kneeling",
@@ -3306,6 +3344,12 @@
       "next": "flats",
       "word": "burnt-out",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "OVEN",
+      "pos": "PROPN",
+      "word": "oven",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "oven",

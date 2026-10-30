@@ -564,6 +564,12 @@
       "example": "I wrote Unmarked in my book and signed it, and the next day a woman who has been meddling in this Academy's affairs for twenty-six years walked into my supper with a Writ nobody had seen in ninety, and asked me to put my name to it."
     },
     {
+      "word": "affection",
+      "pos": "NOUN",
+      "translation": "l'affection, la tendresse",
+      "example": "It was all there, simple and open: tiredness, and peace, and a little pride, and a quiet, steady affection, warm like the cup between her hands."
+    },
+    {
       "word": "afford",
       "pos": "VERB",
       "translation": "se permettre (« could not afford to be wrong » : ne pouvait pas se permettre de se tromper)",
@@ -3114,6 +3120,12 @@
       "example": "And a few other things besides.\""
     },
     {
+      "word": "best",
+      "pos": "ADJ",
+      "translation": "le meilleur, la meilleure",
+      "example": "\"Best thing that's happened to me all year, being arrested.\""
+    },
+    {
       "word": "best friend",
       "pos": "PHRASE",
       "translation": "le meilleur ami, la meilleure amie",
@@ -3148,6 +3160,12 @@
       "pos": "PROPN",
       "translation": "BetStar (nom d'un site de paris en ligne)",
       "example": "Again and again, in Mark's personal account, there was the same name: BETSTAR ONLINE."
+    },
+    {
+      "word": "better left unsaid",
+      "pos": "PHRASE",
+      "translation": "qu'il vaut mieux taire",
+      "example": "Some things, he had learned, were better left unsaid, even when you could feel them perfectly well."
     },
     {
       "word": "betting",
@@ -3454,6 +3472,12 @@
       "pos": "VERB",
       "translation": "bénir",
       "example": "Letters from village elders asking whether the Wood-boy might visit and bless their orchards."
+    },
+    {
+      "word": "blessing",
+      "pos": "NOUN",
+      "translation": "la bénédiction, l'accord",
+      "example": "Priya had left by then, to run the new bakery in Clifton, with Joan's blessing and a huge goodbye cake."
     },
     {
       "word": "blind",
@@ -5140,6 +5164,12 @@
       "pos": "NOUN",
       "translation": "la carte, la fiche",
       "example": "Tucked inside the back cover was an old library card, the kind with dates stamped in purple ink."
+    },
+    {
+      "word": "card game",
+      "pos": "PHRASE",
+      "translation": "le jeu de cartes, la partie de cartes",
+      "example": "He told them about London, and the card games, and the men who lent him money with a smile and then came back without one."
     },
     {
       "word": "cardboard",
@@ -10176,6 +10206,12 @@
       "example": "One candidate dropped out, then another."
     },
     {
+      "word": "drop the complaint",
+      "pos": "PHRASE",
+      "translation": "retirer la plainte",
+      "example": "He did not ask them to drop the complaint."
+    },
+    {
       "word": "droplet",
       "pos": "NOUN",
       "translation": "la gouttelette",
@@ -13744,6 +13780,12 @@
       "example": "Only the smell of fresh bread climbs up the walls and comes in through the window."
     },
     {
+      "word": "fresh air",
+      "pos": "PHRASE",
+      "translation": "l'air frais, le grand air",
+      "example": "It was cold, but Nadia said she needed fresh air after a day of paperwork."
+    },
+    {
       "word": "Freshers",
       "pos": "PROPN",
       "translation": "Freshers (« Freshers' Week » : semaine d'accueil des nouveaux étudiants ; « fresher » : étudiant de première année)",
@@ -14006,6 +14048,12 @@
       "pos": "NOUN",
       "translation": "l'amusement, le plaisir (« for fun » : pour le plaisir)",
       "example": "She was in her final year of a sports science degree at Leeds Beckett, she ran half-marathons for fun, and she believed in nothing she could not measure."
+    },
+    {
+      "word": "fund",
+      "pos": "NOUN",
+      "translation": "le fonds, la cagnotte (« oven fund » : l'argent du four)",
+      "example": "OVEN FUND. DO NOT TOUCH. J.H."
     },
     {
       "word": "funeral",
@@ -15027,6 +15075,12 @@
       "example": "The grass was full of fallen cherries, and the air was full of small insects that shone in the light like gold dust."
     },
     {
+      "word": "gold medal",
+      "pos": "PHRASE",
+      "translation": "la médaille d'or",
+      "example": "He had told them, in his lorry voice, that the Superintendent was \"satisfied\", which from the Superintendent was like a gold medal."
+    },
+    {
       "word": "golden",
       "pos": "ADJ",
       "translation": "doré, en or",
@@ -15139,6 +15193,12 @@
       "pos": "VERB",
       "translation": "saisir, agripper",
       "example": "But at that exact moment, a wave of exhaustion hit Noé so hard that he had to grab the edge of the desk."
+    },
+    {
+      "word": "Grace",
+      "pos": "PROPN",
+      "translation": "Grace (prénom ; « grace » : la grâce)",
+      "example": "\"Her name is Grace,\" said Mr Okafor."
     },
     {
       "word": "gradient",
@@ -15762,6 +15822,12 @@
       "pos": "PHRASE",
       "translation": "la demi-heure",
       "example": "You're going to work in pairs for the first half hour."
+    },
+    {
+      "word": "half moon",
+      "pos": "PHRASE",
+      "translation": "la demi-lune",
+      "example": "Above it, between the thumb and the first finger, there was a small dark scar, shaped like a half moon."
     },
     {
       "word": "half past",
@@ -17582,6 +17648,12 @@
       "example": "It was so much smaller than the Elderwood — a single, tiny, sleepy thread of life, curled up tight in the dead wood like a seed in a husk."
     },
     {
+      "word": "hymn",
+      "pos": "NOUN",
+      "translation": "l'hymne, le cantique",
+      "example": "\"Hymns, mostly."
+    },
+    {
       "word": "hypnotic",
       "pos": "ADJ",
       "translation": "hypnotique",
@@ -18802,6 +18874,12 @@
       "example": "And on its crown, half wall and half living thing, its towers wound about with ivy and its battlements crowned with trees, stood Thornhall."
     },
     {
+      "word": "J.H.",
+      "pos": "PROPN",
+      "translation": "J.H. (initiales de Joan Hartley)",
+      "example": "OVEN FUND. DO NOT TOUCH. J.H."
+    },
+    {
       "word": "jacket",
       "pos": "NOUN",
       "translation": "la veste, le blouson",
@@ -19580,6 +19658,12 @@
       "pos": "VERB",
       "translation": "savoir, connaître",
       "example": "\"Do you know how I got this?\""
+    },
+    {
+      "word": "Knowle",
+      "pos": "PROPN",
+      "translation": "Knowle (quartier du sud de Bristol)",
+      "example": "\"At the care home in Knowle?\""
     },
     {
       "word": "knowledge",
@@ -22206,6 +22290,18 @@
       "pos": "NOUN",
       "translation": "le mètre",
       "example": "Arthur, who was nearly two metres tall but spoke so quietly that people often asked him to repeat himself, was rolling a twenty-sided die between his fingers while he planned Saturday's role-playing session."
+    },
+    {
+      "word": "Metropolitan",
+      "pos": "PROPN",
+      "translation": "Metropolitan (« Metropolitan Police » : la police de Londres)",
+      "example": "Inspector Harris passed the names of the men from London to the Metropolitan Police, who were very interested in them."
+    },
+    {
+      "word": "metropolitan police",
+      "pos": "PHRASE",
+      "translation": "la police de Londres (la « Met », Scotland Yard)",
+      "example": "Inspector Harris passed the names of the men from London to the Metropolitan Police, who were very interested in them."
     },
     {
       "word": "Mia",
@@ -25633,6 +25729,12 @@
       "example": "It was small and dark and wrinkled, like a dried pea, and it lay in the middle of his palm looking utterly unremarkable."
     },
     {
+      "word": "peace",
+      "pos": "NOUN",
+      "translation": "la paix, la sérénité",
+      "example": "It was all there, simple and open: tiredness, and peace, and a little pride, and a quiet, steady affection, warm like the cup between her hands."
+    },
+    {
       "word": "peaceable",
       "pos": "ADJ",
       "translation": "paisible, serein",
@@ -25781,6 +25883,12 @@
       "pos": "PHRASE",
       "translation": "pour cent",
       "example": "\"Zero per cent.\""
+    },
+    {
+      "word": "percent",
+      "pos": "NOUN",
+      "translation": "pour cent (« ten percent » : dix pour cent)",
+      "example": "\"He's going to take ten percent for the bakery.\""
     },
     {
       "word": "perch",
@@ -26633,6 +26741,12 @@
       "pos": "NOUN",
       "translation": "la police",
       "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
+    },
+    {
+      "word": "Police",
+      "pos": "PROPN",
+      "translation": "Police (« Metropolitan Police » : la police de Londres ; « police » : la police)",
+      "example": "Inspector Harris passed the names of the men from London to the Metropolitan Police, who were very interested in them."
     },
     {
       "word": "police car",
@@ -27583,6 +27697,12 @@
       "example": "Without proof, I cannot punish a knight of the realm."
     },
     {
+      "word": "punishment",
+      "pos": "NOUN",
+      "translation": "la punition, la peine",
+      "example": "\"That's enough punishment for anyone.\""
+    },
+    {
       "word": "pupil",
       "pos": "NOUN",
       "translation": "l'élève ; la pupille",
@@ -28450,6 +28570,12 @@
       "pos": "VERB",
       "translation": "se reproduire, revenir (« recurring » : récurrent)",
       "example": "He did not tell her that she had, with uncanny precision, described his recurring dream of the past three months."
+    },
+    {
+      "word": "recycle",
+      "pos": "VERB",
+      "translation": "recycler",
+      "example": "The old oven, forty years old, tired like its owner, was taken away to be recycled."
     },
     {
       "word": "recycling",
@@ -36803,6 +36929,12 @@
       "example": "Then, to be fair, she knocked anyway, because she had a parcel for Mrs Bell."
     },
     {
+      "word": "to be honest",
+      "pos": "PHRASE",
+      "translation": "pour être honnête, à vrai dire",
+      "example": "\"I didn't think about him at all, to be honest.\""
+    },
+    {
       "word": "to death",
       "pos": "PHRASE",
       "translation": "à mort (« frighten to death » : faire une peur bleue)",
@@ -38307,6 +38439,12 @@
       "pos": "VERB",
       "translation": "se dérouler",
       "example": "The road unrolled before him as it had a thousand times: the cat's eyes ticking past like the beads of a rosary, the overhead gantries announcing distances to places he could have found blindfold."
+    },
+    {
+      "word": "unsaid",
+      "pos": "ADJ",
+      "translation": "non dit, tu",
+      "example": "Some things, he had learned, were better left unsaid, even when you could feel them perfectly well."
     },
     {
       "word": "unseen",
