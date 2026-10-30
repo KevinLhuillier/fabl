@@ -26,6 +26,12 @@
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
     },
     {
+      "word": "1970s",
+      "pos": "NOUN",
+      "translation": "os anos 1970 (“the 1970s”: os anos setenta)",
+      "example": "Trinity Road police station was a large, ugly building from the 1970s, made of brown brick and dirty glass."
+    },
+    {
       "word": "1980s",
       "pos": "NOUN",
       "translation": "os anos 1980",
@@ -112,6 +118,12 @@
       "pos": "PHRASE",
       "translation": "uma questão de",
       "example": "It was a matter of anticipation — of reading the road a quarter of a mile ahead, of thinking in long, patient curves, of never once asking twenty-odd tonnes of momentum to do anything abruptly."
+    },
+    {
+      "word": "a mix of",
+      "pos": "PHRASE",
+      "translation": "uma mistura de",
+      "example": "Every person was a mix of many feelings, one on top of another, like layers in a cake."
     },
     {
       "word": "a word with",
@@ -2215,6 +2227,12 @@
       "example": "Someone wanted him to lose, or worse."
     },
     {
+      "word": "badge",
+      "pos": "NOUN",
+      "translation": "o crachá",
+      "example": "A young salesman with very white teeth and a badge that said JASON came towards him at once."
+    },
+    {
       "word": "badger",
       "pos": "NOUN",
       "translation": "o texugo",
@@ -2261,6 +2279,12 @@
       "pos": "NOUN",
       "translation": "a padaria",
       "example": "I am a ginger cat with one white sock on my left paw, and I live on the third floor of an old building in Lyon, just above a bakery."
+    },
+    {
+      "word": "Bakery",
+      "pos": "PROPN",
+      "translation": "Bakery (“Hartley's Bakery”: a padaria Hartley; “bakery”: a padaria)",
+      "example": "\"Do you know Hartley's Bakery? On Gloucester Road?\""
     },
     {
       "word": "balance",
@@ -2698,6 +2722,12 @@
       "pos": "NOUN",
       "translation": "a cama",
       "example": "He sleeps on her bed. — Ele dorme na cama dela."
+    },
+    {
+      "word": "Bedminster",
+      "pos": "PROPN",
+      "translation": "Bedminster (bairro do sul de Bristol)",
+      "example": "His flat was on the second floor of an old house in Bedminster, south of the river."
     },
     {
       "word": "bedroom",
@@ -3528,6 +3558,12 @@
       "example": "\"The Root Books,\" said Moss quietly."
     },
     {
+      "word": "bookshop",
+      "pos": "NOUN",
+      "translation": "a livraria (“second-hand bookshop”: o sebo)",
+      "example": "She drove north through the morning traffic, past Cabot Circus and up the hill towards Gloucester Road, with its long line of small shops, cafés and second-hand bookshops."
+    },
+    {
       "word": "boom",
       "pos": "NOUN",
       "translation": "a lança (de guindaste); o estrondo",
@@ -3960,6 +3996,12 @@
       "example": "For a long while he lay awake in the dark, listening to the strange new sounds of Thornhall settling around him: the breathing of a dozen sleepers behind their curtains, the creak of great branches in the wind, the far-off murmur of the lake, the slow, deep groan of old wood shifting in its sleep."
     },
     {
+      "word": "breathing exercise",
+      "pos": "PHRASE",
+      "translation": "o exercício de respiração",
+      "example": "Tom looked out of the window and did his breathing exercises."
+    },
+    {
       "word": "breathless",
       "pos": "ADJ",
       "translation": "sem fôlego, ofegante",
@@ -4092,6 +4134,12 @@
       "example": "In winter it was black and bare and bristling, each thorn as long as a finger, and the frost lay grey on its branches."
     },
     {
+      "word": "Bristol",
+      "pos": "PROPN",
+      "translation": "Bristol (grande cidade do sudoeste da Inglaterra)",
+      "example": "He smiled, he said \"Good morning, Tom,\" and he talked about the weather or about Bristol City's last match."
+    },
+    {
       "word": "broad",
       "pos": "ADJ",
       "translation": "largo, robusto",
@@ -4102,6 +4150,12 @@
       "pos": "ADJ",
       "translation": "de ombros largos",
       "example": "She was in her fifties, broad-shouldered, with grey hair cut very short and a face that had seen a great deal."
+    },
+    {
+      "word": "Broadmead",
+      "pos": "PROPN",
+      "translation": "Broadmead (área comercial do centro de Bristol)",
+      "example": "He got off at Broadmead and walked the last part."
     },
     {
       "word": "broken",
@@ -4246,6 +4300,12 @@
       "pos": "VERB",
       "translation": "construir",
       "example": "My grandfather built this house."
+    },
+    {
+      "word": "builder",
+      "pos": "NOUN",
+      "translation": "o pedreiro, o operário da construção",
+      "example": "Two builders in orange jackets were bored."
     },
     {
       "word": "building",
@@ -4612,6 +4672,12 @@
       "pos": "NOUN",
       "translation": "o cabo",
       "example": "That night, after his mum and Lily had gone to bed, Max carried the Halcyon up to his room and found an old cable in a drawer that fitted the back of his television."
+    },
+    {
+      "word": "Cabot",
+      "pos": "PROPN",
+      "translation": "Cabot (“Cabot Circus”: grande shopping de Bristol)",
+      "example": "She drove north through the morning traffic, past Cabot Circus and up the hill towards Gloucester Road, with its long line of small shops, cafés and second-hand bookshops."
     },
     {
       "word": "Cade",
@@ -5472,6 +5538,12 @@
       "example": "They came from all over the Hollow Wilds, carried up from Mossbridge on sledges by carters who charged three times the usual rate and were glad to get it."
     },
     {
+      "word": "charger",
+      "pos": "NOUN",
+      "translation": "o carregador",
+      "example": "He had ten minutes before he needed to be at the station, and he wanted to buy a new charger for his phone, because the old one had stopped working."
+    },
+    {
       "word": "charity",
       "pos": "NOUN",
       "translation": "a caridade («charity event»: um evento beneficente)",
@@ -5856,6 +5928,12 @@
       "example": "Her house was at the end of Church Lane, a small stone cottage with a green door."
     },
     {
+      "word": "CID",
+      "pos": "PROPN",
+      "translation": "o CID (polícia judiciária britânica: “Criminal Investigation Department”)",
+      "example": "Tom had worked there for six years, first in uniform and then as a detective constable in CID."
+    },
+    {
       "word": "cider",
       "pos": "NOUN",
       "translation": "a sidra",
@@ -5886,6 +5964,12 @@
       "example": "Inside, it was warm and loud and smelled of cinnamon."
     },
     {
+      "word": "cinnamon bun",
+      "pos": "PHRASE",
+      "translation": "o pãozinho de canela",
+      "example": "\"Best cinnamon buns in Bristol.\""
+    },
+    {
       "word": "circle",
       "pos": "NOUN",
       "translation": "o círculo",
@@ -5908,6 +5992,12 @@
       "pos": "PHRASE",
       "translation": "a placa de circuito",
       "example": "When he opened the lid, the inside smelled of smoke and the little green circuit board was black and bubbled in the middle, like burnt toast."
+    },
+    {
+      "word": "Circus",
+      "pos": "PROPN",
+      "translation": "Circus (“Cabot Circus”: grande shopping de Bristol; “circus”: o circo, a rotatória)",
+      "example": "She drove north through the morning traffic, past Cabot Circus and up the hill towards Gloucester Road, with its long line of small shops, cafés and second-hand bookshops."
     },
     {
       "word": "Cistern",
@@ -5936,8 +6026,14 @@
     {
       "word": "City",
       "pos": "PROPN",
-      "translation": "City (em “City Hall”: a prefeitura)",
+      "translation": "City (em “City Hall”: a prefeitura) ; (“Bristol City”: um dos dois clubes de futebol de Bristol)",
       "example": "Norwich Market lay below the City Hall like a box of sweets: hundreds of stalls under roofs of red, yellow, blue and green stripes."
+    },
+    {
+      "word": "city centre",
+      "pos": "PHRASE",
+      "translation": "o centro (da cidade)",
+      "example": "The bus to the city centre was full, as always."
     },
     {
       "word": "city hall",
@@ -6076,6 +6172,12 @@
       "pos": "ADV",
       "translation": "claramente, evidentemente",
       "example": "Nineteen children stood in a ragged line before the Stone, scrubbed and combed and dressed in clothes that had clearly been borrowed for the occasion."
+    },
+    {
+      "word": "clearness",
+      "pos": "NOUN",
+      "translation": "a clareza, a limpidez",
+      "example": "From her he felt what he almost always felt: a calm, cool clearness, like a glass of water."
     },
     {
       "word": "Clémence",
@@ -6448,6 +6550,12 @@
       "pos": "NOUN",
       "translation": "o frio",
       "example": "Then the cold of the Stone pressed against it, and it shrank back the way a fern curls up at a touch, and sank out of reach."
+    },
+    {
+      "word": "Cole",
+      "pos": "PROPN",
+      "translation": "(sobrenome)",
+      "example": "\"You're late for you,\" said Detective Sergeant Nadia Cole, without looking up from her computer."
     },
     {
       "word": "Colegate",
@@ -7000,6 +7108,12 @@
       "pos": "NOUN",
       "translation": "a conspiração, o complô",
       "example": "A clumsy squire forgets to check his master's saddle, and now he invents a conspiracy to protect himself."
+    },
+    {
+      "word": "constable",
+      "pos": "NOUN",
+      "translation": "o policial (“detective constable”: o investigador, o agente de investigação)",
+      "example": "Tom had worked there for six years, first in uniform and then as a detective constable in CID."
     },
     {
       "word": "Constanța",
@@ -7608,6 +7722,12 @@
       "example": "Long, twisting branches as thick as a man's arm came crawling out of the hedge across the snow, unhurried, inexorable, bristling with thorns as long as knives."
     },
     {
+      "word": "crayon",
+      "pos": "NOUN",
+      "translation": "o giz de cera",
+      "example": "They took Nadia's car, an old blue Ford that smelled of crisps and children's crayons."
+    },
+    {
       "word": "crazy",
       "pos": "ADJ",
       "translation": "louco, maluco",
@@ -8178,6 +8298,12 @@
       "example": "Pauline had been born in Grantown-on-Spey, and every summer for thirty-one years they had driven north to see her sister, stopping without fail at the same lay-by above Dalwhinnie to eat sandwiches and argue amiably about the route."
     },
     {
+      "word": "damage",
+      "pos": "VERB",
+      "translation": "danificar, estragar",
+      "example": "\"Much better than the cheap ones, which can damage your battery.\""
+    },
+    {
       "word": "damp",
       "pos": "ADJ",
       "translation": "úmido",
@@ -8736,6 +8862,30 @@
       "example": "Within a week she could tell which of them had lit a lamp just by examining it, like a detective dusting for fingerprints."
     },
     {
+      "word": "Detective",
+      "pos": "PROPN",
+      "translation": "Detective (título policial: “Detective Sergeant”, “Detective Inspector”)",
+      "example": "\"You're late for you,\" said Detective Sergeant Nadia Cole, without looking up from her computer."
+    },
+    {
+      "word": "detective constable",
+      "pos": "PHRASE",
+      "translation": "o investigador de polícia (primeiro posto da polícia judiciária)",
+      "example": "Tom had worked there for six years, first in uniform and then as a detective constable in CID."
+    },
+    {
+      "word": "detective inspector",
+      "pos": "PHRASE",
+      "translation": "o inspetor (da polícia judiciária)",
+      "example": "Across the room, someone else was watching them: Detective Inspector Paul Harris, their boss, standing in the door of his glass office with his arms folded."
+    },
+    {
+      "word": "detective sergeant",
+      "pos": "PHRASE",
+      "translation": "a sargento detetive (polícia judiciária)",
+      "example": "\"You're late for you,\" said Detective Sergeant Nadia Cole, without looking up from her computer."
+    },
+    {
       "word": "determine",
       "pos": "VERB",
       "translation": "determinar, decidir (“determined”: decidido)",
@@ -8896,6 +9046,12 @@
       "pos": "NOUN",
       "translation": "o jantar",
       "example": "\"He was most entertaining about it at dinner last night — the woodcutter's boy who couldn't make a Standing Stone so much as yawn, and old Vell, scurrying about the meadow with her little book, determined to make a scholar out of a stump.\""
+    },
+    {
+      "word": "dinosaur",
+      "pos": "NOUN",
+      "translation": "o dinossauro",
+      "example": "\"Then she wanted to talk about dinosaurs for an hour.\""
     },
     {
       "word": "dip",
@@ -9316,6 +9472,12 @@
       "pos": "NOUN",
       "translation": "a dúzia",
       "example": "That in itself was not unusual; he could go a full day on a dozen words and consider himself talkative."
+    },
+    {
+      "word": "dozens of",
+      "pos": "PHRASE",
+      "translation": "dezenas de",
+      "example": "People told dozens of these little lies every day, and Tom had learned to let them go past, like cars on a busy road."
     },
     {
       "word": "Dr",
@@ -10224,6 +10386,12 @@
       "example": "Elite footballers train for fifteen years to have that kind of touch."
     },
     {
+      "word": "Ella",
+      "pos": "PROPN",
+      "translation": "(nome)",
+      "example": "\"Ella had a bad dream at three o'clock,\" she admitted."
+    },
+    {
       "word": "Ellerdale",
       "pos": "PROPN",
       "translation": "Ellerdale (vilarejo)",
@@ -10762,6 +10930,12 @@
       "example": "His name was Master Tobin Grey, and he was a thin, harried man with spectacles pushed up onto his forehead, where he had evidently forgotten them."
     },
     {
+      "word": "evil",
+      "pos": "ADJ",
+      "translation": "mau, maligno",
+      "example": "Not evil, not dangerous."
+    },
+    {
       "word": "exact",
       "pos": "ADJ",
       "translation": "exato, preciso",
@@ -11270,6 +11444,12 @@
       "pos": "ADJ",
       "translation": "falso",
       "example": "Then he thought of the letter on the kitchen table with its red stamp, and of his mum saying \"I'll sort it\" in her bright, false voice."
+    },
+    {
+      "word": "false note",
+      "pos": "PHRASE",
+      "translation": "a nota desafinada, a nota falsa",
+      "example": "But inside his head, a lie was like a false note, like a guitar string that was not quite in tune."
     },
     {
       "word": "falter",
@@ -14031,6 +14211,12 @@
       "example": "It was taller than the wagons and as thick as a wall: a solid barrier of black, glossy thorn, each spine as long as a finger."
     },
     {
+      "word": "Gloucester",
+      "pos": "PROPN",
+      "translation": "Gloucester (“Gloucester Road”: longa rua comercial do norte de Bristol)",
+      "example": "\"Do you know Hartley's Bakery? On Gloucester Road?\""
+    },
+    {
       "word": "glove",
       "pos": "NOUN",
       "translation": "a luva",
@@ -14257,6 +14443,12 @@
       "pos": "PHRASE",
       "translation": "bom em, bom para",
       "example": "\"Old people are good at talking.\""
+    },
+    {
+      "word": "good luck",
+      "pos": "PHRASE",
+      "translation": "boa sorte",
+      "example": "Tom paid for the cheap charger, and on his way out he said, \"Good luck with your sales today.\""
     },
     {
       "word": "good morning",
@@ -14497,6 +14689,12 @@
       "pos": "PROPN",
       "translation": "(“Great Hall”: o Grande Salão)",
       "example": "The Great Hall of Thornhall had no ceiling."
+    },
+    {
+      "word": "greed",
+      "pos": "NOUN",
+      "translation": "a ganância, a cobiça",
+      "example": "It was greed."
     },
     {
       "word": "greedy",
@@ -14829,6 +15027,12 @@
       "example": "\"We go to my university gym,\" she said, \"and we find out exactly what you are.\""
     },
     {
+      "word": "ha",
+      "pos": "INTJ",
+      "translation": "rá (“ha ha!”: rá rá!, risada)",
+      "example": "\"Most people don't think about it until they drop their phone in the toilet. Ha ha!\""
+    },
+    {
       "word": "habit",
       "pos": "NOUN",
       "translation": "o hábito, o costume",
@@ -14856,6 +15060,12 @@
       "pos": "NOUN",
       "translation": "o cabelo",
       "example": "He had turned fourteen at midsummer: lean where his uncle was broad, with a shock of dark hair that defeated every comb and hands already roughened by years of rope and bark."
+    },
+    {
+      "word": "haircut",
+      "pos": "NOUN",
+      "translation": "o corte de cabelo",
+      "example": "\"I love your new haircut.\""
     },
     {
       "word": "haired",
@@ -15260,6 +15470,12 @@
       "example": "The other two were Harriet, the girl from London who liked the word \"liminal\", and Femi."
     },
     {
+      "word": "Harris",
+      "pos": "PROPN",
+      "translation": "(sobrenome)",
+      "example": "Across the room, someone else was watching them: Detective Inspector Paul Harris, their boss, standing in the door of his glass office with his arms folded."
+    },
+    {
       "word": "Harrogate",
       "pos": "PROPN",
       "translation": "Harrogate (cidade de Yorkshire)",
@@ -15270,6 +15486,12 @@
       "pos": "PROPN",
       "translation": "Harry (nome)",
       "example": "\"Not Harry Dent.\""
+    },
+    {
+      "word": "Hartley",
+      "pos": "PROPN",
+      "translation": "(sobrenome)",
+      "example": "\"Do you know Hartley's Bakery? On Gloucester Road?\""
     },
     {
       "word": "harvest",
@@ -16532,6 +16754,12 @@
       "example": "Somebody had a sense of humour.\""
     },
     {
+      "word": "hunch",
+      "pos": "NOUN",
+      "translation": "o palpite, a intuição",
+      "example": "\"I don't want any of your famous hunches."
+    },
+    {
       "word": "hundred",
       "pos": "NOUN",
       "translation": "a centena (“hundreds of”: centenas de)",
@@ -17081,6 +17309,12 @@
       "example": "He lost the match in straight sets, six-one, six-two, six-love."
     },
     {
+      "word": "in that order",
+      "pos": "PHRASE",
+      "translation": "nessa ordem",
+      "example": "He believed in three things: evidence, paperwork and Bristol Rovers. In that order."
+    },
+    {
       "word": "in the background",
       "pos": "PHRASE",
       "translation": "ao fundo",
@@ -17189,10 +17423,22 @@
       "example": "Three sentences in total, if you count \"Please\"."
     },
     {
+      "word": "in tune",
+      "pos": "PHRASE",
+      "translation": "afinado (“not in tune”: desafinado)",
+      "example": "But inside his head, a lie was like a false note, like a guitar string that was not quite in tune."
+    },
+    {
       "word": "in turn",
       "pos": "PHRASE",
       "translation": "um de cada vez, por sua vez",
       "example": "He helped Isla out first, then Alasdair, half carrying each of them in turn through the knee-deep snow towards the towering, rumbling bulk of the Duchess."
+    },
+    {
+      "word": "in uniform",
+      "pos": "PHRASE",
+      "translation": "de uniforme, fardado",
+      "example": "Tom had worked there for six years, first in uniform and then as a detective constable in CID."
     },
     {
       "word": "incapable",
@@ -17457,6 +17703,12 @@
       "pos": "VERB",
       "translation": "inspecionar, examinar",
       "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
+    },
+    {
+      "word": "Inspector",
+      "pos": "PROPN",
+      "translation": "Inspector (“Detective Inspector”: inspetor da polícia judiciária; “inspector”: o inspetor)",
+      "example": "Across the room, someone else was watching them: Detective Inspector Paul Harris, their boss, standing in the door of his glass office with his arms folded."
     },
     {
       "word": "install",
@@ -17812,6 +18064,12 @@
       "example": "She put the jar under her arm."
     },
     {
+      "word": "Jason",
+      "pos": "PROPN",
+      "translation": "(nome)",
+      "example": "A young salesman with very white teeth and a badge that said JASON came towards him at once."
+    },
+    {
       "word": "jaw",
       "pos": "NOUN",
       "translation": "o maxilar, a mandíbula",
@@ -17870,6 +18128,12 @@
       "pos": "VERB",
       "translation": "tilintar",
       "example": "His keys jingled at his belt."
+    },
+    {
+      "word": "Joan",
+      "pos": "PROPN",
+      "translation": "(nome)",
+      "example": "\"The owner is Joan Hartley."
     },
     {
       "word": "job",
@@ -18902,6 +19166,12 @@
       "pos": "NOUN",
       "translation": "o recuo, a área de descanso",
       "example": "Pauline had been born in Grantown-on-Spey, and every summer for thirty-one years they had driven north to see her sister, stopping without fail at the same lay-by above Dalwhinnie to eat sandwiches and argue amiably about the route."
+    },
+    {
+      "word": "layer",
+      "pos": "NOUN",
+      "translation": "a camada",
+      "example": "Every person was a mix of many feelings, one on top of another, like layers in a cake."
     },
     {
       "word": "lazily",
@@ -21332,6 +21602,12 @@
       "example": "Mistress Ottoline Crane was the tallest person Rowan had ever seen, taller even than Bram, and so thin that her grey robe seemed to hang from her shoulders rather than rest on them."
     },
     {
+      "word": "mix",
+      "pos": "NOUN",
+      "translation": "a mistura",
+      "example": "Every person was a mix of many feelings, one on top of another, like layers in a cake."
+    },
+    {
       "word": "mixture",
       "pos": "NOUN",
       "translation": "a mistura",
@@ -21342,6 +21618,12 @@
       "pos": "NOUN",
       "translation": "o modo (“two-player mode”: modo dois jogadores)",
       "example": "\"I was only going to ask if there was a two-player mode,\" she said."
+    },
+    {
+      "word": "model",
+      "pos": "NOUN",
+      "translation": "o modelo",
+      "example": "\"Because this week, with a new contract, you get the latest model for only thirty pounds a month.\""
     },
     {
       "word": "modern",
@@ -21840,6 +22122,12 @@
       "pos": "NOUN",
       "translation": "o mistério",
       "example": "The first five lines were a mystery, and she liked mysteries."
+    },
+    {
+      "word": "Nadia",
+      "pos": "PROPN",
+      "translation": "(nome)",
+      "example": "\"You're late for you,\" said Detective Sergeant Nadia Cole, without looking up from her computer."
     },
     {
       "word": "nail",
@@ -22928,6 +23216,12 @@
       "example": "A band of heavy snow was forecast to move in off the Cairngorms by mid-afternoon, and the Met Office had issued an amber warning that ran, with a cartographer's indifference, straight across the Drumochter Pass."
     },
     {
+      "word": "officer",
+      "pos": "NOUN",
+      "translation": "o agente, o oficial (“police officer”: o policial)",
+      "example": "And there was one more thing, the most important thing for a police officer: when someone told a lie, Tom heard it."
+    },
+    {
       "word": "official",
       "pos": "ADJ",
       "translation": "oficial",
@@ -22986,6 +23280,12 @@
       "pos": "ADJ",
       "translation": "tudo bem, certo",
       "example": "Are you OK? — Você está bem?"
+    },
+    {
+      "word": "Okafor",
+      "pos": "PROPN",
+      "translation": "Okafor (sobrenome nigeriano)",
+      "example": "Every morning at the same time, Mr Okafor sat down at his kitchen table with a cup of tea, and every morning Tom felt it through the floor: a heavy, grey sadness, like a wet coat on his shoulders."
     },
     {
       "word": "okay",
@@ -23100,6 +23400,12 @@
       "pos": "PHRASE",
       "translation": "de pé («on his feet for nine hours»: nove horas de pé)",
       "example": "He had been on his feet for nine hours, pushing heavy cages of tins, bottles and frozen chips from one end of the building to the other."
+    },
+    {
+      "word": "on his way out",
+      "pos": "PHRASE",
+      "translation": "ao sair",
+      "example": "Tom paid for the cheap charger, and on his way out he said, \"Good luck with your sales today.\""
     },
     {
       "word": "on its own",
@@ -23339,6 +23645,12 @@
       "pos": "PHRASE",
       "translation": "o microfone aberto (noite em que qualquer um pode se apresentar)",
       "example": "I went to the open mic night at the student union with Callum and Femi."
+    },
+    {
+      "word": "open up",
+      "pos": "PHRASE",
+      "translation": "abrir (a loja) ; abrir-se, desabafar",
+      "example": "The money was just gone when the manager opened up this morning."
     },
     {
       "word": "operation",
@@ -24067,6 +24379,12 @@
       "example": "\"Partly. Yes.\""
     },
     {
+      "word": "partner",
+      "pos": "NOUN",
+      "translation": "o parceiro, a parceira",
+      "example": "She was Tom's partner, and she was also the only person in the world who knew his secret."
+    },
+    {
       "word": "party",
       "pos": "NOUN",
       "translation": "a festa; o grupo",
@@ -24203,6 +24521,12 @@
       "pos": "NOUN",
       "translation": "o padrão, o desenho",
       "example": "Running around the handle, so finely cut that he had to tilt it towards the window to see it properly, was a twisting pattern of leaves and roots, each one perfect, each one different."
+    },
+    {
+      "word": "Paul",
+      "pos": "PROPN",
+      "translation": "(nome)",
+      "example": "Across the room, someone else was watching them: Detective Inspector Paul Harris, their boss, standing in the door of his glass office with his arms folded."
     },
     {
       "word": "Pauline",
@@ -24545,6 +24869,12 @@
       "pos": "PHRASE",
       "translation": "o telefonema, a ligação",
       "example": "Every Saturday morning, after Gemma's nine o'clock phone call, she walked up the hill to the market."
+    },
+    {
+      "word": "phone shop",
+      "pos": "PHRASE",
+      "translation": "a loja de celulares",
+      "example": "There was a phone shop on the corner of Union Street."
     },
     {
       "word": "phonetic",
@@ -25045,6 +25375,12 @@
       "example": "Air called a wind from nowhere, which spun around the child like a playful dog."
     },
     {
+      "word": "playground",
+      "pos": "NOUN",
+      "translation": "o pátio (de recreio)",
+      "example": "At school he had often hidden in the library at lunchtime, because the library was quiet and the playground was a storm."
+    },
+    {
       "word": "pleasant",
       "pos": "ADJ",
       "translation": "agradável, simpático",
@@ -25211,6 +25547,24 @@
       "pos": "NOUN",
       "translation": "a polícia",
       "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
+    },
+    {
+      "word": "police car",
+      "pos": "PHRASE",
+      "translation": "a viatura, o carro de polícia",
+      "example": "There was a police car outside."
+    },
+    {
+      "word": "police officer",
+      "pos": "PHRASE",
+      "translation": "o policial",
+      "example": "And there was one more thing, the most important thing for a police officer: when someone told a lie, Tom heard it."
+    },
+    {
+      "word": "police station",
+      "pos": "PHRASE",
+      "translation": "a delegacia (de polícia)",
+      "example": "Trinity Road police station was a large, ugly building from the 1970s, made of brown brick and dirty glass."
     },
     {
       "word": "polish",
@@ -26185,6 +26539,12 @@
       "example": "His name was Master Tobin Grey, and he was a thin, harried man with spectacles pushed up onto his forehead, where he had evidently forgotten them."
     },
     {
+      "word": "pushchair",
+      "pos": "NOUN",
+      "translation": "o carrinho de bebê",
+      "example": "A woman with a pushchair was so tired that it made Tom's own eyes heavy."
+    },
+    {
       "word": "pusher",
       "pos": "NOUN",
       "translation": "(“mud-pushers”: empurra-lama, apelido zombeteiro dos alunos de Terra)",
@@ -26575,6 +26935,12 @@
       "example": "And underneath, in a slanting, rapid hand, a single line:"
     },
     {
+      "word": "rare",
+      "pos": "ADJ",
+      "translation": "raro",
+      "example": "Love, which was rare and always a little surprising, tasted a bit like honey."
+    },
+    {
       "word": "rarely",
       "pos": "ADV",
       "translation": "raramente",
@@ -26932,6 +27298,12 @@
       "pos": "ADJ",
       "translation": "vermelho",
       "example": "A big red bus. — Um ônibus grande e vermelho."
+    },
+    {
+      "word": "red light",
+      "pos": "PHRASE",
+      "translation": "o sinal vermelho",
+      "example": "\"Are you OK?\" asked Nadia, stopping at a red light."
     },
     {
       "word": "Reddaway",
@@ -28104,6 +28476,12 @@
       "example": "So the weeks became a routine."
     },
     {
+      "word": "Rovers",
+      "pos": "PROPN",
+      "translation": "Rovers (“Bristol Rovers”: um dos dois clubes de futebol de Bristol)",
+      "example": "He believed in three things: evidence, paperwork and Bristol Rovers."
+    },
+    {
       "word": "row",
       "pos": "NOUN",
       "translation": "a fileira, a fila (“in a row”: em fila)",
@@ -28486,6 +28864,12 @@
       "pos": "NOUN",
       "translation": "a venda (“for sale”: à venda)",
       "example": "\"He paid for it himself. It's never been for sale.\""
+    },
+    {
+      "word": "salesman",
+      "pos": "NOUN",
+      "translation": "o vendedor",
+      "example": "A young salesman with very white teeth and a badge that said JASON came towards him at once."
     },
     {
       "word": "salt",
@@ -29208,6 +29592,12 @@
       "example": "It was sensible advice, and he had given it himself, more than once, to younger drivers who mistook stubbornness for professionalism."
     },
     {
+      "word": "sensitive",
+      "pos": "ADJ",
+      "translation": "sensível",
+      "example": "The doctors had said he was \"a very sensitive boy\" and given him exercises for breathing."
+    },
+    {
       "word": "sentence",
       "pos": "NOUN",
       "translation": "a frase",
@@ -29248,6 +29638,12 @@
       "pos": "NOUN",
       "translation": "o sargento",
       "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
+    },
+    {
+      "word": "Sergeant",
+      "pos": "PROPN",
+      "translation": "Sergeant (“Detective Sergeant”: sargento da polícia judiciária; “sergeant”: o sargento)",
+      "example": "\"You're late for you,\" said Detective Sergeant Nadia Cole, without looking up from her computer."
     },
     {
       "word": "series",
@@ -32334,6 +32730,12 @@
       "example": "On the pavement outside, a sticker on the next-door bin said, in cheerful letters: COLLECTED FRIDAY MORNING."
     },
     {
+      "word": "sticky",
+      "pos": "ADJ",
+      "translation": "pegajoso, grudento",
+      "example": "And from him came a feeling that Tom knew very well: a hungry, sticky feeling, like fingers that wanted to get into his pockets."
+    },
+    {
       "word": "stiff",
       "pos": "ADJ",
       "translation": "rígido, duro",
@@ -33126,6 +33528,12 @@
       "example": "Max walked out of the market and into the sunshine with his hands in his pockets."
     },
     {
+      "word": "Superintendent",
+      "pos": "PROPN",
+      "translation": "o superintendente (alto posto da polícia britânica)",
+      "example": "\"Last time you had a hunch, I had to explain it to the Superintendent for forty minutes.\""
+    },
+    {
       "word": "supermarket",
       "pos": "NOUN",
       "translation": "o supermercado",
@@ -33855,6 +34263,12 @@
       "pos": "NOUN",
       "translation": "a técnica",
       "example": "\"It copies technique and instinct."
+    },
+    {
+      "word": "teenage",
+      "pos": "ADJ",
+      "translation": "adolescente",
+      "example": "And a teenage girl by the window was in love, so happily in love that the whole bus tasted faintly of honey."
     },
     {
       "word": "teenager",
@@ -35411,6 +35825,12 @@
       "example": "A trick from the shop, perhaps: some kind of special paper, a chemical that reacted with biro."
     },
     {
+      "word": "Trinity",
+      "pos": "PROPN",
+      "translation": "Trinity (“Trinity Road”: rua de Bristol; “trinity”: a trindade)",
+      "example": "Trinity Road police station was a large, ugly building from the 1970s, made of brown brick and dirty glass."
+    },
+    {
       "word": "trip",
       "pos": "VERB",
       "translation": "tropeçar",
@@ -35577,6 +35997,12 @@
       "pos": "PHRASE",
       "translation": "descer em cascata",
       "example": "Glen Corrach Distillery lay at the end of a single-track road a few miles beyond Grantown, in a fold of the hills where a burn came tumbling down to join the Spey."
+    },
+    {
+      "word": "tune",
+      "pos": "NOUN",
+      "translation": "a melodia (“in tune”: afinado)",
+      "example": "But inside his head, a lie was like a false note, like a guitar string that was not quite in tune."
     },
     {
       "word": "tunic",
@@ -36153,6 +36579,12 @@
       "pos": "NOUN",
       "translation": "a união; o sindicato (“student union”: grêmio estudantil)",
       "example": "I went to the open mic night at the student union with Callum and Femi."
+    },
+    {
+      "word": "Union",
+      "pos": "PROPN",
+      "translation": "Union (“Union Street”: rua do centro de Bristol)",
+      "example": "There was a phone shop on the corner of Union Street."
     },
     {
       "word": "unit",
@@ -37976,6 +38408,12 @@
       "pos": "PHRASE",
       "translation": "escancarado",
       "example": "Doors left wide open, supper still on the table."
+    },
+    {
+      "word": "widely",
+      "pos": "ADV",
+      "translation": "amplamente (“smile widely”: sorrir de orelha a orelha)",
+      "example": "He smiled widely."
     },
     {
       "word": "widen",

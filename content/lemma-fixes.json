@@ -1,6 +1,12 @@
 {
   "fixes": [
     {
+      "text": "'S",
+      "pos": "PROPN",
+      "word": "'s",
+      "lemmaPos": "PART"
+    },
+    {
       "text": "'s",
       "pos": "PART",
       "next": "music",
@@ -11,6 +17,12 @@
       "text": "14th",
       "pos": "ADJ",
       "word": "fourteenth",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "1970s",
+      "pos": "NOUN",
+      "word": "1970s",
       "lemmaPos": "NOUN"
     },
     {
@@ -219,6 +231,12 @@
       "pos": "PROPN",
       "word": "baker",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "BAKERY",
+      "pos": "PROPN",
+      "word": "Bakery",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "bareheaded",
@@ -579,6 +597,12 @@
       "pos": "ADP",
       "next": "-",
       "word": "four-by-four",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "cafés",
+      "pos": "NOUN",
+      "word": "café",
       "lemmaPos": "NOUN"
     },
     {
@@ -1824,6 +1848,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "HARTLEY",
+      "pos": "PROPN",
+      "word": "Hartley",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "hated",
       "pos": "VERB",
       "word": "hate",
@@ -1988,6 +2018,12 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "I.",
+      "pos": "PROPN",
+      "word": "I",
+      "lemmaPos": "PRON"
+    },
+    {
       "text": "idiot",
       "pos": "VERB",
       "word": "idiot",
@@ -2004,6 +2040,18 @@
       "pos": "ADV",
       "word": "Ilse",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "imagine",
+      "pos": "ADJ",
+      "word": "imagine",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "Impatience",
+      "pos": "PROPN",
+      "word": "impatience",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "in",
@@ -2107,6 +2155,12 @@
       "pos": "PROPN",
       "word": "jam",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "JASON",
+      "pos": "PROPN",
+      "word": "Jason",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "jeans",
@@ -2676,6 +2730,13 @@
       "pos": "PROPN",
       "word": "Moor",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Morning",
+      "pos": "PROPN",
+      "next": ",",
+      "word": "morning",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Mortier",
@@ -4505,6 +4566,12 @@
       "text": "tights",
       "pos": "NOUN",
       "word": "tights",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Tiredness",
+      "pos": "PROPN",
+      "word": "tiredness",
       "lemmaPos": "NOUN"
     },
     {
