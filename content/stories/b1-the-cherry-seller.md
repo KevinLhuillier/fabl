@@ -2,6 +2,7 @@
 title: The Cherry Seller
 level: B1
 summary: Twelve weeks after Marcus left her, Maya Holt has stopped drawing and almost stopped laughing. Then a flyer for cherries appears in her letterbox, and at Norwich Market a cherry seller with a sunburnt nose laughs at her terrible joke.
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b1-the-cherry-seller/1793342450331.png
 ---
 
 # The Flyer
@@ -64,3 +65,64 @@ All the way back down the hill, Gemma would not stop. "He liked you." "He sells 
 That evening, she sat at the window with the cherries in a bowl on her knees. The launderette was closed and the street was quiet. She ate them slowly and put the stones in a cup, the way her grandmother had taught her. They were the sweetest cherries she had ever eaten. Each one was dark, almost black, and cold, and tasted of summer. Somewhere in the middle of the bowl, she realised that for nearly an hour she had not thought about Marcus at all.
 She thought instead about the cherry man. She did not even know his name. She thought about the way he had laughed at her joke, and she realised that Marcus had never laughed at her jokes. Not once, in five years. At the beginning he had smiled politely. Later he had sighed and said, "Please, Maya, not in front of my friends." Slowly, without noticing, she had stopped making them. She had stopped drawing in front of him too, because he always asked what the point was. It was strange, she thought, how much of yourself you could put away in a cupboard, little by little, until you forgot it was there.
 Before she went to bed, she took the flyer off the fridge. She turned it over. The back was white and empty. She found an old pencil in the kitchen drawer, sat down at the little table, and drew a cherry. It was not a good cherry. The line was nervous and the shadow was in the wrong place. But it was the first thing she had drawn in twelve weeks. She looked at it for a long time. Then she put the flyer back on the fridge, with the drawing facing out. "Next Saturday," she said to the empty room. "Just for the cherries."
+
+# Every Saturday
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_2.page_1-1793342034226.mp3
+The next Saturday, Maya went to the market alone. She told herself that it was because Gemma was busy with her sister's wedding plans. That was true. But it was also true that she did not want Gemma there, laughing and making comments. She wanted to see if the cherry man had really been as kind as she remembered, or if she had imagined it because she was sad and lonely and ready to believe anything.
+He was there, behind the long wooden table, in the same green apron. He was arguing happily with a man about football. When he saw her, he did not say "Good morning" or "What can I do for you?" He simply said, "Dark ones?" and reached for a paper bag. Maya felt something small and warm open inside her chest, like a window in a cold house. "Dark ones," she said. "You remembered." "I always remember the people who tell terrible jokes," he said. "There aren't many of you. You need to be protected."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_2.page_2-1793342049244.mp3
+While he filled the bag, he said, "I'm Leo, by the way. Leo Brannock. Like the sign." "Maya," she said. He repeated it, slowly, as if he were tasting it. "Maya. It suits you." "You don't know me," she said. "That's true," he agreed. "But it suits the person who tells the cherry-doctor joke. I'll find out about the rest." He put the extra handful on top again. "For bad weeks," he said. "Was it a bad week?" "It was a medium week," said Maya, and he nodded as if that was important information.
+The woman at the flower stall leaned over between two buckets of sweet peas. "Since he's being polite for once," she said, "I'm Doreen. Doreen Ainsworth. I've had this stall for forty-one years, and I knew his grandfather when he still had all his hair." "She's lying," said Leo. "He never had any hair." Doreen laughed and pushed a single sweet pea into Maya's hand. It was pale pink and smelled like honey. "For your table," she said. "A kitchen with no flowers is a sad kitchen."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_2.page_3-1793342064718.mp3
+That was the beginning of Saturdays. Maya did not plan it. It simply happened, the way a path appears across a field when enough people walk the same way. Every Saturday morning, after Gemma's nine o'clock phone call, she walked up the hill to the market. She bought her cherries. She talked to Leo for five minutes, then ten, then twenty, while he served other customers and argued about football and gave free cherries to children who were crying.
+She liked watching him work. He knew the name of almost every customer, and he knew which of them wanted to talk and which of them only wanted to pay and leave. He gave Mrs Stannard her credit every week and never once wrote it down. When a thin young man with a sleeping bag under his arm stopped in front of the stall, Leo filled a bag without saying anything and passed it across the table as if it were the most normal thing in the world. The young man said thank you very quietly. Leo said, "See you next week, Kieran," and went back to arguing about football. Maya noticed that he did not look round to see if she had seen.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_2.page_4-1793342078771.mp3
+He was easy to talk to. That was the thing she noticed most. With Marcus, she had always felt that she was saying slightly the wrong thing, a little too loud or a little too much. With Leo, it was like putting down a heavy bag. He asked questions and then he actually listened to the answers. He asked about her job, and she told him that she worked at the library in the Forum, the big glass building next to the market. "So you're surrounded by stories all day," he said. "Mostly by people who want to use the printer," said Maya.
+On the third Saturday it rained. It was not a light summer rain but a real Norfolk storm, with water running down the paths between the stalls like little rivers. Maya arrived with her hair stuck to her face and her shoes full of water. Most of the stalls were empty of customers. Leo was sitting on a box under his striped roof, reading a newspaper. When he saw her, he stood up so fast that the newspaper fell into a puddle.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_2.page_5-1793342094135.mp3
+"You came," he said. "In this?" "I needed cherries," said Maya, and then felt stupid, because nobody needed cherries. But he did not laugh at her. He reached under the table and brought out a paper bag that was already full. On the side, in black pen, someone had written "Maya – dark ones". Under the words there was a small drawing of a robin, round and serious, with its red chest pushed out. "I kept them for you," he said. "In case you came. If you didn't, I was going to eat them myself and feel sorry for myself."
+Maya looked at the robin for a long time. Robins had always been her favourite bird. Her lost sketchbook had been full of them: robins on fences, robins in the snow, a robin that had come every morning to the window of the flat on Unthank Road. "Why a robin?" she asked. Her voice sounded strange to her. Leo shrugged. "It's the only bird I can draw," he said. "My gran taught me when I was six. I can do a robin and a very bad horse. I thought the horse would frighten you."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_2.page_6-1793342110814.mp3
+It was a good answer. It was a normal, funny, believable answer. Maya laughed, and the strange feeling went away, and she sat with him under the striped roof for an hour while the rain drummed above their heads. Doreen gave them both tea in paper cups from a flask. They talked about everything: films they had hated, the worst jobs they had ever had, whether pineapple belonged on pizza. Leo said yes. Maya said that this was the first terrible thing she had learned about him.
+When the rain finally stopped and Maya went to leave, Doreen caught her arm. Her hand was cold and strong from forty years of flower buckets. "Forty-one years I've been on this market," she said, in a low voice, so that Leo could not hear. "I've seen that boy grow up behind that table. I've seen him sell cherries to half of Norwich." She looked at the bag in Maya's hands, at the robin. "And I've never once seen him keep a bag back for anyone. Not once." Maya did not know what to answer. Doreen let go of her arm and patted it. "Go on," she said. "Get those wet shoes home."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_2.page_7-1793342124670.mp3
+On the fourth Saturday, at the end of June, the market was hot and crowded and smelled of strawberries. At four o'clock, when the stallholders began to pack up, Leo pulled off his apron and said, very casually, as if it did not matter, "Do you want to get a coffee? Or a walk? Or both? I've been standing behind this table since six this morning and I've forgotten how my legs work." Maya heard herself say yes before she had decided anything.
+They bought two coffees and walked down through the old streets towards the river. The Wensum was slow and green and full of ducks. They followed the path past the old water gate at Pull's Ferry, where the cathedral rose behind the trees like a ship. People were sitting on the grass with picnics. A boy was trying to teach a dog to swim, and the dog was clearly not interested. The evening light was gold and soft, and for the first time in a long time Maya did not feel tired.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_2.page_8-1793342139855.mp3
+Leo told her about the orchard. It was near a village called Saxby Green, about twenty miles from the city. His grandfather had planted the first cherry trees there in 1964, when everyone told him that cherries would never grow in Norfolk. "He was very stubborn," said Leo. "It's a family problem." Four years ago, his father had died suddenly, of a heart attack, in the middle of the harvest. Leo had been working in London at the time, in an office, doing something with insurance that he did not want to talk about.
+"I came home for the funeral," he said, "and I walked through the trees, and there was fruit everywhere, falling on the ground, and nobody to pick it. And I thought: I can't let it die. So I didn't go back to London. My sister Tess thinks I'm mad. She helps me anyway. She does the accounts and shouts at me about money." He smiled, but his eyes were somewhere else. "It's hard work. But it's real. In London nothing I did was real."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_2.page_9-1793342153309.mp3
+Maya told him things too. Not everything. She did not tell him about Marcus, or about the café, or the bench. But she told him about her grandmother's cherry tree, and about climbing it, and about the red fingers. She told him that she used to draw, before. "Birds, mostly," she said. "I had a sketchbook I carried everywhere. I lost it in March." Leo was quiet for a moment. He looked at the river, not at her. "That's sad," he said. "Did you try to find it?" "Everywhere. It's gone."
+"You should draw again," he said. "Even without it." "I've started," she admitted. "A cherry. On the back of your flyer." She expected him to laugh, but he turned and looked at her with an expression she could not read. "On my flyer," he repeated softly. "Well. Then it was worth printing them." A duck landed on the water in front of them with a loud, stupid splash, and they both laughed, and the moment passed.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_2.page_10-1793342175580.mp3
+When they reached the end of the path, near the old bridge, Leo stopped. He put his hands in his pockets and looked suddenly young and nervous. "Next Sunday," he said, "we have an open day at the orchard. People come and pick their own cherries. There's music, and my sister makes terrible cakes, and children fall out of trees. It's chaos. Would you like to come? You can bring your friend. The one who laughed at you." "Gemma," said Maya. "She'll come. She'd never let me go alone."
+That night Gemma screamed so loudly down the phone that Maya had to hold it away from her ear. "He asked you to his orchard! That's basically a proposal in Norfolk!" "It's an open day, Gem. Lots of people are going." "Lots of people didn't get a robin on their bag." Maya was quiet. "Is it too soon?" she asked at last. "It's only been three months since Marcus." Gemma's voice changed. "Maya, it's cherry picking, not a wedding. You're allowed to have a nice Sunday. You're allowed to be happy before you've finished being sad."
+On Monday, in her lunch break, Maya went to the art shop on Elm Hill and bought a new sketchbook. She did not choose a blue one. She chose a red one, the colour of the dark cherries. That evening she sat at her window and drew for two hours. She drew the ducks on the river and the cathedral behind the trees. Then, without really deciding to, she drew a pair of hands, rough and strong, holding a paper bag. She looked at the drawing for a long time before she went to bed. She did not know yet that the hands had already held something of hers.

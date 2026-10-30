@@ -665,6 +665,12 @@
       "example": "He raised both hands for the second gesture, the push, aiming at Maxence's feet on the second step."
     },
     {
+      "word": "Ainsworth",
+      "pos": "PROPN",
+      "translation": "Ainsworth (apellido)",
+      "example": "\"I'm Doreen. Doreen Ainsworth."
+    },
+    {
       "word": "air",
       "pos": "NOUN",
       "translation": "el aire",
@@ -1468,6 +1474,12 @@
       "example": "The pages were thick and slightly yellowed, covered in the same handwriting as the inscription, with diagrams of hands in precise positions, arrows showing movements, and words in a language he didn't recognise."
     },
     {
+      "word": "art",
+      "pos": "NOUN",
+      "translation": "el arte («art shop»: la tienda de bellas artes)",
+      "example": "On Monday, in her lunch break, Maya went to the art shop on Elm Hill and bought a new sketchbook."
+    },
+    {
       "word": "Arthur",
       "pos": "PROPN",
       "translation": "Arthur (nombre)",
@@ -1847,6 +1859,12 @@
       "pos": "PHRASE",
       "translation": "al mismo tiempo",
       "example": "A woman was trying to give him a bottle of water and take a selfie at the same time."
+    },
+    {
+      "word": "at the time",
+      "pos": "PHRASE",
+      "translation": "en aquella época, en ese momento",
+      "example": "Leo had been working in London at the time, in an office, doing something with insurance that he did not want to talk about."
     },
     {
       "word": "at this time of",
@@ -2413,6 +2431,12 @@
       "example": "That's your baseline."
     },
     {
+      "word": "basically",
+      "pos": "ADV",
+      "translation": "básicamente, prácticamente",
+      "example": "\"That's basically a proposal in Norfolk!\""
+    },
+    {
       "word": "basket",
       "pos": "NOUN",
       "translation": "la cesta",
@@ -2746,6 +2770,12 @@
       "pos": "NOUN",
       "translation": "el ser («human being»: el ser humano)",
       "example": "Gaz, without being asked, moved Max from the night shift to the early morning shift at the warehouse, so that he could sleep at night like a normal human being."
+    },
+    {
+      "word": "believable",
+      "pos": "ADJ",
+      "translation": "creíble, verosímil",
+      "example": "It was a normal, funny, believable answer."
     },
     {
       "word": "believe",
@@ -3958,6 +3988,12 @@
       "pos": "PHRASE",
       "translation": "traer, hacer entrar",
       "example": "Your Well was as dry as a summer ditch when they brought you in."
+    },
+    {
+      "word": "bring out",
+      "pos": "PHRASE",
+      "translation": "sacar",
+      "example": "He reached under the table and brought out a paper bag that was already full."
     },
     {
       "word": "bring up",
@@ -5292,6 +5328,12 @@
       "example": "The chanting."
     },
     {
+      "word": "chaos",
+      "pos": "NOUN",
+      "translation": "el caos",
+      "example": "It's chaos."
+    },
+    {
       "word": "chapel",
       "pos": "NOUN",
       "translation": "la capilla",
@@ -5464,6 +5506,12 @@
       "pos": "NOUN",
       "translation": "la cereza («cherry tree»: el cerezo)",
       "example": "But cherries were special to her."
+    },
+    {
+      "word": "cherry picking",
+      "pos": "PHRASE",
+      "translation": "la recogida de cerezas",
+      "example": "\"Maya, it's cherry picking, not a wedding."
     },
     {
       "word": "chest",
@@ -8940,6 +8988,12 @@
       "example": "An old man stood in the doorway, wearing a brown dressing gown."
     },
     {
+      "word": "Doreen",
+      "pos": "PROPN",
+      "translation": "Doreen (nombre)",
+      "example": "\"Since he's being polite for once,\" she said, \"I'm Doreen."
+    },
+    {
       "word": "Dorothy",
       "pos": "PROPN",
       "translation": "Dorothy (nombre; «Dot» es su diminutivo)",
@@ -9942,6 +9996,12 @@
       "example": "Every village has its own small traditions, and Ellerdale had a strange one."
     },
     {
+      "word": "Elm",
+      "pos": "PROPN",
+      "translation": "Elm («Elm Hill»: antigua calle empedrada de Norwich)",
+      "example": "On Monday, in her lunch break, Maya went to the art shop on Elm Hill and bought a new sketchbook."
+    },
+    {
       "word": "else",
       "pos": "ADV",
       "translation": "más, otro («something else»: otra cosa)",
@@ -10930,6 +10990,12 @@
       "example": "His spectacles had fallen off."
     },
     {
+      "word": "fall out of",
+      "pos": "PHRASE",
+      "translation": "caerse de",
+      "example": "There's music, and my sister makes terrible cakes, and children fall out of trees."
+    },
+    {
       "word": "fall over",
       "pos": "PHRASE",
       "translation": "caerse, volcarse",
@@ -11228,6 +11294,12 @@
       "pos": "PROPN",
       "translation": "Ferrand (apellido)",
       "example": "During philosophy, while Madame Ferrand talked about freedom and responsibility, he kept rubbing his thumb against his middle finger under the desk, tracing tiny half-circles in the air."
+    },
+    {
+      "word": "Ferry",
+      "pos": "PROPN",
+      "translation": "Ferry («Pull's Ferry»: antigua puerta fluvial sobre el Wensum, en Norwich; «ferry»: el transbordador)",
+      "example": "They followed the path past the old water gate at Pull's Ferry, where the cathedral rose behind the trees like a ship."
     },
     {
       "word": "fetch",
@@ -12416,6 +12488,12 @@
       "pos": "NOUN",
       "translation": "el foro",
       "example": "It offered her a forum of people who believed their toasters were spying on them."
+    },
+    {
+      "word": "Forum",
+      "pos": "PROPN",
+      "translation": "el Forum (gran edificio de cristal de Norwich, con la biblioteca)",
+      "example": "He asked about her job, and she told him that she worked at the library in the Forum, the big glass building next to the market."
     },
     {
       "word": "forward",
@@ -14852,6 +14930,12 @@
       "example": "\"Not Harry Dent.\""
     },
     {
+      "word": "harvest",
+      "pos": "NOUN",
+      "translation": "la cosecha",
+      "example": "Four years ago, his father had died suddenly, of a heart attack, in the middle of the harvest."
+    },
+    {
       "word": "hat",
       "pos": "NOUN",
       "translation": "el sombrero",
@@ -15096,6 +15180,12 @@
       "pos": "NOUN",
       "translation": "el corazón",
       "example": "When he lifted the leather, his heart started to pound."
+    },
+    {
+      "word": "heart attack",
+      "pos": "PHRASE",
+      "translation": "el infarto, el ataque al corazón",
+      "example": "Four years ago, his father had died suddenly, of a heart attack, in the middle of the harvest."
     },
     {
       "word": "heart rate",
@@ -15432,6 +15522,12 @@
       "pos": "NOUN",
       "translation": "la colina",
       "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "Hill",
+      "pos": "PROPN",
+      "translation": "Hill («Elm Hill»: antigua calle empedrada de Norwich; «hill»: la colina)",
+      "example": "On Monday, in her lunch break, Maya went to the art shop on Elm Hill and bought a new sketchbook."
     },
     {
       "word": "hillside",
@@ -16412,6 +16508,12 @@
       "example": "The night was warm, and Léa was in a hurry."
     },
     {
+      "word": "in a low voice",
+      "pos": "PHRASE",
+      "translation": "en voz baja",
+      "example": "\"Forty-one years I've been on this market,\" she said, in a low voice, so that Leo could not hear."
+    },
+    {
       "word": "in a moment",
       "pos": "PHRASE",
       "translation": "en un momento ; dentro de un momento",
@@ -17030,6 +17132,12 @@
       "pos": "VERB",
       "translation": "insultar («insulting»: insultante)",
       "example": "There was, he reflected, something almost insulting about ending a career on so light a load."
+    },
+    {
+      "word": "insurance",
+      "pos": "NOUN",
+      "translation": "el seguro, los seguros",
+      "example": "Leo had been working in London at the time, in an office, doing something with insurance that he did not want to talk about."
     },
     {
       "word": "intelligent",
@@ -17720,6 +17828,12 @@
       "pos": "NOUN",
       "translation": "el riñón",
       "example": "My mum is making a steak and kidney pie."
+    },
+    {
+      "word": "Kieran",
+      "pos": "PROPN",
+      "translation": "Kieran (nombre)",
+      "example": "Leo said, \"See you next week, Kieran,\" and went back to arguing about football."
     },
     {
       "word": "kill",
@@ -18694,6 +18808,12 @@
       "example": "\"Do not let go.\""
     },
     {
+      "word": "let go of",
+      "pos": "PHRASE",
+      "translation": "soltar",
+      "example": "Doreen let go of her arm and patted it."
+    },
+    {
       "word": "let in",
       "pos": "PHRASE",
       "translation": "dejar entrar",
@@ -19257,6 +19377,12 @@
       "example": "Hearthside lay at the foot of the eastern slope, half sunk into the hill like a badger's sett, so that its windows looked out at the level of the grass."
     },
     {
+      "word": "look round",
+      "pos": "PHRASE",
+      "translation": "darse la vuelta, mirar alrededor",
+      "example": "Maya noticed that he did not look round to see if she had seen."
+    },
+    {
       "word": "look up",
       "pos": "PHRASE",
       "translation": "levantar la vista, alzar la mirada ; buscar (una palabra)",
@@ -19363,6 +19489,12 @@
       "pos": "NOUN",
       "translation": "mucho («a lot»)",
       "example": "\"Your cousin says a lot of things.\""
+    },
+    {
+      "word": "lots of",
+      "pos": "PHRASE",
+      "translation": "muchos, un montón de",
+      "example": "\"It's an open day, Gem. Lots of people are going.\""
     },
     {
       "word": "lottery",
@@ -19495,6 +19627,12 @@
       "pos": "NOUN",
       "translation": "el almuerzo, la comida",
       "example": "\"He's gone home,\" said one of the fourth-years at lunch, too loudly."
+    },
+    {
+      "word": "lunch break",
+      "pos": "PHRASE",
+      "translation": "la pausa del almuerzo, la hora de comer",
+      "example": "On Monday, in her lunch break, Maya went to the art shop on Elm Hill and bought a new sketchbook."
     },
     {
       "word": "lunchtime",
@@ -20178,6 +20316,12 @@
       "pos": "ADJ",
       "translation": "médico",
       "example": "If a student did not give it without a medical reason, they would receive a mark of zero."
+    },
+    {
+      "word": "medium",
+      "pos": "ADJ",
+      "translation": "mediano, regular",
+      "example": "\"It was a medium week,\" said Maya, and he nodded as if that was important information."
     },
     {
       "word": "meet",
@@ -21752,6 +21896,12 @@
       "example": "Look not for fire in the hand, nor wind at the call."
     },
     {
+      "word": "Norfolk",
+      "pos": "PROPN",
+      "translation": "Norfolk (condado del este de Inglaterra, alrededor de Norwich)",
+      "example": "It was not a light summer rain but a real Norfolk storm, with water running down the paths between the stalls like little rivers."
+    },
+    {
       "word": "normal",
       "pos": "ADJ",
       "translation": "normal",
@@ -22609,6 +22759,12 @@
       "example": "For example, I know that the man in the ground-floor flat across the street never opens his curtains."
     },
     {
+      "word": "open day",
+      "pos": "PHRASE",
+      "translation": "la jornada de puertas abiertas",
+      "example": "\"Next Sunday,\" he said, \"we have an open day at the orchard."
+    },
+    {
       "word": "open mic",
       "pos": "PHRASE",
       "translation": "el micrófono abierto (velada en la que cualquiera puede actuar)",
@@ -23087,6 +23243,12 @@
       "pos": "VERB",
       "translation": "empaquetar, hacer las maletas ; compactar («packed snow»: nieve compacta)",
       "example": "\"Prepare the horses and pack the armour,\" Godfrey ordered."
+    },
+    {
+      "word": "pack up",
+      "pos": "PHRASE",
+      "translation": "recoger, recoger las cosas",
+      "example": "At four o'clock, when the stallholders began to pack up, Leo pulled off his apron and said, very casually, as if it did not matter, \"Do you want to get a coffee?"
     },
     {
       "word": "packet",
@@ -23779,6 +23941,12 @@
       "example": "Then he put it on the fridge with a magnet, phoned Priya and asked her what exercises he could do with one leg."
     },
     {
+      "word": "phone call",
+      "pos": "PHRASE",
+      "translation": "la llamada (telefónica)",
+      "example": "Every Saturday morning, after Gemma's nine o'clock phone call, she walked up the hill to the market."
+    },
+    {
       "word": "phonetic",
       "pos": "ADJ",
       "translation": "fonético",
@@ -23893,6 +24061,12 @@
       "example": "\"I'm afraid we appear to have got ourselves into a bit of a pickle.\""
     },
     {
+      "word": "picnic",
+      "pos": "NOUN",
+      "translation": "el pícnic, la merienda",
+      "example": "People were sitting on the grass with picnics."
+    },
+    {
       "word": "picture",
       "pos": "NOUN",
       "translation": "la imagen, el cuadro, la foto",
@@ -23999,6 +24173,12 @@
       "pos": "NOUN",
       "translation": "el pino",
       "example": "Bram smelled of woodsmoke and wet wool and pine resin and twelve days of walking, and it was the smell of the clearing, and the cabin, and every winter evening Rowan could remember, and he found, to his horror, that he was crying into his uncle's coat like a small child, and that he did not care in the least who saw."
+    },
+    {
+      "word": "pineapple",
+      "pos": "NOUN",
+      "translation": "la piña",
+      "example": "They talked about everything: films they had hated, the worst jobs they had ever had, whether pineapple belonged on pizza."
     },
     {
       "word": "ping",
@@ -25081,6 +25261,12 @@
       "example": "We went down a drainpipe, crossed a little courtyard and squeezed under a wooden door that didn't close properly."
     },
     {
+      "word": "proposal",
+      "pos": "NOUN",
+      "translation": "la petición de mano ; la propuesta",
+      "example": "\"That's basically a proposal in Norfolk!\""
+    },
+    {
       "word": "propose",
       "pos": "VERB",
       "translation": "proponer",
@@ -25189,6 +25375,12 @@
       "example": "The first morning of Leaf-Fall arrived wrapped in fog, as if the forest had pulled a blanket over its head and had no intention of getting up."
     },
     {
+      "word": "Pull",
+      "pos": "PROPN",
+      "translation": "Pull («Pull's Ferry»: antigua puerta fluvial sobre el Wensum, en Norwich)",
+      "example": "They followed the path past the old water gate at Pull's Ferry, where the cathedral rose behind the trees like a ship."
+    },
+    {
       "word": "pull away",
       "pos": "PHRASE",
       "translation": "arrancar, alejarse",
@@ -25205,6 +25397,12 @@
       "pos": "PHRASE",
       "translation": "parar, detenerse (a un lado)",
       "example": "He pulled in to check the forecast, found it unchanged and ominous, and sat for a full minute with his hands on the wheel."
+    },
+    {
+      "word": "pull off",
+      "pos": "PHRASE",
+      "translation": "quitarse (de un tirón)",
+      "example": "At four o'clock, when the stallholders began to pack up, Leo pulled off his apron and said, very casually, as if it did not matter, \"Do you want to get a coffee?"
     },
     {
       "word": "pull out",
@@ -25331,6 +25529,12 @@
       "pos": "VERB",
       "translation": "empujar",
       "example": "A cold wind came from the river and pushed the leaves along the street."
+    },
+    {
+      "word": "push out",
+      "pos": "PHRASE",
+      "translation": "sacar (pecho), echar hacia fuera",
+      "example": "Under the words there was a small drawing of a robin, round and serious, with its red chest pushed out."
     },
     {
       "word": "push up",
@@ -27748,6 +27952,12 @@
       "pos": "NOUN",
       "translation": "el ahorro («savings»: los ahorros)",
       "example": "They paid six hundred pounds with Max's savings and Frank's envelope, and agreed a plan to pay the rest over six months."
+    },
+    {
+      "word": "Saxby",
+      "pos": "PROPN",
+      "translation": "Saxby («Saxby Green»: pueblo de Norfolk)",
+      "example": "It was near a village called Saxby Green, about twenty miles from the city."
     },
     {
       "word": "say",
@@ -30306,6 +30516,12 @@
       "example": "Somewhere, a woodpecker resumed its work."
     },
     {
+      "word": "somewhere else",
+      "pos": "PHRASE",
+      "translation": "en otra parte, en otro sitio",
+      "example": "He smiled, but his eyes were somewhere else."
+    },
+    {
       "word": "son",
       "pos": "NOUN",
       "translation": "el hijo",
@@ -30960,6 +31176,12 @@
       "example": "As though Rowan had wandered off on market day and turned up again by the pie stall."
     },
     {
+      "word": "stallholder",
+      "pos": "NOUN",
+      "translation": "el vendedor, la vendedora (de un puesto)",
+      "example": "At four o'clock, when the stallholders began to pack up, Leo pulled off his apron and said, very casually, as if it did not matter, \"Do you want to get a coffee?"
+    },
+    {
       "word": "stamina",
       "pos": "NOUN",
       "translation": "la resistencia, el aguante",
@@ -31606,6 +31828,12 @@
       "pos": "NOUN",
       "translation": "la paja",
       "example": "He says you were lying on the ice like a dead thing with your arms out, and the Elderwood came up all round you and threw those men about like straw."
+    },
+    {
+      "word": "strawberry",
+      "pos": "NOUN",
+      "translation": "la fresa",
+      "example": "On the fourth Saturday, at the end of June, the market was hot and crowded and smelled of strawberries."
     },
     {
       "word": "stray",
@@ -32340,6 +32568,12 @@
       "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
     },
     {
+      "word": "sweet pea",
+      "pos": "PHRASE",
+      "translation": "el guisante de olor",
+      "example": "The woman at the flower stall leaned over between two buckets of sweet peas."
+    },
+    {
       "word": "swell",
       "pos": "VERB",
       "translation": "hincharse, crecer",
@@ -32967,6 +33201,12 @@
       "pos": "NOUN",
       "translation": "el terror",
       "example": "He saw a big, slow-moving shape stumble out of the wagon and fall to its knees in the snow: a boy with hands like shovels and a face grey with cold and terror, blinking in the moonlight as though he had not seen the sky in weeks."
+    },
+    {
+      "word": "Tess",
+      "pos": "PROPN",
+      "translation": "Tess (nombre)",
+      "example": "\"My sister Tess thinks I'm mad."
     },
     {
       "word": "test",
@@ -36476,6 +36716,12 @@
       "pos": "PHRASE",
       "translation": "brotar, manar",
       "example": "From the heart of it, where the dark wood had been dead and dry and polished for who knew how many years, a thick bead of sap welled up, golden and glistening, and ran down over the heron-man's fingers."
+    },
+    {
+      "word": "Wensum",
+      "pos": "PROPN",
+      "translation": "el Wensum (río de Norwich)",
+      "example": "The Wensum was slow and green and full of ducks."
     },
     {
       "word": "west",

@@ -1,6 +1,13 @@
 {
   "fixes": [
     {
+      "text": "'s",
+      "pos": "PART",
+      "next": "music",
+      "word": "be",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "1980s",
       "pos": "NOUN",
       "word": "1980s",
@@ -963,6 +970,12 @@
       "pos": "VERB",
       "word": "do",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Doreen",
+      "pos": "INTJ",
+      "word": "Doreen",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "double",
@@ -1978,6 +1991,13 @@
     {
       "text": "kind",
       "pos": "ADV",
+      "next": "as",
+      "word": "kind",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "kind",
+      "pos": "ADV",
       "next": "in",
       "word": "kind",
       "lemmaPos": "ADJ"
@@ -2538,6 +2558,12 @@
     {
       "text": "Next",
       "pos": "PROPN",
+      "word": "next",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Next",
+      "pos": "PROPN",
       "next": "came",
       "word": "next",
       "lemmaPos": "ADV"
@@ -2705,6 +2731,13 @@
       "pos": "NOUN",
       "word": "year-old",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "open",
+      "pos": "NOUN",
+      "next": "inside",
+      "word": "open",
+      "lemmaPos": "VERB"
     },
     {
       "text": "opening",
@@ -3239,6 +3272,12 @@
       "text": "RISKS",
       "pos": "PROPN",
       "word": "risk",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Robins",
+      "pos": "PROPN",
+      "word": "robin",
       "lemmaPos": "NOUN"
     },
     {
