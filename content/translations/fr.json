@@ -282,6 +282,12 @@
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
     },
     {
+      "word": "accordion",
+      "pos": "NOUN",
+      "translation": "l'accordéon",
+      "example": "Near the farmhouse, an old man was playing the accordion, badly but with great enthusiasm."
+    },
+    {
       "word": "account",
       "pos": "NOUN",
       "translation": "le récit, le compte rendu ; le compte",
@@ -2874,6 +2880,12 @@
       "example": "The crowd fell silent as the two horses began to gallop towards each other, the ground shaking beneath their hooves."
     },
     {
+      "word": "Benedict",
+      "pos": "PROPN",
+      "translation": "Benedict (« St Benedict's » : rue Saint-Benoît, à Norwich)",
+      "example": "It was a list of streets, in small, careful handwriting: Elm Hill, Colegate, St Benedict's, Magdalen Street."
+    },
+    {
       "word": "benefit",
       "pos": "NOUN",
       "translation": "l'avantage, le bénéfice (« for his benefit » : pour lui)",
@@ -3118,6 +3130,12 @@
       "pos": "NOUN",
       "translation": "le noir (« in black » : en noir, à l'encre noire)",
       "example": "Her nineteen-year-old self, frightened and furious and funny, writing night after night in black."
+    },
+    {
+      "word": "blackbird",
+      "pos": "NOUN",
+      "translation": "le merle",
+      "example": "Above them, a blackbird started to sing."
     },
     {
       "word": "blackboard",
@@ -3700,6 +3718,12 @@
       "pos": "NOUN",
       "translation": "le garçon",
       "example": "She asks a boy. — Elle demande à un garçon."
+    },
+    {
+      "word": "boyfriend",
+      "pos": "NOUN",
+      "translation": "le petit ami, le copain",
+      "example": "\"Mine once told a boyfriend that I had head lice."
     },
     {
       "word": "brace",
@@ -5916,6 +5940,12 @@
       "example": "Close to, his face was quite ordinary: lean and pale and clean-shaven, the kind of face you would forget the moment you looked away."
     },
     {
+      "word": "cleaner",
+      "pos": "NOUN",
+      "translation": "l'agent d'entretien, le nettoyeur (« dry cleaner » : le pressing)",
+      "example": "It had a church with a round tower, a pub called the Plough, a post office that was also a shop and also, according to a sign in the window, a dry cleaner."
+    },
+    {
       "word": "cleanly",
       "pos": "ADV",
       "translation": "net, proprement",
@@ -6022,6 +6052,12 @@
       "pos": "VERB",
       "translation": "grimper",
       "example": "She climbs the tree. — Elle grimpe à l'arbre."
+    },
+    {
+      "word": "climb down",
+      "pos": "PHRASE",
+      "translation": "descendre (d'une échelle, d'un arbre)",
+      "example": "He climbed down and came towards them across the grass."
     },
     {
       "word": "climb up",
@@ -6312,6 +6348,12 @@
       "example": "Then the cold of the Stone pressed against it, and it shrank back the way a fern curls up at a touch, and sank out of reach."
     },
     {
+      "word": "Colegate",
+      "pos": "PROPN",
+      "translation": "Colegate (rue de Norwich)",
+      "example": "It was a list of streets, in small, careful handwriting: Elm Hill, Colegate, St Benedict's, Magdalen Street."
+    },
+    {
       "word": "Coleraine",
       "pos": "PROPN",
       "translation": "Coleraine (ville d'Irlande du Nord)",
@@ -6496,6 +6538,12 @@
       "pos": "PHRASE",
       "translation": "passer (chez quelqu'un), venir voir",
       "example": "Priya came round that evening, and she did not ring the doorbell."
+    },
+    {
+      "word": "come through",
+      "pos": "PHRASE",
+      "translation": "passer à travers, filtrer",
+      "example": "She reached the first big branch and sat on it, with leaves all around her and the sun coming through in small bright pieces."
     },
     {
       "word": "come to a halt",
@@ -7054,6 +7102,12 @@
       "pos": "NOUN",
       "translation": "le centre ; (sport) les abdominaux, la sangle abdominale",
       "example": "Exercises for his core, lying on the living-room floor while his mum stepped over him with cups of tea."
+    },
+    {
+      "word": "corkboard",
+      "pos": "NOUN",
+      "translation": "le tableau en liège",
+      "example": "Next to the door there was a corkboard covered in bills, postcards and phone numbers."
     },
     {
       "word": "corner",
@@ -7897,6 +7951,12 @@
     },
     {
       "word": "cut",
+      "pos": "ADJ",
+      "translation": "coupé (« cut grass » : l'herbe fraîchement coupée)",
+      "example": "It smelled of cut grass and warm fruit and, from somewhere, burnt sugar."
+    },
+    {
+      "word": "cut",
       "pos": "VERB",
       "translation": "couper (« cut » au passé et participe : coupé)",
       "example": "It had been cut, cleanly and deliberately, almost all the way through, so that it would break under pressure."
@@ -8200,6 +8260,12 @@
       "pos": "VERB",
       "translation": "décider",
       "example": "Sir Godfrey never complained, so Edwin decided that he would not complain either."
+    },
+    {
+      "word": "decision",
+      "pos": "NOUN",
+      "translation": "la décision",
+      "example": "Later, she would wonder if that was the first decision she got wrong."
     },
     {
       "word": "deck",
@@ -9420,6 +9486,12 @@
       "example": "But when Albert sat down on a box and started to dry my head with the towel, I began to purr."
     },
     {
+      "word": "dry cleaner",
+      "pos": "PHRASE",
+      "translation": "le pressing, le teinturier",
+      "example": "It had a church with a round tower, a pub called the Plough, a post office that was also a shop and also, according to a sign in the window, a dry cleaner."
+    },
+    {
       "word": "dryer",
       "pos": "NOUN",
       "translation": "le séchoir (« hand dryer » : sèche-mains)",
@@ -9814,6 +9886,12 @@
       "pos": "NOUN",
       "translation": "l'efficacité",
       "example": "He worked his way down the line of nervous children with the brisk efficiency of a farmer counting sheep, asking each one their name and their element, and directing them to one of four arched doorways around the courtyard."
+    },
+    {
+      "word": "efficient",
+      "pos": "ADJ",
+      "translation": "efficace",
+      "example": "Tess was quick and efficient and did not seem to need conversation."
     },
     {
       "word": "efficiently",
@@ -11840,6 +11918,12 @@
       "pos": "PHRASE",
       "translation": "le calme plat",
       "example": "\"Brought a Norwegian supply vessel in on the morning tide, flat calm, not a breath of wind. Easiest job I ever did. I remember being thoroughly disappointed. I'd always imagined I'd go out in some tremendous storm.\""
+    },
+    {
+      "word": "flat cap",
+      "pos": "PHRASE",
+      "translation": "la casquette plate (en tweed)",
+      "example": "On the walls there were photographs: a bald old man laughing on a ladder, a tired-looking man in a flat cap holding a basket, two dark-haired children sitting in a tree."
     },
     {
       "word": "flat on his back",
@@ -13893,6 +13977,12 @@
       "example": "Inside lay a folded letter, its paper yellowed with age, and pressed flat between its pages was a single leaf — not oak, not ash, not any tree Rowan knew, but long and silvery and veined with the faintest trace of gold."
     },
     {
+      "word": "gold dust",
+      "pos": "PHRASE",
+      "translation": "la poussière d'or, la poudre d'or",
+      "example": "The grass was full of fallen cherries, and the air was full of small insects that shone in the light like gold dust."
+    },
+    {
       "word": "golden",
       "pos": "ADJ",
       "translation": "doré, en or",
@@ -15078,6 +15168,12 @@
       "pos": "PROPN",
       "translation": "Head (« le chef », « Head of Fire » : maître du Feu)",
       "example": "Master Corvin Hale, Head of Fire, will preside, with the examiners of the Academy in attendance."
+    },
+    {
+      "word": "head lice",
+      "pos": "PHRASE",
+      "translation": "les poux",
+      "example": "\"Mine once told a boyfriend that I had head lice."
     },
     {
       "word": "head screwed on",
@@ -17021,6 +17117,12 @@
       "example": "The pages were thick and slightly yellowed, covered in the same handwriting as the inscription, with diagrams of hands in precise positions, arrows showing movements, and words in a language he didn't recognise."
     },
     {
+      "word": "insect",
+      "pos": "NOUN",
+      "translation": "l'insecte",
+      "example": "The grass was full of fallen cherries, and the air was full of small insects that shone in the light like gold dust."
+    },
+    {
       "word": "Insh",
       "pos": "PROPN",
       "translation": "Insh (dans « the Insh », marais d'Insh, dans la vallée de la Spey)",
@@ -17368,6 +17470,18 @@
       "example": "She arrived on her bicycle at five to ten, wearing running tights and a waterproof jacket, her long black hair tied up in a knot on the top of her head."
     },
     {
+      "word": "jam",
+      "pos": "NOUN",
+      "translation": "la confiture",
+      "example": "Then Tess came in and took a jar of jam from the table, as if that was why she had come."
+    },
+    {
+      "word": "jam jar",
+      "pos": "PHRASE",
+      "translation": "le pot de confiture",
+      "example": "The kitchen was big and old-fashioned, with a stone floor, a huge black cooker and a long table covered in boxes of jam jars."
+    },
+    {
       "word": "Jamal",
       "pos": "PROPN",
       "translation": "Jamal (prénom)",
@@ -17384,6 +17498,12 @@
       "pos": "ADJ",
       "translation": "japonais",
       "example": "The expensive Japanese kind he had been saving up for since he was fourteen."
+    },
+    {
+      "word": "jar",
+      "pos": "NOUN",
+      "translation": "le pot, le bocal",
+      "example": "She put the jar under her arm."
     },
     {
       "word": "jaw",
@@ -18748,6 +18868,12 @@
       "example": "Then he remembered: he had promised to meet Lily outside the leisure centre at eleven to carry her bags home after her netball tournament."
     },
     {
+      "word": "lemonade",
+      "pos": "NOUN",
+      "translation": "la limonade, la citronnade",
+      "example": "They sold lemonade and jars of cherry jam and, very carefully, no more cake."
+    },
+    {
       "word": "lend",
       "pos": "VERB",
       "translation": "prêter",
@@ -18890,6 +19016,12 @@
       "pos": "PHRASE",
       "translation": "la fiche de prêt, la carte de bibliothèque",
       "example": "Tucked inside the back cover was an old library card, the kind with dates stamped in purple ink."
+    },
+    {
+      "word": "lice",
+      "pos": "NOUN",
+      "translation": "les poux (pluriel de « louse »)",
+      "example": "\"Mine once told a boyfriend that I had head lice."
     },
     {
       "word": "licence",
@@ -23191,6 +23323,12 @@
       "example": "\"That's enough, son. It's over. You don't owe anyone anything.\""
     },
     {
+      "word": "Owen",
+      "pos": "PROPN",
+      "translation": "Owen (prénom gallois)",
+      "example": "In the car, Gemma talked about her farmer, whose name was Owen and who had very large hands and a very small dog."
+    },
+    {
       "word": "owl",
       "pos": "NOUN",
       "translation": "le hibou, la chouette",
@@ -23507,6 +23645,12 @@
       "pos": "PROPN",
       "translation": "Pass (dans « Drumochter Pass », le col de Drumochter)",
       "example": "A band of heavy snow was forecast to move in off the Cairngorms by mid-afternoon, and the Met Office had issued an amber warning that ran, with a cartographer's indifference, straight across the Drumochter Pass."
+    },
+    {
+      "word": "pass down",
+      "pos": "PHRASE",
+      "translation": "passer (vers le bas), tendre à quelqu'un en dessous",
+      "example": "She filled the basket and passed it down to Leo and he gave her an empty one, and she filled that too."
     },
     {
       "word": "passage",
@@ -24055,6 +24199,12 @@
       "example": "Edwin picked up his weapon, his face red with frustration."
     },
     {
+      "word": "pick your own",
+      "pos": "PHRASE",
+      "translation": "cueillette à la ferme (cueillez vous-même)",
+      "example": "On the other side of the village, a hand-painted sign at the side of the road said \"Brannock's Orchard – Pick Your Own – Open Day Today!\""
+    },
+    {
       "word": "pickle",
       "pos": "NOUN",
       "translation": "la conserve au vinaigre ; (fam.) le pétrin",
@@ -24143,6 +24293,12 @@
       "pos": "NOUN",
       "translation": "le pilote (« harbour pilot » : pilote de port)",
       "example": "Alasdair had spent forty years as a harbour pilot at Invergordon, guiding rigs and tankers in and out of the Cromarty Firth, and he spoke of tides and channels with the same unhurried precision that Gideon brought to gradients and gear ratios."
+    },
+    {
+      "word": "pin",
+      "pos": "NOUN",
+      "translation": "la punaise, l'épingle",
+      "example": "In one corner, under a pin, there was a little pile of the cream-coloured cherry flyers, exactly like the one on her fridge."
     },
     {
       "word": "pin",
@@ -24457,10 +24613,22 @@
       "example": "She came to the clearing at dusk that same day, on foot, as though she had walked the six miles from Brackenford for the pleasure of it."
     },
     {
+      "word": "plenty",
+      "pos": "NOUN",
+      "translation": "beaucoup, plein, largement assez",
+      "example": "\"Take one if you like. We've got plenty.\""
+    },
+    {
       "word": "plough",
       "pos": "NOUN",
       "translation": "la charrue ; le chasse-neige",
       "example": "He dialled 999 on his own phone, gave their position as precisely as he could, and was told, by a calm young woman in Inverness, that the A9 had been closed at both ends twenty minutes earlier, that ploughs were on their way but could not promise to reach them before morning, and that, since nobody was injured and the lorry was warm, the best thing he could possibly do was stay exactly where he was."
+    },
+    {
+      "word": "Plough",
+      "pos": "PROPN",
+      "translation": "le Plough (nom de pub ; « plough » : la charrue)",
+      "example": "It had a church with a round tower, a pub called the Plough, a post office that was also a shop and also, according to a sign in the window, a dry cleaner."
     },
     {
       "word": "pluck",
@@ -24671,6 +24839,12 @@
       "pos": "NOUN",
       "translation": "le pop-corn",
       "example": "After that, it happened all around the room, like popcorn in a pan."
+    },
+    {
+      "word": "poplar",
+      "pos": "NOUN",
+      "translation": "le peuplier",
+      "example": "Long rows of cherry trees went down a gentle hill towards a line of tall poplars and a little stream."
     },
     {
       "word": "popular",
@@ -29226,6 +29400,12 @@
       "example": "Edwin jumped over the wooden barrier and ran towards him, ignoring the guards who were shouting at him to stop."
     },
     {
+      "word": "shouting",
+      "pos": "NOUN",
+      "translation": "les cris",
+      "example": "She opened her mouth, closed it, and looked across the orchard to where Leo was pulling the expensive car out of the stream with a tractor and a lot of shouting."
+    },
+    {
       "word": "shovel",
       "pos": "NOUN",
       "translation": "la pelle",
@@ -29602,6 +29782,12 @@
       "pos": "ADJ",
       "translation": "seul, unique",
       "example": "By the end, Edwin had not won a single fight, but for the first time he had managed to block every attack."
+    },
+    {
+      "word": "sink",
+      "pos": "NOUN",
+      "translation": "l'évier",
+      "example": "The lights were on in the farmhouse kitchen, and through the window Maya could see Tess standing at the sink."
     },
     {
       "word": "sink",
@@ -35255,6 +35441,12 @@
       "example": "Bram unfolded the letter and read it."
     },
     {
+      "word": "unfriendly",
+      "pos": "ADJ",
+      "translation": "froid, peu aimable, inamical",
+      "example": "Her voice was not unfriendly."
+    },
+    {
       "word": "unfurl",
       "pos": "VERB",
       "translation": "se déployer, se dérouler",
@@ -36830,6 +37022,12 @@
       "pos": "ADV",
       "translation": "quel qu'il soit, quel que soit (« for any reason whatsoever » : pour quelque raison que ce soit)",
       "example": "From today, no student will leave their house after the tenth bell for any reason whatsoever."
+    },
+    {
+      "word": "wheat",
+      "pos": "NOUN",
+      "translation": "le blé",
+      "example": "They left the city on a bright Sunday morning at the beginning of July and drove north, along roads that became smaller and smaller, between fields of golden wheat and fields of bright yellow flowers."
     },
     {
       "word": "wheel",

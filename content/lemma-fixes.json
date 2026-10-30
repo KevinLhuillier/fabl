@@ -56,6 +56,12 @@
       "lemmaPos": "ADP"
     },
     {
+      "text": "accordion",
+      "pos": "ADJ",
+      "word": "accordion",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "ACE",
       "pos": "PROPN",
       "word": "ace",
@@ -321,6 +327,12 @@
       "next": ",",
       "word": "bloom",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "blue",
+      "pos": "PROPN",
+      "word": "blue",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "BONG",
@@ -1940,6 +1952,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "jam",
+      "pos": "PROPN",
+      "word": "jam",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "jeans",
       "pos": "NOUN",
       "word": "jeans",
@@ -1956,6 +1974,12 @@
       "pos": "PROPN",
       "word": "jog",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "juice",
+      "pos": "VERB",
+      "word": "juice",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "keepy",
@@ -4188,6 +4212,12 @@
     {
       "text": "Three",
       "pos": "PROPN",
+      "word": "three",
+      "lemmaPos": "NUM"
+    },
+    {
+      "text": "threes",
+      "pos": "NOUN",
       "word": "three",
       "lemmaPos": "NUM"
     },
