@@ -1198,6 +1198,12 @@
       "example": "\"I'd have known them anywhere.\""
     },
     {
+      "word": "anywhere but",
+      "pos": "PHRASE",
+      "translation": "n'importe où sauf, partout sauf",
+      "example": "\"Anywhere but the market.\""
+    },
+    {
       "word": "apart",
       "pos": "ADV",
       "translation": "écartés, à distance (« further apart » : plus espacés)",
@@ -1847,6 +1853,12 @@
       "pos": "PHRASE",
       "translation": "à cette heure-ci (« at this time of night » : à cette heure de la nuit)",
       "example": "\"Callum? What are you doing here at this time of—\""
+    },
+    {
+      "word": "at work",
+      "pos": "PHRASE",
+      "translation": "au travail",
+      "example": "Then he had told her that he had met someone at work."
     },
     {
       "word": "athlete",
@@ -3078,6 +3090,12 @@
       "example": "Her nineteen-year-old self, frightened and furious and funny, writing night after night in black."
     },
     {
+      "word": "blackboard",
+      "pos": "NOUN",
+      "translation": "le tableau noir, l'ardoise",
+      "example": "A small blackboard said, in chalk: \"Cherries. Sweet as a first kiss. £4 a bag.\""
+    },
+    {
       "word": "blacken",
       "pos": "VERB",
       "translation": "noircir",
@@ -3748,6 +3766,12 @@
       "pos": "ADJ",
       "translation": "flambant neuf, tout neuf",
       "example": "Seven years earlier she had been a nervous twenty-year-old with a brand-new licence and a habit of apologising to the gearbox; he had been assigned to sit beside her for her first month on the road, and had done so with a forbearance she still described, to anyone who would listen, as saintly."
+    },
+    {
+      "word": "Brannock",
+      "pos": "PROPN",
+      "translation": "Brannock (nom de famille, nom du verger)",
+      "example": "Under the cherries, in neat green letters, it said: \"Brannock's Orchard. The first cherries of summer. Norwich Market, every Saturday.\""
     },
     {
       "word": "brass",
@@ -5210,7 +5234,7 @@
     {
       "word": "change",
       "pos": "NOUN",
-      "translation": "le changement",
+      "translation": "le changement ; la monnaie (pièces rendues)",
       "example": "The first change was small."
     },
     {
@@ -5434,6 +5458,12 @@
       "pos": "NOUN",
       "translation": "le produit chimique",
       "example": "Some kind of special paper, a chemical that reacted with biro."
+    },
+    {
+      "word": "cherry",
+      "pos": "NOUN",
+      "translation": "la cerise (« cherry tree » : le cerisier)",
+      "example": "But cherries were special to her."
     },
     {
       "word": "chest",
@@ -5740,6 +5770,18 @@
       "pos": "NOUN",
       "translation": "la ville, la cité",
       "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "City",
+      "pos": "PROPN",
+      "translation": "City (dans « City Hall » : l'hôtel de ville)",
+      "example": "Norwich Market lay below the City Hall like a box of sweets: hundreds of stalls under roofs of red, yellow, blue and green stripes."
+    },
+    {
+      "word": "city hall",
+      "pos": "PHRASE",
+      "translation": "l'hôtel de ville, la mairie",
+      "example": "Norwich Market lay below the City Hall like a box of sweets: hundreds of stalls under roofs of red, yellow, blue and green stripes."
     },
     {
       "word": "claim",
@@ -6930,6 +6972,12 @@
       "example": "He was round-faced and freckled, with a shock of copper hair and a grin that seemed to take up most of his face."
     },
     {
+      "word": "Copper",
+      "pos": "PROPN",
+      "translation": "Copper (« Copper Kettle » : la Bouilloire en cuivre, nom d'un café)",
+      "example": "Then, on the fourteenth of March, on a grey Saturday morning, Marcus had taken her for breakfast at the Copper Kettle, the little café at the market."
+    },
+    {
       "word": "coppery",
       "pos": "ADJ",
       "translation": "cuivré",
@@ -7504,6 +7552,12 @@
       "pos": "ADJ",
       "translation": "coupé court (« close-cropped » : coupé ras)",
       "example": "The first was a tall man in a long coat of charcoal wool, with close-cropped grey hair and the bearing of someone who had spent his life being obeyed."
+    },
+    {
+      "word": "cross",
+      "pos": "ADJ",
+      "translation": "fâché, contrarié",
+      "example": "The old lady pretended to be cross, then gave in, and he put an extra handful into her bag."
     },
     {
       "word": "cross",
@@ -8170,6 +8224,12 @@
       "pos": "NOUN",
       "translation": "le défenseur",
       "example": "He could stop a long ball dead with the side of his boot, flick it over a defender's head and hit it into the top corner before it touched the ground."
+    },
+    {
+      "word": "define",
+      "pos": "VERB",
+      "translation": "définir",
+      "example": "\"Define dressed,\" said Maya."
     },
     {
       "word": "defuse",
@@ -10636,6 +10696,12 @@
       "example": "Gantry cranes stood frozen against a sky the colour of wet slate, their booms raised like questions nobody had stayed to answer, and the sodium lamps along the quayside laid down pools of orange light that the drizzle could not quite extinguish."
     },
     {
+      "word": "extra",
+      "pos": "ADJ",
+      "translation": "en plus, supplémentaire",
+      "example": "\"Those are extra,\" he said."
+    },
+    {
       "word": "extraordinary",
       "pos": "ADJ",
       "translation": "extraordinaire",
@@ -10706,6 +10772,12 @@
       "pos": "VERB",
       "translation": "affronter, faire face à",
       "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
+    },
+    {
+      "word": "face out",
+      "pos": "PHRASE",
+      "translation": "tourné vers l'extérieur, visible",
+      "example": "Then she put the flyer back on the fridge, with the drawing facing out."
     },
     {
       "word": "faced",
@@ -11890,6 +11962,12 @@
       "example": "He did not fly up the ladder like the runner in the red hoodie."
     },
     {
+      "word": "flyer",
+      "pos": "NOUN",
+      "translation": "le prospectus, le flyer",
+      "example": "She never kept flyers."
+    },
+    {
       "word": "focus",
       "pos": "NOUN",
       "translation": "la concentration",
@@ -12688,6 +12766,12 @@
       "example": "At the front desk, the librarian scanned the books on the strikes, then turned the leather book over twice, looking for a label."
     },
     {
+      "word": "front door",
+      "pos": "PHRASE",
+      "translation": "la porte d'entrée",
+      "example": "Before Magdalen Street, there had been Unthank Road, and a flat with a blue front door, and Marcus."
+    },
+    {
       "word": "front page",
       "pos": "PHRASE",
       "translation": "la une (d'un journal)",
@@ -13090,6 +13174,18 @@
       "example": "Seven years earlier she had been a nervous twenty-year-old with a brand-new licence and a habit of apologising to the gearbox; he had been assigned to sit beside her for her first month on the road, and had done so with a forbearance she still described, to anyone who would listen, as saintly."
     },
     {
+      "word": "Gem",
+      "pos": "PROPN",
+      "translation": "Gem (diminutif de Gemma)",
+      "example": "\"He sells cherries, Gem."
+    },
+    {
+      "word": "Gemma",
+      "pos": "PROPN",
+      "translation": "Gemma (prénom)",
+      "example": "It was Gemma, of course."
+    },
+    {
       "word": "general",
       "pos": "ADJ",
       "translation": "général (« in general » : en général)",
@@ -13184,6 +13280,12 @@
       "pos": "VERB",
       "translation": "obtenir, recevoir (« got this » : me suis fait ça)",
       "example": "\"Do you know how I got this?\""
+    },
+    {
+      "word": "get better",
+      "pos": "PHRASE",
+      "translation": "s'améliorer, aller mieux",
+      "example": "Things usually get better in June."
     },
     {
       "word": "get dark",
@@ -13581,6 +13683,12 @@
       "example": "The week went by faster than Rosalind wanted it to."
     },
     {
+      "word": "go cold",
+      "pos": "PHRASE",
+      "translation": "refroidir (« her tea had gone cold » : son thé avait refroidi)",
+      "example": "She did not want to see the window, or the little table, or the place where her tea had gone cold."
+    },
+    {
       "word": "go down",
       "pos": "PHRASE",
       "translation": "descendre ; (soleil) se coucher",
@@ -13747,6 +13855,12 @@
       "pos": "PHRASE",
       "translation": "doué pour, bon en",
       "example": "\"Old people are good at talking.\""
+    },
+    {
+      "word": "good morning",
+      "pos": "PHRASE",
+      "translation": "bonjour (le matin)",
+      "example": "\"Good morning,\" he said."
     },
     {
       "word": "goodbye",
@@ -15548,6 +15662,12 @@
       "example": "Other woodcutters in the Hollow Wilds were less particular."
     },
     {
+      "word": "Holt",
+      "pos": "PROPN",
+      "translation": "Holt (nom de famille)",
+      "example": "On the first Saturday in June, Maya Holt woke up to the smell of clean washing."
+    },
+    {
       "word": "home",
       "pos": "ADV",
       "translation": "à la maison",
@@ -16280,6 +16400,12 @@
       "example": "Only the smell of fresh bread climbs up the walls and comes in through the window."
     },
     {
+      "word": "in a bad mood",
+      "pos": "PHRASE",
+      "translation": "de mauvaise humeur",
+      "example": "Under it, in smaller letters, someone had added: \"Sour ones free for people who are already in a bad mood.\""
+    },
+    {
       "word": "in a hurry",
       "pos": "PHRASE",
       "translation": "pressé, à la hâte",
@@ -16402,6 +16528,12 @@
       "pos": "PHRASE",
       "translation": "dans le désordre, sans ordre précis",
       "example": "It came out haltingly, in no particular order, and when he had finished he sat staring at the wheel, mortified, waiting for the inevitable kindly platitude."
+    },
+    {
+      "word": "in pain",
+      "pos": "PHRASE",
+      "translation": "avec une grimace de douleur, en souffrant",
+      "example": "Gemma closed her eyes in pain."
     },
     {
       "word": "in pairs",
@@ -17524,6 +17656,12 @@
       "example": "The rain drummed on the slate roof and the camping stove hissed under Solange's kettle."
     },
     {
+      "word": "Kettle",
+      "pos": "PROPN",
+      "translation": "Kettle (« Copper Kettle » : la Bouilloire en cuivre, nom d'un café)",
+      "example": "She kept her eyes away from the corner where the Copper Kettle was."
+    },
+    {
       "word": "kettle on",
       "pos": "PHRASE",
       "translation": "mets la bouilloire en route (« put the kettle on » : faire du thé)",
@@ -17672,6 +17810,12 @@
       "pos": "PROPN",
       "translation": "Kirkgate (dans « Kirkgate Market », grand marché couvert de Leeds)",
       "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
+    },
+    {
+      "word": "kiss",
+      "pos": "NOUN",
+      "translation": "le baiser, le bisou",
+      "example": "\"Cherries. Sweet as a first kiss."
     },
     {
       "word": "kiss",
@@ -18146,6 +18290,12 @@
       "pos": "NOUN",
       "translation": "le rire, les rires",
       "example": "Hundreds of colourful tents had been set up outside the city walls, and the air was filled with music, laughter and the smell of roasting meat."
+    },
+    {
+      "word": "launderette",
+      "pos": "NOUN",
+      "translation": "la laverie automatique",
+      "example": "It came up through the floor of her new flat, warm and sweet, from the launderette downstairs."
     },
     {
       "word": "Laura",
@@ -18730,6 +18880,12 @@
       "example": "Then there were lights coming down the hill, a great many of them, bobbing and swinging through the snow — and voices shouting his name — and a roar of flame that lit up the whole hillside orange, and turned the falling snow to steam."
     },
     {
+      "word": "lighthouse",
+      "pos": "NOUN",
+      "translation": "le phare",
+      "example": "On the fridge, under a magnet shaped like a lighthouse, there was a flyer."
+    },
+    {
       "word": "lightly",
       "pos": "ADV",
       "translation": "légèrement",
@@ -18898,6 +19054,12 @@
       "example": "The bandits are heading for Little Fenwick."
     },
     {
+      "word": "little by little",
+      "pos": "PHRASE",
+      "translation": "petit à petit, peu à peu",
+      "example": "It was strange, she thought, how much of yourself you could put away in a cupboard, little by little, until you forgot it was there."
+    },
+    {
       "word": "liturgical",
       "pos": "ADJ",
       "translation": "liturgique",
@@ -19058,6 +19220,12 @@
       "pos": "PHRASE",
       "translation": "s'occuper de, prendre soin de",
       "example": "My grandad looked after it for years and years."
+    },
+    {
+      "word": "look away",
+      "pos": "PHRASE",
+      "translation": "détourner le regard",
+      "example": "She remembered sitting on a bench near the war memorial, and crying in a way that made people look and then quickly look away."
     },
     {
       "word": "look down",
@@ -19419,6 +19587,12 @@
       "example": "\"No adverts, no magazines, no websites."
     },
     {
+      "word": "Magdalen",
+      "pos": "PROPN",
+      "translation": "Magdalen (« Magdalen Street » : rue du nord de Norwich)",
+      "example": "The flat was on Magdalen Street, in the north of Norwich."
+    },
+    {
       "word": "magic",
       "pos": "ADJ",
       "translation": "magique",
@@ -19519,6 +19693,12 @@
       "pos": "PHRASE",
       "translation": "faire la grimace",
       "example": "\"They call themselves the Heirs.\" She made a face."
+    },
+    {
+      "word": "make a joke",
+      "pos": "PHRASE",
+      "translation": "faire une blague, plaisanter",
+      "example": "So she did something she had not done for months: she made a joke."
     },
     {
       "word": "make a mess",
@@ -19674,6 +19854,12 @@
       "pos": "PROPN",
       "translation": "Marches (« marches », régions frontalières ; « the Cinder Marches » : les Marches de Cendre)",
       "example": "Twins from the Cinder Marches, both Fire: root, drop, root, drop."
+    },
+    {
+      "word": "Marcus",
+      "pos": "PROPN",
+      "translation": "Marcus (prénom)",
+      "example": "Five years of Marcus."
     },
     {
       "word": "Maren",
@@ -19898,6 +20084,12 @@
       "example": "And in May, after weeks of hesitation, she wrote her name on the list."
     },
     {
+      "word": "Maya",
+      "pos": "PROPN",
+      "translation": "Maya (prénom)",
+      "example": "Maya was grateful."
+    },
+    {
       "word": "maybe",
       "pos": "ADV",
       "translation": "peut-être",
@@ -20022,6 +20214,12 @@
       "pos": "ADJ",
       "translation": "mémorable",
       "example": "In forty years he had hauled steel coil, frozen fish, bagged cement and, on one memorable occasion, a dismantled fairground ride; the Duchess was rated for forty-four tonnes, and today she would be carrying barely six."
+    },
+    {
+      "word": "memorial",
+      "pos": "NOUN",
+      "translation": "le monument commémoratif, le mémorial",
+      "example": "She remembered sitting on a bench near the war memorial, and crying in a way that made people look and then quickly look away."
     },
     {
       "word": "memory",
@@ -20550,6 +20748,12 @@
       "pos": "PROPN",
       "translation": "Month (« mois » ; « Thaw-Month » : le Mois-du-Dégel)",
       "example": "The roads opened at the end of Thaw-Month."
+    },
+    {
+      "word": "mood",
+      "pos": "NOUN",
+      "translation": "l'humeur",
+      "example": "\"Sour ones free for people who are already in a bad mood.\""
     },
     {
       "word": "moon",
@@ -21602,6 +21806,12 @@
       "example": "\"Brought a Norwegian supply vessel in on the morning tide, flat calm, not a breath of wind. Easiest job I ever did. I remember being thoroughly disappointed. I'd always imagined I'd go out in some tremendous storm.\""
     },
     {
+      "word": "Norwich",
+      "pos": "PROPN",
+      "translation": "Norwich (ville de l'est de l'Angleterre)",
+      "example": "The flat was on Magdalen Street, in the north of Norwich."
+    },
+    {
       "word": "nose",
       "pos": "NOUN",
       "translation": "le nez, le museau",
@@ -22231,6 +22441,12 @@
       "example": "His grandmother lived in Ravensby, a small village on the other side of the moor, about twenty kilometres north."
     },
     {
+      "word": "on the outside",
+      "pos": "PHRASE",
+      "translation": "à l'extérieur, en apparence",
+      "example": "\"Serious on the outside. Sweet in the middle.\""
+    },
+    {
       "word": "on the right",
       "pos": "PHRASE",
       "translation": "à droite, sur la droite",
@@ -22487,6 +22703,12 @@
       "pos": "NOUN",
       "translation": "le verger",
       "example": "Letters from village elders asking whether the Wood-boy might visit and bless their orchards."
+    },
+    {
+      "word": "Orchard",
+      "pos": "PROPN",
+      "translation": "le Verger (« Brannock's Orchard » : le verger de Brannock)",
+      "example": "\"Brannock's Orchard. The first cherries of summer."
     },
     {
       "word": "order",
@@ -23317,6 +23539,12 @@
       "example": "Bram had drawn the cart up beside the cooper's yard to unload, and a pedlar Rowan didn't recognise — a stooped, sharp-eyed woman with a tray of tin pots and needles slung from her neck — had sidled up to him and was talking in a low, urgent voice."
     },
     {
+      "word": "peel",
+      "pos": "VERB",
+      "translation": "peler, s'éplucher (jeu de mots avec « feeling » : se sentir)",
+      "example": "\"Because it wasn't peeling very well.\""
+    },
+    {
       "word": "peer",
       "pos": "VERB",
       "translation": "scruter, regarder attentivement",
@@ -23795,6 +24023,12 @@
       "pos": "NOUN",
       "translation": "la pinte (≈ 0,57 l)",
       "example": "He was sitting in the pub for the first time in years, with a pint of beer and half the village around him, and he looked almost comfortable."
+    },
+    {
+      "word": "Pip",
+      "pos": "PROPN",
+      "translation": "Pip (surnom ; « pip » : le pépin, le noyau)",
+      "example": "Her grandmother had called her \"Pip\", like the stone in the middle of a cherry, because she was small and hard to get rid of."
     },
     {
       "word": "pipe",
@@ -25115,6 +25349,12 @@
       "pos": "VERB",
       "translation": "mettre, poser",
       "example": "He puts his arms up. — Il lève les bras."
+    },
+    {
+      "word": "put away",
+      "pos": "PHRASE",
+      "translation": "ranger, mettre de côté",
+      "example": "It was strange, she thought, how much of yourself you could put away in a cupboard, little by little, until you forgot it was there."
     },
     {
       "word": "put back",
@@ -26518,6 +26758,12 @@
       "pos": "ADJ",
       "translation": "riche",
       "example": "Someone rich is paying them."
+    },
+    {
+      "word": "rid",
+      "pos": "VERB",
+      "translation": "débarrasser (« get rid of » : se débarrasser de)",
+      "example": "Her grandmother had called her \"Pip\", like the stone in the middle of a cherry, because she was small and hard to get rid of."
     },
     {
       "word": "ride",
@@ -28368,6 +28614,18 @@
       "example": "Peering through a gap between the loft boards, Rowan could make out none of the words, only their shape: a quick, slanting hand, nothing like his uncle's laborious capitals."
     },
     {
+      "word": "shape",
+      "pos": "VERB",
+      "translation": "façonner, former (« shaped like » : en forme de)",
+      "example": "On the fridge, under a magnet shaped like a lighthouse, there was a flyer."
+    },
+    {
+      "word": "shaped like",
+      "pos": "PHRASE",
+      "translation": "en forme de",
+      "example": "On the fridge, under a magnet shaped like a lighthouse, there was a flyer."
+    },
+    {
       "word": "share",
       "pos": "NOUN",
       "translation": "la part",
@@ -30180,6 +30438,12 @@
       "example": "I phoned. I cried. She came round with soup. She didn't mind."
     },
     {
+      "word": "sour",
+      "pos": "ADJ",
+      "translation": "acide, aigre",
+      "example": "\"Sour ones free for people who are already in a bad mood.\""
+    },
+    {
       "word": "source",
       "pos": "NOUN",
       "translation": "la source",
@@ -30684,6 +30948,12 @@
       "example": "But Hale stopped two steps above him, and for a moment the two of them simply looked at each other in the dim, curving stairwell, while the warmth that always hung around Hale crept out over the cold stone like breath."
     },
     {
+      "word": "stalk",
+      "pos": "NOUN",
+      "translation": "la queue (d'un fruit), la tige",
+      "example": "It was printed on thick, cream-coloured paper, and in the middle there was a drawing of two red cherries on one stalk."
+    },
+    {
       "word": "stall",
       "pos": "NOUN",
       "translation": "l'étal, le stand (« pie stall » : le stand de tourtes)",
@@ -30778,6 +31048,12 @@
       "pos": "PROPN",
       "translation": "Stanley (prénom)",
       "example": "\"Quill. Stanley Quill.\""
+    },
+    {
+      "word": "Stannard",
+      "pos": "PROPN",
+      "translation": "Stannard (nom de famille)",
+      "example": "\"I can't take that, Mrs Stannard,\" he was saying."
     },
     {
       "word": "star",
@@ -31482,6 +31758,18 @@
       "example": "Bram stripped the fallen oak with short, economical strokes while Rowan dragged the branches to the pile and sorted them by thickness: kindling, fencing, firewood, nothing wasted."
     },
     {
+      "word": "stripe",
+      "pos": "NOUN",
+      "translation": "la rayure, la bande",
+      "example": "Norwich Market lay below the City Hall like a box of sweets: hundreds of stalls under roofs of red, yellow, blue and green stripes."
+    },
+    {
+      "word": "striped",
+      "pos": "ADJ",
+      "translation": "rayé",
+      "example": "It was simple: a long wooden table, a green-and-white striped roof, and boxes and boxes of cherries, so red and so shiny that they looked almost false."
+    },
+    {
       "word": "stripper",
       "pos": "NOUN",
       "translation": "le décapant (« paint stripper » : décapant pour peinture)",
@@ -31692,6 +31980,12 @@
       "example": "Harry looked at her over his glasses with an expression of deep suffering."
     },
     {
+      "word": "Suffolk",
+      "pos": "PROPN",
+      "translation": "Suffolk (comté de l'est de l'Angleterre)",
+      "example": "When she was a child, her grandmother had had a cherry tree at the bottom of her garden in Suffolk, and every July Maya had climbed it and eaten until her fingers were red and her stomach hurt."
+    },
+    {
       "word": "sugar",
       "pos": "NOUN",
       "translation": "le sucre",
@@ -31774,6 +32068,12 @@
       "pos": "NOUN",
       "translation": "le soleil",
       "example": "The sun is hot. — Le soleil est chaud."
+    },
+    {
+      "word": "sunburnt",
+      "pos": "ADJ",
+      "translation": "brûlé par le soleil, qui a pris un coup de soleil",
+      "example": "He was tall, with untidy brown hair, a sunburnt nose and a green apron that said \"Brannock's\" across the front."
     },
     {
       "word": "Sunday",
@@ -33635,6 +33935,12 @@
       "example": "Her tail is long and thin, and one of her ears has a little cut at the top."
     },
     {
+      "word": "top ten",
+      "pos": "PHRASE",
+      "translation": "le top dix, les dix premiers",
+      "example": "\"But I'm sorry if it's in the top ten.\""
+    },
+    {
       "word": "torch",
       "pos": "NOUN",
       "translation": "la torche",
@@ -34919,6 +35225,12 @@
       "example": "\"Can I help you?\" she asked, a little unsure."
     },
     {
+      "word": "Unthank",
+      "pos": "PROPN",
+      "translation": "Unthank (« Unthank Road » : rue de Norwich)",
+      "example": "Before Magdalen Street, there had been Unthank Road, and a flat with a blue front door, and Marcus."
+    },
+    {
       "word": "untidy",
       "pos": "ADJ",
       "translation": "en désordre, mal peigné",
@@ -35590,6 +35902,12 @@
       "example": "Rowan walked out into the middle of it alone, his boots crunching on the frost, and the silence followed him the whole way like a dog at his heels."
     },
     {
+      "word": "walk out of",
+      "pos": "PHRASE",
+      "translation": "sortir de, quitter (à pied)",
+      "example": "She remembered walking out of the café."
+    },
+    {
       "word": "walk over",
       "pos": "PHRASE",
       "translation": "s'approcher (à pied)",
@@ -35672,6 +35990,18 @@
       "pos": "VERB",
       "translation": "vouloir",
       "example": "Do you want a hot chocolate? — Tu veux un chocolat chaud ?"
+    },
+    {
+      "word": "war",
+      "pos": "NOUN",
+      "translation": "la guerre",
+      "example": "She remembered sitting on a bench near the war memorial, and crying in a way that made people look and then quickly look away."
+    },
+    {
+      "word": "war memorial",
+      "pos": "PHRASE",
+      "translation": "le monument aux morts",
+      "example": "She remembered sitting on a bench near the war memorial, and crying in a way that made people look and then quickly look away."
     },
     {
       "word": "warden",

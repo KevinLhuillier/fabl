@@ -556,6 +556,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "change",
+      "pos": "VERB",
+      "next": ",",
+      "word": "change",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Chin",
       "pos": "PROPN",
       "word": "chin",
@@ -668,6 +675,12 @@
       "text": "colossal",
       "pos": "NOUN",
       "word": "colossal",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "coloured",
+      "pos": "VERB",
+      "word": "coloured",
       "lemmaPos": "ADJ"
     },
     {
@@ -886,6 +899,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "Define",
+      "pos": "NOUN",
+      "word": "define",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Departures",
       "pos": "PROPN",
       "word": "departure",
@@ -965,6 +984,12 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "downstairs",
+      "pos": "NOUN",
+      "word": "downstairs",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "drew",
       "pos": "NOUN",
       "word": "draw",
@@ -1005,6 +1030,12 @@
       "pos": "PROPN",
       "word": "easy",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "eaten",
+      "pos": "VERB",
+      "word": "eat",
+      "lemmaPos": "VERB"
     },
     {
       "text": "Edric",
@@ -1536,6 +1567,13 @@
       "text": "green",
       "pos": "PROPN",
       "word": "green",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "grey",
+      "pos": "NOUN",
+      "next": "Saturday",
+      "word": "grey",
       "lemmaPos": "ADJ"
     },
     {
@@ -2293,6 +2331,13 @@
       "pos": "PROPN",
       "word": "Maxence",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "meaning",
+      "pos": "NOUN",
+      "next": "to",
+      "word": "mean",
+      "lemmaPos": "VERB"
     },
     {
       "text": "melt",
@@ -3899,6 +3944,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "sweetest",
+      "pos": "NOUN",
+      "word": "sweet",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Swept",
       "pos": "PROPN",
       "word": "sweep",
@@ -4045,6 +4096,13 @@
       "pos": "NOUN",
       "word": "thanks",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "That",
+      "pos": "SCONJ",
+      "next": ",",
+      "word": "that",
+      "lemmaPos": "PRON"
     },
     {
       "text": "thermos",
