@@ -1222,6 +1222,12 @@
       "example": "The trees grew taller and further apart; the road widened and was paved, here and there, with great worn slabs of stone that Gethin said had been laid in the time of the Wood-wardens and never once repaired."
     },
     {
+      "word": "apart from",
+      "pos": "PHRASE",
+      "translation": "à part, sauf",
+      "example": "There had been no woman in the photographs at the farmhouse, she said, apart from Tess."
+    },
+    {
       "word": "apartment",
       "pos": "NOUN",
       "translation": "l'appartement",
@@ -5536,6 +5542,12 @@
       "pos": "PHRASE",
       "translation": "la cueillette des cerises",
       "example": "\"Maya, it's cherry picking, not a wedding."
+    },
+    {
+      "word": "chess",
+      "pos": "NOUN",
+      "translation": "les échecs (le jeu)",
+      "example": "There were ducks and seagulls and the old men who played chess outside the library."
     },
     {
       "word": "chest",
@@ -15748,7 +15760,7 @@
     {
       "word": "hold back",
       "pos": "PHRASE",
-      "translation": "retenir, contenir",
+      "translation": "retenir, contenir ; (« hold it back » : la serrer en retour, pour une main)",
       "example": "The cellar was small and round and very dry, and its walls were not walls at all, but roots: hundreds of them, thick and thin, woven together like the strands of a basket, holding back the earth on every side."
     },
     {
@@ -17404,6 +17416,12 @@
       "example": "All the way round the Ring, every branch was bending slowly inwards, towards the floor, towards the centre, towards him, like a wall of saplings turning their faces to the sun."
     },
     {
+      "word": "Ipswich",
+      "pos": "PROPN",
+      "translation": "Ipswich (ville du Suffolk)",
+      "example": "She'd met a man from Ipswich."
+    },
+    {
       "word": "iron",
       "pos": "NOUN",
       "translation": "le fer (« iron-grey » : gris acier)",
@@ -17438,6 +17456,12 @@
       "pos": "PRON",
       "translation": "il, elle, ce",
       "example": "It is Saturday. — C'est samedi."
+    },
+    {
+      "word": "Italian",
+      "pos": "ADJ",
+      "translation": "italien",
+      "example": "She told Gemma on Monday, at lunch, in the little Italian café near the library."
     },
     {
       "word": "itch",
@@ -21734,6 +21758,18 @@
       "example": "A new friend. — Un nouvel ami."
     },
     {
+      "word": "New",
+      "pos": "PROPN",
+      "translation": "New (dans « New Year » : le Nouvel An)",
+      "example": "Giving it up had been one of her New Year's promises, and it was the only one she had kept."
+    },
+    {
+      "word": "new year",
+      "pos": "PHRASE",
+      "translation": "le Nouvel An, la nouvelle année (« New Year's promises » : les bonnes résolutions)",
+      "example": "Giving it up had been one of her New Year's promises, and it was the only one she had kept."
+    },
+    {
       "word": "Newcastle",
       "pos": "PROPN",
       "translation": "Newcastle (ville du nord-est de l'Angleterre)",
@@ -21810,6 +21846,12 @@
       "pos": "NOUN",
       "translation": "l'entaille ; (fam.) l'état, la forme (« in better nick » : en meilleur état)",
       "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
+    },
+    {
+      "word": "nickname",
+      "pos": "NOUN",
+      "translation": "le surnom",
+      "example": "\"And he guessed your nickname, because you're small and he sells cherries.\""
     },
     {
       "word": "night",
@@ -22392,6 +22434,12 @@
       "pos": "VERB",
       "translation": "se produire (« it never occurred to her » : il ne lui était jamais venu à l'esprit)",
       "example": "It had never occurred to her that R. could be tired, or sad, or lost."
+    },
+    {
+      "word": "occur to",
+      "pos": "PHRASE",
+      "translation": "venir à l'esprit de (« it did not occur to her » : il ne lui est pas venu à l'idée)",
+      "example": "It did not occur to her until much later that it was also a perfect explanation, and that perfect explanations can be the most dangerous kind."
     },
     {
       "word": "October",
@@ -23801,6 +23849,12 @@
       "pos": "VERB",
       "translation": "payer",
       "example": "His father, a poor farmer, had sold two cows to pay for the journey."
+    },
+    {
+      "word": "pay attention",
+      "pos": "PHRASE",
+      "translation": "faire attention, prêter attention",
+      "example": "\"Marcus never paid attention to you."
     },
     {
       "word": "pea",
@@ -26041,6 +26095,12 @@
       "example": "And near the back, alone by the window, a girl of about sixteen in a yellow raincoat, holding a strange lantern on her knees."
     },
     {
+      "word": "rainy",
+      "pos": "ADJ",
+      "translation": "pluvieux",
+      "example": "\"On the rainy day, when she gave us tea."
+    },
+    {
       "word": "raise",
       "pos": "VERB",
       "translation": "lever",
@@ -28086,6 +28146,12 @@
       "example": "It is Saturday. — C'est samedi."
     },
     {
+      "word": "sauce",
+      "pos": "NOUN",
+      "translation": "la sauce",
+      "example": "Leo kept stirring the sauce."
+    },
+    {
       "word": "saucer",
       "pos": "NOUN",
       "translation": "la soucoupe",
@@ -28588,6 +28654,12 @@
       "pos": "VERB",
       "translation": "voir",
       "example": "Mia sees the tree. — Mia voit l'arbre."
+    },
+    {
+      "word": "see it coming",
+      "pos": "PHRASE",
+      "translation": "le voir venir (« never saw it coming » : ne s'y attendait pas du tout)",
+      "example": "\"My dad never saw it coming."
     },
     {
       "word": "see to it",
@@ -30552,6 +30624,12 @@
       "example": "How, one winter night twenty years ago, she had come to the Warden's door in the small hours, soaked to the skin and shaking, with a young woodcutter from Brackenford at her side, and told her that three men had tried to take her on the causeway."
     },
     {
+      "word": "soaking wet",
+      "pos": "PHRASE",
+      "translation": "trempé jusqu'aux os",
+      "example": "\"You were soaking wet,\" said Leo, smiling."
+    },
+    {
       "word": "soap",
       "pos": "NOUN",
       "translation": "le savon",
@@ -32488,6 +32566,12 @@
       "pos": "ADJ",
       "translation": "brûlé par le soleil, qui a pris un coup de soleil",
       "example": "He was tall, with untidy brown hair, a sunburnt nose and a green apron that said \"Brannock's\" across the front."
+    },
+    {
+      "word": "suncream",
+      "pos": "NOUN",
+      "translation": "la crème solaire",
+      "example": "In the evenings the pubs put tables outside, and the streets smelled of beer and suncream and cut grass."
     },
     {
       "word": "Sunday",
@@ -37940,6 +38024,12 @@
       "pos": "NOUN",
       "translation": "l'année, l'an",
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "Year",
+      "pos": "PROPN",
+      "translation": "Year (dans « New Year » : le Nouvel An ; « year » : l'année)",
+      "example": "Giving it up had been one of her New Year's promises, and it was the only one she had kept."
     },
     {
       "word": "year-old",

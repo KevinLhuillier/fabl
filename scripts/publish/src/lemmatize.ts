@@ -58,7 +58,7 @@ export async function lemmatizePassages(passages: string[][]): Promise<Token[][]
           position: tokens.length,
           text: t.text,
           whitespace: isLastOfLine && !isLastLine ? '\n' : t.ws,
-          lemma: toLemma(t, lineTokens[i + 1]),
+          lemma: toLemma(t, lineTokens[i - 1], lineTokens[i + 1]),
         });
       });
     });
@@ -73,27 +73,46 @@ export async function lemmatizePassages(passages: string[][]): Promise<Token[][]
  * - AUX is merged into VERB ("is" → be/VERB): learners don't need the split;
  * - lowercase, except proper nouns and the pronoun "I".
  */
-function toLemma(t: SpacyToken, next?: SpacyToken): LemmaKey | null {
+function toLemma(t: SpacyToken, prev?: SpacyToken, next?: SpacyToken): LemmaKey | null {
   if (!HAS_LETTER.test(t.text) || t.pos === 'PUNCT' || t.pos === 'SPACE') return null;
   const pos = t.pos === 'AUX' ? 'VERB' : t.pos;
-  const fix =
-    lemmaFixes().get(`${t.text}|${pos}|${next?.text.toLowerCase() ?? ''}`) ??
-    lemmaFixes().get(`${t.text}|${pos}`);
+  // Most specific first: previous and next token, previous only, next only, none.
+  const before = prev?.text.toLowerCase() ?? '';
+  const after = next?.text.toLowerCase() ?? '';
+  const contexts: [string, string][] = [
+    [before, after],
+    [before, ''],
+    ['', after],
+    ['', ''],
+  ];
+  const fix = contexts.map(([p, n]) => lemmaFixes().get(fixKey(t.text, pos, p, n))).find(Boolean);
   if (fix) return fix;
   const raw = t.lemma.trim() || t.text;
   const word = pos === 'PROPN' || raw === 'I' ? raw : raw.toLowerCase();
   return { word, pos };
 }
 
-type LemmaFix = { text: string; pos: string; next?: string; word: string; lemmaPos: string };
+type LemmaFix = {
+  text: string;
+  pos: string;
+  prev?: string;
+  next?: string;
+  word: string;
+  lemmaPos: string;
+};
 
 let fixes: Map<string, LemmaKey> | null = null;
+
+/** '' stands for "any token" (a fix without `prev` / `next`). */
+const fixKey = (text: string, pos: string, prev: string, next: string) =>
+  [text, pos, prev, next].join('|');
 
 /**
  * Corrections for spaCy's mistakes ("soles" → sol instead of sole), from
  * content/lemma-fixes.json: exact token text + spaCy POS (AUX already as VERB),
- * and optionally the text of the next token, for a fix that only holds in one
- * context ("Well, well" is not the Well of another story).
+ * and optionally the text of the previous and/or next token, for a fix that only
+ * holds in one context ("Well, well" is not the Well of another story; "the
+ * cherry drawing on the fridge" is a noun, "she was drawing on it" a verb).
  */
 function lemmaFixes(): Map<string, LemmaKey> {
   if (fixes) return fixes;
@@ -103,7 +122,7 @@ function lemmaFixes(): Map<string, LemmaKey> {
     : [];
   fixes = new Map(
     list.map((f) => [
-      [f.text, f.pos, ...(f.next === undefined ? [] : [f.next.toLowerCase()])].join('|'),
+      fixKey(f.text, f.pos, f.prev?.toLowerCase() ?? '', f.next?.toLowerCase() ?? ''),
       { word: f.word, pos: f.lemmaPos },
     ]),
   );

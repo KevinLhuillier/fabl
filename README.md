@@ -388,6 +388,9 @@ A fix can be limited to one context with `next`, the text of the following token
 included); it wins over the fix without `next`. "Well" is always the Well of _Hollow Wilds_,
 except before a comma:
 `{ "text": "Well", "pos": "INTJ", "next": ",", "word": "well", "lemmaPos": "INTJ" }`.
+`prev`, the text of the previous token, works the same way (both can be combined; the most
+specific fix wins): "the cherry drawing on the fridge" is a noun, "she was drawing on it" a verb:
+`{ "text": "drawing", "pos": "VERB", "prev": "cherry", "word": "drawing", "lemmaPos": "NOUN" }`.
 
 ## Scripts
 

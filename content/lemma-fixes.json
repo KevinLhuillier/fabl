@@ -1015,6 +1015,13 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "drawing",
+      "pos": "VERB",
+      "prev": "cherry",
+      "word": "drawing",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "drew",
       "pos": "NOUN",
       "word": "draw",
@@ -1938,6 +1945,12 @@
       "pos": "PROPN",
       "word": "iron",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Italian",
+      "pos": "ADJ",
+      "word": "Italian",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "ivy",
@@ -4436,6 +4449,12 @@
       "text": "valley",
       "pos": "PROPN",
       "word": "valley",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "van",
+      "pos": "PROPN",
+      "word": "van",
       "lemmaPos": "NOUN"
     },
     {
