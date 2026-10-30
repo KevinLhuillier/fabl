@@ -311,6 +311,12 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "BETSTAR",
+      "pos": "PROPN",
+      "word": "BetStar",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "bin",
       "pos": "PROPN",
       "word": "bin",
@@ -1173,6 +1179,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "doubt",
+      "pos": "ADJ",
+      "prev": "was",
+      "word": "doubt",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "down",
       "pos": "ADJ",
       "prev": "-",
@@ -1388,6 +1401,12 @@
       "pos": "NOUN",
       "word": "Fall",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Family",
+      "pos": "PROPN",
+      "word": "family",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Fare",
@@ -1637,6 +1656,13 @@
       "pos": "PROPN",
       "word": "fuss",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "gambles",
+      "pos": "NOUN",
+      "prev": "Hartley",
+      "word": "gamble",
+      "lemmaPos": "VERB"
     },
     {
       "text": "Gaz",
@@ -1944,6 +1970,12 @@
     {
       "text": "HARTLEY",
       "pos": "PROPN",
+      "word": "Hartley",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "HARTLEY'S.",
+      "pos": "INTJ",
       "word": "Hartley",
       "lemmaPos": "PROPN"
     },
@@ -3435,6 +3467,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Poor",
+      "pos": "PROPN",
+      "word": "poor",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Post",
       "pos": "PROPN",
       "next": ".",
@@ -3479,6 +3517,12 @@
       "pos": "PROPN",
       "word": "probationary",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "proof",
+      "pos": "ADJ",
+      "word": "proof",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Proud",
@@ -4637,6 +4681,12 @@
     {
       "text": "tattoo",
       "pos": "ADV",
+      "word": "tattoo",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "tattoo",
+      "pos": "ADV",
       "next": "of",
       "word": "tattoo",
       "lemmaPos": "NOUN"
@@ -5074,6 +5124,12 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "USB",
+      "pos": "NOUN",
+      "word": "USB",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "valley",
       "pos": "PROPN",
       "word": "valley",
@@ -5306,6 +5362,12 @@
       "text": "windscreen",
       "pos": "ADJ",
       "word": "windscreen",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "winnings",
+      "pos": "NOUN",
+      "word": "winnings",
       "lemmaPos": "NOUN"
     },
     {

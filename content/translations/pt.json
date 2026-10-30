@@ -2443,6 +2443,18 @@
       "example": "A fire was burning in the middle of it, banked low."
     },
     {
+      "word": "bank record",
+      "pos": "PHRASE",
+      "translation": "o registro bancário (“bank records”: os extratos bancários)",
+      "example": "\"The bank records came in at seven.\""
+    },
+    {
+      "word": "bank statement",
+      "pos": "PHRASE",
+      "translation": "o extrato bancário",
+      "example": "She read bank statements the way other people read novels, with a pen in her hand and her lips moving slightly."
+    },
+    {
       "word": "banked",
       "pos": "ADJ",
       "translation": "(fogo) abafado (para durar)",
@@ -3096,6 +3108,18 @@
       "example": "Sir Hugh of Blackmoor, you have betrayed your oath, your king and the people you were supposed to protect."
     },
     {
+      "word": "BetStar",
+      "pos": "PROPN",
+      "translation": "BetStar (nome de um site de apostas)",
+      "example": "Again and again, in Mark's personal account, there was the same name: BETSTAR ONLINE."
+    },
+    {
+      "word": "betting",
+      "pos": "NOUN",
+      "translation": "as apostas (“online betting”: as apostas online)",
+      "example": "\"Online betting,\" said Nadia. \"Football, horses, casino games."
+    },
+    {
       "word": "between",
       "pos": "ADP",
       "translation": "entre (dois)",
@@ -3274,6 +3298,12 @@
       "pos": "NOUN",
       "translation": "o preto (“in black”: de preto, com tinta preta)",
       "example": "Her nineteen-year-old self, frightened and furious and funny, writing night after night in black."
+    },
+    {
+      "word": "black and white",
+      "pos": "PHRASE",
+      "translation": "em preto e branco",
+      "example": "It was black and white, a bit blurry, with the date and time in the corner."
     },
     {
       "word": "blackbird",
@@ -3532,6 +3562,12 @@
       "pos": "ADJ",
       "translation": "borrado, desfocado",
       "example": "Under the headline STUDENT INJURED DURING OFFICIAL VISIT, there was a slightly blurred photograph of an ambulance."
+    },
+    {
+      "word": "blurry",
+      "pos": "ADJ",
+      "translation": "desfocado, embaçado",
+      "example": "It was black and white, a bit blurry, with the date and time in the corner."
     },
     {
       "word": "blush",
@@ -4234,6 +4270,12 @@
       "pos": "PROPN",
       "translation": "Bristol (grande cidade do sudoeste da Inglaterra)",
       "example": "He smiled, he said \"Good morning, Tom,\" and he talked about the weather or about Bristol City's last match."
+    },
+    {
+      "word": "Britain",
+      "pos": "PROPN",
+      "translation": "a Grã-Bretanha",
+      "example": "Getting someone's bank records was not easy in Britain."
     },
     {
       "word": "broad",
@@ -5244,6 +5286,12 @@
       "example": "The women gathered buckets of water in case of fire."
     },
     {
+      "word": "case file",
+      "pos": "PHRASE",
+      "translation": "o processo, o dossiê do caso",
+      "example": "Nadia sighed and saved the video in the case file."
+    },
+    {
       "word": "cash",
       "pos": "NOUN",
       "translation": "o dinheiro vivo, em espécie",
@@ -5266,6 +5314,12 @@
       "pos": "NOUN",
       "translation": "a carcaça, o invólucro",
       "example": "It was a cheap plastic bicycle light, the kind that clipped onto handlebars, its red casing faded almost to pink."
+    },
+    {
+      "word": "casino",
+      "pos": "NOUN",
+      "translation": "o cassino",
+      "example": "\"Online betting,\" said Nadia. \"Football, horses, casino games."
     },
     {
       "word": "cask",
@@ -8406,6 +8460,12 @@
       "example": "But she made him promise three things before she cycled away."
     },
     {
+      "word": "D",
+      "pos": "PROPN",
+      "translation": "D (inicial de um nome)",
+      "example": "Since July, at the beginning of every month, Mark's account sent five hundred pounds to another account, with a short reference: D HARTLEY."
+    },
+    {
       "word": "D.",
       "pos": "PROPN",
       "translation": "D. (inicial de um nome)",
@@ -8674,6 +8734,12 @@
       "pos": "NOUN",
       "translation": "a morte",
       "example": "He had shared his cab before, with trainees and with the occasional stranded colleague, but never with anyone quite like the Beatons, who seemed to regard their predicament as a mildly diverting episode rather than a brush with death."
+    },
+    {
+      "word": "debt",
+      "pos": "NOUN",
+      "translation": "a dívida",
+      "example": "\"So our nice, careful baker with flour on his sleeves has a gambling problem and a debt. That's a motive, Tom."
     },
     {
       "word": "decade",
@@ -9618,10 +9684,22 @@
       "example": "For a second he was taller than anyone in the canteen, and Noé saw a flicker of doubt cross Maxence's face."
     },
     {
+      "word": "doubt",
+      "pos": "VERB",
+      "translation": "duvidar de",
+      "example": "She was doubting him."
+    },
+    {
       "word": "doughnut",
       "pos": "NOUN",
       "translation": "a rosquinha, o donut",
       "example": "Kirkgate Market was full of noise and colour: fishmongers shouting prices, stalls selling phone cases, spices, sweets and cheap trainers, the smell of hot doughnuts everywhere."
+    },
+    {
+      "word": "Douglas",
+      "pos": "PROPN",
+      "translation": "Douglas (nome)",
+      "example": "His dad was called Douglas, I think Mrs Hartley said, but he's dead."
     },
     {
       "word": "dowager",
@@ -11218,6 +11296,12 @@
       "example": "For example, I know that the man in the ground-floor flat across the street never opens his curtains."
     },
     {
+      "word": "excellent",
+      "pos": "ADJ",
+      "translation": "excelente",
+      "example": "The manager there confirmed that Priya Shah had worked a trial shift on Sunday from twelve until six, and that she had been \"excellent, actually; we're going to offer her the job.\""
+    },
+    {
       "word": "except",
       "pos": "SCONJ",
       "translation": "exceto, salvo (“except for”: a não ser por)",
@@ -12104,6 +12188,12 @@
       "pos": "NOUN",
       "translation": "a miniatura, a estatueta",
       "example": "Shelves full of rulebooks, maps and plastic figurines that Arthur painted himself with a brush so fine it had only three hairs."
+    },
+    {
+      "word": "file",
+      "pos": "NOUN",
+      "translation": "o arquivo, o dossiê",
+      "example": "\"Can you get me a copy for the file?\""
     },
     {
       "word": "file",
@@ -13870,6 +13960,24 @@
       "example": "The crowd fell silent as the two horses began to gallop towards each other, the ground shaking beneath their hooves."
     },
     {
+      "word": "gamble",
+      "pos": "VERB",
+      "translation": "apostar, jogar (dinheiro)",
+      "example": "\"Mark Hartley gambles. Mark Hartley owes money."
+    },
+    {
+      "word": "gambling",
+      "pos": "NOUN",
+      "translation": "o jogo (de azar)",
+      "example": "\"So our nice, careful baker with flour on his sleeves has a gambling problem and a debt. That's a motive, Tom."
+    },
+    {
+      "word": "gambling problem",
+      "pos": "PHRASE",
+      "translation": "o vício em jogo",
+      "example": "\"So our nice, careful baker with flour on his sleeves has a gambling problem and a debt. That's a motive, Tom."
+    },
+    {
       "word": "game",
       "pos": "NOUN",
       "translation": "a partida, o jogo",
@@ -13928,6 +14036,12 @@
       "pos": "NOUN",
       "translation": "o jardineiro",
       "example": "The gardener has been asking for help for years, and nobody has ever been able to spare him any."
+    },
+    {
+      "word": "gardening",
+      "pos": "NOUN",
+      "translation": "a jardinagem",
+      "example": "A subscription to a gardening magazine."
     },
     {
       "word": "Gare",
@@ -17510,6 +17624,12 @@
       "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
     },
     {
+      "word": "in black and white",
+      "pos": "PHRASE",
+      "translation": "preto no branco, por escrito",
+      "example": "Nadia had found the reason in the alarm records and in Mark's lie, which was now written in black and white: a man who said he went to bed at half past nine, and a bakery that was opened at nine forty-eight with his code."
+    },
+    {
       "word": "in blossom",
       "pos": "PHRASE",
       "translation": "em flor",
@@ -17733,6 +17853,12 @@
       "pos": "PHRASE",
       "translation": "na história (“if I weren't in the picture”: se eu não fizesse parte disso)",
       "example": "Do whatever you would do if I weren't in the picture at all."
+    },
+    {
+      "word": "in the right place at the right time",
+      "pos": "PHRASE",
+      "translation": "no lugar certo na hora certa",
+      "example": "She said he had been \"in the right place at the right time\", which was true, more or less."
     },
     {
       "word": "in the shape of",
@@ -18728,6 +18854,12 @@
       "pos": "NOUN",
       "translation": "o lixo, a tranqueira («piece of junk»: velharia)",
       "example": "It was a ridiculous price for a heavy piece of junk, and Max knew it."
+    },
+    {
+      "word": "jury",
+      "pos": "NOUN",
+      "translation": "o júri",
+      "example": "\"I want a face, a fingerprint, a witness, something a jury can understand."
     },
     {
       "word": "just",
@@ -20432,6 +20564,12 @@
       "pos": "NOUN",
       "translation": "o filão (“a loaf of bread”: um pão)",
       "example": "Each year's roll was as thick as a loaf of bread, and listed every student by name, house and village, in alphabetical order."
+    },
+    {
+      "word": "loan",
+      "pos": "NOUN",
+      "translation": "o empréstimo",
+      "example": "\"In March, he took a personal loan. Eight thousand pounds. He's still paying it back, three hundred a month.\""
     },
     {
       "word": "local",
@@ -22328,6 +22466,12 @@
       "example": "It happened in a single night, the way it did, Moss said, perhaps once in a generation: one evening the water lay black and still under a low grey sky, and the next morning it had turned to a single vast sheet of iron-grey ice, so thick and so clear that the students who crept down to the shore could see pale weeds hanging motionless far beneath it, like hair in a sleeping face."
     },
     {
+      "word": "motive",
+      "pos": "NOUN",
+      "translation": "o motivo (de um crime)",
+      "example": "\"So our nice, careful baker with flour on his sleeves has a gambling problem and a debt. That's a motive, Tom."
+    },
+    {
       "word": "motorbike",
       "pos": "NOUN",
       "translation": "a moto",
@@ -24085,6 +24229,12 @@
       "example": "Not a professional one, not one of those people who earned money by playing in front of thousands of viewers online."
     },
     {
+      "word": "online betting",
+      "pos": "PHRASE",
+      "translation": "as apostas online",
+      "example": "\"Online betting,\" said Nadia. \"Football, horses, casino games."
+    },
+    {
       "word": "only",
       "pos": "ADJ",
       "translation": "único, só",
@@ -24973,6 +25123,12 @@
       "example": "Mistress Crane, gliding past on her way to the door, paused beside his desk, looked at the untouched objects, then at the smear of red on his cuff."
     },
     {
+      "word": "past",
+      "pos": "NOUN",
+      "translation": "o passado (“half past eleven”: onze e meia)",
+      "example": "At half past eleven, she put her pen down and said, \"Found it.\""
+    },
+    {
       "word": "pasta",
       "pos": "NOUN",
       "translation": "o macarrão, a massa",
@@ -25097,6 +25253,18 @@
       "pos": "PHRASE",
       "translation": "prestar atenção",
       "example": "\"Marcus never paid attention to you."
+    },
+    {
+      "word": "pay back",
+      "pos": "PHRASE",
+      "translation": "pagar de volta, reembolsar",
+      "example": "\"In March, he took a personal loan. Eight thousand pounds. He's still paying it back, three hundred a month.\""
+    },
+    {
+      "word": "payment",
+      "pos": "NOUN",
+      "translation": "o pagamento",
+      "example": "Payments to the flour company, the electricity company, the milk supplier."
     },
     {
       "word": "PC",
@@ -25325,6 +25493,12 @@
       "pos": "ADJ",
       "translation": "pessoal",
       "example": "They stopped that night at a waystation on the edge of the Deepwood: a long, low timber hall with a turf roof, a well, a paddock for the oxen, and a keeper who seemed to regard the arrival of two dozen hungry children as a personal misfortune."
+    },
+    {
+      "word": "personal loan",
+      "pos": "PHRASE",
+      "translation": "o empréstimo pessoal",
+      "example": "\"In March, he took a personal loan. Eight thousand pounds. He's still paying it back, three hundred a month.\""
     },
     {
       "word": "personally",
@@ -26973,7 +27147,7 @@
     {
       "word": "pull in",
       "pos": "PHRASE",
-      "translation": "encostar, parar",
+      "translation": "encostar, parar ; (polícia) deter, levar para a delegacia (“pull him in”)",
       "example": "He pulled in to check the forecast, found it unchanged and ominous, and sat for a full minute with his hands on the wheel."
     },
     {
@@ -27940,6 +28114,12 @@
       "pos": "NOUN",
       "translation": "o árbitro",
       "example": "The referee was standing over him, counting."
+    },
+    {
+      "word": "reference",
+      "pos": "NOUN",
+      "translation": "a referência, a descrição",
+      "example": "Since July, at the beginning of every month, Mark's account sent five hundred pounds to another account, with a short reference: D HARTLEY."
     },
     {
       "word": "reflect",
@@ -30076,6 +30256,12 @@
       "pos": "ADV",
       "translation": "sem emendas, perfeitamente",
       "example": "Great grey trunks, wider than Bram's cabin, rose out of the hillside and fused with the masonry so seamlessly that it was impossible to tell where living wood ended and dressed stone began."
+    },
+    {
+      "word": "search",
+      "pos": "NOUN",
+      "translation": "a busca, a revista",
+      "example": "\"Not for a search."
     },
     {
       "word": "search",
@@ -33288,6 +33474,12 @@
       "example": "The road reopened at half past eight, and Gideon followed the ploughs north at a stately twenty miles an hour, the Duchess's tyres crunching over packed snow that glittered in the low sun like crushed glass."
     },
     {
+      "word": "statement",
+      "pos": "NOUN",
+      "translation": "o extrato ; a declaração",
+      "example": "She read bank statements the way other people read novels, with a pen in her hand and her lips moving slightly."
+    },
+    {
       "word": "station",
       "pos": "NOUN",
       "translation": "a estação (“bus station”: rodoviária)",
@@ -34096,6 +34288,12 @@
       "pos": "VERB",
       "translation": "entregar, enviar",
       "example": "Then he sighed, shrugged, and moved his mouse towards the button that said SUBMIT."
+    },
+    {
+      "word": "subscription",
+      "pos": "NOUN",
+      "translation": "a assinatura",
+      "example": "A subscription to a gardening magazine."
     },
     {
       "word": "subsidence",
@@ -35345,6 +35543,12 @@
       "example": "the knight finally asked, touching the long scar that crossed his left cheek."
     },
     {
+      "word": "that was close",
+      "pos": "PHRASE",
+      "translation": "foi por pouco",
+      "example": "\"That was close,\" she said at the top of the stairs."
+    },
+    {
       "word": "that was that",
       "pos": "PHRASE",
       "translation": "e assunto encerrado",
@@ -36489,6 +36693,12 @@
       "pos": "PROPN",
       "translation": "Traffic (em “Traffic Scotland”, serviço escocês de informação de trânsito)",
       "example": "She held out her phone so that he could see the Traffic Scotland page, on which the A9 north of Perth was marked with a scattering of ominous yellow triangles."
+    },
+    {
+      "word": "traffic camera",
+      "pos": "PHRASE",
+      "translation": "a câmera de trânsito",
+      "example": "\"The council has a traffic camera at the crossroads with Zetland Road,\" he said."
     },
     {
       "word": "traffic cone",
@@ -37841,6 +38051,18 @@
       "example": "\"Let's see.\""
     },
     {
+      "word": "USB",
+      "pos": "NOUN",
+      "translation": "o USB (“USB stick”: o pen drive)",
+      "example": "After lunch, PC Sam Jones came up to their desks with a USB stick and a big smile."
+    },
+    {
+      "word": "usb stick",
+      "pos": "PHRASE",
+      "translation": "o pen drive",
+      "example": "After lunch, PC Sam Jones came up to their desks with a USB stick and a big smile."
+    },
+    {
       "word": "use",
       "pos": "NOUN",
       "translation": "o uso, a utilidade (“no use”: inútil)",
@@ -38504,6 +38726,12 @@
       "pos": "NOUN",
       "translation": "o aviso, a advertência",
       "example": "\"Hang him from the oak tree, as a warning to the others!\""
+    },
+    {
+      "word": "warning light",
+      "pos": "PHRASE",
+      "translation": "a luz de alerta",
+      "example": "Her face was calm, but inside her there was a warning light, small and orange."
     },
     {
       "word": "wary",
@@ -39484,6 +39712,12 @@
       "example": "The winner's purse is two thousand pounds."
     },
     {
+      "word": "winnings",
+      "pos": "NOUN",
+      "translation": "os ganhos (no jogo)",
+      "example": "\"Some of it came back as winnings, but not much."
+    },
+    {
       "word": "winter",
       "pos": "NOUN",
       "translation": "o inverno",
@@ -40172,6 +40406,12 @@
       "pos": "NUM",
       "translation": "zero",
       "example": "First, he would not play any more games on the Halcyon until Sunday, so that they could start their tests with his body at zero."
+    },
+    {
+      "word": "Zetland",
+      "pos": "PROPN",
+      "translation": "Zetland (“Zetland Road”: rua de Bristol)",
+      "example": "\"The council has a traffic camera at the crossroads with Zetland Road,\" he said."
     },
     {
       "word": "zip",
