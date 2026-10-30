@@ -3,7 +3,6 @@ title: Max Level
 level: B2
 summary: Max Turner is twenty-four, works nights in a Leeds warehouse and only feels strong when he is playing video games. Then, at the end of a forgotten row of Kirkgate Market, he buys a strange grey console for fifteen pounds — a machine that, according to the old man who sells it, plays you back.
 cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b2-max-level/1792910695478.png
-premium: true
 ---
 
 # Game Over
