@@ -8,6 +8,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "14th",
+      "pos": "ADJ",
+      "word": "fourteenth",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "1980s",
       "pos": "NOUN",
       "word": "1980s",
@@ -134,6 +140,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "asleep",
+      "pos": "ADV",
+      "word": "asleep",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "association",
       "pos": "PROPN",
       "next": "office",
@@ -175,6 +187,14 @@
       "pos": "ADJ",
       "word": "aye",
       "lemmaPos": "INTJ"
+    },
+    {
+      "text": "back",
+      "pos": "ADV",
+      "prev": "her",
+      "next": ".",
+      "word": "back",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "bagged",
@@ -815,6 +835,13 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "cry",
+      "pos": "NOUN",
+      "prev": "stranger",
+      "word": "cry",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Cup",
       "pos": "PROPN",
       "word": "cup",
@@ -964,6 +991,12 @@
       "pos": "NOUN",
       "word": "dip",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "disappointment",
+      "pos": "VERB",
+      "word": "disappointment",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "DISCIPLINE",
@@ -1301,6 +1334,14 @@
       "text": "flat",
       "pos": "ADJ",
       "next": "and",
+      "word": "flat",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "flat",
+      "pos": "ADJ",
+      "prev": "her",
+      "next": "with",
       "word": "flat",
       "lemmaPos": "NOUN"
     },
@@ -1679,6 +1720,14 @@
     },
     {
       "text": "half",
+      "pos": "ADJ",
+      "prev": "the",
+      "next": "-",
+      "word": "half",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "half",
       "pos": "NOUN",
       "next": "frightened",
       "word": "half",
@@ -1781,6 +1830,12 @@
       "pos": "PROPN",
       "word": "hollow",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "HOLT",
+      "pos": "PROPN",
+      "word": "Holt",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Home",
@@ -2036,6 +2091,21 @@
       "text": "kind",
       "pos": "ADV",
       "next": "in",
+      "word": "kind",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "kind",
+      "pos": "NOUN",
+      "prev": ":",
+      "word": "kind",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "kind",
+      "pos": "NOUN",
+      "prev": "a",
+      "next": "explanation",
       "word": "kind",
       "lemmaPos": "ADJ"
     },
@@ -2390,6 +2460,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "MAYA",
+      "pos": "PROPN",
+      "word": "Maya",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "meaning",
       "pos": "NOUN",
       "next": "to",
@@ -2398,6 +2474,12 @@
     },
     {
       "text": "melt",
+      "pos": "NOUN",
+      "word": "melt",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "melts",
       "pos": "NOUN",
       "word": "melt",
       "lemmaPos": "VERB"
@@ -3669,6 +3751,13 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "singing",
+      "pos": "NOUN",
+      "prev": "all",
+      "word": "sing",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "sir",
       "pos": "PROPN",
       "word": "sir",
@@ -3919,6 +4008,13 @@
       "pos": "ADV",
       "word": "straight",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "stranger",
+      "pos": "ADJ",
+      "prev": "a",
+      "word": "stranger",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "stranger",
@@ -4703,6 +4799,12 @@
       "next": "?",
       "word": "wrong",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "x",
+      "pos": "X",
+      "word": "x",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "x.",

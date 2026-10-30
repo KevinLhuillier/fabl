@@ -248,3 +248,69 @@ She told Gemma on Monday, at lunch, in the little Italian café near the library
 It was a good argument. Maya wanted to believe it, and so she did. For another week, she believed it completely. Then, on the following Wednesday, Leo offered to drive her to a friend's birthday party on the west side of the city. They went through streets she had not seen since March. She was talking about the party, about the present she had bought, and she did not notice where they were until the van turned into a long road of red-brick houses with small front gardens.
 Unthank Road. She went silent. Leo looked at her quickly, then back at the road. They drove slowly past number forty-two, with its blue front door and its window boxes full of dead flowers. Marcus's car was outside. Leo nodded towards the house. "Is that where you used to live?" he asked gently. "The one with the blue door?" Maya turned and stared at him. "I never told you which house," she said. "I never told you the door was blue."
 Leo did not look away from the road. "You told me Unthank Road," he said calmly. "Weeks ago. By the river. And you went white when we turned into it, and you looked at that house and nowhere else." He paused. "And it's the only blue door on the street, Maya. Look." She looked. He was right. All the other doors were black, or green, or plain brown wood. Only number forty-two was blue. "Sorry," she said after a moment. "I'm being stupid." "You're not stupid," said Leo, and put his hand on hers. "You're just sad. It's allowed." His hand was warm, as always. But for the first time, she did not hold it back.
+
+# Ask Him About March
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_5.page_1-1793344402961.mp3
+August came, and with it the end of the cherries. Each Saturday there were fewer boxes on Leo's table and more of other things: plums, early apples, jars of jam with handwritten labels. "Two more weeks," Leo said, "maybe three. Then it's over until next year." He said it lightly, but Maya felt a small cold feeling in her stomach. She did not like the idea of the cherries ending. It felt like a clock somewhere had started to tick.
+She had almost stopped thinking about the strange things: the tea, the nickname, the blue door. Gemma had been right, she decided. She had spent five years with a man who never noticed anything, and now she was with a man who noticed everything, and her brain did not know what to do with it. It was looking for danger because it was used to disappointment. That was all. She was happy, and she was going to let herself be happy.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_5.page_2-1793344415944.mp3
+On the second Saturday in August, she came home from the market at about five o'clock. Leo had stayed behind to help Doreen take down her stall, and they had planned to meet later at the pub by the river. Maya climbed the narrow stairs to her flat with a bag of plums in one hand and her keys in the other. When she opened the door, her foot touched something on the floor. It was a white envelope. Somebody had pushed it under the door.
+There was no stamp on it, and no address. Only her name, printed by a computer: MAYA HOLT. She stood in the doorway for a long moment, looking at it. The street door downstairs was always locked. To get to her door, you needed a key, or you needed someone to let you in. She picked up the envelope. It was very light. She opened it standing up, still in her coat, with the plums at her feet.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_5.page_3-1793344427221.mp3
+Inside there was a single piece of white paper, folded once. In the middle, in the same printed letters, there was one sentence: "Ask him where he was on the 14th of March." Maya read it three times. Then she sat down on the floor, because her legs did not want to hold her any more. The fourteenth of March. The Copper Kettle. The cold tea. The bench by the war memorial. The day her life had broken in two.
+Who knew that date? She tried to think clearly. Gemma knew. Her mother knew, but her mother lived in Spain and did not know about Leo. Marcus knew, obviously. And the woman Marcus had left her for probably knew, although Maya did not even know her name. That was all. She had never told Leo the date. She had never told him it was at the market. She had never told him anything about that day at all.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_5.page_4-1793344440567.mp3
+She phoned Gemma. Twenty minutes later Gemma was sitting on the sofa next to her, holding the piece of paper by one corner as if it might bite. "This is horrible," Gemma said. "Who does this? Who sends a note like a bad film?" "Someone who knows where I live," said Maya. "Someone who could get into the building." She was cold, although the evening was warm. "Someone who knows about March."
+"Marcus," said Gemma immediately. "It's Marcus. He's seen you with Leo, he's jealous, and he wants to ruin it. It's exactly the kind of thing he'd do. He can't stand it when anyone else is happy." "Marcus doesn't know where I live," said Maya. "And Marcus doesn't care enough to be jealous. You should have seen his face at the café. He looked relieved." Gemma did not answer that. They sat in silence for a while, listening to the machines turning in the launderette below.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_5.page_5-1793344454800.mp3
+"What are you going to do?" Gemma asked at last. Maya looked at the piece of paper. "I'm going to ask him," she said. "Where he was on the fourteenth of March." "And if you don't like the answer?" Maya did not reply. She did not know. She only knew that she could not sit in the pub by the river tonight, holding his hand and laughing at his jokes, with this sentence in her pocket like a stone.
+She sent Leo a message saying she was tired and would see him on Wednesday. He answered at once: "Of course. Sleep well, dark cherry. x" She looked at the little x for a long time. Then she put the phone face down on the table. She did not sleep well. She dreamed of the bench by the war memorial, and in the dream there were eyes everywhere: in the windows of the shops, in the leaves of the trees, in the red and yellow stripes of the market roofs.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_5.page_6-1793344473074.mp3
+On Sunday she did not go out at all. She sat on the sofa with her phone and looked at the photographs she had taken that summer. Leo on the ladder at the orchard, waving. Leo asleep on this very sofa with his mouth open. Leo and Doreen pretending to fight with sunflowers. Leo by the river, laughing at something she had said, his eyes almost closed. In every picture he looked happy. In every picture he looked at her, or at the camera, which was the same thing. She zoomed in on his face, again and again, as if a photograph could tell her something a person could not. It could not. It was just a face: kind, open, a little sunburnt. The face of a man she loved. She realised it for the first time, sitting there, and the word frightened her more than the note.
+On Wednesday evening, Leo was waiting by his van outside the library, as usual. He was holding a paper bag. "The last of the dark ones," he said, smiling, and held it out. Then he saw her face, and the smile went away. "What's wrong?" Maya did not take the bag. They walked down to the river without speaking and sat on their usual bench, facing the water. A boat went past with a family in it, all wearing orange life jackets, all singing.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_5.page_7-1793344487429.mp3
+"Leo," said Maya, when the boat had gone. "Where were you on the fourteenth of March?" He went very still. It was not a big movement. It was the opposite of a movement. For a few seconds he did not breathe, did not blink, did not move his hands. Then he looked at her, and his eyes were careful. "Why are you asking me that?" he said. "Just answer the question," said Maya. "Please."
+He let out a long breath. "At the market," he said. "Where I am every Saturday. In winter I don't have cherries, so I sell apple juice and jam. Sometimes eggs, when Tess's chickens are in a good mood." He paused. "You never asked what I did in winter." "No," said Maya. "I didn't." She waited. He looked at the water. "And yes," he said quietly. "Before you ask. I saw you."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_5.page_8-1793344503685.mp3
+"I saw a woman sitting on the bench by the war memorial," he went on, "crying like her heart was broken. People were walking past her. Nobody stopped. I stood behind my table with my stupid apple juice and I wanted to go to her. I wanted to give her a cup of tea and ask if she was all right. But I didn't. Because you don't do that. You don't go up to a stranger who is crying and say, 'Hello, I sell jam.' So I stayed where I was, and after a while she got up and walked away, and I never knew her name."
+He turned to her. "I thought about her for weeks. I don't know why. Maybe because I didn't do anything. And then, in June, on the first day of the cherries, she walked up to my stall with her friend and asked for a bag." He tried to smile. "I nearly dropped the scales." Maya remembered his face on that first day: the strange look, the half-second of something like recognition. A man who had walked into a room and found something he had lost. "Why didn't you tell me?" she asked.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_5.page_9-1793344517116.mp3
+"What should I say?" said Leo. "'Good morning, I saw you on the worst day of your life, would you like some cherries?' You'd have run away. You'd never have come back." His voice was rough. "I wanted you to come back. I wanted it more than I've wanted anything for a long time. So I said nothing. I was going to tell you one day. When you knew me. When it wouldn't sound strange." He looked down at his hands. "I'm sorry. It was stupid. I know it was stupid."
+It was a good explanation. It was a kind explanation, even. Maya could imagine it so clearly: Leo behind his table in the cold March wind, watching a stranger cry, wanting to help and not knowing how. It was exactly the kind of thing he would do. It was exactly the kind of man he was. She felt her anger begin to melt, the way ice melts in a warm hand. And at the same time, somewhere underneath, another part of her was still standing very still, listening.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_5.page_10-1793344532033.mp3
+"Who told you to ask me?" said Leo suddenly. Maya hesitated. Then she took the envelope out of her bag and gave it to him. He read the single sentence. She watched his face change. The softness went out of it. His mouth became a hard line, and a muscle moved in his jaw. For a moment he looked like a different man, older and colder, and Maya felt a little shiver go down her back. "Where did you get this?" he asked. "Under my door. On Saturday." "Under your door," he repeated slowly.
+"Do you know who sent it?" asked Maya. Leo folded the paper very carefully, along the old line, and gave it back to her. "I think so," he said. "Who?" He stood up. "I need to go, Maya. I'm sorry. I need to sort something out." "Leo, who sent it?" But he was already walking away along the river, fast, with his hands in his pockets and his head down. He did not look back. The bag of cherries was still on the bench beside her, the last of the dark ones, with a small black robin drawn on the side.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_5.page_11-1793344546593.mp3
+At eleven o'clock that night, her phone lit up. "I'm sorry I left like that. I should have told you about March from the beginning. I was afraid you'd think I was strange. I was afraid you'd stop coming on Saturdays. I'm not angry with you. I'm angry with the person who wrote that note. Please don't let them spoil this. Leo x." Maya read it in the dark, sitting up in bed. She read it again. It was honest and sad and it sounded exactly like him.
+She wanted to believe it. She almost did. But as she lay back down and closed her eyes, a small, cold question came into her mind and refused to leave. Leo said he had seen a stranger crying on a bench, once, and never known her name. Then how, on the very first Saturday in June, before she had said a single word about herself, had a man who did not know her name known exactly which cherries she wanted?

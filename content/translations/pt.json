@@ -17542,6 +17542,12 @@
       "example": "Pretending to read a poster about a jazz concert."
     },
     {
+      "word": "jealous",
+      "pos": "ADJ",
+      "translation": "ciumento",
+      "example": "He's seen you with Leo, he's jealous, and he wants to ruin it."
+    },
+    {
       "word": "Jean",
       "pos": "PROPN",
       "translation": "Jean (nome feminino inglês)",
@@ -19100,6 +19106,12 @@
       "pos": "NOUN",
       "translation": "a vida",
       "example": "He had never checked the shutters in his life."
+    },
+    {
+      "word": "life jacket",
+      "pos": "PHRASE",
+      "translation": "o colete salva-vidas",
+      "example": "A boat went past with a family in it, all wearing orange life jackets, all singing."
     },
     {
       "word": "lifesaver",
@@ -30684,6 +30696,12 @@
       "example": "\"Well, well,\" he said softly."
     },
     {
+      "word": "softness",
+      "pos": "NOUN",
+      "translation": "a suavidade, a doçura",
+      "example": "The softness went out of it."
+    },
+    {
       "word": "soil",
       "pos": "NOUN",
       "translation": "a terra, o solo",
@@ -30966,6 +30984,12 @@
       "example": "I found a small space under a chimney and pressed my body against the bricks."
     },
     {
+      "word": "Spain",
+      "pos": "PROPN",
+      "translation": "a Espanha",
+      "example": "Her mother knew, but her mother lived in Spain and did not know about Leo."
+    },
+    {
       "word": "spar",
       "pos": "VERB",
       "translation": "fazer sparring, treinar lutando",
@@ -31174,6 +31198,12 @@
       "pos": "NOUN",
       "translation": "o rachar (lenha)",
       "example": "And then, a little later, he heard a sound he had heard perhaps a thousand times in his life, and never once at night: the steady, rhythmic chock of an axe splitting wood, going on and on into the small hours, as though there were something out there in the darkness that needed to be cut into pieces small enough to carry."
+    },
+    {
+      "word": "spoil",
+      "pos": "VERB",
+      "translation": "estragar",
+      "example": "Please don't let them spoil this."
     },
     {
       "word": "sponge",
@@ -38192,6 +38222,18 @@
       "pos": "NOUN",
       "translation": "o zumbi",
       "example": "You look like a zombie from one of your stupid games."
+    },
+    {
+      "word": "zoom",
+      "pos": "VERB",
+      "translation": "dar zoom",
+      "example": "She zoomed in on his face, again and again, as if a photograph could tell her something a person could not."
+    },
+    {
+      "word": "zoom in",
+      "pos": "PHRASE",
+      "translation": "dar zoom em, ampliar",
+      "example": "She zoomed in on his face, again and again, as if a photograph could tell her something a person could not."
     }
   ]
 }
