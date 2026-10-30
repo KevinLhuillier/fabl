@@ -2167,6 +2167,12 @@
       "example": "She sat in the back row of the big lecture theatre, as usual, as far as possible from everyone."
     },
     {
+      "word": "back seat",
+      "pos": "PHRASE",
+      "translation": "la banquette arrière",
+      "example": "They put Maya in the back seat and wrapped her up like a child, and Gemma turned the heater on full and kept saying, \"Are you okay?"
+    },
+    {
       "word": "background",
       "pos": "NOUN",
       "translation": "l'arrière-plan, le fond ; le milieu, les origines",
@@ -4134,6 +4140,12 @@
       "example": "She remembered Mrs Pennick, behind her counter, wrapping the notebook in brown paper."
     },
     {
+      "word": "bruise",
+      "pos": "NOUN",
+      "translation": "le bleu, l'ecchymose",
+      "example": "On Friday the sky over Norfolk turned the colour of a bruise."
+    },
+    {
       "word": "bruised",
       "pos": "ADJ",
       "translation": "meurtri, contusionné ; (ciel) violacé",
@@ -4480,6 +4492,12 @@
       "pos": "PHRASE",
       "translation": "à la lueur des bougies, à la chandelle",
       "example": "Taught to bus drivers and beet farmers by candlelight."
+    },
+    {
+      "word": "by chance",
+      "pos": "PHRASE",
+      "translation": "par hasard",
+      "example": "In May, he wrote that he had seen her by chance, coming out of the Forum, while he was delivering jam to the café on the ground floor."
     },
     {
       "word": "by hand",
@@ -5470,6 +5488,12 @@
       "pos": "VERB",
       "translation": "bavarder, discuter",
       "example": "Max did not chat."
+    },
+    {
+      "word": "chatter",
+      "pos": "VERB",
+      "translation": "bavarder ; (dents) claquer",
+      "example": "Her teeth were chattering."
     },
     {
       "word": "chauffeur",
@@ -8182,6 +8206,12 @@
       "pos": "PHRASE",
       "translation": "le cerne (« dark circles under his eyes » : des cernes sous les yeux)",
       "example": "There were dark circles under his eyes."
+    },
+    {
+      "word": "dark circle on",
+      "pos": "PHRASE",
+      "translation": "des taches sombres sur (des cercles foncés)",
+      "example": "The first drops of rain began to fall, big and warm, making dark circles on his shirt."
     },
     {
       "word": "darken",
@@ -14559,6 +14589,12 @@
       "example": "Lily was grounded for a month."
     },
     {
+      "word": "ground floor",
+      "pos": "PHRASE",
+      "translation": "le rez-de-chaussée",
+      "example": "In May, he wrote that he had seen her by chance, coming out of the Forum, while he was delivering jam to the café on the ground floor."
+    },
+    {
       "word": "group",
       "pos": "NOUN",
       "translation": "le groupe",
@@ -17339,6 +17375,12 @@
       "example": "The words pressed against the inside of his teeth, demanding to be let out."
     },
     {
+      "word": "inside out",
+      "pos": "PHRASE",
+      "translation": "à l'envers (l'intérieur à l'extérieur) (« the wind turned it inside out » : le vent l'a retourné)",
+      "example": "At the gate, Gemma jumped out of the car with an umbrella that the wind immediately turned inside out."
+    },
+    {
       "word": "insist",
       "pos": "VERB",
       "translation": "insister",
@@ -18406,6 +18448,12 @@
       "example": "Rosalind counted on her cold fingers, the way she had counted words on her ninth day in Durham. F, U, T, U, R, E. S, E, L, F. Ten."
     },
     {
+      "word": "L.",
+      "pos": "PROPN",
+      "translation": "L. (initiale de Leo, en signature)",
+      "example": "I mean that. L."
+    },
+    {
       "word": "la",
       "pos": "PROPN",
       "translation": "la (dans « Jerez de la Frontera », ville d'Andalousie)",
@@ -19376,6 +19424,12 @@
       "pos": "NOUN",
       "translation": "la légèreté",
       "example": "He was acutely aware, now, of the lightness he had scorned that morning."
+    },
+    {
+      "word": "lightning",
+      "pos": "NOUN",
+      "translation": "l'éclair, la foudre",
+      "example": "Lightning cut the sky above the poplars, white and terrible, and the thunder came almost immediately after it, so loud that she felt it in her chest."
     },
     {
       "word": "like",
@@ -22848,6 +22902,12 @@
       "pos": "ADJ",
       "translation": "d'accord, ça va",
       "example": "Are you OK? — Ça va ?"
+    },
+    {
+      "word": "okay",
+      "pos": "ADJ",
+      "translation": "bien, d'accord (« are you okay? » : ça va ?)",
+      "example": "\"Are you okay? Are you okay? Did he do anything?\""
     },
     {
       "word": "okay",
@@ -28992,6 +29052,12 @@
       "example": "A woman was trying to give him a bottle of water and take a selfie at the same time."
     },
     {
+      "word": "selfish",
+      "pos": "ADJ",
+      "translation": "égoïste",
+      "example": "I know that's selfish."
+    },
+    {
       "word": "sell",
       "pos": "VERB",
       "translation": "vendre",
@@ -31756,6 +31822,12 @@
       "pos": "NOUN",
       "translation": "la queue (d'un fruit), la tige",
       "example": "It was printed on thick, cream-coloured paper, and in the middle there was a drawing of two red cherries on one stalk."
+    },
+    {
+      "word": "stalk",
+      "pos": "VERB",
+      "translation": "traquer, suivre (quelqu'un) en secret",
+      "example": "\"No. You are not going to meet a man who stalked you in the middle of a field in a thunderstorm."
     },
     {
       "word": "stall",
@@ -35657,6 +35729,12 @@
       "example": "Mistress Crane, folded into a corner like a grey umbrella."
     },
     {
+      "word": "un-know",
+      "pos": "VERB",
+      "translation": "dé-savoir, oublier (ce qu'on sait)",
+      "example": "But I knew the street now. I couldn't un-know it.\""
+    },
+    {
       "word": "unable",
       "pos": "ADJ",
       "translation": "incapable",
@@ -38288,6 +38366,12 @@
       "pos": "VERB",
       "translation": "envelopper, emballer",
       "example": "Bram lifted something from the hollow beneath it: a bundle wrapped in oilcloth and tied with twine."
+    },
+    {
+      "word": "wrap up",
+      "pos": "PHRASE",
+      "translation": "emmitoufler, envelopper ; emballer",
+      "example": "They put Maya in the back seat and wrapped her up like a child, and Gemma turned the heater on full and kept saying, \"Are you okay?"
     },
     {
       "word": "wreck",

@@ -928,6 +928,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "dark",
+      "pos": "PROPN",
+      "word": "dark",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "darker",
       "pos": "ADJ",
       "word": "dark",
@@ -4557,6 +4563,13 @@
       "text": "twitch",
       "pos": "NOUN",
       "word": "twitch",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "un",
+      "pos": "VERB",
+      "next": "-",
+      "word": "un-know",
       "lemmaPos": "VERB"
     },
     {

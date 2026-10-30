@@ -2167,6 +2167,12 @@
       "example": "She sat in the back row of the big lecture theatre, as usual, as far as possible from everyone."
     },
     {
+      "word": "back seat",
+      "pos": "PHRASE",
+      "translation": "der Rücksitz",
+      "example": "They put Maya in the back seat and wrapped her up like a child, and Gemma turned the heater on full and kept saying, \"Are you okay?"
+    },
+    {
       "word": "background",
       "pos": "NOUN",
       "translation": "der Hintergrund; die Herkunft",
@@ -4134,6 +4140,12 @@
       "example": "She remembered Mrs Pennick, behind her counter, wrapping the notebook in brown paper."
     },
     {
+      "word": "bruise",
+      "pos": "NOUN",
+      "translation": "der blaue Fleck, der Bluterguss",
+      "example": "On Friday the sky over Norfolk turned the colour of a bruise."
+    },
+    {
       "word": "bruised",
       "pos": "ADJ",
       "translation": "geprellt, verletzt; (Himmel) violett verfärbt",
@@ -4480,6 +4492,12 @@
       "pos": "PHRASE",
       "translation": "bei Kerzenlicht",
       "example": "Taught to bus drivers and beet farmers by candlelight."
+    },
+    {
+      "word": "by chance",
+      "pos": "PHRASE",
+      "translation": "zufällig",
+      "example": "In May, he wrote that he had seen her by chance, coming out of the Forum, while he was delivering jam to the café on the ground floor."
     },
     {
       "word": "by hand",
@@ -5470,6 +5488,12 @@
       "pos": "VERB",
       "translation": "plaudern, quatschen",
       "example": "Max did not chat."
+    },
+    {
+      "word": "chatter",
+      "pos": "VERB",
+      "translation": "plappern ; (Zähne) klappern",
+      "example": "Her teeth were chattering."
     },
     {
       "word": "chauffeur",
@@ -8182,6 +8206,12 @@
       "pos": "PHRASE",
       "translation": "der Augenring („dark circles under his eyes“: Augenringe)",
       "example": "There were dark circles under his eyes."
+    },
+    {
+      "word": "dark circle on",
+      "pos": "PHRASE",
+      "translation": "dunkle Flecken auf (dunkle Kreise)",
+      "example": "The first drops of rain began to fall, big and warm, making dark circles on his shirt."
     },
     {
       "word": "darken",
@@ -14559,6 +14589,12 @@
       "example": "Lily was grounded for a month."
     },
     {
+      "word": "ground floor",
+      "pos": "PHRASE",
+      "translation": "das Erdgeschoss",
+      "example": "In May, he wrote that he had seen her by chance, coming out of the Forum, while he was delivering jam to the café on the ground floor."
+    },
+    {
       "word": "group",
       "pos": "NOUN",
       "translation": "die Gruppe",
@@ -17339,6 +17375,12 @@
       "example": "The words pressed against the inside of his teeth, demanding to be let out."
     },
     {
+      "word": "inside out",
+      "pos": "PHRASE",
+      "translation": "umgestülpt, auf links („the wind turned it inside out“: der Wind stülpte ihn um)",
+      "example": "At the gate, Gemma jumped out of the car with an umbrella that the wind immediately turned inside out."
+    },
+    {
       "word": "insist",
       "pos": "VERB",
       "translation": "darauf bestehen",
@@ -18406,6 +18448,12 @@
       "example": "Rosalind counted on her cold fingers, the way she had counted words on her ninth day in Durham. F, U, T, U, R, E. S, E, L, F. Ten."
     },
     {
+      "word": "L.",
+      "pos": "PROPN",
+      "translation": "L. (Initiale von Leo, als Unterschrift)",
+      "example": "I mean that. L."
+    },
+    {
       "word": "la",
       "pos": "PROPN",
       "translation": "la (in „Jerez de la Frontera“, Stadt in Andalusien)",
@@ -19376,6 +19424,12 @@
       "pos": "NOUN",
       "translation": "die Leichtigkeit",
       "example": "He was acutely aware, now, of the lightness he had scorned that morning."
+    },
+    {
+      "word": "lightning",
+      "pos": "NOUN",
+      "translation": "der Blitz",
+      "example": "Lightning cut the sky above the poplars, white and terrible, and the thunder came almost immediately after it, so loud that she felt it in her chest."
     },
     {
       "word": "like",
@@ -22848,6 +22902,12 @@
       "pos": "ADJ",
       "translation": "okay, in Ordnung",
       "example": "Are you OK? — Geht es dir gut?"
+    },
+    {
+      "word": "okay",
+      "pos": "ADJ",
+      "translation": "in Ordnung („are you okay?“: alles okay?)",
+      "example": "\"Are you okay? Are you okay? Did he do anything?\""
     },
     {
       "word": "okay",
@@ -28992,6 +29052,12 @@
       "example": "A woman was trying to give him a bottle of water and take a selfie at the same time."
     },
     {
+      "word": "selfish",
+      "pos": "ADJ",
+      "translation": "egoistisch, selbstsüchtig",
+      "example": "I know that's selfish."
+    },
+    {
       "word": "sell",
       "pos": "VERB",
       "translation": "verkaufen",
@@ -31756,6 +31822,12 @@
       "pos": "NOUN",
       "translation": "der Stiel",
       "example": "It was printed on thick, cream-coloured paper, and in the middle there was a drawing of two red cherries on one stalk."
+    },
+    {
+      "word": "stalk",
+      "pos": "VERB",
+      "translation": "nachstellen, verfolgen (heimlich)",
+      "example": "\"No. You are not going to meet a man who stalked you in the middle of a field in a thunderstorm."
     },
     {
       "word": "stall",
@@ -35657,6 +35729,12 @@
       "example": "Mistress Crane, folded into a corner like a grey umbrella."
     },
     {
+      "word": "un-know",
+      "pos": "VERB",
+      "translation": "vergessen, nicht mehr wissen",
+      "example": "But I knew the street now. I couldn't un-know it.\""
+    },
+    {
       "word": "unable",
       "pos": "ADJ",
       "translation": "unfähig, nicht in der Lage",
@@ -38288,6 +38366,12 @@
       "pos": "VERB",
       "translation": "einwickeln",
       "example": "Bram lifted something from the hollow beneath it: a bundle wrapped in oilcloth and tied with twine."
+    },
+    {
+      "word": "wrap up",
+      "pos": "PHRASE",
+      "translation": "einwickeln, warm einpacken",
+      "example": "They put Maya in the back seat and wrapped her up like a child, and Gemma turned the heater on full and kept saying, \"Are you okay?"
     },
     {
       "word": "wreck",

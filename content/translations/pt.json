@@ -2167,6 +2167,12 @@
       "example": "She sat in the back row of the big lecture theatre, as usual, as far as possible from everyone."
     },
     {
+      "word": "back seat",
+      "pos": "PHRASE",
+      "translation": "o banco de trás",
+      "example": "They put Maya in the back seat and wrapped her up like a child, and Gemma turned the heater on full and kept saying, \"Are you okay?"
+    },
+    {
       "word": "background",
       "pos": "NOUN",
       "translation": "o fundo; a origem",
@@ -4134,6 +4140,12 @@
       "example": "She remembered Mrs Pennick, behind her counter, wrapping the notebook in brown paper."
     },
     {
+      "word": "bruise",
+      "pos": "NOUN",
+      "translation": "o hematoma, a mancha roxa",
+      "example": "On Friday the sky over Norfolk turned the colour of a bruise."
+    },
+    {
       "word": "bruised",
       "pos": "ADJ",
       "translation": "machucado; (céu) arroxeado",
@@ -4480,6 +4492,12 @@
       "pos": "PHRASE",
       "translation": "à luz de velas",
       "example": "Taught to bus drivers and beet farmers by candlelight."
+    },
+    {
+      "word": "by chance",
+      "pos": "PHRASE",
+      "translation": "por acaso",
+      "example": "In May, he wrote that he had seen her by chance, coming out of the Forum, while he was delivering jam to the café on the ground floor."
     },
     {
       "word": "by hand",
@@ -5470,6 +5488,12 @@
       "pos": "VERB",
       "translation": "conversar, bater papo",
       "example": "Max did not chat."
+    },
+    {
+      "word": "chatter",
+      "pos": "VERB",
+      "translation": "tagarelar ; (dentes) bater",
+      "example": "Her teeth were chattering."
     },
     {
       "word": "chauffeur",
@@ -8182,6 +8206,12 @@
       "pos": "PHRASE",
       "translation": "a olheira («dark circles under his eyes»: olheiras)",
       "example": "There were dark circles under his eyes."
+    },
+    {
+      "word": "dark circle on",
+      "pos": "PHRASE",
+      "translation": "manchas escuras sobre (círculos escuros)",
+      "example": "The first drops of rain began to fall, big and warm, making dark circles on his shirt."
     },
     {
       "word": "darken",
@@ -14559,6 +14589,12 @@
       "example": "Lily was grounded for a month."
     },
     {
+      "word": "ground floor",
+      "pos": "PHRASE",
+      "translation": "o térreo",
+      "example": "In May, he wrote that he had seen her by chance, coming out of the Forum, while he was delivering jam to the café on the ground floor."
+    },
+    {
       "word": "group",
       "pos": "NOUN",
       "translation": "o grupo",
@@ -17339,6 +17375,12 @@
       "example": "The words pressed against the inside of his teeth, demanding to be let out."
     },
     {
+      "word": "inside out",
+      "pos": "PHRASE",
+      "translation": "do avesso (“the wind turned it inside out”: o vento o virou do avesso)",
+      "example": "At the gate, Gemma jumped out of the car with an umbrella that the wind immediately turned inside out."
+    },
+    {
       "word": "insist",
       "pos": "VERB",
       "translation": "insistir",
@@ -18406,6 +18448,12 @@
       "example": "Rosalind counted on her cold fingers, the way she had counted words on her ninth day in Durham. F, U, T, U, R, E. S, E, L, F. Ten."
     },
     {
+      "word": "L.",
+      "pos": "PROPN",
+      "translation": "L. (inicial de Leo, como assinatura)",
+      "example": "I mean that. L."
+    },
+    {
       "word": "la",
       "pos": "PROPN",
       "translation": "la (em “Jerez de la Frontera”, cidade da Andaluzia)",
@@ -19376,6 +19424,12 @@
       "pos": "NOUN",
       "translation": "a leveza",
       "example": "He was acutely aware, now, of the lightness he had scorned that morning."
+    },
+    {
+      "word": "lightning",
+      "pos": "NOUN",
+      "translation": "o relâmpago, o raio",
+      "example": "Lightning cut the sky above the poplars, white and terrible, and the thunder came almost immediately after it, so loud that she felt it in her chest."
     },
     {
       "word": "like",
@@ -22848,6 +22902,12 @@
       "pos": "ADJ",
       "translation": "tudo bem, certo",
       "example": "Are you OK? — Você está bem?"
+    },
+    {
+      "word": "okay",
+      "pos": "ADJ",
+      "translation": "bem (“are you okay?”: você está bem?)",
+      "example": "\"Are you okay? Are you okay? Did he do anything?\""
     },
     {
       "word": "okay",
@@ -28992,6 +29052,12 @@
       "example": "A woman was trying to give him a bottle of water and take a selfie at the same time."
     },
     {
+      "word": "selfish",
+      "pos": "ADJ",
+      "translation": "egoísta",
+      "example": "I know that's selfish."
+    },
+    {
       "word": "sell",
       "pos": "VERB",
       "translation": "vender",
@@ -31756,6 +31822,12 @@
       "pos": "NOUN",
       "translation": "o cabinho, o talo",
       "example": "It was printed on thick, cream-coloured paper, and in the middle there was a drawing of two red cherries on one stalk."
+    },
+    {
+      "word": "stalk",
+      "pos": "VERB",
+      "translation": "perseguir, seguir (alguém) às escondidas",
+      "example": "\"No. You are not going to meet a man who stalked you in the middle of a field in a thunderstorm."
     },
     {
       "word": "stall",
@@ -35657,6 +35729,12 @@
       "example": "Mistress Crane, folded into a corner like a grey umbrella."
     },
     {
+      "word": "un-know",
+      "pos": "VERB",
+      "translation": "desaprender, deixar de saber",
+      "example": "But I knew the street now. I couldn't un-know it.\""
+    },
+    {
       "word": "unable",
       "pos": "ADJ",
       "translation": "incapaz",
@@ -38288,6 +38366,12 @@
       "pos": "VERB",
       "translation": "embrulhar, envolver",
       "example": "Bram lifted something from the hollow beneath it: a bundle wrapped in oilcloth and tied with twine."
+    },
+    {
+      "word": "wrap up",
+      "pos": "PHRASE",
+      "translation": "agasalhar, enrolar ; embrulhar",
+      "example": "They put Maya in the back seat and wrapped her up like a child, and Gemma turned the heater on full and kept saying, \"Are you okay?"
     },
     {
       "word": "wreck",
