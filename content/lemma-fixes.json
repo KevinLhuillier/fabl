@@ -146,6 +146,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "asleep",
+      "pos": "NOUN",
+      "word": "asleep",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "association",
       "pos": "PROPN",
       "next": "office",
@@ -412,6 +418,12 @@
       "text": "BRAM",
       "pos": "PROPN",
       "word": "Bram",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Bramble",
+      "pos": "ADJ",
+      "word": "Bramble",
       "lemmaPos": "PROPN"
     },
     {
@@ -900,6 +912,13 @@
       "pos": "VERB",
       "word": "damp",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Dance",
+      "pos": "NOUN",
+      "next": "in",
+      "word": "dance",
+      "lemmaPos": "VERB"
     },
     {
       "text": "dancing",
@@ -1828,6 +1847,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Hers",
+      "pos": "NOUN",
+      "word": "hers",
+      "lemmaPos": "PRON"
+    },
+    {
       "text": "hers",
       "pos": "NOUN",
       "word": "hers",
@@ -2292,6 +2317,12 @@
       "pos": "NOUN",
       "word": "lend",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "LEO",
+      "pos": "PROPN",
+      "word": "Leo",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "lethal",
@@ -2940,6 +2971,13 @@
       "pos": "ADJ",
       "word": "ours",
       "lemmaPos": "PRON"
+    },
+    {
+      "text": "OUT",
+      "pos": "PROPN",
+      "prev": "keep",
+      "word": "out",
+      "lemmaPos": "ADP"
     },
     {
       "text": "out",
@@ -3815,6 +3853,13 @@
       "lemmaPos": "NUM"
     },
     {
+      "text": "slam",
+      "pos": "NOUN",
+      "prev": "door",
+      "word": "slam",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "slanting",
       "pos": "NOUN",
       "word": "slanting",
@@ -4290,6 +4335,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "TESS",
+      "pos": "PROPN",
+      "word": "Tess",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "TEST",
       "pos": "PROPN",
       "word": "test",
@@ -4609,6 +4660,12 @@
       "text": "valley",
       "pos": "PROPN",
       "word": "valley",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "VAN",
+      "pos": "PROPN",
+      "word": "van",
       "lemmaPos": "NOUN"
     },
     {

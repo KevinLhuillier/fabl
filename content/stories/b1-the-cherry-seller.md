@@ -440,3 +440,77 @@ They walked back along the pier together. The wind was strong and the waves were
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_7.page_10-1793346435641.mp3
 On the train home, Maya sat by the window and watched the sea disappear behind the fields. She thought about doors built in exactly her shape. She thought about a man sitting at a kitchen table at two in the morning, reading a little blue book. Elsie had found a notebook about herself, written by Leo. But Maya's case was different, and in a way much worse. Leo had not needed to write anything down. He had her own words. Her own list. Everything she had ever wanted, written in her own hand, on the worst morning of her life.
 She had to see it. She had to read that list again, with her own eyes, and count the things that had come true. She took out her phone and looked at Leo's last message, which was still unanswered. "Please. Just let me explain." Then she opened her calendar. Tomorrow was Tuesday. On Tuesday mornings he went to Lowestoft. He left at six. He was never back before one. And the kitchen door was never locked.
+
+# The Blue Sketchbook
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_8.page_1-1793347409694.mp3
+"This is a terrible idea," said Gemma, for the fifth time. They were sitting in her car at the end of the long lane that led to Brannock's Orchard. It was half past eight on Tuesday morning. The sky was low and heavy and yellowish grey, and the air was so still that not a single leaf was moving. "I know," said Maya. "You're going into a man's house without asking. That's illegal, I think. Maybe. I'm not sure." "I know." "And if he's what we think he is…" Gemma stopped. "What do we think he is?"
+Maya did not answer, because she did not know. A liar. A lonely man. A man who loved too much, or a man who did not know the difference between love and something else. She opened the car door. "Keep your phone in your hand," she said. "If you see his van, send me a message. Just one word." "Which word?" "Any word, Gem. Any word at all." Gemma grabbed her arm. "Twenty minutes. If you're not back in twenty minutes, I'm calling the police. I mean it." "Twenty minutes," said Maya.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_8.page_2-1793347423309.mp3
+The orchard looked different without people. The cherry trees had been picked clean, and their leaves were already turning yellow at the edges. Under them, in the long grass, the fallen fruit had gone brown and soft, and wasps were moving slowly over it, drunk on sugar. The farmhouse stood at the top of the hill with its windows dark. Leo's van was not in the yard. Tess's car was not there either. Maya wondered if that was an accident.
+The kitchen door was not locked, as Tess had said. Maya pushed it open and stood on the step, listening. A clock was ticking somewhere. A tap was dripping. Then there was a scratching of claws on the stone floor, and a black-and-white dog came running round the table towards her. Maya's heart jumped into her mouth. But the dog only sniffed her hand, wagged its tail, and lay down on its back, waiting to have its stomach rubbed. On its collar there was a little metal tag that said "Bramble".
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_8.page_3-1793347434701.mp3
+"Good dog," Maya whispered, and rubbed its stomach, because it seemed rude not to. Then she stepped over it and went into the house. The kitchen was the same as on the open day: the big black cooker, the long table, the photographs. The corkboard by the door was still covered in bills and postcards, but the little pile of cherry flyers was gone. Only the pin was left, with a tiny corner of cream-coloured paper still under it.
+The stairs were narrow and steep and they creaked under her feet. At the top there was a short corridor with three doors. The first one was open: a bathroom with a green bath. The second one had a sign on it, painted by a child a long time ago: "TESS'S ROOM. KEEP OUT. THIS MEANS YOU, LEO." Maya almost smiled. She pushed open the third door.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_8.page_4-1793347449588.mp3
+Leo's room was small and simple and very tidy. There was a narrow bed with a blue blanket, a chair with a shirt over it, and shelves full of books about trees, insects and soil. On the windowsill there was a glass jar full of dry cherry stones, hundreds of them. Under the window there was an old wooden desk with three drawers. The room smelled of him: soap, grass, something like warm wood. For a moment Maya stood in the doorway and could not move. She felt like a thief. She felt, she realised, exactly the way Leo must have felt when he first opened her sketchbook.
+She went to the desk. The top drawer was full of bills, seed packets and old pens. The second drawer held a pile of photographs: Leo as a boy on his grandfather's shoulders, Leo and Tess in school uniforms, a tired man in a flat cap smiling at the camera. The bottom drawer was stiff. She had to pull it hard with both hands, and when it opened, it opened suddenly, and she almost fell backwards onto the floor.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_8.page_5-1793347463114.mp3
+Inside, there was something wrapped in a clean white tea towel. Next to it there was a thick bundle of envelopes tied together with garden string. Maya's hands were shaking as she unwrapped the tea towel. She already knew what was inside. She knew it by its size, by its weight, by the way her body reacted before her mind did. It was a small blue sketchbook with a bent corner and a coffee stain on the back. Hers.
+She sat down on the floor with it on her knees. For a moment she simply held it, the way you hold a cat that has come home after being lost for months. Then she opened it. Robins. Pigeons. Seagulls fighting over chips. A robin in the snow. The window of the flat on Unthank Road. Marcus asleep, drawn very small in a corner, as if she had been afraid he would wake up and see. Two years of her life, looking up at her from the pages.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_8.page_6-1793347477791.mp3
+She turned to the end. The last pages were not drawings. They were words, written fast and badly, with some letters made bigger by drops of water that had fallen on the ink and dried. At the top of the page, underlined twice, there was a title: "Things that will make me happy again. 14th March." And under it, a list. She had forgotten almost all of it. Now, reading it, she remembered every word.
+> 1. Dark cherries in a paper bag, on a Saturday morning, like at Gran's.
+> 2. Someone who knows how I take my tea without asking.
+> 3. Walks by the river in the evening.
+> 4. Someone who laughs at my terrible jokes. Really laughs.
+> 5. To draw again.
+> 6. To hear someone call me Pip.
+> 7. A whole day in an orchard.
+> 8. Someone who notices when I'm sad, even when I'm smiling.
+> 9. To dance in the rain like an idiot and not care who sees.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_8.page_7-1793347498471.mp3
+Now she remembered writing it. The cold bench. The wind from the square. People walking past with shopping bags, looking at her and then quickly looking away. She had taken the blue book out of her bag because she did not know what else to do with her hands, and she had opened it at the back, and the words had come out of her pen as if someone else were pushing it. Not a plan. Not a wish, even. More like a prayer to nobody. A list of small, ordinary, impossible things, written by a woman who believed, at that moment, that none of them would ever happen to her again. And then she had closed the book, and stood up, and left it on the bench, and walked to the bus. She had never thought of it again. Someone else had.
+It was not the list that made her feel sick. It was what was next to it. Beside the first eight lines, in pencil, in a different hand, there were small, neat ticks. One after another, down the page. Dark cherries: tick. Tea: tick. River: tick. Jokes: tick. Draw again: tick, and next to it, very small, the words "flyer – cherry". Pip: tick. Orchard: tick. Notices when sad: tick. Only the ninth line had nothing beside it. Dance in the rain. Not yet.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_8.page_8-1793347511555.mp3
+Maya put her hand over her mouth. Everything. Every perfect moment of the summer, every time she had felt seen and understood and lucky, every coincidence that Gemma had called a red car. It had all been on this page. He had read her list and then he had gone through it, line by line, like a man doing his shopping. And every time he had given her something she wanted, he had come home and taken a pencil and made a little mark.
+She looked at the bundle of envelopes. There were perhaps twenty of them. None had a stamp. On the front of each one, in that small, careful handwriting, there was the same thing: not a name, not an address, just a drawing of a robin. She pulled the top one out from under the string and opened it. There was one page inside. The first line said, "Dear Pip, I know I'm not allowed to call you that. I know I'm not allowed to have read any of this."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_8.page_9-1793347525896.mp3
+Her phone buzzed in her pocket. She jumped so hard that the letter fell out of her hand. It was a message from Gemma. One word, in capital letters: "VAN". Then, almost at once, a second one: "MAYA GET OUT NOW". Through the window, at the bottom of the hill, she saw a white van turning off the road into the lane. It was coming fast. Much too fast. It was not one o'clock. It was not even ten.
+She did not think. She pushed the letter back into its envelope, grabbed the sketchbook and the whole bundle, and ran. Down the creaking stairs, past Tess's sign, into the kitchen. Bramble jumped up, barking happily, thinking it was a game. Outside, she heard the van stop in the yard with a scream of brakes, and a door slam. There was no back door. There was no other way out. She stood in the middle of the kitchen with the blue sketchbook held against her chest, and the door opened, and Leo was there.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_8.page_10-1793347538819.mp3
+He was out of breath, as if he had been running. His face was grey. He looked at her, and then he looked at what she was holding, and something in his face fell, like a building falling very slowly. It was not anger. Maya had been ready for anger. She had imagined it all the way up the stairs: his face going hard, the way it had by the river when he read Tess's note. But it was not anger. It was fear. He looked like a man watching the worst thing in his life happen in front of him.
+"Maya," he said. His voice was very quiet. "Tess phoned me. She told me what she'd said to you. I came back as fast as I could. I wanted to…" He stopped. He looked at the sketchbook again. "I wanted to give it to you myself." "You ticked them," said Maya. Her voice was shaking, and she hated it. "You read my list and you ticked them off. Like a shopping list. Like I was a job you had to finish."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b1-the-cherry-seller/chapter_8.page_11-1793347554214.mp3
+"No," said Leo. "No, it wasn't like that. Please. Let me explain." He took one step towards her. Maya took one step back and hit the edge of the table. "Don't," she said. "Don't come near me." Leo stopped at once. He looked at her as if she had hit him. Then, slowly, he lifted both his hands, open, the way you show a frightened animal that you are holding nothing. He stepped sideways, away from the door, until his back was against the wall and the way out was completely clear.
+"Go," he said. "I won't stop you. I would never stop you." Maya ran. She ran across the yard and down the lane between the empty trees, with the sketchbook and the letters pressed against her chest. She did not look back until she reached Gemma's car and threw herself inside and Gemma drove away so fast that the wheels threw up stones. Only then did she turn and look through the back window. Leo was standing in the yard, exactly where she had left him, with the dog sitting at his feet. He did not follow. He did not move at all. He just stood there, getting smaller and smaller, until the lane turned and the trees hid him from view.

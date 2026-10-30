@@ -3798,6 +3798,12 @@
       "example": "Ten paces behind him, Uncle Bram lowered his axe, wiped his brow with a forearm as thick as a fencepost, and waited."
     },
     {
+      "word": "Bramble",
+      "pos": "PROPN",
+      "translation": "Bramble (nom du chien ; « bramble » : la ronce)",
+      "example": "On its collar there was a little metal tag that said \"Bramble\"."
+    },
+    {
       "word": "Bramwell",
       "pos": "PROPN",
       "translation": "Bramwell (nom de famille)",
@@ -4520,7 +4526,7 @@
     {
       "word": "by the way",
       "pos": "PHRASE",
-      "translation": "au fait, d'ailleurs",
+      "translation": "au fait, d'ailleurs ; (« by the way her body reacted » : à la façon dont son corps réagissait)",
       "example": "\"I'm Dot, by the way,\" said the girl, and she held out her hand."
     },
     {
@@ -13024,6 +13030,12 @@
       "example": "This one swung slowly from side to side, three times, and went out."
     },
     {
+      "word": "from view",
+      "pos": "PHRASE",
+      "translation": "à la vue (« hide from view » : cacher, dérober à la vue)",
+      "example": "He just stood there, getting smaller and smaller, until the lane turned and the trees hid him from view."
+    },
+    {
       "word": "front",
       "pos": "ADJ",
       "translation": "de devant (« front door » : la porte d'entrée)",
@@ -13612,6 +13624,12 @@
       "example": "\"Get your boots on.\""
     },
     {
+      "word": "get out",
+      "pos": "PHRASE",
+      "translation": "sortir, partir (« get out! » : sors !, dehors !)",
+      "example": "Then, almost at once, a second one: \"MAYA GET OUT NOW\"."
+    },
+    {
       "word": "get out of bed",
       "pos": "PHRASE",
       "translation": "se lever, sortir du lit",
@@ -14049,6 +14067,12 @@
       "example": "\"We've been going round and round all night.\""
     },
     {
+      "word": "go through",
+      "pos": "PHRASE",
+      "translation": "traverser, passer par ; parcourir, passer en revue",
+      "example": "He had read her list and then he had gone through it, line by line, like a man doing his shopping."
+    },
+    {
       "word": "go to bed",
       "pos": "PHRASE",
       "translation": "aller se coucher",
@@ -14245,6 +14269,12 @@
       "pos": "NOUN",
       "translation": "la mamie, la grand-mère (familier)",
       "example": "My gran looked peaceful for a week once, and she—"
+    },
+    {
+      "word": "Gran",
+      "pos": "PROPN",
+      "translation": "Mamie (nom affectueux de la grand-mère)",
+      "example": "1. Dark cherries in a paper bag, on a Saturday morning, like at Gran's."
     },
     {
       "word": "grand",
@@ -15420,6 +15450,12 @@
       "pos": "PHRASE",
       "translation": "la crise cardiaque",
       "example": "Four years ago, his father had died suddenly, of a heart attack, in the middle of the harvest."
+    },
+    {
+      "word": "heart jump into her mouth",
+      "pos": "PHRASE",
+      "translation": "avoir le cœur qui fait un bond (de peur)",
+      "example": "Maya's heart jumped into her mouth."
     },
     {
       "word": "heart rate",
@@ -16784,6 +16820,12 @@
       "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
     },
     {
+      "word": "in capital letters",
+      "pos": "PHRASE",
+      "translation": "en majuscules",
+      "example": "One word, in capital letters: \"VAN\"."
+    },
+    {
       "word": "in case",
       "pos": "PHRASE",
       "translation": "au cas où"
@@ -17878,6 +17920,12 @@
       "example": "The voice came out of the darkness behind the ferns, dry and cracked and very old, and all four of them nearly jumped out of their skins."
     },
     {
+      "word": "jump up",
+      "pos": "PHRASE",
+      "translation": "bondir, se lever d'un bond",
+      "example": "Bramble jumped up, barking happily, thinking it was a game."
+    },
+    {
       "word": "jumper",
       "pos": "NOUN",
       "translation": "le pull",
@@ -17976,7 +18024,7 @@
     {
       "word": "keep out",
       "pos": "PHRASE",
-      "translation": "empêcher d'entrer, tenir à l'écart",
+      "translation": "empêcher d'entrer, tenir à l'écart ; (sur une porte) défense d'entrer",
       "example": "But it had not been made to keep out Bram."
     },
     {
@@ -19394,6 +19442,12 @@
       "pos": "NOUN",
       "translation": "la ligne",
       "example": "It was the name in the last lines that made him read the notice twice."
+    },
+    {
+      "word": "line by line",
+      "pos": "PHRASE",
+      "translation": "ligne par ligne",
+      "example": "He had read her list and then he had gone through it, line by line, like a man doing his shopping."
     },
     {
       "word": "linen",
@@ -25321,6 +25375,12 @@
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
     },
     {
+      "word": "prayer",
+      "pos": "NOUN",
+      "translation": "la prière",
+      "example": "More like a prayer to nobody."
+    },
+    {
       "word": "precariously",
       "pos": "ADV",
       "translation": "précairement, en équilibre instable",
@@ -28536,6 +28596,12 @@
       "example": "Inside it she had put the things she wanted to keep: her school reports."
     },
     {
+      "word": "school uniform",
+      "pos": "PHRASE",
+      "translation": "l'uniforme scolaire",
+      "example": "The second drawer held a pile of photographs: Leo as a boy on his grandfather's shoulders, Leo and Tess in school uniforms, a tired man in a flat cap smiling at the camera."
+    },
+    {
       "word": "schoolboy",
       "pos": "NOUN",
       "translation": "l'écolier",
@@ -28662,10 +28728,22 @@
       "example": "There was only one date on it, 14 March 1987, and next to it a name that had been scratched out so violently that the pen had torn through the paper."
     },
     {
+      "word": "scratching",
+      "pos": "NOUN",
+      "translation": "le grattement",
+      "example": "Then there was a scratching of claws on the stone floor, and a black-and-white dog came running round the table towards her."
+    },
+    {
       "word": "scrawl",
       "pos": "NOUN",
       "translation": "le gribouillis, la signature griffonnée",
       "example": "At the bottom, beneath Maren Vell's tidy signature and Master Hale's impatient scrawl, there was a third name, written in large, laborious capitals that had pressed so hard into the paper they had almost gone through it."
+    },
+    {
+      "word": "scream",
+      "pos": "NOUN",
+      "translation": "le cri (perçant), le hurlement ; (de freins) le crissement",
+      "example": "Outside, she heard the van stop in the yard with a scream of brakes, and a door slam."
     },
     {
       "word": "scream",
@@ -28876,6 +28954,12 @@
       "pos": "NOUN",
       "translation": "la graine, la semence",
       "example": "On the fourth day, Moss handed him a seed."
+    },
+    {
+      "word": "seed packet",
+      "pos": "PHRASE",
+      "translation": "le sachet de graines",
+      "example": "The top drawer was full of bills, seed packets and old pens."
     },
     {
       "word": "seedling",
@@ -33216,6 +33300,12 @@
       "example": "Edric sat up front with the driver, a taciturn old man called Gethin who addressed his oxen far more tenderly than he ever addressed his passengers."
     },
     {
+      "word": "tag",
+      "pos": "NOUN",
+      "translation": "la médaille, l'étiquette",
+      "example": "On its collar there was a little metal tag that said \"Bramble\"."
+    },
+    {
       "word": "tail",
       "pos": "NOUN",
       "translation": "la queue",
@@ -34253,6 +34343,12 @@
       "example": "He did not throw it away."
     },
     {
+      "word": "throw up",
+      "pos": "PHRASE",
+      "translation": "projeter (en l'air) ; vomir",
+      "example": "She did not look back until she reached Gemma's car and threw herself inside and Gemma drove away so fast that the wheels threw up stones."
+    },
+    {
       "word": "thrum",
       "pos": "NOUN",
       "translation": "le vrombissement, la vibration sourde",
@@ -34329,6 +34425,12 @@
       "pos": "VERB",
       "translation": "faire tic-tac, crépiter",
       "example": "Rowan could hear the frost ticking on the panes."
+    },
+    {
+      "word": "tick off",
+      "pos": "PHRASE",
+      "translation": "cocher (sur une liste)",
+      "example": "\"You read my list and you ticked them off."
     },
     {
       "word": "ticket",
@@ -35329,7 +35431,7 @@
     {
       "word": "turn off",
       "pos": "PHRASE",
-      "translation": "éteindre",
+      "translation": "éteindre ; (une route) quitter, tourner",
       "example": "Max turned off the television and lay back in the dark."
     },
     {
@@ -36898,6 +37000,12 @@
       "example": "In the queue for the washrooms in the morning."
     },
     {
+      "word": "wasp",
+      "pos": "NOUN",
+      "translation": "la guêpe",
+      "example": "Under them, in the long grass, the fallen fruit had gone brown and soft, and wasps were moving slowly over it, drunk on sugar."
+    },
+    {
       "word": "waste",
       "pos": "NOUN",
       "translation": "le gaspillage, la perte",
@@ -37844,6 +37952,12 @@
       "pos": "ADJ",
       "translation": "sage, avisé",
       "example": "But until I do, you would be wise to trust no one."
+    },
+    {
+      "word": "wish",
+      "pos": "NOUN",
+      "translation": "le souhait, le vœu",
+      "example": "Not a wish, even."
     },
     {
       "word": "wish",
