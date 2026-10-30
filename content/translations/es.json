@@ -26,6 +26,12 @@
       "example": "He fed the horses, carried water from the well and polished his master's boots until he could almost see his own reflection in the leather."
     },
     {
+      "word": "12th",
+      "pos": "NOUN",
+      "translation": "el día 12",
+      "example": "Sunday 12th: Mrs Patel, Henleaze, sofa and two beds to Filton, £120."
+    },
+    {
       "word": "1960s",
       "pos": "NOUN",
       "translation": "los años sesenta («the 1960s»: la década de 1960)",
@@ -2916,6 +2922,12 @@
       "example": "\"Think about which you'd rather he slept behind.\""
     },
     {
+      "word": "behind my back",
+      "pos": "PHRASE",
+      "translation": "a mis espaldas",
+      "example": "\"Behind my back."
+    },
+    {
       "word": "behind the wheel",
       "pos": "PHRASE",
       "translation": "al volante",
@@ -2926,6 +2938,12 @@
       "pos": "NOUN",
       "translation": "el ser («human being»: el ser humano)",
       "example": "Gaz, without being asked, moved Max from the night shift to the early morning shift at the warehouse, so that he could sleep at night like a normal human being."
+    },
+    {
+      "word": "belief",
+      "pos": "NOUN",
+      "translation": "la convicción, la creencia",
+      "example": "Tom stood in the living room and felt her despair, and her confusion, and her total, absolute belief that Lee had done nothing wrong."
     },
     {
       "word": "believable",
@@ -5704,6 +5722,12 @@
       "pos": "NOUN",
       "translation": "el carbón vegetal ; (color) gris marengo",
       "example": "The first was a tall man in a long coat of charcoal wool, with close-cropped grey hair and the bearing of someone who had spent his life being obeyed."
+    },
+    {
+      "word": "charge",
+      "pos": "NOUN",
+      "translation": "la acusación, el cargo ; el precio",
+      "example": "Lee Barnes was released at six o'clock that evening, with no charge for theft."
     },
     {
       "word": "charge",
@@ -9012,6 +9036,12 @@
       "example": "Does it depend on how long you play?"
     },
     {
+      "word": "deposit",
+      "pos": "NOUN",
+      "translation": "la entrada (de una casa), el depósito",
+      "example": "He was saving it for a deposit on a house, for him and Kayleigh, because they wanted to get married next year."
+    },
+    {
       "word": "depot",
       "pos": "NOUN",
       "translation": "el depósito, el almacén",
@@ -9076,6 +9106,12 @@
       "pos": "ADJ",
       "translation": "desolado",
       "example": "The Drumochter Pass marks the highest point on the whole of the A9, a desolate saddle of moorland some fifteen hundred feet above sea level, and in winter it can turn from merely bleak to genuinely lethal in the space of half an hour."
+    },
+    {
+      "word": "despair",
+      "pos": "NOUN",
+      "translation": "la desesperación",
+      "example": "Tom stood in the living room and felt her despair, and her confusion, and her total, absolute belief that Lee had done nothing wrong."
     },
     {
       "word": "desperate",
@@ -9426,6 +9462,18 @@
       "example": "There was no time to discuss it."
     },
     {
+      "word": "disgrace",
+      "pos": "NOUN",
+      "translation": "la vergüenza, el escándalo",
+      "example": "\"It's a disgrace.\""
+    },
+    {
+      "word": "disgust",
+      "pos": "NOUN",
+      "translation": "el asco, la repugnancia",
+      "example": "Ray Fletcher looked at Tom with a hard, cold expression, and from the old baker came a feeling of disgust that Tom did not like at all."
+    },
+    {
       "word": "dish",
       "pos": "NOUN",
       "translation": "el plato, el cuenco",
@@ -9616,6 +9664,12 @@
       "pos": "NOUN",
       "translation": "el timbre",
       "example": "Priya came round that evening, and she did not ring the doorbell."
+    },
+    {
+      "word": "doorbell camera",
+      "pos": "PHRASE",
+      "translation": "el timbre con cámara",
+      "example": "\"The man in number fourteen has one of those doorbell cameras."
     },
     {
       "word": "doorstep",
@@ -10246,6 +10300,12 @@
       "pos": "NOUN",
       "translation": "el deber",
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "duty lawyer",
+      "pos": "PHRASE",
+      "translation": "el abogado de oficio",
+      "example": "In the interview room that afternoon, with a duty lawyer next to him, Lee Barnes told them everything."
     },
     {
       "word": "duvet",
@@ -11428,6 +11488,12 @@
       "example": "A box of artists' pencils on his doorstep, the expensive Japanese kind he had been saving up for since he was fourteen."
     },
     {
+      "word": "experience",
+      "pos": "NOUN",
+      "translation": "la experiencia",
+      "example": "He heard the note in his own head before he even opened his mouth, which was a strange experience."
+    },
+    {
       "word": "experiment",
       "pos": "NOUN",
       "translation": "el experimento",
@@ -12244,6 +12310,12 @@
       "example": "He filmed his hand with his phone and compared it with the diagram, frame by frame, the way he used to study combos in fighting games."
     },
     {
+      "word": "Filton",
+      "pos": "PROPN",
+      "translation": "Filton (barrio del norte de Bristol)",
+      "example": "Sunday 12th: Mrs Patel, Henleaze, sofa and two beds to Filton, £120."
+    },
+    {
       "word": "final",
       "pos": "ADJ",
       "translation": "final, último",
@@ -12284,6 +12356,12 @@
       "pos": "INTJ",
       "translation": "vale, bueno",
       "example": "And then, a minute later: Fine."
+    },
+    {
+      "word": "fine",
+      "pos": "NOUN",
+      "translation": "la multa",
+      "example": "Two small fines for speeding, years ago."
     },
     {
       "word": "finely",
@@ -12560,6 +12638,12 @@
       "pos": "NUM",
       "translation": "cinco",
       "example": "For five days they travelled through thick forests and across cold rivers, sleeping under the stars when there was no village nearby."
+    },
+    {
+      "word": "fives",
+      "pos": "NOUN",
+      "translation": "los billetes de cinco (libras)",
+      "example": "\"Mostly tens and twenties. Some fives.\""
     },
     {
       "word": "fix",
@@ -13286,6 +13370,12 @@
       "pos": "ADJ",
       "translation": "oficial, ceremonioso, formal",
       "example": "The script was formal and faintly impatient, the way official documents always seemed to be."
+    },
+    {
+      "word": "formal complaint",
+      "pos": "PHRASE",
+      "translation": "la denuncia formal, la queja oficial",
+      "example": "\"I'll be making a formal complaint,\" she said loudly."
     },
     {
       "word": "formerly",
@@ -14060,6 +14150,12 @@
       "pos": "PROPN",
       "translation": "Garnier (apellido)",
       "example": "Noé Garnier had lived there all his life, and at seventeen he had already worked out that Aubrecourt had two kinds of people: those who were planning to leave, and those who had given up on the idea."
+    },
+    {
+      "word": "Gary",
+      "pos": "PROPN",
+      "translation": "Gary (nombre)",
+      "example": "Sunday 12th: Gary, wardrobe, £60."
     },
     {
       "word": "gasp",
@@ -15710,6 +15806,12 @@
       "example": "Mr Quill pulled the handbrake, turned off the engine and stood up."
     },
     {
+      "word": "handcuff",
+      "pos": "NOUN",
+      "translation": "la esposa («handcuffs»: las esposas)",
+      "example": "Sam put the handcuffs on Lee's wrists and read him his rights, and Lee did not fight, did not run, did not say anything except \"Please don't tell my mum.\""
+    },
+    {
       "word": "handful",
       "pos": "NOUN",
       "translation": "el puñado",
@@ -16422,6 +16524,12 @@
       "pos": "NOUN",
       "translation": "el gallinero",
       "example": "And a few weeks ago, a person nobody saw walked into this Academy as easily as a fox walks into a henhouse, and walked out again with a fourth-year boy."
+    },
+    {
+      "word": "Henleaze",
+      "pos": "PROPN",
+      "translation": "Henleaze (barrio del norte de Bristol)",
+      "example": "Sunday 12th: Mrs Patel, Henleaze, sofa and two beds to Filton, £120."
     },
     {
       "word": "her",
@@ -17307,6 +17415,12 @@
     },
     {
       "word": "hurt",
+      "pos": "NOUN",
+      "translation": "el dolor, la herida (emocional)",
+      "example": "It was hurt."
+    },
+    {
+      "word": "hurt",
       "pos": "VERB",
       "translation": "doler, hacer daño",
       "example": "His knees hurt, and twice he almost fell asleep."
@@ -17795,6 +17909,12 @@
       "example": "He lost the match in straight sets, six-one, six-two, six-love."
     },
     {
+      "word": "in tears",
+      "pos": "PHRASE",
+      "translation": "llorando, bañada en lágrimas",
+      "example": "\"An arrest in front of his colleagues, his home searched, his girlfriend in tears, all because of a camera picture of a van that he parked outside his own flat."
+    },
+    {
       "word": "in that order",
       "pos": "PHRASE",
       "translation": "en ese orden",
@@ -18137,6 +18257,12 @@
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
     },
     {
+      "word": "innocent",
+      "pos": "ADJ",
+      "translation": "inocente",
+      "example": "He talked about trust, and about evidence, and about how he would now have to explain to the Superintendent why one of his detectives had arrested an innocent man in front of half of Gloucester Road."
+    },
+    {
       "word": "inscription",
       "pos": "NOUN",
       "translation": "la inscripción",
@@ -18195,6 +18321,12 @@
       "pos": "VERB",
       "translation": "inspeccionar, examinar",
       "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
+    },
+    {
+      "word": "inspector",
+      "pos": "NOUN",
+      "translation": "el inspector, la inspectora",
+      "example": "Tom felt the inspector's doubt, and his impatience, and under them his strong wish to finish this case quickly for Joan Hartley."
     },
     {
       "word": "Inspector",
@@ -18362,6 +18494,18 @@
       "pos": "NOUN",
       "translation": "el intervalo («at intervals»: a intervalos)",
       "example": "Gideon dozed in his seat and woke at intervals to find the world outside transformed: the snow had stopped, the clouds had torn apart, and a lopsided moon hung above the pass, pouring a cold, unearthly radiance over a landscape that seemed to have been newly invented."
+    },
+    {
+      "word": "interview",
+      "pos": "NOUN",
+      "translation": "el interrogatorio ; la entrevista",
+      "example": "\"While we were doing the interview."
+    },
+    {
+      "word": "interview room",
+      "pos": "PHRASE",
+      "translation": "la sala de interrogatorios",
+      "example": "In the interview room that afternoon, with a duty lawyer next to him, Lee Barnes told them everything."
     },
     {
       "word": "intimate",
@@ -18884,6 +19028,12 @@
       "pos": "NOUN",
       "translation": "el karaoke",
       "example": "Ines, who had already been to four parties and a karaoke night?"
+    },
+    {
+      "word": "Kayleigh",
+      "pos": "PROPN",
+      "translation": "Kayleigh (nombre)",
+      "example": "It was a small flat on the fourth floor of a block in Southmead, with a balcony full of plants and a fridge covered in photos of Lee and his girlfriend, Kayleigh, at the seaside."
     },
     {
       "word": "keep",
@@ -24067,6 +24217,12 @@
       "translation": "a propósito"
     },
     {
+      "word": "on suspicion of",
+      "pos": "PHRASE",
+      "translation": "por sospecha de",
+      "example": "\"All right. Arrest him on suspicion of theft."
+    },
+    {
       "word": "on the day",
       "pos": "PHRASE",
       "translation": "el mismo día, el día D",
@@ -25157,6 +25313,12 @@
       "pos": "PHRASE",
       "translation": "las notas del parche (videojuego)",
       "example": "He had spent enough nights reading game wikis and patch notes to know how you work out the rules of a system nobody has explained to you: you change one thing at a time, you write everything down, and you never trust a result you can't repeat."
+    },
+    {
+      "word": "Patel",
+      "pos": "PROPN",
+      "translation": "Patel (apellido de origen indio)",
+      "example": "Sunday 12th: Mrs Patel, Henleaze, sofa and two beds to Filton, £120."
     },
     {
       "word": "path",
@@ -27858,6 +28020,12 @@
       "example": "Sir Godfrey read it twice before he spoke."
     },
     {
+      "word": "read him his rights",
+      "pos": "PHRASE",
+      "translation": "leerle sus derechos",
+      "example": "Sam put the handcuffs on Lee's wrists and read him his rights, and Lee did not fight, did not run, did not say anything except \"Please don't tell my mum.\""
+    },
+    {
       "word": "reader",
       "pos": "NOUN",
       "translation": "el lector",
@@ -27958,6 +28126,12 @@
       "pos": "ADJ",
       "translation": "razonable, sensato",
       "example": "He expected her to argue, to say something reasonable about teachers and complaints and proof."
+    },
+    {
+      "word": "reasonable grounds",
+      "pos": "PHRASE",
+      "translation": "motivos razonables (para sospechar)",
+      "example": "\"That's reasonable grounds. Just.\""
     },
     {
       "word": "receipt",
@@ -29976,6 +30150,12 @@
       "example": "The school is closed. — La escuela está cerrada."
     },
     {
+      "word": "school assembly",
+      "pos": "PHRASE",
+      "translation": "la reunión escolar, la función del colegio",
+      "example": "\"Ella's school assembly at 9."
+    },
+    {
       "word": "school report",
       "pos": "PHRASE",
       "translation": "el boletín de notas",
@@ -30270,6 +30450,12 @@
       "example": "Without his mother's name before she married — and Rowan realised, with a hollow feeling in his stomach, that he did not know it — they could have searched all night."
     },
     {
+      "word": "seaside",
+      "pos": "NOUN",
+      "translation": "la playa, la costa",
+      "example": "It was a small flat on the fourth floor of a block in Southmead, with a balcony full of plants and a fridge covered in photos of Lee and his girlfriend, Kayleigh, at the seaside."
+    },
+    {
       "word": "season",
       "pos": "NOUN",
       "translation": "la estación",
@@ -30308,7 +30494,7 @@
     {
       "word": "second round",
       "pos": "PHRASE",
-      "translation": "el segundo asalto",
+      "translation": "el segundo asalto ; (repartos) la segunda ronda de entregas",
       "example": "The bell rang for the second round."
     },
     {
@@ -32754,6 +32940,12 @@
       "example": "Bandits have been attacking villages along the southern road."
     },
     {
+      "word": "Southmead",
+      "pos": "PROPN",
+      "translation": "Southmead (barrio del norte de Bristol)",
+      "example": "It was a small flat on the fourth floor of a block in Southmead, with a balcony full of plants and a fridge covered in photos of Lee and his girlfriend, Kayleigh, at the seaside."
+    },
+    {
       "word": "space",
       "pos": "NOUN",
       "translation": "el espacio, el hueco",
@@ -32884,6 +33076,12 @@
       "pos": "PHRASE",
       "translation": "el radar (de velocidad)",
       "example": "They talked as drivers talk, which is to say mostly about other things — her mother's hip, his daughter's new kitchen, a mutual acquaintance who had finally been caught by a speed camera he had been boasting about evading for fifteen years."
+    },
+    {
+      "word": "speeding",
+      "pos": "NOUN",
+      "translation": "el exceso de velocidad",
+      "example": "Two small fines for speeding, years ago."
     },
     {
       "word": "spell",
@@ -34032,6 +34230,12 @@
       "example": "The street lamps made yellow circles in the grey, and the only sound was the hiss of a lorry somewhere on the main road."
     },
     {
+      "word": "street light",
+      "pos": "PHRASE",
+      "translation": "la farola",
+      "example": "The video was in colour, but dark, lit by a street light."
+    },
+    {
       "word": "streetlamp",
       "pos": "NOUN",
       "translation": "la farola",
@@ -35177,6 +35381,12 @@
       "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
     },
     {
+      "word": "tax office",
+      "pos": "PHRASE",
+      "translation": "Hacienda, la oficina de impuestos",
+      "example": "He did not declare the money to the tax office."
+    },
+    {
       "word": "taxi",
       "pos": "NOUN",
       "translation": "el taxi",
@@ -35367,6 +35577,12 @@
       "pos": "PROPN",
       "translation": "Tennyson (Alfred Tennyson: poeta inglés de la época victoriana)",
       "example": "Harriet had already decided: Tennyson, with slides, and \"possibly a short film\"."
+    },
+    {
+      "word": "tens",
+      "pos": "NOUN",
+      "translation": "los billetes de diez (libras)",
+      "example": "\"Mostly tens and twenties. Some fives.\""
     },
     {
       "word": "tent",

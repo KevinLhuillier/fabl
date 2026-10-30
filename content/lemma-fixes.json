@@ -164,6 +164,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "ashamed",
+      "pos": "VERB",
+      "word": "ashamed",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "ASHBY",
       "pos": "PROPN",
       "word": "Ashby",
@@ -1507,6 +1513,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "fives",
+      "pos": "NOUN",
+      "word": "fives",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "flat",
       "pos": "ADJ",
       "next": ",",
@@ -2700,6 +2712,13 @@
     {
       "text": "Mare",
       "pos": "ADJ",
+      "prev": "-",
+      "word": "Weston-super-Mare",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Mare",
+      "pos": "NOUN",
       "prev": "-",
       "word": "Weston-super-Mare",
       "lemmaPos": "PROPN"
@@ -4019,6 +4038,13 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "settle",
+      "pos": "NOUN",
+      "prev": "heavy",
+      "word": "settle",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Seven",
       "pos": "PROPN",
       "word": "seven",
@@ -4731,6 +4757,12 @@
       "text": "Tennis",
       "pos": "PROPN",
       "word": "tennis",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "tens",
+      "pos": "NOUN",
+      "word": "tens",
       "lemmaPos": "NOUN"
     },
     {
