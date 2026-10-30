@@ -1042,6 +1042,12 @@
       "example": "The vicar, Reverend Ruth Amos, was standing on a chair near the altar."
     },
     {
+      "word": "amount",
+      "pos": "NOUN",
+      "translation": "la somma, l'importo",
+      "example": "\"Small amounts, at first."
+    },
+    {
       "word": "amused",
       "pos": "ADJ",
       "translation": "divertito",
@@ -2395,6 +2401,12 @@
       "example": "Around him the others slept — the Tanner brothers still snoring in harmony, Jory sprawled on his back with one arm flung over his face, Tamsin curled into a tight ball under her mother's quilt."
     },
     {
+      "word": "balloon",
+      "pos": "NOUN",
+      "translation": "il palloncino",
+      "example": "Nadia was probably blowing up balloons, or hiding presents, or trying to stop a seven-year-old from eating the cake before the party."
+    },
+    {
       "word": "banana",
       "pos": "NOUN",
       "translation": "la banana",
@@ -3556,6 +3568,12 @@
       "pos": "PHRASE",
       "translation": "spegnere (soffiando), soffiare",
       "example": "He caught Rowan watching and made a great show of blowing the spark out like a birthday candle."
+    },
+    {
+      "word": "blow up",
+      "pos": "PHRASE",
+      "translation": "gonfiare (un palloncino) ; esplodere, far saltare",
+      "example": "Nadia was probably blowing up balloons, or hiding presents, or trying to stop a seven-year-old from eating the cake before the party."
     },
     {
       "word": "blue",
@@ -8598,6 +8616,12 @@
       "example": "Not the table, or the hedge, because Bram had written show no one, and putting something on paper felt dangerously like showing it."
     },
     {
+      "word": "Daniel",
+      "pos": "PROPN",
+      "translation": "Daniel (nome; diminutivo: Danny)",
+      "example": "\"That's Daniel,\" she said. \"My younger son. Danny."
+    },
+    {
       "word": "Danny",
       "pos": "PROPN",
       "translation": "Danny (nome)",
@@ -9486,6 +9510,12 @@
       "example": "Bram filled the doorway, his sleeves rolled up and a dishcloth in one fist."
     },
     {
+      "word": "dislike",
+      "pos": "NOUN",
+      "translation": "l'antipatia, l'avversione",
+      "example": "When she saw him, her face closed, and from her came a cold, polite dislike."
+    },
+    {
       "word": "dismantled",
       "pos": "ADJ",
       "translation": "smontato",
@@ -9628,6 +9658,12 @@
       "pos": "NOUN",
       "translation": "il cane",
       "example": "He has a big dog. — Ha un cane grande."
+    },
+    {
+      "word": "dog walker",
+      "pos": "PHRASE",
+      "translation": "chi porta a spasso il cane",
+      "example": "The streets were wet and empty, the shops were closed, and the only feelings in the air came from a few sleepy dog walkers and a milkman whistling in his little electric van."
     },
     {
       "word": "Dogger",
@@ -10978,6 +11014,12 @@
       "pos": "VERB",
       "translation": "godersi, provare piacere",
       "example": "I don't want to become someone who enjoys that."
+    },
+    {
+      "word": "enlarge",
+      "pos": "VERB",
+      "translation": "ingrandire",
+      "example": "When he had finished, she took the phone and enlarged the photo with two fingers until the small dark mark on Danny's hand filled the screen."
     },
     {
       "word": "enormous",
@@ -12671,6 +12713,12 @@
     },
     {
       "word": "flap",
+      "pos": "NOUN",
+      "translation": "la ribalta, lo sportello",
+      "example": "Then she lifted the wooden flap in the counter and pointed to a narrow staircase behind the kitchen."
+    },
+    {
+      "word": "flap",
       "pos": "VERB",
       "translation": "sbattere (al vento)",
       "example": "A few were missing altogether, and someone had patched the gaps with oiled canvas that flapped in the wind."
@@ -14158,6 +14206,18 @@
       "example": "Sunday 12th: Gary, wardrobe, £60."
     },
     {
+      "word": "gas",
+      "pos": "NOUN",
+      "translation": "il gas («gas fire»: la stufa a gas)",
+      "example": "A gas fire was burning in the living room."
+    },
+    {
+      "word": "gas fire",
+      "pos": "PHRASE",
+      "translation": "la stufa a gas",
+      "example": "A gas fire was burning in the living room."
+    },
+    {
       "word": "gasp",
       "pos": "NOUN",
       "translation": "il sussulto, il respiro trattenuto",
@@ -14783,7 +14843,7 @@
     {
       "word": "go down",
       "pos": "PHRASE",
-      "translation": "scendere; (sole) tramontare",
+      "translation": "scendere; (sole) tramontare ; (rabbia, prezzo) calare, diminuire",
       "example": "As the sun went down, Edwin remembered Godfrey's lesson."
     },
     {
@@ -17384,6 +17444,12 @@
       "example": "\"And most of all, they've always hunted the ones with two.\""
     },
     {
+      "word": "hurricane",
+      "pos": "NOUN",
+      "translation": "l'uragano",
+      "example": "It was like standing in front of a hurricane."
+    },
+    {
       "word": "hurried",
       "pos": "ADJ",
       "translation": "frettoloso, affrettato",
@@ -19754,6 +19820,12 @@
       "pos": "ADV",
       "translation": "tardi",
       "example": "\"Late?\""
+    },
+    {
+      "word": "late husband",
+      "pos": "PHRASE",
+      "translation": "il defunto marito",
+      "example": "Most of them were of the bakery, or of a big, smiling man with a moustache who must be her late husband, Douglas."
     },
     {
       "word": "late night",
@@ -22152,6 +22224,12 @@
       "pos": "NOUN",
       "translation": "il latte («milk-white»: bianco latte)",
       "example": "His face was so wrinkled that his eyes had almost disappeared into it, and one of them was clouded milk-white."
+    },
+    {
+      "word": "milkman",
+      "pos": "NOUN",
+      "translation": "il lattaio",
+      "example": "The streets were wet and empty, the shops were closed, and the only feelings in the air came from a few sleepy dog walkers and a milkman whistling in his little electric van."
     },
     {
       "word": "mill",
@@ -24691,6 +24769,12 @@
       "example": "She looked up at the tower out of habit."
     },
     {
+      "word": "out of his own pocket",
+      "pos": "PHRASE",
+      "translation": "di tasca propria",
+      "example": "Mark had been paying his brother's debts, slowly, out of his own pocket."
+    },
+    {
       "word": "out of kindness",
       "pos": "PHRASE",
       "translation": "per gentilezza",
@@ -24767,6 +24851,12 @@
       "pos": "ADV",
       "translation": "verso l'esterno",
       "example": "It burst — split from end to end along its grain with a crack like a frozen bough giving way, and then split again, and again, into a hundred pale splinters that sprayed outward through the air like a handful of thrown needles."
+    },
+    {
+      "word": "oval",
+      "pos": "NOUN",
+      "translation": "l'ovale",
+      "example": "Ella roared too, and then she gave him a folded piece of paper with a drawing of a brown oval with legs and a big smile."
     },
     {
       "word": "ovation",
@@ -28144,6 +28234,12 @@
       "pos": "VERB",
       "translation": "ricevere",
       "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
+    },
+    {
+      "word": "recent",
+      "pos": "ADJ",
+      "translation": "recente",
+      "example": "Instead, he asked if he could take a photo of one of the pictures, a recent one, from Mark's birthday the year before Danny left."
     },
     {
       "word": "recently",
@@ -35513,6 +35609,12 @@
       "example": "Everyone told him it was impossible, that a squire had no right to address His Majesty directly."
     },
     {
+      "word": "tell me about it",
+      "pos": "PHRASE",
+      "translation": "a chi lo dici!",
+      "example": "\"Tell me about it,\" said Nadia."
+    },
+    {
       "word": "tell the difference",
       "pos": "PHRASE",
       "translation": "notare la differenza, distinguere",
@@ -36749,6 +36851,12 @@
       "example": "Three sentences in total, if you count \"Please\"."
     },
     {
+      "word": "Totterdown",
+      "pos": "PROPN",
+      "translation": "Totterdown (quartiere di Bristol dalle case colorate)",
+      "example": "Nadia lived in a small terraced house in Totterdown, one of those painted houses on the hill that look like a box of coloured pencils."
+    },
+    {
       "word": "touch",
       "pos": "NOUN",
       "translation": "il tocco, il contatto",
@@ -37611,6 +37719,12 @@
       "pos": "ADJ",
       "translation": "senza risposta",
       "example": "Master Grey brought them up to Hearthside in armfuls, and the Warden had every one of them burned unanswered."
+    },
+    {
+      "word": "unbreakable",
+      "pos": "ADJ",
+      "translation": "indistruttibile, infrangibile",
+      "example": "Tom looked at her and felt the love under the shame, enormous and stubborn and unbreakable."
     },
     {
       "word": "unbroken",
@@ -38792,6 +38906,12 @@
       "pos": "ADJ",
       "translation": "senza appuntamento («walk-in centre»: ambulatorio senza appuntamento)",
       "example": "A doctor at the walk-in centre told him he was dehydrated and seriously underweight, and asked him, quite suspiciously, what on earth he had been doing."
+    },
+    {
+      "word": "walker",
+      "pos": "NOUN",
+      "translation": "il passeggiatore («dog walker»: chi porta a spasso il cane)",
+      "example": "The streets were wet and empty, the shops were closed, and the only feelings in the air came from a few sleepy dog walkers and a milkman whistling in his little electric van."
     },
     {
       "word": "walking",

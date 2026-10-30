@@ -958,6 +958,14 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "crying",
+      "pos": "NOUN",
+      "prev": ",",
+      "next": ",",
+      "word": "cry",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Cup",
       "pos": "PROPN",
       "word": "cup",
@@ -1474,6 +1482,13 @@
       "pos": "ADJ",
       "word": "fern",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "fill",
+      "pos": "NOUN",
+      "prev": "pain",
+      "word": "fill",
+      "lemmaPos": "VERB"
     },
     {
       "text": "Fine",
@@ -2057,6 +2072,13 @@
       "pos": "PROPN",
       "word": "hers",
       "lemmaPos": "PRON"
+    },
+    {
+      "text": "hiding",
+      "pos": "NOUN",
+      "prev": "or",
+      "word": "hide",
+      "lemmaPos": "VERB"
     },
     {
       "text": "higher",
@@ -2702,6 +2724,12 @@
       "next": "games",
       "word": "make",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "MAN",
+      "pos": "PROPN",
+      "word": "man",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Manager",
@@ -3793,6 +3821,13 @@
     {
       "text": "rise",
       "pos": "NOUN",
+      "prev": "excitement",
+      "word": "rise",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "rise",
+      "pos": "NOUN",
       "prev": "her",
       "word": "rise",
       "lemmaPos": "VERB"
@@ -4197,6 +4232,12 @@
       "pos": "PROPN",
       "word": "sir",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "sixteen",
+      "pos": "ADJ",
+      "word": "sixteen",
+      "lemmaPos": "NUM"
     },
     {
       "text": "sixty",
@@ -4947,6 +4988,12 @@
       "pos": "PROPN",
       "word": "today",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "TOM",
+      "pos": "PROPN",
+      "word": "Tom",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Tomasz",
