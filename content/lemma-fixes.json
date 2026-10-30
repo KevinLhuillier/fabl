@@ -128,6 +128,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "anyway",
+      "pos": "INTJ",
+      "word": "anyway",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "archive",
       "pos": "ADJ",
       "word": "archive",
@@ -928,6 +934,13 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "dancing",
+      "pos": "NOUN",
+      "prev": "kept",
+      "word": "dance",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "dark",
       "pos": "PROPN",
       "word": "dark",
@@ -1096,6 +1109,13 @@
       "text": "drawing",
       "pos": "VERB",
       "prev": "cherry",
+      "word": "drawing",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "drawing",
+      "pos": "VERB",
+      "prev": "life",
       "word": "drawing",
       "lemmaPos": "NOUN"
     },
@@ -2373,6 +2393,12 @@
       "pos": "ADJ",
       "next": "wall",
       "word": "light",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "lighthouse",
+      "pos": "PROPN",
+      "word": "lighthouse",
       "lemmaPos": "NOUN"
     },
     {
@@ -3660,6 +3686,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "scissors",
+      "pos": "NOUN",
+      "word": "scissors",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Scottish",
       "pos": "ADJ",
       "word": "Scottish",
@@ -4494,6 +4526,13 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "touching",
+      "pos": "ADJ",
+      "prev": "not",
+      "word": "touch",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "TOUGH",
       "pos": "NOUN",
       "word": "tough",
@@ -4958,6 +4997,12 @@
       "text": "x.",
       "pos": "PROPN",
       "word": "x",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "y",
+      "pos": "PROPN",
+      "word": "y",
       "lemmaPos": "NOUN"
     },
     {

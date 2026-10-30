@@ -1294,6 +1294,12 @@
       "example": "At noon they sat on the stump to eat — black bread, a wedge of hard cheese, two wrinkled apples from the cellar."
     },
     {
+      "word": "apple juice",
+      "pos": "PHRASE",
+      "translation": "el zumo de manzana",
+      "example": "Not to the cherry stall: there were no cherries, and anyway it was Tess behind the table now, selling apple juice and eggs, looking tired."
+    },
+    {
       "word": "application",
       "pos": "NOUN",
       "translation": "la solicitud, la candidatura («application letter»: carta de solicitud)",
@@ -1490,6 +1496,12 @@
       "pos": "NOUN",
       "translation": "el arte («art shop»: la tienda de bellas artes)",
       "example": "On Monday, in her lunch break, Maya went to the art shop on Elm Hill and bought a new sketchbook."
+    },
+    {
+      "word": "art school",
+      "pos": "PHRASE",
+      "translation": "la escuela de bellas artes",
+      "example": "In the middle of September, she signed up for an evening class in life drawing at the art school."
     },
     {
       "word": "Arthur",
@@ -3906,6 +3918,12 @@
       "example": "Your body breaks down afterwards."
     },
     {
+      "word": "break off",
+      "pos": "PHRASE",
+      "translation": "romperse, desprenderse ; interrumpir",
+      "example": "He was kneeling in the grass, painting something dark onto the place where the branch had broken off."
+    },
+    {
       "word": "break up",
       "pos": "PHRASE",
       "translation": "dispersarse, disolverse",
@@ -5806,6 +5824,12 @@
       "pos": "PHRASE",
       "translation": "el árbol de Navidad",
       "example": "Ines's face lit up like a Christmas tree."
+    },
+    {
+      "word": "chrysanthemum",
+      "pos": "NOUN",
+      "translation": "el crisantemo",
+      "example": "She simply wrapped a bunch of yellow chrysanthemums in brown paper and gave it to Maya and refused to take any money."
     },
     {
       "word": "chuckle",
@@ -8058,6 +8082,12 @@
       "example": "And tonight I stood in a room at the top of a tower and asked the one person who might, and she looked at me like I'd asked her to cut off her own hand."
     },
     {
+      "word": "cut out",
+      "pos": "PHRASE",
+      "translation": "recortar, quitar (cortando)",
+      "example": "She had decided, finally, to cut the last pages out: the list, the ticks, all of it."
+    },
+    {
       "word": "cut through",
       "pos": "PHRASE",
       "translation": "atravesar, cortar",
@@ -9504,6 +9534,12 @@
       "example": "Then he texted Nell — \"Over the top\" — and drove on."
     },
     {
+      "word": "drive out",
+      "pos": "PHRASE",
+      "translation": "ir (en coche) hasta ; expulsar",
+      "example": "\"I saw him last week when I drove out to the farm for apples."
+    },
+    {
       "word": "driver",
       "pos": "NOUN",
       "translation": "el conductor («train driver»: maquinista)",
@@ -10636,6 +10672,12 @@
       "example": "That evening, they found shelter at a small inn called the Crooked Crown."
     },
     {
+      "word": "evening class",
+      "pos": "PHRASE",
+      "translation": "la clase nocturna",
+      "example": "In the middle of September, she signed up for an evening class in life drawing at the art school."
+    },
+    {
       "word": "evening post",
       "pos": "PHRASE",
       "translation": "el diario de la tarde (aquí, su nombre: «Evening Post»)",
@@ -11036,6 +11078,12 @@
       "pos": "VERB",
       "translation": "enfrentarse a, hacer frente a",
       "example": "On the second day of the tournament, Godfrey and Sir Hugh faced each other in the final joust."
+    },
+    {
+      "word": "face down",
+      "pos": "PHRASE",
+      "translation": "boca abajo",
+      "example": "Then she put it face down on the table, next to the scissors."
     },
     {
       "word": "face out",
@@ -12610,6 +12658,12 @@
       "example": "\"Last,\" Max repeated, as if it were a word in a foreign language."
     },
     {
+      "word": "foreign language",
+      "pos": "PHRASE",
+      "translation": "el idioma extranjero, la lengua extranjera",
+      "example": "He looked completely lost, as if she had asked him a question in a foreign language."
+    },
+    {
       "word": "foreman",
       "pos": "NOUN",
       "translation": "el capataz",
@@ -13632,7 +13686,7 @@
     {
       "word": "get in",
       "pos": "PHRASE",
-      "translation": "recoger, meter (la cosecha) ; subir (al coche)",
+      "translation": "recoger, meter (la cosecha) ; subir (al coche) ; entrar («so the rain can't get in»: para que no entre la lluvia)",
       "example": "I've watched her stop the rain over a whole field so Cade could get the hay in."
     },
     {
@@ -16514,6 +16568,12 @@
       "example": "\"And most of all, they've always hunted the ones with two.\""
     },
     {
+      "word": "hurried",
+      "pos": "ADJ",
+      "translation": "apresurado, precipitado",
+      "example": "The angry, hurried letters."
+    },
+    {
       "word": "hurry",
       "pos": "NOUN",
       "translation": "la prisa",
@@ -16854,6 +16914,12 @@
       "pos": "PHRASE",
       "translation": "(fam.) en mejor estado, en mejor forma",
       "example": "Behind it came a second, and behind that a police four-by-four, from which emerged a sergeant of formidable dimensions who listened to Gideon's account, inspected the Beatons, pronounced them \"in better nick than most of my relatives\" and arranged for an ambulance to meet them at Dalwhinnie as a precaution."
+    },
+    {
+      "word": "in blossom",
+      "pos": "PHRASE",
+      "translation": "en flor",
+      "example": "On the front there was an old photograph of an orchard in blossom, all white and pink."
     },
     {
       "word": "in capital letters",
@@ -19342,6 +19408,12 @@
       "example": "He had never checked the shutters in his life."
     },
     {
+      "word": "life drawing",
+      "pos": "PHRASE",
+      "translation": "el dibujo del natural (con modelo)",
+      "example": "In the middle of September, she signed up for an evening class in life drawing at the art school."
+    },
+    {
       "word": "life jacket",
       "pos": "PHRASE",
       "translation": "el chaleco salvavidas",
@@ -19797,6 +19869,12 @@
       "example": "Hearthside lay at the foot of the eastern slope, half sunk into the hill like a badger's sett, so that its windows looked out at the level of the grass."
     },
     {
+      "word": "look over",
+      "pos": "PHRASE",
+      "translation": "mirar (hacia), echar un vistazo a ; revisar",
+      "example": "\"He's like a ghost, that boy,\" she said quietly, looking over at the empty place where Leo used to stand."
+    },
+    {
       "word": "look round",
       "pos": "PHRASE",
       "translation": "darse la vuelta, mirar alrededor",
@@ -19807,6 +19885,12 @@
       "pos": "PHRASE",
       "translation": "levantar la vista, alzar la mirada ; buscar (una palabra)",
       "example": "She looks up."
+    },
+    {
+      "word": "loop",
+      "pos": "NOUN",
+      "translation": "el bucle, la lazada",
+      "example": "The \"y\" at the end of \"already\" had a long loop, the way she always made her y's."
     },
     {
       "word": "loop",
@@ -23767,6 +23851,12 @@
       "example": "Inside lay a folded letter, its paper yellowed with age, and pressed flat between its pages was a single leaf — not oak, not ash, not any tree Rowan knew, but long and silvery and veined with the faintest trace of gold."
     },
     {
+      "word": "page after page",
+      "pos": "PHRASE",
+      "translation": "página tras página",
+      "example": "But it also looked like someone who had studied her handwriting for a long time, page after page, night after night, at a kitchen table at two in the morning."
+    },
+    {
       "word": "pagoda",
       "pos": "NOUN",
       "translation": "la pagoda («pagoda-roofed»: con tejado de pagoda)",
@@ -24191,6 +24281,12 @@
       "pos": "PHRASE",
       "translation": "la gorra de plato (de uniforme)",
       "example": "The driver was a thin man of about fifty, with a grey uniform, a peaked cap and a small moustache."
+    },
+    {
+      "word": "pear",
+      "pos": "NOUN",
+      "translation": "la pera",
+      "example": "In the market, the stalls were full of apples, pears and pumpkins."
     },
     {
       "word": "pebble",
@@ -27888,6 +27984,12 @@
       "example": "The road unrolled before him as it had a thousand times: the cat's eyes ticking past like the beads of a rosary, the overhead gantries announcing distances to places he could have found blindfold."
     },
     {
+      "word": "rose",
+      "pos": "NOUN",
+      "translation": "la rosa",
+      "example": "He was holding a bunch of supermarket roses, still in their plastic, and he looked thinner and less sure of himself than she remembered."
+    },
+    {
       "word": "rosemary",
       "pos": "NOUN",
       "translation": "el romero",
@@ -28314,6 +28416,12 @@
       "example": "Godfrey smiled sadly."
     },
     {
+      "word": "sadness",
+      "pos": "NOUN",
+      "translation": "la tristeza",
+      "example": "She waited to feel something: anger, sadness, the old wish to make him happy."
+    },
+    {
       "word": "safe",
       "pos": "ADJ",
       "translation": "seguro («the safest»: el más seguro)",
@@ -28696,6 +28804,12 @@
       "pos": "NOUN",
       "translation": "el científico",
       "example": "Something like the look of a scientist who has just watched an apple fall upwards."
+    },
+    {
+      "word": "scissors",
+      "pos": "NOUN",
+      "translation": "las tijeras («a pair of scissors»: unas tijeras)",
+      "example": "She sat down under the lamp with a pair of scissors and opened the book at the end."
     },
     {
       "word": "score",
@@ -30082,6 +30196,12 @@
       "pos": "PHRASE",
       "translation": "dar la baja («signed off work»: de baja médica)",
       "example": "Twenty-nine. Burnout. Signed off work. In bed for weeks."
+    },
+    {
+      "word": "sign up for",
+      "pos": "PHRASE",
+      "translation": "apuntarse a, inscribirse en",
+      "example": "In the middle of September, she signed up for an evening class in life drawing at the art school."
     },
     {
       "word": "signal",
@@ -33354,6 +33474,12 @@
       "example": "He pulled his T-shirt up over his nose and mouth and went in through the main door."
     },
     {
+      "word": "T.",
+      "pos": "PROPN",
+      "translation": "T. (inicial de Tess, como firma)",
+      "example": "I just thought you should know. Sorry for everything. T."
+    },
+    {
       "word": "table",
       "pos": "NOUN",
       "translation": "la mesa",
@@ -33693,6 +33819,12 @@
       "pos": "VERB",
       "translation": "rasgar («torn»: rasgado)",
       "example": "The main strap had not torn."
+    },
+    {
+      "word": "tear stain",
+      "pos": "PHRASE",
+      "translation": "la mancha de lágrimas",
+      "example": "The tear stains."
     },
     {
       "word": "tear up",
@@ -38308,6 +38440,12 @@
       "example": "England won the World Cup, mate!"
     },
     {
+      "word": "worm",
+      "pos": "NOUN",
+      "translation": "el gusano, la lombriz",
+      "example": "She sat by the window and watched the flat brown fields go past, full of black birds looking for worms after the plough."
+    },
+    {
       "word": "worn",
       "pos": "ADJ",
       "translation": "gastado",
@@ -38354,6 +38492,12 @@
       "pos": "VERB",
       "translation": "auxiliar del condicional («would»: -ría)",
       "example": "Sir Godfrey never complained, so Edwin decided that he would not complain either."
+    },
+    {
+      "word": "wound",
+      "pos": "NOUN",
+      "translation": "la herida",
+      "example": "\"He's fixed the tree. Cut the broken branch and painted the wound so the rain can't get in."
     },
     {
       "word": "wow",
