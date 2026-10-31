@@ -2047,6 +2047,12 @@
       "example": "\"Callum? What are you doing here at this time of—\""
     },
     {
+      "word": "at weekends",
+      "pos": "PHRASE",
+      "translation": "nos fins de semana",
+      "example": "He worked in the café in the evenings and at weekends."
+    },
+    {
       "word": "at work",
       "pos": "PHRASE",
       "translation": "no trabalho",
@@ -2743,10 +2749,22 @@
       "example": "But the lights in the stationer's were on."
     },
     {
+      "word": "be proud of",
+      "pos": "PHRASE",
+      "translation": "ter orgulho de, estar orgulhoso de",
+      "example": "\"I know that. I'm proud of you.\""
+    },
+    {
       "word": "be supposed to",
       "pos": "PHRASE",
       "translation": "dever, ter que (supostamente)",
       "example": "She shouted about the fight, about Lily being in Bradford at two in the morning when she was supposed to be at Chloe's, about the danger and the stupidity of it all."
+    },
+    {
+      "word": "be the point of",
+      "pos": "PHRASE",
+      "translation": "ser o objetivo de, ser a graça de",
+      "example": "\"Everybody has a number. That's the point of the glasses.\""
     },
     {
       "word": "be used to",
@@ -9588,6 +9606,12 @@
       "example": "Everyone told him it was impossible, that a squire had no right to address His Majesty directly."
     },
     {
+      "word": "director",
+      "pos": "NOUN",
+      "translation": "o diretor, a diretora",
+      "example": "He was the director of a big company."
+    },
+    {
       "word": "dirty",
       "pos": "ADJ",
       "translation": "sujo",
@@ -11674,6 +11698,12 @@
       "example": "Excuse me! — Com licença!"
     },
     {
+      "word": "excuse me",
+      "pos": "PHRASE",
+      "translation": "com licença, desculpe",
+      "example": "\"Excuse me,\" Milo said. \"Do you have any books about computers?\""
+    },
+    {
       "word": "exercise",
       "pos": "NOUN",
       "translation": "o exercício",
@@ -13300,6 +13330,12 @@
       "example": "They feel like they want to follow her."
     },
     {
+      "word": "follower",
+      "pos": "NOUN",
+      "translation": "o seguidor, a seguidora (redes sociais)",
+      "example": "Many followers on social media gave more points."
+    },
+    {
       "word": "following",
       "pos": "ADJ",
       "translation": "seguinte (“the following Wednesday”: na quarta-feira seguinte)",
@@ -14865,6 +14901,12 @@
       "example": "\"Twenty years ago, give or take."
     },
     {
+      "word": "give out",
+      "pos": "PHRASE",
+      "translation": "distribuir",
+      "example": "A girl gave out free newspapers at the corner."
+    },
+    {
       "word": "give up",
       "pos": "PHRASE",
       "translation": "desistir, render-se",
@@ -15117,6 +15159,12 @@
       "example": "She did not want to see the window, or the little table, or the place where her tea had gone cold."
     },
     {
+      "word": "go dark",
+      "pos": "PHRASE",
+      "translation": "apagar-se, ficar escuro",
+      "example": "The screen went dark again."
+    },
+    {
       "word": "go down",
       "pos": "PHRASE",
       "translation": "descer; (sol) se pôr ; (raiva, preço) baixar, diminuir",
@@ -15229,6 +15277,12 @@
       "pos": "PROPN",
       "translation": "Deus",
       "example": "Thank God the clock doesn't need electricity."
+    },
+    {
+      "word": "god bless you",
+      "pos": "PHRASE",
+      "translation": "Deus te abençoe",
+      "example": "\"Thank you,\" the man said. \"God bless you.\""
     },
     {
       "word": "god rest him",
@@ -21539,7 +21593,7 @@
     {
       "word": "love",
       "pos": "NOUN",
-      "translation": "o amor (“in love”: apaixonado); (tênis) zero (“six-love”: seis a zero)",
+      "translation": "o amor (“in love”: apaixonado); (tênis) zero (“six-love”: seis a zero); (tratamento carinhoso) querido, querida (“Morning, love”: bom dia, querido)",
       "example": "Your friend Jory thinks you're in love with someone in the Eyrie."
     },
     {
@@ -21876,6 +21930,12 @@
       "pos": "PHRASE",
       "translation": "tirar o melhor proveito de",
       "example": "We make the best of what grows here."
+    },
+    {
+      "word": "make up",
+      "pos": "PHRASE",
+      "translation": "inventar (“make it up”: inventar isso); fazer as pazes",
+      "example": "\"That's the real world. I'm not making it up.\""
     },
     {
       "word": "make up its mind",
@@ -29904,6 +29964,12 @@
       "example": "Inside, there was a single card with a small robin printed in one corner."
     },
     {
+      "word": "robot",
+      "pos": "NOUN",
+      "translation": "o robô",
+      "example": "\"Stop saying 'good' and 'bad'. You sound like a robot.\""
+    },
+    {
       "word": "Robot",
       "pos": "PROPN",
       "translation": "Robot (“Robot Boy”: apelido zombeteiro, “o menino robô”; “robot”: o robô)",
@@ -30916,6 +30982,12 @@
       "pos": "NOUN",
       "translation": "a tesoura (“a pair of scissors”: uma tesoura)",
       "example": "She sat down under the lamp with a pair of scissors and opened the book at the end."
+    },
+    {
+      "word": "score",
+      "pos": "NOUN",
+      "translation": "a pontuação",
+      "example": "He called it the SCORE."
     },
     {
       "word": "score",
@@ -33070,6 +33142,12 @@
       "pos": "VERB",
       "translation": "sorrir",
       "example": "Sam smiles. — Sam sorri."
+    },
+    {
+      "word": "smile back",
+      "pos": "PHRASE",
+      "translation": "sorrir de volta, retribuir o sorriso",
+      "example": "Milo looked at the number. Eighteen. He did not smile back."
     },
     {
       "word": "smile up",
@@ -35464,6 +35542,12 @@
       "pos": "NOUN",
       "translation": "o sol, a luz do sol",
       "example": "Max walked out of the market and into the sunshine with his hands in his pockets."
+    },
+    {
+      "word": "super",
+      "pos": "ADV",
+      "translation": "super, muito",
+      "example": "You were super polite to the manager."
     },
     {
       "word": "Superintendent",
@@ -38651,6 +38735,12 @@
       "example": "He thought, unexpectedly, of the tachograph, which had at some point in the evening clicked over to a rest period and was even now recording, with bureaucratic serenity, that he was doing nothing whatsoever."
     },
     {
+      "word": "unfair",
+      "pos": "ADJ",
+      "translation": "injusto, injusta",
+      "example": "\"OK,\" she said. \"Maybe the world is unfair.\""
+    },
+    {
       "word": "unfinished",
       "pos": "ADJ",
       "translation": "inacabado",
@@ -40340,6 +40430,12 @@
       "pos": "PHRASE",
       "translation": "como assim?, o que você quer dizer?",
       "example": "\"What do you mean?\""
+    },
+    {
+      "word": "what is wrong with",
+      "pos": "PHRASE",
+      "translation": "o que há de errado com…? (“What is wrong with you?”: o que deu em você?)",
+      "example": "\"What is wrong with you today?\""
     },
     {
       "word": "whatever",

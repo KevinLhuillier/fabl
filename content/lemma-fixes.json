@@ -1561,6 +1561,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "FINAL",
+      "pos": "PROPN",
+      "word": "final",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Fine",
       "pos": "ADV",
       "next": ".",
@@ -2843,11 +2849,25 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "love",
+      "pos": "VERB",
+      "prev": ",",
+      "next": "?",
+      "word": "love",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "low",
       "pos": "NOUN",
       "next": "where",
       "word": "low",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "low",
+      "pos": "VERB",
+      "word": "low",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "Lucky",
@@ -4256,6 +4276,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "SCORE",
+      "pos": "PROPN",
+      "word": "score",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Scottish",
       "pos": "ADJ",
       "word": "Scottish",
@@ -5445,6 +5471,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Upstairs",
+      "pos": "PROPN",
+      "word": "upstairs",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "URGENT",
       "pos": "PROPN",
       "word": "urgent",
@@ -5590,6 +5622,12 @@
       "pos": "PROPN",
       "word": "week",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Weirder",
+      "pos": "PROPN",
+      "word": "weird",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "Well",

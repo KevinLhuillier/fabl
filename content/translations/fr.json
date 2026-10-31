@@ -2047,6 +2047,12 @@
       "example": "\"Callum? What are you doing here at this time of—\""
     },
     {
+      "word": "at weekends",
+      "pos": "PHRASE",
+      "translation": "le week-end, les week-ends",
+      "example": "He worked in the café in the evenings and at weekends."
+    },
+    {
       "word": "at work",
       "pos": "PHRASE",
       "translation": "au travail",
@@ -2743,10 +2749,22 @@
       "example": "But the lights in the stationer's were on."
     },
     {
+      "word": "be proud of",
+      "pos": "PHRASE",
+      "translation": "être fier de, être fière de",
+      "example": "\"I know that. I'm proud of you.\""
+    },
+    {
       "word": "be supposed to",
       "pos": "PHRASE",
       "translation": "être censé, devoir",
       "example": "She shouted about the fight, about Lily being in Bradford at two in the morning when she was supposed to be at Chloe's, about the danger and the stupidity of it all."
+    },
+    {
+      "word": "be the point of",
+      "pos": "PHRASE",
+      "translation": "être tout l'intérêt de, être le but de",
+      "example": "\"Everybody has a number. That's the point of the glasses.\""
     },
     {
       "word": "be used to",
@@ -9588,6 +9606,12 @@
       "example": "Everyone told him it was impossible, that a squire had no right to address His Majesty directly."
     },
     {
+      "word": "director",
+      "pos": "NOUN",
+      "translation": "le directeur, la directrice",
+      "example": "He was the director of a big company."
+    },
+    {
       "word": "dirty",
       "pos": "ADJ",
       "translation": "sale",
@@ -11674,6 +11698,12 @@
       "example": "Excuse me! — Excusez-moi !"
     },
     {
+      "word": "excuse me",
+      "pos": "PHRASE",
+      "translation": "excusez-moi, pardon",
+      "example": "\"Excuse me,\" Milo said. \"Do you have any books about computers?\""
+    },
+    {
       "word": "exercise",
       "pos": "NOUN",
       "translation": "l'exercice",
@@ -13300,6 +13330,12 @@
       "example": "They feel like they want to follow her."
     },
     {
+      "word": "follower",
+      "pos": "NOUN",
+      "translation": "l'abonné, l'abonnée (réseaux sociaux)",
+      "example": "Many followers on social media gave more points."
+    },
+    {
       "word": "following",
       "pos": "ADJ",
       "translation": "suivant (« the following Wednesday » : le mercredi suivant)",
@@ -14865,6 +14901,12 @@
       "example": "\"Twenty years ago, give or take."
     },
     {
+      "word": "give out",
+      "pos": "PHRASE",
+      "translation": "distribuer",
+      "example": "A girl gave out free newspapers at the corner."
+    },
+    {
       "word": "give up",
       "pos": "PHRASE",
       "translation": "abandonner, renoncer, lâcher",
@@ -15117,6 +15159,12 @@
       "example": "She did not want to see the window, or the little table, or the place where her tea had gone cold."
     },
     {
+      "word": "go dark",
+      "pos": "PHRASE",
+      "translation": "s'éteindre, devenir noir",
+      "example": "The screen went dark again."
+    },
+    {
       "word": "go down",
       "pos": "PHRASE",
       "translation": "descendre ; (soleil) se coucher ; (colère, prix) baisser, retomber",
@@ -15229,6 +15277,12 @@
       "pos": "PROPN",
       "translation": "Dieu",
       "example": "Thank God the clock doesn't need electricity."
+    },
+    {
+      "word": "god bless you",
+      "pos": "PHRASE",
+      "translation": "que Dieu vous bénisse",
+      "example": "\"Thank you,\" the man said. \"God bless you.\""
     },
     {
       "word": "god rest him",
@@ -21539,7 +21593,7 @@
     {
       "word": "love",
       "pos": "NOUN",
-      "translation": "l'amour (« in love » : amoureux) ; (tennis) zéro (« six-love » : six-zéro)",
+      "translation": "l'amour (« in love » : amoureux) ; (tennis) zéro (« six-love » : six-zéro) ; (mot affectueux) mon chéri, ma chérie (« Morning, love » : bonjour, mon chéri)",
       "example": "Your friend Jory thinks you're in love with someone in the Eyrie."
     },
     {
@@ -21876,6 +21930,12 @@
       "pos": "PHRASE",
       "translation": "tirer le meilleur parti de, s'accommoder de",
       "example": "We make the best of what grows here."
+    },
+    {
+      "word": "make up",
+      "pos": "PHRASE",
+      "translation": "inventer (« make it up » : l'inventer) ; se réconcilier",
+      "example": "\"That's the real world. I'm not making it up.\""
     },
     {
       "word": "make up its mind",
@@ -29904,6 +29964,12 @@
       "example": "Inside, there was a single card with a small robin printed in one corner."
     },
     {
+      "word": "robot",
+      "pos": "NOUN",
+      "translation": "le robot",
+      "example": "\"Stop saying 'good' and 'bad'. You sound like a robot.\""
+    },
+    {
       "word": "Robot",
       "pos": "PROPN",
       "translation": "Robot (« Robot Boy » : surnom moqueur, « le garçon robot » ; « robot » : le robot)",
@@ -30916,6 +30982,12 @@
       "pos": "NOUN",
       "translation": "les ciseaux (« a pair of scissors » : une paire de ciseaux)",
       "example": "She sat down under the lamp with a pair of scissors and opened the book at the end."
+    },
+    {
+      "word": "score",
+      "pos": "NOUN",
+      "translation": "le score, la note",
+      "example": "He called it the SCORE."
     },
     {
       "word": "score",
@@ -33070,6 +33142,12 @@
       "pos": "VERB",
       "translation": "sourire",
       "example": "Sam smiles. — Sam sourit."
+    },
+    {
+      "word": "smile back",
+      "pos": "PHRASE",
+      "translation": "rendre son sourire (à qqn)",
+      "example": "Milo looked at the number. Eighteen. He did not smile back."
     },
     {
       "word": "smile up",
@@ -35464,6 +35542,12 @@
       "pos": "NOUN",
       "translation": "le soleil, la lumière du soleil",
       "example": "Max walked out of the market and into the sunshine with his hands in his pockets."
+    },
+    {
+      "word": "super",
+      "pos": "ADV",
+      "translation": "super, hyper (très)",
+      "example": "You were super polite to the manager."
     },
     {
       "word": "Superintendent",
@@ -38651,6 +38735,12 @@
       "example": "He thought, unexpectedly, of the tachograph, which had at some point in the evening clicked over to a rest period and was even now recording, with bureaucratic serenity, that he was doing nothing whatsoever."
     },
     {
+      "word": "unfair",
+      "pos": "ADJ",
+      "translation": "injuste",
+      "example": "\"OK,\" she said. \"Maybe the world is unfair.\""
+    },
+    {
       "word": "unfinished",
       "pos": "ADJ",
       "translation": "inachevé",
@@ -40340,6 +40430,12 @@
       "pos": "PHRASE",
       "translation": "qu'est-ce que tu veux dire ?, comment ça ?",
       "example": "\"What do you mean?\""
+    },
+    {
+      "word": "what is wrong with",
+      "pos": "PHRASE",
+      "translation": "qu'est-ce qui ne va pas chez… (« What is wrong with you? » : qu'est-ce qui te prend ?)",
+      "example": "\"What is wrong with you today?\""
     },
     {
       "word": "whatever",

@@ -308,3 +308,158 @@ Milo walked home. The house was empty. His mum was still at work. He went to the
 He opened his notebook. Page after page of names and numbers. Mr Pratt, £44,000. Mrs Achebe, £39,000. Mr Fulton, £31,000. Miss Clay, a second job in a bakery. Holly Brandt, a post at two in the morning. Connor Webb, a father with no job.
 It was a strange list. It looked like a list of people. But really, it was a list of numbers.
 Milo did not see that yet. He only saw a list of secrets. And he wanted more.
+
+# Rich and Poor
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_1-1793466459566.mp3
+For the next two weeks, Milo wore the glasses every day. He wore them at school. He wore them in the street. He wore them in the shop at the corner of his road. He only took them off at home, when his mum was there.
+Every evening, he worked on the program in the garage. He made it faster. One second now. He made the battery last longer. Eight hours now. And he added something new. He was very proud of this new thing.
+He called it the SCORE.
+The idea came to him one night when he looked at his notebook. There were so many names and so many numbers. It was difficult to compare them. So he wrote new code. Now the glasses took all the information about a person and turned it into one number. A number from 1 to 100.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_2-1793466471752.mp3
+The salary was the most important part. A big salary gave a big score. A house with a garden gave more points. A nice car gave more points. A job with an important name, like "director" or "manager" or "doctor", gave more points. Many followers on social media gave more points. No job, no house, no car, no followers? A very small score.
+Now, when Milo looked at a person, he saw their name, their age, their job and their salary. And in the top corner of the screen, in big red numbers, he saw their score.
+On a Saturday morning, he went into the city centre with Bea. Bea wanted to buy a present for her dad's birthday. Milo did not want to buy anything. He wanted to test the score.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_3-1793466483202.mp3
+The city centre was busy. There were many shops, many cafés and many people. It was cold, but the sun was out. Bea wore her yellow coat and a yellow hat. Milo wore his black jacket and his glasses.
+They walked along the main street. Milo looked at every face.
+A woman in a long grey coat walked past. SCORE: 71. She was a lawyer.
+A young man with a guitar sat on the ground and played music. There was a hat in front of him with some coins. SCORE: 9.
+A man in a suit talked loudly on his phone. SCORE: 88. He was the director of a big company.
+A girl gave out free newspapers at the corner. SCORE: 14.
+An old woman with a shopping bag waited for the bus. SCORE: 23.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_4-1793466491329.mp3
+Milo started to talk about the scores out loud. He did not notice it at first.
+"Seventy-one. Good. Nine. Bad. Eighty-eight. Very good. Fourteen. Bad. Twenty-three. Bad."
+"Stop it," Bea said.
+"Stop what?"
+"Stop saying 'good' and 'bad'. You sound like a robot."
+"They're just numbers," Milo said. "Numbers aren't good or bad. They're just facts."
+"You just said 'good' and 'bad'," Bea said. "You said it about people."
+Milo shrugged. "It's a way of saying 'high' and 'low'."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_5-1793466501193.mp3
+They went into a big shop that sold clothes, books and things for the house. Bea looked at some scarves. Milo walked around. He looked at the people working in the shop.
+There was a woman at the till. She had tired eyes and a kind smile. SCORE: 18. Her job was "shop assistant". Her salary was about £21,000 a year.
+There was a man in a nice shirt who walked around the shop and talked to the workers. SCORE: 64. He was the manager.
+Milo walked to the manager. He did not know why. He just wanted to talk to a high score. He wanted to see what it was like.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_6-1793466510975.mp3
+"Excuse me," Milo said. "Do you have any books about computers?"
+"Yes, of course," the manager said. "Upstairs, at the back on the left."
+"Thank you very much," Milo said. "Have a very nice day, sir."
+The manager looked a little surprised. Milo was very polite. He was more polite than usual. Much more.
+Then he walked past the woman at the till. She smiled at him.
+"Are you finding everything you need, love?" she asked.
+Milo looked at the number. Eighteen. He did not smile back. He did not answer. He just walked past.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_7-1793466519245.mp3
+Bea saw it. She came to him with a scarf in her hand.
+"Milo. That woman talked to you. Why didn't you answer?"
+"I didn't hear her," Milo said.
+"Yes, you did. I saw you look at her."
+Milo did not say anything.
+Bea paid for the scarf. It was blue with little white stars. She paid the woman with the tired eyes and the kind smile. Bea said, "Thank you so much, have a lovely weekend." She said it in a very loud voice. Milo understood that she said it for him.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_8-1793466528710.mp3
+Outside the shop, they walked to a small café. Bea wanted a hot chocolate. Milo wanted to sit down. His legs were tired.
+In the café, a young man took their order. He had black hair and a small ring in his ear. SCORE: 12. He was a student. He worked in the café in the evenings and at weekends.
+"Two hot chocolates, please," Bea said.
+"With cream?" the young man asked.
+"Yes, please!" Bea said.
+"No," Milo said.
+When the young man went to make the drinks, Bea looked at Milo.
+"What is wrong with you today?"
+"Nothing."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_9-1793466538223.mp3
+"You were rude to the woman in the shop. You were super polite to the manager. Now you're cold with the café boy. And you keep looking at people like... like they're things in a shop. Like they have a price."
+"They do have a price," Milo said. "Everybody has a number. That's the point of the glasses."
+Bea took the glasses off his face. She did it very quickly. Milo did not have time to stop her.
+"Hey! Give them back!"
+"No. Look at me. With your eyes. Your real eyes."
+Milo looked at her. Without the glasses, she was just Bea. Red hair, yellow hat, angry face.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_10-1793466549684.mp3
+"Do you know my score?" she asked.
+Milo did not answer.
+"You know it. Tell me."
+"Students don't really have a score," Milo said. "There's not enough information."
+"But the glasses gave me a number. Tell me."
+Milo looked at the table. "Thirty-one," he said.
+"Thirty-one," Bea said. "And what is your number?"
+"I don't know. The glasses can't look at my face. I'm wearing them."
+"Your mum's number?"
+Milo stopped. He did not want to say it. He knew it. He checked it on the first evening, after he added the score. His mum, the nurse, who worked nights and weekends and helped sick people. Her score was 26.
+"I don't want to talk about it," he said.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_11-1793466562001.mp3
+Bea put the glasses on the table between them. "Milo, you're my friend. You're my best friend. But these glasses are making you weird. Weirder than normal. You're looking at the world like it's a big list. Top people, bottom people."
+"The world is a big list," Milo said. "The glasses didn't invent that. The glasses just show it. A footballer gets two hundred thousand pounds a week. My mum gets thirty-two thousand a year. That's the list. That's the real world. I'm not making it up."
+Bea opened her mouth. Then she closed it. She thought for a moment.
+"OK," she said. "Maybe the world is unfair. Maybe the numbers are real. But you're choosing to be nice to the big numbers and not nice to the small numbers. That's not the glasses. That's you."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_12-1793466571150.mp3
+The young man came back with the hot chocolates. There was cream on both of them. He smiled.
+"I put cream on both," he said to Milo. "It's free today. You look like you need it."
+Milo looked at him. Without the glasses, he did not see a number. He only saw a young man with a small earring and a nice smile.
+"Thanks," Milo said quietly.
+They drank their hot chocolates. They did not talk much. Bea looked out of the window. Milo looked at his cup.
+After the café, Bea said she needed to go home. Her dad wanted help in the kitchen for the birthday dinner. She walked to the bus stop. Milo walked with her.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_13-1793466582989.mp3
+At the bus stop, the guitar player was there again. He played a slow, sad song. Bea took a pound out of her pocket and put it in his hat.
+"Thank you," the man said. "God bless you."
+Bea's bus came. She got on. Before the doors closed, she looked at Milo.
+"Think about it, OK?" she said. "Just think."
+The doors closed. The bus left.
+Milo stood at the bus stop. He put the glasses back on. The guitar player looked up at him. SCORE: 9.
+Milo looked at the number. Then he looked at the man's hands on the guitar. They were red and cold. He had no gloves.
+Milo did not have a pound. He had only fifty pence in his pocket. He thought about it for a long moment. Then he walked away.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_14-1793466594993.mp3
+On the bus home, he looked out of the window. He saw people on the street. Numbers. Numbers. Numbers. Seventy. Fifteen. Forty-two. Eight. Ninety. A whole city of numbers.
+That night, in the garage, he opened the program on his laptop. He looked at the code for the score. He thought about Bea's words. "You're choosing to be nice to the big numbers." He thought about the woman at the till. Her tired eyes. Her kind smile.
+He put his hand on the keyboard. He could delete the score. It was easy. Ten seconds and it was gone.
+But he did not delete it.
+Instead, he made it better. He made the red numbers bigger.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_3.page_15-1793466605721.mp3
+He told himself it was just for science. Just to test it. Just to see.
+But that was not true. The truth was simple. With the glasses, Milo felt important. For the first time in his life, he knew more than everybody else. He knew everybody's number. And nobody knew his.
+He did not want to lose that feeling. Not yet.
+He closed the laptop and went to bed. In the kitchen, he passed the table. His mum's phone was there. It was charging. The screen lit up with a new message. Milo did not want to read it. But he saw the first words anyway.
+"FINAL WARNING: Your payment of..."
+The screen went dark again.
+Milo stood in the kitchen for a long time.
