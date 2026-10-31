@@ -20,6 +20,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "1840s",
+      "pos": "NOUN",
+      "word": "1840s",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "1960s",
       "pos": "NOUN",
       "word": "1960s",
@@ -35,6 +41,12 @@
       "text": "1980s",
       "pos": "NOUN",
       "word": "1980s",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "1990s",
+      "pos": "NOUN",
+      "word": "1990s",
       "lemmaPos": "NOUN"
     },
     {
@@ -96,6 +108,12 @@
       "pos": "PROPN",
       "word": "ache",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Address",
+      "pos": "PROPN",
+      "word": "address",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Adrenaline",
@@ -768,6 +786,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "clapping",
+      "pos": "NOUN",
+      "word": "clap",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "clear",
       "pos": "ADV",
       "next": "settled",
@@ -1438,6 +1462,13 @@
     {
       "text": "FACE",
       "pos": "PROPN",
+      "word": "face",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "faces",
+      "pos": "VERB",
+      "prev": "Angry",
       "word": "face",
       "lemmaPos": "NOUN"
     },
@@ -2623,6 +2654,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Knew",
+      "pos": "VERB",
+      "word": "know",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "know",
       "pos": "NOUN",
       "word": "know",
@@ -2986,6 +3023,12 @@
       "pos": "PROPN",
       "word": "Master",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "mathematics",
+      "pos": "NOUN",
+      "word": "mathematics",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "matter",
@@ -3449,6 +3492,13 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "open",
+      "pos": "NOUN",
+      "prev": "inside",
+      "word": "open",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "opening",
       "pos": "NOUN",
       "next": "backwards",
@@ -3668,6 +3718,12 @@
       "pos": "VERB",
       "word": "petalled",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "physics",
+      "pos": "NOUN",
+      "word": "physics",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Pie",
@@ -3949,6 +4005,13 @@
     {
       "text": "red",
       "pos": "PROPN",
+      "word": "red",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Red",
+      "pos": "PROPN",
+      "next": ",",
       "word": "red",
       "lemmaPos": "ADJ"
     },
@@ -4629,6 +4692,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Soup",
+      "pos": "PROPN",
+      "word": "soup",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "southern",
       "pos": "PROPN",
       "word": "southern",
@@ -5187,6 +5256,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "THIEF",
+      "pos": "PROPN",
+      "word": "thief",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "thimble",
       "pos": "ADJ",
       "word": "thimble",
@@ -5387,6 +5462,12 @@
     },
     {
       "text": "TWENTY",
+      "pos": "PROPN",
+      "word": "twenty",
+      "lemmaPos": "NUM"
+    },
+    {
+      "text": "Twenty",
       "pos": "PROPN",
       "word": "twenty",
       "lemmaPos": "NUM"

@@ -32,6 +32,12 @@
       "example": "Sunday 12th: Mrs Patel, Henleaze, sofa and two beds to Filton, £120."
     },
     {
+      "word": "1840s",
+      "pos": "NOUN",
+      "translation": "os anos 1840",
+      "example": "\"The first computer programmer,\" Milo said. \"In the 1840s.\""
+    },
+    {
       "word": "1960s",
       "pos": "NOUN",
       "translation": "os anos 1960 (“the 1960s”: os anos sessenta)",
@@ -48,6 +54,12 @@
       "pos": "NOUN",
       "translation": "os anos 1980",
       "example": "There were two rings, a row of heavy bags hanging from chains, faded posters of fighters from the 1980s and a hand-painted sign above the door that said: NOBODY IS BORN TOUGH."
+    },
+    {
+      "word": "1990s",
+      "pos": "NOUN",
+      "translation": "os anos 1990 (“the 1990s”: os anos noventa)",
+      "example": "\"In the 1990s,\" Mr Okafor said, \"I worked for a big company in London.\""
     },
     {
       "word": "31st",
@@ -118,6 +130,12 @@
       "pos": "PHRASE",
       "translation": "um pouquinho, um pouco",
       "example": "That's a little bit scary."
+    },
+    {
+      "word": "a long way",
+      "pos": "PHRASE",
+      "translation": "longe, um longo caminho",
+      "example": "Two houses. It felt like a long way."
     },
     {
       "word": "a lot",
@@ -460,6 +478,12 @@
       "pos": "ADV",
       "translation": "intensamente (“acutely aware”: plenamente consciente)",
       "example": "He was acutely aware, now, of the lightness he had scorned that morning."
+    },
+    {
+      "word": "Ada",
+      "pos": "PROPN",
+      "translation": "Ada (nome; aqui a cachorra do Sr. Okafor, em homenagem a Ada Lovelace)",
+      "example": "\"Her name is Ada,\" Mr Okafor said. \"After Ada Lovelace. Do you know who she was?\""
     },
     {
       "word": "Adam",
@@ -1256,6 +1280,12 @@
       "pos": "PHRASE",
       "translation": "não… mais, já não («not that boy any more»: já não era aquele garoto)",
       "example": "He was not that boy any more, and the boy had not been good enough anyway."
+    },
+    {
+      "word": "any time",
+      "pos": "PHRASE",
+      "translation": "quando quiser, a qualquer hora",
+      "example": "\"You can come here any time,\" he said."
     },
     {
       "word": "anybody",
@@ -2771,6 +2801,12 @@
       "pos": "PHRASE",
       "translation": "ser o objetivo de, ser a graça de",
       "example": "\"Everybody has a number. That's the point of the glasses.\""
+    },
+    {
+      "word": "be tired of",
+      "pos": "PHRASE",
+      "translation": "estar cansado de, estar farto de",
+      "example": "Milo was tired of the box in his head."
     },
     {
       "word": "be used to",
@@ -4716,6 +4752,12 @@
       "example": "Several farms have been burned, and the king's soldiers have failed to catch the men responsible."
     },
     {
+      "word": "burn down",
+      "pos": "PHRASE",
+      "translation": "queimar até o chão, incendiar",
+      "example": "\"Or it can burn your house down.\""
+    },
+    {
       "word": "burn off",
       "pos": "PHRASE",
       "translation": "dissipar-se (neblina)",
@@ -5968,6 +6010,12 @@
       "pos": "PHRASE",
       "translation": "enxotar, espantar",
       "example": "I expected him to shout or to chase us away."
+    },
+    {
+      "word": "chat",
+      "pos": "NOUN",
+      "translation": "o chat, a conversa",
+      "example": "On the school group chat."
     },
     {
       "word": "chat",
@@ -7843,6 +7891,12 @@
     },
     {
       "word": "correct",
+      "pos": "ADJ",
+      "translation": "correto, correta (“Am I correct?”: estou certo?)",
+      "example": "\"There is a computer inside. Am I correct?\""
+    },
+    {
+      "word": "correct",
       "pos": "VERB",
       "translation": "corrigir",
       "example": "I didn't correct him.\""
@@ -8962,6 +9016,12 @@
       "pos": "NOUN",
       "translation": "o dia",
       "example": "\"One day, you may become more than we ever were.\""
+    },
+    {
+      "word": "day and night",
+      "pos": "PHRASE",
+      "translation": "dia e noite",
+      "example": "\"I worked day and night. My wife never saw me.\""
     },
     {
       "word": "day off",
@@ -14842,10 +14902,22 @@
       "example": "Then, almost at once, a second one: \"MAYA GET OUT NOW\"."
     },
     {
+      "word": "get out of",
+      "pos": "PHRASE",
+      "translation": "sair de (“Get out!”: fora!)",
+      "example": "\"Get out of our school.\""
+    },
+    {
       "word": "get out of bed",
       "pos": "PHRASE",
       "translation": "sair da cama, levantar-se",
       "example": "For four days he could hardly get out of bed."
+    },
+    {
+      "word": "get out of breath",
+      "pos": "PHRASE",
+      "translation": "ficar sem fôlego",
+      "example": "He got out of breath faster than his mum, who smoked ten cigarettes a day."
     },
     {
       "word": "get over",
@@ -15319,6 +15391,12 @@
       "pos": "PHRASE",
       "translation": "ir para a cama, deitar-se",
       "example": "\"Go to bed, Rowan.\""
+    },
+    {
+      "word": "go to prison",
+      "pos": "PHRASE",
+      "translation": "ir para a prisão",
+      "example": "\"Countries where people go to prison because of their ideas.\""
     },
     {
       "word": "go to sleep",
@@ -18486,6 +18564,12 @@
       "example": "Inspector Harris arrived at seven, with two officers in plain clothes and a technician who put a tiny microphone under the edge of the desk and another one in the kitchen."
     },
     {
+      "word": "in prison",
+      "pos": "PHRASE",
+      "translation": "na prisão",
+      "example": "\"THIEF. His dad is in prison for stealing.\""
+    },
+    {
       "word": "in reply",
       "pos": "PHRASE",
       "translation": "em resposta",
@@ -19490,6 +19574,12 @@
       "pos": "PROPN",
       "translation": "Jones (sobrenome)",
       "example": "A young uniformed officer, PC Sam Jones, was standing by the counter with a notebook."
+    },
+    {
+      "word": "Jordan",
+      "pos": "PROPN",
+      "translation": "Jordan (nome)",
+      "example": "\"He stole Jordan's phone. Watch your bags.\""
     },
     {
       "word": "Jory",
@@ -21753,6 +21843,12 @@
       "example": "I have a bowl that is never empty, a sofa, a sunny spot in the afternoon and a human who loves me."
     },
     {
+      "word": "Lovelace",
+      "pos": "PROPN",
+      "translation": "Lovelace (“Ada Lovelace”: matemática inglesa do século XIX, primeira programadora da história)",
+      "example": "\"Her name is Ada,\" Mr Okafor said. \"After Ada Lovelace. Do you know who she was?\""
+    },
+    {
       "word": "lovely",
       "pos": "ADJ",
       "translation": "lindo, adorável",
@@ -22428,6 +22524,12 @@
       "pos": "NOUN",
       "translation": "a matemática",
       "example": "He dried the pages one by one on the radiator in the maths classroom, the one that actually worked, but the ink had run, and three years of work looked as if they had been left out in a storm."
+    },
+    {
+      "word": "mathematics",
+      "pos": "NOUN",
+      "translation": "a matemática",
+      "example": "Books about engineering, mathematics, physics, computers, birds, music, history."
     },
     {
       "word": "matter",
@@ -26677,6 +26779,12 @@
       "example": "Bram Ashby would walk the woods for days before choosing a single trunk, laying his broad palm against the bark like a physician feeling for a pulse."
     },
     {
+      "word": "physics",
+      "pos": "NOUN",
+      "translation": "a física",
+      "example": "Books about engineering, mathematics, physics, computers, birds, music, history."
+    },
+    {
       "word": "physiology",
       "pos": "NOUN",
       "translation": "a fisiologia",
@@ -27985,6 +28093,12 @@
       "example": "He wrote the computer program himself."
     },
     {
+      "word": "programmer",
+      "pos": "NOUN",
+      "translation": "o programador, a programadora",
+      "example": "\"The first computer programmer,\" Milo said."
+    },
+    {
       "word": "progress",
       "pos": "NOUN",
       "translation": "o progresso",
@@ -28091,6 +28205,12 @@
       "pos": "NOUN",
       "translation": "a proteção",
       "example": "A letter from a rich merchant on the western coast, offering him a house and a pension for life if he would come and live under his protection."
+    },
+    {
+      "word": "protest",
+      "pos": "NOUN",
+      "translation": "o protesto, a manifestação",
+      "example": "He went to a protest, a peaceful protest, in his country."
     },
     {
       "word": "protest",
@@ -28553,6 +28673,12 @@
       "pos": "NOUN",
       "translation": "a colcha, o edredom",
       "example": "Around him the others slept — the Tanner brothers still snoring in harmony, Jory sprawled on his back with one arm flung over his face, Tamsin curled into a tight ball under her mother's quilt."
+    },
+    {
+      "word": "quit",
+      "pos": "VERB",
+      "translation": "largar (um emprego), pedir demissão",
+      "example": "\"I quit my job the next day,\" Mr Okafor said."
     },
     {
       "word": "quite",
@@ -34776,6 +34902,12 @@
       "example": "Drivers are advised to stay at home."
     },
     {
+      "word": "stay awake",
+      "pos": "PHRASE",
+      "translation": "ficar acordado",
+      "example": "Who held her hand on the last night, when I was too tired to stay awake."
+    },
+    {
       "word": "stay in",
       "pos": "PHRASE",
       "translation": "ficar hospedado em ; ficar em casa",
@@ -36581,6 +36713,12 @@
       "example": "\"It copies technique and instinct."
     },
     {
+      "word": "technology",
+      "pos": "NOUN",
+      "translation": "a tecnologia",
+      "example": "A technology company. I was the head engineer."
+    },
+    {
       "word": "teddy",
       "pos": "NOUN",
       "translation": "o ursinho (“teddy bear”: o ursinho de pelúcia)",
@@ -36933,6 +37071,12 @@
       "pos": "PHRASE",
       "translation": "a primeira coisa",
       "example": "But she said the first thing that came into her head: \"I'm from the post office.\""
+    },
+    {
+      "word": "the hard way",
+      "pos": "PHRASE",
+      "translation": "do jeito mais difícil (“learn the hard way”: aprender na marra)",
+      "example": "\"Because I know what happens to information, Milo. I learned it the hard way.\""
     },
     {
       "word": "the long way round",

@@ -771,3 +771,142 @@ The answer came in one minute. "Perfect. Thanks. Money sent."
 Fifty pounds. Milo put it in the envelope. £1,230 now.
 He did not feel good. He did not feel bad either. He just felt nothing. He closed the box in his head and went to sleep.
 He did not know it then, but that message was the biggest mistake of his life.
+
+# Mr Okafor
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_1-1793478745301.mp3
+On Thursday evening, Milo's mum came home from work with a big pot.
+"Milo, can you do something for me?" she asked. "I made soup at lunchtime, in the hospital kitchen. Too much soup. Can you take some to Mr Okafor at number 14? He lives alone. I don't think he cooks very much."
+Milo did not want to go. He had three messages on TheOracle to answer. He had a new idea for the glasses. He had homework.
+"Can't you take it?" he asked.
+"I'm very tired, love. And it's only two houses. Please."
+Milo sighed. He took the pot. He put on his jacket. And, without thinking, he put on the glasses too.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_2-1793478759569.mp3
+Number 14 was a small house like all the houses on the street. But the garden was different. The other gardens had grass and maybe a bin and an old bicycle. Mr Okafor's garden had flowers. Many flowers, even in November. Red, purple, white. And in the middle of the garden there was a strange little machine made of metal. It turned slowly in the wind and made a quiet, soft music.
+Milo knocked on the door. The dog barked once. Then the door opened.
+"Ah," Mr Okafor said. "The young genius. And what is this? Soup?"
+"From my mum."
+"Your mother is an angel. Come in, come in. It is cold. I will put this in the kitchen."
+Milo did not want to go in. But Mr Okafor was already walking down the hall. So Milo followed him.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_3-1793478771788.mp3
+Inside, the house was warm and full. Full of books. Full of papers. Full of strange objects. On every wall there were shelves, and on every shelf there were books. Books about engineering, mathematics, physics, computers, birds, music, history. There were books in English and in other languages. Some were very old.
+On a table in the living room there were small machines. A clock with no face. A little robot arm. A radio with its inside open, and wires everywhere. It looked a lot like Milo's garage.
+"Do you like it?" Mr Okafor asked. He came back from the kitchen. "My wife called it 'the museum of unfinished things'."
+"It's like my lab," Milo said.
+"Your lab? You have a lab?"
+"In the garage. My mum calls it 'the mess'."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_4-1793478781766.mp3
+Mr Okafor laughed. It was a deep, warm laugh. "All good labs are messes. Sit down, Milo. Please. I have tea. Or hot chocolate, if you prefer. I am old, but I am not boring."
+Milo sat on an old armchair. The grey dog came and put its head on his knee. Milo touched its soft ears.
+"Her name is Ada," Mr Okafor said. "After Ada Lovelace. Do you know who she was?"
+"The first computer programmer," Milo said. "In the 1840s. Before computers existed."
+Mr Okafor smiled. "Yes. Very good. Your mother is right. You are a genius."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_5-1793478792685.mp3
+He brought two cups of hot chocolate and sat in the other armchair. For a moment, they were both quiet. Milo looked at the walls. Between the books, there were some photos. A young Mr Okafor with a beautiful woman, at a wedding. A young Mr Okafor in front of a big building, with other men in suits. A young Mr Okafor holding a prize, a gold one, with a lot of people around him clapping.
+Milo had his glasses on. He looked at the photo of Mr Okafor with the prize. He waited for the blue letters. The glasses looked at the face. One second. Two. Three.
+> NAME: Samuel Okafor
+> JOB: no information
+> SALARY: £0
+> SCORE: 0
+"It doesn't work," Milo said, without thinking.
+"What doesn't work?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_6-1793478801958.mp3
+Milo stopped. He looked at Mr Okafor. The old man was looking at him. Not at his face. At the glasses.
+"Those are not normal glasses," Mr Okafor said quietly. "There is a camera on the left side. Very small. Very well hidden. But I can see it. And the right side is thicker than it should be. There is a computer inside. Am I correct?"
+Milo did not move. His heart was beating very fast. Nobody noticed before. Not the teachers. Not his mum. Not the students at school.
+"How did you know?" he asked.
+"Because I made something very similar," Mr Okafor said. "Thirty years ago."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_7-1793478814353.mp3
+He stood up slowly and walked to a shelf. He took down a box. A big, old, brown box. He opened it and took out something wrapped in a cloth. He put it on the table and opened the cloth.
+It was a camera. An old one, big and heavy, with a lot of wires coming out of the back. Next to it was a pile of papers with drawings and numbers.
+"In the 1990s," Mr Okafor said, "I worked for a big company in London. A technology company. I was the head engineer. My job was to build a system that could recognise faces. Like a person. Better than a person. It looked at a face and in a few seconds it told you who that person was. Name. Address. Everything."
+"Face recognition," Milo said. "In the nineties? That's very early."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_8-1793478821869.mp3
+"Yes. We were the first, or nearly the first. It was very exciting. I was very proud. I worked day and night. My wife never saw me. I won prizes." He looked at the photo with the gold prize. "That prize. For that camera."
+"So why..." Milo started.
+"Why do I have no job? No salary? No information on the internet?" Mr Okafor smiled a sad smile. "Because I know what happens to information, Milo. I learned it the hard way."
+He sat down again. He looked at his hot chocolate.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_9-1793478832626.mp3
+"The company sold my system. First to shops, to find thieves. That was OK, we thought. Then to the police. That was OK too, maybe. Then to other governments. Governments in other countries. Countries where people go to prison because of their ideas. Where people disappear because they say the wrong thing. My system helped them find these people. Students. Writers. Mothers. Fathers."
+He stopped. His hands were shaking a little.
+"One day, I saw a newspaper. There was a photo of a young man. A student, like you will be one day. He went to a protest, a peaceful protest, in his country. My camera found his face in the crowd. They took him. Nobody saw him again."
+The room was very quiet. Even Ada the dog did not move.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_10-1793478843625.mp3
+"I quit my job the next day," Mr Okafor said. "I told them I did not want to build it anymore. They said OK, they had other engineers. Of course they did. There are always other engineers." He shrugged. "After that, I decided something. I decided I did not want to be in any system. No social media. No photos online. No public information. I asked every website to delete my name. It took me years. I worked in small places for cash, I fixed things for people, I lived quietly. My wife understood. She was a wise woman."
+"So your score is zero because..." Milo said slowly.
+"Because I chose zero," Mr Okafor said. "Zero is not nothing, Milo. Sometimes zero is a choice."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_11-1793478853987.mp3
+Milo took off the glasses. He held them in his hands. Suddenly they felt very heavy.
+"What do yours do?" Mr Okafor asked. "Tell me. Honestly."
+Milo did not want to tell him. But the old man's eyes were calm and kind, and Milo was tired of the box in his head. So he told him. Everything. The face recognition. The salaries. The secrets. The score. The car boot sale. TheOracle. The money in the envelope. He did not tell him about the debts. That was his mum's secret. But he told him about everything else.
+Mr Okafor listened. He did not interrupt. He did not look angry. When Milo finished, he was quiet for a long time.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_12-1793478866664.mp3
+"Can I tell you what I think?" he said finally.
+"OK."
+"I think you are a very clever boy. Much more clever than I was at thirteen. I think you love to build things, and that is beautiful. And I think you want to help someone. Maybe your mother. Am I right?"
+Milo looked at the floor. He did not answer. That was an answer.
+"I also think," Mr Okafor said, "that your glasses do not see people. They see numbers about people. That is not the same thing. A number cannot tell you if a person is kind. If a person is brave. If a person is sad at two o'clock in the morning. A number cannot tell you why."
+Milo thought about Holly Brandt and her post at two in the morning. "Why does nobody really talk to me?" He thought about Connor's white face. He thought about the woman at the till with the tired eyes.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_13-1793478876994.mp3
+"My score is zero," Mr Okafor said. "Your mother's score, what is it? Twenty? Thirty?"
+"Twenty-six," Milo said quietly.
+"Twenty-six. Your mother, who looked after my wife in the hospital for two years. Who held her hand on the last night, when I was too tired to stay awake. Who came to the funeral on her day off. Twenty-six." He shook his head. "Your glasses are very clever, Milo. But they are also very stupid."
+Milo felt his eyes become hot. He looked down at Ada so the old man did not see.
+"I don't know how to stop," he said. His voice was small.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_14-1793478886352.mp3
+"You don't have to stop tonight," Mr Okafor said. "But think about this. Information is like fire. It can keep you warm. It can cook your food. Or it can burn your house down. The fire does not decide. You decide."
+He stood up and took the cups. "Now go home. Your mother will be worried. And thank her for the soup."
+At the door, Mr Okafor put a hand on Milo's shoulder.
+"You can come here any time," he said. "If you want to build something. Or if you want to talk. My lab is your lab."
+Milo walked home in the cold. Two houses. It felt like a long way. He did not put the glasses on.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_6.page_15-1793478899276.mp3
+At home, his mum was asleep on the green sofa again. Milo put a blanket on her. Then he went to his room.
+His phone was on his bed. There were many new messages. More than usual. Fifteen. Twenty. Twenty-five. Not on TheOracle. On the school group chat. The big group chat with all the students in his year and the year above.
+He opened it. His stomach went cold.
+There was a photo of Kai Dobson. Somebody took it in the library. Under the photo, somebody wrote: "THIEF. His dad is in prison for stealing. He stole Jordan's phone. Watch your bags."
+And under that, many, many messages. Laughing faces. Angry faces. "Knew it." "He's so weird." "Get out of our school."
+Milo read the messages. All of them. His hands were cold.
+He did that. His information. His fifty pounds.
+And he did not even check if it was true.
