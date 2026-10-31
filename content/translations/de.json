@@ -8256,6 +8256,12 @@
       "example": "The body pays for everything the mind asks of it, and it never gives credit."
     },
     {
+      "word": "credit card",
+      "pos": "PHRASE",
+      "translation": "die Kreditkarte",
+      "example": "DEBTS: about £8,400. Credit card (£5,100)."
+    },
+    {
       "word": "creep",
       "pos": "VERB",
       "translation": "schleichen",
@@ -9820,6 +9826,12 @@
       "pos": "PHRASE",
       "translation": "das Verteilzentrum",
       "example": "She drove for a supermarket chain now, chilled goods out of a depot near Wakefield, and was on her way to a distribution centre outside Inverness."
+    },
+    {
+      "word": "disturb",
+      "pos": "VERB",
+      "translation": "stören",
+      "example": "\"Good afternoon, Jennifer. I hope I am not disturbing you.\""
     },
     {
       "word": "ditch",
@@ -12634,6 +12646,12 @@
       "example": "I can't find my cat. — Ich finde meine Katze nicht."
     },
     {
+      "word": "find a way",
+      "pos": "PHRASE",
+      "translation": "einen Weg finden",
+      "example": "He did not know how yet. But he knew he could find a way."
+    },
+    {
       "word": "find her way",
       "pos": "PHRASE",
       "translation": "den Weg finden („find her way home“: den Weg nach Hause finden)",
@@ -15357,6 +15375,12 @@
       "example": "She drove for a supermarket chain now, chilled goods out of a depot near Wakefield, and was on her way to a distribution centre outside Inverness."
     },
     {
+      "word": "good afternoon",
+      "pos": "PHRASE",
+      "translation": "guten Tag (am Nachmittag)",
+      "example": "\"Good afternoon, Jennifer.\""
+    },
+    {
       "word": "good at",
       "pos": "PHRASE",
       "translation": "gut in, gut im",
@@ -16574,6 +16598,12 @@
       "example": "The first morning of Leaf-Fall arrived wrapped in fog, as if the forest had pulled a blanket over its head and had no intention of getting up."
     },
     {
+      "word": "have on",
+      "pos": "PHRASE",
+      "translation": "anhaben, tragen",
+      "example": "Milo had his glasses on."
+    },
+    {
       "word": "have out",
       "pos": "PHRASE",
       "translation": "herausgeholt haben („he already had his wallet out“: er hatte sein Portemonnaie schon gezückt)",
@@ -16752,6 +16782,12 @@
       "pos": "PHRASE",
       "translation": "der Herzinfarkt",
       "example": "Four years ago, his father had died suddenly, of a heart attack, in the middle of the harvest."
+    },
+    {
+      "word": "heart be in the right place",
+      "pos": "PHRASE",
+      "translation": "das Herz am rechten Fleck haben",
+      "example": "He wanted to help. His heart was in the right place."
     },
     {
       "word": "heart jump into her mouth",
@@ -17676,6 +17712,12 @@
       "pos": "SCONJ",
       "translation": "wie",
       "example": "\"Then how am I supposed to win, sir?\""
+    },
+    {
+      "word": "how much",
+      "pos": "PHRASE",
+      "translation": "wie viel",
+      "example": "\"Samuel, how much do I owe you?\""
     },
     {
       "word": "however",
@@ -21035,6 +21077,12 @@
     },
     {
       "word": "like",
+      "pos": "NOUN",
+      "translation": "die Vorliebe („likes“: Vorlieben, auch die „Likes“ im Netz)",
+      "example": "Name, age, job, salary, family, likes, last post online."
+    },
+    {
+      "word": "like",
       "pos": "VERB",
       "translation": "mögen",
       "example": "I think you'd like it."
@@ -21224,6 +21272,12 @@
       "pos": "VERB",
       "translation": "leben, wohnen",
       "example": "When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
+    },
+    {
+      "word": "live the dream",
+      "pos": "PHRASE",
+      "translation": "den Traum leben",
+      "example": "LAST POST ONLINE: a photo of a beach and a boat. \"Living the dream.\""
     },
     {
       "word": "living",
@@ -21915,6 +21969,12 @@
       "example": "\"He used to sit on the counter and make faces at the customers."
     },
     {
+      "word": "make money",
+      "pos": "PHRASE",
+      "translation": "Geld verdienen",
+      "example": "5. Use the glasses to make money."
+    },
+    {
       "word": "make out",
       "pos": "PHRASE",
       "translation": "erkennen, ausmachen; verstehen",
@@ -21948,6 +22008,12 @@
       "pos": "PHRASE",
       "translation": "sich entscheiden",
       "example": "The firm had been courteous about it, in the way that firms are courteous when they have already made up their minds: a card signed by the whole office, a voucher for a garden centre, a speech promised for Friday afternoon."
+    },
+    {
+      "word": "Málaga",
+      "pos": "PROPN",
+      "translation": "Málaga (Stadt in Südspanien)",
+      "example": "JOB: Bar owner, Málaga, Spain"
     },
     {
       "word": "malice",
@@ -29706,6 +29772,12 @@
       "example": "Someone rich is paying them."
     },
     {
+      "word": "Richard",
+      "pos": "PROPN",
+      "translation": "Richard (Vorname)",
+      "example": "NAME: Richard Hartley"
+    },
+    {
       "word": "rid",
       "pos": "VERB",
       "translation": "befreien („get rid of“: loswerden)",
@@ -30802,6 +30874,12 @@
       "pos": "PHRASE",
       "translation": "Hallo sagen, grüßen",
       "example": "P.S. My dog says hello."
+    },
+    {
+      "word": "say so",
+      "pos": "PHRASE",
+      "translation": "es sagen („everybody said so“: alle sagten es)",
+      "example": "And information was valuable. Everybody said so."
     },
     {
       "word": "saying",
@@ -32886,6 +32964,12 @@
       "example": "He sleeps on her bed. — Er schläft auf ihrem Bett."
     },
     {
+      "word": "sleep late",
+      "pos": "PHRASE",
+      "translation": "ausschlafen, lange schlafen",
+      "example": "On Sunday morning, his mum slept late."
+    },
+    {
       "word": "sleeper",
       "pos": "NOUN",
       "translation": "der Schläfer",
@@ -33436,6 +33520,12 @@
       "pos": "NOUN",
       "translation": "das Sofa",
       "example": "I have a bowl that is never empty, a sofa, a sunny spot in the afternoon and a human who loves me."
+    },
+    {
+      "word": "Sofia",
+      "pos": "PROPN",
+      "translation": "Sofia (Vorname)",
+      "example": "FAMILY: wife Sofia, daughter (age 4)"
     },
     {
       "word": "soft",
@@ -36473,6 +36563,12 @@
       "example": "\"Mostly tens and twenties. Some fives.\""
     },
     {
+      "word": "tense",
+      "pos": "ADJ",
+      "translation": "angespannt",
+      "example": "But he saw her shoulders. They were up, near her ears. Tense."
+    },
+    {
       "word": "tent",
       "pos": "NOUN",
       "translation": "das Zelt",
@@ -38111,6 +38207,12 @@
       "example": "He understood, at that moment, that her words had finally come true."
     },
     {
+      "word": "TrueLens",
+      "pos": "PROPN",
+      "translation": "TrueLens (Name von Milos Programm: „true“ wahr + „lens“ Linse)",
+      "example": "He looked at the code of TrueLens."
+    },
+    {
       "word": "TRUELENS",
       "pos": "PROPN",
       "translation": "TRUELENS (Name von Milos Programm: „true“ wahr + „lens“ Linse)",
@@ -39284,6 +39386,12 @@
       "pos": "NOUN",
       "translation": "das Tal",
       "example": "A crow lifted from its crown, complaining loudly, and then the whole grey mass of it tilted — slowly at first, almost reluctantly — before crashing down through the bracken with a sound that rolled across the valley and came back twice."
+    },
+    {
+      "word": "valuable",
+      "pos": "ADJ",
+      "translation": "wertvoll",
+      "example": "That was information. And information was valuable."
     },
     {
       "word": "vampire",

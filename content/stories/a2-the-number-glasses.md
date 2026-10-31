@@ -463,3 +463,163 @@ He closed the laptop and went to bed. In the kitchen, he passed the table. His m
 "FINAL WARNING: Your payment of..."
 The screen went dark again.
 Milo stood in the kitchen for a long time.
+
+# Mum's Number
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_1-1793472834744.mp3
+Milo did not sleep well that night. He thought about the message on his mum's phone. "FINAL WARNING: Your payment of..." Of what? How much? For what?
+He wanted to ask his mum. But he could not. If he asked, she would know that he read her phone. And she always said, "My problems are my problems. Your job is school."
+So he did what he always did. He looked for information.
+On Sunday morning, his mum slept late. She worked the night before and came home at eight in the morning. She went straight to bed. Milo went to the garage.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_2-1793472845038.mp3
+He opened his laptop. He looked at the code of TrueLens. The glasses already found a lot of things about people. Name, age, job, salary, family, likes, last post online. But there was more information on the internet. Much more. There were public lists of people who did not pay money back. There were court papers. There were letters from companies that people put online by mistake. There were websites that sold information about people for a few pounds.
+Milo wrote new code. It took him three hours. When he finished, the glasses had a new line:
+> DEBTS:
+He tested it with photos of famous people first. Some had big debts. Some had none. It worked.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_3-1793472856571.mp3
+Then he went into the house. He walked up the stairs quietly. His mum's bedroom door was a little open. He looked inside. She was asleep. Her face was turned to the door. In her sleep, she looked younger. And very, very tired.
+Milo put on the glasses. He looked at her face.
+> NAME: Jennifer Hartley
+> AGE: 41
+> JOB: Nurse, Leicester Royal Infirmary
+> SALARY: about £32,000 per year
+> SCORE: 26
+> DEBTS: about £8,400. Credit card (£5,100). Unpaid bills (£2,300). Loan (£1,000). Court letter, 2 weeks ago.
+Milo held the door. His hand was shaking.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_4-1793472867236.mp3
+Eight thousand four hundred pounds.
+He did not know a lot about money. But he knew that £8,400 was a lot. It was more than three months of his mum's salary. And she needed that salary for the house, for the food, for the bills, for him.
+He closed the door very slowly and went back down the stairs.
+In the garage, he sat in the chair with the bad leg. He looked at the wall. He looked at his big piece of paper with all his ideas. Flying shoes. A robot that makes toast. A machine that finds lost socks. Glasses that see everything.
+None of these ideas paid £8,400.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_5-1793472878605.mp3
+He thought about his dad. He did not think about his dad often. His dad left when Milo was five years old. Milo did not remember much. A big man with a loud laugh. A red car. Shouting in the kitchen at night. Then one day, his dad was not there. His mum said he moved to Spain. He never called. He never wrote. He never sent money.
+Milo looked at the glasses in his hand. Suddenly he had an idea. He did not like the idea, but he could not stop it.
+He went to the box under his bed where his mum kept old photos. He found one photo of his dad. A big man with dark hair, standing next to a red car. Milo put on the glasses and looked at the photo.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_6-1793472888877.mp3
+> NAME: Richard Hartley
+> AGE: 46
+> JOB: Bar owner, Málaga, Spain
+> SALARY: about £60,000 per year
+> SCORE: 58
+> FAMILY: wife Sofia, daughter (age 4)
+> LAST POST ONLINE: a photo of a beach and a boat. "Living the dream."
+Milo read it again and again.
+His dad had a bar in Spain. His dad earned £60,000 a year. Nearly two times his mum's salary. His dad had a new wife. And a daughter. A little girl, four years old. Milo had a sister. A sister he never knew about.
+And his dad was "living the dream".
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_7-1793472898531.mp3
+Milo put the photo back in the box. He put the box back under the bed. He did not cry. He did not shout. He just sat on the floor for a very long time.
+Then he looked at the debt again in his head. Credit card, £5,100. He remembered something. His mum told him once, when he was small: "Your dad liked nice things. He used my card." Milo did not understand then. He understood now.
+The debt was not really his mum's debt. It was his dad's debt. His dad bought nice things with her card, and then he left. He went to the beach. And his mum stayed in Leicester with the bills.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_8-1793472905552.mp3
+At one o'clock, his mum woke up. She came down to the kitchen in her old pink dressing gown. Her hair was everywhere. She made a cup of tea.
+"Hi, love," she said. "Did you eat lunch?"
+"Not yet."
+"I'll make something. Eggs?"
+"Mum," Milo said. "Are we OK?"
+His mum stopped. She was holding the box of eggs. "What do you mean?"
+"Are we OK? With money?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_9-1793472915187.mp3
+His mum put the eggs on the table. She looked at him carefully. "Why are you asking that?"
+Milo thought fast. "At school, we talked about money. In a lesson. About bills and things. And I just wanted to know."
+His mum smiled. It was her "everything is fine" smile. Milo knew that smile well. It was not a real smile.
+"We're fine, love," she said. "Don't worry about money. That's my job. Your job is school. Remember?"
+"I remember."
+"Good." She turned to the cooker. She broke two eggs into the pan. Her back was to Milo. He could not see her face. But he saw her shoulders. They were up, near her ears. Tense.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_10-1793472924842.mp3
+They ate eggs on toast. His mum talked about the hospital. An old man who sang songs to the nurses. A little girl who was very brave. A new doctor who was very nervous. She told the stories with a smile. She always had stories about the hospital. Good stories. Funny stories. She never had stories about the bills.
+After lunch, someone knocked on the front door. His mum went to open it. Milo heard a deep, slow voice.
+"Good afternoon, Jennifer. I hope I am not disturbing you."
+It was Mr Okafor. The old man from number 14. The man with the brown hat and the dog. Score: zero.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_11-1793472937407.mp3
+"Samuel! Come in, come in," his mum said. Her voice was warm. Much warmer than Milo expected.
+"No, no, I cannot stay. My dog is waiting. I only came to say that the part for your heater arrived. I can come on Tuesday to put it in. Is that good for you?"
+"Tuesday is perfect. Samuel, how much do I owe you? Please, let me pay this time."
+"You owe me nothing," Mr Okafor said. "You looked after my wife for two years at the hospital. You were there every day. I cannot pay that back with a heater."
+"That was my job, Samuel."
+"Yes," Mr Okafor said. "And you did your job with your whole heart. That is not normal, Jennifer. That is something special. Tuesday, then. Ten o'clock."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_12-1793472949260.mp3
+The door closed. His mum came back into the kitchen. Her eyes were a little wet. She wiped them quickly.
+"Mr Okafor fixes our heater?" Milo asked.
+"He fixes everybody's heater on this street," his mum said. "And their washing machines. And their bicycles. He was an engineer. A very good one, I think. He never talks about it."
+Milo frowned. An engineer? The glasses said: JOB, no information. SALARY, £0. SCORE, 0. How was that possible? Engineers had jobs. Engineers had information on the internet.
+He did not think about it for long. He had bigger problems. £8,400 of problems.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_13-1793472958436.mp3
+That evening, he went to the garage. He took out a piece of paper and a pen. At the top of the paper, he wrote: "HOW TO GET £8,400."
+Under it, he wrote ideas.
+> 1. Sell my old computers. (Maybe £200.)
+> 2. Get a job. (I am thirteen. Not possible.)
+> 3. Ask Dad. (No. Never.)
+> 4. Sell the glasses.
+He looked at number four for a long time. Then he crossed it out. No. The glasses were his. The glasses were the most amazing thing he ever made. He could not sell them.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_14-1793472969733.mp3
+But then he had a different idea. A better idea. Not to sell the glasses. To use them.
+The glasses told him things that other people did not know. Salaries. Debts. Secrets. Who had money. Who did not have money. Who was weak. Who was strong. That was information. And information was valuable. Everybody said so. On the news, on the internet, everywhere. "Information is the new gold."
+He wrote a new line on the paper:
+> 5. Use the glasses to make money.
+He did not know how yet. But he knew he could find a way. He was a genius. Everybody said so. Mr Pratt said so, even when he was angry. Bea said so. His mum said so.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_15-1793472978153.mp3
+He looked at the paper. He thought about his mum's tired face on the pillow. He thought about her "everything is fine" smile. He thought about his dad on a beach in Spain, "living the dream".
+"I'll fix it, Mum," he said quietly. "You'll see. I'll fix everything."
+He meant it. He really did. He wanted to help. His heart was in the right place.
+But his head was not. His head was full of numbers. And when your head is full of numbers, it is very easy to forget about people.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_16-1793472988272.mp3
+On Tuesday, Milo came home from school at four o'clock. Mr Okafor was in the kitchen, on the floor, with his head inside the heater. His tools were all around him. His old dog, a grey dog with soft brown eyes, lay on the kitchen floor near the door.
+"Hello, young man," Mr Okafor said, without taking his head out of the heater. "You must be Milo. Your mother talks about you all the time. She says you are a genius."
+"I don't know," Milo said.
+Mr Okafor took his head out of the heater and looked at Milo. He had very calm eyes. Dark brown eyes, with many small lines around them.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_4.page_17-1793472997744.mp3
+"A genius who says 'I don't know'," Mr Okafor said. "That is a good start. The real geniuses always say 'I don't know'. The fools always say 'I know everything'."
+Milo had his glasses on. He looked at the old man's face. The blue letters appeared again.
+> SCORE: 0.
+But the man in front of him was holding a part of the heater in his hands and smiling. And in five minutes, the heater in Milo's house was working for the first time in two weeks.
+Zero, Milo thought. That's not possible.
+But he was too busy with his plan to think more about it.
