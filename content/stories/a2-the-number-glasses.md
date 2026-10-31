@@ -7,20 +7,20 @@ cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/
 
 # The Garage
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_1-1793429349341.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_1-1793451240384.mp3
 Milo Hartley was thirteen years old, and he lived in a small house in Leicester with his mum. The house had two bedrooms, a little kitchen, a living room with an old green sofa, and a garage. The garage was the most important room in the house. Well, it was the most important room for Milo.
 There was no car in the garage. His mum did not have a car. She took the bus to work every day. So the garage was Milo's place. He called it "the lab". His mum called it "the mess".
 In the garage there was a long table. On the table there were old computers, broken phones, small cameras, screws, wires, batteries and many, many boxes. There was a lamp, a chair with three good legs and one bad leg, and a small heater for the cold winter evenings. On the wall there was a big piece of paper. On the paper Milo wrote his ideas. Some ideas were good. Some ideas were very bad. "Flying shoes" was a bad idea. He tried it last year, and he broke his arm.
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_2-1793429360065.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_2-1793451254544.mp3
 Milo was not a normal boy. At school, the other children played football at lunchtime. Milo sat under a tree and read books about computers. He understood numbers very well. He understood machines very well. He did not understand people very well. People were difficult. Machines were easy. When a machine did not work, you opened it and you found the problem. When a person was angry or sad, you could not open them. Milo thought that was a big problem with people.
 It was a Friday evening in October. It was raining outside. Milo sat in the garage, and he looked at a pair of glasses on the table. They were black glasses with thick sides. They looked normal. But they were not normal. Inside the left side there was a very small camera. Inside the right side there was a very small computer. And on the inside of the glass, there was a tiny screen. Only the person with the glasses on could see the screen.
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_3-1793429370989.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_3-1793451268569.mp3
 Milo worked on these glasses for eight months. He worked every evening and every weekend. He used parts from old phones. He bought some parts online with his birthday money. He wrote the computer program himself. It was a very long program. It had more than twenty thousand lines.
 "Tonight," Milo said to himself, "tonight they work."
 The idea was simple. The camera looked at a face. The computer recognised the face. Then the computer searched the internet. It looked at social media, at company websites, at public lists, at old newspaper pages, at everything. In two or three seconds, it found information about the person. Then it showed the information on the small screen.
@@ -31,7 +31,7 @@ Milo smiled. "Yes," he said quietly. "Yes, yes, yes."
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_4-1793429380623.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_4-1793451280209.mp3
 But he needed a face. He needed a test. He looked around the garage. There was nobody. Only a spider in the corner. He looked at the spider. The screen said:
 > NO FACE FOUND.
 "Of course," Milo said. "It's a spider."
@@ -45,7 +45,7 @@ He looked at a photo of a singer. The glasses worked again. Name, age, job, sala
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_5-1793429389928.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_5-1793451291797.mp3
 But photos were easy. Famous people were easy. There was a lot of information about them on the internet. Milo needed a real person. A normal person. A person in the same room.
 "Milo!" His mum's voice came from the kitchen. "Dinner! Five minutes!"
 Milo looked at the door. His mum was a real person. She was a normal person. She was a perfect test.
@@ -53,7 +53,7 @@ He did not take the glasses off. He walked into the house. The kitchen was warm 
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_6-1793429398279.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_6-1793451304106.mp3
 "Why are you wearing those?" she asked. "You don't need glasses."
 "It's a project," Milo said. "For school."
 It was not for school. But it was easier to say that.
@@ -69,7 +69,7 @@ Milo stopped breathing for a moment. It worked. It really worked. On a normal pe
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_7-1793429407342.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_7-1793451315166.mp3
 He sat at the table. His mum put a plate of pasta in front of him. It was pasta with tomato sauce and a little cheese. They ate pasta with tomato sauce three or four times a week. Milo did not mind. He liked pasta.
 "How was school?" his mum asked.
 "Fine."
@@ -80,7 +80,7 @@ Milo wanted to tell her about the glasses. He wanted to say, "Mum, I made someth
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_8-1793429416263.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_8-1793451327566.mp3
 After dinner, his mum sat on the green sofa and watched television. Milo went back to the garage. He was very excited. He could not sit down. He walked around the table again and again.
 He opened his laptop and checked the program. The glasses worked well, but they were a little slow. Three seconds was too long. He wanted one second. He changed some lines of code. He tested it on photos again. Now it took two seconds. Better.
 Then he added a new line on the screen. He wanted more information. Not only name, age, job and salary. He wanted to know more. He wrote new code. Now the glasses could also show:
@@ -90,14 +90,14 @@ Then he added a new line on the screen. He wanted more information. Not only nam
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_9-1793429425464.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_9-1793451340260.mp3
 It was nearly midnight when he finished. His eyes were tired, but his brain was awake. Very awake.
 He looked out of the small garage window. The street was dark. The rain stopped. Under the street light, he saw a man with a dog. It was Mr Okafor, the old man from number 14. Mr Okafor walked his dog every night at midnight. He was tall and thin, and he always wore a brown hat. He never talked much. Milo did not know anything about him. He did not want to know anything about him. He was just an old man with a dog.
 But now Milo had the glasses. He wanted to test them on a stranger. He looked through the window at Mr Okafor's face. The camera tried. One second. Two seconds. Three seconds.
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_10-1793429435527.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_10-1793451353209.mp3
 > NAME: Samuel Okafor
 > AGE: 74
 > JOB: no information
@@ -113,7 +113,7 @@ Before he went to bed, he took the glasses off and looked at them in his hand. T
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_11-1793429446638.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_11-1793451368660.mp3
 Milo thought about all the people at school. The teachers. The other students. The head teacher, Mrs Dunmore, who was always angry. The boys who laughed at him in the corridor. What were their secrets? What were their numbers?
 He put the glasses in a small black box and put the box in his school bag.
 "Monday," he said. "On Monday, I take them to school."
@@ -122,7 +122,7 @@ In bed, Milo looked at the ceiling. He could not sleep. He thought about the num
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_12-1793429455099.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_12-1793451379921.mp3
 Milo did not have an answer. He liked questions with answers. This question did not have one.
 But he did not worry about it for long. He was too happy. He made something incredible. He was thirteen, and he made glasses that could see the truth about people.
 Or that was what he thought.
@@ -134,7 +134,7 @@ He liked that. "See everything," he said, and he smiled.
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_13-1793429467208.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_1.page_13-1793451397454.mp3
 On Sunday, he did not go outside. He did not want to test the glasses in the street. People might see him. They might ask questions. So he waited. He did his homework. He helped his mum with the shopping list. She wrote the list very carefully, and next to each thing she wrote the price. Milk, £1.20. Bread, £1.10. Pasta, £0.85. Tomato sauce, £1.50. At the end, she added the numbers two times.
 "Why do you always add it two times?" Milo asked.
 "Because I need to be sure," his mum said.
@@ -146,7 +146,7 @@ He was right. Everything started. But it was not the start he imagined.
 
 # The First Test
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_1-1793430494560.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_1-1793451410034.mp3
 On Monday morning, Milo woke up before his alarm. It was 6:15. Outside, the sky was still dark and grey. He jumped out of bed, put on his school uniform and ran down the stairs.
 His mum was in the kitchen. She was already in her blue uniform. She had a cup of coffee in one hand and her phone in the other hand. She looked at the phone and she did not look happy.
 "Good morning," Milo said.
@@ -157,7 +157,7 @@ She kissed the top of his head, took her bag and left. The door closed. The hous
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_2-1793430507211.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_2-1793451423615.mp3
 Milo ate two pieces of toast. Then he opened his school bag and checked the little black box. The glasses were inside. He did not put them on. Not yet. He wanted to wait until he was at school.
 Milo's school was called Westbridge Academy. It was a big school with more than a thousand students. It had three grey buildings, a car park, a football field and a small garden that nobody used. Milo walked there every day. It took twenty minutes.
 At the school gate, he saw Bea.
@@ -165,14 +165,14 @@ Bea Lindqvist was thirteen, the same as Milo. She had short red hair, big round 
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_3-1793430516364.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_3-1793451434285.mp3
 Bea was Milo's only friend. They met in the first year at Westbridge. The other children laughed at Milo because he ate his lunch alone and read books about computers. One day, Bea sat next to him and said, "What are you reading? Is it good? Can I see? Why do you like computers? Do you like cats?" Milo did not answer all the questions. But after that day, she sat with him every lunchtime.
 "Milo!" she shouted now. "You look happy. You never look happy on Mondays. What happened? Did you win something? Did you build something? You built something. I know it. Tell me."
 Milo looked around. There were many students near the gate. "Not here," he said. "Come with me."
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_4-1793430526885.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_4-1793451446888.mp3
 They walked to the small garden behind the science building. Nobody went there. There was an old bench, some bushes and a lot of leaves on the ground.
 Milo opened his bag and took out the black box. He opened it. Bea looked at the glasses.
 "Glasses," she said. "You made glasses. Milo, you can buy glasses in a shop. My grandma has four pairs."
@@ -186,7 +186,7 @@ He looked at Bea's face. One and a half seconds.
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_5-1793430536303.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_5-1793451458146.mp3
 > NAME: Beatrice Lindqvist
 > AGE: 13
 > SCHOOL: Westbridge Academy
@@ -200,7 +200,7 @@ Milo read it out loud. Bea's eyes became very big.
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_6-1793430545053.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_6-1793451468003.mp3
 The bell rang. It was time for the first lesson. Milo put the glasses back in the box.
 "Wait," Bea said. "Are you going to wear them in class?"
 Milo smiled. "Of course."
@@ -209,7 +209,7 @@ Milo sat at the back of the room. He put on the glasses. Bea sat next to him. Sh
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_7-1793430555313.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_7-1793451482484.mp3
 Mr Pratt came in. He put his bag on the desk. He turned to the class.
 > NAME: Graham Pratt
 > AGE: 52
@@ -226,14 +226,14 @@ Milo nearly fell off his chair.
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_8-1793430566635.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_8-1793451495700.mp3
 The rest of the morning was the same. In English, Milo looked at Mrs Achebe, the English teacher. She earned £39,000 a year and she wrote poems online about her garden. In science, he looked at Mr Fulton. Mr Fulton was very young. He earned £31,000 a year and his last post online was a photo of him at a music festival with green hair. In history, Milo looked at Miss Clay. She had a second job. On Saturdays, she worked in a bakery.
 Milo wrote everything in a small notebook. Name. Salary. Secrets. He felt like a spy. He felt powerful.
 At lunchtime, Milo and Bea sat on their usual bench in the corner of the dining hall. Milo had a cheese sandwich. Bea had a big box of rice and vegetables. Milo wore the glasses. He looked around the room. Hundreds of students. Hundreds of faces.
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_9-1793430576155.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_9-1793451508010.mp3
 The glasses worked very well with adults. With students, there was less information. Most students did not have a job or a salary. But many of them had social media. The glasses found their posts, their photos, their friends.
 Milo looked at a tall girl near the window. Her name was Holly Brandt. She was very popular. Everybody wanted to sit with her. The glasses showed her last post online. It was a photo of her and the words, "Best day ever! Love my life!" But the time of the post was two in the morning. And in a different post, an older one, she wrote, "Why does nobody really talk to me?"
 Milo frowned. He did not understand that. Holly had many friends. Why did she write that?
@@ -241,7 +241,7 @@ He did not think about it more. He looked at another table.
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_10-1793430586568.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_10-1793451522830.mp3
 At this table sat Connor Webb and his friends. Connor was fourteen. He was big and loud. He often laughed at Milo in the corridors. He called Milo "Robot Boy". He took Milo's books and threw them on the floor. Last year, he put Milo's bag in a bin.
 Milo looked at Connor's face. The glasses worked.
 > NAME: Connor Webb
@@ -254,7 +254,7 @@ Milo looked at the family line for a long time. Father, no job since March. Moth
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_11-1793430597456.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_11-1793451535677.mp3
 "What do you see?" Bea asked. "Is it Connor? Tell me something bad about him. Tell me he sleeps with a teddy bear."
 "His dad doesn't have a job," Milo said.
 Bea stopped smiling. "Oh," she said. "That's not funny."
@@ -268,7 +268,7 @@ The words came out fast. He did not think. He just said them.
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_12-1793430606585.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_12-1793451546062.mp3
 Connor's face changed. First it was red. Then it was white. His friends stopped laughing. They looked at Connor. They looked at Milo. Nobody said anything.
 "What did you say?" Connor asked. His voice was very quiet now.
 Milo did not answer. His heart was beating very fast.
@@ -279,7 +279,7 @@ Bea held Milo's arm. "Milo," she said. "How did you... That was... Why did you s
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_13-1793430616962.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_13-1793451557794.mp3
 Milo took a bite of his sandwich. It did not taste good now. Part of him felt great. For the first time, Connor walked away from him. For the first time, Connor was the person with the red face. Milo won. With the glasses, he won.
 But another part of him felt bad. A small part. He remembered Connor's face when it went white. It was not an angry face. It was a hurt face.
 Milo pushed that feeling away. He was good at that. He pushed feelings into a box in his head and closed the box. Like the glasses in the black box.
@@ -287,7 +287,7 @@ The afternoon was boring. Two lessons of geography and one lesson of French. Mil
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_14-1793430627290.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_14-1793451571106.mp3
 After school, Bea walked with him to the corner of his street. She was quieter than usual.
 "Milo," she said. "Can I say something?"
 "You always say something."
@@ -301,7 +301,7 @@ Milo thought about it. He did not have an answer. He made the glasses because he
 
 ---
 
-@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_15-1793430637919.mp3
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_15-1793451584195.mp3
 Bea looked at him. She did not look convinced. "OK," she said. "See you tomorrow, genius."
 She walked away in her yellow coat.
 Milo walked home. The house was empty. His mum was still at work. He went to the garage and sat at his long table. He took off the glasses and looked at them.
