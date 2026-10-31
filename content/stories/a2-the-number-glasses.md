@@ -142,3 +142,168 @@ On Sunday night, he checked the battery. He checked the camera. He checked the p
 He went to bed early. He set his alarm for 6:30. He closed his eyes.
 Tomorrow, everything starts, he thought.
 He was right. Everything started. But it was not the start he imagined.
+
+# The First Test
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_1-1793430494560.mp3
+On Monday morning, Milo woke up before his alarm. It was 6:15. Outside, the sky was still dark and grey. He jumped out of bed, put on his school uniform and ran down the stairs.
+His mum was in the kitchen. She was already in her blue uniform. She had a cup of coffee in one hand and her phone in the other hand. She looked at the phone and she did not look happy.
+"Good morning," Milo said.
+"Morning, love," she said. She put the phone down quickly, with the screen on the table. "You're early. That's new."
+"I have a big day," Milo said.
+"A big day? At school? You?" She smiled. "OK. Eat some toast. I need to go. I start at seven today."
+She kissed the top of his head, took her bag and left. The door closed. The house was quiet.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_2-1793430507211.mp3
+Milo ate two pieces of toast. Then he opened his school bag and checked the little black box. The glasses were inside. He did not put them on. Not yet. He wanted to wait until he was at school.
+Milo's school was called Westbridge Academy. It was a big school with more than a thousand students. It had three grey buildings, a car park, a football field and a small garden that nobody used. Milo walked there every day. It took twenty minutes.
+At the school gate, he saw Bea.
+Bea Lindqvist was thirteen, the same as Milo. She had short red hair, big round earrings and a yellow coat. Everybody else wore black or grey coats. Bea always wore yellow. Her dad was from Sweden and her mum was from Leicester. Bea talked a lot. She talked fast. She asked questions all the time. Some people found her strange. Milo found her strange too, but in a good way.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_3-1793430516364.mp3
+Bea was Milo's only friend. They met in the first year at Westbridge. The other children laughed at Milo because he ate his lunch alone and read books about computers. One day, Bea sat next to him and said, "What are you reading? Is it good? Can I see? Why do you like computers? Do you like cats?" Milo did not answer all the questions. But after that day, she sat with him every lunchtime.
+"Milo!" she shouted now. "You look happy. You never look happy on Mondays. What happened? Did you win something? Did you build something? You built something. I know it. Tell me."
+Milo looked around. There were many students near the gate. "Not here," he said. "Come with me."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_4-1793430526885.mp3
+They walked to the small garden behind the science building. Nobody went there. There was an old bench, some bushes and a lot of leaves on the ground.
+Milo opened his bag and took out the black box. He opened it. Bea looked at the glasses.
+"Glasses," she said. "You made glasses. Milo, you can buy glasses in a shop. My grandma has four pairs."
+"Not glasses like these," Milo said.
+He explained everything. The camera. The small computer. The face recognition. The internet search. The screen with the blue letters. Bea listened. For once, she did not ask any questions. Her mouth was open.
+"Show me," she said at last.
+Milo put the glasses on. He pressed the button.
+> TRUELENS
+> SEE EVERYTHING.
+He looked at Bea's face. One and a half seconds.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_5-1793430536303.mp3
+> NAME: Beatrice Lindqvist
+> AGE: 13
+> SCHOOL: Westbridge Academy
+> FAMILY: father Anders Lindqvist (engineer), mother Claire Lindqvist (hairdresser)
+> LIKES: cats, the colour yellow, mystery books
+> LAST POST ONLINE: "Who wants to adopt a kitten? Very cute. Very orange."
+Milo read it out loud. Bea's eyes became very big.
+"Beatrice?" she said. "Nobody calls me Beatrice. Only my grandma. And the kitten post! I wrote that last night! That's... that's crazy. That's amazing. That's a little bit scary."
+"It's not scary," Milo said. "It's science."
+"Science can be scary," Bea said. "Ask Frankenstein."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_6-1793430545053.mp3
+The bell rang. It was time for the first lesson. Milo put the glasses back in the box.
+"Wait," Bea said. "Are you going to wear them in class?"
+Milo smiled. "Of course."
+The first lesson was maths with Mr Pratt. Mr Pratt was a short man with a big moustache and a brown jacket. He was always in a hurry. He spoke very fast and he wrote very fast on the board. Milo liked maths, but he did not like Mr Pratt very much. Mr Pratt often said, "Hartley, stop looking out of the window!"
+Milo sat at the back of the room. He put on the glasses. Bea sat next to him. She watched him with a big smile.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_7-1793430555313.mp3
+Mr Pratt came in. He put his bag on the desk. He turned to the class.
+> NAME: Graham Pratt
+> AGE: 52
+> JOB: Maths teacher, Westbridge Academy
+> SALARY: about £44,000 per year
+> FAMILY: divorced, two children
+> LIKES: trains, model trains, train photography
+> LAST POST ONLINE: a photo of a small red model train. "My new baby!"
+Milo put his hand on his mouth. He tried not to laugh. He wrote on a piece of paper and passed it to Bea. "Mr Pratt loves model trains. He calls a train his baby."
+Bea read it. She laughed so loudly that the whole class turned.
+"Lindqvist!" Mr Pratt said. "Is something funny?"
+"No, sir," Bea said. "Sorry, sir. I was thinking about... a train."
+Milo nearly fell off his chair.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_8-1793430566635.mp3
+The rest of the morning was the same. In English, Milo looked at Mrs Achebe, the English teacher. She earned £39,000 a year and she wrote poems online about her garden. In science, he looked at Mr Fulton. Mr Fulton was very young. He earned £31,000 a year and his last post online was a photo of him at a music festival with green hair. In history, Milo looked at Miss Clay. She had a second job. On Saturdays, she worked in a bakery.
+Milo wrote everything in a small notebook. Name. Salary. Secrets. He felt like a spy. He felt powerful.
+At lunchtime, Milo and Bea sat on their usual bench in the corner of the dining hall. Milo had a cheese sandwich. Bea had a big box of rice and vegetables. Milo wore the glasses. He looked around the room. Hundreds of students. Hundreds of faces.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_9-1793430576155.mp3
+The glasses worked very well with adults. With students, there was less information. Most students did not have a job or a salary. But many of them had social media. The glasses found their posts, their photos, their friends.
+Milo looked at a tall girl near the window. Her name was Holly Brandt. She was very popular. Everybody wanted to sit with her. The glasses showed her last post online. It was a photo of her and the words, "Best day ever! Love my life!" But the time of the post was two in the morning. And in a different post, an older one, she wrote, "Why does nobody really talk to me?"
+Milo frowned. He did not understand that. Holly had many friends. Why did she write that?
+He did not think about it more. He looked at another table.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_10-1793430586568.mp3
+At this table sat Connor Webb and his friends. Connor was fourteen. He was big and loud. He often laughed at Milo in the corridors. He called Milo "Robot Boy". He took Milo's books and threw them on the floor. Last year, he put Milo's bag in a bin.
+Milo looked at Connor's face. The glasses worked.
+> NAME: Connor Webb
+> AGE: 14
+> SCHOOL: Westbridge Academy
+> FAMILY: father Gary Webb (no job since March), mother not found
+> LIKES: football, video games
+> LAST POST ONLINE: "Nobody can stop me. Number 1."
+Milo looked at the family line for a long time. Father, no job since March. Mother, not found. He did not know what "not found" meant. Did his mother leave? Did she die? The glasses did not say.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_11-1793430597456.mp3
+"What do you see?" Bea asked. "Is it Connor? Tell me something bad about him. Tell me he sleeps with a teddy bear."
+"His dad doesn't have a job," Milo said.
+Bea stopped smiling. "Oh," she said. "That's not funny."
+"No," Milo said. "It's not."
+For a moment, they were quiet. Then Connor saw them. He stood up and walked to their table. His friends followed him.
+"Hey, Robot Boy," Connor said. "Nice glasses. Are they from your granny?"
+His friends laughed.
+Milo looked up at Connor. He felt angry. He felt the old anger, the anger from all the times Connor laughed at him. And now he had information. Now he had numbers.
+"At least my dad has a job," Milo said.
+The words came out fast. He did not think. He just said them.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_12-1793430606585.mp3
+Connor's face changed. First it was red. Then it was white. His friends stopped laughing. They looked at Connor. They looked at Milo. Nobody said anything.
+"What did you say?" Connor asked. His voice was very quiet now.
+Milo did not answer. His heart was beating very fast.
+Connor looked at him for a long time. Then he turned and walked away. He did not say anything more. His friends followed him. One of them looked back at Milo with a strange face.
+Bea held Milo's arm. "Milo," she said. "How did you... That was... Why did you say that?"
+"He started it," Milo said. "He always starts it."
+"Yes, but..." Bea did not finish.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_13-1793430616962.mp3
+Milo took a bite of his sandwich. It did not taste good now. Part of him felt great. For the first time, Connor walked away from him. For the first time, Connor was the person with the red face. Milo won. With the glasses, he won.
+But another part of him felt bad. A small part. He remembered Connor's face when it went white. It was not an angry face. It was a hurt face.
+Milo pushed that feeling away. He was good at that. He pushed feelings into a box in his head and closed the box. Like the glasses in the black box.
+The afternoon was boring. Two lessons of geography and one lesson of French. Milo wore the glasses all the time. But now he did not tell Bea everything. He just looked and read and wrote in his notebook.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_14-1793430627290.mp3
+After school, Bea walked with him to the corner of his street. She was quieter than usual.
+"Milo," she said. "Can I say something?"
+"You always say something."
+"The glasses are amazing. Really. You're a genius. But..." She stopped walking. "What are they for?"
+"What do you mean?"
+"What are they for? Why did you make them? A machine is for something. A car is for driving. A phone is for calling. What are the glasses for?"
+Milo thought about it. He did not have an answer. He made the glasses because he could. Because it was difficult and interesting. Because nobody else had them.
+"They're for seeing," he said. "Seeing everything."
+"Seeing people's salaries? Seeing their secrets?" Bea asked. "Is that useful?"
+"It's information," Milo said. "Information is always useful."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_2.page_15-1793430637919.mp3
+Bea looked at him. She did not look convinced. "OK," she said. "See you tomorrow, genius."
+She walked away in her yellow coat.
+Milo walked home. The house was empty. His mum was still at work. He went to the garage and sat at his long table. He took off the glasses and looked at them.
+He opened his notebook. Page after page of names and numbers. Mr Pratt, £44,000. Mrs Achebe, £39,000. Mr Fulton, £31,000. Miss Clay, a second job in a bakery. Holly Brandt, a post at two in the morning. Connor Webb, a father with no job.
+It was a strange list. It looked like a list of people. But really, it was a list of numbers.
+Milo did not see that yet. He only saw a list of secrets. And he wanted more.

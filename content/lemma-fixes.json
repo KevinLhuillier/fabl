@@ -1509,6 +1509,13 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "Father",
+      "pos": "PROPN",
+      "next": ",",
+      "word": "father",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "fear",
       "pos": "VERB",
       "next": ".",
@@ -1520,6 +1527,13 @@
       "pos": "VERB",
       "word": "featured",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "feeling",
+      "pos": "VERB",
+      "prev": "that",
+      "word": "feeling",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Felt",
@@ -1833,6 +1847,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Glasses",
+      "pos": "NOUN",
+      "word": "glasses",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "glassy",
       "pos": "NOUN",
       "word": "glassy",
@@ -2032,6 +2052,12 @@
       "pos": "PROPN",
       "next": "cut",
       "word": "hair",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "hairdresser",
+      "pos": "PROPN",
+      "word": "hairdresser",
       "lemmaPos": "NOUN"
     },
     {
@@ -2542,6 +2568,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "kitten",
+      "pos": "ADJ",
+      "word": "kitten",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "kneeling",
       "pos": "NOUN",
       "word": "kneel",
@@ -2763,6 +2795,12 @@
       "lemmaPos": "ADP"
     },
     {
+      "text": "LIKES",
+      "pos": "PROPN",
+      "word": "likes",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Lily",
       "pos": "ADV",
       "word": "Lily",
@@ -2982,6 +3020,18 @@
     {
       "text": "MILO",
       "pos": "PROPN",
+      "word": "Milo",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Milo",
+      "pos": "ADV",
+      "word": "Milo",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Milo",
+      "pos": "INTJ",
       "word": "Milo",
       "lemmaPos": "PROPN"
     },
@@ -4170,6 +4220,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Salary",
+      "pos": "PROPN",
+      "word": "salary",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "satchel",
       "pos": "PROPN",
       "word": "satchel",
@@ -4967,6 +5023,12 @@
       "pos": "NOUN",
       "word": "tear",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "teddy",
+      "pos": "PROPN",
+      "word": "teddy",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "TEENAGER",

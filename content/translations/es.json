@@ -114,6 +114,12 @@
       "example": "There are only a handful of original grimoires left in Europe, Noé."
     },
     {
+      "word": "a little bit",
+      "pos": "PHRASE",
+      "translation": "un poquito, un poco",
+      "example": "That's a little bit scary."
+    },
+    {
       "word": "a lot",
       "pos": "PHRASE",
       "translation": "mucho",
@@ -378,6 +384,12 @@
       "example": "Edwin's boots were soaked, his back ached from carrying their equipment, and his hands were covered in blisters."
     },
     {
+      "word": "Achebe",
+      "pos": "PROPN",
+      "translation": "Achebe (apellido nigeriano)",
+      "example": "The rest of the morning was the same. In English, Milo looked at Mrs Achebe, the English teacher."
+    },
+    {
       "word": "achieve",
       "pos": "VERB",
       "translation": "lograr, conseguir",
@@ -508,6 +520,12 @@
       "pos": "VERB",
       "translation": "admitir, reconocer ; dejar entrar",
       "example": "How did you admit you had been watching?"
+    },
+    {
+      "word": "adopt",
+      "pos": "VERB",
+      "translation": "adoptar",
+      "example": "LAST POST ONLINE: \"Who wants to adopt a kitten? Very cute. Very orange.\""
     },
     {
       "word": "adore",
@@ -862,6 +880,12 @@
       "example": "But it hurt him all the same, more than he wanted to show."
     },
     {
+      "word": "all the time",
+      "pos": "PHRASE",
+      "translation": "todo el tiempo, constantemente",
+      "example": "She asked questions all the time."
+    },
+    {
       "word": "all the way",
       "pos": "PHRASE",
       "translation": "hasta el final, todo el camino",
@@ -1100,6 +1124,12 @@
       "pos": "CCONJ",
       "translation": "y",
       "example": "Leo is black and white. — Leo es blanco y negro."
+    },
+    {
+      "word": "Anders",
+      "pos": "PROPN",
+      "translation": "Anders (nombre sueco)",
+      "example": "FAMILY: father Anders Lindqvist (engineer), mother Claire Lindqvist (hairdresser)"
     },
     {
       "word": "angel",
@@ -1939,6 +1969,12 @@
       "example": "He couldn't have said afterwards how he got out of the meadow, only that at some point Tamsin was beside him, gripping his arm, saying things that were meant to be kind — it doesn't matter, it doesn't change anything, Edric's a pig and everyone knows it — and that at some point he had asked her, as gently as he could manage, to leave him alone."
     },
     {
+      "word": "at the back of",
+      "pos": "PHRASE",
+      "translation": "al fondo de, en la parte de atrás de",
+      "example": "Milo sat at the back of the room."
+    },
+    {
       "word": "at the back of her mind",
       "pos": "PHRASE",
       "translation": "en el fondo de su mente, en un rincón de su cabeza",
@@ -2719,6 +2755,12 @@
       "example": "\"Earth students are used to things that don't move.\""
     },
     {
+      "word": "Bea",
+      "pos": "PROPN",
+      "translation": "Bea (nombre, diminutivo de Beatrice)",
+      "example": "At the school gate, he saw Bea."
+    },
+    {
       "word": "beach",
       "pos": "NOUN",
       "translation": "la playa",
@@ -2807,6 +2849,12 @@
       "pos": "PROPN",
       "translation": "Beaton (apellido)",
       "example": "Their names, he learned over the next ten minutes, were Alasdair and Isla Beaton, and they had been driving home to Newtonmore from a granddaughter's christening in Stirling when the snow had overtaken them."
+    },
+    {
+      "word": "Beatrice",
+      "pos": "PROPN",
+      "translation": "Beatrice (nombre)",
+      "example": "\"Beatrice?\" she said. \"Nobody calls me Beatrice. Only my grandma.\""
     },
     {
       "word": "beautiful",
@@ -4008,6 +4056,12 @@
       "example": "She asks a boy. — Le pregunta a un chico."
     },
     {
+      "word": "Boy",
+      "pos": "PROPN",
+      "translation": "Boy («Robot Boy»: apodo burlón, «el chico robot»; «boy»: el chico)",
+      "example": "\"Hey, Robot Boy,\" Connor said."
+    },
+    {
       "word": "boyfriend",
       "pos": "NOUN",
       "translation": "el novio",
@@ -4114,6 +4168,12 @@
       "pos": "ADJ",
       "translation": "flamante, completamente nuevo",
       "example": "Seven years earlier she had been a nervous twenty-year-old with a brand-new licence and a habit of apologising to the gearbox; he had been assigned to sit beside her for her first month on the road, and had done so with a forbearance she still described, to anyone who would listen, as saintly."
+    },
+    {
+      "word": "Brandt",
+      "pos": "PROPN",
+      "translation": "Brandt (apellido)",
+      "example": "Her name was Holly Brandt."
     },
     {
       "word": "Brannock",
@@ -4732,6 +4792,12 @@
       "pos": "PHRASE",
       "translation": "la parada de autobús",
       "example": "He wore a different coat, he stopped using the grey hoodie, he took the long way to the bus stop so that he did not have to walk past the blackened flats."
+    },
+    {
+      "word": "bush",
+      "pos": "NOUN",
+      "translation": "el arbusto",
+      "example": "There was an old bench, some bushes and a lot of leaves on the ground."
     },
     {
       "word": "business",
@@ -6366,6 +6432,12 @@
       "example": "In the old days, the songs claimed, the trees of the Hollow Wilds had grown so tall that their crowns brushed the clouds, and the people who lived beneath them could ask a root to part or a branch to bend, and be answered."
     },
     {
+      "word": "Claire",
+      "pos": "PROPN",
+      "translation": "Claire (nombre)",
+      "example": "FAMILY: father Anders Lindqvist (engineer), mother Claire Lindqvist (hairdresser)"
+    },
+    {
       "word": "clamp",
       "pos": "VERB",
       "translation": "apretar, sujetar con fuerza",
@@ -6424,6 +6496,12 @@
       "pos": "NOUN",
       "translation": "la arcilla, el barro",
       "example": "\"Over there, in the clay pot."
+    },
+    {
+      "word": "Clay",
+      "pos": "PROPN",
+      "translation": "Clay (apellido)",
+      "example": "In history, Milo looked at Miss Clay."
     },
     {
       "word": "clean",
@@ -7410,6 +7488,12 @@
       "example": "She led Max down a long white corridor into a room full of strange machines: treadmills with wires hanging over them, a bicycle connected to a computer, a wall covered in coloured lights, and a metal plate in the floor that measured how hard you jumped."
     },
     {
+      "word": "Connor",
+      "pos": "PROPN",
+      "translation": "Connor (nombre)",
+      "example": "At this table sat Connor Webb and his friends."
+    },
+    {
       "word": "conscience",
       "pos": "NOUN",
       "translation": "la conciencia",
@@ -7570,6 +7654,12 @@
       "pos": "NOUN",
       "translation": "la conversación",
       "example": "He had imagined this conversation a hundred times, in the dark in the cabin loft, in the swaying wagon, in his narrow bed at Hearthside."
+    },
+    {
+      "word": "convinced",
+      "pos": "ADJ",
+      "translation": "convencido, convencida",
+      "example": "Bea looked at him. She did not look convinced."
     },
     {
       "word": "convoy",
@@ -9720,6 +9810,12 @@
       "example": "He had shared his cab before, with trainees and with the occasional stranded colleague, but never with anyone quite like the Beatons, who seemed to regard their predicament as a mildly diverting episode rather than a brush with death."
     },
     {
+      "word": "divorce",
+      "pos": "VERB",
+      "translation": "divorciarse («divorced»: divorciado)",
+      "example": "FAMILY: divorced, two children"
+    },
+    {
       "word": "dizzy",
       "pos": "ADJ",
       "translation": "mareado",
@@ -11806,6 +11902,12 @@
       "example": "Then she put the flyer back on the fridge, with the drawing facing out."
     },
     {
+      "word": "face recognition",
+      "pos": "PHRASE",
+      "translation": "el reconocimiento facial",
+      "example": "The face recognition. The internet search."
+    },
+    {
       "word": "faced",
       "pos": "ADJ",
       "translation": "de cara… («white-faced»: pálido)",
@@ -12296,6 +12398,12 @@
       "pos": "PROPN",
       "translation": "Ferry («Pull's Ferry»: antigua puerta fluvial sobre el Wensum, en Norwich; «ferry»: el transbordador)",
       "example": "They followed the path past the old water gate at Pull's Ferry, where the cathedral rose behind the trees like a ship."
+    },
+    {
+      "word": "festival",
+      "pos": "NOUN",
+      "translation": "el festival",
+      "example": "He earned £31,000 a year and his last post online was a photo of him at a music festival with green hair."
     },
     {
       "word": "fetch",
@@ -13750,6 +13858,12 @@
       "example": "Frank Doyle's gym was in a railway arch under the line to Harrogate, and every few minutes the whole place shook as a train passed overhead."
     },
     {
+      "word": "Frankenstein",
+      "pos": "PROPN",
+      "translation": "Frankenstein (el científico de la novela de Mary Shelley, que crea un monstruo)",
+      "example": "\"Science can be scary,\" Bea said. \"Ask Frankenstein.\""
+    },
+    {
       "word": "frankly",
       "pos": "ADV",
       "translation": "francamente",
@@ -14090,6 +14204,12 @@
       "pos": "ADV",
       "translation": "plenamente, del todo",
       "example": "He did not fully understand why — only that some secrets, once spoken, could never be put back where they had been, and that he was not ready to find out what this one would break."
+    },
+    {
+      "word": "Fulton",
+      "pos": "PROPN",
+      "translation": "Fulton (apellido)",
+      "example": "In science, he looked at Mr Fulton."
     },
     {
       "word": "fumble",
@@ -14516,6 +14636,12 @@
       "pos": "ADV",
       "translation": "realmente, sinceramente",
       "example": "For a moment Rowan genuinely thought his uncle would shut the door in her face."
+    },
+    {
+      "word": "geography",
+      "pos": "NOUN",
+      "translation": "la geografía",
+      "example": "Two lessons of geography and one lesson of French."
     },
     {
       "word": "Gérald",
@@ -15339,6 +15465,12 @@
       "example": "My grandfather built this house."
     },
     {
+      "word": "grandma",
+      "pos": "NOUN",
+      "translation": "la abuela, la abuelita",
+      "example": "My grandma has four pairs."
+    },
+    {
       "word": "Grandma",
       "pos": "PROPN",
       "translation": "Abuela, Abuelita",
@@ -15355,6 +15487,12 @@
       "pos": "NOUN",
       "translation": "el nieto",
       "example": "And now his grandson had written to the red box, and the letter had come to her."
+    },
+    {
+      "word": "granny",
+      "pos": "NOUN",
+      "translation": "la abuelita",
+      "example": "\"Nice glasses. Are they from your granny?\""
     },
     {
       "word": "Grant",
@@ -15828,6 +15966,12 @@
       "pos": "NOUN",
       "translation": "el corte de pelo",
       "example": "\"I love your new haircut.\""
+    },
+    {
+      "word": "hairdresser",
+      "pos": "NOUN",
+      "translation": "el peluquero, la peluquera",
+      "example": "FAMILY: father Anders Lindqvist (engineer), mother Claire Lindqvist (hairdresser)"
     },
     {
       "word": "haired",
@@ -17142,6 +17286,12 @@
       "pos": "PROPN",
       "translation": "Hollow («hueco», en «Hollow Wilds»)",
       "example": "Other woodcutters in the Hollow Wilds were less particular."
+    },
+    {
+      "word": "Holly",
+      "pos": "PROPN",
+      "translation": "Holly (nombre)",
+      "example": "Her name was Holly Brandt."
     },
     {
       "word": "Hollybush",
@@ -19642,6 +19792,12 @@
       "example": "A high-sided trailer carrying six tonnes of empty casks offered the wind an enormous surface and almost nothing with which to resist it; laden with steel, the Duchess would have shrugged off these gusts, but today she was little more than a box kite on wheels."
     },
     {
+      "word": "kitten",
+      "pos": "NOUN",
+      "translation": "el gatito",
+      "example": "\"And the kitten post! I wrote that last night!\""
+    },
+    {
       "word": "knee",
       "pos": "NOUN",
       "translation": "la rodilla",
@@ -20882,6 +21038,12 @@
       "pos": "VERB",
       "translation": "cojear",
       "example": "Sir Godfrey limped inside, leaning on a stick, and knelt painfully beside him."
+    },
+    {
+      "word": "Lindqvist",
+      "pos": "PROPN",
+      "translation": "Lindqvist (apellido sueco)",
+      "example": "Bea Lindqvist was thirteen, the same as Milo."
     },
     {
       "word": "line",
@@ -22764,6 +22926,12 @@
       "pos": "NOUN",
       "translation": "el modelo",
       "example": "\"Because this week, with a new contract, you get the latest model for only thirty pounds a month.\""
+    },
+    {
+      "word": "model train",
+      "pos": "PHRASE",
+      "translation": "el tren en miniatura, el tren eléctrico",
+      "example": "LIKES: trains, model trains, train photography"
     },
     {
       "word": "modern",
@@ -26233,6 +26401,12 @@
       "example": "The photographer walked backwards in front of them, taking pictures."
     },
     {
+      "word": "photography",
+      "pos": "NOUN",
+      "translation": "la fotografía",
+      "example": "LIKES: trains, model trains, train photography"
+    },
+    {
       "word": "phrase",
       "pos": "NOUN",
       "translation": "la expresión, la frase",
@@ -27181,6 +27355,12 @@
       "example": "\"Power cut,\" said Ruth, who had come to help, holding a candle."
     },
     {
+      "word": "powerful",
+      "pos": "ADJ",
+      "translation": "poderoso, poderosa",
+      "example": "He felt like a spy. He felt powerful."
+    },
+    {
       "word": "practical",
       "pos": "ADJ",
       "translation": "práctico",
@@ -27215,6 +27395,12 @@
       "pos": "VERB",
       "translation": "elogiar, alabar",
       "example": "A reporter in a yellow jacket was standing in Ashley Road, in front of the blackened windows of the flats, saying that the fire brigade had praised the \"incredibly calm and professional\" actions of the unknown man and were asking him to come forward."
+    },
+    {
+      "word": "Pratt",
+      "pos": "PROPN",
+      "translation": "Pratt (apellido)",
+      "example": "The first lesson was maths with Mr Pratt."
     },
     {
       "word": "pray",
@@ -29448,6 +29634,12 @@
       "example": "He simply sat and looked at the shoot for a long time, sucking on his cold pipe, while Rowan's heart hammered against his ribs."
     },
     {
+      "word": "rice",
+      "pos": "NOUN",
+      "translation": "el arroz",
+      "example": "Bea had a big box of rice and vegetables."
+    },
+    {
       "word": "rich",
       "pos": "ADJ",
       "translation": "rico",
@@ -29710,6 +29902,12 @@
       "pos": "NOUN",
       "translation": "el petirrojo",
       "example": "Inside, there was a single card with a small robin printed in one corner."
+    },
+    {
+      "word": "Robot",
+      "pos": "PROPN",
+      "translation": "Robot («Robot Boy»: apodo burlón, «el chico robot»; «robot»: el robot)",
+      "example": "\"Hey, Robot Boy,\" Connor said."
     },
     {
       "word": "rock",
@@ -31054,6 +31252,12 @@
       "pos": "PHRASE",
       "translation": "encargarse de (que), asegurarse de (que)",
       "example": "Master Hale will see to it personally that these rules are kept.\""
+    },
+    {
+      "word": "see you tomorrow",
+      "pos": "PHRASE",
+      "translation": "hasta mañana",
+      "example": "\"OK,\" she said. \"See you tomorrow, genius.\""
     },
     {
       "word": "seed",
@@ -35484,6 +35688,12 @@
       "example": "His palm was sweaty."
     },
     {
+      "word": "Sweden",
+      "pos": "PROPN",
+      "translation": "Suecia",
+      "example": "Her dad was from Sweden and her mum was from Leicester."
+    },
+    {
       "word": "sweep",
       "pos": "VERB",
       "translation": "barrer («sweep away»: alejarse con aire altivo)",
@@ -35698,6 +35908,12 @@
       "pos": "VERB",
       "translation": "tomar, coger",
       "example": "He takes Leo. — Coge a Leo."
+    },
+    {
+      "word": "take a bite",
+      "pos": "PHRASE",
+      "translation": "dar un mordisco, dar un bocado",
+      "example": "Milo took a bite of his sandwich."
     },
     {
       "word": "take a breath",
@@ -36051,6 +36267,18 @@
       "pos": "NOUN",
       "translation": "la técnica",
       "example": "\"It copies technique and instinct."
+    },
+    {
+      "word": "teddy",
+      "pos": "NOUN",
+      "translation": "el osito («teddy bear»: el osito de peluche)",
+      "example": "\"Tell me he sleeps with a teddy bear.\""
+    },
+    {
+      "word": "teddy bear",
+      "pos": "PHRASE",
+      "translation": "el osito de peluche",
+      "example": "\"Tell me he sleeps with a teddy bear.\""
     },
     {
       "word": "teenage",
@@ -39856,6 +40084,12 @@
       "example": "Four colossal trees grew from the corners of the hall, and their branches met and wove together overhead in a vault so dense that only the faintest glimmer of evening sky showed through."
     },
     {
+      "word": "Webb",
+      "pos": "PROPN",
+      "translation": "Webb (apellido)",
+      "example": "At this table sat Connor Webb and his friends."
+    },
+    {
       "word": "website",
       "pos": "NOUN",
       "translation": "el sitio web, la página web",
@@ -40030,6 +40264,12 @@
       "example": "That evening, sitting at the kitchen table with his laptop, Max filled in the online application for West Yorkshire Fire and Rescue."
     },
     {
+      "word": "Westbridge",
+      "pos": "PROPN",
+      "translation": "Westbridge («Westbridge Academy»: el colegio de Milo)",
+      "example": "Milo's school was called Westbridge Academy."
+    },
+    {
       "word": "western",
       "pos": "ADJ",
       "translation": "del oeste, occidental",
@@ -40094,6 +40334,12 @@
       "pos": "PRON",
       "translation": "lo que, qué",
       "example": "Edwin did not understand what he meant, but he felt a cold shiver run down his spine."
+    },
+    {
+      "word": "what do you mean",
+      "pos": "PHRASE",
+      "translation": "¿qué quieres decir?, ¿cómo que…?",
+      "example": "\"What do you mean?\""
     },
     {
       "word": "whatever",
