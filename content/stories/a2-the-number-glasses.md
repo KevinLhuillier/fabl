@@ -1060,3 +1060,140 @@ He pressed send. Then he turned off his phone.
 At home, the house phone rang. It was the school. His mum answered. Milo heard her voice in the hall. "Yes... I see... He did what?... Yes... Thank you for calling."
 She came into the kitchen. She looked at him. She did not shout. That was worse. She just looked at him with her tired eyes.
 "Garage," she said. "Now. You're going to show me everything."
+
+# Dalton Reese
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_1-1793480754445.mp3
+In the garage, Milo showed his mum everything.
+He showed her the long table with the wires and the old phones. He showed her the code on his laptop. Twenty thousand lines, now more than twenty-five thousand. He showed her the big paper on the wall with all his ideas. And then he took the glasses out of the black box and gave them to her.
+"Put them on," he said. "And look at me."
+"I don't want to put them on."
+"Please, Mum. You need to see."
+She put them on. She looked at him. She waited. Then she frowned.
+"It says 'no face found'," she said.
+"Oh. Yes. Sorry. It can't see me well. The light is bad." He took the lamp and turned it to his face. "Try now."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_2-1793480767933.mp3
+She looked again. Milo watched her eyes move as she read. His name. His age. His school. His likes. His last post online — a photo of a circuit board, from last summer. His score. Milo did not know his own score. He never looked.
+"Twenty-two," his mum said quietly. "It says you're twenty-two. What does that mean?"
+"It's a number from one to a hundred," Milo said. "How... important you are. Money, job, house, followers. Things like that."
+His mum took off the glasses. She looked at them in her hand. She looked at her son.
+"Twenty-two," she said. "My son. My clever, crazy, wonderful son. Twenty-two." She shook her head. "What's mine?"
+Milo looked down.
+"Milo. What's mine?"
+"Twenty-six."
+She laughed. A short, strange laugh. Not a happy laugh. "Well. At least I'm four points better than you."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_3-1793480776940.mp3
+Then she put the glasses on again. She took her phone and opened the camera. She turned the camera to her own face and looked at the screen through the glasses. Milo did not stop her. He knew what she was going to see.
+He watched her face. He saw the moment when she read the line about the debts. Her face went very still.
+"How long have you known?" she asked.
+"Three weeks."
+"Three weeks." She took off the glasses and put them on the table, very carefully, like they were made of glass. Which they were. "That's why you did all this. The Oracle. The money."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_4-1793480788916.mp3
+"I wanted to help," Milo said. His voice was breaking. "I wanted to fix it. You're always tired. You always add the shopping two times. You hide your phone. I saw a message. 'Final warning.' And I thought... I'm a genius, everybody says so, so I can fix it. I had a plan."
+His mum sat down on the chair with the bad leg. It moved a little under her. She did not notice.
+"Oh, Milo," she said. And then she started to cry.
+Milo had not seen his mum cry many times. Once when her mother died. Once when Mr Okafor's wife died. Never about money. Never about herself.
+He did not know what to do. So he did the only thing he could think of. He sat on the floor next to the chair and put his head on her knee. Like Ada the dog did with him.
+She put her hand on his hair.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_5-1793480802418.mp3
+"The debt is from your dad," she said, after a long time. "Most of it. He used my card for two years before he left. Clothes, holidays, a new car stereo. I didn't know until the letters came. Then I had a choice. Fight him in court, with lawyers I couldn't pay. Or pay it myself, slowly. I chose to pay it myself."
+"He's in Spain," Milo said. "He has a bar. He makes sixty thousand a year. He has a new wife. And a daughter."
+His mum's hand stopped on his hair. Then it started to move again.
+"I know," she said quietly. "I found out last year. I didn't tell you because... I didn't want you to feel that he chose them and not you."
+"He did choose them," Milo said.
+"Yes," his mum said. "He did. And that's his loss, not yours. Never yours. Do you understand?"
+Milo did not answer. But he held her knee a little tighter.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_6-1793480813829.mp3
+"I'm talking to a debt advisor," his mum said. "A free one, from a charity. She's very good. We have a plan. It's slow, but it's a plan. The court letter is not as scary as it looks. We'll be OK, Milo. Not rich. Not perfect. But OK."
+"I have £1,230," Milo said. "Under my mattress."
+"And you'll give it all back," his mum said. "Every pound. To every student. Tomorrow."
+"I know."
+"And the money from the car boot sale?"
+Milo thought about the young woman with the baby. Thirty pounds. The dentist. One hundred and twenty.
+"Can I keep that?" he asked. "That was my stuff. I repaired it. I just... changed the prices."
+His mum thought about it. "You can keep that," she said. "But next time, one price for everybody. OK?"
+"OK."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_7-1793480825859.mp3
+The next week was the hardest week of Milo's life. He gave back the money. Every student. Ten pounds here, twenty pounds there. Some students were angry. Some students laughed at him. Some students just took the money and said nothing. Nobody called him "Robot Boy" now. Now they called him "The Oracle" and laughed. It was worse.
+He tried to find Kai. Kai did not come to school on Monday or Tuesday. On Wednesday, he came. He sat alone in the library with his book about birds. Milo walked to his table. His legs were shaking again.
+"Kai," he said. "I'm Milo. I'm the one who... I'm sorry. I'm really, really sorry."
+Kai looked at him. He did not say anything for a long time. Then he said, "I read your message. On the group chat."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_8-1793480833054.mp3
+"It was true. Everything in it was true."
+"I know." Kai looked at his book. "My dad was a good man," he said. "He drove a bus. He knew the names of all the birds. He taught me."
+"I'm sorry," Milo said again. He did not know any other words.
+Kai nodded slowly. He did not say "It's OK." It was not OK. Milo understood that. But Kai did not tell him to go away either. That was something. That was a beginning.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_9-1793480842746.mp3
+On Thursday afternoon, something new happened.
+Milo came home from school. There was a big black car on the street outside his house. A very expensive car. Nobody on Hollybush Road had a car like that. A man got out of the car and walked to Milo.
+He was about forty years old. He wore a perfect grey suit, white trainers and very white teeth. His hair was short and perfect. His smile was big and perfect. Everything about him was perfect.
+"Milo Hartley?" he said. "Hi! Great to meet you. I'm Dalton Reese."
+He held out his hand. Milo did not take it.
+"I don't know you," Milo said.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_10-1793480851750.mp3
+"Not yet!" Dalton Reese laughed. "But I know you. Or I know your work. 'The Oracle'. Very clever name. One of the students at your school has a big brother who works in tech. He talked about it online. A thirteen-year-old with a face recognition system that's better than anything in London? I got very, very interested."
+Milo took the black box out of his bag without thinking. Then he put it back fast. Too late. Dalton Reese saw it. His eyes went to the box and stayed there for one second. Then they came back to Milo's face, and the smile was even bigger.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_11-1793480862562.mp3
+"I run a company called ClearView Labs," Dalton said. "We build the future. Smart cities. Smart shops. Smart security. And I think you, Milo, are the future. I'd like to buy your system."
+"It's not for sale," Milo said.
+"Everything is for sale. Let me tell you my offer, and then you decide." Dalton took a card out of his pocket. On the back, he wrote a number. He gave it to Milo.
+Milo looked at it. £50,000.
+"That's for now," Dalton said. "Just for the system. The code and the prototype. And when it goes into production, you get a percentage. Could be a million. Could be ten million. You'll never worry about money again. Your mum will never worry about money again."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_12-1793480873290.mp3
+Milo's heart was beating very fast. Fifty thousand pounds. His mum's debt was £8,400. Fifty thousand pounds could pay the debt six times. It could buy a car. It could stop the night shifts. It could make his mum's tired eyes not tired.
+"What will you do with it?" Milo asked.
+"Make the world safer," Dalton said. "Shops will know who's coming in. Banks will know who they're talking to. Police will find criminals faster. Everybody wins."
+"And the people who don't want to be found?"
+Dalton laughed again. "Why would anybody not want to be found? If you're a good person, you have nothing to hide. Right?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_13-1793480882627.mp3
+Behind Milo, a voice spoke. A deep, slow voice.
+"That is exactly what they told me. Thirty years ago."
+Milo turned around. Mr Okafor was standing at his garden gate with Ada. He was not smiling. His calm eyes were looking at Dalton Reese. They were not calm now.
+Dalton looked at him. For one second, the perfect smile was not perfect. "And you are?"
+"Nobody," Mr Okafor said. "A zero. Milo, come inside. Your mother asked me to make sure you eat something."
+His mum did not ask that. Milo knew it. But he understood.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_8.page_14-1793480891623.mp3
+Dalton Reese smiled again and gave Milo another card. A business card. Black, with silver letters. "Think about it, Milo. The offer is good until Sunday. After Sunday... well. The world moves fast. Someone else will build it. Better it's you."
+He got into his black car and drove away.
+Milo stood on the street with the card in his hand. Fifty thousand pounds.
+"Milo," Mr Okafor said. "Come. We need to talk."
+But Milo was not listening. He was looking at the number on the card. And for the first time, he was thinking about saying yes.

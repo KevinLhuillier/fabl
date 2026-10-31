@@ -859,6 +859,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Clothes",
+      "pos": "NOUN",
+      "word": "clothes",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "coast",
       "pos": "PROPN",
       "word": "coast",
@@ -2673,6 +2679,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Labs",
+      "pos": "PROPN",
+      "word": "lab",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "lad",
       "pos": "ADJ",
       "word": "lad",
@@ -3528,6 +3540,12 @@
     {
       "text": "Oracle",
       "pos": "INTJ",
+      "word": "oracle",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Oracle",
+      "pos": "PROPN",
       "word": "oracle",
       "lemmaPos": "NOUN"
     },

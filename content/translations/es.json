@@ -606,6 +606,12 @@
       "example": "\"Some say he will be the king's next adviser.\""
     },
     {
+      "word": "advisor",
+      "pos": "NOUN",
+      "translation": "el asesor, la asesora",
+      "example": "\"I'm talking to a debt advisor,\" his mum said. \"A free one, from a charity.\""
+    },
+    {
       "word": "affair",
       "pos": "NOUN",
       "translation": "el asunto («meddling in … affairs»: entrometerse en los asuntos de)",
@@ -4878,6 +4884,12 @@
       "example": "\"You asked what business I have on this hill,\" said Bram at last, slowly, in the voice he kept for things that mattered."
     },
     {
+      "word": "business card",
+      "pos": "PHRASE",
+      "translation": "la tarjeta de visita",
+      "example": "A business card. Black, with silver letters."
+    },
+    {
       "word": "businessman",
       "pos": "NOUN",
       "translation": "el hombre de negocios",
@@ -5332,6 +5344,12 @@
       "pos": "PHRASE",
       "translation": "el aparcamiento, el parking",
       "example": "When she saw her brother come jogging across the car park, she opened her mouth to shout at him, and then she closed it again."
+    },
+    {
+      "word": "car stereo",
+      "pos": "PHRASE",
+      "translation": "el equipo de música del coche, la radio del coche",
+      "example": "Clothes, holidays, a new car stereo."
     },
     {
       "word": "caravan",
@@ -6670,6 +6688,12 @@
       "pos": "NOUN",
       "translation": "la claridad, la nitidez",
       "example": "From her he felt what he almost always felt: a calm, cool clearness, like a glass of water."
+    },
+    {
+      "word": "ClearView",
+      "pos": "PROPN",
+      "translation": "ClearView («ClearView Labs»: la empresa de Dalton Reese; «clear view»: vista despejada)",
+      "example": "\"I run a company called ClearView Labs,\" Dalton said."
     },
     {
       "word": "Clémence",
@@ -8388,6 +8412,12 @@
       "example": "She would ask questions the way a detective in one of the library's crime novels would ask them: calmly, carefully, without saying why."
     },
     {
+      "word": "criminal",
+      "pos": "NOUN",
+      "translation": "el delincuente, el criminal",
+      "example": "\"Police will find criminals faster. Everybody wins.\""
+    },
+    {
       "word": "crisp",
       "pos": "NOUN",
       "translation": "la patata frita de bolsa («a bag of crisps»: una bolsa de patatas fritas)",
@@ -8874,6 +8904,12 @@
       "example": "She came from Kettlewell, a village in the Yorkshire Dales."
     },
     {
+      "word": "Dalton",
+      "pos": "PROPN",
+      "translation": "Dalton (nombre)",
+      "example": "\"Milo Hartley?\" he said. \"Hi! Great to meet you. I'm Dalton Reese.\""
+    },
+    {
       "word": "Dalwhinnie",
       "pos": "PROPN",
       "translation": "Dalwhinnie (pueblo de las Highlands)",
@@ -9112,6 +9148,12 @@
       "pos": "NOUN",
       "translation": "la deuda",
       "example": "\"So our nice, careful baker with flour on his sleeves has a gambling problem and a debt. That's a motive, Tom."
+    },
+    {
+      "word": "debt advisor",
+      "pos": "PHRASE",
+      "translation": "el asesor de deudas, la asesora de deudas",
+      "example": "\"I'm talking to a debt advisor,\" his mum said. \"A free one, from a charity.\""
     },
     {
       "word": "decade",
@@ -15309,6 +15351,12 @@
       "example": "\"Before we go any further, I want to say something."
     },
     {
+      "word": "go away",
+      "pos": "PHRASE",
+      "translation": "irse, marcharse; desaparecer («the feeling went away»: la sensación desapareció)",
+      "example": "But Kai did not tell him to go away either."
+    },
+    {
       "word": "go by",
       "pos": "PHRASE",
       "translation": "pasar (el tiempo)",
@@ -15823,6 +15871,12 @@
       "pos": "PROPN",
       "translation": "(«Great Hall»: el Gran Salón)",
       "example": "The Great Hall of Thornhall had no ceiling."
+    },
+    {
+      "word": "great to meet you",
+      "pos": "PHRASE",
+      "translation": "encantado de conocerte, un placer",
+      "example": "\"Milo Hartley?\" he said. \"Hi! Great to meet you. I'm Dalton Reese.\""
     },
     {
       "word": "greed",
@@ -16770,6 +16824,12 @@
       "pos": "PHRASE",
       "translation": "no tener ninguna intención de",
       "example": "The first morning of Leaf-Fall arrived wrapped in fog, as if the forest had pulled a blanket over its head and had no intention of getting up."
+    },
+    {
+      "word": "have nothing to hide",
+      "pos": "PHRASE",
+      "translation": "no tener nada que esconder",
+      "example": "\"If you're a good person, you have nothing to hide. Right?\""
     },
     {
       "word": "have on",
@@ -23084,6 +23144,12 @@
       "example": "The third blue door was on Mill Lane, the last street before the river."
     },
     {
+      "word": "million",
+      "pos": "NUM",
+      "translation": "el millón",
+      "example": "\"And when it goes into production, you get a percentage. Could be a million.\""
+    },
+    {
       "word": "Milo",
       "pos": "PROPN",
       "translation": "Milo (nombre)",
@@ -26599,6 +26665,12 @@
       "example": "\"He's going to take ten percent for the bakery.\""
     },
     {
+      "word": "percentage",
+      "pos": "NOUN",
+      "translation": "el porcentaje",
+      "example": "\"And when it goes into production, you get a percentage. Could be a million.\""
+    },
+    {
       "word": "perch",
       "pos": "VERB",
       "translation": "posarse («perched»: encaramado)",
@@ -28129,6 +28201,12 @@
       "example": "It allowed the Academy to admit, for a single probationary year, any child whose Marking had produced a result the examiners could not explain."
     },
     {
+      "word": "production",
+      "pos": "NOUN",
+      "translation": "la producción («go into production»: empezar a fabricarse)",
+      "example": "\"And when it goes into production, you get a percentage. Could be a million.\""
+    },
+    {
       "word": "professional",
       "pos": "ADJ",
       "translation": "profesional",
@@ -28283,6 +28361,12 @@
       "pos": "VERB",
       "translation": "protestar",
       "example": "He tried to protest, but then his own squire stepped forward and confessed that he had cut Godfrey's saddle strap on his master's orders."
+    },
+    {
+      "word": "prototype",
+      "pos": "NOUN",
+      "translation": "el prototipo",
+      "example": "\"Just for the system. The code and the prototype.\""
     },
     {
       "word": "proud",
@@ -29392,6 +29476,12 @@
       "pos": "PROPN",
       "translation": "Reed (apellido)",
       "example": "Tamsin Reed came through the crowd at a speed that cleared a path ahead of her."
+    },
+    {
+      "word": "Reese",
+      "pos": "PROPN",
+      "translation": "Reese (apellido)",
+      "example": "\"Milo Hartley?\" he said. \"Hi! Great to meet you. I'm Dalton Reese.\""
     },
     {
       "word": "referee",
@@ -31714,6 +31804,12 @@
       "pos": "PROPN",
       "translation": "SecureWest (nombre de una empresa de alarmas)",
       "example": "\"It's a company called SecureWest. The number's on the box by the back door.\""
+    },
+    {
+      "word": "security",
+      "pos": "NOUN",
+      "translation": "la seguridad",
+      "example": "\"We build the future. Smart cities. Smart shops. Smart security.\""
     },
     {
       "word": "see",
@@ -35130,6 +35226,12 @@
       "example": "Last summer he had needed a stepladder just to get a football back from the neighbours' garden."
     },
     {
+      "word": "stereo",
+      "pos": "NOUN",
+      "translation": "el equipo de música («car stereo»: la radio del coche)",
+      "example": "Clothes, holidays, a new car stereo."
+    },
+    {
       "word": "stew",
       "pos": "NOUN",
       "translation": "el guiso, el estofado",
@@ -36783,6 +36885,12 @@
       "pos": "NOUN",
       "translation": "la hora del té, la merienda",
       "example": "\"They'll shut it by teatime,\" she said."
+    },
+    {
+      "word": "tech",
+      "pos": "NOUN",
+      "translation": "la tecnología (sector), el mundo tech",
+      "example": "\"One of the students at your school has a big brother who works in tech.\""
     },
     {
       "word": "technician",
