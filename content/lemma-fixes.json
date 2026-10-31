@@ -2321,6 +2321,13 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "house",
+      "pos": "PROPN",
+      "next": "phone",
+      "word": "house",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "housing",
       "pos": "PROPN",
       "next": "association",
@@ -2786,6 +2793,12 @@
       "pos": "VERB",
       "word": "lethal",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Liar",
+      "pos": "PROPN",
+      "word": "liar",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Lifesaver",
@@ -3511,6 +3524,12 @@
       "next": "and",
       "word": "open",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Oracle",
+      "pos": "INTJ",
+      "word": "oracle",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "orange",

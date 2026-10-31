@@ -910,3 +910,153 @@ And under that, many, many messages. Laughing faces. Angry faces. "Knew it." "He
 Milo read the messages. All of them. His hands were cold.
 He did that. His information. His fifty pounds.
 And he did not even check if it was true.
+
+# The Error
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_1-1793479577320.mp3
+On Friday morning, the school felt different. Milo felt it as soon as he walked through the gate.
+Students stood in small groups and talked quietly. They looked at their phones. They laughed. Some of them looked angry. And everybody was talking about the same thing.
+"Did you see the photo?"
+"Kai Dobson. The quiet one."
+"His dad's a thief. It's in the newspaper."
+"I always knew he was weird."
+Milo walked to his first lesson with his head down. He did not wear the glasses. They were in the black box, in his bag. For the first time in weeks, he did not want to see anybody's number.
+In maths, Kai was not there. His chair was empty. Mr Pratt called his name. "Dobson? Kai Dobson?" Nobody answered. Somebody at the back laughed. Mr Pratt looked up, confused, and then moved on.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_2-1793479587647.mp3
+At break time, Milo saw Kai. He was standing near the lockers. Around him there were six or seven students. One of them was Jordan Price, a tall boy from Year 10. Jordan was holding Kai's bag. He opened it and turned it upside down. Everything fell on the floor. Books. A pencil case. A sandwich in a plastic bag. A small notebook with drawings of birds.
+"Where's my phone?" Jordan shouted. "Where is it, thief?"
+"I don't have it," Kai said. His voice was very quiet. "I never touched your phone."
+"Liar! Your dad's a thief. You're a thief. It's in your family."
+The other students laughed. Somebody kicked the notebook with the birds. It slid across the floor and stopped in front of Milo's shoes.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_3-1793479598430.mp3
+Milo looked down at it. The notebook was open. On the page there was a drawing of a small bird, a robin, very beautiful, very careful. Under it, in small letters, Kai wrote:
+> Seen in the school garden. Tuesday. 8:05. Alone.
+Alone, Milo thought. Like me in the school garden.
+He picked up the notebook. He wanted to say something. He wanted to say, "Stop." But his mouth did not open. His legs did not move. He was afraid. If he said something, people would ask questions. "How do you know?" "Where did the information come from?" Everybody would know it was TheOracle. Everybody would know it was him.
+Then somebody else spoke.
+"Leave him alone."
+Milo turned. It was Connor Webb.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_4-1793479608743.mp3
+Connor walked to the group. He was bigger than Jordan. Not taller, but bigger. He stood next to Kai.
+"I said leave him alone, Jordan."
+"Why do you care, Webb?" Jordan said. "He's a thief. Look at his family."
+"Look at my family," Connor said. His voice was hard. "My dad doesn't have a job. My mum left when I was ten. Does that make me a thief? Does that make me a bad person?"
+Nobody answered.
+"You don't know anything about his family," Connor said. "You read one stupid message on a group chat and now you're all detectives. Give him his bag."
+Jordan looked at Connor for a long moment. Then he threw the bag on the floor and walked away. His friends followed him. The group disappeared.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_5-1793479617593.mp3
+Kai knelt down and started to pick up his things. His hands were shaking. Connor knelt down and helped him. Neither of them said anything.
+Milo walked to them. He held out the notebook with the birds.
+"This is yours," he said.
+Kai took it. He looked at Milo for a second. His eyes were red. Then he put the notebook in his bag and walked away quickly. He did not go to the classroom. He went to the gate. He went home.
+Connor stood up. He looked at Milo.
+"You," Connor said. "I know it's you. TheOracle. Everybody knows. Did you do this?"
+Milo did not answer.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_6-1793479624974.mp3
+Connor shook his head. "That day in the dining hall. When you said that about my dad. I went home and cried, you know? In my room. I'm fourteen and I cried like a baby." He stepped closer. "My dad's trying. He goes to interviews every week. Every week they say no. He's not a loser. He's just unlucky. You don't know anything about people, Hartley. You just know facts."
+He walked away.
+Milo stood in the corridor alone. The bell rang. He did not move.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_7-1793479632473.mp3
+At lunchtime, more news came. It moved through the dining hall like a wave.
+"Jordan found his phone."
+"Where?"
+"In his sports bag. In the changing room. It was there all the time."
+"So Kai didn't take it?"
+"No. Jordan just forgot it."
+Some students looked a little bit sorry. Most students just shrugged and changed the subject. Kai was not interesting anymore. Somebody posted in the group chat: "Jordan found his phone lol." Nobody said sorry to Kai. Nobody deleted the photo.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_8-1793479642704.mp3
+Milo sat on his bench alone. He did not eat his sandwich. He took the glasses out of the box and put them on. He opened the program on his phone. He looked again at the information about Kai.
+> NAME: Kai Dobson
+> FAMILY: mother Tracey Dobson
+> "Local man Dean Dobson sent to prison for theft."
+He looked more carefully this time. He did what he did not do before. He checked.
+He searched for Dean Dobson. There were many people with that name in England. The Dean Dobson in the newspaper story was fifty-eight years old. He lived in Nottingham. He had two adult daughters. No sons.
+He was not Kai's father. He was not Kai's family. He was a stranger with the same family name.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_9-1793479652580.mp3
+The glasses made a mistake. No. The glasses did not make the mistake. The glasses just put two things next to each other. A boy called Dobson and a thief called Dobson. Milo made the mistake. He looked at the two things and he believed the story. Because the story was easy. Because the score was four. Because a boy with old shoes and a score of four looked like a thief to him.
+Milo felt sick.
+He looked up. Bea was standing in front of him. Her yellow coat. Her red hair. Her serious face.
+"Is it true?" she asked. "Was it you?"
+Milo took off the glasses. "Yes."
+Bea sat down next to him. She did not say anything for a long time.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_10-1793479661915.mp3
+"Kai is in my art class," she said finally. "Did you know that? He draws birds. He's really good. Really, really good. He never talks, but last week he showed me a drawing of a heron. It was so beautiful I wanted to cry." She looked at Milo. "His dad died when he was eight. In a car accident. His mum works in a factory at night. They have nothing. Kai told me once he comes to school early because the school is warm and his house is cold."
+Milo closed his eyes.
+"Your glasses didn't tell you that, did they?" Bea said.
+"No."
+"They told you he was poor. And you thought poor means thief."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_11-1793479671308.mp3
+"I didn't think that," Milo said. But even as he said it, he knew it was not true. He did think that. Maybe not in words. But in his head, somewhere. Score four. Old shoes. Newspaper story. Thief. It was easy. Too easy.
+"What do I do?" he asked. His voice was shaking.
+Bea looked at him. For the first time in weeks, she did not look angry. She looked sad.
+"You know what to do," she said. "You always know what to do. You're a genius. You just don't want to do it because it's hard."
+Milo knew. He had to tell the truth. To everybody.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_12-1793479681188.mp3
+After school, he went to the head teacher's office. Mrs Dunmore. The angry head teacher. He knocked on the door. His legs were like water.
+"Come in."
+He went in. Mrs Dunmore looked up from her desk. She was a tall woman with grey hair and glasses on a chain.
+"Milo Hartley," she said. "What a surprise. Sit down. What can I do for you?"
+Milo sat down. He took a deep breath. And he told her everything. Not the glasses — he said "a computer program". But everything else. TheOracle. The money. The information about students. The message about Kai. The newspaper story. The mistake.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_13-1793479689322.mp3
+Mrs Dunmore listened. Her face did not move. When he finished, she took off her glasses and put them on the desk.
+"That is a very serious thing, Milo," she said. "You understand that?"
+"Yes."
+"I have to call your mother."
+"I know."
+"And you will close this... Oracle. Today. And you will give back the money to every student."
+Milo thought about the envelope under his mattress. £1,230. His plan. His mum's debts. He felt his throat close.
+"Yes," he said. "I will."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_14-1793479697697.mp3
+"And Kai Dobson?"
+"I want to say sorry. To his face. And I want to tell everybody the truth. On the group chat. That it was me. That I was wrong. That his family is not what I said."
+Mrs Dunmore looked at him for a long time. Then, for the first time in three years, Milo saw her smile. A very small smile.
+"That," she said, "is the first clever thing you've done in weeks."
+That evening, Milo wrote a message on the school group chat. It was the hardest thing he ever wrote. Harder than twenty thousand lines of code.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_7.page_15-1793479709583.mp3
+> I am TheOracle. I gave false information about Kai Dobson. His father is not in prison. That was a different man with the same name. Kai did not steal anything. I was wrong and I was stupid. I am sorry, Kai. TheOracle is closed. I will give everybody their money back.
+He pressed send. Then he turned off his phone.
+At home, the house phone rang. It was the school. His mum answered. Milo heard her voice in the hall. "Yes... I see... He did what?... Yes... Thank you for calling."
+She came into the kitchen. She looked at him. She did not shout. That was worse. She just looked at him with her tired eyes.
+"Garage," she said. "Now. You're going to show me everything."

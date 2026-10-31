@@ -5304,6 +5304,12 @@
       "example": "There are many cars. — Tem muitos carros."
     },
     {
+      "word": "car accident",
+      "pos": "PHRASE",
+      "translation": "o acidente de carro",
+      "example": "\"His dad died when he was eight. In a car accident.\""
+    },
+    {
       "word": "car alarm",
       "pos": "PHRASE",
       "translation": "o alarme de carro",
@@ -5890,6 +5896,12 @@
       "pos": "PHRASE",
       "translation": "mudar de ideia",
       "example": "Then he pressed send before he could change his mind."
+    },
+    {
+      "word": "change the subject",
+      "pos": "PHRASE",
+      "translation": "mudar de assunto",
+      "example": "Most students just shrugged and changed the subject."
     },
     {
       "word": "changing room",
@@ -12446,6 +12458,12 @@
       "pos": "PHRASE",
       "translation": "ter a sensação de, sentir-se como ; ter vontade de",
       "example": "They feel like they want to follow her."
+    },
+    {
+      "word": "feel sick",
+      "pos": "PHRASE",
+      "translation": "passar mal, ficar enjoado",
+      "example": "Milo felt sick."
     },
     {
       "word": "feel sorry for",
@@ -20806,6 +20824,12 @@
       "example": "\"Serve him well,\" his mother had whispered as he left."
     },
     {
+      "word": "leave him alone",
+      "pos": "PHRASE",
+      "translation": "deixa ele em paz",
+      "example": "\"Leave him alone.\""
+    },
+    {
       "word": "leave me alone",
       "pos": "PHRASE",
       "translation": "me deixe em paz",
@@ -21274,6 +21298,12 @@
       "example": "I think you'd like it."
     },
     {
+      "word": "like a baby",
+      "pos": "PHRASE",
+      "translation": "como um bebê",
+      "example": "\"I'm fourteen and I cried like a baby.\""
+    },
+    {
       "word": "likely",
       "pos": "ADV",
       "translation": "provavelmente (“very likely”: muito provavelmente)",
@@ -21566,6 +21596,12 @@
       "pos": "NOUN",
       "translation": "o tronco, a tora",
       "example": "But it landed in the small room like a log dropped on the hearth, and Rowan let the question die."
+    },
+    {
+      "word": "lol",
+      "pos": "NOUN",
+      "translation": "kkk, rs (“laughing out loud”: rindo alto)",
+      "example": "Somebody posted in the group chat: \"Jordan found his phone lol.\""
     },
     {
       "word": "London",
@@ -22153,6 +22189,12 @@
       "pos": "PHRASE",
       "translation": "fazer sujeira, fazer bagunça",
       "example": "They made a mess on the floor and he had to clean it."
+    },
+    {
+      "word": "make a mistake",
+      "pos": "PHRASE",
+      "translation": "cometer um erro, errar",
+      "example": "The glasses made a mistake."
     },
     {
       "word": "make faces",
@@ -24014,6 +24056,12 @@
       "example": "\"Neither do I,\" said Max."
     },
     {
+      "word": "neither of them",
+      "pos": "PHRASE",
+      "translation": "nenhum dos dois",
+      "example": "Connor knelt down and helped him. Neither of them said anything."
+    },
+    {
       "word": "Nell",
       "pos": "PROPN",
       "translation": "Nell (nome)",
@@ -24582,6 +24630,12 @@
       "pos": "NOUN",
       "translation": "a ideia, a noção",
       "example": "Gideon laughed, and then, rather to his own surprise, found himself telling Alasdair about the lay-by above Dalwhinnie — about Pauline and the sandwiches and the thirty-one summers, about the funeral and the long, numb months that had followed it, about the half-formed notion that had brought him north on this particular run with ninety empty casks rattling behind him."
+    },
+    {
+      "word": "Nottingham",
+      "pos": "PROPN",
+      "translation": "Nottingham (cidade do centro da Inglaterra)",
+      "example": "He lived in Nottingham."
     },
     {
       "word": "novel",
@@ -25427,6 +25481,12 @@
       "pos": "PHRASE",
       "translation": "ou algo assim",
       "example": "\"Are you having a growth spurt or something?\""
+    },
+    {
+      "word": "oracle",
+      "pos": "NOUN",
+      "translation": "o oráculo",
+      "example": "\"And you will close this... Oracle. Today.\""
     },
     {
       "word": "orange",
@@ -26459,6 +26519,12 @@
       "pos": "NOUN",
       "translation": "o lápis",
       "example": "It was while he was examining the diagram for the hundredth time that he noticed the pencil marks."
+    },
+    {
+      "word": "pencil case",
+      "pos": "PHRASE",
+      "translation": "o estojo",
+      "example": "Books. A pencil case. A sandwich in a plastic bag."
     },
     {
       "word": "Penhallow",
@@ -31140,6 +31206,12 @@
       "example": "And information was valuable. Everybody said so."
     },
     {
+      "word": "say sorry",
+      "pos": "PHRASE",
+      "translation": "pedir desculpas",
+      "example": "\"I want to say sorry. To his face.\""
+    },
+    {
       "word": "saying",
       "pos": "NOUN",
       "translation": "o ditado",
@@ -31726,6 +31798,12 @@
       "pos": "NOUN",
       "translation": "o seminário",
       "example": "In Room 14 of the English department, in her very first seminar."
+    },
+    {
+      "word": "send",
+      "pos": "NOUN",
+      "translation": "“enviar” (o botão) (“press send”: apertar “enviar”)",
+      "example": "He pressed send. Then he turned off his phone."
     },
     {
       "word": "send",
@@ -34410,6 +34488,12 @@
       "example": "Lily was standing at the entrance of the leisure centre with two sports bags at her feet and her arms crossed."
     },
     {
+      "word": "sports bag",
+      "pos": "PHRASE",
+      "translation": "a bolsa de esporte",
+      "example": "\"In his sports bag. In the changing room.\""
+    },
+    {
       "word": "spot",
       "pos": "NOUN",
       "translation": "o lugar; a mancha",
@@ -36771,6 +36855,12 @@
       "pos": "PHRASE",
       "translation": "perceber a diferença, distinguir",
       "example": "Or perhaps he was afraid of himself; it was hard to tell the difference."
+    },
+    {
+      "word": "tell the truth",
+      "pos": "PHRASE",
+      "translation": "dizer a verdade",
+      "example": "He had to tell the truth. To everybody."
     },
     {
       "word": "temper",
@@ -39317,6 +39407,12 @@
       "example": "He unlocked the door and pushed it open slowly, staying to one side, and a wave of smoke rolled out over his head."
     },
     {
+      "word": "unlucky",
+      "pos": "ADJ",
+      "translation": "azarado, azarada; sem sorte",
+      "example": "\"He's not a loser. He's just unlucky.\""
+    },
+    {
       "word": "unmarked",
       "pos": "ADJ",
       "translation": "sem marca ; (aqui) sem Marca, sem elemento",
@@ -40840,6 +40936,18 @@
       "example": "Edwin did not understand what he meant, but he felt a cold shiver run down his spine."
     },
     {
+      "word": "what a surprise",
+      "pos": "PHRASE",
+      "translation": "que surpresa",
+      "example": "\"Milo Hartley,\" she said. \"What a surprise.\""
+    },
+    {
+      "word": "what can i do for you",
+      "pos": "PHRASE",
+      "translation": "em que posso ajudar?, o que posso fazer por você?",
+      "example": "\"Sit down. What can I do for you?\""
+    },
+    {
       "word": "what do you mean",
       "pos": "PHRASE",
       "translation": "como assim?, o que você quer dizer?",
@@ -41874,7 +41982,7 @@
     {
       "word": "Year",
       "pos": "PROPN",
-      "translation": "Year (em “New Year”: o Ano-Novo; “year”: o ano)",
+      "translation": "Year (em “New Year”: o Ano-Novo; “year”: o ano; “Year 9”, “Year 10”: ano escolar inglês (≈ 8º e 9º ano))",
       "example": "Giving it up had been one of her New Year's promises, and it was the only one she had kept."
     },
     {
