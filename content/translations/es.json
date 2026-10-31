@@ -1342,6 +1342,12 @@
       "example": "\"I owe you an apology,\" said Frank at last."
     },
     {
+      "word": "app",
+      "pos": "NOUN",
+      "translation": "la app, la aplicación",
+      "example": "They paid him online, with an app his mum did not know about."
+    },
+    {
       "word": "apparently",
       "pos": "ADV",
       "translation": "al parecer, por lo visto",
@@ -4260,6 +4266,12 @@
       "example": "He was kneeling in the grass, painting something dark onto the place where the branch had broken off."
     },
     {
+      "word": "break time",
+      "pos": "PHRASE",
+      "translation": "el recreo",
+      "example": "On Monday at break time, a girl came to Milo's bench."
+    },
+    {
       "word": "break up",
       "pos": "PHRASE",
       "translation": "dispersarse, disolverse",
@@ -5254,6 +5266,12 @@
       "pos": "PHRASE",
       "translation": "la alarma de coche",
       "example": "In the Cité des Acacias, car alarms were going off one after another."
+    },
+    {
+      "word": "car boot sale",
+      "pos": "PHRASE",
+      "translation": "el mercadillo de segunda mano (se vende desde el maletero del coche)",
+      "example": "The first idea came on Saturday morning, at the car boot sale."
     },
     {
       "word": "car horn",
@@ -6640,6 +6658,12 @@
       "pos": "PHRASE",
       "translation": "pasar (con un clic) a",
       "example": "He thought, unexpectedly, of the tachograph, which had at some point in the evening clicked over to a rest period and was even now recording, with bureaucratic serenity, that he was doing nothing whatsoever."
+    },
+    {
+      "word": "client",
+      "pos": "NOUN",
+      "translation": "el cliente, la clienta",
+      "example": "He went home and wrote a long message to TheOracle's new client."
     },
     {
       "word": "cliff",
@@ -8916,6 +8940,12 @@
       "example": "It was dated July 1995."
     },
     {
+      "word": "dating app",
+      "pos": "PHRASE",
+      "translation": "la app de citas",
+      "example": "\"Is he on any dating apps?\""
+    },
+    {
       "word": "daughter",
       "pos": "NOUN",
       "translation": "la hija",
@@ -8986,6 +9016,12 @@
       "pos": "NOUN",
       "translation": "el trato («a good deal»: mucho) ; el trato («Deal?»: ¿trato hecho?; «That was the deal»: ese era el trato)",
       "example": "\"By the end of the month it will have reached Ashwater, and Mossbridge, and places a good deal less friendly than either.\""
+    },
+    {
+      "word": "Dean",
+      "pos": "PROPN",
+      "translation": "Dean (nombre)",
+      "example": "\"Local man Dean Dobson sent to prison for theft.\""
     },
     {
       "word": "dear",
@@ -9874,6 +9910,12 @@
       "pos": "PHRASE",
       "translation": "hacer los deberes; aquí: prepararse bien, documentarse",
       "example": "Again, he thought, these actors had really done their homework."
+    },
+    {
+      "word": "Dobson",
+      "pos": "PROPN",
+      "translation": "Dobson (apellido)",
+      "example": "Kai Dobson. Year 9. I think he steals things."
     },
     {
       "word": "doctor",
@@ -11040,6 +11082,12 @@
       "example": "Every village has its own small traditions, and Ellerdale had a strange one."
     },
     {
+      "word": "Ellie",
+      "pos": "PROPN",
+      "translation": "Ellie (nombre)",
+      "example": "Her name was Ellie Marsh. She was in the year above."
+    },
+    {
       "word": "Elm",
       "pos": "PROPN",
       "translation": "Elm («Elm Hill»: antigua calle empedrada de Norwich)",
@@ -11936,6 +11984,12 @@
       "pos": "PHRASE",
       "translation": "boca abajo",
       "example": "Then she put it face down on the table, next to the scissors."
+    },
+    {
+      "word": "face fall",
+      "pos": "PHRASE",
+      "translation": "descomponérsele la cara, poner cara de decepción",
+      "example": "Milo told Ellie. Ellie's face fell."
     },
     {
       "word": "face out",
@@ -15267,10 +15321,22 @@
       "example": "\"Go to bed, Rowan.\""
     },
     {
+      "word": "go to sleep",
+      "pos": "PHRASE",
+      "translation": "dormirse, irse a dormir",
+      "example": "He closed the box in his head and went to sleep."
+    },
+    {
       "word": "go up",
       "pos": "PHRASE",
       "translation": "subir",
       "example": "\"Mistress Vell goes up to the Warden's tower every Thursday after the ninth bell."
+    },
+    {
+      "word": "go white",
+      "pos": "PHRASE",
+      "translation": "ponerse pálido, palidecer («my mind went white»: me quedé en blanco)",
+      "example": "\"But Connor went white. Like a ghost.\""
     },
     {
       "word": "goal",
@@ -16017,6 +16083,12 @@
       "example": "You will forgive me, Mr Ashby, if I am no longer in the habit of taking people's word for things."
     },
     {
+      "word": "hacker",
+      "pos": "NOUN",
+      "translation": "el hacker, el pirata informático",
+      "example": "\"Maybe he's a hacker. He's always on computers.\""
+    },
+    {
       "word": "had better",
       "pos": "PHRASE",
       "translation": "más vale que, sería mejor que"
@@ -16566,6 +16638,12 @@
       "pos": "PHRASE",
       "translation": "tener cabeza para, darse bien",
       "example": "She had a head for it, Bram said — for ledgers and lists and long columns of names."
+    },
+    {
+      "word": "have a history of",
+      "pos": "PHRASE",
+      "translation": "tener antecedentes de",
+      "example": "\"His family has a history of stealing,\" he wrote."
     },
     {
       "word": "have a right to",
@@ -17454,6 +17532,12 @@
       "pos": "VERB",
       "translation": "encapuchar («hooded»: encapuchado)",
       "example": "The drivers were hooded, and the canvas covers were lashed down tight, with not a single gap."
+    },
+    {
+      "word": "Hood",
+      "pos": "PROPN",
+      "translation": "Hood («Robin Hood»: Robin Hood, el héroe que roba a los ricos para dar a los pobres)",
+      "example": "It was like a game where rich people paid for poor people. Robin Hood, but with laptops."
     },
     {
       "word": "hooded",
@@ -19564,6 +19648,12 @@
       "example": "\"I asked Ines. She said yes. The form is in the drawer, just in case.\""
     },
     {
+      "word": "Kai",
+      "pos": "PROPN",
+      "translation": "Kai (nombre)",
+      "example": "Kai Dobson. Year 9. I think he steals things."
+    },
+    {
       "word": "kangaroo",
       "pos": "NOUN",
       "translation": "el canguro",
@@ -20888,6 +20978,12 @@
       "pos": "PHRASE",
       "translation": "levantar (haciendo palanca)",
       "example": "But the ashes in the hearth had been raked out across the floor, and the hearthstone itself had been levered up with something hard and pointed, and set back down again, crooked."
+    },
+    {
+      "word": "Lewis",
+      "pos": "PROPN",
+      "translation": "Lewis (nombre)",
+      "example": "\"There's a boy. In my class. Lewis. I like him.\""
     },
     {
       "word": "liar",
@@ -22262,6 +22358,12 @@
       "example": "The A9 swept down into Strathspey in long, generous curves, past Newtonmore and Kingussie and the frozen marshes of the Insh, where a skein of geese rose crying from the reeds as he passed."
     },
     {
+      "word": "Marsh",
+      "pos": "PROPN",
+      "translation": "Marsh (apellido)",
+      "example": "Her name was Ellie Marsh. She was in the year above."
+    },
+    {
       "word": "marshmallow",
       "pos": "NOUN",
       "translation": "la nube, el malvavisco",
@@ -22638,6 +22740,18 @@
       "pos": "NOUN",
       "translation": "el mensaje",
       "example": "One message, in capital letters: WHERE ARE YOU."
+    },
+    {
+      "word": "message",
+      "pos": "VERB",
+      "translation": "enviar un mensaje («messaging app»: app de mensajería)",
+      "example": "He set up a secret account on a messaging app."
+    },
+    {
+      "word": "messaging app",
+      "pos": "PHRASE",
+      "translation": "la app de mensajería",
+      "example": "He set up a secret account on a messaging app."
     },
     {
       "word": "messenger",
@@ -24298,7 +24412,7 @@
     {
       "word": "note",
       "pos": "NOUN",
-      "translation": "la nota ; el aviso",
+      "translation": "la nota ; el aviso; el billete («ten-pound note»: billete de diez libras)",
       "example": "Outside, a wood pigeon was calling the same three notes over and over, as if it had forgotten the rest of the song."
     },
     {
@@ -25517,6 +25631,12 @@
       "pos": "PHRASE",
       "translation": "a lo largo de",
       "example": "He learned the rest from the others, in pieces, over the course of that long, grey afternoon."
+    },
+    {
+      "word": "over there",
+      "pos": "PHRASE",
+      "translation": "allí, allá",
+      "example": "\"Deal. He's over there. By the door. Grey jumper.\""
     },
     {
       "word": "over with",
@@ -30036,6 +30156,18 @@
       "example": "Inside, there was a single card with a small robin printed in one corner."
     },
     {
+      "word": "Robin",
+      "pos": "PROPN",
+      "translation": "Robin («Robin Hood»: Robin Hood, el héroe que roba a los ricos para dar a los pobres)",
+      "example": "It was like a game where rich people paid for poor people. Robin Hood, but with laptops."
+    },
+    {
+      "word": "robin hood",
+      "pos": "PHRASE",
+      "translation": "Robin Hood (el héroe que roba a los ricos para dar a los pobres)",
+      "example": "It was like a game where rich people paid for poor people. Robin Hood, but with laptops."
+    },
+    {
       "word": "robot",
       "pos": "NOUN",
       "translation": "el robot",
@@ -31474,6 +31606,12 @@
       "pos": "VERB",
       "translation": "enviar",
       "example": "The children were sent to hide in the church, which had the thickest walls in the village."
+    },
+    {
+      "word": "send to prison",
+      "pos": "PHRASE",
+      "translation": "mandar a la cárcel",
+      "example": "\"Local man Dean Dobson sent to prison for theft.\""
     },
     {
       "word": "sense",
@@ -36821,6 +36959,12 @@
       "example": "\"I think that's the whole point,\" he said."
     },
     {
+      "word": "the whole time",
+      "pos": "PHRASE",
+      "translation": "todo el tiempo, todo el rato",
+      "example": "He sat at the back and held his pocket with the money the whole time."
+    },
+    {
       "word": "the wrong way round",
       "pos": "PHRASE",
       "translation": "al revés",
@@ -36855,6 +36999,12 @@
       "pos": "ADV",
       "translation": "luego, después",
       "example": "Then he sleeps. — Luego duerme."
+    },
+    {
+      "word": "TheOracle",
+      "pos": "PROPN",
+      "translation": "TheOracle (la cuenta secreta de Milo: «el Oráculo», que responde a las preguntas)",
+      "example": "He called it \"TheOracle\"."
     },
     {
       "word": "theoretical",
@@ -36963,6 +37113,12 @@
       "pos": "NOUN",
       "translation": "la cosa",
       "example": "\"Your cousin says a lot of things.\""
+    },
+    {
+      "word": "things like that",
+      "pos": "PHRASE",
+      "translation": "cosas así, ese tipo de cosas",
+      "example": "\"Is he on any dating apps? Things like that.\""
     },
     {
       "word": "think",
@@ -37863,6 +38019,12 @@
       "pos": "VERB",
       "translation": "trazar, seguir (con el dedo)",
       "example": "As Rowan watched, she reached out and ran one ink-stained finger slowly up the face of the Stone, tracing a line he could not see from this distance — a line that began exactly where his hands had been."
+    },
+    {
+      "word": "Tracey",
+      "pos": "PROPN",
+      "translation": "Tracey (nombre)",
+      "example": "FAMILY: mother Tracey Dobson"
     },
     {
       "word": "track",

@@ -1140,6 +1140,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Dentist",
+      "pos": "PROPN",
+      "word": "dentist",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Departures",
       "pos": "PROPN",
       "word": "departure",
@@ -2019,6 +2025,13 @@
     {
       "text": "grey",
       "pos": "VERB",
+      "word": "grey",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Grey",
+      "pos": "PROPN",
+      "next": "jumper",
       "word": "grey",
       "lemmaPos": "ADJ"
     },
@@ -3052,6 +3065,12 @@
     {
       "text": "Milo",
       "pos": "INTJ",
+      "word": "Milo",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Milo",
+      "pos": "ADJ",
       "word": "Milo",
       "lemmaPos": "PROPN"
     },
@@ -5174,6 +5193,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Thirty",
+      "pos": "NOUN",
+      "word": "thirty",
+      "lemmaPos": "NUM"
+    },
+    {
       "text": "thorned",
       "pos": "VERB",
       "word": "thorned",
@@ -5274,6 +5299,12 @@
       "pos": "NOUN",
       "word": "Tomasz",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "Tomorrow",
+      "pos": "PROPN",
+      "word": "tomorrow",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Took",

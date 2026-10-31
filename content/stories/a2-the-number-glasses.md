@@ -623,3 +623,151 @@ Milo had his glasses on. He looked at the old man's face. The blue letters appea
 But the man in front of him was holding a part of the heater in his hands and smiling. And in five minutes, the heater in Milo's house was working for the first time in two weeks.
 Zero, Milo thought. That's not possible.
 But he was too busy with his plan to think more about it.
+
+# A Small Idea
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_1-1793477362611.mp3
+The first idea came on Saturday morning, at the car boot sale.
+Every Saturday, in a big field next to the football club, people came with their cars full of old things. They opened the back of their cars and sold everything: old clothes, old toys, old books, old plates, old phones. People walked between the cars and looked for cheap things. Milo went there sometimes to buy broken computers for his parts.
+This Saturday, he did not go to buy. He went to sell.
+He took a small table from the garage and his old school bag full of things. Two old laptops that he repaired. Three phones that worked again. A pair of headphones. A small speaker. A box of cables. He carried everything to the field on the bus. It was heavy, but he did not care.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_2-1793477375106.mp3
+He put his things on the little table. Then he put on the glasses.
+He did not write prices on the things. That was his idea. No prices. When a person asked, "How much is this laptop?", Milo looked at their face first. Then he gave a price.
+The first person was a young woman with a baby in a pushchair. She looked at one of the laptops.
+"How much is this one?" she asked.
+Milo looked at her. SCORE: 19. JOB: no job. DEBTS: £1,200.
+"Forty pounds," Milo said.
+"Oh," she said. She looked in her purse. "I only have thirty. It's for my son. My older son. He needs it for school."
+"Thirty is OK," Milo said.
+She smiled. A big, real smile. "Thank you. Really. Thank you."
+She took the laptop and walked away. Milo felt good. He felt very good.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_3-1793477385645.mp3
+The second person was a man in a green jacket and expensive boots. He looked at the other laptop.
+"How much?"
+Milo looked at him. SCORE: 77. JOB: Dentist. SALARY: about £95,000 per year.
+"One hundred and fifty pounds," Milo said.
+The man laughed. "One hundred and fifty? For an old laptop at a car boot sale?"
+"It's a very good laptop," Milo said. "I repaired it myself. New battery. New memory. It's very fast."
+The man looked at it. He opened it and turned it on. It started very quickly. He looked surprised.
+"One hundred," the man said.
+"One hundred and twenty," Milo said.
+The man thought about it. Then he took out his wallet. "OK. One hundred and twenty. You're a good businessman, kid."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_4-1793477394246.mp3
+Milo took the money. Six twenty-pound notes. He put them in his pocket. His heart was beating very fast.
+It was the same laptop as the first one. The same model. The same age. The same new battery. The young woman paid thirty. The dentist paid one hundred and twenty.
+Was that fair? Milo thought about it. Yes, he decided. It was fair. The woman did not have a lot of money. The dentist had a lot of money. So the woman paid less and the dentist paid more. It was like a game where rich people paid for poor people. Robin Hood, but with laptops.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_5-1793477406271.mp3
+He sold everything in two hours. The phones, the headphones, the speaker, even the box of cables. Every person got a different price. Low score, low price. High score, high price. At the end of the morning, he counted the money. £410.
+Four hundred and ten pounds. For some old things from his garage.
+He took the bus home. He sat at the back and held his pocket with the money the whole time. He was too excited to look out of the window.
+At home, he put the money in an envelope and put the envelope under his mattress. £410. Only £7,990 more.
+That was a lot more.
+The car boot sale was a good start. But he did not have more old laptops to sell. He needed a new idea. A bigger idea.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_6-1793477414299.mp3
+The second idea came on Monday, at school. And it came from Connor Webb.
+Connor was different now. Since the day in the dining hall, he did not call Milo "Robot Boy". He did not come near Milo's table. He did not look at him. Some other students noticed. People started to talk.
+"Did you hear? Hartley said something to Connor and Connor walked away."
+"What did he say?"
+"Nobody knows. But Connor went white. Like a ghost."
+"How does Hartley know things?"
+"Maybe he's a hacker. He's always on computers."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_7-1793477425776.mp3
+On Monday at break time, a girl came to Milo's bench. Her name was Ellie Marsh. She was in the year above. Milo never talked to her before.
+"Are you Milo Hartley?" she asked.
+"Yes."
+"People say you know things. About people. Is that true?"
+Milo looked at her. He looked at Bea, who was next to him. Bea shook her head a little. A small "no".
+"Maybe," Milo said. "Why?"
+Ellie looked around. Then she sat down and spoke very quietly. "There's a boy. In my class. Lewis. I like him. I want to know... does he have a girlfriend? Is he on any dating apps? Things like that. Can you find out?"
+"Maybe," Milo said again. "It costs ten pounds."
+Bea turned to him with her mouth open.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_8-1793477437917.mp3
+Ellie did not even think about it. She took a ten-pound note out of her bag. "Deal. He's over there. By the door. Grey jumper."
+Milo looked at the boy by the door. Lewis. The glasses worked. Name, age, family. Last post online. And something else: a post from two weeks ago, a photo of Lewis holding hands with a girl from another school. "Six months with my favourite person."
+Milo told Ellie. Ellie's face fell. "Oh," she said. "OK. Thanks. I suppose." She walked away slowly.
+Bea grabbed his arm. "What are you doing?"
+"Making money."
+"From people's secrets?"
+"It wasn't a secret. He put it online himself. Anybody can see it."
+"Then why did she pay you ten pounds?"
+Milo did not have an answer to that. He put the ten pounds in his pocket.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_9-1793477449383.mp3
+The news moved fast. By Wednesday, everybody at Westbridge knew. "If you want to know something about somebody, ask Milo Hartley. Ten pounds."
+At first it was small things. Does this boy like me? Is this girl really rich? Where does this teacher live? What does my friend say about me online? Milo looked at faces and gave answers. Ten pounds each time.
+Then it was bigger things. A boy wanted to know the phone number of a girl who did not give it to him. Milo found it and gave it to him. Twenty pounds. A girl wanted to know if her best friend said bad things about her in private groups. Milo did not know how to get into private groups. But he learned. It took him two nights. Thirty pounds.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_10-1793477459786.mp3
+He set up a secret account on a messaging app. He called it "TheOracle". Students sent messages to TheOracle with a name and a question. Milo answered. They paid him online, with an app his mum did not know about.
+After two weeks, the envelope under his mattress had £1,180 in it.
+Milo felt amazing. He felt rich. He felt important. Students looked at him in the corridors now. Not like before, when they laughed. Now they looked at him with a mix of fear and respect. Some students said hello to him. Some students offered him sweets. Some students were very, very nice to him.
+He looked at their scores and decided who was worth his time.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_11-1793477471205.mp3
+Bea stopped sitting with him at lunch.
+It happened slowly. First, she was late. Then she sat at the end of the bench, not next to him. Then one day, she was not there at all. Milo looked around the dining hall. She was sitting with three girls from her art class. She was laughing at something. She did not look at him.
+Milo told himself he did not care. He had money now. He had a plan. Bea did not understand. Bea had two parents with jobs. Bea did not have £8,400 of debt in her house.
+But at night, in the garage, he sometimes looked at the bench in his memory. The empty place next to him. The yellow coat that was not there.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_12-1793477481510.mp3
+One evening, he got a new message on TheOracle. It was from a number he did not know.
+"I need information about someone. Not £10. I can pay £50."
+Fifty pounds. Milo wrote back fast. "Who?"
+"Kai Dobson. Year 9. I think he steals things. I think he stole my phone. I need proof. Find everything you can about him."
+Milo knew Kai Dobson. Everybody knew Kai Dobson a little. He was a thin, quiet boy with old shoes and a coat that was too big. He always sat alone in the library. He never talked in class. The teachers liked him because he never made trouble. The students did not notice him at all.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_13-1793477492373.mp3
+Milo thought about it. Stealing was bad. If Kai was a thief, people needed to know. And £50 was £50.
+"OK," he wrote. "Tomorrow."
+The next day, at school, he found Kai in the library. Kai was reading a book about birds. Milo sat at a table near him and put on the glasses.
+> NAME: Kai Dobson
+> AGE: 14
+> SCHOOL: Westbridge Academy
+> FAMILY: mother Tracey Dobson
+> SCORE: 4
+The score was very low. Four. The lowest score Milo ever saw at Westbridge.
+Then the glasses showed one more line. A line from an old online newspaper, from the city news, three years ago.
+> "Local man Dean Dobson sent to prison for theft."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_5.page_14-1793477506572.mp3
+Milo looked at the line for a long time. Dobson. Same family name. A thief. Sent to prison.
+He took off the glasses. He looked at Kai. A thin boy reading a book about birds. A boy with a score of four. A boy with a family name from a newspaper story about a thief.
+Milo did not ask any questions. He did not check anything more. He went home and wrote a long message to TheOracle's new client. He told them everything. The low score. The mother. The newspaper story. "His family has a history of stealing," he wrote. "So it's probably him."
+The answer came in one minute. "Perfect. Thanks. Money sent."
+Fifty pounds. Milo put it in the envelope. £1,230 now.
+He did not feel good. He did not feel bad either. He just felt nothing. He closed the box in his head and went to sleep.
+He did not know it then, but that message was the biggest mistake of his life.
