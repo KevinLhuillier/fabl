@@ -2,6 +2,7 @@
 title: The Number Glasses
 level: A2
 summary: Milo Hartley is thirteen, and he understands machines much better than people. In his garage in Leicester, he builds a pair of glasses that can show everything about a person in two seconds: name, age, job, salary… But numbers are not the same thing as the truth.
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/a2-the-number-glasses/1793431585476.png
 ---
 
 # The Garage
