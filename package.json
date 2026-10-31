@@ -19,9 +19,11 @@
     "store-screenshots": "npm run store-screenshots -w store --",
     "lint": "npm run lint --workspaces --if-present",
     "typecheck": "npm run typecheck --workspaces --if-present",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "postinstall": "patch-package"
   },
   "devDependencies": {
+    "patch-package": "^8.0.1",
     "prettier": "^3.6.2"
   }
 }

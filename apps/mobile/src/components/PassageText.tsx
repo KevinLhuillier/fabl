@@ -5,8 +5,16 @@ import Animated from 'react-native-reanimated';
 import type { PlayFromWord, Token } from '@/lib/types';
 import { Text, colors, fonts, haptics, radii, spacing } from '@/theme';
 
-/** Voice-over progress: tokens up to `readUpTo` are read, `current` is being spoken. */
-export type ReadAlong = { readUpTo: number; current: number | null };
+/**
+ * Voice-over progress: tokens up to `readUpTo` are read, `current` is being spoken.
+ * Reading aloud uses it too: `current` is the next word to read, and `wrong` holds
+ * the words skipped or misread (shown in red).
+ */
+export type ReadAlong = {
+  readUpTo: number;
+  current: number | null;
+  wrong?: ReadonlySet<number>;
+};
 
 type Props = {
   tokens: Token[];
@@ -22,6 +30,8 @@ type Props = {
   /** Gesture `playGesture` on a word with a timing (aligned voice-over): play from there. */
   onWordPlay?: (token: Token) => void;
   playGesture?: PlayFromWord;
+  /** `onWordPlay` on every word, timed or not (reading aloud starts from any word). */
+  playUntimed?: boolean;
 };
 
 /** Second tap within this delay = double tap. A single tap waits for it before acting. */
@@ -46,7 +56,8 @@ type Segment = { token: Token; spoken: boolean; quote?: 'open' | 'close' };
  * in italics, set off by a rule; consecutive ones share it.
  *
  * While the voice-over plays, the words already read take `readColor` and the
- * word being spoken gets a `currentColor` background (read-along).
+ * word being spoken gets a `currentColor` background (read-along). Reading aloud
+ * shows the same way, with the misread words in red.
  */
 export const PassageText = memo(function PassageText({
   tokens,
@@ -58,6 +69,7 @@ export const PassageText = memo(function PassageText({
   currentColor,
   onWordPlay,
   playGesture = 'double_tap',
+  playUntimed = false,
 }: Props) {
   const paragraphs = splitParagraphs(tokens).map(markDialogue).map(splitWords);
   const tapped = selectedPosition === null ? null : tokens[selectedPosition];
@@ -88,6 +100,7 @@ export const PassageText = memo(function PassageText({
                       label={quote === 'open' ? '“' : quote === 'close' ? '”' : t.text}
                       spoken={spoken || block.written}
                       read={!!readAlong && t.position <= readAlong.readUpTo}
+                      wrong={!!readAlong?.wrong?.has(t.position)}
                       current={readAlong?.current === t.position}
                       selected={isSelected(t)}
                       padLeft={j === 0}
@@ -97,6 +110,7 @@ export const PassageText = memo(function PassageText({
                       onWordPress={onWordPress}
                       onWordPlay={onWordPlay}
                       playGesture={playGesture}
+                      playUntimed={playUntimed}
                     />
                   ))}
                   <Text variant="reading">
@@ -117,6 +131,8 @@ type WordProps = {
   label: string;
   spoken: boolean;
   read: boolean;
+  /** Skipped or misread when reading aloud. */
+  wrong: boolean;
   current: boolean;
   selected: boolean;
   /** The highlight overflows into the surrounding whitespace only, never over a glued neighbor. */
@@ -127,6 +143,7 @@ type WordProps = {
   onWordPress: (token: Token) => void;
   onWordPlay?: (token: Token) => void;
   playGesture: PlayFromWord;
+  playUntimed: boolean;
 };
 
 /**
@@ -138,6 +155,7 @@ const Word = memo(function Word({
   label,
   spoken,
   read,
+  wrong,
   current,
   selected,
   padLeft,
@@ -147,12 +165,13 @@ const Word = memo(function Word({
   onWordPress,
   onWordPlay,
   playGesture,
+  playUntimed,
 }: WordProps) {
   // First tap of a possible double tap, waiting for the second one.
   const pendingTap = useRef<ReturnType<typeof setTimeout> | null>(null);
   useEffect(() => () => clearTimeout(pendingTap.current ?? undefined), []);
 
-  const playable = !!onWordPlay && t.startMs !== null;
+  const playable = !!onWordPlay && (playUntimed || t.startMs !== null);
 
   const translate = () => onWordPress(t);
   const play = () => onWordPlay!(t);
@@ -183,6 +202,7 @@ const Word = memo(function Word({
   const style = [
     spoken && styles.spoken,
     read && { color: readColor },
+    wrong && styles.wrong,
     selected && styles.selected,
   ];
   return (
@@ -288,6 +308,12 @@ const styles = StyleSheet.create({
   },
   highlightLeft: { left: -spacing.xs - spacing.xxs },
   highlightRight: { right: -spacing.xs - spacing.xxs },
+  // Underlined too: the C2 level color is close to red.
+  wrong: {
+    color: colors.danger,
+    textDecorationLine: 'underline',
+    textDecorationColor: colors.danger,
+  },
   selected: {
     backgroundColor: colors.xpSoft,
     color: colors.primary,

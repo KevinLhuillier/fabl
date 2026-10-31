@@ -28,6 +28,9 @@ const MAX_EXTRAPOLATION_MS = 300;
  * `onTime` reports the playback position (ms) for the read-along highlighting,
  * or null before the first play and once the recording has ended.
  * `onRestart` fires when the replay button starts the recording over.
+ * `onPlayingChange` reports when the voice-over starts and stops playing.
+ * `resumeAt`, asked when the play button is pressed, may return where to start (ms)
+ * instead of where the voice-over was paused: where the reader stopped reading aloud.
  */
 export function PageAudio({
   uri,
@@ -36,6 +39,8 @@ export function PageAudio({
   style,
   onTime,
   onRestart,
+  onPlayingChange,
+  resumeAt,
   ref,
 }: {
   uri: string;
@@ -44,6 +49,8 @@ export function PageAudio({
   style?: ViewStyle;
   onTime?: (ms: number | null) => void;
   onRestart?: () => void;
+  onPlayingChange?: (playing: boolean) => void;
+  resumeAt?: () => number | null;
   ref?: Ref<PageAudioHandle>;
 }) {
   const { t } = useI18n();
@@ -56,6 +63,10 @@ export function PageAudio({
   const running = started && !ended && status.playing;
 
   useEffect(ensureAudioMode, []);
+
+  useEffect(() => {
+    onPlayingChange?.(status.playing);
+  }, [onPlayingChange, status.playing]);
 
   // Last position reported by the player, and when it arrived.
   const clock = useRef({ ms: 0, at: 0 });
@@ -103,6 +114,12 @@ export function PageAudio({
     haptics.tap();
     if (status.playing) {
       player.pause();
+      return;
+    }
+    const resume = resumeAt?.() ?? null;
+    if (resume !== null) {
+      void player.seekTo(resume / 1000);
+      player.play();
       return;
     }
     if (ended) {

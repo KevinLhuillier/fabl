@@ -50,7 +50,14 @@
       "expo-font",
       "expo-image",
       "expo-status-bar",
-      "expo-web-browser"
+      "expo-web-browser",
+      [
+        "expo-speech-recognition",
+        {
+          "microphonePermission": "Taleway uses the microphone to listen to you read a page aloud and show the words to work on.",
+          "speechRecognitionPermission": "Taleway recognizes your speech to follow your reading aloud and show the words to work on."
+        }
+      ]
     ],
     "experiments": {
       "typedRoutes": true,

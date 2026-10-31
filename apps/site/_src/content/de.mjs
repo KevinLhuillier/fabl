@@ -59,7 +59,7 @@ export default {
       body: (u, c) => `
 <article class="wrap doc">
   <h1>Datenschutzerklärung</h1>
-  <p class="updated">Zuletzt aktualisiert: 29. Oktober 2026</p>
+  <p class="updated">Zuletzt aktualisiert: 31. Oktober 2026</p>
 
   <p>
     Diese Erklärung beschreibt, welche Daten die mobile App Taleway („die App“) erhebt, wozu,
@@ -124,8 +124,18 @@ export default {
     <li>Keine Werbung, keine Werbe-Tracker.</li>
     <li>Keine Analysetools von Drittanbietern.</li>
     <li>Kein Verkauf und keine Weitergabe deiner Daten zu kommerziellen Zwecken.</li>
-    <li>Kein Zugriff auf Mikrofon, Kamera, Kontakte oder Standort.</li>
+    <li>Kein Zugriff auf Kamera, Kontakte oder Standort.</li>
   </ul>
+
+  <h2>Mikrofon und lautes Lesen</h2>
+  <p>
+    Das Mikrofon wird nur verwendet, wenn du das laute Lesen einer Seite startest, und nur
+    solange es aktiv ist. Deine Stimme wird vom Spracherkennungsdienst deines Telefons (Google
+    unter Android, Apple unter iOS) in Text umgewandelt; dieser kann sie gemäß seiner eigenen
+    Datenschutzerklärung auf seinen Servern verarbeiten. Taleway erhält nur den erkannten Text,
+    vergleicht ihn auf deinem Telefon mit der Seite und speichert weder die Aufnahme noch den
+    Text.
+  </p>
 
   <h2>Auftragsverarbeiter</h2>
   <ul>

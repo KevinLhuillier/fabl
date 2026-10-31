@@ -58,7 +58,7 @@ export default {
       body: (u, c) => `
 <article class="wrap doc">
   <h1>Privacy policy</h1>
-  <p class="updated">Last updated: October 29, 2026</p>
+  <p class="updated">Last updated: October 31, 2026</p>
 
   <p>
     This policy explains what data the Taleway mobile application (“the app”) collects, why,
@@ -123,8 +123,17 @@ export default {
     <li>No advertising, no ad trackers.</li>
     <li>No third-party analytics.</li>
     <li>No selling or sharing of your data for commercial purposes.</li>
-    <li>No access to your microphone, camera, contacts or location.</li>
+    <li>No access to your camera, contacts or location.</li>
   </ul>
+
+  <h2>Microphone and reading aloud</h2>
+  <p>
+    The microphone is used only when you start reading a page aloud, and only while it is
+    active. Your voice is turned into text by your phone's speech recognition service (Google
+    on Android, Apple on iOS), which may process it on its servers under its own privacy
+    policy. Taleway only receives the recognized text, uses it on your phone to compare your
+    reading with the page, and keeps neither the recording nor the text.
+  </p>
 
   <h2>Processors</h2>
   <ul>

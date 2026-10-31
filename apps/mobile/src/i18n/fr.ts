@@ -139,6 +139,18 @@ export const fr = {
     chapterTitle: (n: number, title: string) => `Chapitre ${n} · ${title}`,
     play: 'Écouter la page',
     pause: 'Mettre en pause la lecture',
+    readAloud: 'Lire la page à voix haute',
+    stopReadingAloud: 'Arrêter la lecture à voix haute',
+    listening: 'Lis la page à voix haute…',
+    readAloudErrorTitle: 'Lecture à voix haute',
+    readAloudErrors: {
+      permission:
+        'Autorise l’accès au micro dans les réglages du téléphone pour lire à voix haute.',
+      unavailable: 'La reconnaissance vocale en anglais n’est pas disponible sur ce téléphone.',
+      network:
+        'La reconnaissance vocale a besoin d’une connexion internet. Réessaie une fois connecté.',
+      failed: 'La reconnaissance vocale s’est arrêtée. Réessaie.',
+    },
   },
   wordSheet: {
     baseForm: 'forme de base : ',

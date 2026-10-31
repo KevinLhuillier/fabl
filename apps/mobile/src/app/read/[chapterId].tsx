@@ -1,12 +1,20 @@
 import { useRouter, useLocalSearchParams } from 'expo-router';
 import { BookOpen, ChevronLeft, ChevronRight, Lightbulb, X } from 'lucide-react-native';
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { Pressable, ScrollView, StyleSheet, View, type ScrollViewInstance } from 'react-native';
+import {
+  Alert,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  View,
+  type ScrollViewInstance,
+} from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { PAGE_AUDIO_SIZE, PageAudio, type PageAudioHandle } from '@/components/PageAudio';
 import { PassageText, sentenceAround, type ReadAlong } from '@/components/PassageText';
+import { ReadAloudButton } from '@/components/ReadAloudButton';
 import { WordSheet, type WordSheetState } from '@/components/WordSheet';
 import { useI18n } from '@/i18n';
 import { saveChapterTime, takeChapterTime, useActivityTimer } from '@/lib/activity';
@@ -23,6 +31,7 @@ import { isFreeChapter } from '@/lib/premium';
 import { useStats } from '@/lib/stats';
 import { useTour } from '@/lib/tour';
 import type { ChapterProgress, ChapterSummary, Page, StorySummary, Token } from '@/lib/types';
+import { useReadAloud } from '@/lib/useReadAloud';
 import {
   Button,
   Icon,
@@ -32,6 +41,7 @@ import {
   colors,
   enter,
   levelColors,
+  radii,
   spacing,
 } from '@/theme';
 
@@ -94,6 +104,28 @@ export default function ChapterReader() {
     timedRef.current = data?.pages[page]?.tokens.filter((t) => t.startMs !== null) ?? [];
   }, [data, page]);
 
+  // Reading the page aloud, with feedback on each word.
+  const shownPage = data?.pages[page];
+  const readAloud = useReadAloud(shownPage?.tokens ?? NO_TOKENS, shownPage?.id ?? '', {
+    onHeard: touchActivity,
+    onError: (error) => Alert.alert(t.reader.readAloudErrorTitle, t.reader.readAloudErrors[error]),
+  });
+  const [voicePlaying, setVoicePlaying] = useState(false);
+  // The voice-over and the reading aloud share one place in the page: each starts where
+  // the other one, used last, stopped (and its place is the one shown when both stop).
+  const [lastUsed, setLastUsed] = useState<'voice' | 'mic' | null>(null);
+  const stopReadingAloud = readAloud.stop;
+  const onVoicePlaying = useCallback(
+    (playing: boolean) => {
+      setVoicePlaying(playing);
+      if (!playing) return;
+      setLastUsed('voice');
+      // The microphone would hear the voice-over.
+      stopReadingAloud();
+    },
+    [stopReadingAloud],
+  );
+
   useEffect(() => {
     let cancelled = false;
     Promise.all([
@@ -146,12 +178,68 @@ export default function ChapterReader() {
   const isLast = page >= pages.length - 1;
   const level = levelColors[story.level];
   const aligned = !!current.audioUrl && current.tokens.some((t) => t.startMs !== null);
+  const { listening, progress: readAloudProgress } = readAloud;
+  const voiceAlong = readAlongEnabled ? readAlong : null;
+  // Listening: the reading aloud's feedback. Voice-over playing: its read-along.
+  // Otherwise the place of the one used last: the reading aloud's feedback, else where
+  // the voice-over stopped, else the word chosen to start from.
+  const shownAlong: ReadAlong | null = listening
+    ? readAloudProgress
+    : voicePlaying
+      ? voiceAlong
+      : lastUsed === 'mic' && readAloudProgress?.heard
+        ? readAloudProgress
+        : (voiceAlong ?? readAloudProgress);
+  const floating = !!current.audioUrl || readAloud.available;
+
+  function toggleReadAloud() {
+    touchActivity();
+    if (listening) {
+      readAloud.stop();
+      return;
+    }
+    audioRef.current?.pause();
+    setSelected(null);
+    // Listened to last: the reader carries on after the last word the voice-over said,
+    // or from the top once it has played to the end.
+    if (lastUsed === 'voice' && aligned) {
+      if (readAlong && readAlong.readUpTo >= 0) readAloud.startAt(readAlong.readUpTo + 1);
+      else readAloud.reset();
+    }
+    setLastUsed('mic');
+    void readAloud.start();
+  }
+
+  /** Read aloud last: the voice-over starts at the next word to read (null: as usual). */
+  function voiceResumeAt(): number | null {
+    if (lastUsed !== 'mic' || !readAloudProgress?.heard) return null;
+    const next = readAloudProgress.current;
+    if (next === null) return null;
+    const token = current.tokens.find((t) => t.position >= next && t.startMs !== null);
+    return token?.startMs ?? null;
+  }
+
+  /**
+   * Double tap (or tap, per the setting) on a word: the voice-over and the reading aloud
+   * both start from it. While listening, only the reading aloud moves (the voice-over
+   * would be heard by the microphone).
+   */
+  function playFromWord(token: Token) {
+    touchActivity();
+    setSelected(null);
+    readAloud.startAt(token.position);
+    if (!listening && aligned && token.startMs !== null) {
+      audioRef.current?.playFrom(token.startMs);
+    }
+  }
 
   function goTo(target: number) {
     touchActivity();
     setPage(target);
     setSelected(null);
     setReadAlong(null);
+    setVoicePlaying(false);
+    setLastUsed(null);
     // Long pages: always start reading the target one from the top.
     scrollRef.current?.scrollTo({ y: 0, animated: false });
     saveChapterPage(chapterId, target).catch((e) => console.warn('saveChapterPage', e));
@@ -206,6 +294,8 @@ export default function ChapterReader() {
   function onWordPress(token: Token) {
     touchActivity();
     if (!token.lemma) return;
+    // The word's pronunciation in the sheet must not be heard as the reader's voice.
+    readAloud.stop();
     const lemma = token.lemma;
     // A word of an expression adds the expression ("shut up"), not the word alone.
     const phrase = token.phrase?.lemma ?? null;
@@ -246,7 +336,7 @@ export default function ChapterReader() {
         <ScrollView
           ref={scrollRef}
           onScrollBeginDrag={touchActivity}
-          contentContainerStyle={[styles.body, current.audioUrl ? styles.bodyWithAudio : null]}>
+          contentContainerStyle={[styles.body, floating ? styles.bodyWithAudio : null]}>
           <Text variant="caption" color={level.shade}>
             {t.reader.header(chapter.position + 1, chapter.title, page + 1, pages.length)}
           </Text>
@@ -257,14 +347,11 @@ export default function ChapterReader() {
                 written={current.written}
                 selectedPosition={selected}
                 onWordPress={onWordPress}
-                readAlong={readAlongEnabled ? readAlong : null}
+                readAlong={shownAlong}
                 readColor={level.shade}
                 currentColor={level.soft}
-                onWordPlay={
-                  aligned
-                    ? (t) => t.startMs !== null && audioRef.current?.playFrom(t.startMs)
-                    : undefined
-                }
+                onWordPlay={aligned || readAloud.available ? playFromWord : undefined}
+                playUntimed={readAloud.available}
                 playGesture={playGesture}
               />
             </View>
@@ -289,18 +376,40 @@ export default function ChapterReader() {
           ) : null}
         </ScrollView>
         {/* Floating over the text, so the voice-over can be paused at any scroll position. */}
-        {current.audioUrl ? (
-          <View ref={target('audio')} collapsable={false} style={styles.audio}>
-            <PageAudio
-              key={`audio-${current.id}`}
-              uri={current.audioUrl}
-              color={level.solid}
-              shade={level.shade}
-              onTime={aligned && readAlongEnabled ? onAudioTime : undefined}
-              // Replaying from the start: back to the top to follow the voice.
-              onRestart={() => scrollRef.current?.scrollTo({ y: 0, animated: true })}
-              ref={audioRef}
-            />
+        {floating ? (
+          <View style={styles.audio} pointerEvents="box-none">
+            {listening && !readAloudProgress ? (
+              <Animated.View entering={enter.fade()} style={styles.listeningHint}>
+                <Text variant="caption" color={level.shade}>
+                  {t.reader.listening}
+                </Text>
+              </Animated.View>
+            ) : null}
+            {readAloud.available ? (
+              <ReadAloudButton
+                listening={listening}
+                color={level.solid}
+                shade={level.shade}
+                onPress={toggleReadAloud}
+              />
+            ) : null}
+            {current.audioUrl ? (
+              <View ref={target('audio')} collapsable={false}>
+                <PageAudio
+                  key={`audio-${current.id}`}
+                  uri={current.audioUrl}
+                  color={level.solid}
+                  shade={level.shade}
+                  // Followed even without the highlighting: the reading aloud resumes there.
+                  onTime={aligned ? onAudioTime : undefined}
+                  onPlayingChange={onVoicePlaying}
+                  resumeAt={aligned ? voiceResumeAt : undefined}
+                  // Replaying from the start: back to the top to follow the voice.
+                  onRestart={() => scrollRef.current?.scrollTo({ y: 0, animated: true })}
+                  ref={audioRef}
+                />
+              </View>
+            ) : null}
           </View>
         ) : null}
       </View>
@@ -350,7 +459,10 @@ export default function ChapterReader() {
           setSheet(null);
           setSelected(null);
         }}
-        onSpeak={() => audioRef.current?.pause()}
+        onSpeak={() => {
+          audioRef.current?.pause();
+          readAloud.stop();
+        }}
         onUpgrade={() => {
           setSheet(null);
           setSelected(null);
@@ -361,6 +473,8 @@ export default function ChapterReader() {
     </SafeAreaView>
   );
 }
+
+const NO_TOKENS: Token[] = [];
 
 /** The highlight runs this much ahead of the voice: the time it takes to show. */
 const LEAD_MS = 60;
@@ -403,7 +517,22 @@ const styles = StyleSheet.create({
   body: { padding: spacing.xl, gap: spacing.lg, paddingBottom: spacing.xxxl },
   // Room under the last line so the floating player never hides it.
   bodyWithAudio: { paddingBottom: PAGE_AUDIO_SIZE + spacing.xl * 2 },
-  audio: { position: 'absolute', right: spacing.xl, bottom: spacing.lg },
+  audio: {
+    position: 'absolute',
+    right: spacing.xl,
+    bottom: spacing.lg,
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing.sm,
+  },
+  listeningHint: {
+    backgroundColor: colors.surface,
+    borderRadius: radii.pill,
+    borderWidth: 2,
+    borderColor: colors.border,
+    paddingHorizontal: spacing.md,
+    paddingVertical: spacing.xs,
+  },
   hint: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: spacing.xs },
   footer: {
     flexDirection: 'row',

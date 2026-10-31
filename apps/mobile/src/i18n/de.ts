@@ -135,6 +135,17 @@ export const de: Messages = {
     chapterTitle: (n, title) => `Kapitel ${n} · ${title}`,
     play: 'Seite anhören',
     pause: 'Vorlesen pausieren',
+    readAloud: 'Seite laut vorlesen',
+    stopReadingAloud: 'Lautes Lesen beenden',
+    listening: 'Lies die Seite laut vor…',
+    readAloudErrorTitle: 'Laut lesen',
+    readAloudErrors: {
+      permission: 'Erlaube den Mikrofonzugriff in den Telefoneinstellungen, um laut zu lesen.',
+      unavailable: 'Die englische Spracherkennung ist auf diesem Telefon nicht verfügbar.',
+      network:
+        'Die Spracherkennung braucht eine Internetverbindung. Versuch es erneut, wenn du online bist.',
+      failed: 'Die Spracherkennung wurde beendet. Versuch es erneut.',
+    },
   },
   wordSheet: {
     wordAlone: 'Einzelnes Wort: ',

@@ -134,6 +134,18 @@ export const it: Messages = {
     chapterTitle: (n, title) => `Capitolo ${n} · ${title}`,
     play: 'Ascolta la pagina',
     pause: 'Metti in pausa la lettura',
+    readAloud: 'Leggi la pagina ad alta voce',
+    stopReadingAloud: 'Interrompi la lettura ad alta voce',
+    listening: 'Leggi la pagina ad alta voce…',
+    readAloudErrorTitle: 'Lettura ad alta voce',
+    readAloudErrors: {
+      permission:
+        'Consenti l’accesso al microfono nelle impostazioni del telefono per leggere ad alta voce.',
+      unavailable: 'Il riconoscimento vocale in inglese non è disponibile su questo telefono.',
+      network:
+        'Il riconoscimento vocale ha bisogno di una connessione internet. Riprova quando sei connesso.',
+      failed: 'Il riconoscimento vocale si è interrotto. Riprova.',
+    },
   },
   wordSheet: {
     wordAlone: 'Parola da sola: ',

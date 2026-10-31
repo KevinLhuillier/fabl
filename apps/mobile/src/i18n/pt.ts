@@ -134,6 +134,17 @@ export const pt: Messages = {
     chapterTitle: (n, title) => `Capítulo ${n} · ${title}`,
     play: 'Ouvir a página',
     pause: 'Pausar a leitura',
+    readAloud: 'Ler a página em voz alta',
+    stopReadingAloud: 'Parar a leitura em voz alta',
+    listening: 'Leia a página em voz alta…',
+    readAloudErrorTitle: 'Leitura em voz alta',
+    readAloudErrors: {
+      permission: 'Permita o acesso ao microfone nos ajustes do celular para ler em voz alta.',
+      unavailable: 'O reconhecimento de voz em inglês não está disponível neste celular.',
+      network:
+        'O reconhecimento de voz precisa de conexão com a internet. Tente de novo quando estiver conectado.',
+      failed: 'O reconhecimento de voz parou. Tente de novo.',
+    },
   },
   wordSheet: {
     wordAlone: 'Palavra sozinha: ',

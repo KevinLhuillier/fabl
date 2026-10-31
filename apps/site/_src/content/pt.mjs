@@ -58,7 +58,7 @@ export default {
       body: (u, c) => `
 <article class="wrap doc">
   <h1>Política de privacidade</h1>
-  <p class="updated">Última atualização: 29 de outubro de 2026</p>
+  <p class="updated">Última atualização: 31 de outubro de 2026</p>
 
   <p>
     Esta política explica quais dados o aplicativo Taleway (“o aplicativo”) coleta, por quê, e
@@ -123,8 +123,18 @@ export default {
     <li>Sem publicidade, sem rastreadores de anúncios.</li>
     <li>Sem ferramentas de análise de terceiros.</li>
     <li>Não vendemos nem compartilhamos seus dados para fins comerciais.</li>
-    <li>Sem acesso ao microfone, à câmera, aos contatos nem à sua localização.</li>
+    <li>Sem acesso à câmera, aos contatos nem à sua localização.</li>
   </ul>
+
+  <h2>Microfone e leitura em voz alta</h2>
+  <p>
+    O microfone só é usado quando você inicia a leitura em voz alta de uma página, e só
+    enquanto ela estiver ativa. Sua voz é convertida em texto pelo serviço de reconhecimento de
+    voz do seu celular (Google no Android, Apple no iOS), que pode processá-la em seus
+    servidores conforme a própria política de privacidade. O Taleway recebe apenas o texto
+    reconhecido, usa-o no celular para comparar sua leitura com a página e não guarda nem a
+    gravação nem o texto.
+  </p>
 
   <h2>Operadores</h2>
   <ul>
