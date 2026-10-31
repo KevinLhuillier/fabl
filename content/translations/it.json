@@ -138,6 +138,12 @@
       "example": "Every person was a mix of many feelings, one on top of another, like layers in a cake."
     },
     {
+      "word": "a pair of",
+      "pos": "PHRASE",
+      "translation": "un paio di",
+      "example": "Milo sat in the garage, and he looked at a pair of glasses on the table."
+    },
+    {
       "word": "a word with",
       "pos": "PHRASE",
       "translation": "due parole con («I'd like a word with her»: vorrei scambiare due parole con lei)",
@@ -1916,6 +1922,12 @@
       "example": "He had shaved, which he did twice a year at most, and put on the good coat — the brown one with the mended elbow that smelled faintly of cedar from the chest where it lived."
     },
     {
+      "word": "at night",
+      "pos": "PHRASE",
+      "translation": "di notte, la notte",
+      "example": "She worked long hours, sometimes at night, sometimes at weekends."
+    },
+    {
       "word": "at once",
       "pos": "PHRASE",
       "translation": "subito, immediatamente; allo stesso tempo"
@@ -1943,6 +1955,18 @@
       "pos": "PHRASE",
       "translation": "a costo di, al prezzo di",
       "example": "But Ilse knew a place on the western side, below the glasshouses, where the blackthorn had grown thin around the trunk of a dead oak and a determined person could wriggle through on their stomach, at the cost of a torn coat and a great many scratches."
+    },
+    {
+      "word": "at the end",
+      "pos": "PHRASE",
+      "translation": "alla fine",
+      "example": "At the end, she added the numbers two times."
+    },
+    {
+      "word": "at the end of",
+      "pos": "PHRASE",
+      "translation": "alla fine di, in fondo a",
+      "example": "Her house was at the end of Church Lane, a small stone cottage with a green door."
     },
     {
       "word": "at the far end",
@@ -3160,6 +3184,12 @@
       "pos": "PROPN",
       "translation": "BetStar (nome di un sito di scommesse)",
       "example": "Again and again, in Mark's personal account, there was the same name: BETSTAR ONLINE."
+    },
+    {
+      "word": "better",
+      "pos": "ADJ",
+      "translation": "migliore, meglio («Better.»: così va meglio)",
+      "example": "Now it took two seconds. Better."
     },
     {
       "word": "better left unsaid",
@@ -5932,6 +5962,12 @@
       "pos": "NOUN",
       "translation": "il formaggio",
       "example": "The innkeeper's daughter, a sharp-eyed girl named Maud, brought them bread, cheese and a pot of hot stew."
+    },
+    {
+      "word": "chef",
+      "pos": "NOUN",
+      "translation": "lo chef, il cuoco",
+      "example": "He looked at a photo of a famous chef."
     },
     {
       "word": "chemical",
@@ -10344,6 +10380,12 @@
       "example": "In the middle of the yard lay a heavy training dummy dressed in old overalls, the weight of a real adult."
     },
     {
+      "word": "Dunmore",
+      "pos": "PROPN",
+      "translation": "Dunmore (cognome)",
+      "example": "The head teacher, Mrs Dunmore, who was always angry."
+    },
+    {
       "word": "dunnage",
       "pos": "NOUN",
       "translation": "lo stivaggio («dunnage warehouse»: magazzino tradizionale con pavimento in terra)",
@@ -12244,6 +12286,12 @@
       "example": "During philosophy, while Madame Ferrand talked about freedom and responsibility, he kept rubbing his thumb against his middle finger under the desk, tracing tiny half-circles in the air."
     },
     {
+      "word": "Ferraro",
+      "pos": "PROPN",
+      "translation": "Ferraro (cognome)",
+      "example": "NAME: Danny Ferraro"
+    },
+    {
       "word": "Ferry",
       "pos": "PROPN",
       "translation": "Ferry («Pull's Ferry»: antica porta d'acqua sul Wensum, a Norwich; «ferry»: il traghetto)",
@@ -13072,6 +13120,12 @@
       "example": "She never kept flyers."
     },
     {
+      "word": "flying",
+      "pos": "ADJ",
+      "translation": "volante",
+      "example": "\"Flying shoes\" was a bad idea."
+    },
+    {
       "word": "focus",
       "pos": "NOUN",
       "translation": "la concentrazione",
@@ -13232,6 +13286,12 @@
       "pos": "PHRASE",
       "translation": "a lungo",
       "example": "Max looked at it for a long time."
+    },
+    {
+      "word": "for a moment",
+      "pos": "PHRASE",
+      "translation": "per un momento, un attimo",
+      "example": "Milo stopped breathing for a moment."
     },
     {
       "word": "for a second",
@@ -16388,6 +16448,12 @@
       "example": "\"Then your uncle's a man with his head screwed on.\""
     },
     {
+      "word": "head teacher",
+      "pos": "PHRASE",
+      "translation": "il preside, la preside",
+      "example": "The head teacher, Mrs Dunmore, who was always angry."
+    },
+    {
       "word": "headache",
       "pos": "NOUN",
       "translation": "il mal di testa",
@@ -17076,6 +17142,12 @@
       "pos": "PROPN",
       "translation": "Hollow («cavo», in «Hollow Wilds»)",
       "example": "Other woodcutters in the Hollow Wilds were less particular."
+    },
+    {
+      "word": "Hollybush",
+      "pos": "PROPN",
+      "translation": "Hollybush («Hollybush Road»: nome di via)",
+      "example": "HOME: 12 Hollybush Road, Leicester"
     },
     {
       "word": "Holt",
@@ -18391,7 +18463,7 @@
     {
       "word": "infirmary",
       "pos": "NOUN",
-      "translation": "l'infermeria",
+      "translation": "l'infermeria; («Leicester Royal Infirmary»: il grande ospedale di Leicester)",
       "example": "There is a reason the Academy keeps a very good infirmary."
     },
     {
@@ -18968,6 +19040,18 @@
       "pos": "NOUN",
       "translation": "i jeans",
       "example": "He jumped out of bed, pulled on yesterday's jeans, grabbed his phone and ran down the stairs."
+    },
+    {
+      "word": "Jen",
+      "pos": "PROPN",
+      "translation": "Jen (nome, diminutivo di Jennifer)",
+      "example": "His mum, Jen Hartley, stood next to the cooker."
+    },
+    {
+      "word": "Jennifer",
+      "pos": "PROPN",
+      "translation": "Jennifer (nome)",
+      "example": "NAME: Jennifer Hartley"
     },
     {
       "word": "Jerez",
@@ -20404,6 +20488,12 @@
       "example": "Herbs gone leggy and yellow at the tips."
     },
     {
+      "word": "Leicester",
+      "pos": "PROPN",
+      "translation": "Leicester (città dell'Inghilterra centrale)",
+      "example": "Milo Hartley was thirteen years old, and he lived in a small house in Leicester with his mum."
+    },
+    {
       "word": "leisure",
       "pos": "NOUN",
       "translation": "il tempo libero («leisure centre»: centro sportivo)",
@@ -20744,6 +20834,12 @@
       "pos": "ADV",
       "translation": "probabilmente («very likely»: molto probabilmente)",
       "example": "It's an act of faith in a future you'll very likely not attend."
+    },
+    {
+      "word": "likes",
+      "pos": "NOUN",
+      "translation": "i gusti, le cose che piacciono",
+      "example": "LIKES: no information"
     },
     {
       "word": "Lille",
@@ -22106,6 +22202,12 @@
       "example": "\"It was a medium week,\" said Maya, and he nodded as if that was important information."
     },
     {
+      "word": "medium",
+      "pos": "NOUN",
+      "translation": "il mezzo, il media (plurale: «media»)",
+      "example": "It looked at social media, at company websites, at public lists, at old newspaper pages, at everything."
+    },
+    {
       "word": "meet",
       "pos": "VERB",
       "translation": "incontrare, conoscere",
@@ -22436,6 +22538,12 @@
       "example": "The third blue door was on Mill Lane, the last street before the river."
     },
     {
+      "word": "Milo",
+      "pos": "PROPN",
+      "translation": "Milo (nome)",
+      "example": "Milo Hartley was thirteen years old, and he lived in a small house in Leicester with his mum."
+    },
+    {
       "word": "mince",
       "pos": "NOUN",
       "translation": "la carne macinata («mince pie»: tortina natalizia alla frutta secca)",
@@ -22512,6 +22620,12 @@
       "pos": "NOUN",
       "translation": "l'attività mineraria («mining town»: città mineraria)",
       "example": "You come from the forest villages of the south and the mining towns of the northern mountains, from the fishing ports of the western coast and the windswept heights of the east."
+    },
+    {
+      "word": "Minister",
+      "pos": "PROPN",
+      "translation": "Minister («Prime Minister»: il primo ministro; «minister»: il ministro)",
+      "example": "He looked at a photo of the Prime Minister."
     },
     {
       "word": "ministry",
@@ -23882,6 +23996,12 @@
       "example": "\"That's not the point,\" she said."
     },
     {
+      "word": "not yet",
+      "pos": "PHRASE",
+      "translation": "non ancora",
+      "example": "But he did not say it. Not yet."
+    },
+    {
       "word": "note",
       "pos": "NOUN",
       "translation": "la nota ; l'avviso",
@@ -24629,6 +24749,12 @@
       "pos": "PHRASE",
       "translation": "uno per uno, uno alla volta",
       "example": "Fire made the old spirals glow, one by one, like embers being blown on."
+    },
+    {
+      "word": "one day",
+      "pos": "PHRASE",
+      "translation": "un giorno",
+      "example": "\"One day, please tell me something interesting.\""
     },
     {
       "word": "one last time",
@@ -27295,6 +27421,18 @@
       "example": "They had been in the same class at primary school, and she was the only friend from those days he still saw regularly."
     },
     {
+      "word": "Prime",
+      "pos": "PROPN",
+      "translation": "Prime («Prime Minister»: il primo ministro)",
+      "example": "He looked at a photo of the Prime Minister."
+    },
+    {
+      "word": "prime minister",
+      "pos": "PHRASE",
+      "translation": "il primo ministro",
+      "example": "He looked at a photo of the Prime Minister."
+    },
+    {
       "word": "prince",
       "pos": "NOUN",
       "translation": "il principe",
@@ -27407,6 +27545,12 @@
       "pos": "ADJ",
       "translation": "profondo",
       "example": "What stood beside the shrine, nose to tail, were four long, high-sided farm wagons, each with a canvas hood patched in three different colours and hitched to a pair of shaggy brown oxen who were chewing with the slow, profound indifference of creatures that had seen everything and been impressed by none of it."
+    },
+    {
+      "word": "program",
+      "pos": "NOUN",
+      "translation": "il programma (informatico)",
+      "example": "He wrote the computer program himself."
     },
     {
       "word": "progress",
@@ -27575,6 +27719,12 @@
       "pos": "NOUN",
       "translation": "il pub",
       "example": "It had one church, one pub, one bakery, a school with forty children and a river that was too cold for swimming even in August."
+    },
+    {
+      "word": "public",
+      "pos": "ADJ",
+      "translation": "pubblico, pubblica",
+      "example": "It looked at social media, at company websites, at public lists, at old newspaper pages, at everything."
     },
     {
       "word": "puddle",
@@ -29844,6 +29994,12 @@
       "example": "Standing in the royal tent, surrounded by lords in fine clothes, Edwin showed them the cut strap."
     },
     {
+      "word": "Royal",
+      "pos": "PROPN",
+      "translation": "Royal («Leicester Royal Infirmary»: il grande ospedale di Leicester; «royal»: reale)",
+      "example": "JOB: Nurse, Leicester Royal Infirmary"
+    },
+    {
       "word": "Ruaridh",
       "pos": "PROPN",
       "translation": "Ruaridh (nome scozzese)",
@@ -30256,6 +30412,12 @@
       "pos": "ADJ",
       "translation": "stesso",
       "example": "For four years he had served as squire to Sir Godfrey, a knight whose name was respected throughout the county, and every one of those mornings had begun in exactly the same way."
+    },
+    {
+      "word": "Samuel",
+      "pos": "PROPN",
+      "translation": "Samuel (nome)",
+      "example": "NAME: Samuel Okafor"
     },
     {
       "word": "sandwich",
@@ -30682,6 +30844,12 @@
       "pos": "NOUN",
       "translation": "lo schermo",
       "example": "\"That's not one of ours,\" she said, frowning at her screen."
+    },
+    {
+      "word": "screw",
+      "pos": "NOUN",
+      "translation": "la vite",
+      "example": "On the table there were old computers, broken phones, small cameras, screws, wires, batteries and many, many boxes."
     },
     {
       "word": "screw",
@@ -31644,6 +31812,12 @@
       "example": "Cabot Circus was Bristol's biggest shopping centre, a huge building of glass and steel with a roof shaped like a wave."
     },
     {
+      "word": "shopping list",
+      "pos": "PHRASE",
+      "translation": "la lista della spesa",
+      "example": "He helped his mum with the shopping list."
+    },
+    {
       "word": "shopping trolley",
       "pos": "PHRASE",
       "translation": "il carrello della spesa",
@@ -32116,6 +32290,12 @@
       "pos": "ADJ",
       "translation": "cantilenante",
       "example": "He closed his good eye, and recited, in a slow, sing-song voice, like a child repeating a lesson:"
+    },
+    {
+      "word": "singer",
+      "pos": "NOUN",
+      "translation": "il cantante, la cantante",
+      "example": "He looked at a photo of a singer."
     },
     {
       "word": "singing",
@@ -32944,6 +33124,18 @@
       "pos": "VERB",
       "translation": "singhiozzare",
       "example": "\"I never wanted to burn anything,\" he sobbed."
+    },
+    {
+      "word": "social",
+      "pos": "ADJ",
+      "translation": "sociale («social media»: i social network)",
+      "example": "It looked at social media, at company websites, at public lists, at old newspaper pages, at everything."
+    },
+    {
+      "word": "social media",
+      "pos": "PHRASE",
+      "translation": "i social, i social network",
+      "example": "It looked at social media, at company websites, at public lists, at old newspaper pages, at everything."
     },
     {
       "word": "sock",
@@ -36401,6 +36593,12 @@
       "example": "The third round was not beautiful."
     },
     {
+      "word": "thirteen",
+      "pos": "NUM",
+      "translation": "tredici",
+      "example": "Milo Hartley was thirteen years old, and he lived in a small house in Leicester with his mum."
+    },
+    {
       "word": "thirty",
       "pos": "NUM",
       "translation": "trenta",
@@ -37025,6 +37223,12 @@
       "example": "She showed me a terrace full of tomato plants, a pigeon who thought he was a king, and a place on top of a high wall where you could see the two rivers, the Rhône and the Saône, shining in the dark."
     },
     {
+      "word": "tomato sauce",
+      "pos": "PHRASE",
+      "translation": "il sugo di pomodoro, la salsa di pomodoro",
+      "example": "It was pasta with tomato sauce and a little cheese."
+    },
+    {
       "word": "tomorrow",
       "pos": "NOUN",
       "translation": "domani",
@@ -37593,6 +37797,12 @@
       "pos": "ADJ",
       "translation": "vero («come true»: avverarsi)",
       "example": "He understood, at that moment, that her words had finally come true."
+    },
+    {
+      "word": "TRUELENS",
+      "pos": "PROPN",
+      "translation": "TRUELENS (nome del programma di Milo: «true» vero + «lens» lente)",
+      "example": "He called it TRUELENS."
     },
     {
       "word": "truly",

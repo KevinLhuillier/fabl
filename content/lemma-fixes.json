@@ -336,6 +336,13 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "Better",
+      "pos": "ADV",
+      "next": ".",
+      "word": "better",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "bin",
       "pos": "PROPN",
       "word": "bin",
@@ -505,6 +512,12 @@
       "pos": "ADJ",
       "word": "brave",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Bread",
+      "pos": "PROPN",
+      "word": "bread",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "breaking",
@@ -1163,6 +1176,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Dinner",
+      "pos": "PROPN",
+      "word": "dinner",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "dipping",
       "pos": "NOUN",
       "word": "dip",
@@ -1356,6 +1375,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "EVERYTHING",
+      "pos": "PROPN",
+      "word": "everything",
+      "lemmaPos": "PRON"
+    },
+    {
       "text": "ex",
       "pos": "NOUN",
       "next": "-",
@@ -1405,6 +1430,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "FACE",
+      "pos": "PROPN",
+      "word": "face",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "facing",
       "pos": "NOUN",
       "word": "face",
@@ -1437,6 +1468,12 @@
     },
     {
       "text": "Family",
+      "pos": "PROPN",
+      "word": "family",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "FAMILY",
       "pos": "PROPN",
       "word": "family",
       "lemmaPos": "NOUN"
@@ -1612,6 +1649,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Flying",
+      "pos": "NOUN",
+      "word": "flying",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "fog",
       "pos": "PROPN",
       "word": "fog",
@@ -1653,6 +1696,12 @@
       "pos": "NOUN",
       "word": "forties",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "FOUND",
+      "pos": "PROPN",
+      "word": "find",
+      "lemmaPos": "VERB"
     },
     {
       "text": "four",
@@ -2093,6 +2142,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "HELLO",
+      "pos": "PROPN",
+      "word": "hello",
+      "lemmaPos": "INTJ"
+    },
+    {
       "text": "Hers",
       "pos": "NOUN",
       "word": "hers",
@@ -2152,6 +2207,12 @@
       "pos": "PROPN",
       "word": "home",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "HOME",
+      "pos": "PROPN",
+      "word": "home",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Honesty",
@@ -2388,6 +2449,12 @@
       "pos": "NOUN",
       "word": "jingle",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "JOB",
+      "pos": "PROPN",
+      "word": "job",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "jog",
@@ -2913,6 +2980,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "MILO",
+      "pos": "PROPN",
+      "word": "Milo",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "mine",
       "pos": "ADJ",
       "word": "mine",
@@ -3225,6 +3298,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Nurse",
+      "pos": "PROPN",
+      "word": "nurse",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "OCTOBER",
       "pos": "PROPN",
       "word": "October",
@@ -3434,6 +3513,12 @@
       "next": "eight",
       "word": "past",
       "lemmaPos": "ADP"
+    },
+    {
+      "text": "Pasta",
+      "pos": "PROPN",
+      "word": "pasta",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Patience",
@@ -3741,6 +3826,12 @@
       "next": "-",
       "word": "re-form",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "READY",
+      "pos": "PROPN",
+      "word": "ready",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "recited",
@@ -4071,6 +4162,12 @@
       "pos": "ADV",
       "word": "saintly",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "SALARY",
+      "pos": "PROPN",
+      "word": "salary",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "satchel",
@@ -4602,6 +4699,14 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "stranger",
+      "pos": "NOUN",
+      "prev": "a",
+      "next": ".",
+      "word": "stranger",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Stream",
       "pos": "PROPN",
       "word": "stream",
@@ -4732,6 +4837,12 @@
       "text": "syllable",
       "pos": "ADJ",
       "word": "syllable",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "SYSTEM",
+      "pos": "PROPN",
+      "word": "system",
       "lemmaPos": "NOUN"
     },
     {
@@ -5106,6 +5217,12 @@
       "pos": "NOUN",
       "word": "tremble",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "TRUELENS",
+      "pos": "ADJ",
+      "word": "TRUELENS",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Tuesdays",
@@ -5634,6 +5751,12 @@
       "pos": "NOUN",
       "word": "yourselves",
       "lemmaPos": "PRON"
+    },
+    {
+      "text": "Zero",
+      "pos": "PROPN",
+      "word": "zero",
+      "lemmaPos": "NUM"
     }
   ]
 }
