@@ -823,6 +823,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "cleverer",
+      "pos": "NOUN",
+      "word": "clever",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "climbing",
       "pos": "NOUN",
       "word": "climb",
@@ -965,6 +971,12 @@
       "text": "coughing",
       "pos": "NOUN",
       "next": ",",
+      "word": "cough",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "coughing",
+      "pos": "NOUN",
       "word": "cough",
       "lemmaPos": "VERB"
     },
@@ -2654,6 +2666,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "jetty",
+      "pos": "PROPN",
+      "word": "jetty",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "jingling",
       "pos": "NOUN",
       "word": "jingle",
@@ -3328,6 +3346,12 @@
       "pos": "PROPN",
       "word": "miss",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Missing",
+      "pos": "PROPN",
+      "word": "missing",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "mistook",
@@ -4933,6 +4957,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "south",
+      "pos": "PROPN",
+      "word": "south",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "southern",
       "pos": "PROPN",
       "word": "southern",
@@ -4964,6 +4994,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Spoken",
+      "pos": "VERB",
+      "word": "speak",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "spread",
       "pos": "NOUN",
       "word": "spread",
@@ -4986,6 +5022,12 @@
       "pos": "NOUN",
       "word": "squat",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "stammer",
+      "pos": "NOUN",
+      "word": "stammer",
+      "lemmaPos": "VERB"
     },
     {
       "text": "stared",
@@ -5229,6 +5271,12 @@
     {
       "text": "swinging",
       "pos": "ADJ",
+      "word": "swing",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "swinging",
+      "pos": "NOUN",
       "word": "swing",
       "lemmaPos": "VERB"
     },

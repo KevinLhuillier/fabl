@@ -648,6 +648,12 @@
       "example": "I wrote Unmarked in my book and signed it, and the next day a woman who has been meddling in this Academy's affairs for twenty-six years walked into my supper with a Writ nobody had seen in ninety, and asked me to put my name to it."
     },
     {
+      "word": "affect",
+      "pos": "VERB",
+      "translation": "influenzare, colpire",
+      "example": "When Ione asked, she would say things like, \"Oh, we're studying how certain compounds affect the nervous system,\" or \"It's complicated, darling, and most of it is very dull."
+    },
+    {
       "word": "affection",
       "pos": "NOUN",
       "translation": "l'affetto",
@@ -735,6 +741,12 @@
       "pos": "PHRASE",
       "translation": "contro la loro volontà",
       "example": "Alasdair, it also transpired, was Ruaridh's uncle, and had telephoned from the hospital in Inverness — where he and Isla had been taken, much against their will, for observation — to deliver a lengthy and, in Ruaridh's words, \"frankly embarrassing\" account of Gideon's conduct."
+    },
+    {
+      "word": "Agathe",
+      "pos": "PROPN",
+      "translation": "Agathe (nome femminile)",
+      "example": "A woman called Agathe who stopped being able to recognise her own family."
     },
     {
       "word": "age",
@@ -1952,6 +1964,12 @@
       "pos": "VERB",
       "translation": "supporre, dare per scontato",
       "example": "Rowan had assumed he would be excused."
+    },
+    {
+      "word": "assumption",
+      "pos": "NOUN",
+      "translation": "il presupposto, l’ipotesi",
+      "example": "But that skill depended on a single assumption, so deep that she had never even noticed it: that every word, taken by itself, was true."
     },
     {
       "word": "astonished",
@@ -4800,6 +4818,12 @@
       "example": "\"You are attacking like an angry bull,\" Godfrey said, after knocking Edwin's sword out of his hand for the third time."
     },
     {
+      "word": "bump",
+      "pos": "VERB",
+      "translation": "urtare leggermente, sbattere",
+      "example": "The ferry bumped gently against the south jetty."
+    },
+    {
       "word": "bun",
       "pos": "NOUN",
       "translation": "lo chignon, la crocchia; il panino dolce",
@@ -5898,6 +5922,18 @@
       "example": "He had written speeches for three prime ministers and apologies for two royal princes, and it was said that he had once written a statement for a chemical company that was so perfectly constructed that the newspapers had praised the company for its honesty on the same day it poisoned a river."
     },
     {
+      "word": "chemist",
+      "pos": "NOUN",
+      "translation": "il chimico",
+      "example": "Her mother had been a chemist."
+    },
+    {
+      "word": "chemistry",
+      "pos": "NOUN",
+      "translation": "la chimica",
+      "example": "The best of them was a woman who worked on the compound itself — the chemistry of it."
+    },
+    {
       "word": "coming",
       "pos": "ADJ",
       "translation": "prossimo, a venire",
@@ -5914,6 +5950,12 @@
       "pos": "ADJ",
       "translation": "complesso",
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
+    },
+    {
+      "word": "compound",
+      "pos": "NOUN",
+      "translation": "il composto (chimico)",
+      "example": "Some kind of compound they'd developed."
     },
     {
       "word": "confidential",
@@ -5956,6 +5998,12 @@
       "pos": "VERB",
       "translation": "trasformare, convertire",
       "example": "Tallow Reach was a quarter of old warehouses converted into flats, with iron staircases on the outside walls and washing hanging across the alleys."
+    },
+    {
+      "word": "convincing",
+      "pos": "ADJ",
+      "translation": "convincente",
+      "example": "And I can be very convincing, when I need to be."
     },
     {
       "word": "copy down",
@@ -9822,6 +9870,12 @@
       "example": "Tamsin had claimed the spot beside him before anyone else could, and had spent the first hour offering him food from her mother's parcels with a determined cheerfulness that he suspected was entirely for his benefit."
     },
     {
+      "word": "develop",
+      "pos": "VERB",
+      "translation": "svilupparsi, evolversi; sviluppare",
+      "example": "Not how our symptoms were developing — how we felt."
+    },
+    {
       "word": "dew",
       "pos": "NOUN",
       "translation": "la rugiada",
@@ -10132,6 +10186,12 @@
       "pos": "NOUN",
       "translation": "lo strofinaccio",
       "example": "Bram filled the doorway, his sleeves rolled up and a dishcloth in one fist."
+    },
+    {
+      "word": "dishonesty",
+      "pos": "NOUN",
+      "translation": "la disonestà",
+      "example": "She had expected many things, but not this strange, almost gentle honesty about his own dishonesty."
     },
     {
       "word": "dislike",
@@ -11304,6 +11364,12 @@
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
     },
     {
+      "word": "ferry",
+      "pos": "NOUN",
+      "translation": "il traghetto",
+      "example": "Instead he led her down to the river, where the last ferry of the evening was waiting at the old stone jetty, its engine coughing and its single lamp swinging in the wind."
+    },
+    {
       "word": "fine",
       "pos": "VERB",
       "translation": "multare",
@@ -11418,6 +11484,12 @@
       "example": "The company wanted to close it next summer, when the new road was finished and nobody would be inconvenienced."
     },
     {
+      "word": "injection",
+      "pos": "NOUN",
+      "translation": "l’iniezione",
+      "example": "\"Injections, mostly."
+    },
+    {
       "word": "inspection",
       "pos": "NOUN",
       "translation": "l’ispezione, il controllo",
@@ -11452,6 +11524,12 @@
       "pos": "PROPN",
       "translation": "Ione (nome di battesimo; la protagonista, una «phraser»)",
       "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
+    },
+    {
+      "word": "jetty",
+      "pos": "NOUN",
+      "translation": "il molo, l’imbarcadero",
+      "example": "Instead he led her down to the river, where the last ferry of the evening was waiting at the old stone jetty, its engine coughing and its single lamp swinging in the wind."
     },
     {
       "word": "jewellery",
@@ -11514,6 +11592,12 @@
       "example": "Lucan Mere, said the name beneath the photograph."
     },
     {
+      "word": "manual",
+      "pos": "NOUN",
+      "translation": "il manuale",
+      "example": "I was a translator — I translated technical manuals, mostly, very boring work — and the company I worked for closed."
+    },
+    {
       "word": "manufacturer",
       "pos": "NOUN",
       "translation": "il produttore",
@@ -11532,6 +11616,12 @@
       "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
     },
     {
+      "word": "meaning",
+      "pos": "NOUN",
+      "translation": "il significato, il senso",
+      "example": "She knew how to hear the gap between what a person said and what they meant."
+    },
+    {
       "word": "meantime",
       "pos": "NOUN",
       "translation": "l’intervallo (« in the meantime »: nel frattempo)",
@@ -11548,6 +11638,12 @@
       "pos": "NOUN",
       "translation": "la metafora",
       "example": "It was not a metaphor."
+    },
+    {
+      "word": "milky",
+      "pos": "ADJ",
+      "translation": "latteo, lattiginoso",
+      "example": "The sentence simply left him, as easily as breath, and hung in the cold air above the very black, very un-milky water of the Sull."
     },
     {
       "word": "millimetre",
@@ -11584,6 +11680,24 @@
       "pos": "NOUN",
       "translation": "il motto",
       "example": "The Bureau of Candour occupied a vast white building on the north bank of the Sull, with tall columns and a motto carved above its doors: Nothing But What Is So."
+    },
+    {
+      "word": "mournful",
+      "pos": "ADJ",
+      "translation": "lamentoso, mesto",
+      "example": "The ferry's horn sounded, long and mournful, as they approached the south bank."
+    },
+    {
+      "word": "murder",
+      "pos": "VERB",
+      "translation": "assassinare",
+      "example": "Your mother was murdered."
+    },
+    {
+      "word": "musician",
+      "pos": "NOUN",
+      "translation": "il musicista, la musicista",
+      "example": "Without that assumption, she felt like a musician who had suddenly lost her hearing."
     },
     {
       "word": "nation",
@@ -11676,6 +11790,12 @@
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
     },
     {
+      "word": "pharmaceutical",
+      "pos": "ADJ",
+      "translation": "farmaceutico",
+      "example": "She had worked for a pharmaceutical company."
+    },
+    {
       "word": "phrase",
       "pos": "VERB",
       "translation": "formulare (« carefully phrased »: formulato con cura)",
@@ -11740,6 +11860,12 @@
       "pos": "NOUN",
       "translation": "la professione",
       "example": "\"I'm sure I don't need to explain what that means to two members of your profession.\""
+    },
+    {
+      "word": "professional",
+      "pos": "NOUN",
+      "translation": "il professionista, la professionista",
+      "example": "\"Spoken like a true professional."
     },
     {
       "word": "programme",
@@ -11844,10 +11970,22 @@
       "example": "It was located on the coast, about forty miles from here, near the village of Saltreach."
     },
     {
+      "word": "sample",
+      "pos": "NOUN",
+      "translation": "il campione",
+      "example": "They took the remaining samples of the compound."
+    },
+    {
       "word": "satisfy",
       "pos": "VERB",
       "translation": "soddisfare (« self-satisfied »: compiaciuto)",
       "example": "Lantry was an old city, built on both banks of the Sull, and it had the slightly self-satisfied air of a place that had never been bombed, flooded or seriously embarrassed."
+    },
+    {
+      "word": "seizure",
+      "pos": "NOUN",
+      "translation": "la crisi convulsiva",
+      "example": "Headaches first, then fevers, then seizures."
     },
     {
       "word": "server",
@@ -11862,10 +12000,22 @@
       "example": "Rebecca Shaw put her hand on her mouth."
     },
     {
+      "word": "side",
+      "pos": "ADJ",
+      "translation": "lato (« side by side »: fianco a fianco)",
+      "example": "They stood side by side at the rail, watching the lights of the city slide across the black water."
+    },
+    {
       "word": "society",
       "pos": "NOUN",
       "translation": "la società",
       "example": "In a society where everyone told the truth, she still managed to be more truthful than most, because she never hid behind the clever omissions that everyone else used."
+    },
+    {
+      "word": "stammer",
+      "pos": "VERB",
+      "translation": "balbettare",
+      "example": "Then, after a few months, a few of us began to — not speak, exactly, but stammer."
     },
     {
       "word": "stare",
@@ -11880,6 +12030,12 @@
       "example": "Something started to move in his head. Like a small machine starting up."
     },
     {
+      "word": "stern",
+      "pos": "NOUN",
+      "translation": "la poppa",
+      "example": "Lucan bought two tickets and led Ione to the stern, where the noise of the engine was loudest."
+    },
+    {
       "word": "Stop",
       "pos": "PROPN",
       "translation": "lo Stop (nella storia: il blocco fisico che impedisce di dire ciò che si sa falso)",
@@ -11890,6 +12046,12 @@
       "pos": "ADJ",
       "translation": "schietto, diretto",
       "example": "Bettany was the most straightforward person Ione knew."
+    },
+    {
+      "word": "strain",
+      "pos": "NOUN",
+      "translation": "lo sforzo, la tensione",
+      "example": "There was no tightening in his throat, no hesitation, no trace of strain on his face."
     },
     {
       "word": "Sull",
@@ -11914,6 +12076,18 @@
       "pos": "VERB",
       "translation": "sostenere",
       "example": "The Bureau supported this work because we wished to understand the Stop better."
+    },
+    {
+      "word": "survivor",
+      "pos": "NOUN",
+      "translation": "il sopravvissuto",
+      "example": "They took the survivors, too — the ones who were ill — and moved them to a hospital in the city."
+    },
+    {
+      "word": "symptom",
+      "pos": "NOUN",
+      "translation": "il sintomo",
+      "example": "Not how our symptoms were developing — how we felt."
     },
     {
       "word": "Tallow",
@@ -11952,6 +12126,12 @@
       "example": "\"\"Thriving."
     },
     {
+      "word": "tightening",
+      "pos": "NOUN",
+      "translation": "la contrazione, la stretta",
+      "example": "There was no tightening in his throat, no hesitation, no trace of strain on his face."
+    },
+    {
       "word": "toothpaste",
       "pos": "NOUN",
       "translation": "il dentifricio",
@@ -11964,16 +12144,46 @@
       "example": "Trams rattled along the quays."
     },
     {
+      "word": "transfer",
+      "pos": "NOUN",
+      "translation": "il trasferimento",
+      "example": "So when a man from the Bureau asked me whether I had any family I could stay with while they arranged my transfer, I said yes."
+    },
+    {
+      "word": "translate",
+      "pos": "VERB",
+      "translation": "tradurre",
+      "example": "I was a translator — I translated technical manuals, mostly, very boring work — and the company I worked for closed."
+    },
+    {
+      "word": "translator",
+      "pos": "NOUN",
+      "translation": "il traduttore, la traduttrice",
+      "example": "I was a translator — I translated technical manuals, mostly, very boring work — and the company I worked for closed."
+    },
+    {
       "word": "treatable",
       "pos": "ADJ",
       "translation": "curabile",
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
     },
     {
+      "word": "treatment",
+      "pos": "NOUN",
+      "translation": "il trattamento",
+      "example": "\"The treatment lasted eight months,\" Lucan went on."
+    },
+    {
       "word": "truthfully",
       "pos": "ADV",
       "translation": "sinceramente, con franchezza",
       "example": "\"I don't know who he was,\" said Ione truthfully."
+    },
+    {
+      "word": "un",
+      "pos": "ADJ",
+      "translation": "un- (prefisso di negazione: « un-milky » = per nulla latteo)",
+      "example": "The sentence simply left him, as easily as breath, and hung in the cold air above the very black, very un-milky water of the Sull."
     },
     {
       "word": "underwater",
@@ -12010,6 +12220,12 @@
       "pos": "NOUN",
       "translation": "il volontario",
       "example": "Some of the volunteers who took part in the trials became ill."
+    },
+    {
+      "word": "volunteer",
+      "pos": "VERB",
+      "translation": "offrirsi volontario",
+      "example": "\"Why did you volunteer?\""
     },
     {
       "word": "waistcoat",

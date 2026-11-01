@@ -218,3 +218,132 @@ She turned. He was leaning against the wall beneath an iron staircase, in the sa
 That made him smile, very slightly. "You speak like a phraser," he said.
 "I am a phraser."
 "I know," said Lucan Mere. "That's why I've been waiting for you."
+
+# Questions with Edges
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_1-1793535584446.mp3
+He would not talk in the alley. "Too many windows," he said, glancing up at the dark warehouse walls. "And people in Tallow Reach have very good ears." Instead he led her down to the river, where the last ferry of the evening was waiting at the old stone jetty, its engine coughing and its single lamp swinging in the wind.
+The Sull ferry was the oldest boat in Lantry. It crossed the river every twenty minutes between the docks and the fish market on the south bank, and almost nobody used it any more, because the bridges were quicker. That evening there were only three other passengers: a fisherman asleep against a pile of nets, and an elderly couple sharing a bag of chips. Lucan bought two tickets and led Ione to the stern, where the noise of the engine was loudest. They stood side by side at the rail, watching the lights of the city slide across the black water.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_2-1793535596951.mp3
+For a while neither of them spoke. Ione found that she did not know how to begin. All her professional life she had been listening to people and measuring their words. She knew how to hear the gap between what a person said and what they meant. But that skill depended on a single assumption, so deep that she had never even noticed it: that every word, taken by itself, was true. Without that assumption, she felt like a musician who had suddenly lost her hearing.
+"You're wondering whether to believe anything I say," said Lucan.
+"Yes."
+"That's sensible. In your position, I'd wonder the same thing." He looked at her. In the swinging lamplight his eyes were very dark. "I can tell you that I won't lie to you tonight. But of course, if I were planning to lie to you, I would say exactly the same thing. So it doesn't help much, does it?"
+"No," said Ione. "It doesn't."
+"Then perhaps you should just ask me questions," he said. "And decide for yourself."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_3-1793535609240.mp3
+She had expected many things, but not this strange, almost gentle honesty about his own dishonesty. She held the cold iron rail and thought for a moment. Then she began, carefully, as if she were stepping onto ice.
+"In the café," she said. "When you said it was raining. You knew it wasn't."
+"Yes."
+"And you said it anyway. Deliberately."
+"Yes."
+"Why?"
+He considered this. "Because I wanted a coffee to take away, and I didn't want Mrs Pennick to ask me to sit down and chat. She does that, if she likes your face. I don't like being looked at for too long." He shrugged. "It was a small, stupid lie. A lazy one. I tell them sometimes, just to remind myself that I still can."
+"Still can?"
+"It's not always — " He stopped, and frowned at the water. "It doesn't always work the same way. Some days are easier than others."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_4-1793535621774.mp3
+Ione filed this away. "Can you do it now? Say something false. Something you know is false."
+Lucan looked at her for a long moment. Then he said, quite calmly: "The river is made of milk."
+She had known it was coming. She had asked for it. And still, when the words came out, something in her stomach dropped, the way it does when you miss a step on a staircase. There was no tightening in his throat, no hesitation, no trace of strain on his face. The sentence simply left him, as easily as breath, and hung in the cold air above the very black, very un-milky water of the Sull.
+She realised that she had taken a step back from him.
+"I'm sorry," said Lucan quietly. "Everybody does that. The first time."
+"How many people have you shown?"
+"Not many. Three. Four, including you." He turned back to the rail. "It's not the sort of thing you can talk about at parties."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_5-1793535636937.mp3
+The ferry rolled slightly as it moved into the middle of the river, where the current was strongest. On the north bank, high above the water, Ione could see the white columns of the Bureau of Candour, lit up like a temple. She thought of Odette Crale's pale eyes, and the word Missing written in neat black ink.
+"You were at the Corvane Institute," she said. It was not a question.
+"You've seen the file."
+"I've seen a file. I don't know how complete it is."
+That made him smile again. "Spoken like a true professional." Then the smile faded. "Yes. I was at Corvane. I was one of the volunteers in the last trial. There were seventeen of us."
+"Why did you volunteer?"
+"Money, at first," he said. "I'd lost my job. I was a translator — I translated technical manuals, mostly, very boring work — and the company I worked for closed. The institute was paying well. They put an advertisement in the paper asking for healthy adults to help with research into speech. It didn't say anything about the Stop." He paused. "By the time they told us what they were really doing, most of us had already signed the forms."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_6-1793535650502.mp3
+"And you didn't leave?"
+"No. Partly because of the money. Partly — " He hesitated. "Partly because I was curious. Imagine it. Imagine being told that you could be the first person in history to do something that every human being has always believed was impossible. Wouldn't you want to know what it felt like?"
+Ione thought of her pen, frozen above the page, refusing to write it is raining. She did not answer.
+"The treatment lasted eight months," Lucan went on. "Injections, mostly. Some kind of compound they'd developed. And exercises — hours and hours of exercises. They'd show us a red card and ask us to say it was blue. At first, nobody could. Then, after a few months, a few of us began to — not speak, exactly, but stammer. Get halfway through the word. It hurt. It felt like swallowing glass." He touched his throat without seeming to notice. "Then people began to get sick."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_7-1793535661362.mp3
+He told her about it in a flat, even voice, as if he were translating a technical manual. Headaches first, then fevers, then seizures. A woman called Agathe who stopped being able to recognise her own family. A young man who began to say false things without meaning to, and then could not stop, and then could not tell any more which of his own words were true. The first death, in the sixth month. The second, two weeks later.
+"They should have stopped then," said Lucan. "Some of the researchers wanted to. There were arguments — I heard some of them, through the walls. But the people in charge said we were too close."
+"Too close to what?"
+"To success." He looked down at his hands on the rail. "And they were right, in the end. In the seventh month, I said that a red card was blue. It hurt, but I said it. Two weeks later I could do it without any pain at all. By the end of the trial, I was the only one."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_8-1793535675935.mp3
+"The only one who could lie?"
+"The only one who could lie, and still knew he was lying." He said it simply, without pride. "There's a difference. I'll explain it to you one day, if you want."
+The ferry's horn sounded, long and mournful, as they approached the south bank. The fisherman woke up, looked around him in confusion, and went back to sleep.
+"What happened when the trial ended?" asked Ione.
+"They closed the institute. Very suddenly. One morning there were men from the Bureau in the corridors — men in dark suits who didn't introduce themselves. They took all the files. They took the remaining samples of the compound. They took the survivors, too — the ones who were ill — and moved them to a hospital in the city. I was supposed to go with them." He gave a short, dry laugh. "But I had learned something important at Corvane. I'd learned that if someone asks you a question, you don't have to tell them the truth. So when a man from the Bureau asked me whether I had any family I could stay with while they arranged my transfer, I said yes. I gave him an address. Then I walked out of the front door and never went back."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_9-1793535686284.mp3
+"You've been hiding for two years?"
+"More or less. I've moved around. I have friends, a few. And I can be very convincing, when I need to be." He glanced at her. "It's surprisingly easy to hide, in a country where nobody believes it's possible to lie. People never check anything."
+Ione was silent for a moment. Then she asked the question that had been sitting in her chest all evening.
+"You said you'd been waiting for me. Why me? You'd never seen me before the café."
+"No," he agreed. "I hadn't. But I'd heard your name."
+"From whom?"
+The ferry bumped gently against the south jetty. A boy in a woollen hat jumped onto the stones and began to tie the ropes. The elderly couple stood up, brushing salt from their coats. Lucan did not move.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_10-1793535698637.mp3
+"There were researchers at Corvane who were kind to us," he said slowly. "Not many. Two or three. The best of them was a woman who worked on the compound itself — the chemistry of it. She used to come and sit with us in the evenings, after the exercises. She asked us how we felt. Not how our symptoms were developing — how we felt. Nobody else did that." He paused. "She was the one who argued hardest to stop the trial. And she used to talk about her daughter."
+The cold seemed to come up from the river and into Ione's bones.
+"She had a photograph," Lucan said, "that she kept in her laboratory coat. A girl of about twenty, standing on a beach, laughing at something. She told me her daughter was clever with words — cleverer than anyone she knew. She said she'd become a phraser, one day, and that she'd be very good at it, and that it would make her unhappy." He turned and looked at Ione directly. "Her name was Rosalind Halvey."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_11-1793535709099.mp3
+Ione could not speak.
+Her mother had been a chemist. That was true; that was the only thing Ione had ever known about her work. She had worked for a pharmaceutical company. She had travelled a great deal, and come home tired, and talked very little about her job. When Ione asked, she would say things like, "Oh, we're studying how certain compounds affect the nervous system," or "It's complicated, darling, and most of it is very dull." Ione had never pushed. Why would she? Her mother could not lie. If she said it was dull, then she believed it was dull.
+But she had not said it was dull. Ione heard the sentence again in her memory, with the trained ear of a phraser. Most of it is very dull. Not all of it. Most.
+Her mother had been phrasing.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_12-1793535722551.mp3
+"She died," Ione said. Her voice sounded strange to her, far away. "Eight years ago. There was an accident at — " She stopped. "At her laboratory. That's what we were told."
+"I know," said Lucan gently. "I'm sorry."
+"But that doesn't make sense. You said the trial ended two years ago. You said she sat with you, in the evenings — "
+"The project at Corvane began long before my trial. There were earlier trials. Earlier versions of the compound." He hesitated. "Your mother didn't die in an accident, Ione. Or rather — I don't believe she did. And I don't think you do either, now."
+The boy in the woollen hat was calling to them from the jetty. The ferry was going back to the north bank, he said, and if they wanted to stay on, they'd have to buy another ticket.
+Lucan reached into his coat and paid the boy without looking at him. The engine coughed. The boat pulled away from the stones, and the lights of the fish market slid backwards into the darkness.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_13-1793535733734.mp3
+"Why should I believe you?" said Ione at last. She was gripping the rail so tightly that her fingers had gone white. "You've just shown me that you can say anything you like. The river is made of milk. It's raining. Your mother was murdered. Why should any of it be true?"
+"You shouldn't believe me," said Lucan. "Not because I say so. That's the whole point." He was quiet for a moment. "But your mother left something behind. I don't know what it is. She told me once that if anything happened to her, she'd made sure that the truth would end up with the one person who'd know how to read it. She said her daughter would understand, because her daughter knew how to find what's hidden inside a sentence."
+"And you want me to find it."
+"Yes."
+"Why? What do you get out of it?"
+He turned his face towards the river. Behind him, on the north bank, the white columns of the Bureau shone in the darkness.
+"I'd like to stop being the only one," he said.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_14-1793535739932.mp3
+Ione looked at him for a long time. She listened to the words, the way she had been trained to listen. She felt for the edges of them, the places where meaning might slip. And for the first time in her life, she realised, it was not enough. She could hear everything he said. She could not hear whether it was true.
+The ferry crossed the black water, and neither of them spoke again until it reached the shore.
