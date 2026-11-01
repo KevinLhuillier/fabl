@@ -486,3 +486,372 @@ Ione opened her mouth. And then she stopped, because she felt it — the faint, 
 Her grandmother saw her hesitate, and understood. She reached across the table and took Ione's hand in her own dry, bony fingers.
 "Yes," said Hester softly. "That's what I thought."
 They sat together in the kitchen while the rain fell on the harbour and the tea grew cold in the pot, and between them, on the table, lay the black notebook, full of true things that nobody had yet understood.
+
+# The Bureau
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_5.page_1-1793539593968.mp3
+The letter was waiting for her when she got back to Lantry on Sunday evening. It had been pushed under her door, not posted, and it was written on thick cream paper with the seal of the Bureau of Candour stamped at the top: an open eye above an open mouth.
+Miss Halvey, it said. The Deputy Director would be grateful if you could attend a short meeting at the Bureau tomorrow at nine o'clock, in connection with the statement you are preparing. Your cooperation is greatly appreciated.
+Ione read it three times. It was beautifully phrased. It did not say that she was required to attend. It did not say what would happen if she didn't. It said only that the Deputy Director would be grateful, which was almost certainly true, and that her cooperation was greatly appreciated, which, since she had not yet cooperated with anything, was a sentence about the future disguised as a sentence about the present. Somebody at the Bureau was very good at their job.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_5.page_2-1793539607698.mp3
+She did not sleep much that night either. She sat at her kitchen table until two in the morning with her mother's notebook open in front of her, reading the strange sentences again and again until the words began to swim. The sea is the colour of what the gulls remember. Seven of the twelve were never asked. She understood none of it yet. But she was beginning to feel the shape of it, the way you feel the shape of a room in the dark.
+At half past two she wrapped the notebook in its yellow scarf and put it inside the lining of an old winter coat at the back of her wardrobe. It was a stupid hiding place, and she knew it. But she could not think of a better one, and she could not bring herself to carry it around the city.
+At nine o'clock the next morning, she climbed the white steps of the Bureau of Candour and walked beneath the carved words above the door. Nothing But What Is So.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_5.page_3-1793539621652.mp3
+A young man in a grey suit met her in the marble entrance hall and led her up three flights of stairs and along a corridor lined with portraits of former directors. He did not speak. He did not need to. Ione had the strong impression that everything about the building — the silence, the height of the ceilings, the cold echo of their footsteps — had been designed to make visitors feel small. It was a kind of phrasing, she thought. A statement made of stone.
+Odette Crale's office was at the end of the corridor. It was a large, bare room with a single window looking out over the river. There was a desk with nothing on it, two chairs, and on the wall behind the desk, a framed copy of the oath that every new employee of the Bureau had to recite on their first day. Ione knew it by heart, like every schoolchild. I will ask what must be asked. I will hear what is answered. I will not hide in silence what the people have a right to know.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_5.page_4-1793539637233.mp3
+"Miss Halvey." Odette rose from behind the desk and indicated the empty chair. "Thank you for coming. Please, sit."
+Ione sat. Odette did not. She walked slowly to the window and stood there with her back to the room, looking down at the Sull.
+"How is the statement progressing?" she asked.
+"Slowly," said Ione. "It's a complicated matter."
+"It is. That's why I chose you." Odette turned round. In the grey morning light her face was very pale and her eyes were almost colourless. "I'm going to ask you some questions now, Miss Halvey. I'm sure you understand that in this building, questions are taken seriously. You are not obliged to answer them. But I will notice if you don't."
+"I understand."
+"Good." Odette came back to the desk and sat down at last, folding her long hands on its empty surface. "On Thursday evening, after our meeting, you took the number nine tram to Tallow Reach. You went to a building on Rope Walk. Why?"
+So they had followed her. Ione had half expected it. She kept her hands still in her lap and her voice level.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_5.page_5-1793539651241.mp3
+"I went to look at an address," she said.
+"Whose address?"
+"An address from the file you gave me."
+"I didn't ask you where the address came from. I asked whose it was."
+"It was the address of one of the volunteers," said Ione. "It was printed under his photograph."
+"Lucan Mere."
+"Yes."
+"Why did you want to see it?"
+Ione had spent half the night preparing for this moment. She knew, as every phraser knew, that the most dangerous thing in an interrogation was not a hard question but a simple one, because simple questions left so little room to move. Why did you go there? There were a hundred true answers to that, and only a few of them were safe.
+"Because I'm writing a statement about the Corvane Institute," she said, "and I always like to see the places I'm writing about. It helps me to understand them. I went to look at the outside of the building, and I stood in front of it for some time. You can ask anyone at Peel and Ashgrove. I do the same thing with every client."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_5.page_6-1793539665685.mp3
+All true. She did like to see the places she wrote about. She had gone to the Marlow Street Bridge before writing about it. She had visited the Kessler Hotel, and walked through its corridors, and stood in front of the locked fire door. It was simply not the whole reason, and Odette had not asked for the whole reason.
+Odette looked at her for a moment. Then she gave a small, dry nod, the way a chess player nods when an opponent makes a competent but predictable move.
+"Did you meet anyone in Tallow Reach?" she asked.
+"I met several people. It's a busy area."
+"Did you speak to anyone?"
+"Yes."
+"To whom?"
+And there it was. The direct question, with no room left to move. Ione felt the familiar tightening at the base of her throat, not yet the Stop, but its warning — the body's way of saying: be careful, you are very close to the edge.
+She could refuse to answer. That was always possible. But a refusal, here, in this room, would be an answer in itself. Odette would hear it as clearly as if Ione had said his name.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_5.page_7-1793539681912.mp3
+So instead, she did something else.
+"Deputy Director," she said, "may I ask you a question before I answer?"
+Odette raised one eyebrow. "You may."
+"When you came to Peel and Ashgrove last week, you commissioned me to write a statement about the Corvane Institute on behalf of the Bureau. Is that correct?"
+"It is."
+"And I accepted the commission."
+"You did."
+"Then I'm sure you're aware," said Ione, "of Section Fourteen of the Phrasers' Act."
+For the first time, something moved in Odette Crale's face. It was only a flicker, there and gone. But Ione had spent seven years watching clients' faces, and she saw it.
+Section Fourteen was the oldest and most important protection in her profession. It had been written into law a hundred years ago, when the first phrasers had begun to work for courts and governments. It said, in essence, that nothing a phraser learned in the course of preparing a statement for a client could be demanded from them by anyone else — not by the police, not by a court, and not by any department of the state. Without it, nobody would ever trust a phraser with anything. Every conversation, every document, every visit to every building would be open to the world.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_5.page_8-1793539697567.mp3
+"Everything I've done since Thursday," Ione said, "has been in the course of preparing your statement. Including the visit to Tallow Reach, and anything I saw or heard there. So I'm afraid I'm not able to discuss it. Not with anyone outside my firm. Not even, I think, with the Bureau." She paused, and added gently: "Unless the Bureau would like to withdraw its commission. In which case, of course, I would be happy to return the file, and the matter would be closed."
+The silence in the office was long and cold. Outside the window, a gull drifted past on the wind.
+Then Odette Crale laughed. It was a short, genuine laugh, the first natural sound Ione had heard her make.
+"Well," she said. "Augustin did warn me that you were good."
+"He warned me about you as well."
+"I'm sure he did." Odette leaned back in her chair and studied Ione with something that might almost have been admiration. "You understand, of course, that you've just told me a great deal."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_5.page_9-1793539713872.mp3
+"I've told you that I'm protected by law."
+"You've told me that there is something to protect." Odette spread her hands. "But never mind. I can't use it, and you know I can't. Not unless I withdraw the commission. And if I withdraw the commission, you'll go home and tell Augustin, and Augustin will tell everyone he's ever had dinner with, which is everyone of any importance in this city, that the Bureau of Candour tried to force a phraser to break Section Fourteen. And that would be very embarrassing indeed." She smiled. "So we'll leave it there, I think. For now."
+She stood up and went back to the window. When she spoke again, her voice was different — quieter, almost conversational.
+"Your mother was a remarkable woman, you know."
+Ione went very still.
+"Oh, yes," said Odette, without turning round. "I knew Rosalind Halvey. Not well, but well enough. She was the most gifted chemist the Corvane Institute ever employed. She was the one who understood that the Stop is not a wall inside the brain, but a door. A very heavy, very old door, that has been shut for so long that everyone has forgotten it was ever open." She paused. "It was her work that made the last trial possible. Did you know that?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_5.page_10-1793539730428.mp3
+"No," said Ione. It came out as barely more than a whisper.
+"No, I imagine not. She was a private person." Odette turned round. "She was also, at the end, very foolish. She came to believe that her work was dangerous — that it should be destroyed. She was wrong. And she paid for her mistake."
+"Paid how?"
+Odette looked at her for a long moment, and did not answer. And her silence, Ione realised, was not a refusal. It was a phrase of its own, deliberately chosen. It said: you already know.
+"Let me tell you something, Miss Halvey," said Odette, "because I think you're intelligent enough to understand it. Every country on this earth lives under the Stop. Every one. Our allies, our rivals, our enemies. Every diplomat, every general, every spy. Do you know what that means? It means that power, in this world, belongs to whoever asks the best questions. It always has. That's what this building is for." She gestured at the oath on the wall. "But imagine a single person who did not have to answer truthfully. Imagine sending that person into a negotiation, or across a border, or into the office of a foreign minister. Imagine a country that had a hundred such people. A thousand."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_5.page_11-1793539743102.mp3
+Ione stared at her.
+"The first nation to learn to lie," said Odette Crale softly, "will rule all the nations that cannot. That is not a threat, Miss Halvey. That is not even an opinion. It is simply what is so."
+She walked to the door and opened it. The young man in the grey suit was waiting outside, as if he had never moved.
+"I look forward to reading your statement," said Odette. "I hope it will be calm. And if, in the course of your research, you should come across anything your mother left behind — any papers, any notes — I hope you'll remember that they are the property of the Bureau, which paid for every hour of her work." She smiled her pale smile. "Section Fourteen protects what you learn. It doesn't protect what you steal."
+The young man walked Ione back down the three flights of stairs, through the marble hall, and out into the cold grey morning. She stood at the bottom of the white steps for a moment, breathing deeply, trying to stop her hands from shaking.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_5.page_12-1793539759621.mp3
+They wanted the notebook. They knew it existed — or they suspected it. And they knew that Ione was the one who might be able to read it.
+She began to walk, quickly, without knowing where she was going. Along the quay, across the square, past the giant toothpaste advertisement on the wall of the customs house. Recommended by more dentists than any other toothpaste we make. She had admired that sentence a week ago. Now she found that she could not look at it.
+It was only when she reached the corner of Weaver's Row that she noticed the man in the brown raincoat. He was about thirty yards behind her, reading a newspaper as he walked. She had seen him before — on the steps of the Bureau, she thought, and again by the customs house.
+She stopped to look in a shop window. The man stopped too, and turned a page of his newspaper.
+Ione walked on. Her heart was pounding. She thought of the old winter coat at the back of her wardrobe, and the black notebook wrapped in yellow silk inside its lining. She thought of the letter pushed under her door, not posted.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_5.page_13-1793539770513.mp3
+They had been inside her building. Perhaps they had been inside her flat.
+She did not go home. She turned instead towards the old town, where the streets grew narrow and crooked and the buildings leaned towards one another overhead, and she walked until she found a small, dark bookshop with a cracked window and a sign above the door that simply read: Books, Mostly.
+She went inside, to a counter piled high with paperbacks, behind which sat an elderly man with a cat on his lap.
+"I'm looking for a book," said Ione. Her voice was not quite steady. "Something by Rosalind Halvey."
+The old man looked at her over his spectacles for a very long time. Then he nodded, lifted the cat gently onto the counter, and reached for a pen.
+
+# Lucan's Version
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_6.page_1-1793539782746.mp3
+The old man's name was Fennimore — at least, that was the name painted in faded gold letters on the inside of the bookshop door — and he asked Ione no questions at all. He wrote something on a slip of paper, folded it twice, and gave it to a boy of about twelve who appeared from the back of the shop, ate a biscuit, and disappeared into the street. Then he made Ione a cup of very strong tea, showed her to a small room behind the shop that was filled from floor to ceiling with books, and left her there with the cat.
+"He'll come when it's dark," was the only thing he said. "He usually does."
+While she waited, Ione used the telephone on Fennimore's desk to call the hospital. It took ten minutes and three different receptionists before Bettany came on the line, sounding breathless and annoyed.
+"I'm in the middle of a shift," she said. "Is somebody dead?"
+"No. I need a favour. A big one."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_6.page_2-1793539800420.mp3
+"How big?"
+Ione told her. Not everything — not on a telephone line, not in a world where anyone might be asked, later, what they had heard. But enough. She asked Bettany to use the spare key she had always kept, to go to Ione's flat after her shift, and to take the old blue winter coat from the back of the wardrobe. Not to look inside it. Not to go straight there, if she could help it. To bring it to the bookshop on Lantern Lane in the old town, and to ask for Mr Fennimore.
+There was a long silence on the line.
+"Ione," said Bettany at last. "Are you in trouble?"
+"Yes," said Ione. It was the first time she had said it aloud, and the word felt heavy and strange in her mouth.
+"Is it the man who said it was raining?"
+"Partly."
+Another silence. Then Bettany sighed, the long, exasperated sigh of a woman who has spent her whole life being the sensible one. "My shift ends at seven," she said. "I'll be there by nine. And then you're going to tell me everything, and I mean everything, or I'll take the coat and wear it myself."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_6.page_3-1793539815803.mp3
+Lucan arrived just after eight. He came in through a back door that Ione had not noticed, bringing the cold of the evening with him, and stood in the doorway of the little room among the books, looking at her.
+"You went to the Bureau," he said.
+"They invited me."
+"I know. I watched you go in." He came and sat down on a pile of encyclopaedias opposite her. "I was afraid you wouldn't come out."
+"So was I."
+She told him about Odette Crale: the questions, Section Fourteen, the speech about the first nation to learn to lie. He listened without interrupting, his thin face very still. When she reached the part about her mother — the door, not the wall; she paid for her mistake — he closed his eyes briefly, as if something had hurt him.
+"She knew your mother better than I thought," he said when she had finished.
+"She wants the notebook."
+"Yes." He opened his eyes. "Do you have it?"
+Ione did not answer. Instead, she said: "Tell me again. From the beginning. Everything about Corvane."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_6.page_4-1793539832346.mp3
+He looked at her for a moment, as if he were trying to understand why. Then he shrugged and began.
+He told it much as he had told it on the ferry, but slowly this time, and in more detail. The advertisement in the newspaper. The low grey building on the cliff above Saltreach. The seventeen volunteers, the injections, the red cards, the long hours of exercises in white rooms. The headaches and the seizures. The arguments he had heard through the walls. The woman in the laboratory coat who came to sit with them in the evenings and asked them how they felt.
+"Describe her," said Ione.
+"Your mother?" He frowned. "She was — I don't know. Small. Dark hair, going grey. She always had ink on her fingers. She laughed a lot, even when things were bad. Especially when things were bad."
+"What did she smell of?"
+He hesitated. It was only a fraction of a second. "Coffee," he said. "And something chemical. I never knew what."
+Every word of it matched Ione's own memories. That should have reassured her. Instead, it made her feel cold, because it was exactly what a clever man would say if he had learned about Rosalind Halvey from someone who knew her well.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_6.page_5-1793539844919.mp3
+At nine o'clock there was a knock at the back door, and Bettany came in with the blue winter coat folded over her arm and an expression like thunder. She looked at Lucan. Lucan looked at her.
+"So you're the one," said Bettany.
+"I'm afraid so," said Lucan.
+"Say something false."
+He glanced at Ione. She nodded. He turned back to Bettany and said politely: "You look very well rested."
+Bettany stared at him. Then she sat down heavily on a stack of old atlases, put her head in her hands, and said a word that her grandmother would not have approved of.
+It took Ione nearly an hour to tell her friend everything. By the time she had finished, Fennimore had brought more tea and a plate of stale cake, and the cat had fallen asleep in Bettany's lap. Bettany said very little while Ione talked. But she listened in the way that only Bettany could listen: completely, without judgement, as if every word were being weighed on a scale.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_6.page_6-1793539860133.mp3
+Then Ione took the coat, opened the lining with a pair of Fennimore's scissors, and took out the black notebook in its yellow silk scarf.
+She had spent most of Sunday night and every spare moment since with these pages. She had begun, slowly, to understand how her mother's mind worked. The sentences were not random. They were statements written in the same way that Ione wrote statements for clients: every word true, every word chosen to hide as much as it revealed. Once she began to read them as a phraser, rather than as a daughter, some of them had started to open.
+"Listen to this," she said, and read aloud. "Seven of the twelve were never asked."
+"Meaning?" said Bettany.
+"I think it's about a trial. Not your trial," she said to Lucan. "An earlier one. There's a date written next to it, in a corner, very small — nine years ago. Twelve volunteers. But seven of them were never asked. Never asked to take part. They weren't volunteers at all." She looked up. "I think the institute was using people who didn't know what was being done to them. Patients, perhaps. Prisoners. People nobody would miss."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_6.page_7-1793539873381.mp3
+Bettany's face had gone very pale.
+"Here's another one," said Ione. "What the red card said is not what the red card was. That's the first sign of success, I think. The first time anyone managed to call a red card blue. Look — there's a date beside it, too. Eight years and four months ago." She turned the page carefully. "And after that, the writing changes. It gets smaller, and faster. And then it stops."
+She held up the notebook so that they could see. The last entry, apart from the single line on the final page, was dated eight years ago — two weeks before Rosalind Halvey died.
+"There's nothing in here," said Ione quietly, "about any trial after that. Nothing about seventeen volunteers. Nothing about a man called Lucan Mere." She closed the notebook and looked directly at him. "My mother was dead six years before your trial began. She couldn't have sat with you in the evenings. She couldn't have shown you my photograph. She never met you."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_6.page_8-1793539886238.mp3
+The little room was suddenly very quiet. Somewhere in the shop, a clock was ticking. The cat stirred in Bettany's lap and opened one yellow eye.
+Lucan did not look away. He did not look surprised, either. He looked, if anything, almost relieved — like a man who has been carrying something heavy for a long time and has finally been allowed to put it down.
+"No," he said. "She didn't."
+"You lied to me."
+"Yes."
+"On the ferry. The first time we really spoke. About my mother."
+"Yes."
+Bettany made a small sound, half anger, half disbelief. Ione held up a hand without looking at her.
+"Why?" she said.
+Lucan was silent for a long moment. When he spoke again, his voice was low and even, as if he were choosing every word with great care. And Ione realised, with a strange jolt, that he was — that he was speaking now in exactly the way she would, the way a phraser does, the way an honest person does when the truth matters too much to be careless with it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_6.page_9-1793539900672.mp3
+"There was another volunteer in my trial," he said. "A woman called Maren Aske. She was older than the rest of us — about forty. She'd been at Corvane before. Years before. In the earlier trial. She was one of the twelve." He looked at the notebook in Ione's hands. "One of the five who were asked, I think. She'd volunteered both times. She said she had nowhere else to go."
+"She's the other missing name," said Ione slowly. "The fair-haired woman."
+"Yes. She knew your mother. Not well — but she remembered her. The chemist who came and sat with them in the evenings. Who asked them how they felt. Who argued to stop the trial and was overruled. Maren told me everything she remembered about her: the ink on her fingers, the smell of coffee, the photograph of her daughter on the beach. She told me it all, many times, during the long nights at Corvane. It was the only good thing she had to remember about that place."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_6.page_10-1793539912326.mp3
+"And you used it."
+"Yes." He did not try to soften it. "When I saw you in Pennick's, I didn't know who you were. But when you found me in Tallow Reach, I'd already done some research. I knew your name. I knew your profession. I knew you were Rosalind Halvey's daughter. And I thought — " He stopped, and for the first time his voice was not quite steady. "I thought that if I told you the truth — that I was a stranger who had heard about your mother from another stranger — you would walk away. And if I told you that I had known her, that she had been kind to me, you would stay."
+"So you made yourself into someone I'd trust."
+"Yes."
+"How do I know you're not doing it again right now?"
+Lucan looked at her with his tired dark eyes. "You don't," he said. "You never will. That's what I've been trying to tell you since the ferry. That's what it means, to talk to someone like me."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_6.page_11-1793539926108.mp3
+Bettany spoke for the first time in several minutes. "Where's Maren now?"
+Lucan turned to her. "I don't know. We left Corvane together, the day the Bureau came. We hid together for a few months. But she was — she was getting worse. The confusion. She'd say things and not know whether they were true. One night she went out to buy bread and never came back." He rubbed his face with both hands. "I looked for her. I've been looking for her for almost two years."
+"And what do you want, Lucan?" said Ione. "Really want. Not what you told me on the ferry."
+"What I told you on the ferry was true."
+"You've just admitted that half of it wasn't."
+"Not that part." He leaned forward. "I don't want to be the only one. That's true. But I'll tell you something else, since we're being honest, or as honest as I can be. There are people outside this country who know about Corvane. People who would pay a great deal of money for your mother's notebook. More money than you or I will ever see. I've been approached, twice. Once a year ago, once three weeks ago."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_6.page_12-1793539939568.mp3
+Ione stared at him.
+"I said no," said Lucan. "Both times."
+"Did you?"
+He held her gaze. "You'll have to decide that for yourself."
+Nobody spoke for a long time. The clock ticked in the shop. Outside, somewhere in the old town, a church bell rang ten.
+At last Bettany lifted the cat gently from her lap and put it on the floor. She stood up and smoothed down her coat.
+"I don't know what to believe about you," she said to Lucan. "And I don't think I like you very much. But I'll tell you something that's true, because I'm a nurse and that's what nurses do." She turned to Ione. "There's a closed ward at my hospital. Seventh floor, east wing. Nobody's allowed in except a few senior doctors and two nurses who never talk to anybody. I was sent up there once, last spring, to deliver some medicine, because everyone else was busy. I wasn't allowed past the second door. But I heard one of the patients through it. A woman, shouting." She paused. "She was shouting a name, over and over again."
+"What name?" said Ione.
+Bettany looked at her with her steady, honest eyes.
+"She kept asking for Rosalind's girl," she said.
+
+# The Ward on the Seventh Floor
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_7.page_1-1793539958732.mp3
+It took Bettany four days to arrange it.
+She did it, she explained afterwards, without telling a single lie, which was just as well, since she couldn't have told one if she'd tried. She simply volunteered for every extra night shift in the east wing, until the senior sister grew tired of seeing her name on the list and began to give her the jobs nobody else wanted. On Friday night, one of the two nurses who worked on the seventh floor went home with a fever. Bettany was standing at the nurses' station when the call came through, holding a clipboard and looking available.
+"I can go up," she said, which was true.
+"You're not cleared for seven," said the sister.
+"Then perhaps someone who is cleared could come with me," said Bettany. "Or perhaps you'd prefer the patients to wait until Monday."
+The sister looked at her for a long, suspicious moment. Then she handed over a ring of keys.
+Getting Ione into the building was simpler. Lantry General Hospital was a vast, crumbling Victorian building with too many doors and not enough porters, and at half past one in the morning nobody looked twice at a woman in a borrowed nurse's cardigan carrying a tray of clean towels. Lucan had wanted to come. Ione had refused. "If anyone stops us," she had said, "Bettany and I can explain ourselves. You can't — or rather, you can, and that's the problem." He had not argued. He was waiting now, she knew, in an all-night café across the road from the hospital, watching the entrance.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_7.page_2-1793539971628.mp3
+The lift to the seventh floor was old and slow and smelled of disinfectant. Neither of them spoke as it climbed. When the doors opened, they stepped into a short corridor painted pale green, with a heavy door at the end of it. Bettany unlocked it. Beyond was a second corridor, and a second door, with a small window of thick glass at head height. Through the window Ione could see a dim room with six beds in it, and a single lamp burning on a desk.
+"Last chance," Bettany whispered.
+Ione shook her head. Bettany turned the key.
+The ward was warm and very quiet. Most of the patients were asleep. In the first bed lay an old man with a long white beard, breathing slowly through his mouth. In the second, a young woman with her face turned to the wall. A man of about Lucan's age sat upright in the third bed, wide awake, staring at nothing.
+"Good evening," he said as they passed, in a friendly, ordinary voice. "Lovely weather we're having. I've just come back from the moon."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_7.page_3-1793539986998.mp3
+Ione stopped. She could not help it. The words had passed through the warm air with exactly the same terrible ease as Lucan's had in Pennick's. The man smiled at her pleasantly.
+"My mother is a lighthouse," he said. "I'm forty years old. I'm nineteen years old. I've never been to this hospital before." He paused, and a faint frown crossed his face, as if he were trying to remember something. "Is that true? I don't — I can't — which one of those was true?"
+"Come on," murmured Bettany, taking Ione's arm.
+"Which one?" the man called after them, his voice rising. "Please. Which one was true? Do you know? Nobody here will tell me."
+Ione walked on with her heart hammering in her chest. She understood, now, what Lucan had tried to explain on the ferry — the difference between being able to lie and still knowing you were lying. The man in the third bed had not just escaped the Stop. He had lost the thing the Stop was attached to: the quiet, invisible certainty, inside every human being, of what was real and what was not. The door had been opened, as Odette Crale had said. But on the other side, there was no room. Only a fall.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_7.page_4-1793539999965.mp3
+The woman was in the last bed, by the window.
+She was about fifty, though she looked older. Her fair hair had gone almost white and was cut short, unevenly, as if someone had done it in a hurry. She was sitting up against her pillows, wide awake, with her hands folded on the blanket, watching them come towards her with bright, intelligent eyes.
+"Maren?" said Ione softly.
+"No," said the woman at once. "My name is Elspeth. I've never heard of anyone called Maren."
+Ione hesitated. The woman watched her with a strange, sly expression.
+"That was a lie," she added, in a confidential whisper. "I am Maren. I think I am. Most days I'm fairly sure." She looked Ione up and down, slowly, and then her face changed completely. It softened, and opened, and her eyes filled with tears. "Oh," she said. "Oh, it's you. You're Rosalind's girl. You've got her chin."
+Ione sat down on the edge of the bed. Her legs would not hold her any longer.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_7.page_5-1793540013497.mp3
+"You knew my mother," she said.
+"I never met her in my life," said Maren. Then she shook her head violently, as if she were trying to get water out of her ears. "No. No, that's not right. I knew her. She used to come in the evenings, after they'd finished with us. She'd bring biscuits. Ginger ones. Her mother made them, she said." Maren smiled through her tears. "Dry as dust, they were. We used to dip them in our tea."
+Ione had to close her eyes for a moment. Ginger biscuits. Her grandmother's dry, crumbly ginger biscuits, which she had made every week for as long as Ione could remember. Lucan had never mentioned the biscuits. He could not have known about them, unless Maren had told him — and if Maren had told him, he would surely have used them. They were exactly the kind of detail a clever liar would use.
+Which meant, Ione thought, that this, at least, was real.
+"Maren," she said gently. "I need to ask you about my mother. About what she did at Corvane. Do you remember?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_7.page_6-1793540028437.mp3
+"I remember everything," said Maren. "I remember nothing." Her hands twisted on the blanket. "It's so hard. You don't know how hard it is. Before, when I was little, if I said something, I knew. Here." She touched her chest. "I always knew. Even when I was wrong, I knew what I believed. Now I say things, and I listen to myself saying them, and I don't know if I mean them. I don't know if they happened. I tell myself stories about my life, and I can't tell which ones are mine." She looked at Ione with desperate eyes. "Do you understand? The Stop wasn't a cage. It was a keel. It kept us upright. They took it away, and now I'm just — turning over and over in the water."
+Bettany had come to stand at the foot of the bed. In the dim light, Ione could see that her friend was crying silently.
+"My mother knew that," said Ione. "Didn't she? That's why she wanted to stop it."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_7.page_7-1793540044792.mp3
+"She said — " Maren frowned with the effort of remembering. "She said we were all going to drown. All of us. Not just the volunteers. Everyone. She said if the compound ever left the institute, it would be like opening a dam. First the powerful people would take it. Spies and soldiers and governments. And then it would spread, the way things always spread, and in fifty years there'd be nobody left who knew what was true. Not because people were wicked. Just because they'd forgotten how to be sure." She paused. "She said truth isn't something we choose. It's something we stand on. And they were digging it out from under us."
+"What did she do?"
+Maren looked towards the window. Beyond the glass, the lights of the city spread out across the dark, and beyond them, invisible, the black line of the river.
+"She destroyed the samples," she said. "All of them. One night, in the eighth month. She went into the store room with a bottle of acid and she poured it over everything. Years of work. The director nearly went mad." Maren smiled faintly. "She didn't even try to hide it. She couldn't, could she? When they asked her if she'd done it, she said yes. She said she'd do it again."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_7.page_8-1793540061679.mp3
+"But the trials went on," said Ione. "Lucan's trial — the last one. Six years later. So they must have rebuilt it."
+"They tried. They had her old notes. Some of them. But they never got it right — not completely. Not without her." Maren turned back to Ione, and her eyes were suddenly very clear and very sharp. "That's why they wanted her so badly. Her notes weren't enough. They needed what was in her head. The final step — the part that made it stable. She was the only one who'd worked it out. And she wouldn't give it to them."
+"What happened to her?"
+Maren was silent. Then she said, in a small, flat voice: "She went for a walk on the cliffs, and she didn't come back."
+The room was very still.
+"Is that true?" whispered Ione.
+"I don't know," said Maren, and began to cry. "I don't know, I don't know. That's what they told us. That's what I remember. But I don't know if I remember it, or if I've just told it to myself so many times that it feels real." She seized Ione's hand with sudden, surprising strength. "But she wrote it down. The final step. She told me so, the last night before she left. She said she couldn't destroy it, because one day someone might need to understand what had been done to us — to undo it. Mend it. So she hid it. She said she put it where the daughter laughed."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_7.page_9-1793540073964.mp3
+Ione's breath caught. Begin where the daughter laughed. The line from the notebook, which she had read a hundred times without understanding.
+"Where?" she said. "Where did she mean?"
+"The photograph," said Maren. "The one in her coat. The girl on the beach." She stared at Ione. "You. It was you. You were on the beach, laughing, and the sea behind you was the colour of — of — "
+"Of what the gulls remember," said Ione slowly.
+"Yes!" Maren's face lit up. "Yes, that's what she said. That's exactly what she said. How did you know?"
+Before Ione could answer, the ward door opened.
+A tall man in a white coat stood in the doorway, with a younger man in a grey suit behind him. Ione recognised the suit before she recognised the face. It was the young man from the Bureau — the one who had led her silently up three flights of stairs and down again.
+"Nurse Osei," said the doctor sharply. "You are not cleared for this ward."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_7.page_10-1793540088024.mp3
+"No," agreed Bettany. "I'm not."
+"Who is this woman?"
+"My friend," said Bettany. "She came to help me carry towels." She lifted the tray, which still held a neat stack of white towels, and held it out like evidence.
+The young man from the Bureau stepped past the doctor. He looked at Ione, sitting on Maren's bed, holding Maren's hand. He did not seem surprised.
+"Miss Halvey," he said politely. "The Deputy Director would be very grateful if you would come with me."
+Ione stood up. Her legs were steadier now. She turned to Bettany. "Go home," she said. "Please. Whatever they ask you — tell them the truth. All of it. You haven't done anything wrong."
+"I've done several things wrong," said Bettany. "I'll tell them about all of them." She did not move, though. Her face was white and furious.
+Ione turned back to the bed one last time. Maren was looking up at her with her bright, frightened eyes.
+"Don't let them have it," Maren whispered. "Please. Don't let anyone have it. Not them. Not the man with the dark eyes. Not even you."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_7.page_11-1793540107198.mp3
+"I won't," said Ione. And her throat did not tighten. It was the first promise she had made in a long time that she knew, with complete certainty, she intended to keep.
+She followed the young man out of the ward. Behind her, as the door swung shut, she heard the man in the third bed calling into the darkness, in his pleasant, ordinary voice: "Is it raining? Can anyone tell me? Is it raining outside?"
+And nobody answered him.
+In the lift, going down, the young man from the Bureau stood beside her in silence. Ione stared at the closed metal doors and thought about a photograph she had not seen in nine years. A girl on a beach, aged twenty, laughing at something her mother had said. The sea behind her, grey and silver and green. The gulls wheeling overhead.
+It had been taken at Brindlemouth. On her birthday. On the long curve of sand beneath the cliffs, at the place where the old harbour wall ran down into the sea, that everyone in the town called Harrow Strand.
+She knew where it was. She knew exactly where her mother had stood.
+And she knew, with a cold certainty that settled in her stomach as the lift sank towards the ground floor, that she was not the only one who would soon be able to work it out.

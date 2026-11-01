@@ -122,6 +122,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "age",
+      "pos": "VERB",
+      "word": "age",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "aisle",
       "pos": "PROPN",
       "word": "aisle",
@@ -604,6 +610,12 @@
       "pos": "NOUN",
       "word": "breathe",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "breathless",
+      "pos": "NOUN",
+      "word": "breathless",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "Bridge",
@@ -1428,6 +1440,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Dry",
+      "pos": "PROPN",
+      "word": "dry",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "drystone",
       "pos": "NOUN",
       "word": "drystone",
@@ -1894,6 +1912,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Fourteen",
+      "pos": "PROPN",
+      "word": "fourteen",
+      "lemmaPos": "NUM"
+    },
+    {
       "text": "FRIDAY",
       "pos": "PROPN",
       "word": "Friday",
@@ -2289,6 +2313,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "harbour",
+      "pos": "PROPN",
+      "word": "harbour",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "hardback",
       "pos": "VERB",
       "word": "hardback",
@@ -2553,6 +2583,12 @@
     {
       "text": "imagine",
       "pos": "ADJ",
+      "word": "imagine",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "Imagine",
+      "pos": "PROPN",
       "word": "imagine",
       "lemmaPos": "VERB"
     },
@@ -3268,6 +3304,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "meant",
+      "pos": "NOUN",
+      "word": "mean",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "melt",
       "pos": "NOUN",
       "word": "melt",
@@ -3835,6 +3877,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "overhead",
+      "pos": "NOUN",
+      "word": "overhead",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "overweight",
       "pos": "NOUN",
       "next": ",",
@@ -3979,6 +4027,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Phrasers",
+      "pos": "PROPN",
+      "word": "phraser",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "physics",
       "pos": "NOUN",
       "word": "physics",
@@ -4032,6 +4086,12 @@
       "pos": "NOUN",
       "word": "play",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "pleasant",
+      "pos": "NOUN",
+      "word": "pleasant",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "please",
@@ -4809,6 +4869,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "shut",
+      "pos": "PROPN",
+      "word": "shut",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "sickening",
       "pos": "VERB",
       "word": "sickening",
@@ -5244,6 +5310,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Sull",
+      "pos": "NOUN",
+      "word": "Sull",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "summons",
       "pos": "NOUN",
       "word": "summons",
@@ -5477,6 +5549,12 @@
     },
     {
       "text": "Ten",
+      "pos": "PROPN",
+      "word": "ten",
+      "lemmaPos": "NUM"
+    },
+    {
+      "text": "ten",
       "pos": "PROPN",
       "word": "ten",
       "lemmaPos": "NUM"
@@ -6057,6 +6135,12 @@
       "next": "-",
       "word": "walk-in",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "ward",
+      "pos": "PROPN",
+      "word": "ward",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "warehouse",

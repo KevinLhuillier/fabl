@@ -438,6 +438,12 @@
       "example": "He achieved it by a combination of brute force, improvised engineering and outrageous flattery, and when at last both of them were installed — Isla on the bunk behind the seats, cocooned in his sleeping bag, Alasdair in the passenger seat with the heater roaring at his feet — he discovered that his hands were shaking and that he was, for no reason he could identify, on the verge of laughter."
     },
     {
+      "word": "acid",
+      "pos": "NOUN",
+      "translation": "el ácido",
+      "example": "She went into the store room with a bottle of acid and she poured it over everything."
+    },
+    {
       "word": "acorn",
       "pos": "NOUN",
       "translation": "la bellota",
@@ -466,6 +472,12 @@
       "pos": "VERB",
       "translation": "actuar ; interpretar (un papel)",
       "example": "The school would never act against the deputy mayor's son without a confession."
+    },
+    {
+      "word": "Act",
+      "pos": "PROPN",
+      "translation": "el Act (« Phrasers’ Act »: la ley de los fraseadores)",
+      "example": "\"Then I'm sure you're aware,\" said Ione, \"of Section Fourteen of the Phrasers' Act.\""
     },
     {
       "word": "act of faith",
@@ -761,6 +773,12 @@
       "example": "He never forgot where he had come from. When he received lands of his own, he lowered the taxes of every farmer who lived on them, and he built a school in the village where he had been born."
     },
     {
+      "word": "age",
+      "pos": "VERB",
+      "translation": "envejecer; « aged twenty »: de veinte años",
+      "example": "A girl on a beach, aged twenty, laughing at something her mother had said."
+    },
+    {
       "word": "age group",
       "pos": "PHRASE",
       "translation": "la categoría de edad, el grupo de edad",
@@ -1004,6 +1022,12 @@
       "pos": "NOUN",
       "translation": "la asignación, el cupo («allowance of hours»: cupo de horas)",
       "example": "Thanks to the night he had spent marooned on the pass, the tachograph had registered a full daily rest; as far as the regulations were concerned, he was a new man with a fresh allowance of hours, and he found the notion more consoling than he would have expected."
+    },
+    {
+      "word": "ally",
+      "pos": "NOUN",
+      "translation": "el aliado",
+      "example": "Our allies, our rivals, our enemies."
     },
     {
       "word": "almost",
@@ -1268,6 +1292,12 @@
       "pos": "VERB",
       "translation": "molestar, fastidiar",
       "example": "It annoyed her that R. knew about the shepherd's pie."
+    },
+    {
+      "word": "annoyed",
+      "pos": "ADJ",
+      "translation": "molesto, fastidiado",
+      "example": "It took ten minutes and three different receptionists before Bettany came on the line, sounding breathless and annoyed."
     },
     {
       "word": "annoying",
@@ -1906,6 +1936,12 @@
       "example": "Mia asks for help. — Mia pide ayuda."
     },
     {
+      "word": "Aske",
+      "pos": "PROPN",
+      "translation": "Aske (apellido de Maren)",
+      "example": "\"A woman called Maren Aske."
+    },
+    {
       "word": "Askew",
       "pos": "PROPN",
       "translation": "Askew (apellido)",
@@ -2215,6 +2251,18 @@
       "example": "By Blair Atholl they had stopped melting."
     },
     {
+      "word": "atlas",
+      "pos": "NOUN",
+      "translation": "el atlas",
+      "example": "Then she sat down heavily on a stack of old atlases, put her head in her hands, and said a word that her grandmother would not have approved of."
+    },
+    {
+      "word": "attach",
+      "pos": "VERB",
+      "translation": "unir, vincular (« attached to »: ligado a)",
+      "example": "He had lost the thing the Stop was attached to: the quiet, invisible certainty, inside every human being, of what was real and what was not."
+    },
+    {
       "word": "attack",
       "pos": "NOUN",
       "translation": "el ataque",
@@ -2321,6 +2369,12 @@
       "pos": "NOUN",
       "translation": "el otoño",
       "example": "He had been Marked the previous autumn: Fire, as everyone had predicted, since his father had Fire and his grandfather before him."
+    },
+    {
+      "word": "available",
+      "pos": "ADJ",
+      "translation": "disponible",
+      "example": "Bettany was standing at the nurses' station when the call came through, holding a clipboard and looking available."
     },
     {
       "word": "Aviemore",
@@ -3172,6 +3226,12 @@
       "pos": "NOUN",
       "translation": "el principio, el comienzo",
       "example": "Then she took the marker from his desk, and at the very beginning of the line, right next to TODAY, she drew a tiny, very small dot."
+    },
+    {
+      "word": "behalf",
+      "pos": "NOUN",
+      "translation": "nombre, parte (« on behalf of »: en nombre de)",
+      "example": "\"When you came to Peel and Ashgrove last week, you commissioned me to write a statement about the Corvane Institute on behalf of the Bureau."
     },
     {
       "word": "behind",
@@ -5988,6 +6048,18 @@
       "example": "She wishes to commission a statement, and she wishes it to be written by the best phraser in the city."
     },
     {
+      "word": "commission",
+      "pos": "NOUN",
+      "translation": "el encargo, la comisión",
+      "example": "Not unless I withdraw the commission."
+    },
+    {
+      "word": "competent",
+      "pos": "ADJ",
+      "translation": "competente, correcto",
+      "example": "Then she gave a small, dry nod, the way a chess player nods when an opponent makes a competent but predictable move."
+    },
+    {
       "word": "complex",
       "pos": "ADJ",
       "translation": "complejo",
@@ -6036,6 +6108,12 @@
       "example": "He had written speeches for three prime ministers and apologies for two royal princes, and it was said that he had once written a statement for a chemical company that was so perfectly constructed that the newspapers had praised the company for its honesty on the same day it poisoned a river."
     },
     {
+      "word": "conversational",
+      "pos": "ADJ",
+      "translation": "conversacional, desenfadado",
+      "example": "When she spoke again, her voice was different — quieter, almost conversational."
+    },
+    {
       "word": "convert",
       "pos": "VERB",
       "translation": "convertir, transformar",
@@ -6046,6 +6124,18 @@
       "pos": "ADJ",
       "translation": "convincente",
       "example": "And I can be very convincing, when I need to be."
+    },
+    {
+      "word": "cooperate",
+      "pos": "VERB",
+      "translation": "cooperar, colaborar",
+      "example": "It said only that the Deputy Director would be grateful, which was almost certainly true, and that her cooperation was greatly appreciated, which, since she had not yet cooperated with anything, was a sentence about the future disguised as a sentence about the present."
+    },
+    {
+      "word": "cooperation",
+      "pos": "NOUN",
+      "translation": "la cooperación, la colaboración",
+      "example": "Your cooperation is greatly appreciated."
     },
     {
       "word": "copy down",
@@ -6076,6 +6166,12 @@
       "pos": "NOUN",
       "translation": "el criptógrafo",
       "example": "But it was not the kind of code that a cryptographer or a government department would recognise."
+    },
+    {
+      "word": "custom",
+      "pos": "NOUN",
+      "translation": "la costumbre (« customs house »: la aduana)",
+      "example": "Along the quay, across the square, past the giant toothpaste advertisement on the wall of the customs house."
     },
     {
       "word": "customs",
@@ -9228,6 +9324,12 @@
       "example": "Pauline had been born in Grantown-on-Spey, and every summer for thirty-one years they had driven north to see her sister, stopping without fail at the same lay-by above Dalwhinnie to eat sandwiches and argue amiably about the route."
     },
     {
+      "word": "dam",
+      "pos": "NOUN",
+      "translation": "la presa, el dique",
+      "example": "She said if the compound ever left the institute, it would be like opening a dam."
+    },
+    {
       "word": "damage",
       "pos": "NOUN",
       "translation": "los daños",
@@ -9828,6 +9930,12 @@
       "example": "Then the blue letters appeared. Milo's letters. Milo's design."
     },
     {
+      "word": "design",
+      "pos": "VERB",
+      "translation": "diseñar, concebir",
+      "example": "Ione had the strong impression that everything about the building — the silence, the height of the ceilings, the cold echo of their footsteps — had been designed to make visitors feel small."
+    },
+    {
       "word": "desk",
       "pos": "NOUN",
       "translation": "el pupitre, el escritorio",
@@ -10098,10 +10206,22 @@
       "example": "The rod was quivering now, its forked tip dipping and lifting like the nose of a hound that has caught a scent."
     },
     {
+      "word": "diplomat",
+      "pos": "NOUN",
+      "translation": "el diplomático",
+      "example": "Every diplomat, every general, every spy."
+    },
+    {
       "word": "direct",
       "pos": "VERB",
       "translation": "dirigir, indicar",
       "example": "He worked his way down the line of nervous children with the brisk efficiency of a farmer counting sheep, asking each one their name and their element, and directing them to one of four arched doorways around the courtyard."
+    },
+    {
+      "word": "direct",
+      "pos": "ADJ",
+      "translation": "directo",
+      "example": "The direct question, with no room left to move."
     },
     {
       "word": "direction",
@@ -10224,6 +10344,12 @@
       "example": "\"It's a disgrace.\""
     },
     {
+      "word": "disguise",
+      "pos": "VERB",
+      "translation": "disfrazar, disimular",
+      "example": "It said only that the Deputy Director would be grateful, which was almost certainly true, and that her cooperation was greatly appreciated, which, since she had not yet cooperated with anything, was a sentence about the future disguised as a sentence about the present."
+    },
+    {
       "word": "disgust",
       "pos": "NOUN",
       "translation": "el asco, la repugnancia",
@@ -10246,6 +10372,12 @@
       "pos": "NOUN",
       "translation": "la deshonestidad",
       "example": "She had expected many things, but not this strange, almost gentle honesty about his own dishonesty."
+    },
+    {
+      "word": "disinfectant",
+      "pos": "NOUN",
+      "translation": "el desinfectante",
+      "example": "The lift to the seventh floor was old and slow and smelled of disinfectant."
     },
     {
       "word": "dislike",
@@ -11370,10 +11502,34 @@
       "example": "He took his second break at a truck stop outside Edinburgh, ate nothing, and pressed on across the Queensferry Crossing, whose great white cables flashed past him like the strings of some colossal instrument."
     },
     {
+      "word": "Elspeth",
+      "pos": "PROPN",
+      "translation": "Elspeth (nombre femenino)",
+      "example": "\"My name is Elspeth."
+    },
+    {
+      "word": "employ",
+      "pos": "VERB",
+      "translation": "emplear, contratar",
+      "example": "She was the most gifted chemist the Corvane Institute ever employed."
+    },
+    {
+      "word": "employee",
+      "pos": "NOUN",
+      "translation": "el empleado, la empleada",
+      "example": "There was a desk with nothing on it, two chairs, and on the wall behind the desk, a framed copy of the oath that every new employee of the Bureau had to recite on their first day."
+    },
+    {
       "word": "employer",
       "pos": "NOUN",
       "translation": "el empleador",
       "example": "Employers will decide."
+    },
+    {
+      "word": "encyclopaedia",
+      "pos": "NOUN",
+      "translation": "la enciclopedia",
+      "example": "He came and sat down on a pile of encyclopaedias opposite her."
     },
     {
       "word": "enormously",
@@ -11394,10 +11550,22 @@
       "example": "Old Mrs Pennick, who had run the café for thirty years and who disliked everyone equally, asked him what he wanted."
     },
     {
+      "word": "essence",
+      "pos": "NOUN",
+      "translation": "la esencia (« in essence »: en esencia)",
+      "example": "It said, in essence, that nothing a phraser learned in the course of preparing a statement for a client could be demanded from them by anyone else — not by the police, not by a court, and not by any department of the state."
+    },
+    {
       "word": "evasion",
       "pos": "NOUN",
       "translation": "la evasiva, la evasión",
       "example": "\"How's the world of professional evasion?\""
+    },
+    {
+      "word": "exasperate",
+      "pos": "VERB",
+      "translation": "exasperar (« exasperated »: exasperado)",
+      "example": "Then Bettany sighed, the long, exasperated sigh of a woman who has spent her whole life being the sensible one."
     },
     {
       "word": "exception",
@@ -11424,6 +11592,12 @@
       "example": "On Wednesday, at the Future Tech Fair in Birmingham, I will show you something that will change the world."
     },
     {
+      "word": "fairly",
+      "pos": "ADV",
+      "translation": "bastante, más bien",
+      "example": "Most days I'm fairly sure."
+    },
+    {
       "word": "falsehood",
       "pos": "NOUN",
       "translation": "la falsedad, la mentira",
@@ -11434,6 +11608,12 @@
       "pos": "NOUN",
       "translation": "la característica, el rasgo",
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
+    },
+    {
+      "word": "Fennimore",
+      "pos": "PROPN",
+      "translation": "Fennimore (nombre del viejo librero)",
+      "example": "The old man's name was Fennimore — at least, that was the name painted in faded gold letters on the inside of the bookshop door — and he asked Ione no questions at all."
     },
     {
       "word": "ferry",
@@ -11466,6 +11646,12 @@
       "example": "She opened a thin leather folder and placed it on the table between them, but kept one hand flat on top of it."
     },
     {
+      "word": "former",
+      "pos": "ADJ",
+      "translation": "anterior, antiguo",
+      "example": "A young man in a grey suit met her in the marble entrance hall and led her up three flights of stairs and along a corridor lined with portraits of former directors."
+    },
+    {
       "word": "formula",
       "pos": "NOUN",
       "translation": "la fórmula",
@@ -11476,6 +11662,18 @@
       "pos": "NOUN",
       "translation": "la fractura, la grieta",
       "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
+    },
+    {
+      "word": "framed",
+      "pos": "ADJ",
+      "translation": "enmarcado",
+      "example": "There was a desk with nothing on it, two chairs, and on the wall behind the desk, a framed copy of the oath that every new employee of the Bureau had to recite on their first day."
+    },
+    {
+      "word": "frown",
+      "pos": "NOUN",
+      "translation": "el ceño fruncido",
+      "example": "He paused, and a faint frown crossed his face, as if he were trying to remember something."
     },
     {
       "word": "fry",
@@ -11496,10 +11694,34 @@
       "example": "\"\"Six years ago,\" Odette went on, \"the Bureau provided funding to a private medical research centre called the Corvane Institute."
     },
     {
+      "word": "General",
+      "pos": "PROPN",
+      "translation": "General (« Lantry General Hospital »: el hospital general de Lantry)",
+      "example": "Lantry General Hospital was a vast, crumbling Victorian building with too many doors and not enough porters, and at half past one in the morning nobody looked twice at a woman in a borrowed nurse's cardigan carrying a tray of clean towels."
+    },
+    {
       "word": "generously",
       "pos": "ADV",
       "translation": "generosamente",
       "example": "That was true as well, if one interpreted \"closely\" generously and \"long-term\" literally."
+    },
+    {
+      "word": "genuine",
+      "pos": "ADJ",
+      "translation": "genuino, sincero",
+      "example": "It was a short, genuine laugh, the first natural sound Ione had heard her make."
+    },
+    {
+      "word": "gifted",
+      "pos": "ADJ",
+      "translation": "dotado, talentoso",
+      "example": "She was the most gifted chemist the Corvane Institute ever employed."
+    },
+    {
+      "word": "greatly",
+      "pos": "ADV",
+      "translation": "mucho, enormemente",
+      "example": "Your cooperation is greatly appreciated."
     },
     {
       "word": "gull",
@@ -11512,6 +11734,12 @@
       "pos": "PROPN",
       "translation": "Halvey (apellido de Ione)",
       "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
+    },
+    {
+      "word": "Harrow",
+      "pos": "PROPN",
+      "translation": "Harrow (« Harrow Strand »: nombre de una playa)",
+      "example": "On the long curve of sand beneath the cliffs, at the place where the old harbour wall ran down into the sea, that everyone in the town called Harrow Strand."
     },
     {
       "word": "Hester",
@@ -11592,6 +11820,12 @@
       "example": "The company wanted to close it next summer, when the new road was finished and nobody would be inconvenienced."
     },
     {
+      "word": "indeed",
+      "pos": "ADV",
+      "translation": "en efecto, realmente",
+      "example": "And that would be very embarrassing indeed."
+    },
+    {
       "word": "injection",
       "pos": "NOUN",
       "translation": "la inyección",
@@ -11620,6 +11854,12 @@
       "pos": "VERB",
       "translation": "interpretar",
       "example": "That was true as well, if one interpreted \"closely\" generously and \"long-term\" literally."
+    },
+    {
+      "word": "interrogation",
+      "pos": "NOUN",
+      "translation": "el interrogatorio",
+      "example": "She knew, as every phraser knew, that the most dangerous thing in an interrogation was not a hard question but a simple one, because simple questions left so little room to move."
     },
     {
       "word": "inventor",
@@ -11652,6 +11892,18 @@
       "example": "She was a tall woman in her fifties, with short grey hair, a long pale face and very light blue eyes, and she wore a dark suit without a single piece of jewellery."
     },
     {
+      "word": "judgement",
+      "pos": "NOUN",
+      "translation": "el juicio",
+      "example": "But she listened in the way that only Bettany could listen: completely, without judgement, as if every word were being weighed on a scale."
+    },
+    {
+      "word": "keel",
+      "pos": "NOUN",
+      "translation": "la quilla",
+      "example": "It was a keel."
+    },
+    {
       "word": "Kessler",
       "pos": "PROPN",
       "translation": "Kessler (« Kessler Hotel »: el hotel cuyo incendio describió Ione)",
@@ -11680,6 +11932,18 @@
       "pos": "ADJ",
       "translation": "probable",
       "example": "\"\"Within the next few weeks,\" she said, \"some information about the Corvane Institute is likely to become public."
+    },
+    {
+      "word": "line",
+      "pos": "VERB",
+      "translation": "bordear, forrar (« lined with »: bordeado de)",
+      "example": "A young man in a grey suit met her in the marble entrance hall and led her up three flights of stairs and along a corridor lined with portraits of former directors."
+    },
+    {
+      "word": "lining",
+      "pos": "NOUN",
+      "translation": "el forro",
+      "example": "At half past two she wrapped the notebook in its yellow scarf and put it inside the lining of an old winter coat at the back of her wardrobe."
     },
     {
       "word": "listener",
@@ -11746,6 +12010,12 @@
       "pos": "NOUN",
       "translation": "el intervalo (« in the meantime »: mientras tanto)",
       "example": "In the meantime, the company wanted a statement."
+    },
+    {
+      "word": "medicine",
+      "pos": "NOUN",
+      "translation": "la medicina, el medicamento",
+      "example": "I was sent up there once, last spring, to deliver some medicine, because everyone else was busy."
     },
     {
       "word": "Mere",
@@ -11820,6 +12090,12 @@
       "example": "The ferry's horn sounded, long and mournful, as they approached the south bank."
     },
     {
+      "word": "move",
+      "pos": "NOUN",
+      "translation": "la jugada, el movimiento",
+      "example": "Then she gave a small, dry nod, the way a chess player nods when an opponent makes a competent but predictable move."
+    },
+    {
       "word": "murder",
       "pos": "VERB",
       "translation": "asesinar",
@@ -11886,16 +12162,34 @@
       "example": "The audience made a sound. \"Oooh.\""
     },
     {
+      "word": "Osei",
+      "pos": "PROPN",
+      "translation": "Osei (apellido de Bettany)",
+      "example": "\"Nurse Osei,\" said the doctor sharply."
+    },
+    {
       "word": "outside",
       "pos": "ADJ",
       "translation": "exterior (« outside walls »: paredes exteriores)",
       "example": "Tallow Reach was a quarter of old warehouses converted into flats, with iron staircases on the outside walls and washing hanging across the alleys."
     },
     {
+      "word": "overrule",
+      "pos": "VERB",
+      "translation": "anular, desautorizar (« overruled »: desautorizado)",
+      "example": "Who argued to stop the trial and was overruled."
+    },
+    {
       "word": "pang",
       "pos": "NOUN",
       "translation": "la punzada",
       "example": "The river glittered beneath the bridges, including, she noted with a small pang, the one with the crack in its third support column."
+    },
+    {
+      "word": "paperback",
+      "pos": "NOUN",
+      "translation": "el libro de bolsillo",
+      "example": "She went inside, to a counter piled high with paperbacks, behind which sat an elderly man with a cat on his lap."
     },
     {
       "word": "particularly",
@@ -11940,6 +12234,12 @@
       "example": "This was what it meant to be a phraser."
     },
     {
+      "word": "phrasing",
+      "pos": "NOUN",
+      "translation": "la formulación, el arte de formular",
+      "example": "It was a kind of phrasing, she thought."
+    },
+    {
       "word": "poison",
       "pos": "VERB",
       "translation": "envenenar, contaminar",
@@ -11958,10 +12258,22 @@
       "example": "Politicians promised to \"do everything that turns out to be possible\"."
     },
     {
+      "word": "portrait",
+      "pos": "NOUN",
+      "translation": "el retrato",
+      "example": "A young man in a grey suit met her in the marble entrance hall and led her up three flights of stairs and along a corridor lined with portraits of former directors."
+    },
+    {
       "word": "pour down",
       "pos": "PHRASE",
       "translation": "caer a raudales ; llover a cántaros",
       "example": "Outside, the light poured down on Weaver's Row and turned the cobbles gold."
+    },
+    {
+      "word": "predictable",
+      "pos": "ADJ",
+      "translation": "predecible",
+      "example": "Then she gave a small, dry nod, the way a chess player nods when an opponent makes a competent but predictable move."
     },
     {
       "word": "press",
@@ -12006,6 +12318,18 @@
       "example": "\"Its owners are working closely with engineers on a long-term programme of improvements.\""
     },
     {
+      "word": "progress",
+      "pos": "VERB",
+      "translation": "avanzar, progresar",
+      "example": "\"How is the statement progressing?\" she asked."
+    },
+    {
+      "word": "property",
+      "pos": "NOUN",
+      "translation": "la propiedad, el bien",
+      "example": "And if, in the course of your research, you should come across anything your mother left behind — any papers, any notes — I hope you'll remember that they are the property of the Bureau, which paid for every hour of her work."
+    },
+    {
       "word": "provide",
       "pos": "VERB",
       "translation": "proporcionar, aportar",
@@ -12024,10 +12348,22 @@
       "example": "Trams rattled along the quays."
     },
     {
+      "word": "random",
+      "pos": "ADJ",
+      "translation": "aleatorio, al azar",
+      "example": "The sentences were not random."
+    },
+    {
       "word": "Reach",
       "pos": "PROPN",
       "translation": "Reach (« Tallow Reach »: barrio portuario de Lantry)",
       "example": "It was the address he had given the institute two years ago, in a district of narrow streets near the docks called Tallow Reach."
+    },
+    {
+      "word": "reassure",
+      "pos": "VERB",
+      "translation": "tranquilizar, reconfortar",
+      "example": "That should have reassured her."
     },
     {
       "word": "Rebecca",
@@ -12036,10 +12372,28 @@
       "example": "Rebecca Shaw put her hand on her mouth."
     },
     {
+      "word": "rebuild",
+      "pos": "VERB",
+      "translation": "reconstruir",
+      "example": "So they must have rebuilt it.\""
+    },
+    {
+      "word": "receptionist",
+      "pos": "NOUN",
+      "translation": "el recepcionista",
+      "example": "It took ten minutes and three different receptionists before Bettany came on the line, sounding breathless and annoyed."
+    },
+    {
       "word": "reflex",
       "pos": "NOUN",
       "translation": "el reflejo",
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
+    },
+    {
+      "word": "refusal",
+      "pos": "NOUN",
+      "translation": "la negativa, el rechazo",
+      "example": "But a refusal, here, in this room, would be an answer in itself."
     },
     {
       "word": "relationship",
@@ -12084,6 +12438,12 @@
       "example": "Somebody at a rival firm had written that."
     },
     {
+      "word": "rival",
+      "pos": "NOUN",
+      "translation": "el rival",
+      "example": "Our allies, our rivals, our enemies."
+    },
+    {
       "word": "rooted",
       "pos": "ADJ",
       "translation": "arraigado",
@@ -12102,6 +12462,12 @@
       "example": "They walked back along the quay together, and Bettany talked about sleep and soup and the unfairness of hospital rotas, and Ione answered when she was supposed to, and all the time her mind kept returning to the same small, impossible sentence."
     },
     {
+      "word": "rule",
+      "pos": "VERB",
+      "translation": "gobernar, dominar",
+      "example": "\"The first nation to learn to lie,\" said Odette Crale softly, \"will rule all the nations that cannot."
+    },
+    {
       "word": "Saltreach",
       "pos": "PROPN",
       "translation": "Saltreach (pueblo costero cerca del instituto Corvane)",
@@ -12114,10 +12480,22 @@
       "example": "They took the remaining samples of the compound."
     },
     {
+      "word": "sand",
+      "pos": "NOUN",
+      "translation": "la arena",
+      "example": "On the long curve of sand beneath the cliffs, at the place where the old harbour wall ran down into the sea, that everyone in the town called Harrow Strand."
+    },
+    {
       "word": "satisfy",
       "pos": "VERB",
       "translation": "satisfacer (« self-satisfied »: pagado de sí mismo)",
       "example": "Lantry was an old city, built on both banks of the Sull, and it had the slightly self-satisfied air of a place that had never been bombed, flooded or seriously embarrassed."
+    },
+    {
+      "word": "schoolchild",
+      "pos": "NOUN",
+      "translation": "el escolar",
+      "example": "Ione knew it by heart, like every schoolchild."
     },
     {
       "word": "seaweed",
@@ -12132,10 +12510,22 @@
       "example": "She remembered, most clearly of all, being nineteen and asking, half joking, over dinner: \"Mum, are you secretly a spy?"
     },
     {
+      "word": "Section",
+      "pos": "PROPN",
+      "translation": "Section (« Section Fourteen »: el artículo catorce de la ley)",
+      "example": "\"Then I'm sure you're aware,\" said Ione, \"of Section Fourteen of the Phrasers' Act.\""
+    },
+    {
       "word": "seizure",
       "pos": "NOUN",
       "translation": "la convulsión, el ataque",
       "example": "Headaches first, then fevers, then seizures."
+    },
+    {
+      "word": "senior",
+      "pos": "ADJ",
+      "translation": "superior, de alto rango (« senior sister »: enfermera jefe)",
+      "example": "She simply volunteered for every extra night shift in the east wing, until the senior sister grew tired of seeing her name on the list and began to give her the jobs nobody else wanted."
     },
     {
       "word": "sentiment",
@@ -12162,10 +12552,28 @@
       "example": "They stood side by side at the rail, watching the lights of the city slide across the black water."
     },
     {
+      "word": "sly",
+      "pos": "ADJ",
+      "translation": "astuto, taimado",
+      "example": "The woman watched her with a strange, sly expression."
+    },
+    {
       "word": "society",
       "pos": "NOUN",
       "translation": "la sociedad",
       "example": "In a society where everyone told the truth, she still managed to be more truthful than most, because she never hid behind the clever omissions that everyone else used."
+    },
+    {
+      "word": "stable",
+      "pos": "ADJ",
+      "translation": "estable",
+      "example": "The final step — the part that made it stable."
+    },
+    {
+      "word": "stale",
+      "pos": "ADJ",
+      "translation": "rancio, duro",
+      "example": "By the time she had finished, Fennimore had brought more tea and a plate of stale cake, and the cat had fallen asleep in Bettany's lap."
     },
     {
       "word": "stammer",
@@ -12186,6 +12594,12 @@
       "example": "Something started to move in his head. Like a small machine starting up."
     },
     {
+      "word": "state",
+      "pos": "NOUN",
+      "translation": "el Estado",
+      "example": "It said, in essence, that nothing a phraser learned in the course of preparing a statement for a client could be demanded from them by anyone else — not by the police, not by a court, and not by any department of the state."
+    },
+    {
       "word": "stern",
       "pos": "NOUN",
       "translation": "la popa",
@@ -12198,6 +12612,12 @@
       "example": "People called it the Stop."
     },
     {
+      "word": "store",
+      "pos": "NOUN",
+      "translation": "el almacén (« store room »: el almacén, la despensa)",
+      "example": "She went into the store room with a bottle of acid and she poured it over everything."
+    },
+    {
       "word": "straightforward",
       "pos": "ADJ",
       "translation": "franco, directo",
@@ -12208,6 +12628,12 @@
       "pos": "NOUN",
       "translation": "el esfuerzo, la tensión",
       "example": "There was no tightening in his throat, no hesitation, no trace of strain on his face."
+    },
+    {
+      "word": "Strand",
+      "pos": "PROPN",
+      "translation": "Strand (« Harrow Strand »: nombre de una playa)",
+      "example": "On the long curve of sand beneath the cliffs, at the place where the old harbour wall ran down into the sea, that everyone in the town called Harrow Strand."
     },
     {
       "word": "Sull",
@@ -12244,6 +12670,12 @@
       "pos": "NOUN",
       "translation": "el superviviente",
       "example": "They took the survivors, too — the ones who were ill — and moved them to a hospital in the city."
+    },
+    {
+      "word": "suspicious",
+      "pos": "ADJ",
+      "translation": "receloso, desconfiado",
+      "example": "The sister looked at her for a long, suspicious moment."
     },
     {
       "word": "sweetheart",
@@ -12288,10 +12720,22 @@
       "example": "\"Ha! A small technical problem. Let's try somebody else.\""
     },
     {
+      "word": "telephone",
+      "pos": "NOUN",
+      "translation": "el teléfono",
+      "example": "While she waited, Ione used the telephone on Fennimore's desk to call the hospital."
+    },
+    {
       "word": "therefore",
       "pos": "ADV",
       "translation": "por lo tanto, por eso",
       "example": "Some lost their memory, and therefore said false things without knowing they were false — the Stop, after all, only prevented you from saying what you believed to be untrue."
+    },
+    {
+      "word": "threat",
+      "pos": "NOUN",
+      "translation": "la amenaza",
+      "example": "That is not a threat, Miss Halvey."
     },
     {
       "word": "thrive",
@@ -12378,6 +12822,18 @@
       "example": "\"It is a rule of the human animal, as fixed as the rule that we cannot breathe underwater.\""
     },
     {
+      "word": "undo",
+      "pos": "VERB",
+      "translation": "deshacer, anular",
+      "example": "She said she couldn't destroy it, because one day someone might need to understand what had been done to us — to undo it."
+    },
+    {
+      "word": "unevenly",
+      "pos": "ADV",
+      "translation": "de manera desigual, irregularmente",
+      "example": "Her fair hair had gone almost white and was cut short, unevenly, as if someone had done it in a hurry."
+    },
+    {
       "word": "unfairness",
       "pos": "NOUN",
       "translation": "la injusticia",
@@ -12426,10 +12882,22 @@
       "example": "The address on the folder belonged to a building on the corner of a street called Rope Walk."
     },
     {
+      "word": "ward",
+      "pos": "NOUN",
+      "translation": "la sala, el pabellón",
+      "example": "\"There's a closed ward at my hospital."
+    },
+    {
       "word": "Weaver",
       "pos": "PROPN",
       "translation": "Weaver (« Weaver’s Row »: nombre de calle, «la calle de los Tejedores»)",
       "example": "She went instead to Pennick's, a narrow place on Weaver's Row with green tiles on the walls and a counter made from the hull of an old boat."
+    },
+    {
+      "word": "wicked",
+      "pos": "ADJ",
+      "translation": "malvado, perverso",
+      "example": "Not because people were wicked."
     },
     {
       "word": "windpipe",
