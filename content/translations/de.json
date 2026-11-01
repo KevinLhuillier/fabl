@@ -1282,6 +1282,12 @@
       "example": "Then a thin, curling breeze rose out of the still morning, lifted his fringe off his forehead and set the grass rippling around his ankles."
     },
     {
+      "word": "Anne",
+      "pos": "PROPN",
+      "translation": "Anne (weiblicher Vorname; die Mutter der Kinder)",
+      "example": "Their mother, Anne Hollis, was dead."
+    },
+    {
       "word": "announce",
       "pos": "VERB",
       "translation": "ankündigen, verkünden",
@@ -2351,6 +2357,12 @@
       "pos": "PROPN",
       "translation": "Augustin (Vorname; „Father Augustin“: Pater Augustin, Priester)",
       "example": "An old man in a black jumper whom everyone called Father Augustin."
+    },
+    {
+      "word": "aunt",
+      "pos": "NOUN",
+      "translation": "die Tante",
+      "example": "\"My aunt is meeting us,\" Tom said quickly."
     },
     {
       "word": "Auntie",
@@ -3576,6 +3588,12 @@
       "example": "Bram picked up the Writ, looked at it without unfolding it, and put it on the mantelpiece beside the unfinished fox, as though it were a bill he had no intention of paying."
     },
     {
+      "word": "Billy",
+      "pos": "PROPN",
+      "translation": "Billy (männlicher Vorname)",
+      "example": "\"I already have a place for him, next to a boy called Billy who also loves boats."
+    },
+    {
       "word": "bin",
       "pos": "NOUN",
       "translation": "der Mülleimer",
@@ -3852,6 +3870,12 @@
       "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
     },
     {
+      "word": "blind",
+      "pos": "ADJ",
+      "translation": "blind",
+      "example": "Old Mrs Rowe, who was ninety-two and almost blind, told her granddaughter what to write."
+    },
+    {
       "word": "blindfold",
       "pos": "ADJ",
       "translation": "mit verbundenen Augen („found blindfold“: blind gefunden)",
@@ -4114,6 +4138,12 @@
       "pos": "VERB",
       "translation": "buchen, reservieren",
       "example": "On Wednesday evenings, the club coach gave lessons, and anybody could book a practice match with him for ten pounds."
+    },
+    {
+      "word": "bookcase",
+      "pos": "NOUN",
+      "translation": "das Bücherregal",
+      "example": "In the sitting room, there was a big bookcase full of old books and a clock on the wall that did not work."
     },
     {
       "word": "Books",
@@ -4426,6 +4456,12 @@
       "pos": "PROPN",
       "translation": "Bramble (Name des Hundes; „bramble“: die Brombeere)",
       "example": "On its collar there was a little metal tag that said \"Bramble\"."
+    },
+    {
+      "word": "bramble",
+      "pos": "NOUN",
+      "translation": "die Brombeerranke",
+      "example": "The path was muddy and full of brambles."
     },
     {
       "word": "Bramwell",
@@ -4792,6 +4828,12 @@
       "pos": "NOUN",
       "translation": "der Bach",
       "example": "Where the bright water meets the dark, and the dark runs under the brook, there the first Wood-wardens laid their roots."
+    },
+    {
+      "word": "broom",
+      "pos": "NOUN",
+      "translation": "der Besen",
+      "example": "Sam found a broom and fought the cobwebs, shouting like a pirate."
     },
     {
       "word": "brother",
@@ -5166,6 +5208,12 @@
       "example": "At sixteen, he was taller than most of the servants in the castle, but he still felt like the nervous boy who had arrived there with nothing but a thin cloak and a borrowed knife."
     },
     {
+      "word": "butcher",
+      "pos": "NOUN",
+      "translation": "der Metzger",
+      "example": "In the main street, there were only a few shops: a post office, a butcher, a small shop that sold everything, and a bakery."
+    },
+    {
       "word": "butt",
       "pos": "NOUN",
       "translation": "das Fass („sherry butt“: Sherryfass); der Stummel",
@@ -5484,6 +5532,12 @@
       "example": "Can you help me? — Kannst du mir helfen?"
     },
     {
+      "word": "Canada",
+      "pos": "PROPN",
+      "translation": "Kanada",
+      "example": "My son lives in Canada and writes twice a year."
+    },
+    {
       "word": "canal",
       "pos": "NOUN",
       "translation": "der Kanal",
@@ -5554,6 +5608,12 @@
       "pos": "NOUN",
       "translation": "der Großbuchstabe; die Hauptstadt",
       "example": "Peering through a gap between the loft boards, Rowan could make out none of the words, only their shape: a quick, slanting hand, nothing like his uncle's laborious capitals."
+    },
+    {
+      "word": "Captain",
+      "pos": "PROPN",
+      "translation": "Captain (der Name von Sams Teddybär)",
+      "example": "Sam took his teddy bear, whose name was Captain, and a book about ships."
     },
     {
       "word": "caption",
@@ -5734,6 +5794,12 @@
       "pos": "NOUN",
       "translation": "die Fahrbahn („dual carriageway“: Schnellstraße)",
       "example": "Then he rejoined the carriageway and turned the Duchess north, into the long grey throat of the morning."
+    },
+    {
+      "word": "carrot",
+      "pos": "NOUN",
+      "translation": "die Karotte, die Möhre",
+      "example": "Mrs Pascoe and Lily cooked the chicken with potatoes and leeks and carrots."
     },
     {
       "word": "carry",
@@ -6000,6 +6066,12 @@
       "example": "The fire brigade said the cause had been an old toaster."
     },
     {
+      "word": "cause",
+      "pos": "VERB",
+      "translation": "verursachen",
+      "example": "\"Do you know how much trouble you caused?\" said Mrs Crane."
+    },
+    {
       "word": "causeway",
       "pos": "NOUN",
       "translation": "der Damm, der Dammweg",
@@ -6054,6 +6126,12 @@
       "example": "It had been posted from the central sorting office, with no return address."
     },
     {
+      "word": "chairman",
+      "pos": "NOUN",
+      "translation": "der Vorsitzende",
+      "example": "His name was Mr Lanyon, and he was the chairman."
+    },
+    {
       "word": "chemical",
       "pos": "ADJ",
       "translation": "chemisch",
@@ -6096,6 +6174,12 @@
       "example": "He walked to the microphone and stood there, looking out over the crowd, and Ione understood, with a terrible clarity, exactly what Odette had planned."
     },
     {
+      "word": "cobwebs",
+      "pos": "NOUN",
+      "translation": "das Spinnennetz",
+      "example": "There were cobwebs in every corner."
+    },
+    {
       "word": "collapse",
       "pos": "NOUN",
       "translation": "der Zusammenbruch",
@@ -6132,6 +6216,12 @@
       "example": "The Bureau remained fully committed to the principle on which the nation was built: that nothing should be said but what is so."
     },
     {
+      "word": "compartment",
+      "pos": "NOUN",
+      "translation": "das Abteil",
+      "example": "They found an empty compartment and sat close together by the window."
+    },
+    {
       "word": "competent",
       "pos": "ADJ",
       "translation": "kompetent, ordentlich",
@@ -6154,6 +6244,12 @@
       "pos": "VERB",
       "translation": "verbergen, verheimlichen",
       "example": "And your grandmother — who lives, I believe, in a green house above the harbour at Brindlemouth — will receive a visit from some of my colleagues, who will want to know why she concealed property belonging to the Bureau for eight years.\""
+    },
+    {
+      "word": "conductor",
+      "pos": "NOUN",
+      "translation": "der Schaffner",
+      "example": "A conductor came and looked at their tickets."
     },
     {
       "word": "confidential",
@@ -6190,6 +6286,12 @@
       "pos": "VERB",
       "translation": "aufbauen, konstruieren",
       "example": "He had written speeches for three prime ministers and apologies for two royal princes, and it was said that he had once written a statement for a chemical company that was so perfectly constructed that the newspapers had praised the company for its honesty on the same day it poisoned a river."
+    },
+    {
+      "word": "contact",
+      "pos": "VERB",
+      "translation": "kontaktieren",
+      "example": "Anyone with information must contact Mrs E."
     },
     {
       "word": "conversational",
@@ -6234,16 +6336,40 @@
       "example": "At seven o'clock, when the office was empty, she copied down the address that was printed beneath his photograph."
     },
     {
+      "word": "cornish",
+      "pos": "ADJ",
+      "translation": "kornisch",
+      "example": "Jack Trevaskis played the fiddle, and Walter played his harmonica, and Miss Treloar taught Sam and Billy an old Cornish dance."
+    },
+    {
+      "word": "Cornwall",
+      "pos": "PROPN",
+      "translation": "Cornwall (Region im Südwesten Englands)",
+      "example": "\"Our grandmother lived in Cornwall,\" he said."
+    },
+    {
       "word": "Corvane",
       "pos": "PROPN",
       "translation": "Corvane („Corvane Institute“: das medizinische Forschungsinstitut an der Küste)",
       "example": "\"\"Six years ago,\" Odette went on, \"the Bureau provided funding to a private medical research centre called the Corvane Institute."
     },
     {
+      "word": "crab",
+      "pos": "NOUN",
+      "translation": "die Krabbe, der Krebs",
+      "example": "The crab pots were like baskets, made of wood and rope, with a hole at the top."
+    },
+    {
       "word": "Crale",
       "pos": "PROPN",
       "translation": "Crale („Odette Crale“: die stellvertretende Direktorin des Bureau)",
       "example": "\"Odette Crale.\""
+    },
+    {
+      "word": "cross",
+      "pos": "NOUN",
+      "translation": "das Kreuz",
+      "example": "Jack Trevaskis could not write very well, so his wife wrote it for him, and he signed it with a big black cross."
     },
     {
       "word": "crumbly",
@@ -6256,6 +6382,12 @@
       "pos": "NOUN",
       "translation": "der Kryptograf",
       "example": "But it was not the kind of code that a cryptographer or a government department would recognise."
+    },
+    {
+      "word": "currant",
+      "pos": "NOUN",
+      "translation": "die Korinthe, die Rosine",
+      "example": "It was yellow inside and full of currants, and it was the best thing they had ever eaten."
     },
     {
       "word": "custom",
@@ -9444,6 +9576,18 @@
       "example": "Pebbles danced on the ground around her feet."
     },
     {
+      "word": "dance",
+      "pos": "NOUN",
+      "translation": "der Tanz",
+      "example": "Jack Trevaskis played the fiddle, and Walter played his harmonica, and Miss Treloar taught Sam and Billy an old Cornish dance."
+    },
+    {
+      "word": "dancing",
+      "pos": "NOUN",
+      "translation": "das Tanzen",
+      "example": "That evening, there was a party on the quay, with music and dancing and more saffron buns than anybody could eat."
+    },
+    {
       "word": "danger",
       "pos": "NOUN",
       "translation": "die Gefahr",
@@ -10140,6 +10284,18 @@
       "example": "Not how our symptoms were developing — how we felt."
     },
     {
+      "word": "devil",
+      "pos": "NOUN",
+      "translation": "der Teufel („Devil’s Teeth“: die Teufelszähne, Felsen)",
+      "example": "He knew the names of all the rocks around the harbour: the Old Woman, the Cow and Calf, the Devil's Teeth."
+    },
+    {
+      "word": "Devon",
+      "pos": "PROPN",
+      "translation": "Devon (Grafschaft im Südwesten Englands)",
+      "example": "I went to Exeter, to Bristol, to every hospital in Devon."
+    },
+    {
       "word": "dew",
       "pos": "NOUN",
       "translation": "der Tau",
@@ -10668,6 +10824,12 @@
       "example": "While the doctors carried him to his tent, Edwin went back to examine the horse."
     },
     {
+      "word": "Doctor",
+      "pos": "PROPN",
+      "translation": "Doctor (der Titel „Doktor“: Doctor Hale)",
+      "example": "\"Doctor Hale, the big house next to the church,\" she said."
+    },
+    {
       "word": "document",
       "pos": "NOUN",
       "translation": "das Dokument",
@@ -10804,6 +10966,12 @@
       "pos": "VERB",
       "translation": "zweifeln an",
       "example": "She was doubting him."
+    },
+    {
+      "word": "dough",
+      "pos": "NOUN",
+      "translation": "der Teig",
+      "example": "He sat in the warm kitchen behind the shop with a piece of dough, and he made dough animals: dogs, cats, fish and a very strange elephant."
     },
     {
       "word": "doughnut",
@@ -11074,6 +11242,12 @@
       "pos": "PHRASE",
       "translation": "hinunterschweben, sich (sanft) ausbreiten",
       "example": "\"Every Well is different,\" Mistress Crane went on, her voice drifting down the room between the benches."
+    },
+    {
+      "word": "driftwood",
+      "pos": "NOUN",
+      "translation": "das Treibholz",
+      "example": "There was no wood near the house, but on the beach below the garden, he found lots of driftwood: old pieces of boats, branches, planks, all white and dry from the sun and salt."
     },
     {
       "word": "drill",
@@ -11610,6 +11784,12 @@
       "example": "He took his second break at a truck stop outside Edinburgh, ate nothing, and pressed on across the Queensferry Crossing, whose great white cables flashed past him like the strings of some colossal instrument."
     },
     {
+      "word": "elephant",
+      "pos": "NOUN",
+      "translation": "der Elefant",
+      "example": "Then she saw Sam in the kitchen, with his dough elephant."
+    },
+    {
       "word": "Elspeth",
       "pos": "PROPN",
       "translation": "Elspeth (weiblicher Vorname)",
@@ -11694,6 +11874,12 @@
       "example": "She had been — Ione had always believed this without thinking about it — an exceptionally open person."
     },
     {
+      "word": "Exeter",
+      "pos": "PROPN",
+      "translation": "Exeter (Stadt im Südwesten Englands)",
+      "example": "\"The little boy will go to St Mary's Home for Young Children, in Exeter,\" she said."
+    },
+    {
       "word": "exhausting",
       "pos": "ADJ",
       "translation": "erschöpfend, anstrengend",
@@ -11724,6 +11910,12 @@
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
     },
     {
+      "word": "February",
+      "pos": "PROPN",
+      "translation": "Februar",
+      "example": "Tom did it in February, with wood from the beach."
+    },
+    {
       "word": "Fennimore",
       "pos": "PROPN",
       "translation": "Fennimore (Name des alten Buchhändlers)",
@@ -11742,10 +11934,28 @@
       "example": "One of them said, in his report, that it was the most impressive piece of scientific fiction he had ever read, and that he would very much like to meet its author."
     },
     {
+      "word": "fiddle",
+      "pos": "NOUN",
+      "translation": "die Fiedel, die Geige",
+      "example": "Jack Trevaskis played the fiddle, and Walter played his harmonica, and Miss Treloar taught Sam and Billy an old Cornish dance."
+    },
+    {
+      "word": "fifteenth",
+      "pos": "NOUN",
+      "translation": "fünfzehnter („the fifteenth“: der Fünfzehnte des Monats)",
+      "example": "They meet in Truro, on the fifteenth of April."
+    },
+    {
       "word": "fine",
       "pos": "VERB",
       "translation": "mit einer Geldstrafe belegen",
       "example": "It registered phrasers and fined those whose statements were judged \"deliberately misleading in effect\"."
+    },
+    {
+      "word": "fireplace",
+      "pos": "NOUN",
+      "translation": "der Kamin",
+      "example": "She looked at the empty milk bottle, at the old curtains, at the cold fireplace."
     },
     {
       "word": "fixed",
@@ -11754,10 +11964,22 @@
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
     },
     {
+      "word": "flag",
+      "pos": "NOUN",
+      "translation": "die Fahne, die Flagge",
+      "example": "There were flags on the quay."
+    },
+    {
       "word": "flu",
       "pos": "NOUN",
       "translation": "die Grippe",
       "example": "Ione had assumed she meant colleagues with colds or flu."
+    },
+    {
+      "word": "foam",
+      "pos": "NOUN",
+      "translation": "der Schaum",
+      "example": "He could only see grey water and grey sky and white foam."
     },
     {
       "word": "folder",
@@ -11782,6 +12004,12 @@
       "pos": "NOUN",
       "translation": "die Gründung",
       "example": "It went back to the founding of the Bureau, a century ago, when the first Director had said that a department which asked questions of everyone must also be willing to answer them."
+    },
+    {
+      "word": "fourpence",
+      "pos": "NOUN",
+      "translation": "vier Pence (alte britische Münze)",
+      "example": "\"Fourpence for the loaf,\" she said."
     },
     {
       "word": "fracture",
@@ -11862,6 +12090,12 @@
       "example": "She was the most gifted chemist the Corvane Institute ever employed."
     },
     {
+      "word": "grandparent",
+      "pos": "NOUN",
+      "translation": "die Großeltern",
+      "example": "Grandparents?"
+    },
+    {
       "word": "greatly",
       "pos": "ADV",
       "translation": "sehr, in hohem Maße",
@@ -11886,10 +12120,22 @@
       "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
     },
     {
+      "word": "harmonica",
+      "pos": "NOUN",
+      "translation": "die Mundharmonika",
+      "example": "After dinner, they sang Christmas songs, and Walter played an old harmonica."
+    },
+    {
       "word": "Harrow",
       "pos": "PROPN",
       "translation": "Harrow („Harrow Strand“: Name eines Strandes)",
       "example": "On the long curve of sand beneath the cliffs, at the place where the old harbour wall ran down into the sea, that everyone in the town called Harrow Strand."
+    },
+    {
+      "word": "helper",
+      "pos": "NOUN",
+      "translation": "der Helfer",
+      "example": "She is the best helper I ever had."
     },
     {
       "word": "helplessly",
@@ -12000,6 +12246,12 @@
       "example": "The formula in the Bureau's safe was examined by six independent chemists."
     },
     {
+      "word": "infection",
+      "pos": "NOUN",
+      "translation": "die Infektion, die Entzündung",
+      "example": "\"A bad chest infection,\" he said."
+    },
+    {
       "word": "injection",
       "pos": "NOUN",
       "translation": "die Injektion, die Spritze",
@@ -12066,6 +12318,12 @@
       "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
     },
     {
+      "word": "Jack",
+      "pos": "PROPN",
+      "translation": "Jack (männlicher Vorname)",
+      "example": "His name was Jack Trevaskis, and he had the biggest boat in Porthwen."
+    },
+    {
       "word": "jetty",
       "pos": "NOUN",
       "translation": "der Anleger, die Mole",
@@ -12120,10 +12378,46 @@
       "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
     },
     {
+      "word": "Lanyon",
+      "pos": "PROPN",
+      "translation": "Lanyon (Nachname des Ausschussvorsitzenden)",
+      "example": "His name was Mr Lanyon, and he was the chairman."
+    },
+    {
+      "word": "leek",
+      "pos": "NOUN",
+      "translation": "der Lauch, der Porree",
+      "example": "Under them, she found some leeks, thin and green but still alive."
+    },
+    {
+      "word": "lettuce",
+      "pos": "NOUN",
+      "translation": "der Salat",
+      "example": "In the vegetable beds, there were new rows of green shoots: peas, onions, lettuces, which Lily planted with seeds from the village shop."
+    },
+    {
+      "word": "lever",
+      "pos": "NOUN",
+      "translation": "der Hebel",
+      "example": "Push the lever slowly."
+    },
+    {
       "word": "likely",
       "pos": "ADJ",
       "translation": "wahrscheinlich",
       "example": "\"\"Within the next few weeks,\" she said, \"some information about the Corvane Institute is likely to become public."
+    },
+    {
+      "word": "Lillian",
+      "pos": "PROPN",
+      "translation": "Lillian (voller Name von Lily)",
+      "example": "\"Mr Walter Penrose, of Porthwen, is named the legal guardian of Thomas, Lillian and Samuel Hollis, until Thomas is eighteen years old."
+    },
+    {
+      "word": "limpet",
+      "pos": "NOUN",
+      "translation": "die Napfschnecke",
+      "example": "He showed them the limpets, which stick to the rocks very hard, and the little crabs that hide under the seaweed."
     },
     {
       "word": "line",
@@ -12150,6 +12444,12 @@
       "example": "\"Let me show you. Live. No tricks.\""
     },
     {
+      "word": "lobster",
+      "pos": "NOUN",
+      "translation": "der Hummer",
+      "example": "Sometimes there were crabs or lobsters inside."
+    },
+    {
       "word": "locate",
       "pos": "VERB",
       "translation": "befinden („located“: gelegen)",
@@ -12172,6 +12472,12 @@
       "pos": "ADJ",
       "translation": "grell, reißerisch",
       "example": "Inside, wrapped in brown paper, was a cheap paperback novel with a lurid cover — a romance, of the kind sold in railway stations, called Love on the Lighthouse."
+    },
+    {
+      "word": "madam",
+      "pos": "NOUN",
+      "translation": "gnädige Frau",
+      "example": "\"Good morning, madam."
     },
     {
       "word": "manual",
@@ -12202,6 +12508,12 @@
       "pos": "PROPN",
       "translation": "Marrows („Battle of the Marrows“: die Schlacht von Marrows, erfundene Schlacht)",
       "example": "Schoolchildren in white collars stood on the steps of public buildings and recited the famous true sentences of history: the words of the first judge to give a verdict without a jury, the confession of the general who lost the Battle of the Marrows, the opening line of the Phrasers' Act."
+    },
+    {
+      "word": "Mary",
+      "pos": "PROPN",
+      "translation": "Mary („St Mary’s Home“: das Heim St. Marien)",
+      "example": "\"The little boy will go to St Mary's Home for Young Children, in Exeter,\" she said."
     },
     {
       "word": "meaning",
@@ -12300,6 +12612,18 @@
       "example": "The fishing boats rocked at their moorings, and the harbour lights were going out one by one."
     },
     {
+      "word": "Morwenna",
+      "pos": "PROPN",
+      "translation": "Morwenna (Name von Walters Boot)",
+      "example": "The name of the boat was painted on the side in white letters: Morwenna."
+    },
+    {
+      "word": "mothball",
+      "pos": "NOUN",
+      "translation": "die Mottenkugel",
+      "example": "Walter wore a dark suit that smelled of mothballs and a tie that was much too tight."
+    },
+    {
       "word": "motto",
       "pos": "NOUN",
       "translation": "das Motto",
@@ -12330,6 +12654,12 @@
       "example": "Without that assumption, she felt like a musician who had suddenly lost her hearing."
     },
     {
+      "word": "mussel",
+      "pos": "NOUN",
+      "translation": "die Miesmuschel",
+      "example": "Mr Penrose is showing me."
+    },
+    {
       "word": "nation",
       "pos": "NOUN",
       "translation": "die Nation",
@@ -12342,10 +12672,28 @@
       "example": "\"The public does not need to be frightened by stories of mad scientists trying to break the most fundamental law of human nature,\" said Odette."
     },
     {
+      "word": "nettle",
+      "pos": "NOUN",
+      "translation": "die Brennnessel",
+      "example": "The grass was long and wet, and there were nettles everywhere."
+    },
+    {
       "word": "neurological",
       "pos": "ADJ",
       "translation": "neurologisch",
       "example": "Those who survived the trial were left with certain — neurological difficulties."
+    },
+    {
+      "word": "nightcap",
+      "pos": "NOUN",
+      "translation": "die Schlafmütze",
+      "example": "After a moment, a window opened above him, and a head in a nightcap looked out."
+    },
+    {
+      "word": "nightdress",
+      "pos": "NOUN",
+      "translation": "das Nachthemd",
+      "example": "Now she stood in Grandma's kitchen in her nightdress, with her arms crossed, and she looked like their mother."
     },
     {
       "word": "nutritional",
@@ -12370,6 +12718,18 @@
       "pos": "NOUN",
       "translation": "der Beamte, der Funktionär",
       "example": "At the foot of the steps, a Bureau official asked her name and wrote it in a large leather book."
+    },
+    {
+      "word": "oilskin",
+      "pos": "NOUN",
+      "translation": "der Ölmantel",
+      "example": "Men in oilskins, women with shawls over their heads, children holding lamps."
+    },
+    {
+      "word": "ointment",
+      "pos": "NOUN",
+      "translation": "die Salbe",
+      "example": "His hands were red and cut, and Lily put some of Grandma's ointment on them from a little pot she found in the cupboard."
     },
     {
       "word": "omelette",
@@ -12400,6 +12760,12 @@
       "pos": "NOUN",
       "translation": "die Eröffnung, der Anfang („opening line“: Anfangssatz)",
       "example": "Schoolchildren in white collars stood on the steps of public buildings and recited the famous true sentences of history: the words of the first judge to give a verdict without a jury, the confession of the general who lost the Battle of the Marrows, the opening line of the Phrasers' Act."
+    },
+    {
+      "word": "orphan",
+      "pos": "NOUN",
+      "translation": "die Waise",
+      "example": "\"I was an orphan too,\" she said suddenly."
     },
     {
       "word": "Osei",
@@ -12450,10 +12816,22 @@
       "example": "The statement on the Kessler Hotel fire was particularly good."
     },
     {
+      "word": "Pascoe",
+      "pos": "PROPN",
+      "translation": "Pascoe (Nachname der Bäckerin)",
+      "example": "I'm Mrs Pascoe."
+    },
+    {
       "word": "password",
       "pos": "NOUN",
       "translation": "das Passwort",
       "example": "Did your laptop have a password?"
+    },
+    {
+      "word": "pasty",
+      "pos": "NOUN",
+      "translation": "die Pastete, die Pasty (kornische Teigtasche)",
+      "example": "Lily made pot after pot of tea, and Mrs Pascoe sent up a big basket of pasties for lunch."
     },
     {
       "word": "Peel",
@@ -12466,6 +12844,12 @@
       "pos": "ADP",
       "translation": "bis zu, in Erwartung von",
       "example": "\"And while I'm asking them, I'm afraid Nurse Osei will be suspended from Lantry General Hospital, pending an inquiry into her unauthorised entry into a restricted ward."
+    },
+    {
+      "word": "Penzance",
+      "pos": "PROPN",
+      "translation": "Penzance (Hafenstadt in Cornwall)",
+      "example": "The man behind the window told him a child's ticket to Penzance was eleven shillings."
     },
     {
       "word": "permanent",
@@ -12498,6 +12882,18 @@
       "example": "It was a kind of phrasing, she thought."
     },
     {
+      "word": "pirate",
+      "pos": "NOUN",
+      "translation": "der Pirat",
+      "example": "Sam found a broom and fought the cobwebs, shouting like a pirate."
+    },
+    {
+      "word": "Plymouth",
+      "pos": "PROPN",
+      "translation": "Plymouth (Hafenstadt im Südwesten Englands)",
+      "example": "It was a grey morning in November, and it was raining in Plymouth."
+    },
+    {
       "word": "pointless",
       "pos": "ADJ",
       "translation": "sinnlos",
@@ -12520,6 +12916,12 @@
       "pos": "NOUN",
       "translation": "der Politiker, die Politikerin",
       "example": "Politicians promised to \"do everything that turns out to be possible\"."
+    },
+    {
+      "word": "Porthwen",
+      "pos": "PROPN",
+      "translation": "Porthwen (erfundenes Dorf in Cornwall)",
+      "example": "The writing was his mother's: Gull Cottage, Porthwen."
     },
     {
       "word": "portrait",
@@ -12550,6 +12952,12 @@
       "pos": "NOUN",
       "translation": "die Presse („press release“: die Pressemitteilung)",
       "example": "They wrote press releases and political speeches, contracts and apologies, product labels and wedding toasts."
+    },
+    {
+      "word": "pretty",
+      "pos": "ADJ",
+      "translation": "hübsch",
+      "example": "Walter's wife had made the curtains, many years ago, and they were faded but pretty."
     },
     {
       "word": "prevent",
@@ -12636,6 +13044,12 @@
       "example": "Trams rattled along the quays."
     },
     {
+      "word": "rake",
+      "pos": "NOUN",
+      "translation": "die Harke, der Rechen",
+      "example": "There were old garden tools: a spade, a fork, a rake, a watering can."
+    },
+    {
       "word": "random",
       "pos": "ADJ",
       "translation": "zufällig",
@@ -12678,6 +13092,18 @@
       "example": "It took ten minutes and three different receptionists before Bettany came on the line, sounding breathless and annoyed."
     },
     {
+      "word": "recipe",
+      "pos": "NOUN",
+      "translation": "das Rezept",
+      "example": "On the first page, in careful handwriting, it said: Rose Hollis, Her Recipes."
+    },
+    {
+      "word": "recommendation",
+      "pos": "NOUN",
+      "translation": "die Empfehlung",
+      "example": "My recommendation is that Mr Penrose becomes their guardian, and that the children stay together."
+    },
+    {
       "word": "reconstruct",
       "pos": "VERB",
       "translation": "rekonstruieren",
@@ -12694,6 +13120,12 @@
       "pos": "NOUN",
       "translation": "die Weigerung",
       "example": "But a refusal, here, in this room, would be an answer in itself."
+    },
+    {
+      "word": "rein",
+      "pos": "NOUN",
+      "translation": "der Zügel",
+      "example": "Then he shook the reins, and the horse walked on."
     },
     {
       "word": "reinstate",
@@ -12756,6 +13188,12 @@
       "example": "There was no revolution, no riot, no collapse."
     },
     {
+      "word": "ribbon",
+      "pos": "NOUN",
+      "translation": "das Band, die Schleife",
+      "example": "Lily and Sam decorated it with shells from the beach, red ribbons from the bakery, and little stars that Lily cut out of old paper."
+    },
+    {
       "word": "riddle",
       "pos": "NOUN",
       "translation": "das Rätsel",
@@ -12810,10 +13248,22 @@
       "example": "The address on the folder belonged to a building on the corner of a street called Rope Walk."
     },
     {
+      "word": "Rose",
+      "pos": "PROPN",
+      "translation": "Rose (weiblicher Vorname; die Großmutter der Kinder)",
+      "example": "On the first page, in careful handwriting, it said: Rose Hollis, Her Recipes."
+    },
+    {
       "word": "rota",
       "pos": "NOUN",
       "translation": "der Dienstplan",
       "example": "They walked back along the quay together, and Bettany talked about sleep and soup and the unfairness of hospital rotas, and Ione answered when she was supposed to, and all the time her mind kept returning to the same small, impossible sentence."
+    },
+    {
+      "word": "Rowe",
+      "pos": "PROPN",
+      "translation": "Rowe (Nachname einer alten Dorfbewohnerin)",
+      "example": "Old Mrs Rowe, who was ninety-two and almost blind, told her granddaughter what to write."
     },
     {
       "word": "rule",
@@ -12828,10 +13278,34 @@
       "example": "Is the Bureau, today, in possession of a formula which it believes will allow that compound to be made safely and in quantity?\""
     },
     {
+      "word": "saffron",
+      "pos": "NOUN",
+      "translation": "der Safran",
+      "example": "She taught me to make saffron buns, you know."
+    },
+    {
+      "word": "sail",
+      "pos": "VERB",
+      "translation": "segeln",
+      "example": "He learned to sail in this harbour, in my old boat."
+    },
+    {
       "word": "Saltreach",
       "pos": "PROPN",
       "translation": "Saltreach (Küstendorf nahe dem Corvane-Institut)",
       "example": "It was located on the coast, about forty miles from here, near the village of Saltreach."
+    },
+    {
+      "word": "salty",
+      "pos": "ADJ",
+      "translation": "salzig",
+      "example": "They ate it at the table, on Grandma's plates, with bread, and it was hot and salty and good."
+    },
+    {
+      "word": "Sammy",
+      "pos": "PROPN",
+      "translation": "Sammy (Kosename für Sam)",
+      "example": "\"Yes, Sammy,\" he said."
     },
     {
       "word": "sample",
@@ -12858,10 +13332,22 @@
       "example": "Lantry was an old city, built on both banks of the Sull, and it had the slightly self-satisfied air of a place that had never been bombed, flooded or seriously embarrassed."
     },
     {
+      "word": "saucepan",
+      "pos": "NOUN",
+      "translation": "der Kochtopf, der Stieltopf",
+      "example": "Lily took three blankets, all their warm jumpers and socks, two towels, soap, a comb, and a small saucepan."
+    },
+    {
       "word": "schoolchild",
       "pos": "NOUN",
       "translation": "das Schulkind",
       "example": "Ione knew it by heart, like every schoolchild."
+    },
+    {
+      "word": "seasick",
+      "pos": "ADJ",
+      "translation": "seekrank",
+      "example": "\"Do you get seasick?"
     },
     {
       "word": "seaweed",
@@ -12924,10 +13410,22 @@
       "example": "They stood side by side at the rail, watching the lights of the city slide across the black water."
     },
     {
+      "word": "sincerely",
+      "pos": "ADV",
+      "translation": "aufrichtig („Yours sincerely“: Grußformel am Briefende)",
+      "example": "Yours sincerely, Thomas, Lily and Samuel Hollis."
+    },
+    {
       "word": "sleeping",
       "pos": "ADJ",
       "translation": "schlafend",
       "example": "Outside, the city had given way to dark fields and the occasional sleeping farmhouse."
+    },
+    {
+      "word": "sling",
+      "pos": "NOUN",
+      "translation": "die Armschlinge",
+      "example": "Walter came to visit every day, with his arm in a white sling and Biscuit at his heels."
     },
     {
       "word": "sly",
@@ -12940,6 +13438,12 @@
       "pos": "NOUN",
       "translation": "die Gesellschaft",
       "example": "In a society where everyone told the truth, she still managed to be more truthful than most, because she never hid behind the clever omissions that everyone else used."
+    },
+    {
+      "word": "spade",
+      "pos": "NOUN",
+      "translation": "der Spaten",
+      "example": "There were old garden tools: a spade, a fork, a rake, a watering can."
     },
     {
       "word": "specially",
@@ -12984,6 +13488,12 @@
       "example": "It said, in essence, that nothing a phraser learned in the course of preparing a statement for a client could be demanded from them by anyone else — not by the police, not by a court, and not by any department of the state."
     },
     {
+      "word": "steer",
+      "pos": "VERB",
+      "translation": "steuern",
+      "example": "He could steer the boat when the sea was calm."
+    },
+    {
       "word": "stern",
       "pos": "NOUN",
       "translation": "das Heck",
@@ -13018,6 +13528,12 @@
       "pos": "PROPN",
       "translation": "Strand („Harrow Strand“: Name eines Strandes)",
       "example": "On the long curve of sand beneath the cliffs, at the place where the old harbour wall ran down into the sea, that everyone in the town called Harrow Strand."
+    },
+    {
+      "word": "suitable",
+      "pos": "ADJ",
+      "translation": "geeignet",
+      "example": "\"But the guardian must be suitable."
     },
     {
       "word": "Sull",
@@ -13104,6 +13620,12 @@
       "example": "She knew the smell of the place — salt, tar, frying fish, the damp wool of her grandmother's cardigans — better than she knew the smell of her own flat."
     },
     {
+      "word": "Taunton",
+      "pos": "PROPN",
+      "translation": "Taunton (Stadt im Südwesten Englands)",
+      "example": "There is a place for him on a farm near Taunton."
+    },
+    {
       "word": "teapot",
       "pos": "NOUN",
       "translation": "die Teekanne",
@@ -13150,6 +13672,24 @@
       "pos": "NOUN",
       "translation": "das Zusammenziehen, die Verkrampfung",
       "example": "There was no tightening in his throat, no hesitation, no trace of strain on his face."
+    },
+    {
+      "word": "tiller",
+      "pos": "NOUN",
+      "translation": "die Ruderpinne",
+      "example": "Tom took the tiller."
+    },
+    {
+      "word": "tobacco",
+      "pos": "NOUN",
+      "translation": "der Tabak",
+      "example": "It was a grey stone house with three small bedrooms, a big kitchen and a smell of tar and tobacco."
+    },
+    {
+      "word": "tock",
+      "pos": "NOUN",
+      "translation": "tack („tick, tock“: Ticken der Uhr)",
+      "example": "He listened to the big clock: tick, tock, tick, tock."
     },
     {
       "word": "toothpaste",
@@ -13206,10 +13746,28 @@
       "example": "\"The treatment lasted eight months,\" Lucan went on."
     },
     {
+      "word": "Treloar",
+      "pos": "PROPN",
+      "translation": "Treloar (Nachname der Lehrerin)",
+      "example": "\"That's Miss Treloar, the schoolteacher,\" Mrs Pascoe whispered to Lily."
+    },
+    {
+      "word": "Trevaskis",
+      "pos": "PROPN",
+      "translation": "Trevaskis (Nachname des Fischers Jack)",
+      "example": "His name was Jack Trevaskis, and he had the biggest boat in Porthwen."
+    },
+    {
       "word": "trigger",
       "pos": "VERB",
       "translation": "auslösen",
       "example": "And a question, as every phraser knew, could never trigger the Stop, because a question was not a statement."
+    },
+    {
+      "word": "Truro",
+      "pos": "PROPN",
+      "translation": "Truro (Stadt in Cornwall)",
+      "example": "On the fifteenth of April, they took the early bus to Truro."
     },
     {
       "word": "truthfully",
@@ -13320,6 +13878,12 @@
       "example": "He was a small, neat man with silver hair, a silver moustache and a wardrobe of beautiful waistcoats, and he spoke so slowly and precisely that clients sometimes mistook him for a fool."
     },
     {
+      "word": "waiting",
+      "pos": "NOUN",
+      "translation": "das Warten („waiting room“: der Warteraum)",
+      "example": "Next to the station, there was a small waiting room with a wooden bench and a big clock on the wall."
+    },
+    {
       "word": "Walk",
       "pos": "PROPN",
       "translation": "Walk („Rope Walk“: Straßenname, „Seilergang“)",
@@ -13338,6 +13902,18 @@
       "example": "She went instead to Pennick's, a narrow place on Weaver's Row with green tiles on the walls and a counter made from the hull of an old boat."
     },
     {
+      "word": "welcome",
+      "pos": "ADJ",
+      "translation": "willkommen („Welcome home!“: Willkommen zu Hause!)",
+      "example": "It said, in red letters: WELCOME HOME."
+    },
+    {
+      "word": "whale",
+      "pos": "NOUN",
+      "translation": "der Wal",
+      "example": "\"Did you know that a whale is not a fish?\" he said one night."
+    },
+    {
       "word": "wicked",
       "pos": "ADJ",
       "translation": "böse, schlecht",
@@ -13348,6 +13924,12 @@
       "pos": "NOUN",
       "translation": "die Luftröhre",
       "example": "But the moment you tried to push it out through your mouth, or through the nib of a pen, something closed inside you, like a hand around your windpipe, and the words simply would not come."
+    },
+    {
+      "word": "your",
+      "pos": "NOUN",
+      "translation": "dein, euer, Ihr",
+      "example": "I am very sorry about your mother, she said."
     },
     {
       "word": "Édith",
