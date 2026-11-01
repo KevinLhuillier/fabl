@@ -1,7 +1,8 @@
-import { useAudioPlayer, useAudioPlayerStatus } from 'expo-audio';
+import { useAudioPlayer } from 'expo-audio';
 import { useCallback, useEffect, useRef } from 'react';
 
 import { ensureAudioMode } from './audioMode';
+import { useAudioStatus } from './audioStatus';
 
 /** Margins around the timings: Whisper's word boundaries are a little tight. */
 const LEAD_MS = 120;
@@ -13,7 +14,7 @@ const TAIL_MS = 200;
  */
 export function useSegmentPlayer(uri: string) {
   const player = useAudioPlayer(uri, { updateInterval: 50 });
-  const status = useAudioPlayerStatus(player);
+  const status = useAudioStatus(player);
   const endMs = useRef<number | null>(null);
 
   useEffect(ensureAudioMode, []);

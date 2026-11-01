@@ -1,4 +1,4 @@
-import { useAudioPlayer, useAudioPlayerStatus } from 'expo-audio';
+import { useAudioPlayer } from 'expo-audio';
 import { Pause, Play, RotateCcw } from 'lucide-react-native';
 import { memo, useEffect, useImperativeHandle, useRef, type Ref } from 'react';
 import { ActivityIndicator, Pressable, StyleSheet, View, type ViewStyle } from 'react-native';
@@ -6,6 +6,7 @@ import Svg, { Circle } from 'react-native-svg';
 
 import { useI18n } from '@/i18n';
 import { ensureAudioMode } from '@/lib/audioMode';
+import { useAudioStatus } from '@/lib/audioStatus';
 import { Icon, colors, haptics } from '@/theme';
 
 /** Lets the reader start the voice-over from a word, or pause it (a word's pronunciation plays). */
@@ -55,7 +56,7 @@ export function PageAudio({
   const { t } = useI18n();
   // Frequent updates so the highlighted word keeps up with the voice.
   const player = useAudioPlayer(uri, { updateInterval: 100 });
-  const status = useAudioPlayerStatus(player);
+  const status = useAudioStatus(player);
   const ended = status.duration > 0 && status.currentTime >= status.duration - 0.25;
   const progress = status.duration ? Math.min(1, status.currentTime / status.duration) : 0;
   const started = status.playing || status.currentTime > 0;

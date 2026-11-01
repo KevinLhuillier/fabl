@@ -1,7 +1,14 @@
 import { useRouter, useLocalSearchParams } from 'expo-router';
 import { BookOpen, ChevronLeft, ChevronRight, Lightbulb, X } from 'lucide-react-native';
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { Pressable, ScrollView, StyleSheet, View, type ScrollViewInstance } from 'react-native';
+import {
+  ActivityIndicator,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  View,
+  type ScrollViewInstance,
+} from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -35,6 +42,11 @@ import {
   levelColors,
   spacing,
 } from '@/theme';
+
+/** Frame given to the loader before the new page is drawn. */
+const TURN_DELAY_MS = 40;
+/** The loader shows only when turning the page lasts longer than this. */
+const LOADER_DELAY_MS = 200;
 
 type Loaded = {
   story: StorySummary;
@@ -74,6 +86,15 @@ export default function ChapterReader() {
   const { target } = useTour('reader', data !== null);
   const [sheet, setSheet] = useState<WordSheetState | null>(null);
   const [selected, setSelected] = useState<number | null>(null);
+  // Turning the page: the new one is being drawn (a loader covers the text meanwhile).
+  const [turning, setTurning] = useState(false);
+  const turnTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  useEffect(() => {
+    // The new page is on screen: take the loader away once it has been painted.
+    const frame = requestAnimationFrame(() => setTurning(false));
+    return () => cancelAnimationFrame(frame);
+  }, [page]);
+  useEffect(() => () => clearTimeout(turnTimer.current ?? undefined), []);
   const scrollRef = useRef<ScrollViewInstance>(null);
   const audioRef = useRef<PageAudioHandle>(null);
   // Read-along: which words the voice-over has reached (null when not playing). Kept out of
@@ -156,13 +177,18 @@ export default function ChapterReader() {
   const aligned = !!current.audioUrl && current.tokens.some((t) => t.startMs !== null);
 
   function goTo(target: number) {
+    // A page is already being drawn: ignore a second tap.
+    if (turning) return;
     touchActivity();
-    setPage(target);
+    setTurning(true);
     setSelected(null);
     readAlong.set(null);
     // Long pages: always start reading the target one from the top.
     scrollRef.current?.scrollTo({ y: 0, animated: false });
     saveChapterPage(chapterId, target).catch((e) => console.warn('saveChapterPage', e));
+    // Drawing a page keeps a slow phone busy for a moment: give the loader a frame to be
+    // handed to the screen first (its fade-in then runs natively, whatever JS is doing).
+    turnTimer.current = setTimeout(() => setPage(target), TURN_DELAY_MS);
   }
 
   async function finish() {
@@ -311,6 +337,12 @@ export default function ChapterReader() {
             />
           </View>
         ) : null}
+        {/* Appears only if the page takes a while (slow phone): no flash on a quick one. */}
+        {turning ? (
+          <Animated.View entering={enter.fade(LOADER_DELAY_MS)} style={styles.turning}>
+            <ActivityIndicator size="large" color={level.solid} />
+          </Animated.View>
+        ) : null}
       </View>
 
       <View style={styles.footer}>
@@ -412,6 +444,16 @@ const styles = StyleSheet.create({
   // Room under the last line so the floating player never hides it.
   bodyWithAudio: { paddingBottom: PAGE_AUDIO_SIZE + spacing.xl * 2 },
   audio: { position: 'absolute', right: spacing.xl, bottom: spacing.lg },
+  turning: {
+    position: 'absolute',
+    top: 0,
+    right: 0,
+    bottom: 0,
+    left: 0,
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: colors.background,
+  },
   hint: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: spacing.xs },
   footer: {
     flexDirection: 'row',
