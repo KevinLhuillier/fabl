@@ -1197,3 +1197,149 @@ He got into his black car and drove away.
 Milo stood on the street with the card in his hand. Fifty thousand pounds.
 "Milo," Mr Okafor said. "Come. We need to talk."
 But Milo was not listening. He was looking at the number on the card. And for the first time, he was thinking about saying yes.
+
+# The Leak
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_1-1793514450510.mp3
+Mr Okafor took Milo into his house. He made two cups of hot chocolate. Ada lay at Milo's feet. For a long time, nobody spoke.
+"Fifty thousand pounds," Milo said finally. "Mr Okafor, that's a lot of money. My mum could stop working nights. She could sleep. She could..."
+"I know," Mr Okafor said. "I know exactly how it feels. When I was young, they offered me money too. A house. A car. A big office with a view of the river. And I said yes. Because it was easy. Because they said, 'If you don't build it, somebody else will.'"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_2-1793514461615.mp3
+"That's true, though," Milo said. "Somebody else will build it."
+"Maybe. Maybe in five years. Maybe in ten. But not tomorrow. Not with your code. Not with your name on it." Mr Okafor looked at him. "Do you know what Mr Reese will do with your glasses?"
+"Make the world safer. He said."
+"He will put cameras in every shop. Every street. Every bus. Every school. And every camera will give every person a score. Your mother, twenty-six. Kai, four. The man with the guitar, nine. And then shops will decide. Banks will decide. Landlords will decide. Employers will decide. 'Oh, your score is low. Sorry, no job for you. No flat for you. No loan for you. Please leave the shop.'"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_3-1793514471529.mp3
+Milo thought about the car boot sale. Low score, low price. High score, high price. He thought it was like Robin Hood. But Dalton Reese was not Robin Hood. In Dalton's world, it would go the other way. Low score, no chance.
+"And when it makes a mistake?" Mr Okafor asked quietly. "Like with Kai?"
+Milo did not answer. He did not have to.
+He went home and lay on his bed. He looked at the business card for a long time. Black card, silver letters. ClearView Labs. Dalton Reese. A phone number.
+He thought about his mum. He thought about Kai. He thought about Mr Okafor's student, the young man at the protest, who disappeared.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_4-1793514481966.mp3
+At eleven o'clock at night, he took the card and tore it into small pieces. He put the pieces in the bin.
+"No," he said to the dark room. "No deal."
+He slept well that night. For the first time in weeks.
+On Saturday morning, he went down to the garage. He wanted to start something new. Something good. Maybe a machine to help Mr Okafor in his garden. Maybe a better heater.
+He opened the garage door and stopped.
+The garage was a mess. A real mess. Not his normal mess. Somebody was here. The small window at the back was broken. There was glass on the floor. Boxes were open. Papers were everywhere. The big paper with his ideas was on the floor, with a dirty footprint on it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_5-1793514491948.mp3
+And his laptop was gone.
+Milo ran to the long table. The place where his laptop always was. Empty. Only the cable was there. He looked under the table. He looked in every box. Nothing.
+Twenty-five thousand lines of code. Eight months of work. Gone.
+He ran into the house. "Mum! Mum!"
+His mum was in the kitchen in her pink dressing gown. She came running. She saw the garage. Her hand went to her mouth.
+"Did they take anything else?" she asked. "The television? My bag?"
+"No," Milo said. "Only my laptop. Only the code."
+His mum looked at him. "The glasses?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_6-1793514503291.mp3
+Milo put his hand in his jacket pocket. The black box was there. He always kept it with him now. Since Thursday, since Dalton saw it, he never left it anywhere.
+"I have them," he said.
+His mum called the police. Two police officers came. A man and a woman. They looked at the broken window. They wrote things in a notebook. They asked questions.
+"Do you know who did this?"
+"Yes," Milo said. "Dalton Reese. ClearView Labs. He wanted to buy my program. I said no."
+The officers looked at each other. "Do you have proof?"
+"No. But I know."
+"We need proof, son," the man said. "A big company like that... we can't just knock on their door because you think it was them. We'll look for fingerprints. We'll check the cameras on the street."
+There were no cameras on Hollybush Road. There were no fingerprints. The police left after one hour and said they would call.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_7-1793514517432.mp3
+At two o'clock in the afternoon, Bea came. She ran all the way from her house. Her yellow coat was open. Her face was red.
+"Milo! Did you see it? Did you see the video?"
+"What video?"
+She took out her phone and showed him. It was a video on a big technology website. Dalton Reese was standing on a stage. Behind him there was a huge screen. On the screen there was one word: CLEARVIEW LENS.
+"Ladies and gentlemen," Dalton said in the video, with his perfect smile. "On Wednesday, at the Future Tech Fair in Birmingham, I will show you something that will change the world. A face recognition system so good, so fast, so smart, that it will make every other system look like a toy. Not just for the police. Not just for big companies. For everybody. Download the app. Point your phone at anyone. Know everything. See everything."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_8-1793514529466.mp3
+See everything. Milo's own words. On Dalton's screen.
+"It's my code," Milo said. His voice was very small. "It's my program. He's going to put it on every phone in the country."
+Bea held his arm. "So what do we do?"
+"I don't know."
+"You always know."
+"Not this time, Bea!" Milo shouted. He was surprised by his own voice. "He has a company. He has money. He has lawyers. He has my laptop. I'm thirteen and I have a broken garage and fifty pence in my pocket!"
+Bea did not move. She did not shout back. She just looked at him.
+"You have more than that," she said. "You have me. You have Mr Okafor. And you have the only person in the world who knows that code better than Dalton Reese."
+"Who?"
+"You, idiot."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_9-1793514541049.mp3
+They went to Mr Okafor's house. All three of them sat in the living room with the books and the unfinished machines. Ada lay in the middle of the floor. Milo explained the problem.
+"He has the code," Milo said. "The whole program. On my laptop. He can copy it. He can give it to his engineers. In two days, they can put it in a phone app."
+"Did your laptop have a password?" Mr Okafor asked.
+"Yes. But a good engineer can break it in a few hours."
+"And the code itself," Mr Okafor said slowly. "How does it work? Where does it get the information from?"
+Milo thought. "It searches the internet. Social media, public lists, newspapers, websites. And it uses a database of faces. My database. I built it."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_10-1793514552589.mp3
+"Where is the database?"
+"On a server. Online. I pay for it with my pocket money. Five pounds a month."
+Mr Okafor sat up a little. "So the program on the laptop does not have the faces inside it. It asks your server."
+"Yes. Every time. The server is faster."
+"And who controls the server?"
+Milo stopped. He looked at Mr Okafor. He looked at Bea. Something started to move in his head. Like a small machine starting up.
+"I do," he said slowly. "Only me. With my password. My other password. The one that's not on the laptop."
+"Can Mr Reese's engineers build their own server? Their own database?"
+"Yes. But it took me four months. If they're very good and very fast... two or three weeks. Maybe more."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_11-1793514564884.mp3
+"And the show is on Wednesday," Bea said. "In four days."
+"So on Wednesday," Mr Okafor said, "when Mr Reese stands on his stage and shows everybody his wonderful new system, his wonderful new system will ask your server for the faces."
+"Yes," Milo said. A slow smile started on his face. The first real smile in days. "Yes. It will."
+"And your server," Mr Okafor said, "can answer anything you want."
+Bea looked from one to the other. "Wait. Wait, wait, wait. What are you saying? You can turn it off? Just like that?"
+"Not just like that," Milo said. "If I turn it off now, before Wednesday, he'll know. His engineers will see the problem and they'll fix it before the show. They'll build their own database faster. I need to wait. I need to do it at the right moment. On the stage. In front of everybody. So everybody sees that it doesn't work."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_12-1793514574261.mp3
+"And then?" Bea asked.
+"And then I delete it. All of it. The database. The server. Everything. Forever. So nobody can ever use it again. Not Dalton. Not me."
+Mr Okafor looked at him for a long time. "Not you?"
+"Not me," Milo said. And he was surprised to find that he meant it.
+"There is one problem," Mr Okafor said. "The connection. If his engineers are clever, they will copy your code and change it a little. Maybe they will check the server before the show. Maybe on the day, they will notice something strange. You need to see what is happening on that stage. You need to be there."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_13-1793514583756.mp3
+"In Birmingham?" Bea said. "On Wednesday? We have school."
+"We have a very good reason," Milo said.
+Bea thought about it. Then she smiled. Her big, crazy, Bea smile.
+"My dad has a car," she said. "And my dad loves technology fairs."
+They worked all weekend. Milo in Mr Okafor's living room, on Mr Okafor's old computer, which was older than Milo but still worked very well. Mr Okafor next to him, asking quiet questions and making suggestions. Bea making sandwiches and hot chocolate and asking a thousand questions that, sometimes, were very good questions.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_9.page_14-1793514594608.mp3
+On Sunday night, Milo pressed the last key. He sat back in the chair.
+"It's ready," he said.
+On the screen, there was one small button. A red button. Under it, Milo wrote two words.
+"SEE NOTHING."
+He did not press it. Not yet.
+"Wednesday," Mr Okafor said.
+"Wednesday," Milo said.
+Bea put her hand on top of his. Then Mr Okafor put his old, warm hand on top of hers. Ada the dog lifted her head and looked at them, as if she wanted to be part of it too.
+Outside, in the dark street, a black car drove past slowly. Nobody inside the house saw it.

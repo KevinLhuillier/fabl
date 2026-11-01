@@ -3402,6 +3402,12 @@
       "example": "But this was a different kind of silence — tight and watchful, like the hush that falls over the forest before a storm, when even the birds think better of singing."
     },
     {
+      "word": "Birmingham",
+      "pos": "PROPN",
+      "translation": "Birmingham (grande città dell’Inghilterra centrale)",
+      "example": "On Wednesday, at the Future Tech Fair in Birmingham, I will show you something that will change the world."
+    },
+    {
       "word": "biro",
       "pos": "NOUN",
       "translation": "la biro, la penna a sfera",
@@ -5770,6 +5776,12 @@
       "pos": "NOUN",
       "translation": "il cemento",
       "example": "In forty years he had hauled steel coil, frozen fish, bagged cement and, on one memorable occasion, a dismantled fairground ride; the Duchess was rated for forty-four tonnes, and today she would be carrying barely six."
+    },
+    {
+      "word": "connection",
+      "pos": "NOUN",
+      "translation": "la connessione",
+      "example": "The connection. If his engineers are clever, they will copy your code and change it a little."
     },
     {
       "word": "Cénacle",
@@ -9030,6 +9042,12 @@
       "example": "The temperature display on the dashboard slid from two degrees to zero, then to minus one, and then, with a kind of casual malice, to minus four."
     },
     {
+      "word": "database",
+      "pos": "NOUN",
+      "translation": "il database, la banca dati",
+      "example": "And it uses a database of faces."
+    },
+    {
       "word": "date",
       "pos": "NOUN",
       "translation": "la data",
@@ -10960,6 +10978,42 @@
       "pos": "PROPN",
       "translation": "Edimburgo",
       "example": "He took his second break at a truck stop outside Edinburgh, ate nothing, and pressed on across the Queensferry Crossing, whose great white cables flashed past him like the strings of some colossal instrument."
+    },
+    {
+      "word": "employer",
+      "pos": "NOUN",
+      "translation": "il datore di lavoro",
+      "example": "Employers will decide."
+    },
+    {
+      "word": "fair",
+      "pos": "NOUN",
+      "translation": "la fiera",
+      "example": "On Wednesday, at the Future Tech Fair in Birmingham, I will show you something that will change the world."
+    },
+    {
+      "word": "landlord",
+      "pos": "NOUN",
+      "translation": "il proprietario (che affitta), il padrone di casa",
+      "example": "Landlords will decide."
+    },
+    {
+      "word": "password",
+      "pos": "NOUN",
+      "translation": "la password",
+      "example": "Did your laptop have a password?"
+    },
+    {
+      "word": "server",
+      "pos": "NOUN",
+      "translation": "il server",
+      "example": "On a server. Online."
+    },
+    {
+      "word": "start up",
+      "pos": "PHRASE",
+      "translation": "avviarsi, mettersi in moto",
+      "example": "Something started to move in his head. Like a small machine starting up."
     },
     {
       "word": "Édith",

@@ -799,6 +799,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "CLEARVIEW",
+      "pos": "PROPN",
+      "word": "ClearView",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "climbing",
       "pos": "NOUN",
       "word": "climb",
@@ -1288,6 +1294,12 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "Download",
+      "pos": "PROPN",
+      "word": "download",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Downstairs",
       "pos": "PROPN",
       "word": "downstairs",
@@ -1502,6 +1514,12 @@
       "pos": "PROPN",
       "word": "fair",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Fair",
+      "pos": "PROPN",
+      "word": "fair",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Fall",
@@ -1825,6 +1843,12 @@
       "text": "fuss",
       "pos": "PROPN",
       "word": "fuss",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Future",
+      "pos": "PROPN",
+      "word": "future",
       "lemmaPos": "NOUN"
     },
     {
@@ -2703,6 +2727,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Landlords",
+      "pos": "PROPN",
+      "word": "landlord",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "laughing",
       "pos": "NOUN",
       "next": ",",
@@ -2787,6 +2817,12 @@
       "next": "from",
       "word": "stiff-legged",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "LENS",
+      "pos": "PROPN",
+      "word": "lens",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "lent",
@@ -5174,6 +5210,12 @@
       "pos": "NOUN",
       "word": "tear",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Tech",
+      "pos": "PROPN",
+      "word": "tech",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "teddy",
