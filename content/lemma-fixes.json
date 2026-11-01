@@ -792,6 +792,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "city",
+      "pos": "PROPN",
+      "word": "city",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "clapping",
       "pos": "NOUN",
       "word": "clap",
@@ -883,6 +889,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Coffee",
+      "pos": "PROPN",
+      "word": "coffee",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "colder",
       "pos": "VERB",
       "word": "cold",
@@ -949,6 +961,12 @@
       "next": ",",
       "word": "cough",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "council",
+      "pos": "PROPN",
+      "word": "council",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "COUNTY",
@@ -1056,6 +1074,12 @@
       "pos": "NOUN",
       "word": "curl",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "customs",
+      "pos": "PROPN",
+      "word": "customs",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "cut",
@@ -1472,6 +1496,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "exists",
+      "pos": "NOUN",
+      "word": "exist",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "EXPERIMENT",
       "pos": "PROPN",
       "word": "experiment",
@@ -1820,6 +1850,12 @@
       "pos": "PROPN",
       "word": "Friday",
       "lemmaPos": "PROPN"
+    },
+    {
+      "text": "froze",
+      "pos": "ADJ",
+      "word": "freeze",
+      "lemmaPos": "VERB"
     },
     {
       "text": "Frozen",
@@ -3011,6 +3047,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "lunchtime",
+      "pos": "ADJ",
+      "word": "lunchtime",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Léa",
       "pos": "ADJ",
       "word": "Léa",
@@ -3270,6 +3312,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "misunderstood",
+      "pos": "NOUN",
+      "word": "misunderstand",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Mondays",
       "pos": "PROPN",
       "word": "Monday",
@@ -3373,6 +3421,12 @@
       "pos": "NOUN",
       "word": "neat",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "needed",
+      "pos": "ADJ",
+      "word": "need",
+      "lemmaPos": "VERB"
     },
     {
       "text": "NEW",
@@ -4550,6 +4604,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "sharper",
+      "pos": "ADV",
+      "word": "sharp",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "shaven",
       "pos": "ADV",
       "word": "clean-shaven",
@@ -5528,6 +5588,18 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "tram",
+      "pos": "PROPN",
+      "word": "tram",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Trams",
+      "pos": "PROPN",
+      "word": "tram",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "treadmills",
       "pos": "VERB",
       "word": "treadmill",
@@ -5744,6 +5816,12 @@
       "pos": "PROPN",
       "word": "valley",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "valuable",
+      "pos": "NOUN",
+      "word": "valuable",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "VAN",

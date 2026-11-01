@@ -582,10 +582,22 @@
       "example": "\"No adverts, no magazines, no websites."
     },
     {
+      "word": "advertise",
+      "pos": "VERB",
+      "translation": "faire de la publicité pour, annoncer",
+      "example": "Restaurants advertised \"food\"."
+    },
+    {
       "word": "advertisement",
       "pos": "NOUN",
       "translation": "la publicité, l'annonce",
       "example": "An article about stress, and an advertisement for a mattress."
+    },
+    {
+      "word": "advertising",
+      "pos": "NOUN",
+      "translation": "la publicité",
+      "example": "Advertising, in a world without lies, had become an art of precision."
     },
     {
       "word": "advice",
@@ -1456,6 +1468,12 @@
       "example": "Master Hale watched him approach with an expression of polite, faintly bored patience."
     },
     {
+      "word": "approve",
+      "pos": "VERB",
+      "translation": "approuver, valider",
+      "example": "She had been Ione's closest friend since they were eleven years old, and she had never quite approved of Ione's job."
+    },
+    {
       "word": "approvingly",
       "pos": "ADV",
       "translation": "d'un air approbateur",
@@ -1790,6 +1808,12 @@
       "pos": "PROPN",
       "translation": "Ashford (nom de lieu)",
       "example": "Long before the sun had risen over the hills of Ashford, Edwin was already awake."
+    },
+    {
+      "word": "Ashgrove",
+      "pos": "PROPN",
+      "translation": "Ashgrove (« Peel & Ashgrove » : le cabinet de rédaction où travaille Ione)",
+      "example": "She sat at her desk on the fourth floor of Peel & Ashgrove, a cup of cold tea at her elbow and the engineers' report open in front of her."
     },
     {
       "word": "Ashley",
@@ -2994,6 +3018,12 @@
       "example": "His flat was on the second floor of an old house in Bedminster, south of the river."
     },
     {
+      "word": "bedpan",
+      "pos": "NOUN",
+      "translation": "le bassin (de lit)",
+      "example": "\"Someone has to clean bedpans as well,\" Bettany replied, the way she always did."
+    },
+    {
       "word": "bedroom",
       "pos": "NOUN",
       "translation": "la chambre (à coucher)",
@@ -3304,6 +3334,12 @@
       "pos": "PROPN",
       "translation": "BetStar (nom d'un site de paris en ligne)",
       "example": "Again and again, in Mark's personal account, there was the same name: BETSTAR ONLINE."
+    },
+    {
+      "word": "Bettany",
+      "pos": "PROPN",
+      "translation": "Bettany (prénom ; l’amie d’Ione, infirmière)",
+      "example": "Bettany was already there, sitting by the window with a bowl of soup and the exhausted expression of a nurse who had just finished a night shift."
     },
     {
       "word": "better",
@@ -3862,6 +3898,12 @@
       "pos": "NOUN",
       "translation": "le boulon",
       "example": "Then he needed to fix it with a small bolt."
+    },
+    {
+      "word": "bomb",
+      "pos": "VERB",
+      "translation": "bombarder",
+      "example": "Lantry was an old city, built on both banks of the Sull, and it had the slightly self-satisfied air of a place that had never been bombed, flooded or seriously embarrassed."
     },
     {
       "word": "bone",
@@ -5508,6 +5550,12 @@
       "example": "The food appeared — carried in on great platters by a line of kitchen staff — and the noise rose again like a wave."
     },
     {
+      "word": "carry on",
+      "pos": "PHRASE",
+      "translation": "continuer, poursuivre son cours",
+      "example": "She stood there for a long time, her heart beating hard, while the city carried on around her exactly as it always had."
+    },
+    {
       "word": "carry out",
       "pos": "PHRASE",
       "translation": "sortir (en portant) ; effectuer, réaliser",
@@ -5784,10 +5832,34 @@
       "example": "In forty years he had hauled steel coil, frozen fish, bagged cement and, on one memorable occasion, a dismantled fairground ride; the Duchess was rated for forty-four tonnes, and today she would be carrying barely six."
     },
     {
+      "word": "coming",
+      "pos": "ADJ",
+      "translation": "prochain, à venir",
+      "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
+    },
+    {
+      "word": "confuse",
+      "pos": "VERB",
+      "translation": "troubler, embrouiller (« confused » : perdu, troublé)",
+      "example": "Perhaps he believed, for some private reason, that it really was raining — perhaps he was ill, or confused."
+    },
+    {
       "word": "connection",
       "pos": "NOUN",
       "translation": "la connexion, la liaison",
       "example": "The connection. If his engineers are clever, they will copy your code and change it a little."
+    },
+    {
+      "word": "consistency",
+      "pos": "NOUN",
+      "translation": "la cohérence, la constance",
+      "example": "That's consistency, at least."
+    },
+    {
+      "word": "customs",
+      "pos": "NOUN",
+      "translation": "la douane (« customs house » : le bâtiment de la douane)",
+      "example": "On the wall of the old customs house, a giant advertisement for a brand of toothpaste declared: \"Recommended by more dentists than any other toothpaste we make.\""
     },
     {
       "word": "Cénacle",
@@ -9810,6 +9882,12 @@
       "example": "Her dress is dirty. — Sa robe est sale."
     },
     {
+      "word": "disagree",
+      "pos": "VERB",
+      "translation": "ne pas être d’accord",
+      "example": "Instead she ordered soup, and they talked about other things: Bettany's new supervisor, who could not finish a sentence without starting another; Ione's mother's old flat, which Ione still had not managed to sell, eight years after the funeral; a film they had both seen and disagreed about."
+    },
+    {
       "word": "disappear",
       "pos": "VERB",
       "translation": "disparaître",
@@ -9922,6 +10000,12 @@
       "pos": "NOUN",
       "translation": "l'antipathie, l'aversion",
       "example": "When she saw him, her face closed, and from her came a cold, polite dislike."
+    },
+    {
+      "word": "dislike",
+      "pos": "VERB",
+      "translation": "ne pas aimer, détester",
+      "example": "Old Mrs Pennick, who had run the café for thirty years and who disliked everyone equally, asked him what he wanted."
     },
     {
       "word": "dismantled",
@@ -11004,10 +11088,106 @@
       "example": "Employers will decide."
     },
     {
+      "word": "enormously",
+      "pos": "ADV",
+      "translation": "énormément, extrêmement",
+      "example": "It was exhausting and, Ione had come to understand, enormously valuable."
+    },
+    {
+      "word": "equally",
+      "pos": "ADV",
+      "translation": "autant, également",
+      "example": "Old Mrs Pennick, who had run the café for thirty years and who disliked everyone equally, asked him what he wanted."
+    },
+    {
+      "word": "evasion",
+      "pos": "NOUN",
+      "translation": "la dérobade, l’esquive",
+      "example": "\"How's the world of professional evasion?\""
+    },
+    {
+      "word": "exhausting",
+      "pos": "ADJ",
+      "translation": "épuisant",
+      "example": "It was exhausting and, Ione had come to understand, enormously valuable."
+    },
+    {
       "word": "fair",
       "pos": "NOUN",
       "translation": "la foire, le salon",
       "example": "On Wednesday, at the Future Tech Fair in Birmingham, I will show you something that will change the world."
+    },
+    {
+      "word": "fracture",
+      "pos": "NOUN",
+      "translation": "la fissure, la fracture",
+      "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
+    },
+    {
+      "word": "generously",
+      "pos": "ADV",
+      "translation": "généreusement, largement",
+      "example": "That was true as well, if one interpreted \"closely\" generously and \"long-term\" literally."
+    },
+    {
+      "word": "Halvey",
+      "pos": "PROPN",
+      "translation": "Halvey (nom de famille d’Ione)",
+      "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
+    },
+    {
+      "word": "hiding",
+      "pos": "NOUN",
+      "translation": "la cachette (« hiding place » : lieu pour se cacher)",
+      "example": "In a world where nobody could lie, the people with money had quickly discovered that the truth was not a wall but a landscape, full of slopes and shadows and convenient hiding places, and that some people were much better than others at finding their way around it."
+    },
+    {
+      "word": "hull",
+      "pos": "NOUN",
+      "translation": "la coque (d’un bateau)",
+      "example": "She went instead to Pennick's, a narrow place on Weaver's Row with green tiles on the walls and a counter made from the hull of an old boat."
+    },
+    {
+      "word": "impossibility",
+      "pos": "NOUN",
+      "translation": "l’impossibilité",
+      "example": "How did you tell someone, in a world built entirely on the impossibility of lying, that you had just watched a man do it, as easily as he drank his coffee?"
+    },
+    {
+      "word": "improvement",
+      "pos": "NOUN",
+      "translation": "l’amélioration",
+      "example": "\"Its owners are working closely with engineers on a long-term programme of improvements.\""
+    },
+    {
+      "word": "in the meantime",
+      "pos": "PHRASE",
+      "translation": "en attendant, entre-temps",
+      "example": "In the meantime, the company wanted a statement."
+    },
+    {
+      "word": "include",
+      "pos": "VERB",
+      "translation": "inclure, comprendre",
+      "example": "The river glittered beneath the bridges, including, she noted with a small pang, the one with the crack in its third support column."
+    },
+    {
+      "word": "inconvenience",
+      "pos": "VERB",
+      "translation": "déranger, gêner",
+      "example": "The company wanted to close it next summer, when the new road was finished and nobody would be inconvenienced."
+    },
+    {
+      "word": "inspection",
+      "pos": "NOUN",
+      "translation": "l’inspection, le contrôle",
+      "example": "It was true: the bridge was open, and the inspections did continue, if one counted the single inspection in March as the beginning of something regular."
+    },
+    {
+      "word": "interpret",
+      "pos": "VERB",
+      "translation": "interpréter",
+      "example": "That was true as well, if one interpreted \"closely\" generously and \"long-term\" literally."
     },
     {
       "word": "inventor",
@@ -11016,10 +11196,22 @@
       "example": "\"Good morning, inventor!\" he said."
     },
     {
+      "word": "Ione",
+      "pos": "PROPN",
+      "translation": "Ione (prénom ; l’héroïne, une « phraser »)",
+      "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
+    },
+    {
       "word": "landlord",
       "pos": "NOUN",
       "translation": "le propriétaire (qui loue), le bailleur",
       "example": "Landlords will decide."
+    },
+    {
+      "word": "Lantry",
+      "pos": "PROPN",
+      "translation": "Lantry (la ville où se passe l’histoire, bâtie de part et d’autre de la Sull)",
+      "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
     },
     {
       "word": "live",
@@ -11028,10 +11220,76 @@
       "example": "\"Let me show you. Live. No tricks.\""
     },
     {
+      "word": "manufacturer",
+      "pos": "NOUN",
+      "translation": "le fabricant",
+      "example": "She had three other jobs waiting: a letter of apology for a hotel chain, a speech for a retiring judge, and the label for a new brand of breakfast cereal that contained, according to the manufacturer's own laboratory, \"slightly more than nothing of real nutritional value\"."
+    },
+    {
+      "word": "marketing",
+      "pos": "NOUN",
+      "translation": "le marketing",
+      "example": "You could not say your soap was the best in the world unless you genuinely believed it, and most marketing directors, when pressed, did not."
+    },
+    {
+      "word": "Marlow",
+      "pos": "PROPN",
+      "translation": "Marlow (« Marlow Street Bridge » : le pont de la rue Marlow)",
+      "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
+    },
+    {
+      "word": "meantime",
+      "pos": "NOUN",
+      "translation": "l’intervalle (« in the meantime » : en attendant)",
+      "example": "In the meantime, the company wanted a statement."
+    },
+    {
+      "word": "metaphor",
+      "pos": "NOUN",
+      "translation": "la métaphore",
+      "example": "It was not a metaphor."
+    },
+    {
+      "word": "millimetre",
+      "pos": "NOUN",
+      "translation": "le millimètre",
+      "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
+    },
+    {
+      "word": "misdescribe",
+      "pos": "VERB",
+      "translation": "mal décrire, décrire de façon trompeuse",
+      "example": "\"A client you misdescribed?\""
+    },
+    {
+      "word": "misunderstand",
+      "pos": "VERB",
+      "translation": "mal comprendre, se méprendre",
+      "example": "Bettany would think she had misunderstood."
+    },
+    {
+      "word": "nutritional",
+      "pos": "ADJ",
+      "translation": "nutritif, nutritionnel",
+      "example": "She had three other jobs waiting: a letter of apology for a hotel chain, a speech for a retiring judge, and the label for a new brand of breakfast cereal that contained, according to the manufacturer's own laboratory, \"slightly more than nothing of real nutritional value\"."
+    },
+    {
+      "word": "omission",
+      "pos": "NOUN",
+      "translation": "l’omission",
+      "example": "In a society where everyone told the truth, she still managed to be more truthful than most, because she never hid behind the clever omissions that everyone else used."
+    },
+    {
       "word": "ooh",
       "pos": "INTJ",
       "translation": "oh, ooh (cri d’admiration ou de surprise)",
       "example": "The audience made a sound. \"Oooh.\""
+    },
+    {
+      "word": "pang",
+      "pos": "NOUN",
+      "translation": "le pincement, la pointe (de regret)",
+      "example": "The river glittered beneath the bridges, including, she noted with a small pang, the one with the crack in its third support column."
     },
     {
       "word": "password",
@@ -11040,10 +11298,88 @@
       "example": "Did your laptop have a password?"
     },
     {
+      "word": "Peel",
+      "pos": "PROPN",
+      "translation": "Peel (« Peel & Ashgrove » : le cabinet où travaille Ione ; « Augustin Peel » : son patron)",
+      "example": "She sat at her desk on the fourth floor of Peel & Ashgrove, a cup of cold tea at her elbow and the engineers' report open in front of her."
+    },
+    {
+      "word": "phraser",
+      "pos": "NOUN",
+      "translation": "le « phraser » (professionnel qui choisit chaque mot pour orienter l’impression sans jamais mentir)",
+      "example": "This was what it meant to be a phraser."
+    },
+    {
+      "word": "political",
+      "pos": "ADJ",
+      "translation": "politique",
+      "example": "They wrote press releases and political speeches, contracts and apologies, product labels and wedding toasts."
+    },
+    {
+      "word": "politician",
+      "pos": "NOUN",
+      "translation": "le politicien, la politicienne",
+      "example": "Politicians promised to \"do everything that turns out to be possible\"."
+    },
+    {
+      "word": "pour down",
+      "pos": "PHRASE",
+      "translation": "tomber à verse ; se déverser (lumière, pluie)",
+      "example": "Outside, the light poured down on Weaver's Row and turned the cobbles gold."
+    },
+    {
+      "word": "press",
+      "pos": "NOUN",
+      "translation": "la presse (« press release » : le communiqué de presse)",
+      "example": "They wrote press releases and political speeches, contracts and apologies, product labels and wedding toasts."
+    },
+    {
+      "word": "product",
+      "pos": "NOUN",
+      "translation": "le produit",
+      "example": "They wrote press releases and political speeches, contracts and apologies, product labels and wedding toasts."
+    },
+    {
+      "word": "programme",
+      "pos": "NOUN",
+      "translation": "le programme",
+      "example": "\"Its owners are working closely with engineers on a long-term programme of improvements.\""
+    },
+    {
+      "word": "quay",
+      "pos": "NOUN",
+      "translation": "le quai",
+      "example": "Trams rattled along the quays."
+    },
+    {
       "word": "Rebecca",
       "pos": "PROPN",
       "translation": "Rebecca (prénom)",
       "example": "Rebecca Shaw put her hand on her mouth."
+    },
+    {
+      "word": "release",
+      "pos": "NOUN",
+      "translation": "le communiqué (« press release » : communiqué de presse)",
+      "example": "They wrote press releases and political speeches, contracts and apologies, product labels and wedding toasts."
+    },
+    {
+      "word": "rival",
+      "pos": "ADJ",
+      "translation": "rival, concurrent",
+      "example": "Somebody at a rival firm had written that."
+    },
+    {
+      "word": "rota",
+      "pos": "NOUN",
+      "translation": "le tableau de service, le planning",
+      "example": "They walked back along the quay together, and Bettany talked about sleep and soup and the unfairness of hospital rotas, and Ione answered when she was supposed to, and all the time her mind kept returning to the same small, impossible sentence."
+    },
+    {
+      "word": "satisfy",
+      "pos": "VERB",
+      "translation": "satisfaire (« self-satisfied » : content de soi, suffisant)",
+      "example": "Lantry was an old city, built on both banks of the Sull, and it had the slightly self-satisfied air of a place that had never been bombed, flooded or seriously embarrassed."
     },
     {
       "word": "server",
@@ -11058,10 +11394,52 @@
       "example": "Rebecca Shaw put her hand on her mouth."
     },
     {
+      "word": "society",
+      "pos": "NOUN",
+      "translation": "la société",
+      "example": "In a society where everyone told the truth, she still managed to be more truthful than most, because she never hid behind the clever omissions that everyone else used."
+    },
+    {
+      "word": "stare",
+      "pos": "NOUN",
+      "translation": "le regard fixe",
+      "example": "And then, perhaps because he felt the weight of her stare, he glanced across the room, and their eyes met."
+    },
+    {
       "word": "start up",
       "pos": "PHRASE",
       "translation": "démarrer, se mettre en marche",
       "example": "Something started to move in his head. Like a small machine starting up."
+    },
+    {
+      "word": "Stop",
+      "pos": "PROPN",
+      "translation": "le Stop (dans l’histoire : le blocage physique qui empêche de dire ce qu’on sait faux)",
+      "example": "People called it the Stop."
+    },
+    {
+      "word": "straightforward",
+      "pos": "ADJ",
+      "translation": "franc, direct",
+      "example": "Bettany was the most straightforward person Ione knew."
+    },
+    {
+      "word": "Sull",
+      "pos": "PROPN",
+      "translation": "la Sull (le fleuve de Lantry)",
+      "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
+    },
+    {
+      "word": "support",
+      "pos": "NOUN",
+      "translation": "le support, la colonne porteuse (« support column »)",
+      "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
+    },
+    {
+      "word": "teapot",
+      "pos": "NOUN",
+      "translation": "la théière",
+      "example": "It was not a joke, because jokes still had to be true in some sense: you could say \"I'm a teapot\" in a silly voice, and your throat allowed it, because everyone understood you were playing."
     },
     {
       "word": "tear out",
@@ -11074,6 +11452,54 @@
       "pos": "ADJ",
       "translation": "technique",
       "example": "\"Ha! A small technical problem. Let's try somebody else.\""
+    },
+    {
+      "word": "thrive",
+      "pos": "VERB",
+      "translation": "prospérer, s’épanouir (« Thriving » : ça marche très bien)",
+      "example": "\"\"Thriving."
+    },
+    {
+      "word": "toothpaste",
+      "pos": "NOUN",
+      "translation": "le dentifrice",
+      "example": "On the wall of the old customs house, a giant advertisement for a brand of toothpaste declared: \"Recommended by more dentists than any other toothpaste we make.\""
+    },
+    {
+      "word": "tram",
+      "pos": "NOUN",
+      "translation": "le tramway",
+      "example": "Trams rattled along the quays."
+    },
+    {
+      "word": "truthfully",
+      "pos": "ADV",
+      "translation": "sincèrement, en toute franchise",
+      "example": "\"I don't know who he was,\" said Ione truthfully."
+    },
+    {
+      "word": "unfairness",
+      "pos": "NOUN",
+      "translation": "l’injustice",
+      "example": "They walked back along the quay together, and Bettany talked about sleep and soup and the unfairness of hospital rotas, and Ione answered when she was supposed to, and all the time her mind kept returning to the same small, impossible sentence."
+    },
+    {
+      "word": "value",
+      "pos": "NOUN",
+      "translation": "la valeur",
+      "example": "She had three other jobs waiting: a letter of apology for a hotel chain, a speech for a retiring judge, and the label for a new brand of breakfast cereal that contained, according to the manufacturer's own laboratory, \"slightly more than nothing of real nutritional value\"."
+    },
+    {
+      "word": "Weaver",
+      "pos": "PROPN",
+      "translation": "Weaver (« Weaver’s Row » : nom de rue, « la rue des Tisserands »)",
+      "example": "She went instead to Pennick's, a narrow place on Weaver's Row with green tiles on the walls and a counter made from the hull of an old boat."
+    },
+    {
+      "word": "windpipe",
+      "pos": "NOUN",
+      "translation": "la trachée",
+      "example": "But the moment you tried to push it out through your mouth, or through the nib of a pen, something closed inside you, like a hand around your windpipe, and the words simply would not come."
     },
     {
       "word": "Édith",
