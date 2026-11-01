@@ -489,6 +489,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Boy",
+      "pos": "INTJ",
+      "word": "boy",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "braid",
       "pos": "PROPN",
       "word": "braid",
@@ -1115,6 +1121,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "data",
+      "pos": "NOUN",
+      "word": "data",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "DAUGHTER",
       "pos": "PROPN",
       "word": "daughter",
@@ -1144,6 +1156,12 @@
       "pos": "PROPN",
       "word": "dear",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "DEBTS",
+      "pos": "PROPN",
+      "word": "debt",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "decker",
@@ -2576,6 +2594,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Journalist",
+      "pos": "PROPN",
+      "word": "journalist",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "juice",
       "pos": "VERB",
       "word": "juice",
@@ -3546,6 +3570,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Oooh",
+      "pos": "PROPN",
+      "word": "ooh",
+      "lemmaPos": "INTJ"
+    },
+    {
       "text": "open",
       "pos": "NOUN",
       "next": "inside",
@@ -4455,6 +4485,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Screens",
+      "pos": "PROPN",
+      "word": "screen",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "second",
       "pos": "ADJ",
       "next": ".",
@@ -4466,6 +4502,12 @@
       "pos": "ADJ",
       "next": "max",
       "word": "second",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Server",
+      "pos": "PROPN",
+      "word": "server",
       "lemmaPos": "NOUN"
     },
     {
@@ -5438,6 +5480,12 @@
     },
     {
       "text": "TODAY",
+      "pos": "PROPN",
+      "word": "today",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Today",
       "pos": "PROPN",
       "word": "today",
       "lemmaPos": "NOUN"

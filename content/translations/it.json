@@ -785,6 +785,12 @@
       "example": "He began his walk-round check by torchlight, as the regulations required and as habit would have compelled him to do regardless: tyres, wheel nuts, lights, mirrors, the fifth-wheel coupling, the airlines and the suzies coiled behind the cab."
     },
     {
+      "word": "airport",
+      "pos": "NOUN",
+      "translation": "l’aeroporto",
+      "example": "The Future Tech Fair was in a huge building near the airport."
+    },
+    {
       "word": "aisle",
       "pos": "NOUN",
       "translation": "la corsia, il corridoio",
@@ -9042,6 +9048,12 @@
       "example": "The temperature display on the dashboard slid from two degrees to zero, then to minus one, and then, with a kind of casual malice, to minus four."
     },
     {
+      "word": "data",
+      "pos": "NOUN",
+      "translation": "i dati",
+      "example": "\"Server deleted. Database deleted. All data destroyed.\""
+    },
+    {
       "word": "database",
       "pos": "NOUN",
       "translation": "il database, la banca dati",
@@ -9502,6 +9514,12 @@
       "pos": "VERB",
       "translation": "meritare",
       "example": "Then she bowed her head, very slightly, like someone receiving a gift they did not think they deserved."
+    },
+    {
+      "word": "design",
+      "pos": "NOUN",
+      "translation": "il design, il progetto",
+      "example": "Then the blue letters appeared. Milo's letters. Milo's design."
     },
     {
       "word": "desk",
@@ -10992,10 +11010,28 @@
       "example": "On Wednesday, at the Future Tech Fair in Birmingham, I will show you something that will change the world."
     },
     {
+      "word": "inventor",
+      "pos": "NOUN",
+      "translation": "l’inventore",
+      "example": "\"Good morning, inventor!\" he said."
+    },
+    {
       "word": "landlord",
       "pos": "NOUN",
       "translation": "il proprietario (che affitta), il padrone di casa",
       "example": "Landlords will decide."
+    },
+    {
+      "word": "live",
+      "pos": "ADV",
+      "translation": "dal vivo, in diretta",
+      "example": "\"Let me show you. Live. No tricks.\""
+    },
+    {
+      "word": "ooh",
+      "pos": "INTJ",
+      "translation": "oh, ooh (esclamazione di ammirazione o sorpresa)",
+      "example": "The audience made a sound. \"Oooh.\""
     },
     {
       "word": "password",
@@ -11004,16 +11040,40 @@
       "example": "Did your laptop have a password?"
     },
     {
+      "word": "Rebecca",
+      "pos": "PROPN",
+      "translation": "Rebecca (nome di battesimo)",
+      "example": "Rebecca Shaw put her hand on her mouth."
+    },
+    {
       "word": "server",
       "pos": "NOUN",
       "translation": "il server",
       "example": "On a server. Online."
     },
     {
+      "word": "Shaw",
+      "pos": "PROPN",
+      "translation": "Shaw (cognome; « Rebecca Shaw »: la giornalista di Tech Today)",
+      "example": "Rebecca Shaw put her hand on her mouth."
+    },
+    {
       "word": "start up",
       "pos": "PHRASE",
       "translation": "avviarsi, mettersi in moto",
       "example": "Something started to move in his head. Like a small machine starting up."
+    },
+    {
+      "word": "tear out",
+      "pos": "PHRASE",
+      "translation": "strappare (una pagina)",
+      "example": "He opened his notebook and tore out one page."
+    },
+    {
+      "word": "technical",
+      "pos": "ADJ",
+      "translation": "tecnico",
+      "example": "\"Ha! A small technical problem. Let's try somebody else.\""
     },
     {
       "word": "Édith",

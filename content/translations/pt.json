@@ -785,6 +785,12 @@
       "example": "He began his walk-round check by torchlight, as the regulations required and as habit would have compelled him to do regardless: tyres, wheel nuts, lights, mirrors, the fifth-wheel coupling, the airlines and the suzies coiled behind the cab."
     },
     {
+      "word": "airport",
+      "pos": "NOUN",
+      "translation": "o aeroporto",
+      "example": "The Future Tech Fair was in a huge building near the airport."
+    },
+    {
       "word": "aisle",
       "pos": "NOUN",
       "translation": "o corredor",
@@ -9042,6 +9048,12 @@
       "example": "The temperature display on the dashboard slid from two degrees to zero, then to minus one, and then, with a kind of casual malice, to minus four."
     },
     {
+      "word": "data",
+      "pos": "NOUN",
+      "translation": "os dados",
+      "example": "\"Server deleted. Database deleted. All data destroyed.\""
+    },
+    {
       "word": "database",
       "pos": "NOUN",
       "translation": "o banco de dados",
@@ -9502,6 +9514,12 @@
       "pos": "VERB",
       "translation": "merecer",
       "example": "Then she bowed her head, very slightly, like someone receiving a gift they did not think they deserved."
+    },
+    {
+      "word": "design",
+      "pos": "NOUN",
+      "translation": "o design, o projeto",
+      "example": "Then the blue letters appeared. Milo's letters. Milo's design."
     },
     {
       "word": "desk",
@@ -10992,10 +11010,28 @@
       "example": "On Wednesday, at the Future Tech Fair in Birmingham, I will show you something that will change the world."
     },
     {
+      "word": "inventor",
+      "pos": "NOUN",
+      "translation": "o inventor",
+      "example": "\"Good morning, inventor!\" he said."
+    },
+    {
       "word": "landlord",
       "pos": "NOUN",
       "translation": "o proprietário (que aluga), o senhorio",
       "example": "Landlords will decide."
+    },
+    {
+      "word": "live",
+      "pos": "ADV",
+      "translation": "ao vivo",
+      "example": "\"Let me show you. Live. No tricks.\""
+    },
+    {
+      "word": "ooh",
+      "pos": "INTJ",
+      "translation": "oh, ooh (exclamação de admiração ou surpresa)",
+      "example": "The audience made a sound. \"Oooh.\""
     },
     {
       "word": "password",
@@ -11004,16 +11040,40 @@
       "example": "Did your laptop have a password?"
     },
     {
+      "word": "Rebecca",
+      "pos": "PROPN",
+      "translation": "Rebecca (nome próprio)",
+      "example": "Rebecca Shaw put her hand on her mouth."
+    },
+    {
       "word": "server",
       "pos": "NOUN",
       "translation": "o servidor",
       "example": "On a server. Online."
     },
     {
+      "word": "Shaw",
+      "pos": "PROPN",
+      "translation": "Shaw (sobrenome; « Rebecca Shaw »: a jornalista da Tech Today)",
+      "example": "Rebecca Shaw put her hand on her mouth."
+    },
+    {
       "word": "start up",
       "pos": "PHRASE",
       "translation": "começar a funcionar, ligar",
       "example": "Something started to move in his head. Like a small machine starting up."
+    },
+    {
+      "word": "tear out",
+      "pos": "PHRASE",
+      "translation": "arrancar (uma página)",
+      "example": "He opened his notebook and tore out one page."
+    },
+    {
+      "word": "technical",
+      "pos": "ADJ",
+      "translation": "técnico",
+      "example": "\"Ha! A small technical problem. Let's try somebody else.\""
     },
     {
       "word": "Édith",

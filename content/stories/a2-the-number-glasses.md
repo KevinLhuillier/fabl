@@ -1343,3 +1343,170 @@ He did not press it. Not yet.
 "Wednesday," Milo said.
 Bea put her hand on top of his. Then Mr Okafor put his old, warm hand on top of hers. Ada the dog lifted her head and looked at them, as if she wanted to be part of it too.
 Outside, in the dark street, a black car drove past slowly. Nobody inside the house saw it.
+
+# Blind Again
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_1-1793515199308.mp3
+On Wednesday morning, at seven o'clock, a small blue car stopped outside Milo's house. Bea was in the back seat. Her dad, Anders Lindqvist, was driving. He was a big man with a red beard and a very loud laugh.
+"Good morning, inventor!" he said. "Bea tells me we are going to see the future today!"
+Bea did not tell her dad everything. She told him there was a big technology fair in Birmingham and that Milo really, really wanted to go. That was true. It was not the whole truth, but it was true.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_2-1793515208849.mp3
+Mr Okafor sat in the front seat. He wore his brown hat and his best coat. Ada stayed at home with Milo's mum. His mum took the day off from the hospital. She did not come with them. She said, "I trust you. And I trust Samuel. Come home safe." Then she hugged Milo for a very long time.
+The drive to Birmingham took one hour. Milo sat in the back with his phone in his hand. On the phone there was a small program that connected to his server. On the screen, there was the red button. SEE NOTHING. He looked at it again and again.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_3-1793515216990.mp3
+The Future Tech Fair was in a huge building near the airport. There were thousands of people. Business people in suits. Students with backpacks. Journalists with cameras. There were robots that walked, cars without drivers, phones that folded like paper, and a lot of screens. Screens everywhere.
+The ClearView Labs show was at eleven o'clock, in the biggest room. The room had five hundred seats. When Milo, Bea, Mr Okafor and Mr Lindqvist arrived, it was already nearly full. They found four seats near the back.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_4-1793515225955.mp3
+On the stage there was a big screen with the word CLEARVIEW LENS. In front of the stage there were cameras from television companies and many journalists with notebooks and phones.
+Milo checked his phone. The server was online. And yes, there were connections. New connections. Many of them. From an address he did not know. They started on Saturday night and never stopped. Somebody was asking his server for faces. Thousands of faces.
+"They're using it," Milo said quietly. "They're using my server right now. Testing it."
+"Good," Mr Okafor said. "That means they did not build their own. Not yet."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_5-1793515237807.mp3
+At eleven o'clock exactly, the lights went down. Music started. Loud, exciting music. And Dalton Reese walked onto the stage.
+He wore a black suit and white trainers. His teeth were very white under the lights. The audience clapped.
+"Good morning, Birmingham!" Dalton said. "Today, the world changes. Today, you will never meet a stranger again."
+He talked for ten minutes. He talked about safety. He talked about the future. He talked about "a world with no secrets". He did not say Milo's name. He did not say where the system came from. He said "my team" and "our technology" and "my vision".
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_6-1793515248253.mp3
+Bea held Milo's hand. Her hand was cold. "He's a liar," she said quietly.
+"I know," Milo said.
+"Now," Dalton said. "Let me show you. Live. No tricks." He took a small camera from a table. It was connected to the big screen by a cable. "I'm going to point this camera at you, my wonderful audience. And in one second, you'll see everything."
+He pointed the camera at the first row. On the big screen, there was the face of a woman in a blue jacket. Then the blue letters appeared. Milo's letters. Milo's design.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_7-1793515257334.mp3
+NAME: Rebecca Shaw
+AGE: 44
+JOB: Journalist, Tech Today magazine
+SALARY: about £51,000 per year
+SCORE: 63
+The audience made a sound. "Oooh." Rebecca Shaw put her hand on her mouth. Then she laughed, nervously. People started to clap.
+Dalton moved the camera. A young man with a beard. Name, age, job, salary, score. An old man in a suit. Name, age, job, salary, score. A student. Name, age, school, score.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_8-1793515268319.mp3
+The audience clapped more. But Milo watched the faces in the audience. Not the screen. The faces. And he saw something. Some people were smiling and clapping. But some people were not. Some people looked worried. A woman in the fourth row put her hood up. A man near the door looked at the floor. A girl, maybe fifteen years old, covered her face with her hands when the camera came near.
+They're scared, Milo thought. They're scared of my program.
+"Now," Dalton said, "let's make it more interesting. Let's see who is really in this room. Let's see their debts. Let's see their family. Let's see their secrets."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_9-1793515283469.mp3
+He pointed the camera at a man in the third row. Milo saw the screen begin to change. The line DEBTS: started to appear.
+Milo did not wait anymore.
+He pressed the red button.
+On the big screen, the man's face stayed. But the letters changed. All of them.
+NAME: no information
+AGE: no information
+JOB: no information
+SALARY: no information
+SCORE: 0
+Dalton frowned. He looked at the screen. He smiled again quickly. "Ha! A small technical problem. Let's try somebody else."
+He pointed the camera at another person. A woman in a red dress.
+SCORE: 0
+Another person. A boy with glasses.
+SCORE: 0
+Another. And another. And another.
+SCORE: 0
+SCORE: 0
+SCORE: 0
+Some people in the audience started to laugh. Not nervous laughs now. Real laughs.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_10-1793515295113.mp3
+Dalton turned the camera to his own face. "Look. Me. It knows me. Of course it knows me."
+The screen showed his perfect face, his perfect teeth.
+NAME: no information
+SCORE: 0
+The room exploded with laughter. People were laughing and clapping and taking photos with their phones. The journalists were writing very fast.
+Then the screen changed one last time. All the letters disappeared. In the middle of the black screen, there were three words in big blue letters. Milo wrote them on Sunday night, in Mr Okafor's living room.
+PEOPLE ARE NOT NUMBERS.
+Then the screen went black.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_11-1793515306399.mp3
+On Milo's phone, a small message appeared. "Server deleted. Database deleted. All data destroyed." Four months of work. Thousands of faces. Gone. Forever.
+Milo let out a long breath. He did not know he was holding it.
+On the stage, Dalton Reese was not smiling anymore. His face was red. He looked at the audience. His eyes moved from face to face. And then they stopped. On the back row. On Milo.
+Dalton jumped down from the stage. He walked fast between the seats. People moved out of his way. The television cameras followed him.
+He stopped in front of Milo. He was breathing hard.
+"You," he said. "You little... What did you do? What did you do to my system?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_12-1793515315100.mp3
+"Your system?" Milo said. He stood up. His legs were shaking, but his voice was not. "It's not your system. You never built anything. You stole my laptop."
+Dalton laughed, a hard laugh. "Prove it. Nobody will believe a thirteen-year-old boy."
+"I don't need to prove it," Milo said. "You just did. You just told five hundred people that it was your system. And that I broke it. How did I break your system, Mr Reese? How did a thirteen-year-old boy in the back row break your system? Unless it was my system all the time?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_13-1793515326881.mp3
+Dalton opened his mouth. Then he closed it. He looked around. The cameras. The journalists. Rebecca Shaw from Tech Today was standing next to him with her phone out, recording everything.
+"Mr Reese," she said. "Is it true that this system was stolen from a child?"
+Dalton did not answer. He turned and walked away fast. Two security guards walked behind him. Not to protect him. To follow him. Mr Lindqvist was talking to one of them already, with his big loud voice, pointing and explaining.
+Milo sat down. His whole body was shaking now. Bea put her arms around him.
+"You did it," she said. "You actually did it. You crazy genius."
+Mr Okafor did not say anything. He just put his old hand on Milo's shoulder and left it there.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_14-1793515335126.mp3
+Two weeks later, the police found Milo's laptop in the office of ClearView Labs in London. Rebecca Shaw wrote a long article about it. "The Boy Who Said No." She called Milo for an interview. He said no to that too. He did not want to be famous. He did not want his face on the internet. He understood Mr Okafor much better now.
+On a cold Saturday in December, Milo stood in Mr Okafor's garden. The flowers were finished for the winter, but the little metal machine still turned in the wind and made its soft music.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_15-1793515344602.mp3
+Around him there were people. His mum, in her old coat, with a scarf that Bea gave her. Bea, in her yellow coat, of course. Mr Okafor, with Ada next to him. And, a little behind the others, Kai Dobson, with his notebook of birds under his arm. Milo asked him to come. He did not think Kai would say yes. But he did.
+On a small wooden table in the middle of the garden, there were the glasses. The black glasses with the thick sides. The last copy of TrueLens in the world.
+Mr Okafor gave Milo a hammer.
+"Are you sure?" he asked.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_16-1793515353748.mp3
+Milo looked at the glasses. He remembered the first night in the garage. HELLO, MILO. SYSTEM READY. He remembered how happy he was. How proud.
+Then he remembered Kai's notebook on the floor. Connor's white face. His mum's tired eyes. The girl at the fair who covered her face with her hands.
+"I'm sure," he said.
+He lifted the hammer and brought it down. Once. Twice. Three times. The glass broke. The little camera broke. The little computer broke into small pieces. In ten seconds, eight months of work was gone.
+Nobody clapped. It was not that kind of moment. But his mum came to him and held him very tight.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_17-1793515362191.mp3
+"I'm proud of you," she said. "Not because you're a genius. Because you're good."
+Kai stepped forward. He opened his notebook and tore out one page. He gave it to Milo. It was a drawing of a robin, very small, very careful, sitting on the branch of a tree. Under it, Kai wrote: "Seen in Mr Okafor's garden. Saturday. 10:15. Not alone."
+Milo looked at it for a long time. Then he looked at Kai. "Thank you," he said.
+Kai almost smiled. "It's not a number," he said. "It's a bird."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_18-1793515370298.mp3
+That afternoon, Milo and Mr Okafor started a new project in the museum of unfinished things. A small machine that helped Ada the dog climb the stairs, because her old legs were tired. Bea came every Saturday and asked a thousand questions. Kai came sometimes and drew pictures of the machines. Even Connor Webb came once, with his dad, because their washing machine was broken and everybody on Hollybush Road knew that Mr Okafor and the boy from number 12 could fix anything. For free.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/a2-the-number-glasses/chapter_10.page_19-1793515375737.mp3
+Milo did not wear glasses anymore. He did not need them.
+He looked at people with his own eyes now. It was slower. It was more difficult. He did not know their salaries or their secrets. He did not know their numbers.
+But sometimes, if he looked for long enough, and listened for long enough, he saw something much better.
+He saw who they really were.
