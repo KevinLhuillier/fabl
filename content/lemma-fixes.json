@@ -188,6 +188,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "appetite",
+      "pos": "VERB",
+      "word": "appetite",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "archive",
       "pos": "ADJ",
       "word": "archive",
@@ -230,6 +236,18 @@
       "next": "office",
       "word": "association",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "astern",
+      "pos": "ADJ",
+      "word": "astern",
+      "lemmaPos": "ADV"
+    },
+    {
+      "text": "astern",
+      "pos": "NOUN",
+      "word": "astern",
+      "lemmaPos": "ADV"
     },
     {
       "text": "astonishment",
@@ -336,6 +354,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "bearer",
+      "pos": "PROPN",
+      "word": "bearer",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Beatons",
       "pos": "PROPN",
       "word": "Beaton",
@@ -351,6 +375,12 @@
       "text": "Been",
       "pos": "VERB",
       "word": "be",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "befell",
+      "pos": "VERB",
+      "word": "befall",
       "lemmaPos": "VERB"
     },
     {
@@ -846,6 +876,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Christians",
+      "pos": "PROPN",
+      "word": "Christian",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "CHRISTMAS",
       "pos": "PROPN",
       "word": "Christmas",
@@ -971,6 +1007,18 @@
       "pos": "NOUN",
       "word": "clothes",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "cloud",
+      "pos": "ADJ",
+      "word": "cloud",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "coarse",
+      "pos": "ADV",
+      "word": "coarse",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "coast",
@@ -1157,6 +1205,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "cruelty",
+      "pos": "ADJ",
+      "word": "cruelty",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "crumbly",
       "pos": "ADV",
       "word": "crumbly",
@@ -1289,6 +1343,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "daylight",
+      "pos": "PROPN",
+      "word": "daylight",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Deal",
       "pos": "PROPN",
       "word": "deal",
@@ -1390,6 +1450,12 @@
       "pos": "PROPN",
       "word": "devil",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "devout",
+      "pos": "ADV",
+      "word": "devout",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "dictionary",
@@ -1548,6 +1614,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "due",
+      "pos": "NOUN",
+      "word": "due",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "duvet",
       "pos": "PROPN",
       "word": "duvet",
@@ -1618,6 +1690,12 @@
       "pos": "NOUN",
       "word": "eleven",
       "lemmaPos": "NUM"
+    },
+    {
+      "text": "embellish",
+      "pos": "ADJ",
+      "word": "embellish",
+      "lemmaPos": "VERB"
     },
     {
       "text": "Enough",
@@ -1989,6 +2067,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "forgave",
+      "pos": "VERB",
+      "word": "forgive",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "forgets",
       "pos": "NOUN",
       "word": "forget",
@@ -2007,8 +2091,20 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "foul",
+      "pos": "ADV",
+      "word": "foul",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "FOUND",
       "pos": "PROPN",
+      "word": "find",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "found",
+      "pos": "VERB",
       "word": "find",
       "lemmaPos": "VERB"
     },
@@ -3101,6 +3197,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "leapt",
+      "pos": "VERB",
+      "word": "leap",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "LED",
       "pos": "ADJ",
       "word": "LED",
@@ -3551,6 +3653,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "middle",
+      "pos": "PROPN",
+      "word": "middle",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "midwinter",
       "pos": "PROPN",
       "word": "midwinter",
@@ -3917,6 +4025,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "notary",
+      "pos": "ADJ",
+      "word": "notary",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "NOTICE",
       "pos": "PROPN",
       "word": "notice",
@@ -4073,6 +4187,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "our",
+      "pos": "NOUN",
+      "word": "our",
+      "lemmaPos": "PRON"
+    },
+    {
       "text": "Ours",
       "pos": "PROPN",
       "word": "ours",
@@ -4148,6 +4268,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "parish",
+      "pos": "PROPN",
+      "word": "parish",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Park",
       "pos": "PROPN",
       "word": "park",
@@ -4158,6 +4284,12 @@
       "pos": "PROPN",
       "word": "pass",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Passing",
+      "pos": "PROPN",
+      "word": "pass",
+      "lemmaPos": "VERB"
     },
     {
       "text": "past",
@@ -4447,6 +4579,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "priest",
+      "pos": "PROPN",
+      "word": "priest",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Probationary",
       "pos": "PROPN",
       "word": "probationary",
@@ -4459,9 +4597,21 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "proposing",
+      "pos": "NOUN",
+      "word": "propose",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "Proud",
       "pos": "PROPN",
       "word": "proud",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "providential",
+      "pos": "NOUN",
+      "word": "providential",
       "lemmaPos": "ADJ"
     },
     {
@@ -5407,6 +5557,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "speak",
+      "pos": "NOUN",
+      "word": "speak",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "spidery",
       "pos": "NOUN",
       "word": "spidery",
@@ -5677,6 +5833,18 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "sure",
+      "pos": "ADV",
+      "word": "sure",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "surer",
+      "pos": "NOUN",
+      "word": "sure",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "surprise",
       "pos": "ADJ",
       "word": "surprise",
@@ -5839,6 +6007,12 @@
       "pos": "ADV",
       "next": "of",
       "word": "tattoo",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "tavern",
+      "pos": "ADJ",
+      "word": "tavern",
       "lemmaPos": "NOUN"
     },
     {
@@ -6115,6 +6289,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "token",
+      "pos": "ADJ",
+      "word": "token",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "TOM",
       "pos": "PROPN",
       "word": "Tom",
@@ -6180,6 +6360,12 @@
       "pos": "NOUN",
       "word": "tremble",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "triangular",
+      "pos": "NOUN",
+      "word": "triangular",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "TRUELENS",
@@ -6358,6 +6544,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "upon",
+      "pos": "SCONJ",
+      "word": "upon",
+      "lemmaPos": "ADP"
+    },
+    {
       "text": "uppies",
       "pos": "NOUN",
       "word": "keepy-uppy",
@@ -6476,6 +6668,12 @@
       "pos": "VERB",
       "next": "-",
       "word": "walk-in",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "wanting",
+      "pos": "NOUN",
+      "word": "wanting",
       "lemmaPos": "ADJ"
     },
     {

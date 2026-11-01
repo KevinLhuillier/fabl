@@ -234,6 +234,18 @@
       "example": "The gardener has been asking for help for years, and nobody has ever been able to spare him any."
     },
     {
+      "word": "aboard",
+      "pos": "ADP",
+      "translation": "à bord de",
+      "example": "It was aboard her that I was placed, with some forty others."
+    },
+    {
+      "word": "aboard",
+      "pos": "ADV",
+      "translation": "à bord",
+      "example": "It was aboard her that I was placed, with some forty others."
+    },
+    {
       "word": "about",
       "pos": "ADJ",
       "translation": "sur le point de",
@@ -358,6 +370,12 @@
       "pos": "PHRASE",
       "translation": "selon, d'après",
       "example": "According to tradition, a squire must spend the night before his knighthood alone in a chapel, praying and reflecting on the duties he is about to accept."
+    },
+    {
+      "word": "accordingly",
+      "pos": "ADV",
+      "translation": "en conséquence, de façon appropriée",
+      "example": "He reasoned that men are governed by fear and appetite, and he governed us accordingly, with one hand dangling rewards and the other drawing a veil over whatever might alarm us."
     },
     {
       "word": "accordion",
@@ -558,6 +576,12 @@
       "example": "He adjusted the wipers, tightened his grip by an imperceptible degree, and let the Duchess find her pace."
     },
     {
+      "word": "Admiral",
+      "pos": "PROPN",
+      "translation": "l’Amiral (titre de Colomb : « Admiral of the Ocean Sea »)",
+      "example": "Should he succeed, he was to be Admiral of the Ocean Sea, Viceroy and Governor of every land he discovered, and to receive a tenth of all the riches they yielded — and these honours were to pass to his heirs in perpetuity."
+    },
+    {
       "word": "admiration",
       "pos": "NOUN",
       "translation": "l'admiration",
@@ -696,6 +720,12 @@
       "example": "In summer, swallows came to Ellerdale from Africa and built their nests under roofs, in barns, in old buildings."
     },
     {
+      "word": "aft",
+      "pos": "ADV",
+      "translation": "à l’arrière (du navire)",
+      "example": "There was talk, too, of Portuguese caravels lurking off the islands with orders to seize us, for King João had never forgiven the Genoese for carrying his scheme to Castile after Lisbon had rejected it."
+    },
+    {
       "word": "after",
       "pos": "ADP",
       "translation": "après",
@@ -801,6 +831,12 @@
       "pos": "VERB",
       "translation": "accepter, être d'accord",
       "example": "But Edwin refused to leave, and in the end, the king agreed to see him."
+    },
+    {
+      "word": "aground",
+      "pos": "ADV",
+      "translation": "échoué, sur un haut-fond",
+      "example": "Some of the men were terrified that we would run aground on hidden shoals, or become entangled and rot there like flies in honey; others, more sanguine, insisted that such weed must have been torn loose from rocks not far off."
     },
     {
       "word": "ah",
@@ -1066,6 +1102,18 @@
       "example": "The Writ that Mistress Vell was so eager to dust off is perfectly clear: a probationer is to be assessed alongside his year.\""
     },
     {
+      "word": "alongside",
+      "pos": "ADV",
+      "translation": "le long du bord, à côté",
+      "example": "The Admiral could not come alongside to help in such a sea, and I watched him pace the poop in a state of barely contained fury."
+    },
+    {
+      "word": "Alonso",
+      "pos": "PROPN",
+      "translation": "Alonso (prénom masculin)",
+      "example": "What turned the tide was Martín Alonso Pinzón."
+    },
+    {
       "word": "aloud",
       "pos": "ADV",
       "translation": "à voix haute",
@@ -1094,6 +1142,12 @@
       "pos": "NOUN",
       "translation": "l'autel",
       "example": "Edwin knelt in front of the altar, wearing a simple white tunic, his sword lying on the cold stone in front of him."
+    },
+    {
+      "word": "alter",
+      "pos": "VERB",
+      "translation": "modifier, changer",
+      "example": "On the seventh of October, at Martín Alonso's urging, the Admiral altered course from due west to west-southwest, following great flocks of birds that were flying that way."
     },
     {
       "word": "alternative",
@@ -1228,6 +1282,18 @@
       "example": "Each of them, it turned out, had a talent. Inès was the analyst."
     },
     {
+      "word": "anchor",
+      "pos": "NOUN",
+      "translation": "l’ancre",
+      "example": "We weighed anchor on the sixth of September."
+    },
+    {
+      "word": "anchor",
+      "pos": "VERB",
+      "translation": "jeter l’ancre, mouiller",
+      "example": "We weighed anchor on the sixth of September."
+    },
+    {
       "word": "ancient",
       "pos": "ADJ",
       "translation": "ancien, très vieux, antique",
@@ -1244,6 +1310,12 @@
       "pos": "PROPN",
       "translation": "Anders (prénom suédois)",
       "example": "FAMILY: father Anders Lindqvist (engineer), mother Claire Lindqvist (hairdresser)"
+    },
+    {
+      "word": "anecdote",
+      "pos": "NOUN",
+      "translation": "l’anecdote",
+      "example": "I am an old man now, and the sea that once seemed to me the very edge of creation has shrunk, in the telling, to a tavern anecdote."
     },
     {
       "word": "angel",
@@ -1274,6 +1346,12 @@
       "pos": "NOUN",
       "translation": "l'animal",
       "example": "The animals panicked, throwing several riders to the ground, while the others tried desperately to turn back."
+    },
+    {
+      "word": "animate",
+      "pos": "VERB",
+      "translation": "animer (« animated » : animé, vif)",
+      "example": "Faces that had been sullen for a week grew animated."
     },
     {
       "word": "ankle",
@@ -1310,6 +1388,12 @@
       "pos": "ADJ",
       "translation": "agaçant, énervant",
       "example": "She had a younger brother who was \"very annoying but I miss him\"."
+    },
+    {
+      "word": "annuity",
+      "pos": "NOUN",
+      "translation": "la rente, la pension annuelle",
+      "example": "He reminded us of God's mercy in bringing us thus far, ordered a vigilant watch to be kept from the forecastle, and repeated that whoever first sighted land would receive a silk doublet from his own hand, over and above the annuity of ten thousand maravedís that Their Majesties had promised."
     },
     {
       "word": "anonymous",
@@ -1504,6 +1588,12 @@
       "example": "Every night, a small grey cat appears on the roof opposite."
     },
     {
+      "word": "appetite",
+      "pos": "NOUN",
+      "translation": "l’appétit, le désir",
+      "example": "He reasoned that men are governed by fear and appetite, and he governed us accordingly, with one hand dangling rewards and the other drawing a veil over whatever might alarm us."
+    },
+    {
       "word": "applaud",
       "pos": "VERB",
       "translation": "applaudir",
@@ -1538,6 +1628,12 @@
       "pos": "VERB",
       "translation": "postuler, poser sa candidature ; appliquer",
       "example": "At nineteen he had applied to become a firefighter."
+    },
+    {
+      "word": "appoint",
+      "pos": "VERB",
+      "translation": "nommer, désigner (« appointed » : nommé)",
+      "example": "He was a foreigner, a Genoese who had spent years hanging about the court and the friary of La Rábida, hawking a scheme that the learned men appointed by Their Majesties had found wanting."
     },
     {
       "word": "appreciate",
@@ -1580,6 +1676,18 @@
       "pos": "NOUN",
       "translation": "le tablier",
       "example": "Her apron was covered in flour, and soon my fur was too."
+    },
+    {
+      "word": "Arabic",
+      "pos": "PROPN",
+      "translation": "l’arabe (langue)",
+      "example": "On this first voyage he sent two men inland to seek out the Great Khan's court: Rodrigo de Jerez, of Ayamonte, and Luis de Torres, a converted Jew who knew Hebrew, Chaldean and some Arabic, for the Admiral reasoned that an Oriental prince would surely keep such learned men about him."
+    },
+    {
+      "word": "Arana",
+      "pos": "PROPN",
+      "translation": "Arana (nom de famille)",
+      "example": "Thirty-nine men were chosen to remain under Diego de Arana, to gather gold against his return."
     },
     {
       "word": "arc",
@@ -1670,6 +1778,12 @@
       "pos": "NOUN",
       "translation": "le fauteuil",
       "example": "Then she sat in her old armchair, put on her glasses and opened the first letter."
+    },
+    {
+      "word": "armed",
+      "pos": "ADJ",
+      "translation": "armé",
+      "example": "The Admiral went ashore in the armed boat bearing the royal standard, and with him went Martín Alonso and Vicente Yáñez, each carrying a banner with a green cross and the initials of the King and Queen, F and Y, crowned."
     },
     {
       "word": "armful",
@@ -1918,6 +2032,12 @@
       "example": "The Turners lived in a narrow terraced house at the end of Ashley Road, with a tiny yard at the back and a front door that stuck in wet weather."
     },
     {
+      "word": "ashore",
+      "pos": "ADV",
+      "translation": "à terre",
+      "example": "The Admiral went ashore in the armed boat bearing the royal standard, and with him went Martín Alonso and Vicente Yáñez, each carrying a banner with a green cross and the initials of the King and Queen, F and Y, crowned."
+    },
+    {
       "word": "Ashvale",
       "pos": "PROPN",
       "translation": "Ashvale (nom du village)",
@@ -1928,6 +2048,12 @@
       "pos": "PROPN",
       "translation": "Ashwater (nom de lieu)",
       "example": "\"…three families from Ashwater,\" the pedlar was saying."
+    },
+    {
+      "word": "Asia",
+      "pos": "PROPN",
+      "translation": "l’Asie",
+      "example": "The scholars held that Asia lay impossibly far to the west, beyond the reach of any ship's water casks — and, as it turned out, the scholars were right."
     },
     {
       "word": "aside",
@@ -2032,6 +2158,12 @@
       "example": "But that skill depended on a single assumption, so deep that she had never even noticed it: that every word, taken by itself, was true."
     },
     {
+      "word": "astern",
+      "pos": "ADV",
+      "translation": "à l’arrière, derrière le navire",
+      "example": "Two hours after midnight, when the moon had risen astern and was shining on the sea ahead, a sailor of the Pinta named Juan Rodríguez Bermejo, a man from Triana whom we knew as Rodrigo de Triana, saw a pale line of shore gleaming in the moonlight some two leagues off, and cried out: \"Tierra!"
+    },
+    {
       "word": "astonished",
       "pos": "ADJ",
       "translation": "stupéfait, étonné",
@@ -2042,6 +2174,12 @@
       "pos": "NOUN",
       "translation": "l'étonnement, la stupéfaction",
       "example": "The ceremony took place in the great hall of the castle, in front of the king, the lords of the realm and, to Edwin's astonishment, his own parents, whom the king had invited from Ashford."
+    },
+    {
+      "word": "astray",
+      "pos": "ADV",
+      "translation": "égaré (« go astray » : s’égarer, se dérégler)",
+      "example": "To a seaman, the compass is the one certainty in a shifting world; if the needle itself goes astray, nothing is left to trust."
     },
     {
       "word": "at",
@@ -2401,6 +2539,12 @@
       "example": "Bettany was standing at the nurses' station when the call came through, holding a clipboard and looking available."
     },
     {
+      "word": "Ave",
+      "pos": "PROPN",
+      "translation": "Ave (« Ave Maria » : prière à la Vierge, « Je vous salue Marie »)",
+      "example": "Every evening at dusk, when the glass was turned, the whole crew gathered to recite the Pater Noster, the Ave Maria and the Credo, and to sing the Salve Regina — badly, in our case, for sailors are no choirboys."
+    },
+    {
       "word": "Aviemore",
       "pos": "PROPN",
       "translation": "Aviemore (station des Highlands, au pied des Cairngorms)",
@@ -2473,10 +2617,22 @@
       "example": "Then he heard it: the creak of axles, the soft clop of hooves on packed earth."
     },
     {
+      "word": "Ayamonte",
+      "pos": "PROPN",
+      "translation": "Ayamonte (ville)",
+      "example": "On this first voyage he sent two men inland to seek out the Great Khan's court: Rodrigo de Jerez, of Ayamonte, and Luis de Torres, a converted Jew who knew Hebrew, Chaldean and some Arabic, for the Admiral reasoned that an Oriental prince would surely keep such learned men about him."
+    },
+    {
       "word": "aye",
       "pos": "INTJ",
       "translation": "oui, ouais (dialectal)",
       "example": "Aye."
+    },
+    {
+      "word": "Azores",
+      "pos": "PROPN",
+      "translation": "les Açores (archipel portugais de l’Atlantique)",
+      "example": "They had sailed to Guinea, to the Azores, to Flanders, but always along known routes, with the comfort of a coast somewhere off the beam."
     },
     {
       "word": "B.",
@@ -2695,6 +2851,12 @@
       "example": "Around him the others slept — the Tanner brothers still snoring in harmony, Jory sprawled on his back with one arm flung over his face, Tamsin curled into a tight ball under her mother's quilt."
     },
     {
+      "word": "ballast",
+      "pos": "NOUN",
+      "translation": "le lest",
+      "example": "The waves broke over us from two quarters at once, and the Niña, short of ballast after so many weeks, rolled until I thought she must capsize."
+    },
+    {
       "word": "balloon",
       "pos": "NOUN",
       "translation": "le ballon (de baudruche)",
@@ -2797,6 +2959,12 @@
       "example": "Every first-year at Thornhall, whatever their element, began the same way: with three mornings a week of a class called Foundations of the Well, taught in a long, bare room at the foot of the north stair by a woman who looked as though she had been assembled from coat hangers."
     },
     {
+      "word": "barefoot",
+      "pos": "ADV",
+      "translation": "pieds nus",
+      "example": "We came to the Azores, where half our men, going ashore barefoot and in their shirts to fulfil a vow at a chapel, were seized by the Portuguese; then another storm drove us into Lisbon, where the Admiral was received by King João himself, the very king who had once turned him away."
+    },
+    {
       "word": "bareheaded",
       "pos": "ADJ",
       "translation": "tête nue",
@@ -2807,6 +2975,12 @@
       "pos": "ADV",
       "translation": "à peine",
       "example": "Godfrey was alive, but his leg was badly broken and he could barely breathe."
+    },
+    {
+      "word": "bargain",
+      "pos": "NOUN",
+      "translation": "le marchandage ; (verbe) marchander",
+      "example": "I did not hear him say so, and I doubt he did, for it was not in his nature to bargain."
     },
     {
       "word": "barge",
@@ -2855,6 +3029,12 @@
       "pos": "NOUN",
       "translation": "la caserne",
       "example": "I watched the final in the barracks with two hundred other lads."
+    },
+    {
+      "word": "barrel",
+      "pos": "NOUN",
+      "translation": "le tonneau, le baril",
+      "example": "That night, believing we might all perish, he wrote an account of his discoveries on parchment, wrapped it in waxed cloth, sealed it in a barrel and cast it into the sea, so that the news might reach Their Majesties even if he did not."
     },
     {
       "word": "barrier",
@@ -3061,6 +3241,12 @@
       "example": "She returned a few minutes later with a stocky, grey-bearded man in a boiler suit, who introduced himself as the distillery manager and enquired, with elaborate casualness, whether it was true that Gideon had spent the night on Drumochter with Alasdair Beaton."
     },
     {
+      "word": "bearer",
+      "pos": "NOUN",
+      "translation": "le porteur",
+      "example": "Christopher, he was fond of observing, meant \"Christ-bearer\", and he took that literally, as he took everything that concerned himself."
+    },
+    {
       "word": "bearing",
       "pos": "NOUN",
       "translation": "le maintien, l'allure",
@@ -3119,6 +3305,12 @@
       "pos": "NOUN",
       "translation": "la beauté",
       "example": "That was the beauty of the Open Questions."
+    },
+    {
+      "word": "becalm",
+      "pos": "VERB",
+      "translation": "encalminer (« becalmed » : immobilisé faute de vent)",
+      "example": "For three days the wind failed us and we lay becalmed within sight of the islands, which was a cruelty of its own; then, on Sunday the ninth, the breeze freshened, and by evening the last peak of El Hierro had sunk beneath the horizon."
     },
     {
       "word": "because",
@@ -3234,6 +3426,12 @@
       "example": "There were two red-faced brothers in muddy boots who farmed beets near the motorway."
     },
     {
+      "word": "befall",
+      "pos": "VERB",
+      "translation": "arriver à, advenir à",
+      "example": "More often, I came to think, he simply could not conceive that the world might be indifferent to his enterprise: everything that befell us was either Providence clearing his path or malice obstructing it."
+    },
+    {
       "word": "before",
       "pos": "ADP",
       "translation": "avant, devant",
@@ -3294,10 +3492,22 @@
       "example": "A driver was permitted nine hours behind the wheel in a single day, extendable to ten no more than twice a week; after four and a half hours of driving, a break of forty-five minutes was obligatory."
     },
     {
+      "word": "behold",
+      "pos": "VERB",
+      "translation": "apercevoir, contempler",
+      "example": "In the morning we came to an island, small and flat, greener than anything I had ever beheld, ringed by a reef on which the sea broke white."
+    },
+    {
       "word": "being",
       "pos": "NOUN",
       "translation": "l'être (« human being » : l'être humain)",
       "example": "Gaz, without being asked, moved Max from the night shift to the early morning shift at the warehouse, so that he could sleep at night like a normal human being."
+    },
+    {
+      "word": "belch",
+      "pos": "VERB",
+      "translation": "vomir, cracher (flammes, fumée)",
+      "example": "Passing Tenerife, we saw fire belching from the great mountain, and several of the younger men crossed themselves and pronounced it an omen."
     },
     {
       "word": "belief",
@@ -3442,6 +3652,12 @@
       "pos": "ADJ",
       "translation": "courbé, plié (« bent double » : plié en deux)",
       "example": "He was small and bent nearly double, like a tree that has grown for a century against the wind, and he leaned on a stick of polished blackthorn as gnarled as his own knuckles."
+    },
+    {
+      "word": "Bermejo",
+      "pos": "PROPN",
+      "translation": "Bermejo (nom de famille)",
+      "example": "Two hours after midnight, when the moon had risen astern and was shining on the sea ahead, a sailor of the Pinta named Juan Rodríguez Bermejo, a man from Triana whom we knew as Rodrigo de Triana, saw a pale line of shore gleaming in the moonlight some two leagues off, and cried out: \"Tierra!"
     },
     {
       "word": "berry",
@@ -3712,6 +3928,12 @@
       "pos": "ADV",
       "translation": "amèrement (« bitterly cold » : glacial)",
       "example": "Then a gust of wind swept down into the bowl from nowhere — hard and sudden and bitterly cold, so strong that it snatched hats from heads and set the canvas awning above the teachers snapping like a sail — and whirled the falling snow into a blinding white cloud that hid the hedge from view."
+    },
+    {
+      "word": "bitterness",
+      "pos": "NOUN",
+      "translation": "l’amertume",
+      "example": "I have heard it said that he went off to Africa in his bitterness; I do not know whether that is true."
     },
     {
       "word": "Björn",
@@ -4126,6 +4348,12 @@
       "pos": "VERB",
       "translation": "huer, siffler",
       "example": "When Max climbed through the ropes, the crowd made a strange noise, half laughing and half booing."
+    },
+    {
+      "word": "booby",
+      "pos": "NOUN",
+      "translation": "le fou (oiseau marin)",
+      "example": "Whales were sighted, and boobies, and terns, and every bird that crossed our wake was hailed as a messenger from some nearby coast."
     },
     {
       "word": "book",
@@ -4654,6 +4882,12 @@
       "pos": "NOUN",
       "translation": "le pont",
       "example": "\"The bridge at Hob's Ford could be out.\""
+    },
+    {
+      "word": "bridged",
+      "pos": "ADJ",
+      "translation": "à pont (« high-bridged nose » : nez à arête haute)",
+      "example": "He was tall, taller than most of our men, with a long face, a high-bridged nose and pale eyes that seemed forever to be measuring something at a distance."
     },
     {
       "word": "brief",
@@ -5544,6 +5778,24 @@
       "example": "\"When we were seven,\" she said, still looking away, \"Darren Price pushed me into the canal."
     },
     {
+      "word": "Canaria",
+      "pos": "PROPN",
+      "translation": "Canaria (« Gran Canaria » : l’île de la Grande Canarie)",
+      "example": "The Pinta's rudder was mended at Gran Canaria, and while we were about it the Niña's triangular lateen sails were exchanged for square ones, so that she might run more easily before the wind."
+    },
+    {
+      "word": "Canaries",
+      "pos": "PROPN",
+      "translation": "les Canaries (archipel espagnol de l’Atlantique)",
+      "example": "He consoled himself, he said, with the knowledge that Martín Alonso was a man of spirit and ingenuity who would make shift with ropes until we reached the Canaries."
+    },
+    {
+      "word": "Canary",
+      "pos": "PROPN",
+      "translation": "Canary (« Canary Islands » : les îles Canaries)",
+      "example": "We lingered nearly a month among the Canary Islands, longer than anyone wished."
+    },
+    {
       "word": "candidate",
       "pos": "NOUN",
       "translation": "le candidat",
@@ -5572,6 +5824,24 @@
       "pos": "PROPN",
       "translation": "Candour (« Bureau of Candour » : Bureau de la Franchise ; « Candour Day » : le jour de la Franchise)",
       "example": "It ran the national Candour Day celebrations each December, when schoolchildren recited the famous true sentences of history and the Prime Minister gave a speech about the honesty of the nation."
+    },
+    {
+      "word": "cane",
+      "pos": "NOUN",
+      "translation": "la canne, le roseau",
+      "example": "The men of the Pinta fished out a cane and a little stick that appeared to have been worked with an iron tool; those of the Niña found a twig laden with small berries, like a branch of dog-rose."
+    },
+    {
+      "word": "canoe",
+      "pos": "NOUN",
+      "translation": "la pirogue, le canoë",
+      "example": "Guacanagarí, the lord of that country, sent every canoe he possessed, and his people laboured all day beside us, carrying our goods ashore."
+    },
+    {
+      "word": "canonical",
+      "pos": "ADJ",
+      "translation": "canonique (« canonical hours » : les heures canoniales, prières)",
+      "example": "He dressed soberly, almost like a friar, and indeed he kept the rule of a pious man more strictly than our parish priest: he fasted on the appointed days, recited the canonical hours, and the strongest oath I ever heard pass his lips was \"by San Fernando\"."
     },
     {
       "word": "canopy",
@@ -5610,10 +5880,22 @@
       "example": "Peering through a gap between the loft boards, Rowan could make out none of the words, only their shape: a quick, slanting hand, nothing like his uncle's laborious capitals."
     },
     {
+      "word": "capsize",
+      "pos": "VERB",
+      "translation": "chavirer",
+      "example": "The waves broke over us from two quarters at once, and the Niña, short of ballast after so many weeks, rolled until I thought she must capsize."
+    },
+    {
       "word": "Captain",
       "pos": "PROPN",
       "translation": "Captain (le nom de l’ours en peluche de Sam)",
       "example": "Sam took his teddy bear, whose name was Captain, and a book about ships."
+    },
+    {
+      "word": "captain",
+      "pos": "NOUN",
+      "translation": "le capitaine",
+      "example": "Pinzón was one of ours: a wealthy shipowner, a seasoned captain, a man whose word carried weight on every quay of the Tinto."
     },
     {
       "word": "caption",
@@ -5674,6 +5956,12 @@
       "pos": "NOUN",
       "translation": "la caravane",
       "example": "Gideon had taken his break here so often over the decades that he could have drawn the place from memory, down to the chipped tile by the hand dryers and the laminated notice forbidding the overnight parking of caravans."
+    },
+    {
+      "word": "caravel",
+      "pos": "NOUN",
+      "translation": "la caravelle",
+      "example": "Palos had offended Their Majesties in some matter of dues or disobedience — the particulars were never explained to boys like me — and by way of penance the town was ordered to furnish two caravels, fully fitted out, for twelve months' service."
     },
     {
       "word": "card",
@@ -5958,6 +6246,18 @@
       "example": "The ice was black and glassy and perfectly smooth, and the moon was so bright on it that they cast four long, sharp shadows ahead of them as they went."
     },
     {
+      "word": "Castile",
+      "pos": "PROPN",
+      "translation": "la Castille (royaume d’Espagne)",
+      "example": "There was talk, too, of Portuguese caravels lurking off the islands with orders to seize us, for King João had never forgiven the Genoese for carrying his scheme to Castile after Lisbon had rejected it."
+    },
+    {
+      "word": "Castilian",
+      "pos": "PROPN",
+      "translation": "le castillan (l’espagnol)",
+      "example": "His Castilian was fluent but bent out of shape, flavoured with Portuguese turns picked up during his years in Lisbon, and when he was angry something older crept in underneath."
+    },
+    {
       "word": "castle",
       "pos": "NOUN",
       "translation": "le château",
@@ -6048,6 +6348,12 @@
       "example": "Or had the lamp flickered by coincidence, and the exhaustion been nothing more than a bad day catching up with him?"
     },
     {
+      "word": "Cathay",
+      "pos": "PROPN",
+      "translation": "Cathay (ancien nom de la Chine)",
+      "example": "We wandered among the islands for weeks, and at the end of October reached a coast so vast that the Admiral pronounced it the mainland of Cathay, the empire of the Great Khan."
+    },
+    {
       "word": "cathedral",
       "pos": "ADJ",
       "translation": "de cathédrale (« cathedral dark » : obscurité de cathédrale)",
@@ -6082,6 +6388,12 @@
       "pos": "NOUN",
       "translation": "l'avertissement (de la police), le rappel à la loi ; la prudence",
       "example": "There was a page about Danny's past: two cautions for theft as a teenager, a fight outside a pub in London, and a court order for an unpaid debt of eleven thousand pounds."
+    },
+    {
+      "word": "cease",
+      "pos": "VERB",
+      "translation": "cesser",
+      "example": "Whether he persuaded anyone I doubt, but at least the weeping ceased."
     },
     {
       "word": "cedar",
@@ -6132,6 +6444,30 @@
       "example": "His name was Mr Lanyon, and he was the chairman."
     },
     {
+      "word": "Chaldean",
+      "pos": "PROPN",
+      "translation": "le chaldéen (langue ancienne)",
+      "example": "On this first voyage he sent two men inland to seek out the Great Khan's court: Rodrigo de Jerez, of Ayamonte, and Luis de Torres, a converted Jew who knew Hebrew, Chaldean and some Arabic, for the Admiral reasoned that an Oriental prince would surely keep such learned men about him."
+    },
+    {
+      "word": "characteristically",
+      "pos": "ADV",
+      "translation": "de façon caractéristique, comme à son habitude",
+      "example": "Characteristically, he responded not by softening but by marshalling arguments: when a contrary wind blew from the west, he declared it providential, for it proved that winds here blew both ways and we could return."
+    },
+    {
+      "word": "chart",
+      "pos": "NOUN",
+      "translation": "la carte marine",
+      "example": "The third, the flagship, was a heavier, slower nao out of Galicia, chartered from her master, Juan de la Cosa; we called her La Gallega among ourselves, though the Admiral preferred the name Santa María."
+    },
+    {
+      "word": "charter",
+      "pos": "VERB",
+      "translation": "affréter, louer (un navire)",
+      "example": "The third, the flagship, was a heavier, slower nao out of Galicia, chartered from her master, Juan de la Cosa; we called her La Gallega among ourselves, though the Admiral preferred the name Santa María."
+    },
+    {
       "word": "chemical",
       "pos": "ADJ",
       "translation": "chimique",
@@ -6148,6 +6484,54 @@
       "pos": "NOUN",
       "translation": "la chimie",
       "example": "The best of them was a woman who worked on the compound itself — the chemistry of it."
+    },
+    {
+      "word": "chickpea",
+      "pos": "NOUN",
+      "translation": "le pois chiche",
+      "example": "The Admiral had as many chickpeas brought as there were men aboard, cut a cross into one, and shook them all in a cap."
+    },
+    {
+      "word": "choirboy",
+      "pos": "NOUN",
+      "translation": "l’enfant de chœur",
+      "example": "Every evening at dusk, when the glass was turned, the whole crew gathered to recite the Pater Noster, the Ave Maria and the Credo, and to sing the Salve Regina — badly, in our case, for sailors are no choirboys."
+    },
+    {
+      "word": "Christ",
+      "pos": "PROPN",
+      "translation": "le Christ",
+      "example": "He believed with all his soul that God had chosen him to carry the name of Christ across the ocean."
+    },
+    {
+      "word": "Christendom",
+      "pos": "PROPN",
+      "translation": "la chrétienté",
+      "example": "I lay on the deck with my eyes fixed on the dark seam of the horizon, and I prayed — God forgive me — less for the glory of Christendom than for the doublet."
+    },
+    {
+      "word": "Christian",
+      "pos": "NOUN",
+      "translation": "le chrétien",
+      "example": "Within two days the Admiral had written in his journal — and I heard him say as much to his officers — that they would make good servants, that they would readily become Christians, and that with fifty men one could hold them all in subjection."
+    },
+    {
+      "word": "Christopher",
+      "pos": "PROPN",
+      "translation": "Christopher (Christophe ; « Christ-bearer » : porteur du Christ)",
+      "example": "Christopher, he was fond of observing, meant \"Christ-bearer\", and he took that literally, as he took everything that concerned himself."
+    },
+    {
+      "word": "chronicler",
+      "pos": "NOUN",
+      "translation": "le chroniqueur",
+      "example": "You have asked me, grandson, to set down what he was truly like, for you have read the chroniclers and found them either too reverent or too spiteful."
+    },
+    {
+      "word": "Cipango",
+      "pos": "PROPN",
+      "translation": "Cipango (nom médiéval du Japon)",
+      "example": "From that moment the voyage became a hunt from island to island, the Admiral persuaded at every turn that Cipango, the land of gold described by Marco Polo, lay just over the horizon."
     },
     {
       "word": "cipher",
@@ -6168,16 +6552,52 @@
       "example": "It made no claim."
     },
     {
+      "word": "Clara",
+      "pos": "PROPN",
+      "translation": "Clara (« Santa Clara » : Sainte-Claire)",
+      "example": "A second lot was cast for Loreto, and a third for a vigil at Santa Clara of Moguer, my own town, and once again the Admiral's hand came out with the cross."
+    },
+    {
       "word": "clarity",
       "pos": "NOUN",
       "translation": "la clarté, la lucidité",
       "example": "He walked to the microphone and stood there, looking out over the crowd, and Ione understood, with a terrible clarity, exactly what Odette had planned."
     },
     {
+      "word": "closeted",
+      "pos": "ADJ",
+      "translation": "enfermé à huis clos, secret",
+      "example": "We had been longer out of sight of land than any of us had ever been, and the Admiral's closeted conversations with the officers fed every kind of rumour."
+    },
+    {
+      "word": "clump",
+      "pos": "NOUN",
+      "translation": "la touffe, l’amas",
+      "example": "In one clump we found a small live crab, which he kept, declaring it a sure token of land."
+    },
+    {
+      "word": "coarse",
+      "pos": "ADJ",
+      "translation": "rude, épais (cheveux)",
+      "example": "They went as naked as their mothers bore them, and were well made, with handsome bodies and fine faces, their hair coarse and thick, almost like a horse's tail."
+    },
+    {
+      "word": "coastline",
+      "pos": "NOUN",
+      "translation": "le littoral, la côte",
+      "example": "It had been cloud, as it so often is, for the sea at sunset is a great forger of coastlines."
+    },
+    {
       "word": "cobwebs",
       "pos": "NOUN",
       "translation": "la toile d’araignée",
       "example": "There were cobwebs in every corner."
+    },
+    {
+      "word": "coldness",
+      "pos": "NOUN",
+      "translation": "la froideur",
+      "example": "He reminded them of the profit they stood to earn, and then said, with a coldness I can still feel, that it was useless to complain, for he had come to find the Indies and meant to go on until, with the help of Our Lord, he found them."
     },
     {
       "word": "collapse",
@@ -6216,10 +6636,22 @@
       "example": "The Bureau remained fully committed to the principle on which the nation was built: that nothing should be said but what is so."
     },
     {
+      "word": "commonly",
+      "pos": "ADV",
+      "translation": "communément, couramment",
+      "example": "Let me be clear on one point, since nonsense is now commonly repeated: nobody in Palos believed the world was flat."
+    },
+    {
       "word": "compartment",
       "pos": "NOUN",
       "translation": "le compartiment",
       "example": "They found an empty compartment and sat close together by the window."
+    },
+    {
+      "word": "compass",
+      "pos": "NOUN",
+      "translation": "la boussole",
+      "example": "On the evening of the thirteenth of September, and again on the nights that followed, they observed that the compass needles no longer pointed true to the Pole Star, but swung a full point or more towards the northwest."
     },
     {
       "word": "competent",
@@ -6234,6 +6666,18 @@
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
     },
     {
+      "word": "complexion",
+      "pos": "NOUN",
+      "translation": "le teint",
+      "example": "His complexion was ruddy, as though weathered by a lifetime of salt wind, and his hair, which they said had been fair in his youth, had turned entirely white, although he could not have been much past forty."
+    },
+    {
+      "word": "composure",
+      "pos": "NOUN",
+      "translation": "le sang-froid, le calme",
+      "example": "The Admiral heard their alarm with perfect composure and then explained, in the tone of a schoolmaster correcting a dull pupil, that it was not the needle that moved but the star, which circled the true pole like any other, and that the needle was therefore quite sound."
+    },
+    {
       "word": "compound",
       "pos": "NOUN",
       "translation": "le composé (chimique)",
@@ -6244,6 +6688,18 @@
       "pos": "VERB",
       "translation": "cacher, dissimuler",
       "example": "And your grandmother — who lives, I believe, in a green house above the harbour at Brindlemouth — will receive a visit from some of my colleagues, who will want to know why she concealed property belonging to the Bureau for eight years.\""
+    },
+    {
+      "word": "concede",
+      "pos": "VERB",
+      "translation": "concéder, admettre",
+      "example": "It was Cuba, which we now know to be an island, but he never conceded the point."
+    },
+    {
+      "word": "conceive",
+      "pos": "VERB",
+      "translation": "concevoir, imaginer",
+      "example": "More often, I came to think, he simply could not conceive that the world might be indifferent to his enterprise: everything that befell us was either Providence clearing his path or malice obstructing it."
     },
     {
       "word": "conductor",
@@ -6276,10 +6732,28 @@
       "example": "The connection. If his engineers are clever, they will copy your code and change it a little."
     },
     {
+      "word": "conquer",
+      "pos": "VERB",
+      "translation": "conquérir",
+      "example": "It has since conquered half of Christendom."
+    },
+    {
+      "word": "consent",
+      "pos": "VERB",
+      "translation": "consentir",
+      "example": "It was around this time that I heard, from a clerk who had seen the papers, what the Genoese had wrung from Their Majesties at Santa Fe before consenting to sail."
+    },
+    {
       "word": "consistency",
       "pos": "NOUN",
       "translation": "la cohérence, la constance",
       "example": "That's consistency, at least."
+    },
+    {
+      "word": "console",
+      "pos": "VERB",
+      "translation": "consoler",
+      "example": "He consoled himself, he said, with the knowledge that Martín Alonso was a man of spirit and ingenuity who would make shift with ropes until we reached the Canaries."
     },
     {
       "word": "construct",
@@ -6288,10 +6762,22 @@
       "example": "He had written speeches for three prime ministers and apologies for two royal princes, and it was said that he had once written a statement for a chemical company that was so perfectly constructed that the newspapers had praised the company for its honesty on the same day it poisoned a river."
     },
     {
+      "word": "consult",
+      "pos": "VERB",
+      "translation": "consulter",
+      "example": "Nobody thought to consult them."
+    },
+    {
       "word": "contact",
       "pos": "VERB",
       "translation": "contacter",
       "example": "Anyone with information must contact Mrs E."
+    },
+    {
+      "word": "contrary",
+      "pos": "ADJ",
+      "translation": "contraire",
+      "example": "Characteristically, he responded not by softening but by marshalling arguments: when a contrary wind blew from the west, he declared it providential, for it proved that winds here blew both ways and we could return."
     },
     {
       "word": "conversational",
@@ -6304,6 +6790,18 @@
       "pos": "VERB",
       "translation": "transformer, convertir",
       "example": "Tallow Reach was a quarter of old warehouses converted into flats, with iron staircases on the outside walls and washing hanging across the alleys."
+    },
+    {
+      "word": "conviction",
+      "pos": "NOUN",
+      "translation": "la conviction",
+      "example": "Now there was nothing ahead but the Admiral's conviction."
+    },
+    {
+      "word": "convince",
+      "pos": "VERB",
+      "translation": "convaincre",
+      "example": "Gómez Rascón and Cristóbal Quintero, who owned the Pinta, had sailed with the greatest reluctance, and the Admiral was convinced, though he said so only to his officers, that they had tampered with the rudder in the hope of being sent home."
     },
     {
       "word": "convincing",
@@ -6354,10 +6852,28 @@
       "example": "\"\"Six years ago,\" Odette went on, \"the Bureau provided funding to a private medical research centre called the Corvane Institute."
     },
     {
+      "word": "Cosa",
+      "pos": "PROPN",
+      "translation": "Cosa (nom de famille)",
+      "example": "The third, the flagship, was a heavier, slower nao out of Galicia, chartered from her master, Juan de la Cosa; we called her La Gallega among ourselves, though the Admiral preferred the name Santa María."
+    },
+    {
+      "word": "costly",
+      "pos": "ADJ",
+      "translation": "coûteux",
+      "example": "On the twenty-third of May, in the year of Our Lord 1492, the royal letter was read aloud in the church of San Jorge, and I stood at the back beside my father, who muttered that this was the costliest sermon he had ever sat through."
+    },
+    {
       "word": "crab",
       "pos": "NOUN",
       "translation": "le crabe",
       "example": "The crab pots were like baskets, made of wood and rope, with a hole at the top."
+    },
+    {
+      "word": "craftsman",
+      "pos": "NOUN",
+      "translation": "l’artisan",
+      "example": "He addressed sailors as a craftsman addresses tools he intends to use well: courteously, but without the slightest pretence that we were his equals."
     },
     {
       "word": "Crale",
@@ -6366,10 +6882,34 @@
       "example": "\"Odette Crale.\""
     },
     {
+      "word": "creation",
+      "pos": "NOUN",
+      "translation": "la création",
+      "example": "I am an old man now, and the sea that once seemed to me the very edge of creation has shrunk, in the telling, to a tavern anecdote."
+    },
+    {
+      "word": "Credo",
+      "pos": "PROPN",
+      "translation": "le Credo (profession de foi)",
+      "example": "Every evening at dusk, when the glass was turned, the whole crew gathered to recite the Pater Noster, the Ave Maria and the Credo, and to sing the Salve Regina — badly, in our case, for sailors are no choirboys."
+    },
+    {
+      "word": "Cristóbal",
+      "pos": "PROPN",
+      "translation": "Cristóbal (prénom masculin)",
+      "example": "Gómez Rascón and Cristóbal Quintero, who owned the Pinta, had sailed with the greatest reluctance, and the Admiral was convinced, though he said so only to his officers, that they had tampered with the rudder in the hope of being sent home."
+    },
+    {
       "word": "cross",
       "pos": "NOUN",
       "translation": "la croix",
       "example": "Jack Trevaskis could not write very well, so his wife wrote it for him, and he signed it with a big black cross."
+    },
+    {
+      "word": "cruelty",
+      "pos": "NOUN",
+      "translation": "la cruauté",
+      "example": "For three days the wind failed us and we lay becalmed within sight of the islands, which was a cruelty of its own; then, on Sunday the ninth, the breeze freshened, and by evening the last peak of El Hierro had sunk beneath the horizon."
     },
     {
       "word": "crumbly",
@@ -6382,6 +6922,12 @@
       "pos": "NOUN",
       "translation": "le cryptographe",
       "example": "But it was not the kind of code that a cryptographer or a government department would recognise."
+    },
+    {
+      "word": "Cuba",
+      "pos": "PROPN",
+      "translation": "Cuba (île des Caraïbes)",
+      "example": "It was Cuba, which we now know to be an island, but he never conceded the point."
     },
     {
       "word": "currant",
@@ -6400,6 +6946,12 @@
       "pos": "NOUN",
       "translation": "la douane (« customs house » : le bâtiment de la douane)",
       "example": "On the wall of the old customs house, a giant advertisement for a brand of toothpaste declared: \"Recommended by more dentists than any other toothpaste we make.\""
+    },
+    {
+      "word": "Cádiz",
+      "pos": "PROPN",
+      "translation": "Cádiz (ville)",
+      "example": "Young men in Seville speak of the Indies as casually as they speak of Cádiz; ships come and go laden with sugar and hides, and nobody remembers that there was a time when the western ocean was a wall."
     },
     {
       "word": "Cénacle",
@@ -9606,6 +10158,12 @@
       "example": "Not the table, or the hedge, because Bram had written show no one, and putting something on paper felt dangerously like showing it."
     },
     {
+      "word": "dangle",
+      "pos": "VERB",
+      "translation": "faire miroiter, laisser pendre",
+      "example": "He reasoned that men are governed by fear and appetite, and he governed us accordingly, with one hand dangling rewards and the other drawing a veil over whatever might alarm us."
+    },
+    {
       "word": "Daniel",
       "pos": "PROPN",
       "translation": "Daniel (prénom ; diminutif : Danny)",
@@ -9672,6 +10230,12 @@
       "example": "\"When we were seven,\" she said, still looking away, \"Darren Price pushed me into the canal."
     },
     {
+      "word": "dart",
+      "pos": "NOUN",
+      "translation": "la fléchette, le dard",
+      "example": "We gave them red caps, glass beads and little hawk's bells, and they gave us balls of cotton thread, parrots and darts tipped with fish teeth, with a generosity that shamed us."
+    },
+    {
       "word": "dashboard",
       "pos": "NOUN",
       "translation": "le tableau de bord",
@@ -9720,6 +10284,12 @@
       "example": "We leave at dawn."
     },
     {
+      "word": "dawn",
+      "pos": "VERB",
+      "translation": "poindre, se faire jour (« the truth dawned upon us » : la vérité nous apparut)",
+      "example": "I shall never forget the silence aboard as the truth dawned upon us; it was worse than the silence when the Canaries vanished, for now hope itself had played us false."
+    },
+    {
       "word": "day",
       "pos": "NOUN",
       "translation": "le jour",
@@ -9754,6 +10324,12 @@
       "pos": "PROPN",
       "translation": "de (dans « Jerez de la Frontera », ville d'Andalousie)",
       "example": "His load, collected from the quayside the previous evening, consisted of ninety sherry butts, shipped from Jerez de la Frontera and bound for a distillery called Glen Corrach, on the banks of the Spey, some four hundred and ninety miles to the north."
+    },
+    {
+      "word": "de",
+      "pos": "X",
+      "translation": "de (particule dans un nom : « Juan de la Cosa »)",
+      "example": "I owe him a great deal, and I bear him a grudge or two; both debts will be honoured here."
     },
     {
       "word": "dead",
@@ -10086,6 +10662,12 @@
       "example": "Max opened his mouth to deny it, and Gaz shook his head."
     },
     {
+      "word": "Deo",
+      "pos": "PROPN",
+      "translation": "Deo (latin : à Dieu)",
+      "example": "On our deck, the Admiral fell to his knees and gave thanks to God, while Martín Alonso and his people sang the Gloria in excelsis Deo, and the men of all three ships swarmed up the rigging to look."
+    },
+    {
       "word": "depart",
       "pos": "VERB",
       "translation": "partir, quitter",
@@ -10200,6 +10782,12 @@
       "example": "Tom stood in the living room and felt her despair, and her confusion, and her total, absolute belief that Lee had done nothing wrong."
     },
     {
+      "word": "despairing",
+      "pos": "ADJ",
+      "translation": "désespéré",
+      "example": "The eleventh of October was a day of signs that even the most despairing among us could not dismiss."
+    },
+    {
       "word": "desperate",
       "pos": "ADJ",
       "translation": "désespéré",
@@ -10290,10 +10878,22 @@
       "example": "He knew the names of all the rocks around the harbour: the Old Woman, the Cow and Calf, the Devil's Teeth."
     },
     {
+      "word": "devise",
+      "pos": "VERB",
+      "translation": "imaginer, inventer",
+      "example": "But I never saw a man devise a reason so swiftly, nor deliver it with such authority that frightened men believed it."
+    },
+    {
       "word": "Devon",
       "pos": "PROPN",
       "translation": "le Devon (comté du sud-ouest de l’Angleterre)",
       "example": "I went to Exeter, to Bristol, to every hospital in Devon."
+    },
+    {
+      "word": "devout",
+      "pos": "ADJ",
+      "translation": "dévot, pieux",
+      "example": "Brave beyond reason, a navigator without equal, devout to the marrow, and proud enough to haggle with kings over a tenth of a world."
     },
     {
       "word": "dew",
@@ -10348,6 +10948,12 @@
       "pos": "VERB",
       "translation": "mourir (« let the question die » : laisser tomber la question)",
       "example": "But it landed in the small room like a log dropped on the hearth, and Rowan let the question die."
+    },
+    {
+      "word": "Diego",
+      "pos": "PROPN",
+      "translation": "Diego (prénom masculin)",
+      "example": "Thirty-nine men were chosen to remain under Diego de Arana, to gather gold against his return."
     },
     {
       "word": "diesel",
@@ -10578,6 +11184,12 @@
       "example": "That, you will discover for yourselves."
     },
     {
+      "word": "discovery",
+      "pos": "NOUN",
+      "translation": "la découverte",
+      "example": "That night, believing we might all perish, he wrote an account of his discoveries on parchment, wrapped it in waxed cloth, sealed it in a barrel and cast it into the sea, so that the news might reach Their Majesties even if he did not."
+    },
+    {
       "word": "discreet",
       "pos": "ADJ",
       "translation": "discret",
@@ -10654,6 +11266,18 @@
       "pos": "ADJ",
       "translation": "démonté",
       "example": "In forty years he had hauled steel coil, frozen fish, bagged cement and, on one memorable occasion, a dismantled fairground ride; the Duchess was rated for forty-four tonnes, and today she would be carrying barely six."
+    },
+    {
+      "word": "dismiss",
+      "pos": "VERB",
+      "translation": "écarter, rejeter",
+      "example": "The eleventh of October was a day of signs that even the most despairing among us could not dismiss."
+    },
+    {
+      "word": "disobedience",
+      "pos": "NOUN",
+      "translation": "la désobéissance",
+      "example": "Palos had offended Their Majesties in some matter of dues or disobedience — the particulars were never explained to boys like me — and by way of penance the town was ordered to furnish two caravels, fully fitted out, for twelve months' service."
     },
     {
       "word": "disorder",
@@ -10950,6 +11574,12 @@
       "example": "It was an old green double-decker, the kind you see in museums or in old films."
     },
     {
+      "word": "doublet",
+      "pos": "NOUN",
+      "translation": "le pourpoint (veste ajustée d’autrefois)",
+      "example": "He reminded us of God's mercy in bringing us thus far, ordered a vigilant watch to be kept from the forecastle, and repeated that whoever first sighted land would receive a silk doublet from his own hand, over and above the annuity of ten thousand maravedís that Their Majesties had promised."
+    },
+    {
       "word": "doubt",
       "pos": "ADV",
       "translation": "le doute (« no doubt » : sans doute)",
@@ -10966,6 +11596,12 @@
       "pos": "VERB",
       "translation": "douter de",
       "example": "She was doubting him."
+    },
+    {
+      "word": "doubter",
+      "pos": "NOUN",
+      "translation": "le sceptique, celui qui doute",
+      "example": "When he threw in his lot with the Genoese, bringing his brother Vicente Yáñez and a throng of kinsmen and neighbours, the doubters fell silent and the muster rolls filled."
     },
     {
       "word": "dough",
@@ -11170,6 +11806,12 @@
       "pos": "VERB",
       "translation": "redouter, appréhender",
       "example": "Something Rosalind had been half expecting and half dreading for weeks."
+    },
+    {
+      "word": "dreadful",
+      "pos": "ADJ",
+      "translation": "épouvantable, terrible",
+      "example": "I felt it through my feet before I heard it: a long, grinding shudder, and then a dreadful stillness."
     },
     {
       "word": "dream",
@@ -11394,6 +12036,12 @@
       "example": "It was a much better plan than a party full of drunk vampires."
     },
     {
+      "word": "drunkard",
+      "pos": "NOUN",
+      "translation": "l’ivrogne",
+      "example": "We had been at sea barely three days when the Pinta's rudder jumped from its pintles and she began to wallow like a drunkard."
+    },
+    {
       "word": "dry",
       "pos": "ADJ",
       "translation": "sec",
@@ -11470,6 +12118,12 @@
       "pos": "ADJ",
       "translation": "attendu, à rendre (« due on Friday » : à rendre vendredi) ; dû",
       "example": "He told himself it was for his history presentation, which was due on Friday."
+    },
+    {
+      "word": "due",
+      "pos": "NOUN",
+      "translation": "dû (« due west » : plein ouest)",
+      "example": "On the seventh of October, at Martín Alonso's urging, the Admiral altered course from due west to west-southwest, following great flocks of birds that were flying that way."
     },
     {
       "word": "Duke",
@@ -11730,6 +12384,12 @@
       "example": "On Sunday evening he had been at a Polish church in Easton for a christening, and then at a party until midnight."
     },
     {
+      "word": "eastward",
+      "pos": "ADV",
+      "translation": "vers l’est",
+      "example": "Men who had laughed at the Tenerife fire now stood at the rail staring eastward, and more than one wept openly, as though at a graveside."
+    },
+    {
       "word": "easy",
       "pos": "ADJ",
       "translation": "facile",
@@ -11784,10 +12444,22 @@
       "example": "He took his second break at a truck stop outside Edinburgh, ate nothing, and pressed on across the Queensferry Crossing, whose great white cables flashed past him like the strings of some colossal instrument."
     },
     {
+      "word": "El",
+      "pos": "PROPN",
+      "translation": "El (article espagnol : « El Hierro »)",
+      "example": "For three days the wind failed us and we lay becalmed within sight of the islands, which was a cruelty of its own; then, on Sunday the ninth, the breeze freshened, and by evening the last peak of El Hierro had sunk beneath the horizon."
+    },
+    {
       "word": "elephant",
       "pos": "NOUN",
       "translation": "l’éléphant",
       "example": "Then she saw Sam in the kitchen, with his dough elephant."
+    },
+    {
+      "word": "eleventh",
+      "pos": "NOUN",
+      "translation": "onzième",
+      "example": "The eleventh of October was a day of signs that even the most despairing among us could not dismiss."
     },
     {
       "word": "Elspeth",
@@ -11796,10 +12468,22 @@
       "example": "\"My name is Elspeth."
     },
     {
+      "word": "embellish",
+      "pos": "VERB",
+      "translation": "enjoliver, embellir",
+      "example": "What I will not do is embellish."
+    },
+    {
       "word": "embrace",
       "pos": "NOUN",
       "translation": "l’étreinte, l’accolade",
       "example": "She ate lunch at Pennick's, where Mrs Pennick now gave her slightly larger portions without comment, which in Mrs Pennick's language was very nearly an embrace."
+    },
+    {
+      "word": "empire",
+      "pos": "NOUN",
+      "translation": "l’empire",
+      "example": "We wandered among the islands for weeks, and at the end of October reached a coast so vast that the Admiral pronounced it the mainland of Cathay, the empire of the Great Khan."
     },
     {
       "word": "employ",
@@ -11832,10 +12516,34 @@
       "example": "It was exhausting and, Ione had come to understand, enormously valuable."
     },
     {
+      "word": "entangled",
+      "pos": "ADJ",
+      "translation": "empêtré, enchevêtré",
+      "example": "Some of the men were terrified that we would run aground on hidden shoals, or become entangled and rot there like flies in honey; others, more sanguine, insisted that such weed must have been torn loose from rocks not far off."
+    },
+    {
+      "word": "enterprise",
+      "pos": "NOUN",
+      "translation": "l’entreprise, l’expédition",
+      "example": "More often, I came to think, he simply could not conceive that the world might be indifferent to his enterprise: everything that befell us was either Providence clearing his path or malice obstructing it."
+    },
+    {
+      "word": "entrust",
+      "pos": "VERB",
+      "translation": "confier",
+      "example": "Nobody in Palos, Moguer or Huelva was eager to entrust his life to a stranger, still less to a stranger proposing to sail where no one had ever sailed."
+    },
+    {
       "word": "equal",
       "pos": "ADJ",
       "translation": "égal",
       "example": "She was proud of it, and frightened of it, in about equal parts.\""
+    },
+    {
+      "word": "equal",
+      "pos": "NOUN",
+      "translation": "l’égal",
+      "example": "He addressed sailors as a craftsman addresses tools he intends to use well: courteously, but without the slightest pretence that we were his equals."
     },
     {
       "word": "equally",
@@ -11844,10 +12552,34 @@
       "example": "Old Mrs Pennick, who had run the café for thirty years and who disliked everyone equally, asked him what he wanted."
     },
     {
+      "word": "Escobedo",
+      "pos": "PROPN",
+      "translation": "Escobedo (nom de famille)",
+      "example": "Then he rose, called upon the two captains, the notary Rodrigo de Escobedo and the inspector Sánchez to bear witness, and took possession of the island for the King and Queen, naming it San Salvador."
+    },
+    {
+      "word": "Española",
+      "pos": "PROPN",
+      "translation": "l’Española (« La Española » : l’île d’Hispaniola)",
+      "example": "We passed on to a great island the Admiral named La Española, whose mountains and valleys put him in mind of Castile."
+    },
+    {
       "word": "essence",
       "pos": "NOUN",
       "translation": "l’essence, l’essentiel (« in essence » : pour l’essentiel)",
       "example": "It said, in essence, that nothing a phraser learned in the course of preparing a statement for a client could be demanded from them by anyone else — not by the police, not by a court, and not by any department of the state."
+    },
+    {
+      "word": "estimate",
+      "pos": "VERB",
+      "translation": "estimer, évaluer",
+      "example": "Each day he would estimate the leagues we had run, and each day he would announce to the crew a smaller figure, so that, as he wrote, they would not take fright should the voyage prove long."
+    },
+    {
+      "word": "Etna",
+      "pos": "PROPN",
+      "translation": "l’Etna (volcan de Sicile)",
+      "example": "The Admiral took the trouble to explain to them, with a patience he seldom showed, that such fires were natural, and that Etna in Sicily did the very same."
     },
     {
       "word": "evasion",
@@ -11860,6 +12592,12 @@
       "pos": "VERB",
       "translation": "exaspérer (« exasperated » : exaspéré)",
       "example": "Then Bettany sighed, the long, exasperated sigh of a woman who has spent her whole life being the sensible one."
+    },
+    {
+      "word": "excelsis",
+      "pos": "NOUN",
+      "translation": "excelsis (latin : dans les hauteurs, « Gloria in excelsis Deo »)",
+      "example": "On our deck, the Admiral fell to his knees and gave thanks to God, while Martín Alonso and his people sang the Gloria in excelsis Deo, and the men of all three ships swarmed up the rigging to look."
     },
     {
       "word": "exception",
@@ -11886,6 +12624,30 @@
       "example": "It was exhausting and, Ione had come to understand, enormously valuable."
     },
     {
+      "word": "expel",
+      "pos": "VERB",
+      "translation": "expulser",
+      "example": "In those very days the river mouths were crowded with other vessels, overladen and low in the water, carrying away the Jews whom Their Majesties had expelled from their kingdoms."
+    },
+    {
+      "word": "express",
+      "pos": "ADJ",
+      "translation": "exprès, formel (« express orders » : ordres formels)",
+      "example": "The Admiral, who had not slept for two days and a night, had gone below to rest; Juan de la Cosa, who had the watch, went to sleep as well, and the helmsman handed the tiller to a ship's boy, against the Admiral's express orders."
+    },
+    {
+      "word": "expulsion",
+      "pos": "NOUN",
+      "translation": "l’expulsion",
+      "example": "The Admiral, I have since learned, wrote of their expulsion in the same breath as his own commission, as though the one had cleared the way for the other."
+    },
+    {
+      "word": "exultation",
+      "pos": "NOUN",
+      "translation": "l’exultation, la jubilation",
+      "example": "I had expected to feel exultation."
+    },
+    {
       "word": "fair",
       "pos": "NOUN",
       "translation": "la foire, le salon",
@@ -11898,10 +12660,28 @@
       "example": "Most days I'm fairly sure."
     },
     {
+      "word": "fall out",
+      "pos": "PHRASE",
+      "translation": "arriver, se passer (« it fell out that » : il se trouva que)",
+      "example": "I was among the oarsmen, and so it fell out that I set foot in that world with the first of them."
+    },
+    {
       "word": "falsehood",
       "pos": "NOUN",
       "translation": "le mensonge, la fausseté",
       "example": "But in eleven hundred cases, he had never found a single person who could knowingly and deliberately state a falsehood."
+    },
+    {
+      "word": "fast",
+      "pos": "VERB",
+      "translation": "jeûner",
+      "example": "He dressed soberly, almost like a friar, and indeed he kept the rule of a pious man more strictly than our parish priest: he fasted on the appointed days, recited the canonical hours, and the strongest oath I ever heard pass his lips was \"by San Fernando\"."
+    },
+    {
+      "word": "Fe",
+      "pos": "PROPN",
+      "translation": "Fe (« Santa Fe » : ville près de Grenade où furent signés les accords avec Colomb)",
+      "example": "I first laid eyes on him on the quay a few days later."
     },
     {
       "word": "feature",
@@ -11920,6 +12700,12 @@
       "pos": "PROPN",
       "translation": "Fennimore (nom du vieux libraire)",
       "example": "The old man's name was Fennimore — at least, that was the name painted in faded gold letters on the inside of the bookshop door — and he asked Ione no questions at all."
+    },
+    {
+      "word": "Fernando",
+      "pos": "PROPN",
+      "translation": "Fernando (prénom masculin)",
+      "example": "He dressed soberly, almost like a friar, and indeed he kept the rule of a pious man more strictly than our parish priest: he fasted on the appointed days, recited the canonical hours, and the strongest oath I ever heard pass his lips was \"by San Fernando\"."
     },
     {
       "word": "ferry",
@@ -11946,16 +12732,46 @@
       "example": "They meet in Truro, on the fifteenth of April."
     },
     {
+      "word": "fifth",
+      "pos": "NOUN",
+      "translation": "cinquième",
+      "example": "On the evening of the twenty-fifth of September, Martín Alonso climbed onto the poop of the Pinta, cried out that he saw land, and claimed the reward."
+    },
+    {
       "word": "fine",
       "pos": "VERB",
       "translation": "mettre une amende à",
       "example": "It registered phrasers and fined those whose statements were judged \"deliberately misleading in effect\"."
     },
     {
+      "word": "fire",
+      "pos": "VERB",
+      "translation": "tirer (une arme), faire feu",
+      "example": "The Pinta fired a lombard, as had been agreed, and within moments every soul in the fleet was awake and shouting."
+    },
+    {
       "word": "fireplace",
       "pos": "NOUN",
       "translation": "la cheminée (foyer)",
       "example": "She looked at the empty milk bottle, at the old curtains, at the cold fireplace."
+    },
+    {
+      "word": "first",
+      "pos": "NOUN",
+      "translation": "premier",
+      "example": "I was among the oarsmen, and so it fell out that I set foot in that world with the first of them."
+    },
+    {
+      "word": "fit",
+      "pos": "ADJ",
+      "translation": "apte, digne de",
+      "example": "He did not think the crew fit to bear the facts."
+    },
+    {
+      "word": "fit out",
+      "pos": "PHRASE",
+      "translation": "équiper, armer (un navire)",
+      "example": "Palos had offended Their Majesties in some matter of dues or disobedience — the particulars were never explained to boys like me — and by way of penance the town was ordered to furnish two caravels, fully fitted out, for twelve months' service."
     },
     {
       "word": "fixed",
@@ -11970,10 +12786,40 @@
       "example": "There were flags on the quay."
     },
     {
+      "word": "flagship",
+      "pos": "NOUN",
+      "translation": "le vaisseau amiral",
+      "example": "The third, the flagship, was a heavier, slower nao out of Galicia, chartered from her master, Juan de la Cosa; we called her La Gallega among ourselves, though the Admiral preferred the name Santa María."
+    },
+    {
+      "word": "Flanders",
+      "pos": "PROPN",
+      "translation": "la Flandre",
+      "example": "They had sailed to Guinea, to the Azores, to Flanders, but always along known routes, with the comfort of a coast somewhere off the beam."
+    },
+    {
+      "word": "flavour",
+      "pos": "VERB",
+      "translation": "parfumer, teinter (« flavoured with » : teinté de)",
+      "example": "His Castilian was fluent but bent out of shape, flavoured with Portuguese turns picked up during his years in Lisbon, and when he was angry something older crept in underneath."
+    },
+    {
+      "word": "flock",
+      "pos": "NOUN",
+      "translation": "la volée, le troupeau",
+      "example": "On the seventh of October, at Martín Alonso's urging, the Admiral altered course from due west to west-southwest, following great flocks of birds that were flying that way."
+    },
+    {
       "word": "flu",
       "pos": "NOUN",
       "translation": "la grippe",
       "example": "Ione had assumed she meant colleagues with colds or flu."
+    },
+    {
+      "word": "fluent",
+      "pos": "ADJ",
+      "translation": "courant, aisé",
+      "example": "His Castilian was fluent but bent out of shape, flavoured with Portuguese turns picked up during his years in Lisbon, and when he was angry something older crept in underneath."
     },
     {
       "word": "foam",
@@ -11988,6 +12834,30 @@
       "example": "She opened a thin leather folder and placed it on the table between them, but kept one hand flat on top of it."
     },
     {
+      "word": "footing",
+      "pos": "NOUN",
+      "translation": "l’équilibre, l’appui des pieds (« lose his footing » : perdre pied)",
+      "example": "I heard one of the older hands — I will not name him, for his grandsons still live in Palos — remark that a man observing the stars at night might very easily lose his footing and go over the side, and that no one in Castile would ever ask questions."
+    },
+    {
+      "word": "forecastle",
+      "pos": "NOUN",
+      "translation": "le gaillard d’avant, le poste d’équipage",
+      "example": "In the forecastle, men muttered that the Genoese was a madman who would drown us all to make himself a lord; that the winds here blew forever from the east, so that we should never beat home against them; that the water casks were turning foul."
+    },
+    {
+      "word": "foreigner",
+      "pos": "NOUN",
+      "translation": "l’étranger",
+      "example": "He was a foreigner, a Genoese who had spent years hanging about the court and the friary of La Rábida, hawking a scheme that the learned men appointed by Their Majesties had found wanting."
+    },
+    {
+      "word": "forger",
+      "pos": "NOUN",
+      "translation": "le faussaire, le faiseur",
+      "example": "It had been cloud, as it so often is, for the sea at sunset is a great forger of coastlines."
+    },
+    {
       "word": "former",
       "pos": "ADJ",
       "translation": "ancien, précédent",
@@ -11998,6 +12868,18 @@
       "pos": "NOUN",
       "translation": "la formule",
       "example": "There were numbers, chemical formulas, diagrams of molecules, and between them, line after line of strange, broken sentences."
+    },
+    {
+      "word": "foul",
+      "pos": "ADJ",
+      "translation": "infect, gâté",
+      "example": "In the forecastle, men muttered that the Genoese was a madman who would drown us all to make himself a lord; that the winds here blew forever from the east, so that we should never beat home against them; that the water casks were turning foul."
+    },
+    {
+      "word": "found",
+      "pos": "VERB",
+      "translation": "trouva (passé de « find » : trouver) ; aussi : fonder",
+      "example": "In one clump we found a small live crab, which he kept, declaring it a sure token of land."
     },
     {
       "word": "founding",
@@ -12030,6 +12912,30 @@
       "example": "There was a desk with nothing on it, two chairs, and on the wall behind the desk, a framed copy of the oath that every new employee of the Bureau had to recite on their first day."
     },
     {
+      "word": "freshen",
+      "pos": "VERB",
+      "translation": "fraîchir (vent)",
+      "example": "For three days the wind failed us and we lay becalmed within sight of the islands, which was a cruelty of its own; then, on Sunday the ninth, the breeze freshened, and by evening the last peak of El Hierro had sunk beneath the horizon."
+    },
+    {
+      "word": "friar",
+      "pos": "NOUN",
+      "translation": "le frère, le moine",
+      "example": "He was a foreigner, a Genoese who had spent years hanging about the court and the friary of La Rábida, hawking a scheme that the learned men appointed by Their Majesties had found wanting."
+    },
+    {
+      "word": "friary",
+      "pos": "NOUN",
+      "translation": "le couvent, le monastère",
+      "example": "He was a foreigner, a Genoese who had spent years hanging about the court and the friary of La Rábida, hawking a scheme that the learned men appointed by Their Majesties had found wanting."
+    },
+    {
+      "word": "fright",
+      "pos": "NOUN",
+      "translation": "la frayeur",
+      "example": "Each day he would estimate the leagues we had run, and each day he would announce to the crew a smaller figure, so that, as he wrote, they would not take fright should the voyage prove long."
+    },
+    {
       "word": "frown",
       "pos": "NOUN",
       "translation": "le froncement de sourcils",
@@ -12060,6 +12966,30 @@
       "example": "\"\"Six years ago,\" Odette went on, \"the Bureau provided funding to a private medical research centre called the Corvane Institute."
     },
     {
+      "word": "furnish",
+      "pos": "VERB",
+      "translation": "fournir, équiper",
+      "example": "Palos had offended Their Majesties in some matter of dues or disobedience — the particulars were never explained to boys like me — and by way of penance the town was ordered to furnish two caravels, fully fitted out, for twelve months' service."
+    },
+    {
+      "word": "Galicia",
+      "pos": "PROPN",
+      "translation": "la Galice (région du nord-ouest de l’Espagne)",
+      "example": "The third, the flagship, was a heavier, slower nao out of Galicia, chartered from her master, Juan de la Cosa; we called her La Gallega among ourselves, though the Admiral preferred the name Santa María."
+    },
+    {
+      "word": "Gallega",
+      "pos": "PROPN",
+      "translation": "Gallega (« La Gallega » : « la Galicienne », surnom de la Santa María)",
+      "example": "The third, the flagship, was a heavier, slower nao out of Galicia, chartered from her master, Juan de la Cosa; we called her La Gallega among ourselves, though the Admiral preferred the name Santa María."
+    },
+    {
+      "word": "gaolbird",
+      "pos": "NOUN",
+      "translation": "le détenu, le repris de justice",
+      "example": "A handful of men took up the Crown's offer of a pardon for their crimes in exchange for service — that much is true — but the tale that the fleet was manned by gaolbirds is a slander."
+    },
+    {
       "word": "General",
       "pos": "PROPN",
       "translation": "General (« Lantry General Hospital » : l’hôpital général de Lantry)",
@@ -12072,10 +13002,22 @@
       "example": "Schoolchildren in white collars stood on the steps of public buildings and recited the famous true sentences of history: the words of the first judge to give a verdict without a jury, the confession of the general who lost the Battle of the Marrows, the opening line of the Phrasers' Act."
     },
     {
+      "word": "generosity",
+      "pos": "NOUN",
+      "translation": "la générosité",
+      "example": "We gave them red caps, glass beads and little hawk's bells, and they gave us balls of cotton thread, parrots and darts tipped with fish teeth, with a generosity that shamed us."
+    },
+    {
       "word": "generously",
       "pos": "ADV",
       "translation": "généreusement, largement",
       "example": "That was true as well, if one interpreted \"closely\" generously and \"long-term\" literally."
+    },
+    {
+      "word": "Genoese",
+      "pos": "PROPN",
+      "translation": "le Génois (habitant de Gênes ; ici, Christophe Colomb)",
+      "example": "I was fifteen years old, a grumete — a ship's boy — from Moguer, when I signed on with the Genoese, and I am, so far as I know, among the last of those who sailed with him who still draw breath."
     },
     {
       "word": "genuine",
@@ -12090,10 +13032,52 @@
       "example": "She was the most gifted chemist the Corvane Institute ever employed."
     },
     {
+      "word": "Gloria",
+      "pos": "PROPN",
+      "translation": "Gloria (latin : gloire, « Gloria in excelsis Deo »)",
+      "example": "On our deck, the Admiral fell to his knees and gave thanks to God, while Martín Alonso and his people sang the Gloria in excelsis Deo, and the men of all three ships swarmed up the rigging to look."
+    },
+    {
+      "word": "Gomera",
+      "pos": "PROPN",
+      "translation": "La Gomera (île des Canaries)",
+      "example": "At San Sebastián de la Gomera we took on water, firewood and salted meat."
+    },
+    {
+      "word": "govern",
+      "pos": "VERB",
+      "translation": "gouverner",
+      "example": "Should he succeed, he was to be Admiral of the Ocean Sea, Viceroy and Governor of every land he discovered, and to receive a tenth of all the riches they yielded — and these honours were to pass to his heirs in perpetuity."
+    },
+    {
+      "word": "Governor",
+      "pos": "PROPN",
+      "translation": "le Gouverneur",
+      "example": "Should he succeed, he was to be Admiral of the Ocean Sea, Viceroy and Governor of every land he discovered, and to receive a tenth of all the riches they yielded — and these honours were to pass to his heirs in perpetuity."
+    },
+    {
       "word": "grandparent",
       "pos": "NOUN",
       "translation": "le grand-parent",
       "example": "Grandparents?"
+    },
+    {
+      "word": "grant",
+      "pos": "VERB",
+      "translation": "accorder (« I will grant him this » : je lui accorde cela)",
+      "example": "He came among us that evening, and I will grant him this: he did not mock their fear."
+    },
+    {
+      "word": "grasp",
+      "pos": "VERB",
+      "translation": "saisir, empoigner",
+      "example": "When the Admiral showed them our swords, they grasped them by the edge, out of ignorance, and cut themselves."
+    },
+    {
+      "word": "graveside",
+      "pos": "NOUN",
+      "translation": "le bord de la tombe",
+      "example": "Men who had laughed at the Tenerife fire now stood at the rail staring eastward, and more than one wept openly, as though at a graveside."
     },
     {
       "word": "greatly",
@@ -12102,10 +13086,64 @@
       "example": "Your cooperation is greatly appreciated."
     },
     {
+      "word": "grind",
+      "pos": "VERB",
+      "translation": "grincer, broyer",
+      "example": "I felt it through my feet before I heard it: a long, grinding shudder, and then a dreadful stillness."
+    },
+    {
       "word": "grow out",
       "pos": "PHRASE",
       "translation": "repousser (cheveux), pousser",
       "example": "At his thin, tired face, and his dark eyes, and the hair that somebody had cut too short for Candour Day and that was beginning, at last, to grow out again."
+    },
+    {
+      "word": "grudge",
+      "pos": "NOUN",
+      "translation": "la rancune",
+      "example": "I owe him a great deal, and I bear him a grudge or two; both debts will be honoured here."
+    },
+    {
+      "word": "grudgingly",
+      "pos": "ADV",
+      "translation": "à contrecœur",
+      "example": "He did so grudgingly, I believe, for it was not his own idea, and he liked to be the author of every decision."
+    },
+    {
+      "word": "grumete",
+      "pos": "NOUN",
+      "translation": "le mousse (en espagnol : « grumete »)",
+      "example": "I was fifteen years old, a grumete — a ship's boy — from Moguer, when I signed on with the Genoese, and I am, so far as I know, among the last of those who sailed with him who still draw breath."
+    },
+    {
+      "word": "Guacanagarí",
+      "pos": "PROPN",
+      "translation": "Guacanagarí (cacique taïno qui accueillit les Espagnols à Hispaniola)",
+      "example": "Guacanagarí, the lord of that country, sent every canoe he possessed, and his people laboured all day beside us, carrying our goods ashore."
+    },
+    {
+      "word": "Guadalupe",
+      "pos": "PROPN",
+      "translation": "Guadalupe (sanctuaire marial d’Estrémadure)",
+      "example": "Whoever drew the marked pea would go on pilgrimage to Santa María de Guadalupe."
+    },
+    {
+      "word": "Guanahaní",
+      "pos": "PROPN",
+      "translation": "Guanahaní (nom taïno de l’île que Colomb nomma San Salvador)",
+      "example": "Its people, we later learned, called it Guanahaní."
+    },
+    {
+      "word": "guard",
+      "pos": "VERB",
+      "translation": "garder, protéger (« guarded jealously » : gardé jalousement)",
+      "example": "Here is the irony, which I savour in my old age: the Admiral habitually overestimated our speed, so that the false figures he gave us were in truth closer to the mark than those he guarded so jealously."
+    },
+    {
+      "word": "Guinea",
+      "pos": "PROPN",
+      "translation": "la Guinée (côte d’Afrique occidentale)",
+      "example": "They had sailed to Guinea, to the Azores, to Flanders, but always along known routes, with the comfort of a coast somewhere off the beam."
     },
     {
       "word": "gull",
@@ -12114,10 +13152,46 @@
       "example": "The sea is the colour of what the gulls remember."
     },
     {
+      "word": "Gutiérrez",
+      "pos": "PROPN",
+      "translation": "Gutiérrez (nom de famille)",
+      "example": "Instead he quietly summoned Pero Gutiérrez, a gentleman of the King's household who was sailing with us, and asked whether he saw it too."
+    },
+    {
+      "word": "Gómez",
+      "pos": "PROPN",
+      "translation": "Gómez (prénom masculin)",
+      "example": "Gómez Rascón and Cristóbal Quintero, who owned the Pinta, had sailed with the greatest reluctance, and the Admiral was convinced, though he said so only to his officers, that they had tampered with the rudder in the hope of being sent home."
+    },
+    {
+      "word": "habitually",
+      "pos": "ADV",
+      "translation": "habituellement",
+      "example": "Here is the irony, which I savour in my old age: the Admiral habitually overestimated our speed, so that the false figures he gave us were in truth closer to the mark than those he guarded so jealously."
+    },
+    {
+      "word": "hail",
+      "pos": "VERB",
+      "translation": "saluer, acclamer",
+      "example": "Whales were sighted, and boobies, and terns, and every bird that crossed our wake was hailed as a messenger from some nearby coast."
+    },
+    {
       "word": "Halvey",
       "pos": "PROPN",
       "translation": "Halvey (nom de famille d’Ione)",
       "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
+    },
+    {
+      "word": "handsome",
+      "pos": "ADJ",
+      "translation": "beau, bien fait",
+      "example": "They went as naked as their mothers bore them, and were well made, with handsome bodies and fine faces, their hair coarse and thick, almost like a horse's tail."
+    },
+    {
+      "word": "handy",
+      "pos": "ADJ",
+      "translation": "maniable, pratique",
+      "example": "The Pinta, under Martín Alonso, and the Niña, under Vicente Yáñez, were caravels from our own yards, light and handy."
     },
     {
       "word": "harmonica",
@@ -12130,6 +13204,42 @@
       "pos": "PROPN",
       "translation": "Harrow (« Harrow Strand » : nom d’une plage)",
       "example": "On the long curve of sand beneath the cliffs, at the place where the old harbour wall ran down into the sea, that everyone in the town called Harrow Strand."
+    },
+    {
+      "word": "hasten",
+      "pos": "VERB",
+      "translation": "hâter, accélérer",
+      "example": "But the Admiral believed in them, and it hastened our departure."
+    },
+    {
+      "word": "hawk",
+      "pos": "VERB",
+      "translation": "colporter, proposer de porte en porte",
+      "example": "He was a foreigner, a Genoese who had spent years hanging about the court and the friary of La Rábida, hawking a scheme that the learned men appointed by Their Majesties had found wanting."
+    },
+    {
+      "word": "hawk",
+      "pos": "NOUN",
+      "translation": "le faucon (« hawk’s bells » : grelots de fauconnerie)",
+      "example": "We gave them red caps, glass beads and little hawk's bells, and they gave us balls of cotton thread, parrots and darts tipped with fish teeth, with a generosity that shamed us."
+    },
+    {
+      "word": "Hebrew",
+      "pos": "PROPN",
+      "translation": "l’hébreu (langue)",
+      "example": "On this first voyage he sent two men inland to seek out the Great Khan's court: Rodrigo de Jerez, of Ayamonte, and Luis de Torres, a converted Jew who knew Hebrew, Chaldean and some Arabic, for the Admiral reasoned that an Oriental prince would surely keep such learned men about him."
+    },
+    {
+      "word": "heir",
+      "pos": "NOUN",
+      "translation": "l’héritier",
+      "example": "Should he succeed, he was to be Admiral of the Ocean Sea, Viceroy and Governor of every land he discovered, and to receive a tenth of all the riches they yielded — and these honours were to pass to his heirs in perpetuity."
+    },
+    {
+      "word": "helmsman",
+      "pos": "NOUN",
+      "translation": "le timonier",
+      "example": "The Admiral, who had not slept for two days and a night, had gone below to rest; Juan de la Cosa, who had the watch, went to sleep as well, and the helmsman handed the tiller to a ship's boy, against the Admiral's express orders."
     },
     {
       "word": "helper",
@@ -12150,16 +13260,52 @@
       "example": "\"Well,\" said Hester."
     },
     {
+      "word": "hide",
+      "pos": "NOUN",
+      "translation": "la peau, le cuir (« hides » : peaux)",
+      "example": "Young men in Seville speak of the Indies as casually as they speak of Cádiz; ships come and go laden with sugar and hides, and nobody remembers that there was a time when the western ocean was a wall."
+    },
+    {
       "word": "hiding",
       "pos": "NOUN",
       "translation": "la cachette (« hiding place » : lieu pour se cacher)",
       "example": "In a world where nobody could lie, the people with money had quickly discovered that the truth was not a wall but a landscape, full of slopes and shadows and convenient hiding places, and that some people were much better than others at finding their way around it."
     },
     {
+      "word": "Hierro",
+      "pos": "PROPN",
+      "translation": "Hierro (« El Hierro » : île des Canaries)",
+      "example": "For three days the wind failed us and we lay becalmed within sight of the islands, which was a cruelty of its own; then, on Sunday the ninth, the breeze freshened, and by evening the last peak of El Hierro had sunk beneath the horizon."
+    },
+    {
+      "word": "honour",
+      "pos": "VERB",
+      "translation": "honorer",
+      "example": "I owe him a great deal, and I bear him a grudge or two; both debts will be honoured here."
+    },
+    {
+      "word": "honour",
+      "pos": "NOUN",
+      "translation": "l’honneur, la distinction",
+      "example": "Should he succeed, he was to be Admiral of the Ocean Sea, Viceroy and Governor of every land he discovered, and to receive a tenth of all the riches they yielded — and these honours were to pass to his heirs in perpetuity."
+    },
+    {
+      "word": "hospitable",
+      "pos": "ADJ",
+      "translation": "hospitalier",
+      "example": "They returned after several days, having found a village of palm-thatched houses, hospitable people and no Khan whatsoever."
+    },
+    {
       "word": "hospitalise",
       "pos": "VERB",
       "translation": "hospitaliser",
       "example": "Next to four others, the word was Hospitalised."
+    },
+    {
+      "word": "Huelva",
+      "pos": "PROPN",
+      "translation": "Huelva (ville)",
+      "example": "Nobody in Palos, Moguer or Huelva was eager to entrust his life to a stranger, still less to a stranger proposing to sail where no one had ever sailed."
     },
     {
       "word": "hull",
@@ -12180,6 +13326,18 @@
       "example": "But it was there: a gull with outstretched wings, and beneath it two crooked letters, I.H."
     },
     {
+      "word": "ignorance",
+      "pos": "NOUN",
+      "translation": "l’ignorance",
+      "example": "When the Admiral showed them our swords, they grasped them by the edge, out of ignorance, and cut themselves."
+    },
+    {
+      "word": "ignorant",
+      "pos": "ADJ",
+      "translation": "ignorant",
+      "example": "The Admiral cannot have been ignorant of it."
+    },
+    {
       "word": "illness",
       "pos": "NOUN",
       "translation": "la maladie",
@@ -12190,6 +13348,12 @@
       "pos": "NOUN",
       "translation": "l’impossibilité",
       "example": "How did you tell someone, in a world built entirely on the impossibility of lying, that you had just watched a man do it, as easily as he drank his coffee?"
+    },
+    {
+      "word": "impossibly",
+      "pos": "ADV",
+      "translation": "de façon impossible, démesurément",
+      "example": "The scholars held that Asia lay impossibly far to the west, beyond the reach of any ship's water casks — and, as it turned out, the scholars were right."
     },
     {
       "word": "improvement",
@@ -12246,16 +13410,34 @@
       "example": "The formula in the Bureau's safe was examined by six independent chemists."
     },
     {
+      "word": "Indies",
+      "pos": "PROPN",
+      "translation": "les Indes",
+      "example": "Young men in Seville speak of the Indies as casually as they speak of Cádiz; ships come and go laden with sugar and hides, and nobody remembers that there was a time when the western ocean was a wall."
+    },
+    {
       "word": "infection",
       "pos": "NOUN",
       "translation": "l’infection",
       "example": "\"A bad chest infection,\" he said."
     },
     {
+      "word": "ingenuity",
+      "pos": "NOUN",
+      "translation": "l’ingéniosité",
+      "example": "He consoled himself, he said, with the knowledge that Martín Alonso was a man of spirit and ingenuity who would make shift with ropes until we reached the Canaries."
+    },
+    {
       "word": "injection",
       "pos": "NOUN",
       "translation": "l’injection, la piqûre",
       "example": "\"Injections, mostly."
+    },
+    {
+      "word": "inland",
+      "pos": "ADJ",
+      "translation": "à l’intérieur des terres",
+      "example": "On this first voyage he sent two men inland to seek out the Great Khan's court: Rodrigo de Jerez, of Ayamonte, and Luis de Torres, a converted Jew who knew Hebrew, Chaldean and some Arabic, for the Admiral reasoned that an Oriental prince would surely keep such learned men about him."
     },
     {
       "word": "inquiry",
@@ -12288,6 +13470,12 @@
       "example": "That was true as well, if one interpreted \"closely\" generously and \"long-term\" literally."
     },
     {
+      "word": "interpreter",
+      "pos": "NOUN",
+      "translation": "l’interprète",
+      "example": "When we left Guanahaní, he took seven of its people with him, to learn our tongue and serve as interpreters."
+    },
+    {
       "word": "interrogation",
       "pos": "NOUN",
       "translation": "l’interrogatoire",
@@ -12318,10 +13506,34 @@
       "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
     },
     {
+      "word": "island",
+      "pos": "NOUN",
+      "translation": "l’île",
+      "example": "We lingered nearly a month among the Canary Islands, longer than anyone wished."
+    },
+    {
+      "word": "islander",
+      "pos": "NOUN",
+      "translation": "l’insulaire",
+      "example": "Some of the islanders wore little pieces of gold hanging from a hole pierced in the nose, and the Admiral wished to know whence it came."
+    },
+    {
+      "word": "Islands",
+      "pos": "PROPN",
+      "translation": "Islands (« Canary Islands » : îles Canaries)",
+      "example": "We lingered nearly a month among the Canary Islands, longer than anyone wished."
+    },
+    {
       "word": "Jack",
       "pos": "PROPN",
       "translation": "Jack (prénom masculin)",
       "example": "His name was Jack Trevaskis, and he had the biggest boat in Porthwen."
+    },
+    {
+      "word": "jealously",
+      "pos": "ADV",
+      "translation": "jalousement",
+      "example": "Here is the irony, which I savour in my old age: the Admiral habitually overestimated our speed, so that the false figures he gave us were in truth closer to the mark than those he guarded so jealously."
     },
     {
       "word": "jetty",
@@ -12330,10 +13542,46 @@
       "example": "Instead he led her down to the river, where the last ferry of the evening was waiting at the old stone jetty, its engine coughing and its single lamp swinging in the wind."
     },
     {
+      "word": "Jew",
+      "pos": "PROPN",
+      "translation": "le Juif",
+      "example": "In those very days the river mouths were crowded with other vessels, overladen and low in the water, carrying away the Jews whom Their Majesties had expelled from their kingdoms."
+    },
+    {
       "word": "jewellery",
       "pos": "NOUN",
       "translation": "les bijoux",
       "example": "She was a tall woman in her fifties, with short grey hair, a long pale face and very light blue eyes, and she wore a dark suit without a single piece of jewellery."
+    },
+    {
+      "word": "Jews",
+      "pos": "PROPN",
+      "translation": "les Juifs",
+      "example": "In those very days the river mouths were crowded with other vessels, overladen and low in the water, carrying away the Jews whom Their Majesties had expelled from their kingdoms."
+    },
+    {
+      "word": "Jorge",
+      "pos": "PROPN",
+      "translation": "Jorge (prénom masculin)",
+      "example": "On the twenty-third of May, in the year of Our Lord 1492, the royal letter was read aloud in the church of San Jorge, and I stood at the back beside my father, who muttered that this was the costliest sermon he had ever sat through."
+    },
+    {
+      "word": "journal",
+      "pos": "NOUN",
+      "translation": "le journal de bord",
+      "example": "He wrote in his journal every day without fail, in a small, careful hand, intended, so his steward told me, for the eyes of Their Majesties."
+    },
+    {
+      "word": "João",
+      "pos": "PROPN",
+      "translation": "João (Jean II, roi du Portugal)",
+      "example": "There was talk, too, of Portuguese caravels lurking off the islands with orders to seize us, for King João had never forgiven the Genoese for carrying his scheme to Castile after Lisbon had rejected it."
+    },
+    {
+      "word": "Juan",
+      "pos": "PROPN",
+      "translation": "Juan (prénom masculin)",
+      "example": "The third, the flagship, was a heavier, slower nao out of Galicia, chartered from her master, Juan de la Cosa; we called her La Gallega among ourselves, though the Admiral preferred the name Santa María."
     },
     {
       "word": "judgement",
@@ -12354,10 +13602,52 @@
       "example": "The statement on the Kessler Hotel fire was particularly good."
     },
     {
+      "word": "Khan",
+      "pos": "PROPN",
+      "translation": "le Khan (souverain mongol)",
+      "example": "We wandered among the islands for weeks, and at the end of October reached a coast so vast that the Admiral pronounced it the mainland of Cathay, the empire of the Great Khan."
+    },
+    {
+      "word": "King",
+      "pos": "PROPN",
+      "translation": "le Roi",
+      "example": "In those very days the river mouths were crowded with other vessels, overladen and low in the water, carrying away the Jews whom Their Majesties had expelled from their kingdoms."
+    },
+    {
+      "word": "kinsman",
+      "pos": "NOUN",
+      "translation": "le parent, le proche",
+      "example": "When he threw in his lot with the Genoese, bringing his brother Vicente Yáñez and a throng of kinsmen and neighbours, the doubters fell silent and the muster rolls filled."
+    },
+    {
       "word": "knowingly",
       "pos": "ADV",
       "translation": "sciemment",
       "example": "But in eleven hundred cases, he had never found a single person who could knowingly and deliberately state a falsehood."
+    },
+    {
+      "word": "la",
+      "pos": "X",
+      "translation": "la (article dans un nom : « Juan de la Cosa »)",
+      "example": "Young men in Seville speak of the Indies as casually as they speak of Cádiz; ships come and go laden with sugar and hides, and nobody remembers that there was a time when the western ocean was a wall."
+    },
+    {
+      "word": "La",
+      "pos": "PROPN",
+      "translation": "La (article espagnol : « La Navidad », « La Rábida »)",
+      "example": "Young men in Seville speak of the Indies as casually as they speak of Cádiz; ships come and go laden with sugar and hides, and nobody remembers that there was a time when the western ocean was a wall."
+    },
+    {
+      "word": "labour",
+      "pos": "VERB",
+      "translation": "travailler dur, peiner",
+      "example": "Guacanagarí, the lord of that country, sent every canoe he possessed, and his people laboured all day beside us, carrying our goods ashore."
+    },
+    {
+      "word": "lace",
+      "pos": "NOUN",
+      "translation": "le lacet (« lace-tag » : ferret de lacet)",
+      "example": "Nothing was stolen, not so much as a lace-tag."
     },
     {
       "word": "landlord",
@@ -12372,6 +13662,12 @@
       "example": "When she reached the wall, she climbed up the rough steps at its landward end, and walked slowly along its top, looking down at the hundreds of names and hearts and pictures cut into the stone."
     },
     {
+      "word": "languish",
+      "pos": "VERB",
+      "translation": "languir, stagner",
+      "example": "For weeks, the recruitment languished."
+    },
+    {
       "word": "Lantry",
       "pos": "PROPN",
       "translation": "Lantry (la ville où se passe l’histoire, bâtie de part et d’autre de la Sull)",
@@ -12382,6 +13678,18 @@
       "pos": "PROPN",
       "translation": "Lanyon (nom de famille du président du comité)",
       "example": "His name was Mr Lanyon, and he was the chairman."
+    },
+    {
+      "word": "lateen",
+      "pos": "NOUN",
+      "translation": "latine (« lateen sail » : voile latine, triangulaire)",
+      "example": "The Pinta's rudder was mended at Gran Canaria, and while we were about it the Niña's triangular lateen sails were exchanged for square ones, so that she might run more easily before the wind."
+    },
+    {
+      "word": "league",
+      "pos": "NOUN",
+      "translation": "la lieue (ancienne mesure, environ 4 à 5 km en mer)",
+      "example": "Each day he would estimate the leagues we had run, and each day he would announce to the crew a smaller figure, so that, as he wrote, they would not take fright should the voyage prove long."
     },
     {
       "word": "leek",
@@ -12426,10 +13734,22 @@
       "example": "A young man in a grey suit met her in the marble entrance hall and led her up three flights of stairs and along a corridor lined with portraits of former directors."
     },
     {
+      "word": "linger",
+      "pos": "VERB",
+      "translation": "s’attarder, traîner",
+      "example": "We lingered nearly a month among the Canary Islands, longer than anyone wished."
+    },
+    {
       "word": "lining",
       "pos": "NOUN",
       "translation": "la doublure",
       "example": "At half past two she wrapped the notebook in its yellow scarf and put it inside the lining of an old winter coat at the back of her wardrobe."
+    },
+    {
+      "word": "Lisbon",
+      "pos": "PROPN",
+      "translation": "Lisbonne",
+      "example": "His Castilian was fluent but bent out of shape, flavoured with Portuguese turns picked up during his years in Lisbon, and when he was angry something older crept in underneath."
     },
     {
       "word": "listener",
@@ -12442,6 +13762,12 @@
       "pos": "ADV",
       "translation": "en direct",
       "example": "\"Let me show you. Live. No tricks.\""
+    },
+    {
+      "word": "live",
+      "pos": "ADJ",
+      "translation": "vivant",
+      "example": "In one clump we found a small live crab, which he kept, declaring it a sure token of land."
     },
     {
       "word": "lobster",
@@ -12462,10 +13788,46 @@
       "example": "\"You managed to make a locked fire door sound like an architectural feature.\""
     },
     {
+      "word": "lombard",
+      "pos": "NOUN",
+      "translation": "la lombarde (petit canon ancien)",
+      "example": "The Pinta fired a lombard, as had been agreed, and within moments every soul in the fleet was awake and shouting."
+    },
+    {
+      "word": "long",
+      "pos": "VERB",
+      "translation": "désirer ardemment (« to long for »)",
+      "example": "But when it came to signs, he read them as a lover reads letters, finding in each precisely what he longed to find."
+    },
+    {
+      "word": "Lord",
+      "pos": "PROPN",
+      "translation": "le Seigneur (« Our Lord » : Notre-Seigneur, Dieu)",
+      "example": "On the twenty-third of May, in the year of Our Lord 1492, the royal letter was read aloud in the church of San Jorge, and I stood at the back beside my father, who muttered that this was the costliest sermon he had ever sat through."
+    },
+    {
+      "word": "Loreto",
+      "pos": "PROPN",
+      "translation": "Loreto (sanctuaire marial en Italie)",
+      "example": "A second lot was cast for Loreto, and a third for a vigil at Santa Clara of Moguer, my own town, and once again the Admiral's hand came out with the cross."
+    },
+    {
+      "word": "lover",
+      "pos": "NOUN",
+      "translation": "l’amoureux, l’amant",
+      "example": "But when it came to signs, he read them as a lover reads letters, finding in each precisely what he longed to find."
+    },
+    {
       "word": "Lucan",
       "pos": "PROPN",
       "translation": "Lucan (prénom ; « Lucan Mere » : l’homme au manteau gris du café)",
       "example": "Lucan Mere, said the name beneath the photograph."
+    },
+    {
+      "word": "Luis",
+      "pos": "PROPN",
+      "translation": "Luis (prénom masculin)",
+      "example": "On this first voyage he sent two men inland to seek out the Great Khan's court: Rodrigo de Jerez, of Ayamonte, and Luis de Torres, a converted Jew who knew Hebrew, Chaldean and some Arabic, for the Admiral reasoned that an Oriental prince would surely keep such learned men about him."
     },
     {
       "word": "lurid",
@@ -12474,10 +13836,40 @@
       "example": "Inside, wrapped in brown paper, was a cheap paperback novel with a lurid cover — a romance, of the kind sold in railway stations, called Love on the Lighthouse."
     },
     {
+      "word": "lurk",
+      "pos": "VERB",
+      "translation": "rôder, se tenir à l’affût",
+      "example": "There was talk, too, of Portuguese caravels lurking off the islands with orders to seize us, for King João had never forgiven the Genoese for carrying his scheme to Castile after Lisbon had rejected it."
+    },
+    {
       "word": "madam",
       "pos": "NOUN",
       "translation": "madame",
       "example": "\"Good morning, madam."
+    },
+    {
+      "word": "madman",
+      "pos": "NOUN",
+      "translation": "le fou",
+      "example": "In the forecastle, men muttered that the Genoese was a madman who would drown us all to make himself a lord; that the winds here blew forever from the east, so that we should never beat home against them; that the water casks were turning foul."
+    },
+    {
+      "word": "mainland",
+      "pos": "NOUN",
+      "translation": "le continent",
+      "example": "We wandered among the islands for weeks, and at the end of October reached a coast so vast that the Admiral pronounced it the mainland of Cathay, the empire of the Great Khan."
+    },
+    {
+      "word": "Majesties",
+      "pos": "PROPN",
+      "translation": "les Majestés (« Their Majesties » : leurs Majestés, les Rois Catholiques)",
+      "example": "Palos had offended Their Majesties in some matter of dues or disobedience — the particulars were never explained to boys like me — and by way of penance the town was ordered to furnish two caravels, fully fitted out, for twelve months' service."
+    },
+    {
+      "word": "man",
+      "pos": "VERB",
+      "translation": "armer, équiper en hommes (« manned by » : équipé par)",
+      "example": "A handful of men took up the Crown's offer of a pardon for their crimes in exchange for service — that much is true — but the tale that the fleet was manned by gaolbirds is a slander."
     },
     {
       "word": "manual",
@@ -12492,6 +13884,18 @@
       "example": "She had three other jobs waiting: a letter of apology for a hotel chain, a speech for a retiring judge, and the label for a new brand of breakfast cereal that contained, according to the manufacturer's own laboratory, \"slightly more than nothing of real nutritional value\"."
     },
     {
+      "word": "maravedí",
+      "pos": "NOUN",
+      "translation": "le maravédis (ancienne monnaie espagnole)",
+      "example": "He reminded us of God's mercy in bringing us thus far, ordered a vigilant watch to be kept from the forecastle, and repeated that whoever first sighted land would receive a silk doublet from his own hand, over and above the annuity of ten thousand maravedís that Their Majesties had promised."
+    },
+    {
+      "word": "Maria",
+      "pos": "PROPN",
+      "translation": "Maria (Marie)",
+      "example": "Every evening at dusk, when the glass was turned, the whole crew gathered to recite the Pater Noster, the Ave Maria and the Credo, and to sing the Salve Regina — badly, in our case, for sailors are no choirboys."
+    },
+    {
       "word": "marketing",
       "pos": "NOUN",
       "translation": "le marketing",
@@ -12504,16 +13908,40 @@
       "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
     },
     {
+      "word": "marrow",
+      "pos": "NOUN",
+      "translation": "la moelle (« to the marrow » : jusqu’à la moelle)",
+      "example": "Brave beyond reason, a navigator without equal, devout to the marrow, and proud enough to haggle with kings over a tenth of a world."
+    },
+    {
       "word": "Marrows",
       "pos": "PROPN",
       "translation": "Marrows (« Battle of the Marrows » : la bataille des Marrows, bataille imaginaire)",
       "example": "Schoolchildren in white collars stood on the steps of public buildings and recited the famous true sentences of history: the words of the first judge to give a verdict without a jury, the confession of the general who lost the Battle of the Marrows, the opening line of the Phrasers' Act."
     },
     {
+      "word": "marshal",
+      "pos": "VERB",
+      "translation": "rassembler, ordonner (« marshalling arguments » : aligner des arguments)",
+      "example": "Characteristically, he responded not by softening but by marshalling arguments: when a contrary wind blew from the west, he declared it providential, for it proved that winds here blew both ways and we could return."
+    },
+    {
+      "word": "Martín",
+      "pos": "PROPN",
+      "translation": "Martín (prénom masculin)",
+      "example": "What turned the tide was Martín Alonso Pinzón."
+    },
+    {
       "word": "Mary",
       "pos": "PROPN",
       "translation": "Mary (« St Mary’s Home » : le foyer Sainte-Marie)",
       "example": "\"The little boy will go to St Mary's Home for Young Children, in Exeter,\" she said."
+    },
+    {
+      "word": "María",
+      "pos": "PROPN",
+      "translation": "María (« Santa María » : Sainte-Marie, nom du navire amiral)",
+      "example": "The third, the flagship, was a heavier, slower nao out of Galicia, chartered from her master, Juan de la Cosa; we called her La Gallega among ourselves, though the Admiral preferred the name Santa María."
     },
     {
       "word": "meaning",
@@ -12544,6 +13972,12 @@
       "pos": "NOUN",
       "translation": "la métaphore",
       "example": "It was not a metaphor."
+    },
+    {
+      "word": "midday",
+      "pos": "NOUN",
+      "translation": "midi",
+      "example": "At last, on the fifteenth of March 1493, we crossed the bar of Saltés at midday and came home to Palos, seven months and twelve days after we had left it."
     },
     {
       "word": "milky",
@@ -12582,6 +14016,12 @@
       "example": "It registered phrasers and fined those whose statements were judged \"deliberately misleading in effect\"."
     },
     {
+      "word": "mistaken",
+      "pos": "ADJ",
+      "translation": "erroné, qui se trompe",
+      "example": "I have since met learned men who say his explanation was mistaken, and that it is in the needle's nature to vary across the ocean."
+    },
+    {
       "word": "misunderstand",
       "pos": "VERB",
       "translation": "mal comprendre, se méprendre",
@@ -12598,6 +14038,18 @@
       "pos": "PHRASE",
       "translation": "mélanger à, être mêlé à",
       "example": "The sentences went on and on, strange and dreamlike, mixed in with the formulas."
+    },
+    {
+      "word": "mock",
+      "pos": "VERB",
+      "translation": "se moquer de",
+      "example": "He came among us that evening, and I will grant him this: he did not mock their fear."
+    },
+    {
+      "word": "Moguer",
+      "pos": "PROPN",
+      "translation": "Moguer (ville)",
+      "example": "I was fifteen years old, a grumete — a ship's boy — from Moguer, when I signed on with the Genoese, and I am, so far as I know, among the last of those who sailed with him who still draw breath."
     },
     {
       "word": "molecule",
@@ -12660,6 +14112,18 @@
       "example": "Mr Penrose is showing me."
     },
     {
+      "word": "muster",
+      "pos": "NOUN",
+      "translation": "le rassemblement (« muster rolls » : rôles d’équipage)",
+      "example": "When he threw in his lot with the Genoese, bringing his brother Vicente Yáñez and a throng of kinsmen and neighbours, the doubters fell silent and the muster rolls filled."
+    },
+    {
+      "word": "nao",
+      "pos": "NOUN",
+      "translation": "la nef (grand navire espagnol)",
+      "example": "The third, the flagship, was a heavier, slower nao out of Galicia, chartered from her master, Juan de la Cosa; we called her La Gallega among ourselves, though the Admiral preferred the name Santa María."
+    },
+    {
       "word": "nation",
       "pos": "NOUN",
       "translation": "la nation",
@@ -12670,6 +14134,24 @@
       "pos": "NOUN",
       "translation": "la nature",
       "example": "\"The public does not need to be frightened by stories of mad scientists trying to break the most fundamental law of human nature,\" said Odette."
+    },
+    {
+      "word": "Navidad",
+      "pos": "PROPN",
+      "translation": "Navidad (« La Navidad » : « Noël », premier fort espagnol des Amériques)",
+      "example": "From her timbers we built a tower and a palisade, and he named the place La Navidad."
+    },
+    {
+      "word": "navigator",
+      "pos": "NOUN",
+      "translation": "le navigateur",
+      "example": "He was a superb navigator by dead reckoning; I have never known a man with a surer feel for the speed and drift of a ship."
+    },
+    {
+      "word": "nearby",
+      "pos": "ADJ",
+      "translation": "proche, voisin",
+      "example": "Whales were sighted, and boobies, and terns, and every bird that crossed our wake was hailed as a messenger from some nearby coast."
     },
     {
       "word": "nettle",
@@ -12696,16 +14178,82 @@
       "example": "Now she stood in Grandma's kitchen in her nightdress, with her arms crossed, and she looked like their mother."
     },
     {
+      "word": "Niña",
+      "pos": "PROPN",
+      "translation": "la Niña (l’une des trois caravelles de Colomb)",
+      "example": "The Pinta, under Martín Alonso, and the Niña, under Vicente Yáñez, were caravels from our own yards, light and handy."
+    },
+    {
+      "word": "Niño",
+      "pos": "PROPN",
+      "translation": "Niño (nom de famille)",
+      "example": "I watched Peralonso Niño, our pilot, rap the compass box with his knuckles as if he could knock some sense into it."
+    },
+    {
+      "word": "northwest",
+      "pos": "NOUN",
+      "translation": "le nord-ouest",
+      "example": "On the evening of the thirteenth of September, and again on the nights that followed, they observed that the compass needles no longer pointed true to the Pole Star, but swung a full point or more towards the northwest."
+    },
+    {
+      "word": "Noster",
+      "pos": "PROPN",
+      "translation": "Noster (latin : « notre », « Pater Noster » : Notre Père)",
+      "example": "Every evening at dusk, when the glass was turned, the whole crew gathered to recite the Pater Noster, the Ave Maria and the Credo, and to sing the Salve Regina — badly, in our case, for sailors are no choirboys."
+    },
+    {
+      "word": "notary",
+      "pos": "NOUN",
+      "translation": "le notaire",
+      "example": "Then he rose, called upon the two captains, the notary Rodrigo de Escobedo and the inspector Sánchez to bear witness, and took possession of the island for the King and Queen, naming it San Salvador."
+    },
+    {
       "word": "nutritional",
       "pos": "ADJ",
       "translation": "nutritif, nutritionnel",
       "example": "She had three other jobs waiting: a letter of apology for a hotel chain, a speech for a retiring judge, and the label for a new brand of breakfast cereal that contained, according to the manufacturer's own laboratory, \"slightly more than nothing of real nutritional value\"."
     },
     {
+      "word": "oarsman",
+      "pos": "NOUN",
+      "translation": "le rameur",
+      "example": "I was among the oarsmen, and so it fell out that I set foot in that world with the first of them."
+    },
+    {
       "word": "object",
       "pos": "VERB",
       "translation": "s’opposer à, objecter",
       "example": "\"\"You managed to accuse three professors of incompetence,\" he had told her at the interview, \"without saying a single thing they could object to."
+    },
+    {
+      "word": "obstinacy",
+      "pos": "NOUN",
+      "translation": "l’obstination",
+      "example": "But the matter was settled the following night, and whether by Providence or by sheer good fortune, his obstinacy was rewarded before it could be tested further."
+    },
+    {
+      "word": "obstruct",
+      "pos": "VERB",
+      "translation": "entraver, barrer",
+      "example": "More often, I came to think, he simply could not conceive that the world might be indifferent to his enterprise: everything that befell us was either Providence clearing his path or malice obstructing it."
+    },
+    {
+      "word": "ocean",
+      "pos": "NOUN",
+      "translation": "l’océan",
+      "example": "Young men in Seville speak of the Indies as casually as they speak of Cádiz; ships come and go laden with sugar and hides, and nobody remembers that there was a time when the western ocean was a wall."
+    },
+    {
+      "word": "Ocean",
+      "pos": "PROPN",
+      "translation": "Ocean (« Ocean Sea » : la mer Océane, l’Atlantique)",
+      "example": "Should he succeed, he was to be Admiral of the Ocean Sea, Viceroy and Governor of every land he discovered, and to receive a tenth of all the riches they yielded — and these honours were to pass to his heirs in perpetuity."
+    },
+    {
+      "word": "oddly",
+      "pos": "ADV",
+      "translation": "étrangement",
+      "example": "He was a man who always seemed to have enemies just over the horizon, and I confess that this, oddly, made us feel safer in his hands, as if a man so alert to danger could not be taken unawares."
     },
     {
       "word": "Odette",
@@ -12738,6 +14286,12 @@
       "example": "Then she went home, made herself an omelette she did not eat, and lay awake listening to the rain — real rain, this time — against her bedroom window."
     },
     {
+      "word": "omen",
+      "pos": "NOUN",
+      "translation": "le présage",
+      "example": "Passing Tenerife, we saw fire belching from the great mountain, and several of the younger men crossed themselves and pronounced it an omen."
+    },
+    {
       "word": "omission",
       "pos": "NOUN",
       "translation": "l’omission",
@@ -12762,6 +14316,18 @@
       "example": "Schoolchildren in white collars stood on the steps of public buildings and recited the famous true sentences of history: the words of the first judge to give a verdict without a jury, the confession of the general who lost the Battle of the Marrows, the opening line of the Phrasers' Act."
     },
     {
+      "word": "openly",
+      "pos": "ADV",
+      "translation": "ouvertement",
+      "example": "Men who had laughed at the Tenerife fire now stood at the rail staring eastward, and more than one wept openly, as though at a graveside."
+    },
+    {
+      "word": "oriental",
+      "pos": "ADJ",
+      "translation": "oriental",
+      "example": "On this first voyage he sent two men inland to seek out the Great Khan's court: Rodrigo de Jerez, of Ayamonte, and Luis de Torres, a converted Jew who knew Hebrew, Chaldean and some Arabic, for the Admiral reasoned that an Oriental prince would surely keep such learned men about him."
+    },
+    {
       "word": "orphan",
       "pos": "NOUN",
       "translation": "l’orphelin, l’orpheline",
@@ -12772,6 +14338,12 @@
       "pos": "PROPN",
       "translation": "Osei (nom de famille de Bettany)",
       "example": "\"Nurse Osei,\" said the doctor sharply."
+    },
+    {
+      "word": "our",
+      "pos": "NOUN",
+      "translation": "notre, nos",
+      "example": "On the twenty-third of May, in the year of Our Lord 1492, the royal letter was read aloud in the church of San Jorge, and I stood at the back beside my father, who muttered that this was the costliest sermon he had ever sat through."
     },
     {
       "word": "outside",
@@ -12786,10 +14358,52 @@
       "example": "And she had carved, very carefully, into the soft grey stone, a small gull with outstretched wings."
     },
     {
+      "word": "overboard",
+      "pos": "ADV",
+      "translation": "par-dessus bord",
+      "example": "Before many days had passed, one of them leapt overboard and paddled away for his life."
+    },
+    {
+      "word": "overestimate",
+      "pos": "VERB",
+      "translation": "surestimer",
+      "example": "Here is the irony, which I savour in my old age: the Admiral habitually overestimated our speed, so that the false figures he gave us were in truth closer to the mark than those he guarded so jealously."
+    },
+    {
+      "word": "overladen",
+      "pos": "ADJ",
+      "translation": "surchargé",
+      "example": "In those very days the river mouths were crowded with other vessels, overladen and low in the water, carrying away the Jews whom Their Majesties had expelled from their kingdoms."
+    },
+    {
       "word": "overrule",
       "pos": "VERB",
       "translation": "rejeter, passer outre (« overruled » : désavoué)",
       "example": "Who argued to stop the trial and was overruled."
+    },
+    {
+      "word": "pace",
+      "pos": "VERB",
+      "translation": "arpenter, faire les cent pas",
+      "example": "The Admiral could not come alongside to help in such a sea, and I watched him pace the poop in a state of barely contained fury."
+    },
+    {
+      "word": "paddle",
+      "pos": "VERB",
+      "translation": "pagayer",
+      "example": "Before many days had passed, one of them leapt overboard and paddled away for his life."
+    },
+    {
+      "word": "palisade",
+      "pos": "NOUN",
+      "translation": "la palissade",
+      "example": "From her timbers we built a tower and a palisade, and he named the place La Navidad."
+    },
+    {
+      "word": "Palos",
+      "pos": "PROPN",
+      "translation": "Palos (ville)",
+      "example": "Palos had offended Their Majesties in some matter of dues or disobedience — the particulars were never explained to boys like me — and by way of penance the town was ordered to furnish two caravels, fully fitted out, for twelve months' service."
     },
     {
       "word": "pang",
@@ -12804,10 +14418,40 @@
       "example": "She went inside, to a counter piled high with paperbacks, behind which sat an elderly man with a cat on his lap."
     },
     {
+      "word": "parchment",
+      "pos": "NOUN",
+      "translation": "le parchemin",
+      "example": "That night, believing we might all perish, he wrote an account of his discoveries on parchment, wrapped it in waxed cloth, sealed it in a barrel and cast it into the sea, so that the news might reach Their Majesties even if he did not."
+    },
+    {
+      "word": "pardon",
+      "pos": "NOUN",
+      "translation": "la grâce, le pardon",
+      "example": "A handful of men took up the Crown's offer of a pardon for their crimes in exchange for service — that much is true — but the tale that the fleet was manned by gaolbirds is a slander."
+    },
+    {
+      "word": "parish",
+      "pos": "NOUN",
+      "translation": "la paroisse",
+      "example": "He dressed soberly, almost like a friar, and indeed he kept the rule of a pious man more strictly than our parish priest: he fasted on the appointed days, recited the canonical hours, and the strongest oath I ever heard pass his lips was \"by San Fernando\"."
+    },
+    {
       "word": "parliament",
       "pos": "NOUN",
       "translation": "le parlement",
       "example": "There were simply questions — thousands of them, millions — asked in newspapers and parliaments and kitchens and bars all over the nation, by people who had suddenly remembered that they were allowed to ask them."
+    },
+    {
+      "word": "parrot",
+      "pos": "NOUN",
+      "translation": "le perroquet",
+      "example": "We gave them red caps, glass beads and little hawk's bells, and they gave us balls of cotton thread, parrots and darts tipped with fish teeth, with a generosity that shamed us."
+    },
+    {
+      "word": "particular",
+      "pos": "NOUN",
+      "translation": "le détail, la précision (« particulars » : les détails)",
+      "example": "Palos had offended Their Majesties in some matter of dues or disobedience — the particulars were never explained to boys like me — and by way of penance the town was ordered to furnish two caravels, fully fitted out, for twelve months' service."
     },
     {
       "word": "particularly",
@@ -12834,10 +14478,28 @@
       "example": "Lily made pot after pot of tea, and Mrs Pascoe sent up a big basket of pasties for lunch."
     },
     {
+      "word": "Pater",
+      "pos": "PROPN",
+      "translation": "Pater (latin : « père », « Pater Noster » : Notre Père)",
+      "example": "Every evening at dusk, when the glass was turned, the whole crew gathered to recite the Pater Noster, the Ave Maria and the Credo, and to sing the Salve Regina — badly, in our case, for sailors are no choirboys."
+    },
+    {
+      "word": "peak",
+      "pos": "NOUN",
+      "translation": "le sommet, le pic",
+      "example": "For three days the wind failed us and we lay becalmed within sight of the islands, which was a cruelty of its own; then, on Sunday the ninth, the breeze freshened, and by evening the last peak of El Hierro had sunk beneath the horizon."
+    },
+    {
       "word": "Peel",
       "pos": "PROPN",
       "translation": "Peel (« Peel & Ashgrove » : le cabinet où travaille Ione ; « Augustin Peel » : son patron)",
       "example": "She sat at her desk on the fourth floor of Peel & Ashgrove, a cup of cold tea at her elbow and the engineers' report open in front of her."
+    },
+    {
+      "word": "penance",
+      "pos": "NOUN",
+      "translation": "la pénitence, la punition",
+      "example": "Palos had offended Their Majesties in some matter of dues or disobedience — the particulars were never explained to boys like me — and by way of penance the town was ordered to furnish two caravels, fully fitted out, for twelve months' service."
     },
     {
       "word": "pending",
@@ -12852,10 +14514,34 @@
       "example": "The man behind the window told him a child's ticket to Penzance was eleven shillings."
     },
     {
+      "word": "Peralonso",
+      "pos": "PROPN",
+      "translation": "Peralonso (prénom masculin)",
+      "example": "I watched Peralonso Niño, our pilot, rap the compass box with his knuckles as if he could knock some sense into it."
+    },
+    {
+      "word": "perish",
+      "pos": "VERB",
+      "translation": "périr",
+      "example": "That night, believing we might all perish, he wrote an account of his discoveries on parchment, wrapped it in waxed cloth, sealed it in a barrel and cast it into the sea, so that the news might reach Their Majesties even if he did not."
+    },
+    {
       "word": "permanent",
       "pos": "ADJ",
       "translation": "permanent",
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
+    },
+    {
+      "word": "Pero",
+      "pos": "PROPN",
+      "translation": "Pero (prénom masculin)",
+      "example": "Instead he quietly summoned Pero Gutiérrez, a gentleman of the King's household who was sailing with us, and asked whether he saw it too."
+    },
+    {
+      "word": "perpetuity",
+      "pos": "NOUN",
+      "translation": "la perpétuité (« in perpetuity » : à perpétuité)",
+      "example": "Should he succeed, he was to be Admiral of the Ocean Sea, Viceroy and Governor of every land he discovered, and to receive a tenth of all the riches they yielded — and these honours were to pass to his heirs in perpetuity."
     },
     {
       "word": "pharmaceutical",
@@ -12880,6 +14566,42 @@
       "pos": "NOUN",
       "translation": "la formulation, l’art de formuler",
       "example": "It was a kind of phrasing, she thought."
+    },
+    {
+      "word": "pierce",
+      "pos": "VERB",
+      "translation": "percer",
+      "example": "Some of the islanders wore little pieces of gold hanging from a hole pierced in the nose, and the Admiral wished to know whence it came."
+    },
+    {
+      "word": "pilgrimage",
+      "pos": "NOUN",
+      "translation": "le pèlerinage",
+      "example": "Whoever drew the marked pea would go on pilgrimage to Santa María de Guadalupe."
+    },
+    {
+      "word": "Pinta",
+      "pos": "PROPN",
+      "translation": "la Pinta (l’une des trois caravelles de Colomb)",
+      "example": "The Pinta, under Martín Alonso, and the Niña, under Vicente Yáñez, were caravels from our own yards, light and handy."
+    },
+    {
+      "word": "pintle",
+      "pos": "NOUN",
+      "translation": "le gond (du gouvernail)",
+      "example": "We had been at sea barely three days when the Pinta's rudder jumped from its pintles and she began to wallow like a drunkard."
+    },
+    {
+      "word": "Pinzón",
+      "pos": "PROPN",
+      "translation": "Pinzón (nom de famille)",
+      "example": "What turned the tide was Martín Alonso Pinzón."
+    },
+    {
+      "word": "pious",
+      "pos": "ADJ",
+      "translation": "pieux",
+      "example": "He dressed soberly, almost like a friar, and indeed he kept the rule of a pious man more strictly than our parish priest: he fasted on the appointed days, recited the canonical hours, and the strongest oath I ever heard pass his lips was \"by San Fernando\"."
     },
     {
       "word": "pirate",
@@ -12918,6 +14640,18 @@
       "example": "Politicians promised to \"do everything that turns out to be possible\"."
     },
     {
+      "word": "Polo",
+      "pos": "PROPN",
+      "translation": "Polo (« Marco Polo » : explorateur vénitien)",
+      "example": "From that moment the voyage became a hunt from island to island, the Admiral persuaded at every turn that Cipango, the land of gold described by Marco Polo, lay just over the horizon."
+    },
+    {
+      "word": "poop",
+      "pos": "NOUN",
+      "translation": "la dunette",
+      "example": "I remember the Admiral on the poop deck, bareheaded, his lips moving in prayer."
+    },
+    {
       "word": "Porthwen",
       "pos": "PROPN",
       "translation": "Porthwen (village imaginaire de Cornouailles)",
@@ -12928,6 +14662,18 @@
       "pos": "NOUN",
       "translation": "le portrait",
       "example": "A young man in a grey suit met her in the marble entrance hall and led her up three flights of stairs and along a corridor lined with portraits of former directors."
+    },
+    {
+      "word": "portuguese",
+      "pos": "ADJ",
+      "translation": "portugais",
+      "example": "His Castilian was fluent but bent out of shape, flavoured with Portuguese turns picked up during his years in Lisbon, and when he was angry something older crept in underneath."
+    },
+    {
+      "word": "Portuguese",
+      "pos": "PROPN",
+      "translation": "les Portugais",
+      "example": "His Castilian was fluent but bent out of shape, flavoured with Portuguese turns picked up during his years in Lisbon, and when he was angry something older crept in underneath."
     },
     {
       "word": "possession",
@@ -12954,6 +14700,12 @@
       "example": "They wrote press releases and political speeches, contracts and apologies, product labels and wedding toasts."
     },
     {
+      "word": "pretence",
+      "pos": "NOUN",
+      "translation": "le semblant, la prétention",
+      "example": "He addressed sailors as a craftsman addresses tools he intends to use well: courteously, but without the slightest pretence that we were his equals."
+    },
+    {
       "word": "pretty",
       "pos": "ADJ",
       "translation": "joli, charmant",
@@ -12978,6 +14730,12 @@
       "example": "The Bureau remained fully committed to the principle on which the nation was built: that nothing should be said but what is so."
     },
     {
+      "word": "proclaim",
+      "pos": "VERB",
+      "translation": "proclamer",
+      "example": "He was not certain enough to proclaim it land."
+    },
+    {
       "word": "product",
       "pos": "NOUN",
       "translation": "le produit",
@@ -12994,6 +14752,12 @@
       "pos": "NOUN",
       "translation": "le professionnel, la professionnelle",
       "example": "\"Spoken like a true professional."
+    },
+    {
+      "word": "profit",
+      "pos": "NOUN",
+      "translation": "le profit, le gain",
+      "example": "He reminded them of the profit they stood to earn, and then said, with a coldness I can still feel, that it was useless to complain, for he had come to find the Indies and meant to go on until, with the help of Our Lord, he found them."
     },
     {
       "word": "programme",
@@ -13020,6 +14784,18 @@
       "example": "\"\"Six years ago,\" Odette went on, \"the Bureau provided funding to a private medical research centre called the Corvane Institute."
     },
     {
+      "word": "Providence",
+      "pos": "PROPN",
+      "translation": "la Providence (la volonté de Dieu)",
+      "example": "More often, I came to think, he simply could not conceive that the world might be indifferent to his enterprise: everything that befell us was either Providence clearing his path or malice obstructing it."
+    },
+    {
+      "word": "providential",
+      "pos": "ADJ",
+      "translation": "providentiel",
+      "example": "Characteristically, he responded not by softening but by marshalling arguments: when a contrary wind blew from the west, he declared it providential, for it proved that winds here blew both ways and we could return."
+    },
+    {
       "word": "public",
       "pos": "NOUN",
       "translation": "le public",
@@ -13044,16 +14820,46 @@
       "example": "Trams rattled along the quays."
     },
     {
+      "word": "Queen",
+      "pos": "PROPN",
+      "translation": "la Reine",
+      "example": "The Admiral went ashore in the armed boat bearing the royal standard, and with him went Martín Alonso and Vicente Yáñez, each carrying a banner with a green cross and the initials of the King and Queen, F and Y, crowned."
+    },
+    {
+      "word": "Quintero",
+      "pos": "PROPN",
+      "translation": "Quintero (nom de famille)",
+      "example": "Gómez Rascón and Cristóbal Quintero, who owned the Pinta, had sailed with the greatest reluctance, and the Admiral was convinced, though he said so only to his officers, that they had tampered with the rudder in the hope of being sent home."
+    },
+    {
+      "word": "raft",
+      "pos": "NOUN",
+      "translation": "le radeau, la nappe flottante",
+      "example": "From the middle of September we began to sail through vast rafts of yellowish-green weed, so dense in places that the sea resembled a meadow in late summer."
+    },
+    {
       "word": "rake",
       "pos": "NOUN",
       "translation": "le râteau",
       "example": "There were old garden tools: a spade, a fork, a rake, a watering can."
     },
     {
+      "word": "rancour",
+      "pos": "NOUN",
+      "translation": "la rancœur",
+      "example": "The Admiral believed he had gone hunting gold on his own account, to be first home to Castile and steal the glory, and he wrote of him afterwards with a rancour he never troubled to conceal."
+    },
+    {
       "word": "random",
       "pos": "ADJ",
       "translation": "aléatoire, au hasard",
       "example": "The sentences were not random."
+    },
+    {
+      "word": "Rascón",
+      "pos": "PROPN",
+      "translation": "Rascón (nom de famille)",
+      "example": "Gómez Rascón and Cristóbal Quintero, who owned the Pinta, had sailed with the greatest reluctance, and the Admiral was convinced, though he said so only to his officers, that they had tampered with the rudder in the hope of being sent home."
     },
     {
       "word": "ray",
@@ -13066,6 +14872,24 @@
       "pos": "PROPN",
       "translation": "Reach (« Tallow Reach » : quartier portuaire de Lantry)",
       "example": "It was the address he had given the institute two years ago, in a district of narrow streets near the docks called Tallow Reach."
+    },
+    {
+      "word": "readily",
+      "pos": "ADV",
+      "translation": "volontiers, aisément",
+      "example": "Within two days the Admiral had written in his journal — and I heard him say as much to his officers — that they would make good servants, that they would readily become Christians, and that with fifty men one could hold them all in subjection."
+    },
+    {
+      "word": "reason",
+      "pos": "VERB",
+      "translation": "raisonner, argumenter",
+      "example": "He reasoned that men are governed by fear and appetite, and he governed us accordingly, with one hand dangling rewards and the other drawing a veil over whatever might alarm us."
+    },
+    {
+      "word": "reasoning",
+      "pos": "NOUN",
+      "translation": "le raisonnement",
+      "example": "It never seemed to occur to him that frightened men are not swayed by reasoning."
     },
     {
       "word": "reassure",
@@ -13098,6 +14922,12 @@
       "example": "On the first page, in careful handwriting, it said: Rose Hollis, Her Recipes."
     },
     {
+      "word": "reckoning",
+      "pos": "NOUN",
+      "translation": "le calcul, l’estime",
+      "example": "It was on that same day, I learned long afterwards, that the Admiral began to keep two reckonings."
+    },
+    {
       "word": "recommendation",
       "pos": "NOUN",
       "translation": "la recommandation",
@@ -13108,6 +14938,12 @@
       "pos": "VERB",
       "translation": "reconstituer, reconstruire",
       "example": "Our chemists have reconstructed most of the compound from her earlier notes — enough to make it work, sometimes, in some people."
+    },
+    {
+      "word": "reef",
+      "pos": "NOUN",
+      "translation": "le récif",
+      "example": "In the morning we came to an island, small and flat, greener than anything I had ever beheld, ringed by a reef on which the sea broke white."
     },
     {
       "word": "reflex",
@@ -13122,6 +14958,12 @@
       "example": "But a refusal, here, in this room, would be an answer in itself."
     },
     {
+      "word": "Regina",
+      "pos": "PROPN",
+      "translation": "Regina (latin : « reine », « Salve Regina » : « Salut, Reine »)",
+      "example": "Every evening at dusk, when the glass was turned, the whole crew gathered to recite the Pater Noster, the Ave Maria and the Credo, and to sing the Salve Regina — badly, in our case, for sailors are no choirboys."
+    },
+    {
       "word": "rein",
       "pos": "NOUN",
       "translation": "la rêne",
@@ -13134,6 +14976,12 @@
       "example": "Bettany was reinstated at Lantry General, with an apology that she framed and hung in her yellow kitchen."
     },
     {
+      "word": "reject",
+      "pos": "VERB",
+      "translation": "rejeter",
+      "example": "There was talk, too, of Portuguese caravels lurking off the islands with orders to seize us, for King João had never forgiven the Genoese for carrying his scheme to Castile after Lisbon had rejected it."
+    },
+    {
       "word": "relationship",
       "pos": "NOUN",
       "translation": "la relation, le lien",
@@ -13144,6 +14992,12 @@
       "pos": "NOUN",
       "translation": "le communiqué (« press release » : communiqué de presse)",
       "example": "They wrote press releases and political speeches, contracts and apologies, product labels and wedding toasts."
+    },
+    {
+      "word": "relish",
+      "pos": "VERB",
+      "translation": "savourer, apprécier",
+      "example": "I believe he relished that audience more than any other in his life."
     },
     {
       "word": "rely",
@@ -13164,10 +15018,28 @@
       "example": "A strange remark."
     },
     {
+      "word": "remarkably",
+      "pos": "ADV",
+      "translation": "remarquablement",
+      "example": "He slept remarkably little."
+    },
+    {
+      "word": "reproach",
+      "pos": "VERB",
+      "translation": "reprocher",
+      "example": "He did not reproach Martín Alonso, but neither did he trouble to console anyone."
+    },
+    {
       "word": "researcher",
       "pos": "NOUN",
       "translation": "le chercheur, la chercheuse",
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
+    },
+    {
+      "word": "respond",
+      "pos": "VERB",
+      "translation": "répondre, réagir",
+      "example": "Characteristically, he responded not by softening but by marshalling arguments: when a contrary wind blew from the west, he declared it providential, for it proved that winds here blew both ways and we could return."
     },
     {
       "word": "restricted",
@@ -13188,16 +15060,40 @@
       "example": "There was no revolution, no riot, no collapse."
     },
     {
+      "word": "reward",
+      "pos": "NOUN",
+      "translation": "la récompense",
+      "example": "He spoke of the wealth of the lands we would find, of honours and rewards, and of the favour God shows those who venture in His service."
+    },
+    {
+      "word": "reward",
+      "pos": "VERB",
+      "translation": "récompenser",
+      "example": "But the matter was settled the following night, and whether by Providence or by sheer good fortune, his obstinacy was rewarded before it could be tested further."
+    },
+    {
       "word": "ribbon",
       "pos": "NOUN",
       "translation": "le ruban",
       "example": "Lily and Sam decorated it with shells from the beach, red ribbons from the bakery, and little stars that Lily cut out of old paper."
     },
     {
+      "word": "rich",
+      "pos": "NOUN",
+      "translation": "le riche (« riches » : les richesses)",
+      "example": "Should he succeed, he was to be Admiral of the Ocean Sea, Viceroy and Governor of every land he discovered, and to receive a tenth of all the riches they yielded — and these honours were to pass to his heirs in perpetuity."
+    },
+    {
       "word": "riddle",
       "pos": "NOUN",
       "translation": "l’énigme, la devinette",
       "example": "It was so exactly like her mother — so exactly like the kind of game Rosalind used to invent on rainy afternoons, treasure hunts with clues hidden inside riddles inside other riddles."
+    },
+    {
+      "word": "rigging",
+      "pos": "NOUN",
+      "translation": "le gréement",
+      "example": "On our deck, the Admiral fell to his knees and gave thanks to God, while Martín Alonso and his people sang the Gloria in excelsis Deo, and the men of all three ships swarmed up the rigging to look."
     },
     {
       "word": "rim",
@@ -13230,6 +15126,18 @@
       "example": "The fishing boats rocked at their moorings, and the harbour lights were going out one by one."
     },
     {
+      "word": "Rodrigo",
+      "pos": "PROPN",
+      "translation": "Rodrigo (prénom masculin)",
+      "example": "Then the Admiral called Rodrigo Sánchez of Segovia, the royal inspector sent to keep account of Their Majesties' interests, and Sánchez looked and saw nothing, because, as the Admiral explained, he was not standing where it could be seen."
+    },
+    {
+      "word": "Rodríguez",
+      "pos": "PROPN",
+      "translation": "Rodríguez (nom de famille)",
+      "example": "Two hours after midnight, when the moon had risen astern and was shining on the sea ahead, a sailor of the Pinta named Juan Rodríguez Bermejo, a man from Triana whom we knew as Rodrigo de Triana, saw a pale line of shore gleaming in the moonlight some two leagues off, and cried out: \"Tierra!"
+    },
+    {
       "word": "romance",
       "pos": "NOUN",
       "translation": "le roman d’amour, la romance",
@@ -13260,16 +15168,52 @@
       "example": "They walked back along the quay together, and Bettany talked about sleep and soup and the unfairness of hospital rotas, and Ione answered when she was supposed to, and all the time her mind kept returning to the same small, impossible sentence."
     },
     {
+      "word": "row",
+      "pos": "VERB",
+      "translation": "ramer",
+      "example": "Instead, de la Cosa and his men rowed straight for the Niña."
+    },
+    {
       "word": "Rowe",
       "pos": "PROPN",
       "translation": "Rowe (nom de famille d’une vieille villageoise)",
       "example": "Old Mrs Rowe, who was ninety-two and almost blind, told her granddaughter what to write."
     },
     {
+      "word": "rudder",
+      "pos": "NOUN",
+      "translation": "le gouvernail",
+      "example": "We had been at sea barely three days when the Pinta's rudder jumped from its pintles and she began to wallow like a drunkard."
+    },
+    {
+      "word": "ruddy",
+      "pos": "ADJ",
+      "translation": "rougeaud, coloré",
+      "example": "His complexion was ruddy, as though weathered by a lifetime of salt wind, and his hair, which they said had been fair in his youth, had turned entirely white, although he could not have been much past forty."
+    },
+    {
       "word": "rule",
       "pos": "VERB",
       "translation": "gouverner, dominer",
       "example": "\"The first nation to learn to lie,\" said Odette Crale softly, \"will rule all the nations that cannot."
+    },
+    {
+      "word": "Rábida",
+      "pos": "PROPN",
+      "translation": "La Rábida (monastère franciscain près de Palos)",
+      "example": "He was a foreigner, a Genoese who had spent years hanging about the court and the friary of La Rábida, hawking a scheme that the learned men appointed by Their Majesties had found wanting."
+    },
+    {
+      "word": "sabotage",
+      "pos": "NOUN",
+      "translation": "le sabotage",
+      "example": "He trusted no one entirely, and smelled sabotage where an ordinary captain would have blamed rotten timber."
+    },
+    {
+      "word": "sacrament",
+      "pos": "NOUN",
+      "translation": "le sacrement",
+      "example": "On the morning of Friday, the third of August, every man in the fleet having confessed and received the sacrament, we crossed the bar of Saltés half an hour before sunrise and stood out to sea."
     },
     {
       "word": "safely",
@@ -13290,6 +15234,12 @@
       "example": "He learned to sail in this harbour, in my old boat."
     },
     {
+      "word": "salt",
+      "pos": "VERB",
+      "translation": "saler (« salted meat » : viande salée)",
+      "example": "At San Sebastián de la Gomera we took on water, firewood and salted meat."
+    },
+    {
       "word": "Saltreach",
       "pos": "PROPN",
       "translation": "Saltreach (village côtier près de l’institut Corvane)",
@@ -13300,6 +15250,24 @@
       "pos": "ADJ",
       "translation": "salé",
       "example": "They ate it at the table, on Grandma's plates, with bread, and it was hot and salty and good."
+    },
+    {
+      "word": "Saltés",
+      "pos": "PROPN",
+      "translation": "Saltés (île et barre à l’embouchure du Tinto)",
+      "example": "On the morning of Friday, the third of August, every man in the fleet having confessed and received the sacrament, we crossed the bar of Saltés half an hour before sunrise and stood out to sea."
+    },
+    {
+      "word": "Salvador",
+      "pos": "PROPN",
+      "translation": "Salvador (« San Salvador » : Saint-Sauveur, nom donné à l’île par Colomb)",
+      "example": "Then he rose, called upon the two captains, the notary Rodrigo de Escobedo and the inspector Sánchez to bear witness, and took possession of the island for the King and Queen, naming it San Salvador."
+    },
+    {
+      "word": "Salve",
+      "pos": "PROPN",
+      "translation": "Salve (latin : « salut », « Salve Regina »)",
+      "example": "Every evening at dusk, when the glass was turned, the whole crew gathered to recite the Pater Noster, the Ave Maria and the Credo, and to sing the Salve Regina — badly, in our case, for sailors are no choirboys."
     },
     {
       "word": "Sammy",
@@ -13314,6 +15282,12 @@
       "example": "They took the remaining samples of the compound."
     },
     {
+      "word": "San",
+      "pos": "PROPN",
+      "translation": "San (« saint » en espagnol : « San Fernando »)",
+      "example": "On the twenty-third of May, in the year of Our Lord 1492, the royal letter was read aloud in the church of San Jorge, and I stood at the back beside my father, who muttered that this was the costliest sermon he had ever sat through."
+    },
+    {
       "word": "sand",
       "pos": "NOUN",
       "translation": "le sable",
@@ -13324,6 +15298,18 @@
       "pos": "ADJ",
       "translation": "sain d’esprit",
       "example": "And he's perfectly sane.\""
+    },
+    {
+      "word": "sanguine",
+      "pos": "ADJ",
+      "translation": "optimiste",
+      "example": "Some of the men were terrified that we would run aground on hidden shoals, or become entangled and rot there like flies in honey; others, more sanguine, insisted that such weed must have been torn loose from rocks not far off."
+    },
+    {
+      "word": "Santa",
+      "pos": "PROPN",
+      "translation": "Santa (« sainte » en espagnol : « Santa María »)",
+      "example": "It was around this time that I heard, from a clerk who had seen the papers, what the Genoese had wrung from Their Majesties at Santa Fe before consenting to sail."
     },
     {
       "word": "satisfy",
@@ -13338,10 +15324,52 @@
       "example": "Lily took three blankets, all their warm jumpers and socks, two towels, soap, a comb, and a small saucepan."
     },
     {
+      "word": "savour",
+      "pos": "VERB",
+      "translation": "savourer",
+      "example": "Here is the irony, which I savour in my old age: the Admiral habitually overestimated our speed, so that the false figures he gave us were in truth closer to the mark than those he guarded so jealously."
+    },
+    {
+      "word": "scheme",
+      "pos": "NOUN",
+      "translation": "le projet, le plan",
+      "example": "He was a foreigner, a Genoese who had spent years hanging about the court and the friary of La Rábida, hawking a scheme that the learned men appointed by Their Majesties had found wanting."
+    },
+    {
       "word": "schoolchild",
       "pos": "NOUN",
       "translation": "l’écolier, l’écolière",
       "example": "Ione knew it by heart, like every schoolchild."
+    },
+    {
+      "word": "schoolmaster",
+      "pos": "NOUN",
+      "translation": "le maître d’école",
+      "example": "The Admiral heard their alarm with perfect composure and then explained, in the tone of a schoolmaster correcting a dull pupil, that it was not the needle that moved but the star, which circled the true pole like any other, and that the needle was therefore quite sound."
+    },
+    {
+      "word": "Sea",
+      "pos": "PROPN",
+      "translation": "Sea (« Ocean Sea » : la mer Océane)",
+      "example": "Should he succeed, he was to be Admiral of the Ocean Sea, Viceroy and Governor of every land he discovered, and to receive a tenth of all the riches they yielded — and these honours were to pass to his heirs in perpetuity."
+    },
+    {
+      "word": "seafaring",
+      "pos": "NOUN",
+      "translation": "la navigation, la vie de marin",
+      "example": "In February we ran into the worst storm I have known in fifty years of seafaring."
+    },
+    {
+      "word": "seam",
+      "pos": "NOUN",
+      "translation": "le joint, la couture (de coque)",
+      "example": "To a seaman, the compass is the one certainty in a shifting world; if the needle itself goes astray, nothing is left to trust."
+    },
+    {
+      "word": "seaman",
+      "pos": "NOUN",
+      "translation": "le marin",
+      "example": "To a seaman, the compass is the one certainty in a shifting world; if the needle itself goes astray, nothing is left to trust."
     },
     {
       "word": "seasick",
@@ -13350,10 +15378,22 @@
       "example": "\"Do you get seasick?"
     },
     {
+      "word": "seawater",
+      "pos": "NOUN",
+      "translation": "l’eau de mer",
+      "example": "We filled the empty casks with seawater to steady her."
+    },
+    {
       "word": "seaweed",
       "pos": "NOUN",
       "translation": "l’algue (« seaweed-coloured » : couleur d’algue)",
       "example": "Ione walked up the steep street to the seaweed-coloured house and knocked."
+    },
+    {
+      "word": "Sebastián",
+      "pos": "PROPN",
+      "translation": "Sebastián (prénom masculin)",
+      "example": "At San Sebastián de la Gomera we took on water, firewood and salted meat."
     },
     {
       "word": "secretly",
@@ -13368,10 +15408,28 @@
       "example": "\"Then I'm sure you're aware,\" said Ione, \"of Section Fourteen of the Phrasers' Act.\""
     },
     {
+      "word": "seek",
+      "pos": "VERB",
+      "translation": "chercher, rechercher",
+      "example": "On this first voyage he sent two men inland to seek out the Great Khan's court: Rodrigo de Jerez, of Ayamonte, and Luis de Torres, a converted Jew who knew Hebrew, Chaldean and some Arabic, for the Admiral reasoned that an Oriental prince would surely keep such learned men about him."
+    },
+    {
+      "word": "Segovia",
+      "pos": "PROPN",
+      "translation": "Segovia (ville)",
+      "example": "Then the Admiral called Rodrigo Sánchez of Segovia, the royal inspector sent to keep account of Their Majesties' interests, and Sánchez looked and saw nothing, because, as the Admiral explained, he was not standing where it could be seen."
+    },
+    {
       "word": "seizure",
       "pos": "NOUN",
       "translation": "la crise (épileptique), la convulsion",
       "example": "Headaches first, then fevers, then seizures."
+    },
+    {
+      "word": "seldom",
+      "pos": "ADV",
+      "translation": "rarement",
+      "example": "The Admiral took the trouble to explain to them, with a patience he seldom showed, that such fires were natural, and that Etna in Sicily did the very same."
     },
     {
       "word": "senior",
@@ -13392,10 +15450,40 @@
       "example": "On a server. Online."
     },
     {
+      "word": "settlement",
+      "pos": "NOUN",
+      "translation": "l’établissement, la colonie",
+      "example": "God, he declared, had wrecked the ship so that a settlement should be founded there."
+    },
+    {
+      "word": "seventh",
+      "pos": "NOUN",
+      "translation": "septième",
+      "example": "On the seventh of October, at Martín Alonso's urging, the Admiral altered course from due west to west-southwest, following great flocks of birds that were flying that way."
+    },
+    {
+      "word": "Seville",
+      "pos": "PROPN",
+      "translation": "Seville (ville)",
+      "example": "Young men in Seville speak of the Indies as casually as they speak of Cádiz; ships come and go laden with sugar and hides, and nobody remembers that there was a time when the western ocean was a wall."
+    },
+    {
+      "word": "sham",
+      "pos": "VERB",
+      "translation": "feindre, simuler",
+      "example": "The pilots were satisfied, or feigned to be."
+    },
+    {
       "word": "Shaw",
       "pos": "PROPN",
       "translation": "Shaw (nom de famille ; « Rebecca Shaw » : la journaliste de Tech Today)",
       "example": "Rebecca Shaw put her hand on her mouth."
+    },
+    {
+      "word": "sheer",
+      "pos": "ADJ",
+      "translation": "pur, total (« sheer good fortune » : pure chance)",
+      "example": "But the matter was settled the following night, and whether by Providence or by sheer good fortune, his obstinacy was rewarded before it could be tested further."
     },
     {
       "word": "shield",
@@ -13404,16 +15492,64 @@
       "example": "She struck one, and shielded it with her hand, and held it to the corner of the first page."
     },
     {
+      "word": "shipowner",
+      "pos": "NOUN",
+      "translation": "l’armateur",
+      "example": "Pinzón was one of ours: a wealthy shipowner, a seasoned captain, a man whose word carried weight on every quay of the Tinto."
+    },
+    {
+      "word": "shoal",
+      "pos": "NOUN",
+      "translation": "le haut-fond, le banc de sable",
+      "example": "Some of the men were terrified that we would run aground on hidden shoals, or become entangled and rot there like flies in honey; others, more sanguine, insisted that such weed must have been torn loose from rocks not far off."
+    },
+    {
+      "word": "shorten",
+      "pos": "VERB",
+      "translation": "raccourcir (« shorten sail » : réduire la voilure)",
+      "example": "We shortened sail and stood off and on until daylight, for no sane captain runs at an unknown shore in the dark."
+    },
+    {
+      "word": "Sicily",
+      "pos": "PROPN",
+      "translation": "la Sicile",
+      "example": "The Admiral took the trouble to explain to them, with a patience he seldom showed, that such fires were natural, and that Etna in Sicily did the very same."
+    },
+    {
       "word": "side",
       "pos": "ADJ",
       "translation": "côté (« side by side » : côte à côte)",
       "example": "They stood side by side at the rail, watching the lights of the city slide across the black water."
     },
     {
+      "word": "sight",
+      "pos": "VERB",
+      "translation": "apercevoir, repérer",
+      "example": "He reminded us of God's mercy in bringing us thus far, ordered a vigilant watch to be kept from the forecastle, and repeated that whoever first sighted land would receive a silk doublet from his own hand, over and above the annuity of ten thousand maravedís that Their Majesties had promised."
+    },
+    {
+      "word": "sign on",
+      "pos": "PHRASE",
+      "translation": "s’engager, s’enrôler",
+      "example": "I was fifteen years old, a grumete — a ship's boy — from Moguer, when I signed on with the Genoese, and I am, so far as I know, among the last of those who sailed with him who still draw breath."
+    },
+    {
       "word": "sincerely",
       "pos": "ADV",
       "translation": "sincèrement (« Yours sincerely » : formule de fin de lettre)",
       "example": "Yours sincerely, Thomas, Lily and Samuel Hollis."
+    },
+    {
+      "word": "sit through",
+      "pos": "PHRASE",
+      "translation": "assister jusqu’au bout à, supporter",
+      "example": "On the twenty-third of May, in the year of Our Lord 1492, the royal letter was read aloud in the church of San Jorge, and I stood at the back beside my father, who muttered that this was the costliest sermon he had ever sat through."
+    },
+    {
+      "word": "slander",
+      "pos": "NOUN",
+      "translation": "la calomnie",
+      "example": "A handful of men took up the Crown's offer of a pardon for their crimes in exchange for service — that much is true — but the tale that the fleet was manned by gaolbirds is a slander."
     },
     {
       "word": "sleeping",
@@ -13434,10 +15570,40 @@
       "example": "The woman watched her with a strange, sly expression."
     },
     {
+      "word": "smoulder",
+      "pos": "VERB",
+      "translation": "couver, fumer sans flamme",
+      "example": "They also reported that the people carried smouldering rolls of dried leaves, which they put to their mouths to drink the smoke."
+    },
+    {
+      "word": "soberly",
+      "pos": "ADV",
+      "translation": "sobrement, avec sobriété",
+      "example": "He dressed soberly, almost like a friar, and indeed he kept the rule of a pious man more strictly than our parish priest: he fasted on the appointed days, recited the canonical hours, and the strongest oath I ever heard pass his lips was \"by San Fernando\"."
+    },
+    {
       "word": "society",
       "pos": "NOUN",
       "translation": "la société",
       "example": "In a society where everyone told the truth, she still managed to be more truthful than most, because she never hid behind the clever omissions that everyone else used."
+    },
+    {
+      "word": "sound",
+      "pos": "ADJ",
+      "translation": "sain, solide",
+      "example": "The Admiral heard their alarm with perfect composure and then explained, in the tone of a schoolmaster correcting a dull pupil, that it was not the needle that moved but the star, which circled the true pole like any other, and that the needle was therefore quite sound."
+    },
+    {
+      "word": "sour",
+      "pos": "VERB",
+      "translation": "s’aigrir, tourner mal",
+      "example": "By the beginning of October, the mood aboard had soured."
+    },
+    {
+      "word": "southwest",
+      "pos": "NOUN",
+      "translation": "le sud-ouest",
+      "example": "And there indeed it seemed to lie, to the southwest, a dark line low on the horizon some twenty-five leagues off."
     },
     {
       "word": "spade",
@@ -13450,6 +15616,12 @@
       "pos": "ADV",
       "translation": "spécialement, exprès",
       "example": "Her mother had driven down from Lantry specially, without warning, and taken her out of her grandmother's kitchen and down to the beach with a bag of sandwiches and a bottle of cheap wine."
+    },
+    {
+      "word": "spiteful",
+      "pos": "ADJ",
+      "translation": "malveillant, rancunier",
+      "example": "You have asked me, grandson, to set down what he was truly like, for you have read the chroniclers and found them either too reverent or too spiteful."
     },
     {
       "word": "stable",
@@ -13470,6 +15642,12 @@
       "example": "Then, after a few months, a few of us began to — not speak, exactly, but stammer."
     },
     {
+      "word": "Star",
+      "pos": "PROPN",
+      "translation": "Star (« Pole Star » : l’étoile polaire)",
+      "example": "On the evening of the thirteenth of September, and again on the nights that followed, they observed that the compass needles no longer pointed true to the Pole Star, but swung a full point or more towards the northwest."
+    },
+    {
       "word": "stare",
       "pos": "NOUN",
       "translation": "le regard fixe",
@@ -13488,6 +15666,12 @@
       "example": "It said, in essence, that nothing a phraser learned in the course of preparing a statement for a client could be demanded from them by anyone else — not by the police, not by a court, and not by any department of the state."
     },
     {
+      "word": "steady",
+      "pos": "VERB",
+      "translation": "stabiliser, assurer",
+      "example": "We filled the empty casks with seawater to steady her."
+    },
+    {
       "word": "steer",
       "pos": "VERB",
       "translation": "piloter, diriger (un bateau)",
@@ -13498,6 +15682,12 @@
       "pos": "NOUN",
       "translation": "la poupe (l’arrière d’un bateau)",
       "example": "Lucan bought two tickets and led Ione to the stern, where the noise of the engine was loudest."
+    },
+    {
+      "word": "sterncastle",
+      "pos": "NOUN",
+      "translation": "le château arrière, la dunette",
+      "example": "At about ten o'clock that night the Admiral, standing on the sterncastle, saw — or believed he saw — a light far ahead, like a little wax candle rising and falling."
     },
     {
       "word": "Stop",
@@ -13530,6 +15720,12 @@
       "example": "On the long curve of sand beneath the cliffs, at the place where the old harbour wall ran down into the sea, that everyone in the town called Harrow Strand."
     },
     {
+      "word": "subjection",
+      "pos": "NOUN",
+      "translation": "la sujétion, l’assujettissement",
+      "example": "Within two days the Admiral had written in his journal — and I heard him say as much to his officers — that they would make good servants, that they would readily become Christians, and that with fifty men one could hold them all in subjection."
+    },
+    {
       "word": "suitable",
       "pos": "ADJ",
       "translation": "approprié, convenable",
@@ -13548,10 +15744,34 @@
       "example": "It contained a dozen pages: a short history of the institute, a list of dates, a summary of the Bureau's funding, carefully phrased in a way she instantly recognised as the work of another phraser, probably a good one."
     },
     {
+      "word": "summon",
+      "pos": "VERB",
+      "translation": "convoquer, appeler",
+      "example": "Instead he quietly summoned Pero Gutiérrez, a gentleman of the King's household who was sailing with us, and asked whether he saw it too."
+    },
+    {
       "word": "sunlight",
       "pos": "NOUN",
       "translation": "la lumière du soleil",
       "example": "The first long rays of sunlight were breaking over the cliffs, and the wet sand glittered gold."
+    },
+    {
+      "word": "sunrise",
+      "pos": "NOUN",
+      "translation": "le lever du soleil",
+      "example": "On the morning of Friday, the third of August, every man in the fleet having confessed and received the sacrament, we crossed the bar of Saltés half an hour before sunrise and stood out to sea."
+    },
+    {
+      "word": "superb",
+      "pos": "ADJ",
+      "translation": "superbe, remarquable",
+      "example": "He was a superb navigator by dead reckoning; I have never known a man with a surer feel for the speed and drift of a ship."
+    },
+    {
+      "word": "supplicant",
+      "pos": "NOUN",
+      "translation": "le solliciteur, le suppliant",
+      "example": "A supplicant at court would have taken less."
     },
     {
       "word": "supply",
@@ -13590,6 +15810,12 @@
       "example": "I swapped the envelopes on the beach while she was watching you on the wall."
     },
     {
+      "word": "swarm",
+      "pos": "VERB",
+      "translation": "grouiller, se précipiter en masse",
+      "example": "On our deck, the Admiral fell to his knees and gave thanks to God, while Martín Alonso and his people sang the Gloria in excelsis Deo, and the men of all three ships swarmed up the rigging to look."
+    },
+    {
       "word": "sweetheart",
       "pos": "NOUN",
       "translation": "le chéri, la chérie, mon cœur (terme affectueux)",
@@ -13608,10 +15834,22 @@
       "example": "Not how our symptoms were developing — how we felt."
     },
     {
+      "word": "Sánchez",
+      "pos": "PROPN",
+      "translation": "Sánchez (nom de famille)",
+      "example": "Then the Admiral called Rodrigo Sánchez of Segovia, the royal inspector sent to keep account of Their Majesties' interests, and Sánchez looked and saw nothing, because, as the Admiral explained, he was not standing where it could be seen."
+    },
+    {
       "word": "Tallow",
       "pos": "PROPN",
       "translation": "Tallow (« Tallow Reach » : quartier d’entrepôts près des docks de Lantry)",
       "example": "It was the address he had given the institute two years ago, in a district of narrow streets near the docks called Tallow Reach."
+    },
+    {
+      "word": "tamper",
+      "pos": "VERB",
+      "translation": "trafiquer, manipuler",
+      "example": "Gómez Rascón and Cristóbal Quintero, who owned the Pinta, had sailed with the greatest reluctance, and the Admiral was convinced, though he said so only to his officers, that they had tampered with the rudder in the hope of being sent home."
     },
     {
       "word": "tar",
@@ -13624,6 +15862,12 @@
       "pos": "PROPN",
       "translation": "Taunton (ville du sud-ouest de l’Angleterre)",
       "example": "There is a place for him on a farm near Taunton."
+    },
+    {
+      "word": "tavern",
+      "pos": "NOUN",
+      "translation": "la taverne",
+      "example": "I am an old man now, and the sea that once seemed to me the very edge of creation has shrunk, in the telling, to a tavern anecdote."
     },
     {
       "word": "teapot",
@@ -13650,10 +15894,52 @@
       "example": "While she waited, Ione used the telephone on Fennimore's desk to call the hospital."
     },
     {
+      "word": "telling",
+      "pos": "NOUN",
+      "translation": "le récit, la narration (« in the telling » : dans le récit)",
+      "example": "I am an old man now, and the sea that once seemed to me the very edge of creation has shrunk, in the telling, to a tavern anecdote."
+    },
+    {
+      "word": "Tenerife",
+      "pos": "PROPN",
+      "translation": "Tenerife (île des Canaries)",
+      "example": "Passing Tenerife, we saw fire belching from the great mountain, and several of the younger men crossed themselves and pronounced it an omen."
+    },
+    {
+      "word": "tenth",
+      "pos": "NOUN",
+      "translation": "dixième",
+      "example": "Should he succeed, he was to be Admiral of the Ocean Sea, Viceroy and Governor of every land he discovered, and to receive a tenth of all the riches they yielded — and these honours were to pass to his heirs in perpetuity."
+    },
+    {
+      "word": "tern",
+      "pos": "NOUN",
+      "translation": "la sterne",
+      "example": "Whales were sighted, and boobies, and terns, and every bird that crossed our wake was hailed as a messenger from some nearby coast."
+    },
+    {
+      "word": "thatch",
+      "pos": "VERB",
+      "translation": "couvrir de chaume (« palm-thatched » : couvert de feuilles de palmier)",
+      "example": "They returned after several days, having found a village of palm-thatched houses, hospitable people and no Khan whatsoever."
+    },
+    {
       "word": "therefore",
       "pos": "ADV",
       "translation": "donc, par conséquent",
       "example": "Some lost their memory, and therefore said false things without knowing they were false — the Stop, after all, only prevented you from saying what you believed to be untrue."
+    },
+    {
+      "word": "third",
+      "pos": "NOUN",
+      "translation": "troisième",
+      "example": "On the twenty-third of May, in the year of Our Lord 1492, the royal letter was read aloud in the church of San Jorge, and I stood at the back beside my father, who muttered that this was the costliest sermon he had ever sat through."
+    },
+    {
+      "word": "thirteenth",
+      "pos": "NOUN",
+      "translation": "treizième",
+      "example": "On the evening of the thirteenth of September, and again on the nights that followed, they observed that the compass needles no longer pointed true to the Pole Star, but swung a full point or more towards the northwest."
     },
     {
       "word": "threat",
@@ -13668,6 +15954,30 @@
       "example": "\"\"Thriving."
     },
     {
+      "word": "throng",
+      "pos": "NOUN",
+      "translation": "la foule, la cohue",
+      "example": "When he threw in his lot with the Genoese, bringing his brother Vicente Yáñez and a throng of kinsmen and neighbours, the doubters fell silent and the muster rolls filled."
+    },
+    {
+      "word": "throw in",
+      "pos": "PHRASE",
+      "translation": "jeter, mettre (« throw in one’s lot with » : se ranger du côté de)",
+      "example": "When he threw in his lot with the Genoese, bringing his brother Vicente Yáñez and a throng of kinsmen and neighbours, the doubters fell silent and the muster rolls filled."
+    },
+    {
+      "word": "thus",
+      "pos": "ADV",
+      "translation": "ainsi, de cette façon",
+      "example": "He reminded us of God's mercy in bringing us thus far, ordered a vigilant watch to be kept from the forecastle, and repeated that whoever first sighted land would receive a silk doublet from his own hand, over and above the annuity of ten thousand maravedís that Their Majesties had promised."
+    },
+    {
+      "word": "Tierra",
+      "pos": "PROPN",
+      "translation": "Tierra (espagnol : « terre », cri « Tierra ! Tierra ! » : « Terre ! Terre ! »)",
+      "example": "Two hours after midnight, when the moon had risen astern and was shining on the sea ahead, a sailor of the Pinta named Juan Rodríguez Bermejo, a man from Triana whom we knew as Rodrigo de Triana, saw a pale line of shore gleaming in the moonlight some two leagues off, and cried out: \"Tierra!"
+    },
+    {
       "word": "tightening",
       "pos": "NOUN",
       "translation": "le serrement, la crispation",
@@ -13678,6 +15988,18 @@
       "pos": "NOUN",
       "translation": "la barre (de bateau)",
       "example": "Tom took the tiller."
+    },
+    {
+      "word": "Tinto",
+      "pos": "PROPN",
+      "translation": "le Tinto (fleuve d’Andalousie)",
+      "example": "Pinzón was one of ours: a wealthy shipowner, a seasoned captain, a man whose word carried weight on every quay of the Tinto."
+    },
+    {
+      "word": "tip",
+      "pos": "VERB",
+      "translation": "garnir à l’extrémité (« tipped with » : muni d’une pointe de)",
+      "example": "We gave them red caps, glass beads and little hawk's bells, and they gave us balls of cotton thread, parrots and darts tipped with fish teeth, with a generosity that shamed us."
     },
     {
       "word": "tobacco",
@@ -13692,10 +16014,22 @@
       "example": "He listened to the big clock: tick, tock, tick, tock."
     },
     {
+      "word": "token",
+      "pos": "NOUN",
+      "translation": "le signe, la marque (« a token of land » : un signe de terre)",
+      "example": "In one clump we found a small live crab, which he kept, declaring it a sure token of land."
+    },
+    {
       "word": "toothpaste",
       "pos": "NOUN",
       "translation": "le dentifrice",
       "example": "On the wall of the old customs house, a giant advertisement for a brand of toothpaste declared: \"Recommended by more dentists than any other toothpaste we make.\""
+    },
+    {
+      "word": "Torres",
+      "pos": "PROPN",
+      "translation": "Torres (nom de famille)",
+      "example": "On this first voyage he sent two men inland to seek out the Great Khan's court: Rodrigo de Jerez, of Ayamonte, and Luis de Torres, a converted Jew who knew Hebrew, Chaldean and some Arabic, for the Admiral reasoned that an Oriental prince would surely keep such learned men about him."
     },
     {
       "word": "tram",
@@ -13758,10 +16092,28 @@
       "example": "His name was Jack Trevaskis, and he had the biggest boat in Porthwen."
     },
     {
+      "word": "Triana",
+      "pos": "PROPN",
+      "translation": "Triana (quartier de Séville, sur la rive du Guadalquivir)",
+      "example": "But the Admiral never doubted that he had seen it, and that night's little candle was to cost a man from Triana dear."
+    },
+    {
+      "word": "triangular",
+      "pos": "ADJ",
+      "translation": "triangulaire",
+      "example": "The Pinta's rudder was mended at Gran Canaria, and while we were about it the Niña's triangular lateen sails were exchanged for square ones, so that she might run more easily before the wind."
+    },
+    {
       "word": "trigger",
       "pos": "VERB",
       "translation": "déclencher",
       "example": "And a question, as every phraser knew, could never trigger the Stop, because a question was not a statement."
+    },
+    {
+      "word": "trouble",
+      "pos": "VERB",
+      "translation": "se donner la peine de, déranger",
+      "example": "He did not reproach Martín Alonso, but neither did he trouble to console anyone."
     },
     {
       "word": "Truro",
@@ -13786,6 +16138,12 @@
       "pos": "ADJ",
       "translation": "non autorisé",
       "example": "\"And while I'm asking them, I'm afraid Nurse Osei will be suspended from Lantry General Hospital, pending an inquiry into her unauthorised entry into a restricted ward."
+    },
+    {
+      "word": "unawares",
+      "pos": "ADV",
+      "translation": "au dépourvu (« taken unawares » : pris au dépourvu)",
+      "example": "He was a man who always seemed to have enemies just over the horizon, and I confess that this, oddly, made us feel safer in his hands, as if a man so alert to danger could not be taken unawares."
     },
     {
       "word": "underwater",
@@ -13848,16 +16206,76 @@
       "example": "Those volunteers who had become unwell were receiving the best possible care."
     },
     {
+      "word": "upon",
+      "pos": "ADP",
+      "translation": "sur, à (forme soutenue de « on »)",
+      "example": "I shall never forget the silence aboard as the truth dawned upon us; it was worse than the silence when the Canaries vanished, for now hope itself had played us false."
+    },
+    {
+      "word": "urging",
+      "pos": "NOUN",
+      "translation": "l’insistance, l’incitation (« at his urging » : à son instigation)",
+      "example": "On the seventh of October, at Martín Alonso's urging, the Admiral altered course from due west to west-southwest, following great flocks of birds that were flying that way."
+    },
+    {
+      "word": "Valladolid",
+      "pos": "PROPN",
+      "translation": "Valladolid (ville)",
+      "example": "He died at Valladolid in 1506, still insisting that he had reached the shores of Asia."
+    },
+    {
       "word": "value",
       "pos": "NOUN",
       "translation": "la valeur",
       "example": "She had three other jobs waiting: a letter of apology for a hotel chain, a speech for a retiring judge, and the label for a new brand of breakfast cereal that contained, according to the manufacturer's own laboratory, \"slightly more than nothing of real nutritional value\"."
     },
     {
+      "word": "vary",
+      "pos": "VERB",
+      "translation": "varier",
+      "example": "I have since met learned men who say his explanation was mistaken, and that it is in the needle's nature to vary across the ocean."
+    },
+    {
+      "word": "veil",
+      "pos": "NOUN",
+      "translation": "le voile (au sens figuré)",
+      "example": "He reasoned that men are governed by fear and appetite, and he governed us accordingly, with one hand dangling rewards and the other drawing a veil over whatever might alarm us."
+    },
+    {
+      "word": "venture",
+      "pos": "VERB",
+      "translation": "s’aventurer, oser",
+      "example": "He spoke of the wealth of the lands we would find, of honours and rewards, and of the favour God shows those who venture in His service."
+    },
+    {
       "word": "verdict",
       "pos": "NOUN",
       "translation": "le verdict",
       "example": "Schoolchildren in white collars stood on the steps of public buildings and recited the famous true sentences of history: the words of the first judge to give a verdict without a jury, the confession of the general who lost the Battle of the Marrows, the opening line of the Phrasers' Act."
+    },
+    {
+      "word": "Vicente",
+      "pos": "PROPN",
+      "translation": "Vicente (prénom masculin)",
+      "example": "When he threw in his lot with the Genoese, bringing his brother Vicente Yáñez and a throng of kinsmen and neighbours, the doubters fell silent and the muster rolls filled."
+    },
+    {
+      "word": "Viceroy",
+      "pos": "PROPN",
+      "translation": "le Vice-roi",
+      "example": "Should he succeed, he was to be Admiral of the Ocean Sea, Viceroy and Governor of every land he discovered, and to receive a tenth of all the riches they yielded — and these honours were to pass to his heirs in perpetuity."
+    },
+    {
+      "word": "vigil",
+      "pos": "NOUN",
+      "translation": "la veille, la veillée de prière",
+      "example": "He reminded us of God's mercy in bringing us thus far, ordered a vigilant watch to be kept from the forecastle, and repeated that whoever first sighted land would receive a silk doublet from his own hand, over and above the annuity of ten thousand maravedís that Their Majesties had promised."
+    },
+    {
+      "word": "vigilant",
+      "pos": "ADJ",
+      "translation": "vigilant",
+      "example": "He reminded us of God's mercy in bringing us thus far, ordered a vigilant watch to be kept from the forecastle, and repeated that whoever first sighted land would receive a silk doublet from his own hand, over and above the annuity of ten thousand maravedís that Their Majesties had promised."
     },
     {
       "word": "volunteer",
@@ -13870,6 +16288,18 @@
       "pos": "VERB",
       "translation": "se porter volontaire, s’engager",
       "example": "\"Why did you volunteer?\""
+    },
+    {
+      "word": "vow",
+      "pos": "NOUN",
+      "translation": "le vœu",
+      "example": "In our terror we resolved on vows."
+    },
+    {
+      "word": "voyage",
+      "pos": "NOUN",
+      "translation": "le voyage (en mer)",
+      "example": "Each day he would estimate the leagues we had run, and each day he would announce to the crew a smaller figure, so that, as he wrote, they would not take fright should the voyage prove long."
     },
     {
       "word": "waistcoat",
@@ -13890,10 +16320,46 @@
       "example": "The address on the folder belonged to a building on the corner of a street called Rope Walk."
     },
     {
+      "word": "wallow",
+      "pos": "VERB",
+      "translation": "se rouler, tanguer lourdement",
+      "example": "We had been at sea barely three days when the Pinta's rudder jumped from its pintles and she began to wallow like a drunkard."
+    },
+    {
+      "word": "wanting",
+      "pos": "ADJ",
+      "translation": "insuffisant (« found wanting » : jugé insuffisant)",
+      "example": "He was a foreigner, a Genoese who had spent years hanging about the court and the friary of La Rábida, hawking a scheme that the learned men appointed by Their Majesties had found wanting."
+    },
+    {
       "word": "ward",
       "pos": "NOUN",
       "translation": "le service (hospitalier), la salle",
       "example": "\"There's a closed ward at my hospital."
+    },
+    {
+      "word": "warily",
+      "pos": "ADV",
+      "translation": "prudemment, avec méfiance",
+      "example": "The people themselves soon came down to the shore, warily at first, then in great numbers."
+    },
+    {
+      "word": "warp",
+      "pos": "VERB",
+      "translation": "haler (se déhaler à l’aide d’un câble)",
+      "example": "He ordered Juan de la Cosa to take the boat and lay out an anchor astern, so that we might warp her off."
+    },
+    {
+      "word": "wealth",
+      "pos": "NOUN",
+      "translation": "la richesse, la fortune",
+      "example": "Pinzón was one of ours: a wealthy shipowner, a seasoned captain, a man whose word carried weight on every quay of the Tinto."
+    },
+    {
+      "word": "wealthy",
+      "pos": "ADJ",
+      "translation": "riche, fortuné",
+      "example": "Pinzón was one of ours: a wealthy shipowner, a seasoned captain, a man whose word carried weight on every quay of the Tinto."
     },
     {
       "word": "Weaver",
@@ -13902,16 +16368,40 @@
       "example": "She went instead to Pennick's, a narrow place on Weaver's Row with green tiles on the walls and a counter made from the hull of an old boat."
     },
     {
+      "word": "weeping",
+      "pos": "NOUN",
+      "translation": "les pleurs",
+      "example": "Whether he persuaded anyone I doubt, but at least the weeping ceased."
+    },
+    {
       "word": "welcome",
       "pos": "ADJ",
       "translation": "bienvenu (« Welcome home ! » : bon retour !)",
       "example": "It said, in red letters: WELCOME HOME."
     },
     {
+      "word": "westward",
+      "pos": "ADJ",
+      "translation": "vers l’ouest",
+      "example": "The Admiral, for his part, simply resumed his westward course."
+    },
+    {
       "word": "whale",
       "pos": "NOUN",
       "translation": "la baleine",
       "example": "\"Did you know that a whale is not a fish?\" he said one night."
+    },
+    {
+      "word": "whence",
+      "pos": "ADV",
+      "translation": "d’où",
+      "example": "Some of the islanders wore little pieces of gold hanging from a hole pierced in the nose, and the Admiral wished to know whence it came."
+    },
+    {
+      "word": "wholly",
+      "pos": "ADV",
+      "translation": "entièrement, totalement",
+      "example": "Martín Alonso held that without him there would have been no voyage at all, and he was not wholly wrong."
     },
     {
       "word": "wicked",
@@ -13926,10 +16416,58 @@
       "example": "But the moment you tried to push it out through your mouth, or through the nib of a pen, something closed inside you, like a hand around your windpipe, and the words simply would not come."
     },
     {
+      "word": "wisdom",
+      "pos": "NOUN",
+      "translation": "la sagesse",
+      "example": "I have heard men call this a lie, and I have heard others call it wisdom."
+    },
+    {
+      "word": "witness",
+      "pos": "VERB",
+      "translation": "être témoin de, assister à",
+      "example": "Where I did not witness a thing with my own eyes, I shall tell you so, and from whom I had it."
+    },
+    {
+      "word": "wring",
+      "pos": "VERB",
+      "translation": "arracher, extorquer",
+      "example": "It was around this time that I heard, from a clerk who had seen the papers, what the Genoese had wrung from Their Majesties at Santa Fe before consenting to sail."
+    },
+    {
+      "word": "Y",
+      "pos": "PROPN",
+      "translation": "Y (initiale d’Isabelle, « Ysabel », reine de Castille)",
+      "example": "The Admiral went ashore in the armed boat bearing the royal standard, and with him went Martín Alonso and Vicente Yáñez, each carrying a banner with a green cross and the initials of the King and Queen, F and Y, crowned."
+    },
+    {
+      "word": "yarn",
+      "pos": "NOUN",
+      "translation": "l’histoire de marin (« sailor’s yarn » : récit de marin, parfois exagéré)",
+      "example": "An old sailor's yarn is worth nothing if it cannot bear the weight of the truth."
+    },
+    {
+      "word": "yield",
+      "pos": "VERB",
+      "translation": "produire, rapporter",
+      "example": "Should he succeed, he was to be Admiral of the Ocean Sea, Viceroy and Governor of every land he discovered, and to receive a tenth of all the riches they yielded — and these honours were to pass to his heirs in perpetuity."
+    },
+    {
       "word": "your",
       "pos": "NOUN",
       "translation": "ton, ta, tes, votre, vos",
       "example": "I am very sorry about your mother, she said."
+    },
+    {
+      "word": "youth",
+      "pos": "NOUN",
+      "translation": "la jeunesse",
+      "example": "His complexion was ruddy, as though weathered by a lifetime of salt wind, and his hair, which they said had been fair in his youth, had turned entirely white, although he could not have been much past forty."
+    },
+    {
+      "word": "Yáñez",
+      "pos": "PROPN",
+      "translation": "Yáñez (nom de famille)",
+      "example": "When he threw in his lot with the Genoese, bringing his brother Vicente Yáñez and a throng of kinsmen and neighbours, the doubters fell silent and the muster rolls filled."
     },
     {
       "word": "Édith",
