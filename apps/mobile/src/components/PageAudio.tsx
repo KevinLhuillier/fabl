@@ -1,6 +1,6 @@
 import { useAudioPlayer, useAudioPlayerStatus } from 'expo-audio';
 import { Pause, Play, RotateCcw } from 'lucide-react-native';
-import { useEffect, useImperativeHandle, useRef, type Ref } from 'react';
+import { memo, useEffect, useImperativeHandle, useRef, type Ref } from 'react';
 import { ActivityIndicator, Pressable, StyleSheet, View, type ViewStyle } from 'react-native';
 import Svg, { Circle } from 'react-native-svg';
 
@@ -18,7 +18,13 @@ const RADIUS = (PAGE_AUDIO_SIZE - RING) / 2;
 const CIRCUMFERENCE = 2 * Math.PI * RADIUS;
 const BUTTON = PAGE_AUDIO_SIZE - RING * 2 - 4;
 /** How far past the last status update the position is extrapolated (a stall stops it). */
-const MAX_EXTRAPOLATION_MS = 300;
+const MAX_EXTRAPOLATION_MS = 500;
+/** A frame every 1000/60 ms: what a phone that keeps up takes. */
+const FRAME_MS = 1000 / 60;
+/** Longest extra lead given to a slow phone (see the highlight loop). */
+const MAX_FRAME_LEAD_MS = 120;
+/** Progress ring step: finer than this is invisible and only costs a redraw. */
+const RING_STEPS = 200;
 
 /**
  * Compact player for a page's recorded voice-over: one round button (play / pause /
@@ -74,9 +80,17 @@ export function PageAudio({
     const rate = status.playbackRate || 1;
     let last = -1;
     let frame = 0;
+    // On a slow phone a frame lasts longer than 16 ms and the word shows a frame or two after
+    // it is picked: aim a little further ahead, in proportion to how late the frames are.
+    let frameMs = FRAME_MS;
+    let lastFrameAt = performance.now();
     const tick = () => {
+      const t = performance.now();
+      frameMs += (Math.min(t - lastFrameAt, 250) - frameMs) * 0.1;
+      lastFrameAt = t;
+      const lead = Math.min(MAX_FRAME_LEAD_MS, Math.max(0, frameMs - FRAME_MS) * 1.5);
       const { ms, at } = clock.current;
-      let now = ms + Math.min(performance.now() - at, MAX_EXTRAPOLATION_MS) * rate;
+      let now = ms + Math.min(t - at, MAX_EXTRAPOLATION_MS) * rate + lead;
       // An update slightly behind the extrapolation must not step back a word (a seek may).
       if (now < last && last - now < MAX_EXTRAPOLATION_MS) now = last;
       last = now;
@@ -117,31 +131,7 @@ export function PageAudio({
 
   return (
     <View style={[styles.wrap, style]}>
-      <Svg width={PAGE_AUDIO_SIZE} height={PAGE_AUDIO_SIZE} style={StyleSheet.absoluteFill}>
-        <Circle
-          cx={PAGE_AUDIO_SIZE / 2}
-          cy={PAGE_AUDIO_SIZE / 2}
-          r={RADIUS}
-          stroke={colors.border}
-          strokeWidth={RING}
-          fill={colors.surface}
-        />
-        {progress > 0 ? (
-          <Circle
-            cx={PAGE_AUDIO_SIZE / 2}
-            cy={PAGE_AUDIO_SIZE / 2}
-            r={RADIUS}
-            stroke={color}
-            strokeWidth={RING}
-            strokeLinecap="round"
-            strokeDasharray={CIRCUMFERENCE}
-            strokeDashoffset={CIRCUMFERENCE * (1 - progress)}
-            fill="none"
-            // Start at 12 o'clock and fill clockwise.
-            transform={`rotate(-90 ${PAGE_AUDIO_SIZE / 2} ${PAGE_AUDIO_SIZE / 2})`}
-          />
-        ) : null}
-      </Svg>
+      <ProgressRing progress={Math.round(progress * RING_STEPS) / RING_STEPS} color={color} />
       <Pressable
         onPress={toggle}
         disabled={!status.isLoaded}
@@ -162,6 +152,43 @@ export function PageAudio({
     </View>
   );
 }
+
+/** The ring: redrawn only when a step is crossed, not at every status update (SVG is costly). */
+const ProgressRing = memo(function ProgressRing({
+  progress,
+  color,
+}: {
+  progress: number;
+  color: string;
+}) {
+  return (
+    <Svg width={PAGE_AUDIO_SIZE} height={PAGE_AUDIO_SIZE} style={StyleSheet.absoluteFill}>
+      <Circle
+        cx={PAGE_AUDIO_SIZE / 2}
+        cy={PAGE_AUDIO_SIZE / 2}
+        r={RADIUS}
+        stroke={colors.border}
+        strokeWidth={RING}
+        fill={colors.surface}
+      />
+      {progress > 0 ? (
+        <Circle
+          cx={PAGE_AUDIO_SIZE / 2}
+          cy={PAGE_AUDIO_SIZE / 2}
+          r={RADIUS}
+          stroke={color}
+          strokeWidth={RING}
+          strokeLinecap="round"
+          strokeDasharray={CIRCUMFERENCE}
+          strokeDashoffset={CIRCUMFERENCE * (1 - progress)}
+          fill="none"
+          // Start at 12 o'clock and fill clockwise.
+          transform={`rotate(-90 ${PAGE_AUDIO_SIZE / 2} ${PAGE_AUDIO_SIZE / 2})`}
+        />
+      ) : null}
+    </Svg>
+  );
+});
 
 const styles = StyleSheet.create({
   wrap: {

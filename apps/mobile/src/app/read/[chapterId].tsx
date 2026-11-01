@@ -6,7 +6,7 @@ import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { PAGE_AUDIO_SIZE, PageAudio, type PageAudioHandle } from '@/components/PageAudio';
-import { PassageText, sentenceAround, type ReadAlong } from '@/components/PassageText';
+import { PassageText, sentenceAround } from '@/components/PassageText';
 import { WordSheet, type WordSheetState } from '@/components/WordSheet';
 import { useI18n } from '@/i18n';
 import { saveChapterTime, takeChapterTime, useActivityTimer } from '@/lib/activity';
@@ -20,6 +20,7 @@ import {
 } from '@/lib/api/progress';
 import { addToVocabulary, countWordsToLearn } from '@/lib/api/vocabulary';
 import { isFreeChapter } from '@/lib/premium';
+import { createReadAlongStore, type ReadAlong } from '@/lib/readAlongStore';
 import { useStats } from '@/lib/stats';
 import { useTour } from '@/lib/tour';
 import type { ChapterProgress, ChapterSummary, Page, StorySummary, Token } from '@/lib/types';
@@ -75,21 +76,21 @@ export default function ChapterReader() {
   const [selected, setSelected] = useState<number | null>(null);
   const scrollRef = useRef<ScrollViewInstance>(null);
   const audioRef = useRef<PageAudioHandle>(null);
-  // Read-along: which words the voice-over has reached (null when not playing).
-  const [readAlong, setReadAlong] = useState<ReadAlong | null>(null);
+  // Read-along: which words the voice-over has reached (null when not playing). Kept out of
+  // React state: only the words that change re-render, not this screen nor the whole text.
+  const [readAlong] = useState(createReadAlongStore);
   const timedRef = useRef<Token[]>([]);
   const onAudioTime = useCallback(
     (ms: number | null) => {
       // Listening to the voice-over is reading too.
       if (ms !== null) touchActivity();
-      const next = ms === null ? null : locate(timedRef.current, ms);
-      // Re-render the text only when the highlighted word changes, not on every tick.
-      setReadAlong((prev) =>
-        prev?.readUpTo === next?.readUpTo && prev?.current === next?.current ? prev : next,
-      );
+      readAlong.set(ms === null ? null : locate(timedRef.current, ms));
     },
-    [touchActivity],
+    [touchActivity, readAlong],
   );
+  useEffect(() => {
+    if (!readAlongEnabled) readAlong.set(null);
+  }, [readAlongEnabled, readAlong]);
   useEffect(() => {
     timedRef.current = data?.pages[page]?.tokens.filter((t) => t.startMs !== null) ?? [];
   }, [data, page]);
@@ -158,7 +159,7 @@ export default function ChapterReader() {
     touchActivity();
     setPage(target);
     setSelected(null);
-    setReadAlong(null);
+    readAlong.set(null);
     // Long pages: always start reading the target one from the top.
     scrollRef.current?.scrollTo({ y: 0, animated: false });
     saveChapterPage(chapterId, target).catch((e) => console.warn('saveChapterPage', e));
@@ -268,7 +269,7 @@ export default function ChapterReader() {
                 written={current.written}
                 selectedPosition={selected}
                 onWordPress={onWordPressStable}
-                readAlong={readAlongEnabled ? readAlong : null}
+                readAlong={readAlong}
                 readColor={level.shade}
                 currentColor={level.soft}
                 onWordPlay={aligned ? onWordPlay : undefined}

@@ -1,11 +1,15 @@
 import { memo, useEffect, useMemo, useRef } from 'react';
 import { StyleSheet, View } from 'react-native';
 
+import {
+  WORD_CURRENT,
+  WORD_READ,
+  noReadAlong,
+  useWordReadState,
+  type ReadAlongStore,
+} from '@/lib/readAlongStore';
 import type { PlayFromWord, Token } from '@/lib/types';
 import { Text, colors, fonts, haptics, radii, spacing } from '@/theme';
-
-/** Voice-over progress: tokens up to `readUpTo` are read, `current` is being spoken. */
-export type ReadAlong = { readUpTo: number; current: number | null };
 
 type Props = {
   tokens: Token[];
@@ -14,7 +18,8 @@ type Props = {
   /** Tapped token; when it belongs to an expression, the whole expression is highlighted. */
   selectedPosition: number | null;
   onWordPress: (token: Token) => void;
-  readAlong?: ReadAlong | null;
+  /** Voice-over progress; each word subscribes to it, the text itself does not re-render. */
+  readAlong?: ReadAlongStore;
   /** Text color of the words already read, background of the word being read. */
   readColor?: string;
   currentColor?: string;
@@ -52,7 +57,7 @@ export const PassageText = memo(function PassageText({
   written,
   selectedPosition,
   onWordPress,
-  readAlong,
+  readAlong = noReadAlong,
   readColor,
   currentColor,
   onWordPlay,
@@ -90,8 +95,7 @@ export const PassageText = memo(function PassageText({
                       token={t}
                       label={quote === 'open' ? '“' : quote === 'close' ? '”' : t.text}
                       spoken={spoken || block.written}
-                      read={!!readAlong && t.position <= readAlong.readUpTo}
-                      current={readAlong?.current === t.position}
+                      readAlong={readAlong}
                       selected={isSelected(t)}
                       padLeft={j === 0}
                       padRight={j === segments.length - 1}
@@ -119,8 +123,7 @@ type WordProps = {
   token: Token;
   label: string;
   spoken: boolean;
-  read: boolean;
-  current: boolean;
+  readAlong: ReadAlongStore;
   selected: boolean;
   /** The highlight overflows into the surrounding whitespace only, never over a glued neighbor. */
   padLeft: boolean;
@@ -140,8 +143,7 @@ const Word = memo(function Word({
   token: t,
   label,
   spoken,
-  read,
-  current,
+  readAlong,
   selected,
   padLeft,
   padRight,
@@ -151,6 +153,9 @@ const Word = memo(function Word({
   onWordPlay,
   playGesture,
 }: WordProps) {
+  const progress = useWordReadState(readAlong, t.position);
+  const read = (progress & WORD_READ) !== 0;
+  const current = (progress & WORD_CURRENT) !== 0;
   // First tap of a possible double tap, waiting for the second one.
   const pendingTap = useRef<ReturnType<typeof setTimeout> | null>(null);
   useEffect(() => () => clearTimeout(pendingTap.current ?? undefined), []);
