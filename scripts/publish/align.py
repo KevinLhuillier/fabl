@@ -127,6 +127,31 @@ def align(words: list[str], heard) -> tuple[list, float, int]:
                 ends[k] = at
         i = j
 
+    # A run of words left with no duration (Whisper stacks them on one instant, usually at the end
+    # of a sentence) shares the time of the word that follows when that one lasts too long for its
+    # length: it holds the time of the whole group. Spread it over the group, by length.
+    i = 0
+    while i < len(words):
+        if starts[i] is None or ends[i] - starts[i] >= MIN_WORD_SECONDS:
+            i += 1
+            continue
+        j = i
+        while j < len(words) and starts[j] is not None and ends[j] - starts[j] < MIN_WORD_SECONDS:
+            j += 1
+        if j < len(words) and starts[j] is not None:
+            group = range(i, j + 1)
+            weights = [max(1, len(normalize(words[k]))) for k in group]
+            # Enough time for the whole group at a quick pace (~0.06 s per letter).
+            if ends[j] - starts[j] > 0.06 * sum(weights):
+                at, total, stop = starts[i], sum(weights), ends[j]
+                for k, weight in zip(group, weights):
+                    starts[k] = at
+                    at += (stop - starts[i]) * weight / total
+                    ends[k] = at
+            i = j + 1
+        else:
+            i = j + 1
+
     timings = [
         [round(s * 1000), round(e * 1000)] if s is not None and e is not None else None
         for s, e in zip(starts, ends)
