@@ -222,6 +222,12 @@
       "example": "\"Some people can't abide what they don't understand."
     },
     {
+      "word": "ability",
+      "pos": "NOUN",
+      "translation": "a capacidade",
+      "example": "Some of them, the professor wrote, lost the ability to speak altogether."
+    },
+    {
       "word": "able",
       "pos": "ADJ",
       "translation": "capaz (“be able to”: conseguir, ser capaz de)",
@@ -286,6 +292,12 @@
       "pos": "VERB",
       "translation": "absorver, amortecer («absorb the impact»: amortecer o impacto)",
       "example": "When she landed, she rolled forward to absorb the impact."
+    },
+    {
+      "word": "absurd",
+      "pos": "ADJ",
+      "translation": "absurdo",
+      "example": "It was absurd, and she knew it."
     },
     {
       "word": "Acacias",
@@ -370,6 +382,12 @@
       "pos": "NOUN",
       "translation": "a precisão, a exatidão",
       "example": "\"You could stop in Perth too,\" Nell said, reading his silence with disconcerting accuracy."
+    },
+    {
+      "word": "accurate",
+      "pos": "ADJ",
+      "translation": "exato, preciso",
+      "example": "\"We would like it to explain the Bureau's relationship with the institute in a way that is complete, accurate, and — let us say — calm.\""
     },
     {
       "word": "accusation",
@@ -1102,6 +1120,12 @@
       "example": "A band of heavy snow was forecast to move in off the Cairngorms by mid-afternoon, and the Met Office had issued an amber warning that ran, with a cartographer's indifference, straight across the Drumochter Pass."
     },
     {
+      "word": "ambitious",
+      "pos": "ADJ",
+      "translation": "ambicioso",
+      "example": "Its unofficial purpose was more ambitious."
+    },
+    {
       "word": "ambulance",
       "pos": "NOUN",
       "translation": "a ambulância",
@@ -1462,6 +1486,12 @@
       "example": "At nineteen he had applied to become a firefighter."
     },
     {
+      "word": "appreciate",
+      "pos": "VERB",
+      "translation": "agradecer, apreciar",
+      "example": "\"If anyone were to come across one of them, the Bureau would very much appreciate being informed.\""
+    },
+    {
       "word": "approach",
       "pos": "VERB",
       "translation": "aproximar-se",
@@ -1514,6 +1544,12 @@
       "pos": "ADJ",
       "translation": "arqueado, em arco",
       "example": "This was a long, low building at the edge of the site, with a row of tall arched windows and a roof of grey slate."
+    },
+    {
+      "word": "architectural",
+      "pos": "ADJ",
+      "translation": "arquitetônico",
+      "example": "\"You managed to make a locked fire door sound like an architectural feature.\""
     },
     {
       "word": "archive",
@@ -3456,6 +3492,12 @@
       "example": "She found a black biro in her bag."
     },
     {
+      "word": "birth",
+      "pos": "NOUN",
+      "translation": "o nascimento (« date of birth »: data de nascimento)",
+      "example": "And at the back, held together with a paper clip, there was a list of names: the volunteers who had taken part in the final trial, each with a date of birth and a small photograph."
+    },
+    {
       "word": "birthday",
       "pos": "NOUN",
       "translation": "o aniversário",
@@ -4782,6 +4824,12 @@
       "example": "There's a gardener down the hill with a spare bunk, apparently."
     },
     {
+      "word": "Bureau",
+      "pos": "PROPN",
+      "translation": "o Bureau (« Bureau of Candour »: o Escritório da Franqueza, administração todo-poderosa que zela pela verdade pública)",
+      "example": "The Bureau of Candour occupied a vast white building on the north bank of the Sull, with tall columns and a motto carved above its doors: Nothing But What Is So."
+    },
+    {
       "word": "bureaucratic",
       "pos": "ADJ",
       "translation": "burocrático",
@@ -5316,6 +5364,12 @@
       "example": "Door handles, candlesticks, old taps."
     },
     {
+      "word": "Candour",
+      "pos": "PROPN",
+      "translation": "Candour (« Bureau of Candour »: Escritório da Franqueza; « Candour Day »: o Dia da Franqueza)",
+      "example": "It ran the national Candour Day celebrations each December, when schoolchildren recited the famous true sentences of history and the Prime Minister gave a speech about the honesty of the nation."
+    },
+    {
       "word": "canopy",
       "pos": "NOUN",
       "translation": "o dossel, a copa das árvores",
@@ -5820,6 +5874,12 @@
       "example": "Afterwards, everybody went to The Lantern to celebrate the end of the presentations."
     },
     {
+      "word": "celebration",
+      "pos": "NOUN",
+      "translation": "a celebração",
+      "example": "It ran the national Candour Day celebrations each December, when schoolchildren recited the famous true sentences of history and the Prime Minister gave a speech about the honesty of the nation."
+    },
+    {
       "word": "cellar",
       "pos": "NOUN",
       "translation": "o porão, a adega",
@@ -5832,10 +5892,40 @@
       "example": "In forty years he had hauled steel coil, frozen fish, bagged cement and, on one memorable occasion, a dismantled fairground ride; the Duchess was rated for forty-four tonnes, and today she would be carrying barely six."
     },
     {
+      "word": "chemical",
+      "pos": "ADJ",
+      "translation": "químico",
+      "example": "He had written speeches for three prime ministers and apologies for two royal princes, and it was said that he had once written a statement for a chemical company that was so perfectly constructed that the newspapers had praised the company for its honesty on the same day it poisoned a river."
+    },
+    {
       "word": "coming",
       "pos": "ADJ",
       "translation": "próximo, vindouro",
       "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
+    },
+    {
+      "word": "commission",
+      "pos": "VERB",
+      "translation": "encomendar",
+      "example": "She wishes to commission a statement, and she wishes it to be written by the best phraser in the city."
+    },
+    {
+      "word": "complex",
+      "pos": "ADJ",
+      "translation": "complexo",
+      "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
+    },
+    {
+      "word": "confidential",
+      "pos": "ADJ",
+      "translation": "confidencial",
+      "example": "\"What I'm going to tell you is confidential,\" she said."
+    },
+    {
+      "word": "confidentiality",
+      "pos": "NOUN",
+      "translation": "a confidencialidade",
+      "example": "Confidentiality, in Lantry, was not a promise to deny things."
     },
     {
       "word": "confuse",
@@ -5854,6 +5944,36 @@
       "pos": "NOUN",
       "translation": "a coerência, a consistência",
       "example": "That's consistency, at least."
+    },
+    {
+      "word": "construct",
+      "pos": "VERB",
+      "translation": "construir, elaborar",
+      "example": "He had written speeches for three prime ministers and apologies for two royal princes, and it was said that he had once written a statement for a chemical company that was so perfectly constructed that the newspapers had praised the company for its honesty on the same day it poisoned a river."
+    },
+    {
+      "word": "convert",
+      "pos": "VERB",
+      "translation": "converter, transformar",
+      "example": "Tallow Reach was a quarter of old warehouses converted into flats, with iron staircases on the outside walls and washing hanging across the alleys."
+    },
+    {
+      "word": "copy down",
+      "pos": "PHRASE",
+      "translation": "anotar, copiar",
+      "example": "At seven o'clock, when the office was empty, she copied down the address that was printed beneath his photograph."
+    },
+    {
+      "word": "Corvane",
+      "pos": "PROPN",
+      "translation": "Corvane (« Corvane Institute »: o instituto de pesquisa médica da costa)",
+      "example": "\"\"Six years ago,\" Odette went on, \"the Bureau provided funding to a private medical research centre called the Corvane Institute."
+    },
+    {
+      "word": "Crale",
+      "pos": "PROPN",
+      "translation": "Crale (« Odette Crale »: a diretora adjunta do Bureau)",
+      "example": "\"Odette Crale.\""
     },
     {
       "word": "customs",
@@ -9240,6 +9360,12 @@
       "example": "Dear Father Christmas."
     },
     {
+      "word": "dear",
+      "pos": "NOUN",
+      "translation": "querido, querida (« my dear »: minha querida)",
+      "example": "\"Sit down, my dear,\" he said."
+    },
+    {
       "word": "death",
       "pos": "NOUN",
       "translation": "a morte",
@@ -9262,6 +9388,12 @@
       "pos": "NOUN",
       "translation": "a década",
       "example": "They found the right decade on the third shelf, and Ilse ran her finger down the A's, page by page, year by year, her lips moving silently."
+    },
+    {
+      "word": "deceased",
+      "pos": "ADJ",
+      "translation": "falecido",
+      "example": "Next to eleven of the names, someone had written a single word in neat black ink: Deceased."
     },
     {
       "word": "December",
@@ -9780,6 +9912,12 @@
       "example": "Priya asked him to play ACE POINT again, against the hardest opponent in the game, so that she could test whether a more difficult match made a stronger effect."
     },
     {
+      "word": "difficulty",
+      "pos": "NOUN",
+      "translation": "a dificuldade",
+      "example": "Those who survived the trial were left with certain — neurological difficulties."
+    },
+    {
       "word": "diffidently",
       "pos": "ADV",
       "translation": "timidamente, com hesitação",
@@ -10014,6 +10152,12 @@
       "example": "In forty years he had hauled steel coil, frozen fish, bagged cement and, on one memorable occasion, a dismantled fairground ride; the Duchess was rated for forty-four tonnes, and today she would be carrying barely six."
     },
     {
+      "word": "disorder",
+      "pos": "NOUN",
+      "translation": "o distúrbio, o transtorno",
+      "example": "The institute's official purpose was the study of speech disorders."
+    },
+    {
       "word": "disown",
       "pos": "VERB",
       "translation": "renegar, deserdar",
@@ -10098,6 +10242,18 @@
       "example": "She drove for a supermarket chain now, chilled goods out of a depot near Wakefield, and was on her way to a distribution centre outside Inverness."
     },
     {
+      "word": "district",
+      "pos": "NOUN",
+      "translation": "o bairro, o distrito",
+      "example": "It was the address he had given the institute two years ago, in a district of narrow streets near the docks called Tallow Reach."
+    },
+    {
+      "word": "distrust",
+      "pos": "VERB",
+      "translation": "desconfiar de",
+      "example": "She paid her bills on time, she had never missed a deadline, and she distrusted anything that could not be explained in plain language."
+    },
+    {
       "word": "disturb",
       "pos": "VERB",
       "translation": "incomodar, atrapalhar",
@@ -10150,6 +10306,12 @@
       "pos": "PROPN",
       "translation": "Dobson (sobrenome)",
       "example": "Kai Dobson. Year 9. I think he steals things."
+    },
+    {
+      "word": "dock",
+      "pos": "NOUN",
+      "translation": "a doca (« the docks »: o porto)",
+      "example": "It was the address he had given the institute two years ago, in a district of narrow streets near the docks called Tallow Reach."
     },
     {
       "word": "doctor",
@@ -10378,6 +10540,12 @@
       "pos": "PROPN",
       "translation": "Dr (abreviação de “Doctor”: doutora, doutor)",
       "example": "The tutor was a small, sharp woman called Dr Margaret Pell."
+    },
+    {
+      "word": "draft",
+      "pos": "NOUN",
+      "translation": "o rascunho",
+      "example": "\"I'd like a first draft by the end of next week,\" she said."
     },
     {
       "word": "drag",
@@ -11106,6 +11274,12 @@
       "example": "\"How's the world of professional evasion?\""
     },
     {
+      "word": "exception",
+      "pos": "NOUN",
+      "translation": "a exceção",
+      "example": "On the second evening she went to the city library and asked, as carefully as she could, for anything they had on \"exceptions to the Stop\"."
+    },
+    {
       "word": "exhausting",
       "pos": "ADJ",
       "translation": "exaustivo, cansativo",
@@ -11118,10 +11292,52 @@
       "example": "On Wednesday, at the Future Tech Fair in Birmingham, I will show you something that will change the world."
     },
     {
+      "word": "falsehood",
+      "pos": "NOUN",
+      "translation": "a falsidade, a mentira",
+      "example": "But in eleven hundred cases, he had never found a single person who could knowingly and deliberately state a falsehood."
+    },
+    {
+      "word": "feature",
+      "pos": "NOUN",
+      "translation": "a característica",
+      "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
+    },
+    {
+      "word": "fine",
+      "pos": "VERB",
+      "translation": "multar",
+      "example": "It registered phrasers and fined those whose statements were judged \"deliberately misleading in effect\"."
+    },
+    {
+      "word": "fixed",
+      "pos": "ADJ",
+      "translation": "fixo",
+      "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
+    },
+    {
+      "word": "folder",
+      "pos": "NOUN",
+      "translation": "a pasta",
+      "example": "She opened a thin leather folder and placed it on the table between them, but kept one hand flat on top of it."
+    },
+    {
       "word": "fracture",
       "pos": "NOUN",
       "translation": "a fratura, a rachadura",
       "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
+    },
+    {
+      "word": "fundamental",
+      "pos": "ADJ",
+      "translation": "fundamental",
+      "example": "\"The public does not need to be frightened by stories of mad scientists trying to break the most fundamental law of human nature,\" said Odette."
+    },
+    {
+      "word": "funding",
+      "pos": "NOUN",
+      "translation": "o financiamento",
+      "example": "\"\"Six years ago,\" Odette went on, \"the Bureau provided funding to a private medical research centre called the Corvane Institute."
     },
     {
       "word": "generously",
@@ -11142,6 +11358,12 @@
       "example": "In a world where nobody could lie, the people with money had quickly discovered that the truth was not a wall but a landscape, full of slopes and shadows and convenient hiding places, and that some people were much better than others at finding their way around it."
     },
     {
+      "word": "hospitalise",
+      "pos": "VERB",
+      "translation": "hospitalizar",
+      "example": "Next to four others, the word was Hospitalised."
+    },
+    {
       "word": "hull",
       "pos": "NOUN",
       "translation": "o casco (de um barco)",
@@ -11160,6 +11382,18 @@
       "example": "\"Its owners are working closely with engineers on a long-term programme of improvements.\""
     },
     {
+      "word": "in person",
+      "pos": "PHRASE",
+      "translation": "pessoalmente, em pessoa",
+      "example": "If she came here, in person, it was not because she wanted your sentences."
+    },
+    {
+      "word": "in practice",
+      "pos": "PHRASE",
+      "translation": "na prática",
+      "example": "In practice, as everyone in Ione's profession knew, the Bureau was the most powerful government department in the country, because in a world where nobody could lie, the only real power lay in deciding which questions got asked."
+    },
+    {
       "word": "in the meantime",
       "pos": "PHRASE",
       "translation": "enquanto isso, nesse meio-tempo",
@@ -11172,6 +11406,12 @@
       "example": "The river glittered beneath the bridges, including, she noted with a small pang, the one with the crack in its third support column."
     },
     {
+      "word": "incompetence",
+      "pos": "NOUN",
+      "translation": "a incompetência",
+      "example": "\"\"You managed to accuse three professors of incompetence,\" he had told her at the interview, \"without saying a single thing they could object to."
+    },
+    {
       "word": "inconvenience",
       "pos": "VERB",
       "translation": "incomodar",
@@ -11182,6 +11422,18 @@
       "pos": "NOUN",
       "translation": "a inspeção",
       "example": "It was true: the bridge was open, and the inspections did continue, if one counted the single inspection in March as the beginning of something regular."
+    },
+    {
+      "word": "institute",
+      "pos": "NOUN",
+      "translation": "o instituto",
+      "example": "The institute's official purpose was the study of speech disorders."
+    },
+    {
+      "word": "internal",
+      "pos": "ADJ",
+      "translation": "interno",
+      "example": "\"The Bureau has completed a full internal review, and we are now satisfied that the project should never have been allowed to continue.\""
     },
     {
       "word": "interpret",
@@ -11202,6 +11454,24 @@
       "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
     },
     {
+      "word": "jewellery",
+      "pos": "NOUN",
+      "translation": "as joias",
+      "example": "She was a tall woman in her fifties, with short grey hair, a long pale face and very light blue eyes, and she wore a dark suit without a single piece of jewellery."
+    },
+    {
+      "word": "Kessler",
+      "pos": "PROPN",
+      "translation": "Kessler (« Kessler Hotel »: o hotel cujo incêndio Ione descreveu)",
+      "example": "The statement on the Kessler Hotel fire was particularly good."
+    },
+    {
+      "word": "knowingly",
+      "pos": "ADV",
+      "translation": "conscientemente, deliberadamente",
+      "example": "But in eleven hundred cases, he had never found a single person who could knowingly and deliberately state a falsehood."
+    },
+    {
       "word": "landlord",
       "pos": "NOUN",
       "translation": "o proprietário (que aluga), o senhorio",
@@ -11214,10 +11484,34 @@
       "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
     },
     {
+      "word": "likely",
+      "pos": "ADJ",
+      "translation": "provável",
+      "example": "\"\"Within the next few weeks,\" she said, \"some information about the Corvane Institute is likely to become public."
+    },
+    {
       "word": "live",
       "pos": "ADV",
       "translation": "ao vivo",
       "example": "\"Let me show you. Live. No tricks.\""
+    },
+    {
+      "word": "locate",
+      "pos": "VERB",
+      "translation": "localizar (« located »: localizado, situado)",
+      "example": "It was located on the coast, about forty miles from here, near the village of Saltreach."
+    },
+    {
+      "word": "locked",
+      "pos": "ADJ",
+      "translation": "trancado",
+      "example": "\"You managed to make a locked fire door sound like an architectural feature.\""
+    },
+    {
+      "word": "Lucan",
+      "pos": "PROPN",
+      "translation": "Lucan (nome próprio; « Lucan Mere »: o homem do casaco cinza do café)",
+      "example": "Lucan Mere, said the name beneath the photograph."
     },
     {
       "word": "manufacturer",
@@ -11244,6 +11538,12 @@
       "example": "In the meantime, the company wanted a statement."
     },
     {
+      "word": "Mere",
+      "pos": "PROPN",
+      "translation": "Mere (sobrenome de Lucan)",
+      "example": "Lucan Mere, said the name beneath the photograph."
+    },
+    {
       "word": "metaphor",
       "pos": "NOUN",
       "translation": "a metáfora",
@@ -11256,10 +11556,22 @@
       "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
     },
     {
+      "word": "minister",
+      "pos": "NOUN",
+      "translation": "o ministro",
+      "example": "He had written speeches for three prime ministers and apologies for two royal princes, and it was said that he had once written a statement for a chemical company that was so perfectly constructed that the newspapers had praised the company for its honesty on the same day it poisoned a river."
+    },
+    {
       "word": "misdescribe",
       "pos": "VERB",
       "translation": "descrever mal, descrever de forma enganosa",
       "example": "\"A client you misdescribed?\""
+    },
+    {
+      "word": "misleading",
+      "pos": "ADJ",
+      "translation": "enganoso",
+      "example": "It registered phrasers and fined those whose statements were judged \"deliberately misleading in effect\"."
     },
     {
       "word": "misunderstand",
@@ -11268,10 +11580,52 @@
       "example": "Bettany would think she had misunderstood."
     },
     {
+      "word": "motto",
+      "pos": "NOUN",
+      "translation": "o lema",
+      "example": "The Bureau of Candour occupied a vast white building on the north bank of the Sull, with tall columns and a motto carved above its doors: Nothing But What Is So."
+    },
+    {
+      "word": "nation",
+      "pos": "NOUN",
+      "translation": "a nação",
+      "example": "It ran the national Candour Day celebrations each December, when schoolchildren recited the famous true sentences of history and the Prime Minister gave a speech about the honesty of the nation."
+    },
+    {
+      "word": "nature",
+      "pos": "NOUN",
+      "translation": "a natureza",
+      "example": "\"The public does not need to be frightened by stories of mad scientists trying to break the most fundamental law of human nature,\" said Odette."
+    },
+    {
+      "word": "neurological",
+      "pos": "ADJ",
+      "translation": "neurológico",
+      "example": "Those who survived the trial were left with certain — neurological difficulties."
+    },
+    {
       "word": "nutritional",
       "pos": "ADJ",
       "translation": "nutricional",
       "example": "She had three other jobs waiting: a letter of apology for a hotel chain, a speech for a retiring judge, and the label for a new brand of breakfast cereal that contained, according to the manufacturer's own laboratory, \"slightly more than nothing of real nutritional value\"."
+    },
+    {
+      "word": "object",
+      "pos": "VERB",
+      "translation": "objetar, opor-se a",
+      "example": "\"\"You managed to accuse three professors of incompetence,\" he had told her at the interview, \"without saying a single thing they could object to."
+    },
+    {
+      "word": "Odette",
+      "pos": "PROPN",
+      "translation": "Odette (nome próprio; « Odette Crale »: a diretora adjunta do Bureau)",
+      "example": "\"Odette Crale.\""
+    },
+    {
+      "word": "omelette",
+      "pos": "NOUN",
+      "translation": "a omelete",
+      "example": "Then she went home, made herself an omelette she did not eat, and lay awake listening to the rain — real rain, this time — against her bedroom window."
     },
     {
       "word": "omission",
@@ -11286,10 +11640,22 @@
       "example": "The audience made a sound. \"Oooh.\""
     },
     {
+      "word": "outside",
+      "pos": "ADJ",
+      "translation": "externo, exterior (« outside walls »: paredes externas)",
+      "example": "Tallow Reach was a quarter of old warehouses converted into flats, with iron staircases on the outside walls and washing hanging across the alleys."
+    },
+    {
       "word": "pang",
       "pos": "NOUN",
       "translation": "a pontada",
       "example": "The river glittered beneath the bridges, including, she noted with a small pang, the one with the crack in its third support column."
+    },
+    {
+      "word": "particularly",
+      "pos": "ADV",
+      "translation": "particularmente",
+      "example": "The statement on the Kessler Hotel fire was particularly good."
     },
     {
       "word": "password",
@@ -11304,10 +11670,28 @@
       "example": "She sat at her desk on the fourth floor of Peel & Ashgrove, a cup of cold tea at her elbow and the engineers' report open in front of her."
     },
     {
+      "word": "permanent",
+      "pos": "ADJ",
+      "translation": "permanente",
+      "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
+    },
+    {
+      "word": "phrase",
+      "pos": "VERB",
+      "translation": "formular, redigir (« carefully phrased »: cuidadosamente formulado)",
+      "example": "It contained a dozen pages: a short history of the institute, a list of dates, a summary of the Bureau's funding, carefully phrased in a way she instantly recognised as the work of another phraser, probably a good one."
+    },
+    {
       "word": "phraser",
       "pos": "NOUN",
       "translation": "o «phraser» (profissional que escolhe cada palavra para orientar a impressão sem nunca mentir)",
       "example": "This was what it meant to be a phraser."
+    },
+    {
+      "word": "poison",
+      "pos": "VERB",
+      "translation": "envenenar, contaminar",
+      "example": "He had written speeches for three prime ministers and apologies for two royal princes, and it was said that he had once written a statement for a chemical company that was so perfectly constructed that the newspapers had praised the company for its honesty on the same day it poisoned a river."
     },
     {
       "word": "political",
@@ -11334,10 +11718,28 @@
       "example": "They wrote press releases and political speeches, contracts and apologies, product labels and wedding toasts."
     },
     {
+      "word": "prevent",
+      "pos": "VERB",
+      "translation": "impedir",
+      "example": "Some lost their memory, and therefore said false things without knowing they were false — the Stop, after all, only prevented you from saying what you believed to be untrue."
+    },
+    {
+      "word": "prime",
+      "pos": "ADJ",
+      "translation": "primeiro (« prime minister »: primeiro-ministro)",
+      "example": "He had written speeches for three prime ministers and apologies for two royal princes, and it was said that he had once written a statement for a chemical company that was so perfectly constructed that the newspapers had praised the company for its honesty on the same day it poisoned a river."
+    },
+    {
       "word": "product",
       "pos": "NOUN",
       "translation": "o produto",
       "example": "They wrote press releases and political speeches, contracts and apologies, product labels and wedding toasts."
+    },
+    {
+      "word": "profession",
+      "pos": "NOUN",
+      "translation": "a profissão",
+      "example": "\"I'm sure I don't need to explain what that means to two members of your profession.\""
     },
     {
       "word": "programme",
@@ -11346,10 +11748,28 @@
       "example": "\"Its owners are working closely with engineers on a long-term programme of improvements.\""
     },
     {
+      "word": "provide",
+      "pos": "VERB",
+      "translation": "fornecer",
+      "example": "\"\"Six years ago,\" Odette went on, \"the Bureau provided funding to a private medical research centre called the Corvane Institute."
+    },
+    {
+      "word": "public",
+      "pos": "NOUN",
+      "translation": "o público",
+      "example": "\"The public does not need to be frightened by stories of mad scientists trying to break the most fundamental law of human nature,\" said Odette."
+    },
+    {
       "word": "quay",
       "pos": "NOUN",
       "translation": "o cais",
       "example": "Trams rattled along the quays."
+    },
+    {
+      "word": "Reach",
+      "pos": "PROPN",
+      "translation": "Reach (« Tallow Reach »: bairro portuário de Lantry)",
+      "example": "It was the address he had given the institute two years ago, in a district of narrow streets near the docks called Tallow Reach."
     },
     {
       "word": "Rebecca",
@@ -11358,10 +11778,40 @@
       "example": "Rebecca Shaw put her hand on her mouth."
     },
     {
+      "word": "reflex",
+      "pos": "NOUN",
+      "translation": "o reflexo",
+      "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
+    },
+    {
+      "word": "relationship",
+      "pos": "NOUN",
+      "translation": "a relação",
+      "example": "\"We would like it to explain the Bureau's relationship with the institute in a way that is complete, accurate, and — let us say — calm.\""
+    },
+    {
       "word": "release",
       "pos": "NOUN",
       "translation": "o comunicado (« press release »: comunicado de imprensa)",
       "example": "They wrote press releases and political speeches, contracts and apologies, product labels and wedding toasts."
+    },
+    {
+      "word": "researcher",
+      "pos": "NOUN",
+      "translation": "o pesquisador, a pesquisadora",
+      "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
+    },
+    {
+      "word": "review",
+      "pos": "NOUN",
+      "translation": "a revisão (« internal review »: auditoria interna)",
+      "example": "\"The Bureau has completed a full internal review, and we are now satisfied that the project should never have been allowed to continue.\""
+    },
+    {
+      "word": "rim",
+      "pos": "NOUN",
+      "translation": "a borda, a armação (« over the rim of his spectacles »: por cima dos óculos)",
+      "example": "Augustin studied her over the rim of his spectacles."
     },
     {
       "word": "rival",
@@ -11370,10 +11820,28 @@
       "example": "Somebody at a rival firm had written that."
     },
     {
+      "word": "rooted",
+      "pos": "ADJ",
+      "translation": "enraizado",
+      "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
+    },
+    {
+      "word": "Rope",
+      "pos": "PROPN",
+      "translation": "Rope (« Rope Walk »: nome de rua de Tallow Reach, «a alameda da Corda»)",
+      "example": "The address on the folder belonged to a building on the corner of a street called Rope Walk."
+    },
+    {
       "word": "rota",
       "pos": "NOUN",
       "translation": "a escala (de trabalho)",
       "example": "They walked back along the quay together, and Bettany talked about sleep and soup and the unfairness of hospital rotas, and Ione answered when she was supposed to, and all the time her mind kept returning to the same small, impossible sentence."
+    },
+    {
+      "word": "Saltreach",
+      "pos": "PROPN",
+      "translation": "Saltreach (vila costeira perto do instituto Corvane)",
+      "example": "It was located on the coast, about forty miles from here, near the village of Saltreach."
     },
     {
       "word": "satisfy",
@@ -11430,10 +11898,28 @@
       "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
     },
     {
+      "word": "summary",
+      "pos": "NOUN",
+      "translation": "o resumo",
+      "example": "It contained a dozen pages: a short history of the institute, a list of dates, a summary of the Bureau's funding, carefully phrased in a way she instantly recognised as the work of another phraser, probably a good one."
+    },
+    {
       "word": "support",
       "pos": "NOUN",
       "translation": "o suporte, a coluna de sustentação (« support column »)",
       "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
+    },
+    {
+      "word": "support",
+      "pos": "VERB",
+      "translation": "apoiar",
+      "example": "The Bureau supported this work because we wished to understand the Stop better."
+    },
+    {
+      "word": "Tallow",
+      "pos": "PROPN",
+      "translation": "Tallow (« Tallow Reach »: bairro de armazéns perto das docas de Lantry)",
+      "example": "It was the address he had given the institute two years ago, in a district of narrow streets near the docks called Tallow Reach."
     },
     {
       "word": "teapot",
@@ -11454,6 +11940,12 @@
       "example": "\"Ha! A small technical problem. Let's try somebody else.\""
     },
     {
+      "word": "therefore",
+      "pos": "ADV",
+      "translation": "portanto, por isso",
+      "example": "Some lost their memory, and therefore said false things without knowing they were false — the Stop, after all, only prevented you from saying what you believed to be untrue."
+    },
+    {
       "word": "thrive",
       "pos": "VERB",
       "translation": "prosperar, florescer (« Thriving »: vai muito bem)",
@@ -11472,10 +11964,22 @@
       "example": "Trams rattled along the quays."
     },
     {
+      "word": "treatable",
+      "pos": "ADJ",
+      "translation": "tratável",
+      "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
+    },
+    {
       "word": "truthfully",
       "pos": "ADV",
       "translation": "sinceramente, com sinceridade",
       "example": "\"I don't know who he was,\" said Ione truthfully."
+    },
+    {
+      "word": "underwater",
+      "pos": "ADV",
+      "translation": "debaixo d’água",
+      "example": "\"It is a rule of the human animal, as fixed as the rule that we cannot breathe underwater.\""
     },
     {
       "word": "unfairness",
@@ -11484,10 +11988,40 @@
       "example": "They walked back along the quay together, and Bettany talked about sleep and soup and the unfairness of hospital rotas, and Ione answered when she was supposed to, and all the time her mind kept returning to the same small, impossible sentence."
     },
     {
+      "word": "unofficial",
+      "pos": "ADJ",
+      "translation": "extraoficial",
+      "example": "Its unofficial purpose was more ambitious."
+    },
+    {
+      "word": "untrue",
+      "pos": "ADJ",
+      "translation": "falso, inverídico",
+      "example": "Some lost their memory, and therefore said false things without knowing they were false — the Stop, after all, only prevented you from saying what you believed to be untrue."
+    },
+    {
       "word": "value",
       "pos": "NOUN",
       "translation": "o valor",
       "example": "She had three other jobs waiting: a letter of apology for a hotel chain, a speech for a retiring judge, and the label for a new brand of breakfast cereal that contained, according to the manufacturer's own laboratory, \"slightly more than nothing of real nutritional value\"."
+    },
+    {
+      "word": "volunteer",
+      "pos": "NOUN",
+      "translation": "o voluntário",
+      "example": "Some of the volunteers who took part in the trials became ill."
+    },
+    {
+      "word": "waistcoat",
+      "pos": "NOUN",
+      "translation": "o colete",
+      "example": "He was a small, neat man with silver hair, a silver moustache and a wardrobe of beautiful waistcoats, and he spoke so slowly and precisely that clients sometimes mistook him for a fool."
+    },
+    {
+      "word": "Walk",
+      "pos": "PROPN",
+      "translation": "Walk (« Rope Walk »: nome de rua, «a alameda da Corda»)",
+      "example": "The address on the folder belonged to a building on the corner of a street called Rope Walk."
     },
     {
       "word": "Weaver",

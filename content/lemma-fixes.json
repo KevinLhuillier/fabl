@@ -288,6 +288,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "bank",
+      "pos": "PROPN",
+      "word": "bank",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "bareheaded",
       "pos": "VERB",
       "word": "bareheaded",
@@ -1188,6 +1194,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Deceased",
+      "pos": "VERB",
+      "word": "deceased",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "decker",
       "pos": "NOUN",
       "word": "double-decker",
@@ -1242,6 +1254,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Deputy",
+      "pos": "PROPN",
+      "word": "deputy",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "des",
       "pos": "PROPN",
       "word": "des",
@@ -1270,6 +1288,12 @@
       "pos": "NOUN",
       "word": "dip",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Director",
+      "pos": "PROPN",
+      "word": "director",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "disappointment",
@@ -1681,6 +1705,12 @@
       "next": ".",
       "word": "fine",
       "lemmaPos": "INTJ"
+    },
+    {
+      "text": "fined",
+      "pos": "VERB",
+      "word": "fine",
+      "lemmaPos": "VERB"
     },
     {
       "text": "finer",
@@ -2399,6 +2429,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Hotel",
+      "pos": "PROPN",
+      "word": "hotel",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "House",
       "pos": "PROPN",
       "word": "house",
@@ -2544,6 +2580,12 @@
       "pos": "VERB",
       "word": "install",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Institute",
+      "pos": "PROPN",
+      "word": "institute",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Interesting",
@@ -3533,6 +3575,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "north",
+      "pos": "PROPN",
+      "word": "north",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "NORTHERN",
       "pos": "PROPN",
       "word": "northern",
@@ -3877,6 +3925,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "phraser",
+      "pos": "PROPN",
+      "word": "phraser",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "physics",
       "pos": "NOUN",
       "word": "physics",
@@ -4171,6 +4225,12 @@
       "next": ",",
       "word": "red",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "reflex",
+      "pos": "ADJ",
+      "word": "reflex",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "REGAL",
@@ -5606,6 +5666,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "treatable",
+      "pos": "NOUN",
+      "word": "treatable",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "trembling",
       "pos": "NOUN",
       "word": "tremble",
@@ -5697,6 +5763,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "underwater",
+      "pos": "NOUN",
+      "word": "underwater",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "Undrawn",
       "pos": "NOUN",
       "word": "undrawn",
@@ -5773,6 +5845,12 @@
       "text": "unsure",
       "pos": "NOUN",
       "word": "unsure",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "untidy",
+      "pos": "VERB",
+      "word": "untidy",
       "lemmaPos": "ADJ"
     },
     {
