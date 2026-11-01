@@ -93,6 +93,13 @@ export default function ChapterReader() {
   useEffect(() => {
     timedRef.current = data?.pages[page]?.tokens.filter((t) => t.startMs !== null) ?? [];
   }, [data, page]);
+  // Stable callbacks: a new function on every render would re-render every word of the
+  // text each time the highlight moves (memo defeated), which a low-end phone cannot follow.
+  const wordPressRef = useRef<(token: Token) => void>(() => {});
+  const onWordPressStable = useCallback((token: Token) => wordPressRef.current(token), []);
+  const onWordPlay = useCallback((token: Token) => {
+    if (token.startMs !== null) audioRef.current?.playFrom(token.startMs);
+  }, []);
 
   useEffect(() => {
     let cancelled = false;
@@ -203,6 +210,10 @@ export default function ChapterReader() {
     });
   }
 
+  // Latest handler for the stable callback; it is defined after the early return, where no
+  // hook (effect) can run, and is only ever called from a press, never during render.
+  // eslint-disable-next-line react-hooks/refs
+  wordPressRef.current = onWordPress;
   function onWordPress(token: Token) {
     touchActivity();
     if (!token.lemma) return;
@@ -256,15 +267,11 @@ export default function ChapterReader() {
                 tokens={current.tokens}
                 written={current.written}
                 selectedPosition={selected}
-                onWordPress={onWordPress}
+                onWordPress={onWordPressStable}
                 readAlong={readAlongEnabled ? readAlong : null}
                 readColor={level.shade}
                 currentColor={level.soft}
-                onWordPlay={
-                  aligned
-                    ? (t) => t.startMs !== null && audioRef.current?.playFrom(t.startMs)
-                    : undefined
-                }
+                onWordPlay={aligned ? onWordPlay : undefined}
                 playGesture={playGesture}
               />
             </View>

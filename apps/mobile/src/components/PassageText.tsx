@@ -1,6 +1,5 @@
-import { memo, useEffect, useRef } from 'react';
+import { memo, useEffect, useMemo, useRef } from 'react';
 import { StyleSheet, View } from 'react-native';
-import Animated from 'react-native-reanimated';
 
 import type { PlayFromWord, Token } from '@/lib/types';
 import { Text, colors, fonts, haptics, radii, spacing } from '@/theme';
@@ -59,19 +58,23 @@ export const PassageText = memo(function PassageText({
   onWordPlay,
   playGesture = 'double_tap',
 }: Props) {
-  const paragraphs = splitParagraphs(tokens).map(markDialogue).map(splitWords);
   const tapped = selectedPosition === null ? null : tokens[selectedPosition];
   const isSelected = (t: Token) =>
     tapped?.phrase ? t.phrase?.start === tapped.phrase.start : t.position === selectedPosition;
 
-  // Runs of consecutive paragraphs with the same kind (narration or written).
-  const blocks: { written: boolean; paragraphs: Segment[][][] }[] = [];
-  paragraphs.forEach((words, i) => {
-    const isWritten = !!written?.[i];
-    const last = blocks[blocks.length - 1];
-    if (last && last.written === isWritten) last.paragraphs.push(words);
-    else blocks.push({ written: isWritten, paragraphs: [words] });
-  });
+  // The layout only depends on the page: computed once, not at every highlighted word.
+  const blocks = useMemo(() => {
+    const paragraphs = splitParagraphs(tokens).map(markDialogue).map(splitWords);
+    // Runs of consecutive paragraphs with the same kind (narration or written).
+    const result: { written: boolean; paragraphs: Segment[][][] }[] = [];
+    paragraphs.forEach((words, i) => {
+      const isWritten = !!written?.[i];
+      const last = result[result.length - 1];
+      if (last && last.written === isWritten) last.paragraphs.push(words);
+      else result.push({ written: isWritten, paragraphs: [words] });
+    });
+    return result;
+  }, [tokens, written]);
 
   return (
     <View style={styles.wrap}>
@@ -130,8 +133,8 @@ type WordProps = {
 };
 
 /**
- * One token. The read-along highlight is a rounded pill behind the text that
- * fades in and out (a nested <Text> can't have padding, radius or animation).
+ * One token. The read-along highlight is a rounded pill behind the text
+ * (a nested <Text> can't have padding or radius).
  */
 const Word = memo(function Word({
   token: t,
@@ -187,15 +190,18 @@ const Word = memo(function Word({
   ];
   return (
     <View>
-      <Animated.View
-        pointerEvents="none"
-        style={[
-          styles.highlight,
-          padLeft && styles.highlightLeft,
-          padRight && styles.highlightRight,
-          { backgroundColor: currentColor, opacity: current ? 1 : 0 },
-        ]}
-      />
+      {/* Mounted only for the word being read: no animated view per word of the page. */}
+      {current ? (
+        <View
+          pointerEvents="none"
+          style={[
+            styles.highlight,
+            padLeft && styles.highlightLeft,
+            padRight && styles.highlightRight,
+            { backgroundColor: currentColor },
+          ]}
+        />
+      ) : null}
       {t.lemma ? (
         <Text variant="reading" suppressHighlighting onPress={onPress} style={style}>
           {label}
@@ -281,10 +287,6 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     borderRadius: radii.sm,
-    transitionProperty: 'opacity',
-    // Short: a quickly spoken word must be fully highlighted before the next one.
-    transitionDuration: 90,
-    transitionTimingFunction: 'ease-out',
   },
   highlightLeft: { left: -spacing.xs - spacing.xxs },
   highlightRight: { right: -spacing.xs - spacing.xxs },
