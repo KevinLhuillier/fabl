@@ -216,6 +216,12 @@
       "example": "Only the stone walls remained, black with smoke, and a broken cart lay abandoned in the field."
     },
     {
+      "word": "Aberdeen",
+      "pos": "PROPN",
+      "translation": "Aberdeen (Stadt)",
+      "example": "It was simply the first Saturday when he would not have to work at the bakery, because Mr Corbridge closed for a week before Christmas every year to visit his daughter in Aberdeen."
+    },
+    {
       "word": "abide",
       "pos": "VERB",
       "translation": "ertragen, dulden („can't abide“: nicht ausstehen können)",
@@ -352,6 +358,12 @@
       "pos": "NOUN",
       "translation": "der Unfall",
       "example": "My master did not fall by accident, Your Majesty."
+    },
+    {
+      "word": "accidentally",
+      "pos": "ADV",
+      "translation": "versehentlich, aus Versehen",
+      "example": "She had written to him that evening about the time her grandmother had accidentally dyed the family poodle pink."
     },
     {
       "word": "accord",
@@ -863,6 +875,12 @@
       "example": "He raised both hands for the second gesture, the push, aiming at Maxence's feet on the second step."
     },
     {
+      "word": "Ainsley",
+      "pos": "PROPN",
+      "translation": "Ainsley (Nachname)",
+      "example": "So I work at a bakery in the mornings and I study in the afternoons and I read in your library in the evenings while our neighbour, Mrs Ainsley, watches television with Alfie."
+    },
+    {
       "word": "Ainsworth",
       "pos": "PROPN",
       "translation": "Ainsworth (Nachname)",
@@ -957,6 +975,18 @@
       "pos": "PROPN",
       "translation": "Alf (Vorname, Kurzform von Alfred)",
       "example": "Her grandad Alf had given her the first one when she was eight."
+    },
+    {
+      "word": "alfie",
+      "pos": "NOUN",
+      "translation": "alfie (männlicher Vorname)",
+      "example": "His name is Alfie, and he's twelve, and he's the reason I leave at nine o'clock."
+    },
+    {
+      "word": "Alfie",
+      "pos": "PROPN",
+      "translation": "Alfie (männlicher Vorname)",
+      "example": "His name is Alfie, and he's twelve, and he's the reason I leave at nine o'clock."
     },
     {
       "word": "alike",
@@ -1216,6 +1246,12 @@
       "example": "A band of heavy snow was forecast to move in off the Cairngorms by mid-afternoon, and the Met Office had issued an amber warning that ran, with a cartographer's indifference, straight across the Drumochter Pass."
     },
     {
+      "word": "ambition",
+      "pos": "NOUN",
+      "translation": "Ehrgeiz, Ambition",
+      "example": "But he only nodded seriously, as if it were the most normal ambition in the world."
+    },
+    {
       "word": "ambitious",
       "pos": "ADJ",
       "translation": "ehrgeizig, anspruchsvoll",
@@ -1364,6 +1400,12 @@
       "pos": "PROPN",
       "translation": "Anne (weiblicher Vorname; die Mutter der Kinder)",
       "example": "Their mother, Anne Hollis, was dead."
+    },
+    {
+      "word": "anniversary",
+      "pos": "NOUN",
+      "translation": "Jahrestag",
+      "example": "Last week was the anniversary of something that changed my life, and not in a good way."
     },
     {
       "word": "announce",
@@ -1652,6 +1694,18 @@
       "pos": "NOUN",
       "translation": "die Herangehensweise",
       "example": "She had planned it on the train — a gentle approach, a few harmless questions, nothing that would alarm an old woman."
+    },
+    {
+      "word": "appropriate",
+      "pos": "ADJ",
+      "translation": "angemessen, passend",
+      "example": "She sat at her desk until two in the morning with a blank page and a pencil, and she started her letter eleven times, which seemed, in a horrible way, appropriate."
+    },
+    {
+      "word": "approval",
+      "pos": "NOUN",
+      "translation": "Zustimmung, Billigung",
+      "example": "Alfie read the bookmark and nodded with approval."
     },
     {
       "word": "approve",
@@ -2827,6 +2881,12 @@
       "example": "He lost his balance, Hugh's lance hit him in the chest, and the old knight crashed to the ground."
     },
     {
+      "word": "balance",
+      "pos": "VERB",
+      "translation": "ausgleichen",
+      "example": "Imogen liked her enormously and was slightly afraid of her, which Mrs Dunmore seemed to consider the correct balance."
+    },
+    {
       "word": "balanced",
       "pos": "ADJ",
       "translation": "balanciert",
@@ -3071,6 +3131,12 @@
       "pos": "NOUN",
       "translation": "der Ausgangswert, der Referenzwert",
       "example": "That's your baseline."
+    },
+    {
+      "word": "basement",
+      "pos": "NOUN",
+      "translation": "Keller, Untergeschoss",
+      "example": "Imogen spent her first evening in the repair room in the basement, learning how to glue a broken spine back onto a book of sermons from 1802, while Mr Pemberton told her about his hip operation in great detail."
     },
     {
       "word": "basically",
@@ -3534,6 +3600,12 @@
       "example": "She said she'd been working on something for years — something she'd believed in, at the beginning."
     },
     {
+      "word": "believer",
+      "pos": "NOUN",
+      "translation": "Gläubiger",
+      "example": "\"Dear non-believer in ghosts."
+    },
+    {
       "word": "bell",
       "pos": "NOUN",
       "translation": "die Glocke, die Klingel",
@@ -3688,6 +3760,12 @@
       "pos": "ADJ",
       "translation": "der, die, das beste",
       "example": "\"Best thing that's happened to me all year, being arrested.\""
+    },
+    {
+      "word": "best",
+      "pos": "NOUN",
+      "translation": "das Beste, der Beste",
+      "example": "She waited until he came to the desk to collect his reserved books, and she prepared a sentence in her head: \"You must be our best customer."
     },
     {
       "word": "best friend",
@@ -4284,6 +4362,12 @@
       "example": "Out across the ice, from the direction of Thornhall, a line of lanterns was streaming towards them — a dozen, twenty, more, bobbing and swinging, and behind them the dark shapes of running figures."
     },
     {
+      "word": "bobble",
+      "pos": "NOUN",
+      "translation": "Bommel",
+      "example": "The small one was wearing a red woollen hat with a bobble on top and was jumping up and down to keep warm."
+    },
+    {
       "word": "body",
       "pos": "NOUN",
       "translation": "der Körper",
@@ -4332,6 +4416,12 @@
       "example": "He lived in a tiny lean-to at the end of the fifth glasshouse, among sacks of bonemeal and coils of twine, and nobody at the Academy seemed to remember that he was there unless something died."
     },
     {
+      "word": "Bonfire",
+      "pos": "PROPN",
+      "translation": "Bonfire (Night): Fest am 5. November mit Feuern und Feuerwerk",
+      "example": "All over the city, people were letting off rockets for Bonfire Night, and every few minutes the tall windows of the reading room flashed green or gold or red, and the old man with the crosswords tutted loudly at each explosion."
+    },
+    {
       "word": "bong",
       "pos": "INTJ",
       "translation": "bong! (Glockenschlag)",
@@ -4374,6 +4464,12 @@
       "example": "In the sitting room, there was a big bookcase full of old books and a clock on the wall that did not work."
     },
     {
+      "word": "bookmark",
+      "pos": "NOUN",
+      "translation": "Lesezeichen",
+      "example": "She took one of the library's paper bookmarks from the pot on the desk, the ones with a drawing of the cathedral on one side and the opening hours on the other."
+    },
+    {
       "word": "Books",
       "pos": "PROPN",
       "translation": "Bücher („Root Books“: Wurzelbücher)",
@@ -4414,6 +4510,12 @@
       "pos": "NOUN",
       "translation": "die Grenze; der Rand",
       "example": "Near Berwick he caught a glimpse of the sea, gunmetal grey and flecked with white, and then the road crossed the border, where a roadside sign and a fluttering saltire announced, with characteristic understatement, that he had entered another country."
+    },
+    {
+      "word": "bore",
+      "pos": "VERB",
+      "translation": "langweilen",
+      "example": "She's never once looked at me, and she always seems to be somewhere else in her head, as if the real world bores her slightly."
     },
     {
       "word": "bored",
@@ -4918,6 +5020,12 @@
       "pos": "ADJ",
       "translation": "hell, leuchtend",
       "example": "Across the square, the blacksmith's son, Edric Vane, was entertaining a half-circle of younger children by snapping his fingers and conjuring a spark — just one, bright and brief as a firefly."
+    },
+    {
+      "word": "brighten",
+      "pos": "VERB",
+      "translation": "heller werden",
+      "example": "At the top, Alfie turned round and waved, a big, two-armed wave, and then they were gone, up into the town, two dark shapes against the brightening snow."
     },
     {
       "word": "brightly",
@@ -5766,6 +5874,12 @@
       "example": "Can you help me? — Kannst du mir helfen?"
     },
     {
+      "word": "can't",
+      "pos": "VERB",
+      "translation": "nicht können (verkürzte Form von „cannot“)",
+      "example": "I can't decide."
+    },
+    {
       "word": "Canada",
       "pos": "PROPN",
       "translation": "Kanada",
@@ -6312,6 +6426,12 @@
       "example": "\"I came across it years ago, cataloguing a cabinet that hadn't been opened since before I was born, and I've carried a copy with me ever since.\""
     },
     {
+      "word": "catalogue",
+      "pos": "NOUN",
+      "translation": "Katalog",
+      "example": "He must have searched the catalogue for it on purpose."
+    },
+    {
       "word": "catastrophe",
       "pos": "NOUN",
       "translation": "die Katastrophe",
@@ -6456,6 +6576,12 @@
       "example": "Characteristically, he responded not by softening but by marshalling arguments: when a contrary wind blew from the west, he declared it providential, for it proved that winds here blew both ways and we could return."
     },
     {
+      "word": "charming",
+      "pos": "ADJ",
+      "translation": "charmant, reizend",
+      "example": "She was charming."
+    },
+    {
       "word": "chart",
       "pos": "NOUN",
       "translation": "die Seekarte",
@@ -6564,6 +6690,18 @@
       "example": "He walked to the microphone and stood there, looking out over the crowd, and Ione understood, with a terrible clarity, exactly what Odette had planned."
     },
     {
+      "word": "classic",
+      "pos": "NOUN",
+      "translation": "Klassiker (typisches Beispiel)",
+      "example": "Classic.\""
+    },
+    {
+      "word": "clear off",
+      "pos": "PHRASE",
+      "translation": "abhauen, sich verziehen",
+      "example": "The father cleared off when the little one was a baby."
+    },
+    {
       "word": "closeted",
       "pos": "ADJ",
       "translation": "abgeschottet, im Geheimen",
@@ -6588,6 +6726,12 @@
       "example": "It had been cloud, as it so often is, for the sea at sunset is a great forger of coastlines."
     },
     {
+      "word": "cobbled",
+      "pos": "ADJ",
+      "translation": "gepflastert, Kopfstein-",
+      "example": "She crossed the old stone bridge over the River Wear, climbed the steep cobbled street behind the cathedral, and pushed open the heavy oak door of Wexcombe Library."
+    },
+    {
       "word": "cobwebs",
       "pos": "NOUN",
       "translation": "das Spinnennetz",
@@ -6610,6 +6754,12 @@
       "pos": "ADJ",
       "translation": "kommend, bevorstehend",
       "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
+    },
+    {
+      "word": "comment",
+      "pos": "VERB",
+      "translation": "kommentieren",
+      "example": "She noticed things she had missed the first time: how his sentences grew longer as the weeks passed, how the jokes became more frequent, how he had started, without either of them commenting on it, to sign off each note with a small drawing of a heron."
     },
     {
       "word": "commission",
@@ -6708,6 +6858,12 @@
       "example": "A conductor came and looked at their tickets."
     },
     {
+      "word": "confidence",
+      "pos": "NOUN",
+      "translation": "Selbstvertrauen",
+      "example": "She was the kind of person who seemed to be lit from inside, with a loud, warm laugh and the confidence of someone who had never in her life been ignored."
+    },
+    {
       "word": "confidential",
       "pos": "ADJ",
       "translation": "vertraulich",
@@ -6754,6 +6910,12 @@
       "pos": "VERB",
       "translation": "trösten",
       "example": "He consoled himself, he said, with the knowledge that Martín Alonso was a man of spirit and ingenuity who would make shift with ropes until we reached the Canaries."
+    },
+    {
+      "word": "conspiratorial",
+      "pos": "ADJ",
+      "translation": "verschwörerisch",
+      "example": "\"I always enjoy the books,\" said Alfie, with dignity, and he went back to Mrs Ainsley, who stood up, nodded to Imogen in a friendly, conspiratorial way and took him out into the rain."
     },
     {
       "word": "construct",
@@ -6828,10 +6990,28 @@
       "example": "\"Mr Fennimore was most cooperative,\" said Odette."
     },
     {
+      "word": "cope",
+      "pos": "VERB",
+      "translation": "zurechtkommen, bewältigen",
+      "example": "To someone without a face or a name, someone who could not need anything from him, someone who asked questions about herons and lighthouses instead of asking how he was coping."
+    },
+    {
       "word": "copy down",
       "pos": "PHRASE",
       "translation": "abschreiben, notieren",
       "example": "At seven o'clock, when the office was empty, she copied down the address that was printed beneath his photograph."
+    },
+    {
+      "word": "copy out",
+      "pos": "PHRASE",
+      "translation": "abschreiben",
+      "example": "It was written more carefully than usual, as if he had copied it out several times to get it right."
+    },
+    {
+      "word": "Corbridge",
+      "pos": "PROPN",
+      "translation": "Corbridge (Nachname)",
+      "example": "Imogen had walked past it a hundred times without noticing it, because during the day it was just a narrow shop with a faded sign that said CORBRIDGE'S in gold letters."
     },
     {
       "word": "cornish",
@@ -6864,6 +7044,12 @@
       "example": "On the twenty-third of May, in the year of Our Lord 1492, the royal letter was read aloud in the church of San Jorge, and I stood at the back beside my father, who muttered that this was the costliest sermon he had ever sat through."
     },
     {
+      "word": "cowardly",
+      "pos": "ADJ",
+      "translation": "feige",
+      "example": "That was the safe, clever, cowardly point."
+    },
+    {
       "word": "crab",
       "pos": "NOUN",
       "translation": "die Krabbe, der Krebs",
@@ -6892,6 +7078,12 @@
       "pos": "PROPN",
       "translation": "das Credo (Glaubensbekenntnis)",
       "example": "Every evening at dusk, when the glass was turned, the whole crew gathered to recite the Pater Noster, the Ave Maria and the Credo, and to sing the Salve Regina — badly, in our case, for sailors are no choirboys."
+    },
+    {
+      "word": "creepy",
+      "pos": "ADJ",
+      "translation": "gruselig, unheimlich",
+      "example": "Before, it was romantic and slightly creepy."
     },
     {
       "word": "Cristóbal",
@@ -6934,6 +7126,12 @@
       "pos": "NOUN",
       "translation": "die Korinthe, die Rosine",
       "example": "It was yellow inside and full of currants, and it was the best thing they had ever eaten."
+    },
+    {
+      "word": "curse",
+      "pos": "NOUN",
+      "translation": "Fluch",
+      "example": "Her flatmate Hattie called it \"the curse\"."
     },
     {
       "word": "custom",
@@ -10464,6 +10662,12 @@
       "example": "Margaret said she was collecting old Christmas decorations for the church."
     },
     {
+      "word": "dedication",
+      "pos": "NOUN",
+      "translation": "Widmung",
+      "example": "He turned the manuscript round so that she could see the dedication on the second page, the one she had typed at a quarter to midnight on New Year's Eve: For the non-believer in ghosts, and for Halloran."
+    },
+    {
       "word": "deep",
       "pos": "ADJ",
       "translation": "tief",
@@ -10618,6 +10822,12 @@
       "pos": "VERB",
       "translation": "verlangen, fordern",
       "example": "The words pressed against the inside of his teeth, demanding to be let out."
+    },
+    {
+      "word": "demanding",
+      "pos": "ADJ",
+      "translation": "anspruchsvoll",
+      "example": "Or a very demanding cat."
     },
     {
       "word": "dense",
@@ -10872,6 +11082,12 @@
       "example": "Not how our symptoms were developing — how we felt."
     },
     {
+      "word": "development",
+      "pos": "NOUN",
+      "translation": "Entwicklung",
+      "example": "That's character development."
+    },
+    {
       "word": "devil",
       "pos": "NOUN",
       "translation": "der Teufel („Devil’s Teeth“: die Teufelszähne, Felsen)",
@@ -11020,6 +11236,12 @@
       "pos": "ADJ",
       "translation": "digital",
       "example": "The headmistress walked beside him, talking about the importance of digital skills."
+    },
+    {
+      "word": "dignity",
+      "pos": "NOUN",
+      "translation": "Würde",
+      "example": "\"I'm going to look at a bird,\" said Imogen with dignity, and left before Hattie could find her shoes."
     },
     {
       "word": "dim",
@@ -11220,6 +11442,12 @@
       "example": "It said only that the Deputy Director would be grateful, which was almost certainly true, and that her cooperation was greatly appreciated, which, since she had not yet cooperated with anything, was a sentence about the future disguised as a sentence about the present."
     },
     {
+      "word": "disguise",
+      "pos": "NOUN",
+      "translation": "Verkleidung",
+      "example": "Others said he was secretly rich, the son of a Hungarian count, and that the old coat was a disguise."
+    },
+    {
       "word": "disgust",
       "pos": "NOUN",
       "translation": "der Ekel, die Abscheu",
@@ -11308,6 +11536,12 @@
       "pos": "ADJ",
       "translation": "unzufrieden, verärgert",
       "example": "\"She said a great many things.\" Bram held the blade up to the firelight, examined its edge, and seemed displeased with it, though Rowan could see nothing wrong."
+    },
+    {
+      "word": "dissertation",
+      "pos": "NOUN",
+      "translation": "Abschlussarbeit",
+      "example": "You only handed in your first-year dissertation because the office was closing.\""
     },
     {
       "word": "dissolve",
@@ -11640,10 +11874,22 @@
       "example": "A pull, deep down, as if something were rising towards the surface of a dark pool, slow and patient and very old."
     },
     {
+      "word": "downhill",
+      "pos": "ADV",
+      "translation": "bergab",
+      "example": "The first was on a sheet of lined paper torn from a school exercise book, in enormous, untidy capital letters that ran downhill across the page."
+    },
+    {
       "word": "download",
       "pos": "VERB",
       "translation": "herunterladen",
       "example": "I downloaded it."
+    },
+    {
+      "word": "downriver",
+      "pos": "ADV",
+      "translation": "flussabwärts",
+      "example": "Down on the water, Halloran the heron suddenly opened his huge grey wings and rose from his stone, slowly, heavily, and flew away downriver into the mist."
     },
     {
       "word": "Downs",
@@ -12006,6 +12252,12 @@
       "example": "She flicked the droplet into the fire without looking, as casually as someone brushing off a fly."
     },
     {
+      "word": "dropping",
+      "pos": "NOUN",
+      "translation": "das Fallenlassen",
+      "example": "Then she put the glasses down very carefully on the counter, the way people put down things they are afraid of dropping, and hugged her."
+    },
+    {
       "word": "drown",
       "pos": "VERB",
       "translation": "ertrinken („drowning in shadow“: im Schatten versinkend)",
@@ -12228,6 +12480,18 @@
       "example": "Sometimes, when the runner made a big jump, he felt his own legs twitch under the duvet."
     },
     {
+      "word": "dvd",
+      "pos": "NOUN",
+      "translation": "DVD",
+      "example": "Imogen was at the desk, sorting a pile of returned DVDs that nobody had watched since 2009."
+    },
+    {
+      "word": "dye",
+      "pos": "VERB",
+      "translation": "färben",
+      "example": "She had written to him that evening about the time her grandmother had accidentally dyed the family poodle pink."
+    },
+    {
       "word": "dyke",
       "pos": "NOUN",
       "translation": "(Schottland) die Feldmauer; der Deich",
@@ -12420,6 +12684,12 @@
       "example": "Bram stripped the fallen oak with short, economical strokes while Rowan dragged the branches to the pile and sorted them by thickness: kindling, fencing, firewood, nothing wasted."
     },
     {
+      "word": "economist",
+      "pos": "NOUN",
+      "translation": "Ökonom",
+      "example": "Third floor, by the radiators, with all the economists."
+    },
+    {
       "word": "economy",
       "pos": "NOUN",
       "translation": "die Wirtschaft",
@@ -12450,6 +12720,12 @@
       "example": "For three days the wind failed us and we lay becalmed within sight of the islands, which was a cruelty of its own; then, on Sunday the ninth, the breeze freshened, and by evening the last peak of El Hierro had sunk beneath the horizon."
     },
     {
+      "word": "eldest",
+      "pos": "ADJ",
+      "translation": "älteste",
+      "example": "The following Saturday was her eldest sister's thirtieth birthday, and the whole Pryce family was meeting for lunch in Leeds."
+    },
+    {
       "word": "elephant",
       "pos": "NOUN",
       "translation": "der Elefant",
@@ -12460,6 +12736,12 @@
       "pos": "NOUN",
       "translation": "elfter, der Elfte",
       "example": "The eleventh of October was a day of signs that even the most despairing among us could not dismiss."
+    },
+    {
+      "word": "eleventh",
+      "pos": "ADJ",
+      "translation": "elfte",
+      "example": "Here's my question: what is the eleventh novel about?"
     },
     {
       "word": "Elspeth",
@@ -12508,6 +12790,12 @@
       "pos": "NOUN",
       "translation": "die Enzyklopädie",
       "example": "He came and sat down on a pile of encyclopaedias opposite her."
+    },
+    {
+      "word": "ending",
+      "pos": "NOUN",
+      "translation": "Ende, Schluss",
+      "example": "\"Because I'm embarrassed, and I'd like this story to have a better ending than the one where I'm the idiot."
     },
     {
       "word": "enormously",
@@ -12624,10 +12912,22 @@
       "example": "It was exhausting and, Ione had come to understand, enormously valuable."
     },
     {
+      "word": "exhibition",
+      "pos": "NOUN",
+      "translation": "Ausstellung",
+      "example": "And then she saw him turn to Saskia, who was talking about an exhibition in Newcastle, and ask her something in a low, polite voice."
+    },
+    {
       "word": "expel",
       "pos": "VERB",
       "translation": "vertreiben",
       "example": "In those very days the river mouths were crowded with other vessels, overladen and low in the water, carrying away the Jews whom Their Majesties had expelled from their kingdoms."
+    },
+    {
+      "word": "explosion",
+      "pos": "NOUN",
+      "translation": "Explosion, Knall",
+      "example": "All over the city, people were letting off rockets for Bonfire Night, and every few minutes the tall windows of the reading room flashed green or gold or red, and the old man with the crosswords tutted loudly at each explosion."
     },
     {
       "word": "express",
@@ -12646,6 +12946,12 @@
       "pos": "NOUN",
       "translation": "der Jubel",
       "example": "I had expected to feel exultation."
+    },
+    {
+      "word": "faded",
+      "pos": "ADJ",
+      "translation": "verblasst, verblichen",
+      "example": "Imogen had walked past it a hundred times without noticing it, because during the day it was just a narrow shop with a faded sign that said CORBRIDGE'S in gold letters."
     },
     {
       "word": "fair",
@@ -12726,6 +13032,12 @@
       "example": "Jack Trevaskis played the fiddle, and Walter played his harmonica, and Miss Treloar taught Sam and Billy an old Cornish dance."
     },
     {
+      "word": "fifteen",
+      "pos": "ADJ",
+      "translation": "fünfzehn",
+      "example": "I've started eleven novels since I was fifteen."
+    },
+    {
       "word": "fifteenth",
       "pos": "NOUN",
       "translation": "fünfzehnter („the fifteenth“: der Fünfzehnte des Monats)",
@@ -12798,6 +13110,12 @@
       "example": "They had sailed to Guinea, to the Azores, to Flanders, but always along known routes, with the comfort of a coast somewhere off the beam."
     },
     {
+      "word": "flatmate",
+      "pos": "NOUN",
+      "translation": "Mitbewohnerin",
+      "example": "Her flatmate Hattie called it \"the curse\"."
+    },
+    {
       "word": "flavour",
       "pos": "VERB",
       "translation": "würzen („flavoured with“: gefärbt von)",
@@ -12858,6 +13176,12 @@
       "example": "It had been cloud, as it so often is, for the sea at sunset is a great forger of coastlines."
     },
     {
+      "word": "formally",
+      "pos": "ADV",
+      "translation": "förmlich, formell",
+      "example": "He held out his hand across the table, formally, like someone meeting a stranger at a party."
+    },
+    {
       "word": "former",
       "pos": "ADJ",
       "translation": "ehemalig, früher",
@@ -12868,6 +13192,12 @@
       "pos": "NOUN",
       "translation": "die Formel",
       "example": "There were numbers, chemical formulas, diagrams of molecules, and between them, line after line of strange, broken sentences."
+    },
+    {
+      "word": "foster",
+      "pos": "ADJ",
+      "translation": "Pflege- (Pflegefamilie)",
+      "example": "\"Social services wanted to put the little one with a foster family,\" Mr Corbridge went on."
     },
     {
       "word": "foul",
@@ -12910,6 +13240,18 @@
       "pos": "ADJ",
       "translation": "gerahmt",
       "example": "There was a desk with nothing on it, two chairs, and on the wall behind the desk, a framed copy of the oath that every new employee of the Bureau had to recite on their first day."
+    },
+    {
+      "word": "fraud",
+      "pos": "NOUN",
+      "translation": "Betrügerin, Schwindlerin",
+      "example": "Go up to his table and say, 'Hello, I'm the real one, she's a fraud, here's my library card.'\""
+    },
+    {
+      "word": "frequent",
+      "pos": "ADJ",
+      "translation": "häufig",
+      "example": "She noticed things she had missed the first time: how his sentences grew longer as the weeks passed, how the jokes became more frequent, how he had started, without either of them commenting on it, to sign off each note with a small drawing of a heron."
     },
     {
       "word": "freshen",
@@ -13026,6 +13368,12 @@
       "example": "It was a short, genuine laugh, the first natural sound Ione had heard her make."
     },
     {
+      "word": "german",
+      "pos": "ADJ",
+      "translation": "deutsch",
+      "example": "She put a book about Roman Britain on the shelf for German poetry."
+    },
+    {
       "word": "gifted",
       "pos": "ADJ",
       "translation": "begabt",
@@ -13036,6 +13384,24 @@
       "pos": "PROPN",
       "translation": "Gloria (lateinisch: Ehre, „Gloria in excelsis Deo“)",
       "example": "On our deck, the Admiral fell to his knees and gave thanks to God, while Martín Alonso and his people sang the Gloria in excelsis Deo, and the men of all three ships swarmed up the rigging to look."
+    },
+    {
+      "word": "glue",
+      "pos": "VERB",
+      "translation": "kleben",
+      "example": "\"And because Mr Pemberton needs help with his glue."
+    },
+    {
+      "word": "god",
+      "pos": "INTJ",
+      "translation": "mein Gott",
+      "example": "\"Oh my God."
+    },
+    {
+      "word": "godmother",
+      "pos": "NOUN",
+      "translation": "Patin",
+      "example": "She's like a fairy godmother with a stopwatch.\""
     },
     {
       "word": "Gomera",
@@ -13086,6 +13452,12 @@
       "example": "Your cooperation is greatly appreciated."
     },
     {
+      "word": "greeting",
+      "pos": "NOUN",
+      "translation": "Gruß",
+      "example": "He told Alfie to go and say good morning to Halloran, and Alfie ran to the parapet and leaned over it as far as he dared, shouting greetings down at the heron, who ignored him completely."
+    },
+    {
       "word": "grind",
       "pos": "VERB",
       "translation": "knirschen, mahlen",
@@ -13096,6 +13468,12 @@
       "pos": "PHRASE",
       "translation": "herauswachsen, nachwachsen",
       "example": "At his thin, tired face, and his dark eyes, and the hair that somebody had cut too short for Candour Day and that was beginning, at last, to grow out again."
+    },
+    {
+      "word": "grown",
+      "pos": "NOUN",
+      "translation": "Erwachsener (« grown-up »)",
+      "example": "He told her about the night she died, and how Alfie had asked him, the next morning, whether he was going to leave too, because that was what grown-ups did."
     },
     {
       "word": "grudge",
@@ -13140,6 +13518,12 @@
       "example": "Here is the irony, which I savour in my old age: the Admiral habitually overestimated our speed, so that the false figures he gave us were in truth closer to the mark than those he guarded so jealously."
     },
     {
+      "word": "guiltily",
+      "pos": "ADV",
+      "translation": "schuldbewusst",
+      "example": "Imogen thought guiltily of the question she had asked in her last note, about the person holding his hand under the bridge, and said nothing."
+    },
+    {
       "word": "Guinea",
       "pos": "PROPN",
       "translation": "Guinea (Küste Westafrikas)",
@@ -13176,10 +13560,22 @@
       "example": "Whales were sighted, and boobies, and terns, and every bird that crossed our wake was hailed as a messenger from some nearby coast."
     },
     {
+      "word": "Halloran",
+      "pos": "PROPN",
+      "translation": "Halloran (Nachname)",
+      "example": "Halloran, and it had been printed in 1931."
+    },
+    {
       "word": "Halvey",
       "pos": "PROPN",
       "translation": "Halvey (Nachname von Ione)",
       "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
+    },
+    {
+      "word": "hamster",
+      "pos": "NOUN",
+      "translation": "Hamster",
+      "example": "He has chosen the shortest book in the school library, which is about a hamster, and he says it's the worst thing that has ever happened to him."
     },
     {
       "word": "handsome",
@@ -13210,6 +13606,18 @@
       "pos": "VERB",
       "translation": "beschleunigen, eilen",
       "example": "But the Admiral believed in them, and it hastened our departure."
+    },
+    {
+      "word": "hatred",
+      "pos": "NOUN",
+      "translation": "Hass",
+      "example": "Imogen hated her with a pure, simple hatred that she was not proud of."
+    },
+    {
+      "word": "Hattie",
+      "pos": "PROPN",
+      "translation": "Hattie (weiblicher Vorname)",
+      "example": "Her flatmate Hattie called it \"the curse\"."
     },
     {
       "word": "hawk",
@@ -13278,6 +13686,18 @@
       "example": "For three days the wind failed us and we lay becalmed within sight of the islands, which was a cruelty of its own; then, on Sunday the ninth, the breeze freshened, and by evening the last peak of El Hierro had sunk beneath the horizon."
     },
     {
+      "word": "hilarious",
+      "pos": "ADJ",
+      "translation": "urkomisch",
+      "example": "The head librarian was drinking tea from a mug that said WORLD'S MOST PATIENT WOMAN, a present from her husband that she claimed to find hilarious."
+    },
+    {
+      "word": "hobby",
+      "pos": "NOUN",
+      "translation": "Hobby",
+      "example": "It's their main hobby.\""
+    },
+    {
       "word": "honour",
       "pos": "VERB",
       "translation": "ehren",
@@ -13314,6 +13734,18 @@
       "example": "She went instead to Pennick's, a narrow place on Weaver's Row with green tiles on the walls and a counter made from the hull of an old boat."
     },
     {
+      "word": "humanity",
+      "pos": "NOUN",
+      "translation": "Menschheit",
+      "example": "Hattie had told her that this was a crime against humanity."
+    },
+    {
+      "word": "hungarian",
+      "pos": "ADJ",
+      "translation": "ungarisch",
+      "example": "Others said he was secretly rich, the son of a Hungarian count, and that the old coat was a disguise."
+    },
+    {
       "word": "hunt",
       "pos": "NOUN",
       "translation": "die Jagd, die Suche („treasure hunt“: Schatzsuche)",
@@ -13342,6 +13774,12 @@
       "pos": "NOUN",
       "translation": "die Krankheit",
       "example": "There had been rumours in the newspapers for weeks — small, carefully phrased stories about a research institute on the coast, and illnesses among its volunteers, and the Bureau's \"ongoing review\"."
+    },
+    {
+      "word": "Imogen",
+      "pos": "PROPN",
+      "translation": "Imogen (weiblicher Vorname)",
+      "example": "Every evening at six o'clock, when most students were heading back to their halls for dinner, Imogen Pryce walked the other way."
     },
     {
       "word": "impossibility",
@@ -13440,10 +13878,22 @@
       "example": "On this first voyage he sent two men inland to seek out the Great Khan's court: Rodrigo de Jerez, of Ayamonte, and Luis de Torres, a converted Jew who knew Hebrew, Chaldean and some Arabic, for the Admiral reasoned that an Oriental prince would surely keep such learned men about him."
     },
     {
+      "word": "innocence",
+      "pos": "NOUN",
+      "translation": "Unschuld",
+      "example": "Saskia was standing there with a pile of art books and an expression of great innocence."
+    },
+    {
       "word": "inquiry",
       "pos": "NOUN",
       "translation": "die Untersuchung",
       "example": "The inquiry lasted for most of the following year."
+    },
+    {
+      "word": "insane",
+      "pos": "ADJ",
+      "translation": "verrückt, wahnsinnig",
+      "example": "\"That's insane."
     },
     {
       "word": "inspection",
@@ -13482,6 +13932,12 @@
       "example": "She knew, as every phraser knew, that the most dangerous thing in an interrogation was not a hard question but a simple one, because simple questions left so little room to move."
     },
     {
+      "word": "interruption",
+      "pos": "NOUN",
+      "translation": "Unterbrechung",
+      "example": "Mrs Dunmore listened without interrupting once, which was more frightening than any interruption could have been."
+    },
+    {
       "word": "invention",
       "pos": "NOUN",
       "translation": "die Erfindung",
@@ -13492,6 +13948,12 @@
       "pos": "NOUN",
       "translation": "der Erfinder",
       "example": "\"Good morning, inventor!\" he said."
+    },
+    {
+      "word": "invitation",
+      "pos": "NOUN",
+      "translation": "Einladung",
+      "example": "And it was, she realised slowly, an invitation."
     },
     {
       "word": "involve",
@@ -13698,10 +14160,28 @@
       "example": "Under them, she found some leeks, thin and green but still alive."
     },
     {
+      "word": "let down",
+      "pos": "PHRASE",
+      "translation": "im Stich lassen, enttäuschen",
+      "example": "Halloran had spent a winter alone in a fishing village on the Northumberland coast after the death of his wife, and he wrote about the sea as if it were a person who had let him down."
+    },
+    {
+      "word": "let off",
+      "pos": "PHRASE",
+      "translation": "abfeuern, zünden",
+      "example": "All over the city, people were letting off rockets for Bonfire Night, and every few minutes the tall windows of the reading room flashed green or gold or red, and the old man with the crosswords tutted loudly at each explosion."
+    },
+    {
       "word": "lettuce",
       "pos": "NOUN",
       "translation": "der Salat",
       "example": "In the vegetable beds, there were new rows of green shoots: peas, onions, lettuces, which Lily planted with seeds from the village shop."
+    },
+    {
+      "word": "level",
+      "pos": "ADJ",
+      "translation": "auf gleicher Höhe",
+      "example": "Imogen crouched down so that her face was level with his."
     },
     {
       "word": "lever",
@@ -13734,6 +14214,12 @@
       "example": "A young man in a grey suit met her in the marble entrance hall and led her up three flights of stairs and along a corridor lined with portraits of former directors."
     },
     {
+      "word": "lined",
+      "pos": "ADJ",
+      "translation": "liniert",
+      "example": "The first was on a sheet of lined paper torn from a school exercise book, in enormous, untidy capital letters that ran downhill across the page."
+    },
+    {
       "word": "linger",
       "pos": "VERB",
       "translation": "verweilen, trödeln",
@@ -13756,6 +14242,12 @@
       "pos": "NOUN",
       "translation": "der Zuhörer, die Zuhörerin",
       "example": "Two true facts, placed side by side, so that the listener would join them together."
+    },
+    {
+      "word": "literature",
+      "pos": "NOUN",
+      "translation": "Literatur",
+      "example": "She was twenty, in her second year of English Literature, and she had a talent for noticing things that other people missed."
     },
     {
       "word": "live",
@@ -13830,6 +14322,12 @@
       "example": "On this first voyage he sent two men inland to seek out the Great Khan's court: Rodrigo de Jerez, of Ayamonte, and Luis de Torres, a converted Jew who knew Hebrew, Chaldean and some Arabic, for the Admiral reasoned that an Oriental prince would surely keep such learned men about him."
     },
     {
+      "word": "Lund",
+      "pos": "PROPN",
+      "translation": "Lund (Nachname)",
+      "example": "Saskia Lund."
+    },
+    {
       "word": "lurid",
       "pos": "ADJ",
       "translation": "grell, reißerisch",
@@ -13840,6 +14338,18 @@
       "pos": "VERB",
       "translation": "lauern",
       "example": "There was talk, too, of Portuguese caravels lurking off the islands with orders to seize us, for King João had never forgiven the Genoese for carrying his scheme to Castile after Lisbon had rejected it."
+    },
+    {
+      "word": "m",
+      "pos": "VERB",
+      "translation": "bin (verkürzte Form von „am“: I’m)",
+      "example": "I'm glad someone remembered it.\""
+    },
+    {
+      "word": "m.",
+      "pos": "VERB",
+      "translation": "M. (Initiale des Vornamens des Schriftstellers)",
+      "example": "M."
     },
     {
       "word": "madam",
@@ -13882,6 +14392,12 @@
       "pos": "NOUN",
       "translation": "der Hersteller",
       "example": "She had three other jobs waiting: a letter of apology for a hotel chain, a speech for a retiring judge, and the label for a new brand of breakfast cereal that contained, according to the manufacturer's own laboratory, \"slightly more than nothing of real nutritional value\"."
+    },
+    {
+      "word": "manuscript",
+      "pos": "NOUN",
+      "translation": "Manuskript",
+      "example": "He looked down at the manuscript, at the title page and the words underneath it, and then back up at her, and his whole face did the thing she had seen in the bakery: it lit up from somewhere far behind, like a window at night."
     },
     {
       "word": "maravedí",
@@ -13980,6 +14496,12 @@
       "example": "At last, on the fifteenth of March 1493, we crossed the bar of Saltés at midday and came home to Palos, seven months and twelve days after we had left it."
     },
     {
+      "word": "Middlemarch",
+      "pos": "PROPN",
+      "translation": "Middlemarch (Roman von George Eliot)",
+      "example": "\"Absolutely not,\" said Imogen, and she went to her room to read Middlemarch, and she did not think about him at all, except for most of the evening."
+    },
+    {
       "word": "milky",
       "pos": "ADJ",
       "translation": "milchig",
@@ -14008,6 +14530,12 @@
       "pos": "VERB",
       "translation": "falsch beschreiben",
       "example": "\"A client you misdescribed?\""
+    },
+    {
+      "word": "miserable",
+      "pos": "ADJ",
+      "translation": "elend, unglücklich",
+      "example": "He looked absolutely miserable."
     },
     {
       "word": "misleading",
@@ -14100,6 +14628,12 @@
       "example": "Your mother was murdered."
     },
     {
+      "word": "murder",
+      "pos": "NOUN",
+      "translation": "Mord",
+      "example": "You look like someone who's come to confess to a murder.\""
+    },
+    {
       "word": "musician",
       "pos": "NOUN",
       "translation": "der Musiker, die Musikerin",
@@ -14190,6 +14724,18 @@
       "example": "I watched Peralonso Niño, our pilot, rap the compass box with his knuckles as if he could knock some sense into it."
     },
     {
+      "word": "non",
+      "pos": "NOUN",
+      "translation": "Nicht- (Verneinungspräfix)",
+      "example": "\"Dear non-believer in ghosts."
+    },
+    {
+      "word": "Northumberland",
+      "pos": "PROPN",
+      "translation": "Northumberland (Grafschaft im Norden Englands)",
+      "example": "Halloran had spent a winter alone in a fishing village on the Northumberland coast after the death of his wife, and he wrote about the sea as if it were a person who had let him down."
+    },
+    {
       "word": "northwest",
       "pos": "NOUN",
       "translation": "der Nordwesten",
@@ -14200,6 +14746,12 @@
       "pos": "PROPN",
       "translation": "Noster (lateinisch: „unser“, „Pater Noster“: Vaterunser)",
       "example": "Every evening at dusk, when the glass was turned, the whole crew gathered to recite the Pater Noster, the Ave Maria and the Credo, and to sing the Salve Regina — badly, in our case, for sailors are no choirboys."
+    },
+    {
+      "word": "nosy",
+      "pos": "ADJ",
+      "translation": "neugierig, aufdringlich",
+      "example": "I'm here because I'm nosy,\" said Saskia cheerfully."
     },
     {
       "word": "notary",
@@ -14304,6 +14856,12 @@
       "example": "There had been rumours in the newspapers for weeks — small, carefully phrased stories about a research institute on the coast, and illnesses among its volunteers, and the Bureau's \"ongoing review\"."
     },
     {
+      "word": "onwards",
+      "pos": "ADV",
+      "translation": "ab, weiter",
+      "example": "Page sixty-four onwards is your fault.\""
+    },
+    {
       "word": "ooh",
       "pos": "INTJ",
       "translation": "oh, ooh (Ausruf der Bewunderung oder Überraschung)",
@@ -14364,6 +14922,12 @@
       "example": "Before many days had passed, one of them leapt overboard and paddled away for his life."
     },
     {
+      "word": "overdue",
+      "pos": "ADJ",
+      "translation": "überfällig",
+      "example": "She made herself sit at the computer and update the list of overdue loans, which was long and depressing and took her the whole evening."
+    },
+    {
       "word": "overestimate",
       "pos": "VERB",
       "translation": "überschätzen",
@@ -14380,6 +14944,18 @@
       "pos": "VERB",
       "translation": "überstimmen („overruled“: überstimmt)",
       "example": "Who argued to stop the trial and was overruled."
+    },
+    {
+      "word": "own up",
+      "pos": "PHRASE",
+      "translation": "gestehen, zugeben",
+      "example": "\"And then she owned up and gave you a deadline."
+    },
+    {
+      "word": "Oxford",
+      "pos": "PROPN",
+      "translation": "Oxford (Stadt)",
+      "example": "Some people said he had been thrown out of Oxford."
     },
     {
       "word": "pace",
@@ -14418,6 +14994,12 @@
       "example": "She went inside, to a counter piled high with paperbacks, behind which sat an elderly man with a cat on his lap."
     },
     {
+      "word": "parapet",
+      "pos": "NOUN",
+      "translation": "Brüstung",
+      "example": "He told Alfie to go and say good morning to Halloran, and Alfie ran to the parapet and leaned over it as far as he dared, shouting greetings down at the heron, who ignored him completely."
+    },
+    {
       "word": "parchment",
       "pos": "NOUN",
       "translation": "das Pergament",
@@ -14434,6 +15016,12 @@
       "pos": "NOUN",
       "translation": "die Pfarrei",
       "example": "He dressed soberly, almost like a friar, and indeed he kept the rule of a pious man more strictly than our parish priest: he fasted on the appointed days, recited the canonical hours, and the strongest oath I ever heard pass his lips was \"by San Fernando\"."
+    },
+    {
+      "word": "parked",
+      "pos": "ADJ",
+      "translation": "geparkt",
+      "example": "The cold was the sharp, clean kind that makes your nose hurt, and frost had turned the parked cars silver."
     },
     {
       "word": "parliament",
@@ -14466,6 +15054,12 @@
       "example": "I'm Mrs Pascoe."
     },
     {
+      "word": "passion",
+      "pos": "NOUN",
+      "translation": "Leidenschaft",
+      "example": "Imogen had pointed out that she had walked to the river at six on two occasions recently, and Hattie had said that those had been crimes of passion, which was different."
+    },
+    {
       "word": "password",
       "pos": "NOUN",
       "translation": "das Passwort",
@@ -14496,6 +15090,12 @@
       "example": "She sat at her desk on the fourth floor of Peel & Ashgrove, a cup of cold tea at her elbow and the engineers' report open in front of her."
     },
     {
+      "word": "Pemberton",
+      "pos": "PROPN",
+      "translation": "Pemberton (Nachname)",
+      "example": "\"And because Mr Pemberton needs help with his glue."
+    },
+    {
       "word": "penance",
       "pos": "NOUN",
       "translation": "die Buße",
@@ -14506,6 +15106,12 @@
       "pos": "ADP",
       "translation": "bis zu, in Erwartung von",
       "example": "\"And while I'm asking them, I'm afraid Nurse Osei will be suspended from Lantry General Hospital, pending an inquiry into her unauthorised entry into a restricted ward."
+    },
+    {
+      "word": "penguin",
+      "pos": "NOUN",
+      "translation": "Pinguin",
+      "example": "At twenty past five, Hattie appeared in the kitchen doorway in a dressing gown covered in pictures of penguins, with her eyes half shut."
     },
     {
       "word": "Penzance",
@@ -14610,6 +15216,12 @@
       "example": "Sam found a broom and fought the cobwebs, shouting like a pirate."
     },
     {
+      "word": "please",
+      "pos": "VERB",
+      "translation": "bitte",
+      "example": "I warn you that he is very difficult to please.\""
+    },
+    {
       "word": "Plymouth",
       "pos": "PROPN",
       "translation": "Plymouth (Hafenstadt im Südwesten Englands)",
@@ -14644,6 +15256,12 @@
       "pos": "PROPN",
       "translation": "Polo („Marco Polo“: venezianischer Entdecker)",
       "example": "From that moment the voyage became a hunt from island to island, the Admiral persuaded at every turn that Cipango, the land of gold described by Marco Polo, lay just over the horizon."
+    },
+    {
+      "word": "poodle",
+      "pos": "NOUN",
+      "translation": "Pudel",
+      "example": "She had written to him that evening about the time her grandmother had accidentally dyed the family poodle pink."
     },
     {
       "word": "poop",
@@ -14688,6 +15306,12 @@
       "example": "Outside, the light poured down on Weaver's Row and turned the cobbles gold."
     },
     {
+      "word": "Prebends",
+      "pos": "PROPN",
+      "translation": "Prebends (Bridge, Brücke in Durham)",
+      "example": "Under Prebends Bridge, there's a heron who stands on the same flat stone in the water every day, whatever the weather."
+    },
+    {
       "word": "predictable",
       "pos": "ADJ",
       "translation": "vorhersehbar",
@@ -14728,6 +15352,12 @@
       "pos": "NOUN",
       "translation": "das Prinzip",
       "example": "The Bureau remained fully committed to the principle on which the nation was built: that nothing should be said but what is so."
+    },
+    {
+      "word": "print out",
+      "pos": "PHRASE",
+      "translation": "ausdrucken",
+      "example": "On Sunday, she printed out her novel at the twenty-four-hour shop on the corner."
     },
     {
       "word": "proclaim",
@@ -14796,10 +15426,28 @@
       "example": "Characteristically, he responded not by softening but by marshalling arguments: when a contrary wind blew from the west, he declared it providential, for it proved that winds here blew both ways and we could return."
     },
     {
+      "word": "pryce",
+      "pos": "NOUN",
+      "translation": "pryce (Nachname)",
+      "example": "Every evening at six o'clock, when most students were heading back to their halls for dinner, Imogen Pryce walked the other way."
+    },
+    {
+      "word": "Pryce",
+      "pos": "PROPN",
+      "translation": "Pryce (Nachname)",
+      "example": "Every evening at six o'clock, when most students were heading back to their halls for dinner, Imogen Pryce walked the other way."
+    },
+    {
       "word": "public",
       "pos": "NOUN",
       "translation": "die Öffentlichkeit",
       "example": "\"The public does not need to be frightened by stories of mad scientists trying to break the most fundamental law of human nature,\" said Odette."
+    },
+    {
+      "word": "pudding",
+      "pos": "NOUN",
+      "translation": "Pudding, Nachtisch",
+      "example": "She wrote through Christmas Eve and through the long, noisy lunch on Christmas Day, escaping upstairs between the turkey and the pudding."
     },
     {
       "word": "puzzlement",
@@ -15036,6 +15684,18 @@
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
     },
     {
+      "word": "reserve",
+      "pos": "VERB",
+      "translation": "reservieren, vormerken",
+      "example": "He brought a pencil, a notebook with a black cover, and whatever books he had reserved that week."
+    },
+    {
+      "word": "reserved",
+      "pos": "ADJ",
+      "translation": "reserviert, vorbestellt",
+      "example": "He brought a pencil, a notebook with a black cover, and whatever books he had reserved that week."
+    },
+    {
       "word": "respond",
       "pos": "VERB",
       "translation": "antworten, reagieren",
@@ -15126,6 +15786,12 @@
       "example": "The fishing boats rocked at their moorings, and the harbour lights were going out one by one."
     },
     {
+      "word": "rocket",
+      "pos": "NOUN",
+      "translation": "Rakete",
+      "example": "All over the city, people were letting off rockets for Bonfire Night, and every few minutes the tall windows of the reading room flashed green or gold or red, and the old man with the crosswords tutted loudly at each explosion."
+    },
+    {
       "word": "Rodrigo",
       "pos": "PROPN",
       "translation": "Rodrigo (männlicher Vorname)",
@@ -15138,10 +15804,22 @@
       "example": "Two hours after midnight, when the moon had risen astern and was shining on the sea ahead, a sailor of the Pinta named Juan Rodríguez Bermejo, a man from Triana whom we knew as Rodrigo de Triana, saw a pale line of shore gleaming in the moonlight some two leagues off, and cried out: \"Tierra!"
     },
     {
+      "word": "Roman",
+      "pos": "PROPN",
+      "translation": "römisch (Roman Britain = Römisches Britannien)",
+      "example": "She put a book about Roman Britain on the shelf for German poetry."
+    },
+    {
       "word": "romance",
       "pos": "NOUN",
       "translation": "der Liebesroman",
       "example": "Inside, wrapped in brown paper, was a cheap paperback novel with a lurid cover — a romance, of the kind sold in railway stations, called Love on the Lighthouse."
+    },
+    {
+      "word": "romantic",
+      "pos": "ADJ",
+      "translation": "romantisch",
+      "example": "\"That,\" she said at last, \"is either the most romantic thing I've ever heard or the creepiest."
     },
     {
       "word": "rooted",
@@ -15180,6 +15858,12 @@
       "example": "Old Mrs Rowe, who was ninety-two and almost blind, told her granddaughter what to write."
     },
     {
+      "word": "rub out",
+      "pos": "PHRASE",
+      "translation": "ausradieren",
+      "example": "She wrote it on proper paper this time, not on a bookmark, in blue ink instead of pencil, so that she could not rub anything out."
+    },
+    {
       "word": "rudder",
       "pos": "NOUN",
       "translation": "das Ruder",
@@ -15190,6 +15874,12 @@
       "pos": "ADJ",
       "translation": "rötlich, gerötet",
       "example": "His complexion was ruddy, as though weathered by a lifetime of salt wind, and his hair, which they said had been fair in his youth, had turned entirely white, although he could not have been much past forty."
+    },
+    {
+      "word": "rude",
+      "pos": "NOUN",
+      "translation": "unhöflich, frech",
+      "example": "THIS ONE HAS A MAP AND A VERY RUDE GRANDMOTHER."
     },
     {
       "word": "rule",
@@ -15312,6 +16002,12 @@
       "example": "It was around this time that I heard, from a clerk who had seen the papers, what the Genoese had wrung from Their Majesties at Santa Fe before consenting to sail."
     },
     {
+      "word": "Saskia",
+      "pos": "PROPN",
+      "translation": "Saskia (weiblicher Vorname)",
+      "example": "Saskia Lund."
+    },
+    {
       "word": "satisfy",
       "pos": "VERB",
       "translation": "zufriedenstellen („self-satisfied“: selbstzufrieden)",
@@ -15328,6 +16024,12 @@
       "pos": "VERB",
       "translation": "auskosten",
       "example": "Here is the irony, which I savour in my old age: the Admiral habitually overestimated our speed, so that the false figures he gave us were in truth closer to the mark than those he guarded so jealously."
+    },
+    {
+      "word": "scanned",
+      "pos": "ADJ",
+      "translation": "eingescannt",
+      "example": "Four evenings a week, from six until ten, Imogen sat behind the returns desk, scanned books, answered questions and tried very hard not to fall asleep."
     },
     {
       "word": "scheme",
@@ -15546,6 +16248,18 @@
       "example": "On the twenty-third of May, in the year of Our Lord 1492, the royal letter was read aloud in the church of San Jorge, and I stood at the back beside my father, who muttered that this was the costliest sermon he had ever sat through."
     },
     {
+      "word": "situation",
+      "pos": "NOUN",
+      "translation": "Situation",
+      "example": "But there was a particular kind of situation that turned her into a statue: when something mattered to her and she had no idea how it would end."
+    },
+    {
+      "word": "sixty",
+      "pos": "NOUN",
+      "translation": "sechzig",
+      "example": "\"Page sixty-three."
+    },
+    {
       "word": "slander",
       "pos": "NOUN",
       "translation": "die Verleumdung",
@@ -15562,6 +16276,18 @@
       "pos": "NOUN",
       "translation": "die Armschlinge",
       "example": "Walter came to visit every day, with his arm in a white sling and Biscuit at his heels."
+    },
+    {
+      "word": "slope",
+      "pos": "VERB",
+      "translation": "sich neigen",
+      "example": "But underneath it, in pencil, there were new words, written in a hand that sloped to the right as if it were walking into a strong wind."
+    },
+    {
+      "word": "slush",
+      "pos": "NOUN",
+      "translation": "Schneematsch",
+      "example": "By morning it had turned to grey slush in the gutters, and the cathedral roof was shining wet in a thin winter sun."
     },
     {
       "word": "sly",
@@ -15642,6 +16368,12 @@
       "example": "Then, after a few months, a few of us began to — not speak, exactly, but stammer."
     },
     {
+      "word": "stapler",
+      "pos": "NOUN",
+      "translation": "Tacker, Hefter",
+      "example": "Imogen pretended to be very interested in a broken stapler."
+    },
+    {
       "word": "Star",
       "pos": "PROPN",
       "translation": "Star („Pole Star“: der Polarstern)",
@@ -15666,6 +16398,12 @@
       "example": "It said, in essence, that nothing a phraser learned in the course of preparing a statement for a client could be demanded from them by anyone else — not by the police, not by a court, and not by any department of the state."
     },
     {
+      "word": "statue",
+      "pos": "NOUN",
+      "translation": "Statue",
+      "example": "But there was a particular kind of situation that turned her into a statue: when something mattered to her and she had no idea how it would end."
+    },
+    {
       "word": "steady",
       "pos": "VERB",
       "translation": "stabilisieren",
@@ -15684,10 +16422,22 @@
       "example": "Lucan bought two tickets and led Ione to the stern, where the noise of the engine was loudest."
     },
     {
+      "word": "stern",
+      "pos": "ADJ",
+      "translation": "streng",
+      "example": "Alfie turned and looked at Theo with the stern, disappointed look of a twelve-year-old who has decided that the adults are being idiots."
+    },
+    {
       "word": "sterncastle",
       "pos": "NOUN",
       "translation": "das Heckkastell",
       "example": "At about ten o'clock that night the Admiral, standing on the sterncastle, saw — or believed he saw — a light far ahead, like a little wax candle rising and falling."
+    },
+    {
+      "word": "sting",
+      "pos": "VERB",
+      "translation": "brennen, stechen",
+      "example": "Her eyes were stinging, and she hoped he would think it was the cold."
     },
     {
       "word": "Stop",
@@ -15720,6 +16470,12 @@
       "example": "On the long curve of sand beneath the cliffs, at the place where the old harbour wall ran down into the sea, that everyone in the town called Harrow Strand."
     },
     {
+      "word": "strict",
+      "pos": "ADJ",
+      "translation": "streng",
+      "example": "They were the hours of someone with a very strict life, or a very empty one, and she could not tell which."
+    },
+    {
       "word": "subjection",
       "pos": "NOUN",
       "translation": "die Unterwerfung",
@@ -15748,6 +16504,12 @@
       "pos": "VERB",
       "translation": "herbeirufen, vorladen",
       "example": "Instead he quietly summoned Pero Gutiérrez, a gentleman of the King's household who was sailing with us, and asked whether he saw it too."
+    },
+    {
+      "word": "Sunderland",
+      "pos": "PROPN",
+      "translation": "Sunderland (Stadt)",
+      "example": "He told her about his mother, who had been a nurse in Sunderland and had sung in the car and had made the worst shepherd's pie in the north of England."
     },
     {
       "word": "sunlight",
@@ -15840,6 +16602,12 @@
       "example": "Then the Admiral called Rodrigo Sánchez of Segovia, the royal inspector sent to keep account of Their Majesties' interests, and Sánchez looked and saw nothing, because, as the Admiral explained, he was not standing where it could be seen."
     },
     {
+      "word": "tablecloth",
+      "pos": "NOUN",
+      "translation": "Tischdecke",
+      "example": "Her mother asked three times what she was going to do with an English degree, and her eldest sister cried during the speeches, and her middle sister spilt red wine on the tablecloth and blamed the waiter."
+    },
+    {
       "word": "Tallow",
       "pos": "PROPN",
       "translation": "Tallow („Tallow Reach“: Lagerhausviertel nahe den Docks von Lantry)",
@@ -15900,6 +16668,12 @@
       "example": "I am an old man now, and the sea that once seemed to me the very edge of creation has shrunk, in the telling, to a tavern anecdote."
     },
     {
+      "word": "temporary",
+      "pos": "ADJ",
+      "translation": "vorübergehend",
+      "example": "Then she did something that she would later describe to Hattie as \"temporary madness\" and to herself, much later, as the bravest thing she had ever done."
+    },
+    {
       "word": "Tenerife",
       "pos": "PROPN",
       "translation": "Teneriffa (Kanareninsel)",
@@ -15924,10 +16698,22 @@
       "example": "They returned after several days, having found a village of palm-thatched houses, hospitable people and no Khan whatsoever."
     },
     {
+      "word": "Theo",
+      "pos": "PROPN",
+      "translation": "Theo (männlicher Vorname)",
+      "example": "Hattie, who had a theory about everything, was convinced that he was a vampire."
+    },
+    {
       "word": "therefore",
       "pos": "ADV",
       "translation": "deshalb, daher",
       "example": "Some lost their memory, and therefore said false things without knowing they were false — the Stop, after all, only prevented you from saying what you believed to be untrue."
+    },
+    {
+      "word": "think through",
+      "pos": "PHRASE",
+      "translation": "gründlich durchdenken",
+      "example": "I didn't think it through."
     },
     {
       "word": "third",
@@ -15940,6 +16726,12 @@
       "pos": "NOUN",
       "translation": "dreizehnter",
       "example": "On the evening of the thirteenth of September, and again on the nights that followed, they observed that the compass needles no longer pointed true to the Pole Star, but swung a full point or more towards the northwest."
+    },
+    {
+      "word": "thirtieth",
+      "pos": "ADJ",
+      "translation": "dreißigste",
+      "example": "The following Saturday was her eldest sister's thirtieth birthday, and the whole Pryce family was meeting for lunch in Leeds."
     },
     {
       "word": "threat",
@@ -15970,6 +16762,12 @@
       "pos": "ADV",
       "translation": "so, auf diese Weise",
       "example": "He reminded us of God's mercy in bringing us thus far, ordered a vigilant watch to be kept from the forecastle, and repeated that whoever first sighted land would receive a silk doublet from his own hand, over and above the annuity of ten thousand maravedís that Their Majesties had promised."
+    },
+    {
+      "word": "ticking",
+      "pos": "NOUN",
+      "translation": "Ticken",
+      "example": "Imogen was aware of every single thing in the room: the song on the radio, the ticking of a clock above the door, the smell of cinnamon, the flour on his cheek."
     },
     {
       "word": "Tierra",
@@ -16012,6 +16810,12 @@
       "pos": "NOUN",
       "translation": "tack („tick, tock“: Ticken der Uhr)",
       "example": "He listened to the big clock: tick, tock, tick, tock."
+    },
+    {
+      "word": "toenail",
+      "pos": "NOUN",
+      "translation": "Fußnagel",
+      "example": "She was painting her toenails dark blue on the kitchen table, which was against every rule of the flat."
     },
     {
       "word": "token",
@@ -16110,6 +16914,12 @@
       "example": "And a question, as every phraser knew, could never trigger the Stop, because a question was not a statement."
     },
     {
+      "word": "trip",
+      "pos": "NOUN",
+      "translation": "Ausflug, Reise",
+      "example": "He learned that she was the youngest of three sisters, that she sang badly in the shower, and that she had once been sick on a school trip to a chocolate factory and had not eaten chocolate for a year."
+    },
+    {
       "word": "trouble",
       "pos": "VERB",
       "translation": "sich bemühen, stören",
@@ -16126,6 +16936,24 @@
       "pos": "ADV",
       "translation": "wahrheitsgemäß, ehrlich",
       "example": "\"I don't know who he was,\" said Ione truthfully."
+    },
+    {
+      "word": "Tudors",
+      "pos": "PROPN",
+      "translation": "die Tudors (englische Königsdynastie)",
+      "example": "Instead, she scanned a pile of books about the Tudors with great concentration and only dropped two of them."
+    },
+    {
+      "word": "turkey",
+      "pos": "NOUN",
+      "translation": "Truthahn",
+      "example": "She wrote through Christmas Eve and through the long, noisy lunch on Christmas Day, escaping upstairs between the turkey and the pudding."
+    },
+    {
+      "word": "tut",
+      "pos": "VERB",
+      "translation": "missbilligend schnalzen",
+      "example": "All over the city, people were letting off rockets for Bonfire Night, and every few minutes the tall windows of the reading room flashed green or gold or red, and the old man with the crosswords tutted loudly at each explosion."
     },
     {
       "word": "un",
@@ -16182,6 +17010,18 @@
       "example": "They walked back along the quay together, and Bettany talked about sleep and soup and the unfairness of hospital rotas, and Ione answered when she was supposed to, and all the time her mind kept returning to the same small, impossible sentence."
     },
     {
+      "word": "university",
+      "pos": "PROPN",
+      "translation": "Universität",
+      "example": "Durham was a small city, and the university was even smaller."
+    },
+    {
+      "word": "unnoticed",
+      "pos": "ADJ",
+      "translation": "unbemerkt",
+      "example": "Imogen sat in the staff kitchen with the note in her hands and the kettle boiling unnoticed beside her until it switched itself off with a loud click."
+    },
+    {
       "word": "unofficial",
       "pos": "ADJ",
       "translation": "inoffiziell",
@@ -16200,10 +17040,22 @@
       "example": "Some lost their memory, and therefore said false things without knowing they were false — the Stop, after all, only prevented you from saying what you believed to be untrue."
     },
     {
+      "word": "unwatched",
+      "pos": "ADJ",
+      "translation": "unbeobachtet",
+      "example": "Every evening it stayed empty, it said the same thing: that she had taken away the one place in the city where he had felt unwatched, and that he was not coming back."
+    },
+    {
       "word": "unwell",
       "pos": "ADJ",
       "translation": "unwohl, krank",
       "example": "Those volunteers who had become unwell were receiving the best possible care."
+    },
+    {
+      "word": "update",
+      "pos": "VERB",
+      "translation": "aktualisieren",
+      "example": "She made herself sit at the computer and update the list of overdue loans, which was long and depressing and took her the whole evening."
     },
     {
       "word": "upon",
@@ -16212,10 +17064,22 @@
       "example": "I shall never forget the silence aboard as the truth dawned upon us; it was worse than the silence when the Canaries vanished, for now hope itself had played us false."
     },
     {
+      "word": "upset",
+      "pos": "VERB",
+      "translation": "aufregen, verärgern",
+      "example": "She was furious with herself for being upset."
+    },
+    {
       "word": "urging",
       "pos": "NOUN",
       "translation": "das Drängen („at his urging“: auf sein Drängen)",
       "example": "On the seventh of October, at Martín Alonso's urging, the Admiral altered course from due west to west-southwest, following great flocks of birds that were flying that way."
+    },
+    {
+      "word": "vain",
+      "pos": "ADJ",
+      "translation": "eitel",
+      "example": "I'm not that vain."
     },
     {
       "word": "Valladolid",
@@ -16228,6 +17092,18 @@
       "pos": "NOUN",
       "translation": "der Wert",
       "example": "She had three other jobs waiting: a letter of apology for a hotel chain, a speech for a retiring judge, and the label for a new brand of breakfast cereal that contained, according to the manufacturer's own laboratory, \"slightly more than nothing of real nutritional value\"."
+    },
+    {
+      "word": "vampire",
+      "pos": "ADJ",
+      "translation": "Vampir",
+      "example": "Hattie, who had a theory about everything, was convinced that he was a vampire."
+    },
+    {
+      "word": "Varga",
+      "pos": "PROPN",
+      "translation": "Varga (Nachname)",
+      "example": "Imogen knew, because it was her job to know, that the slips with VARGA written on them appeared two or three times a week."
     },
     {
       "word": "vary",
@@ -16252,6 +17128,12 @@
       "pos": "NOUN",
       "translation": "das Urteil, der Urteilsspruch",
       "example": "Schoolchildren in white collars stood on the steps of public buildings and recited the famous true sentences of history: the words of the first judge to give a verdict without a jury, the confession of the general who lost the Battle of the Marrows, the opening line of the Phrasers' Act."
+    },
+    {
+      "word": "viaduct",
+      "pos": "NOUN",
+      "translation": "Viadukt",
+      "example": "She went to bed early and lay awake listening to the trains on the viaduct, thinking about the end of term."
     },
     {
       "word": "Vicente",
@@ -16308,6 +17190,12 @@
       "example": "He was a small, neat man with silver hair, a silver moustache and a wardrobe of beautiful waistcoats, and he spoke so slowly and precisely that clients sometimes mistook him for a fool."
     },
     {
+      "word": "waiter",
+      "pos": "NOUN",
+      "translation": "Kellner",
+      "example": "Her mother asked three times what she was going to do with an English degree, and her eldest sister cried during the speeches, and her middle sister spilt red wine on the tablecloth and blamed the waiter."
+    },
+    {
       "word": "waiting",
       "pos": "NOUN",
       "translation": "das Warten („waiting room“: der Warteraum)",
@@ -16362,6 +17250,12 @@
       "example": "Pinzón was one of ours: a wealthy shipowner, a seasoned captain, a man whose word carried weight on every quay of the Tinto."
     },
     {
+      "word": "Wear",
+      "pos": "PROPN",
+      "translation": "Wear (Fluss in Durham)",
+      "example": "She crossed the old stone bridge over the River Wear, climbed the steep cobbled street behind the cathedral, and pushed open the heavy oak door of Wexcombe Library."
+    },
+    {
       "word": "Weaver",
       "pos": "PROPN",
       "translation": "Weaver („Weaver’s Row“: Straßenname, „Webergasse“)",
@@ -16380,10 +17274,22 @@
       "example": "It said, in red letters: WELCOME HOME."
     },
     {
+      "word": "Welsh",
+      "pos": "ADJ",
+      "translation": "walisisch",
+      "example": "The young man had reserved another book, which was arriving from the stores on Thursday: a collection of poems by a Welsh poet she had never heard of."
+    },
+    {
       "word": "westward",
       "pos": "ADJ",
       "translation": "westwärts",
       "example": "The Admiral, for his part, simply resumed his westward course."
+    },
+    {
+      "word": "Wexcombe",
+      "pos": "PROPN",
+      "translation": "Wexcombe (Stadt)",
+      "example": "She crossed the old stone bridge over the River Wear, climbed the steep cobbled street behind the cathedral, and pushed open the heavy oak door of Wexcombe Library."
     },
     {
       "word": "whale",
@@ -16428,10 +17334,28 @@
       "example": "Where I did not witness a thing with my own eyes, I shall tell you so, and from whom I had it."
     },
     {
+      "word": "wonder",
+      "pos": "NOUN",
+      "translation": "Staunen",
+      "example": "But she wondered, for the first time, whether there was a difference, and whether one day it would matter."
+    },
+    {
+      "word": "worrying",
+      "pos": "ADJ",
+      "translation": "beunruhigend",
+      "example": "It was also, she thought, a slightly worrying sentence for someone to love."
+    },
+    {
       "word": "wring",
       "pos": "VERB",
       "translation": "abringen, erpressen",
       "example": "It was around this time that I heard, from a clerk who had seen the papers, what the Genoese had wrung from Their Majesties at Santa Fe before consenting to sail."
+    },
+    {
+      "word": "write",
+      "pos": "ADJ",
+      "translation": "geschrieben",
+      "example": "Imogen knew, because it was her job to know, that the slips with VARGA written on them appeared two or three times a week."
     },
     {
       "word": "Y",

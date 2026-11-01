@@ -110,6 +110,18 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "actualy",
+      "pos": "NOUN",
+      "word": "actually",
+      "lemmaPos": "ADV"
+    },
+    {
+      "text": "ACTUALY",
+      "pos": "NOUN",
+      "word": "actually",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "Address",
       "pos": "PROPN",
       "word": "address",
@@ -150,6 +162,24 @@
       "pos": "VERB",
       "word": "alcove",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Alfie",
+      "pos": "NOUN",
+      "word": "Alfie",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "alfie",
+      "pos": "NOUN",
+      "word": "Alfie",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "ALFIE",
+      "pos": "PROPN",
+      "word": "Alfie",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "aloud",
@@ -207,6 +237,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Art",
+      "pos": "PROPN",
+      "word": "art",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "ashamed",
       "pos": "VERB",
       "word": "ashamed",
@@ -259,6 +295,18 @@
       "text": "athletics",
       "pos": "NOUN",
       "word": "athletics",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "atlas",
+      "pos": "PROPN",
+      "word": "atlas",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "attic",
+      "pos": "ADJ",
+      "word": "attic",
       "lemmaPos": "NOUN"
     },
     {
@@ -406,6 +454,18 @@
       "pos": "SCONJ",
       "word": "besides",
       "lemmaPos": "ADV"
+    },
+    {
+      "text": "best",
+      "pos": "NOUN",
+      "word": "best",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Best",
+      "pos": "NOUN",
+      "word": "best",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "BETSTAR",
@@ -912,6 +972,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Classic",
+      "pos": "PROPN",
+      "word": "classic",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "clean",
       "pos": "PROPN",
       "word": "clean",
@@ -1027,6 +1093,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Coast",
+      "pos": "PROPN",
+      "word": "coast",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Coffee",
       "pos": "PROPN",
       "word": "coffee",
@@ -1100,10 +1172,28 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "cooling",
+      "pos": "NOUN",
+      "word": "cool",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "coping",
+      "pos": "VERB",
+      "word": "cope",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "coppery",
       "pos": "NOUN",
       "word": "coppery",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "CORBRIDGE",
+      "pos": "PROPN",
+      "word": "Corbridge",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "coughing",
@@ -1141,6 +1231,12 @@
       "pos": "PROPN",
       "word": "coward",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "cowardly",
+      "pos": "ADV",
+      "word": "cowardly",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "cramped",
@@ -1368,6 +1464,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "DEAR",
+      "pos": "PROPN",
+      "word": "dear",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "DEBTS",
       "pos": "PROPN",
       "word": "debt",
@@ -1558,6 +1660,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "downriver",
+      "pos": "NOUN",
+      "word": "downriver",
+      "lemmaPos": "ADV"
+    },
+    {
       "text": "Downstairs",
       "pos": "PROPN",
       "word": "downstairs",
@@ -1662,6 +1770,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "eldest",
+      "pos": "ADJ",
+      "word": "eldest",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "electronics",
       "pos": "NOUN",
       "word": "electronics",
@@ -1696,6 +1810,12 @@
       "pos": "ADJ",
       "word": "embellish",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "END",
+      "pos": "PROPN",
+      "word": "end",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Enough",
@@ -1877,6 +1997,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "FAVOURITE",
+      "pos": "PROPN",
+      "word": "favourite",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "fear",
       "pos": "VERB",
       "next": ".",
@@ -2003,6 +2129,12 @@
       "prev": "her",
       "next": "with",
       "word": "flat",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "flatmate",
+      "pos": "ADJ",
+      "word": "flatmate",
       "lemmaPos": "NOUN"
     },
     {
@@ -2214,6 +2346,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "german",
+      "pos": "ADJ",
+      "word": "German",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "Gesture",
       "pos": "PROPN",
       "word": "gesture",
@@ -2223,6 +2361,18 @@
       "text": "gesture",
       "pos": "ADJ",
       "word": "gesture",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "GHOST",
+      "pos": "PROPN",
+      "word": "ghost",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Ghost",
+      "pos": "PROPN",
+      "word": "ghost",
       "lemmaPos": "NOUN"
     },
     {
@@ -2242,6 +2392,12 @@
       "pos": "NOUN",
       "word": "ginger",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "GIRL",
+      "pos": "PROPN",
+      "word": "girl",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "GLAD",
@@ -2705,6 +2861,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "honesty",
+      "pos": "ADJ",
+      "word": "honesty",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "hoodie",
       "pos": "PROPN",
       "word": "hoodie",
@@ -2765,6 +2927,12 @@
       "pos": "PROPN",
       "word": "hang",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "hungarian",
+      "pos": "ADJ",
+      "word": "Hungarian",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "hurrying",
@@ -2837,6 +3005,12 @@
       "pos": "PROPN",
       "word": "imagine",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "IMOGEN",
+      "pos": "PROPN",
+      "word": "Imogen",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Impatience",
@@ -3203,6 +3377,18 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "lecture",
+      "pos": "VERB",
+      "word": "lecture",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "lectures",
+      "pos": "VERB",
+      "word": "lecture",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "LED",
       "pos": "ADJ",
       "word": "LED",
@@ -3213,6 +3399,12 @@
       "pos": "NOUN",
       "word": "LED",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Leeds",
+      "pos": "NOUN",
+      "word": "Leeds",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "leek",
@@ -3311,6 +3503,18 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "LIBRARY",
+      "pos": "PROPN",
+      "word": "library",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Library",
+      "pos": "PROPN",
+      "word": "library",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Lifesaver",
       "pos": "PROPN",
       "word": "lifesaver",
@@ -3401,6 +3605,12 @@
       "text": "Lipstick",
       "pos": "PROPN",
       "word": "lipstick",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Literature",
+      "pos": "PROPN",
+      "word": "literature",
       "lemmaPos": "NOUN"
     },
     {
@@ -3519,6 +3729,12 @@
       "text": "Manager",
       "pos": "PROPN",
       "word": "manager",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "MAP",
+      "pos": "PROPN",
+      "word": "map",
       "lemmaPos": "NOUN"
     },
     {
@@ -3879,6 +4095,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "MY",
+      "pos": "PROPN",
+      "word": "my",
+      "lemmaPos": "PRON"
+    },
+    {
       "text": "nan",
       "pos": "PROPN",
       "word": "nan",
@@ -3935,9 +4157,21 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Night",
+      "pos": "PROPN",
+      "word": "night",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "nightclothes",
       "pos": "NOUN",
       "word": "nightclothes",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "NIGHTS",
+      "pos": "PROPN",
+      "word": "night",
       "lemmaPos": "NOUN"
     },
     {
@@ -4014,6 +4248,12 @@
     },
     {
       "text": "NORTHERN",
+      "pos": "PROPN",
+      "word": "northern",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Northern",
       "pos": "PROPN",
       "word": "northern",
       "lemmaPos": "ADJ"
@@ -4132,6 +4372,12 @@
     {
       "text": "Open",
       "pos": "PROPN",
+      "word": "open",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "open",
+      "pos": "NOUN",
       "word": "open",
       "lemmaPos": "ADJ"
     },
@@ -4351,6 +4597,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "PATIENT",
+      "pos": "PROPN",
+      "word": "patient",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "pebble",
       "pos": "ADJ",
       "word": "pebble",
@@ -4496,6 +4748,18 @@
       "lemmaPos": "INTJ"
     },
     {
+      "text": "please",
+      "pos": "VERB",
+      "word": "please",
+      "lemmaPos": "INTJ"
+    },
+    {
+      "text": "Please",
+      "pos": "VERB",
+      "word": "please",
+      "lemmaPos": "INTJ"
+    },
+    {
       "text": "pleased",
       "pos": "VERB",
       "prev": "then",
@@ -4613,6 +4877,18 @@
       "pos": "NOUN",
       "word": "providential",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Pryce",
+      "pos": "NOUN",
+      "word": "Pryce",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "pryce",
+      "pos": "NOUN",
+      "word": "Pryce",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "puffing",
@@ -4929,6 +5205,12 @@
       "text": "RISKS",
       "pos": "PROPN",
       "word": "risk",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "RIVER",
+      "pos": "PROPN",
+      "word": "river",
       "lemmaPos": "NOUN"
     },
     {
@@ -5411,6 +5693,12 @@
       "lemmaPos": "NUM"
     },
     {
+      "text": "sixty",
+      "pos": "NOUN",
+      "word": "sixty",
+      "lemmaPos": "NUM"
+    },
+    {
       "text": "slam",
       "pos": "NOUN",
       "prev": "door",
@@ -5440,6 +5728,18 @@
       "pos": "NOUN",
       "next": "beneath",
       "word": "slide",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "slip",
+      "pos": "ADJ",
+      "word": "slip",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "sloped",
+      "pos": "VERB",
+      "word": "slope",
       "lemmaPos": "VERB"
     },
     {
@@ -5500,6 +5800,12 @@
       "text": "snowbound",
       "pos": "NOUN",
       "word": "snowbound",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Social",
+      "pos": "PROPN",
+      "word": "social",
       "lemmaPos": "ADJ"
     },
     {
@@ -5646,6 +5952,12 @@
       "pos": "NOUN",
       "word": "stay",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Steady",
+      "pos": "PROPN",
+      "word": "steady",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "stiff",
@@ -6157,6 +6469,24 @@
       "lemmaPos": "PRON"
     },
     {
+      "text": "that",
+      "pos": "ADV",
+      "word": "that",
+      "lemmaPos": "DET"
+    },
+    {
+      "text": "Theo",
+      "pos": "NOUN",
+      "word": "Theo",
+      "lemmaPos": "PROPN"
+    },
+    {
+      "text": "theo",
+      "pos": "NOUN",
+      "word": "Theo",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "thermos",
       "pos": "NOUN",
       "word": "thermos",
@@ -6245,6 +6575,12 @@
       "pos": "PROPN",
       "word": "tick",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "tighter",
+      "pos": "ADV",
+      "word": "tight",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "tights",
@@ -6392,6 +6728,18 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "tutted",
+      "pos": "VERB",
+      "word": "tut",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "tutting",
+      "pos": "VERB",
+      "word": "tut",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "TVS",
       "pos": "PROPN",
       "word": "TV",
@@ -6486,6 +6834,12 @@
       "text": "University",
       "pos": "PROPN",
       "next": "!",
+      "word": "university",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "University",
+      "pos": "PROPN",
       "word": "university",
       "lemmaPos": "NOUN"
     },
@@ -6608,6 +6962,12 @@
       "pos": "PROPN",
       "word": "van",
       "lemmaPos": "NOUN"
+    },
+    {
+      "text": "VARGA",
+      "pos": "PROPN",
+      "word": "Varga",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Vell",
@@ -6789,6 +7149,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "Welsh",
+      "pos": "PROPN",
+      "word": "Welsh",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "west",
       "pos": "PROPN",
       "word": "west",
@@ -6869,7 +7235,19 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Winter",
+      "pos": "PROPN",
+      "word": "winter",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Woman",
+      "pos": "PROPN",
+      "word": "woman",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "WOMAN",
       "pos": "PROPN",
       "word": "woman",
       "lemmaPos": "NOUN"
@@ -6902,6 +7280,12 @@
       "text": "World",
       "pos": "PROPN",
       "next": "cup",
+      "word": "world",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "WORLD",
+      "pos": "PROPN",
       "word": "world",
       "lemmaPos": "NOUN"
     },
