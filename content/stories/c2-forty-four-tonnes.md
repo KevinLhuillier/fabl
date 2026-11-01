@@ -2,7 +2,7 @@
 title: Forty-Four Tonnes
 level: C2
 summary: Gideon Thewlis is sixty-one, four days from retirement and still driving the Duchess, his eleven-year-old Scania. For his very last run he has chosen the long road from Immingham to a distillery on the Spey, the road he once drove every summer with his late wife — straight into the worst snowstorm of the winter.
-cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/c2-forty-four-tonnes/1792950287289.png
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/c2-forty-four-tonnes/1793541837289.webp
 ---
 
 # The Duchess

@@ -2,7 +2,7 @@
 title: The Cherry Seller
 level: B1
 summary: Twelve weeks after Marcus left her, Maya Holt has stopped drawing and almost stopped laughing. Then a flyer for cherries appears in her letterbox, and at Norwich Market a cherry seller with a sunburnt nose laughs at her terrible joke.
-cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b1-the-cherry-seller/1793342450331.png
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b1-the-cherry-seller/1793541735012.webp
 ---
 
 # The Flyer

@@ -2,7 +2,7 @@
 title: Letters to the North Pole
 level: B1
 summary: In Ellerdale, a small village in the hills of Cumbria, Margaret the postmistress secretly answers every letter that children put in the red North Pole box. This December, one letter asks for something no shop can sell: to make the silent church clock ring again on Christmas Eve.
-cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b1-letters-to-the-north-pole/1792916440437.png
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b1-letters-to-the-north-pole/1793541707217.webp
 ---
 
 # The Red Box

@@ -2,7 +2,7 @@
 title: Pistache, Above the Bakery
 level: B1
 summary: Pistache, a ginger cat, lives above a bakery in Lyon and has never been outside. Every night, from the kitchen window, Pistache watches the rooftops of the city — and a mysterious grey cat who walks along them as if they belonged to her.
-cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b1-pistache-above-the-bakery/1792776267964.png
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b1-pistache-above-the-bakery/1793541721672.webp
 ---
 
 # The Window

@@ -2,7 +2,7 @@
 title: The Borrowed Grimoire
 level: B2
 summary: In Aubrecourt, an old mining town in the north of France, seventeen-year-old Noé and his friends are the school's favourite targets. Then, on a forgotten shelf of the médiathèque, Noé finds a leather book that belongs to no one — and that seems to be waiting for him.
-cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b2-the-borrowed-grimoire/1792857829704.png
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b2-the-borrowed-grimoire/1793541780867.webp
 premium: true
 ---
 
@@ -260,7 +260,6 @@ Someone had filmed the scene in the canteen. The video lasted twenty-two seconds
 Noé looked down the corridor. At the far end, by the staircase, Maxence was leaning against the wall with Lucas and Romain, showing the video to a girl from their class. The girl laughed politely. Maxence caught Noé's eye across the corridor and raised his hand in a small, friendly wave.
 Something cold and very clear settled in Noé's chest. It was not anger exactly. Anger was hot and messy, and this was neither. It felt more like the moment in a game when you finally understand the boss's attack pattern, and you know, calmly and completely, that you are going to win.
 "I'm going to make him pay," he said.
-
 Inès looked at him for a long moment. He expected her to argue, to say something reasonable about teachers and complaints and proof. Instead, she slid her phone back into her pocket.
 "Then you'll need a plan," she said. "Count me in."
 

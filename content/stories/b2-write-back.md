@@ -2,7 +2,7 @@
 title: Write Back
 level: B2
 summary: Rosalind Hale has just left her village in the Yorkshire Dales to study at Durham University. She has hundreds of things to say, but they never leave her head. Then, in an old stationer's shop, she buys a green notebook — and somebody writes back.
-cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b2-write-back/1793205902132.png
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b2-write-back/1793541800211.webp
 premium: true
 ---
 
@@ -778,7 +778,6 @@ Under the kettle, very slowly, green ink was appearing. The letters were not nea
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_8.page_1-1793206046578.mp3
 Rosalind sat up in bed with the notebook on her knees and the lamp pulled close. She was wide awake now. "I'm not doing very well." Five words, and they changed everything. For two months, R. had been the strong one, the calm voice, the hand on her shoulder. It had never occurred to her that R. could be tired, or sad, or lost. She picked up her pen and hesitated, the way R. must have hesitated so many times above her own pages. Then she wrote carefully, as if the paper were somebody's skin.
-
 > I'm here. I'm so glad you answered.
 > You don't have to explain anything if you don't want to. But if you want to, I'm listening. I've got all night. I've got all week.
 > Rule four works both ways, you know. Tell me the truth.
@@ -787,7 +786,6 @@ Rosalind sat up in bed with the notebook on her knees and the lamp pulled close.
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_8.page_2-1793206063205.mp3
 For a long time the page stayed empty, and Rosalind was afraid she had said the wrong thing. Then the ink came again, slowly, in short lines, with gaps between them, like somebody speaking between breaths.
-
 > The truth is boring. I'm exhausted. Not tired, exhausted. There's a difference.
 > For years I said yes to everything. Every job, every favour, every late night, every "could you just". I was so frightened of disappointing people that I never stopped. I was good at everything, for everyone, all the time.
 > Then one morning in September I couldn't get out of bed. My body just said no. The doctor called it burnout and signed me off work.
@@ -798,10 +796,8 @@ For a long time the page stayed empty, and Rosalind was afraid she had said the 
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_8.page_3-1793206076672.mp3
 Rosalind read it twice. September. That was when she had arrived in Durham, when she had bought the notebook. All the time R. had been telling her to be brave, R. had been lying in bed somewhere, unable to stand up. She thought of the patient green letters, the jokes, the rules. How much had each of those messages cost? She felt something hot and sharp behind her eyes.
-
 > You helped me every day while you couldn't get out of bed.
 > That's the bravest thing I've ever heard. Braver than ten minutes on Emily Brontë.
-
 > It wasn't brave. It was the opposite. Helping you was easier than helping myself. It always is.
 > That's my problem, Ros. I know exactly what to tell other people. I've just never been able to tell it to me.
 > — R.
@@ -810,7 +806,6 @@ Rosalind read it twice. September. That was when she had arrived in Durham, when
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_8.page_4-1793206092689.mp3
 Rosalind looked at the words for a long time. Then she smiled a little, sadly, because she recognised something in them. Hadn't she always been the one who knew exactly what other people should do? Hadn't she written brilliant arguments in her head while her mouth stayed shut? She turned to a new page. At the top, in her best handwriting, she wrote a title, the way R. had written the rules on the second day.
-
 > NEW RULES (for you this time)
 > 1. You don't have to tell me who you are. I've stopped asking. (Mostly.)
 > 2. You don't have to be good at anything.
@@ -823,7 +818,6 @@ Rosalind looked at the words for a long time. Then she smiled a little, sadly, b
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_8.page_5-1793206102399.mp3
 She signed it "Ros" without thinking, and only noticed afterwards. Nobody but Grandad and R. had ever called her that. She did not cross it out. The next evening, when she came home from the library, there was an answer under her rules. It was short, but the letters were a little steadier than the night before.
-
 > Window opened. Seven minutes, not five. It was raining. I could smell the wet fields and hear the river.
 > I'd forgotten how loud a river is in December.
 > — R.
@@ -840,12 +834,10 @@ On day nine, there was no message at all, and Rosalind spent the whole day with 
 > Bad day yesterday. Couldn't do anything. Not even the window. I stayed under the duvet and felt like I'd gone back to the beginning.
 > I'm sorry. I know you were waiting.
 > — R.
-
 > You haven't gone back to the beginning. You told me once that I'd climbed a mountain and was angry that I hadn't climbed the next one straight away. Remember? You said: sit down, enjoy the view.
 > A bad day isn't the end of the path. It's part of the path. Grandad used to say that the river doesn't stop just because there's a rock in the way. It goes round.
 > Today's brave thing: nothing. Rest. That's allowed too.
 > — Ros
-
 The answer, the next morning, was only one line, but Rosalind kept it in her head all day like a warm stone in her pocket: "I'd forgotten I told you that. Thank you for giving it back."
 
 ---
@@ -867,10 +859,8 @@ Walking back along the river afterwards, Callum asked why she looked worried all
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_8.page_11-1793206174136.mp3
 "A friend". Rosalind heard herself say it, and realised it was true. Somewhere in the last weeks, R. had stopped being a mystery and become a friend. A friend with no face and no name, who lived inside a notebook and could hear a river from her window. That night she asked one question, only one, and promised herself it would not break rule one.
-
 > I won't ask who you are. But can I ask how old you are? Just a number. It doesn't tell me anything.
 > And what can you see from your bed? I want to imagine it properly when I write.
-
 > Twenty-nine.
 > From my bed I can see a slanted ceiling with a crack in it that looks like a river on a map. A small window with the fields behind. Some old books on a shelf. A poster of a poet that I really should take down.
 > It's my old room. I never thought I'd sleep in it again.
@@ -915,10 +905,8 @@ It was a coincidence. It had to be. Thousands of houses in the Dales had slanted
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_3-1793206926959.mp3
 She did not sleep much that night. In the morning, she opened the notebook at the kitchen table, while her mum was out walking the dog, and wrote something light, something that could not possibly be a trap.
-
 > I'm home for Christmas. In my old room. It has a slanted ceiling too. Funny, isn't it?
 > How are you today? What's your brave thing?
-
 > Very funny.
 > Today's brave thing: I helped Mum make the stuffing. Sage and onion, too much butter, the way Grandad liked it. I only burned one finger.
 > Help your mum with it too, Ros. She pretends she doesn't need help. She does.
@@ -963,7 +951,6 @@ The shepherd's pie. The slanted ceiling. The kite that nobody knew about, becaus
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_11-1793207011561.mp3
 And then, last of all, the crossword. Mrs Pennick in the dim shop, murmuring over her pencil: "Ten letters. 'What we become, given time.'" Rosalind counted on her cold fingers, the way she had counted words on her ninth day in Durham. F, U, T, U, R, E. S, E, L, F. Ten. The lock turned. Everything opened at once, and she sat very still on the bench while the river went past, brown and fast and full of winter, exactly as it had been going past all along.
-
 > R.
 > Ten letters. "What we become, given time." FUTURE SELF.
 > R. for Rosalind. For Ros.
@@ -974,7 +961,6 @@ And then, last of all, the crossword. Mrs Pennick in the dim shop, murmuring ove
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_12-1793207021627.mp3
 She waited, with her breath making small clouds in the cold air. A man walked past with a dog and looked at her curiously, a girl alone on a bench in January, staring at an open notebook as if it were about to speak. Then the green ink appeared, and the handwriting was steady and calm, as steady as it had been on the very first night.
-
 > You broke rule one yourself, so I suppose it doesn't count.
 > Yes. Hello, Ros. It's me. It's you.
 
@@ -990,7 +976,6 @@ She waited, with her breath making small clouds in the cold air. A man walked pa
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_14-1793207048788.mp3
 Rosalind read it with tears running down her face, and she did not care who saw. The kind green voice, the jokes, the anger, the rules. All of it had been her. Herself at twenty-nine, exhausted, in her old bed, finding the strength to be the person her younger self needed. And then, suddenly, the other half of it hit her, and she went cold. Twenty-nine. Burnout. Signed off work. In bed for weeks. She wrote quickly, her letters falling over each other the way they had on the night of the withdrawal form.
-
 > So that's my future? I work too hard for ten years and then I break?
 > Tell me what to do so it doesn't happen. Please. What job? What did I do wrong? I'll change it.
 
@@ -1006,7 +991,6 @@ Rosalind read it with tears running down her face, and she did not care who saw.
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_9.page_16-1793207070673.mp3
 Rosalind sat for a long time with the notebook open on her knees. The cold had gone right through her coat, and she did not notice. She thought about the two sisters in "Goblin Market", the poem that had given her her first sentence in Room 14. Laura and Lizzie. One fell; one went to the river to save her. And Rosalind had said, with her voice shaking, that the rescue went both ways. She picked up her pen one last time, and this time her hand was perfectly steady.
-
 > We've been saving each other. Like Laura and Lizzie.
 > You were only brave because you had someone to be brave for. So was I.
 > I'm here, Ros. I'm still here. I'm not going anywhere.
@@ -1031,7 +1015,6 @@ They kept the rules, mostly. Rosalind never asked about the future again, and R.
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_3-1793214962074.mp3
 R. got better. It was not quick, and it was not a straight line. There were still bad days, days when the ink did not come, or came small and shaky. But in March, R. wrote that she had walked all the way up Great Whernside, slowly, stopping every ten minutes, and sat at the top in the wind. In April, she went back to work, three days a week. And at the end of April there was a message that made Rosalind laugh out loud in the library.
-
 > Today's brave thing: my boss asked me to "just quickly" take on another project. I said no. Politely, but no.
 > Nobody died. The building is still standing. My boss said, "Fair enough." FAIR ENOUGH, Ros. Ten years of yes, and all I needed was two letters.
 > — R.
@@ -1084,7 +1067,6 @@ Rosalind looked at the bottle for a long time. Then she started to laugh, and co
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_11-1793215030157.mp3
 There were only a few blank pages left in the notebook by then. That night, R. wrote that she had heard everything, "or remembered it, which is the same thing tonight". Then she wrote something else, something Rosalind had been half expecting and half dreading for weeks.
-
 > I think this is where I stop, Ros.
 > Not because I'm leaving. Because you don't need me every night any more, and I need to live my own days, not yours. That was the whole point, I think. For both of us.
 > When you need me, you'll know where I am. Ten years away, and right here.
@@ -1097,7 +1079,6 @@ There were only a few blank pages left in the notebook by then. That night, R. w
 > Thank you. For everything. For the rules, and the anger, and the pasta.
 > See you in ten years. Don't forget to go up to the loft.
 > — Ros
-
 The last line of green ink was very small, at the very bottom of the page, and Rosalind read it so many times that she knew it by heart before she fell asleep: "I won't. I never did." In June, the exam results came out. She had passed her first year with good marks, very good in fact, and a comment from Dr Pell that said only: "Now let us hear more." On her last evening in Durham, she took the withdrawal form out of the drawer, still folded in four under the packet of tissues, and tore it into very small pieces. Ines threw them out of the window like confetti.
 
 ---
@@ -1134,7 +1115,6 @@ She went downstairs to her room. On the bedside table, next to her phone, was an
 
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/b2-write-back/chapter_10.page_19-1793215109807.mp3
 She remembered Mrs Pennick, behind her counter, wrapping the notebook in brown paper: "Write the truth in it. It doesn't work otherwise." She did not remember the exact words she had once read. It did not matter. She knew what that girl needed to hear, because she needed to hear it too. She breathed before the first sentence. Not after. Then, slowly, letter by letter, in green ink, Rosalind Hale wrote back.
-
 > Five words, actually. You forgot the "sorry". We'll work on that.
 > You are not a small-place person. You are a small-voice person, which is different, and voices can grow.
 > Don't be scared. I'm on your side.

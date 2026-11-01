@@ -2,7 +2,7 @@
 title: The Squire's Oath
 level: B2
 summary: In medieval England, young Edwin has served a knight for four years. A tournament, a betrayal and a night of fire will decide whether he is worthy of the sword.
-cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b2-the-squires-oath/1792828743462.png
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b2-the-squires-oath/1793541789414.webp
 ---
 
 # The Squire

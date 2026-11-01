@@ -2,7 +2,7 @@
 title: The Last Bus to Ravensby
 level: B1
 summary: Callum Reddaway hates Halloween. When he misses the party and the last bus to his grandmother's village, an old green double-decker appears out of the fog, with a strange driver and passengers in costume. Destination: Ravensby.
-cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b1-the-last-bus-to-ravensby/1793302322642.png
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b1-the-last-bus-to-ravensby/1793541750525.webp
 ---
 
 # The Last Bus
