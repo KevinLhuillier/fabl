@@ -465,6 +465,12 @@
       "lemmaPos": "INTJ"
     },
     {
+      "text": "bony",
+      "pos": "NOUN",
+      "word": "bony",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "BOOT",
       "pos": "PROPN",
       "word": "boot",
@@ -1053,6 +1059,12 @@
       "pos": "ADJ",
       "word": "crouch",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "crumbly",
+      "pos": "ADV",
+      "word": "crumbly",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "crumpled",
@@ -2366,6 +2378,18 @@
       "pos": "PROPN",
       "word": "hers",
       "lemmaPos": "PRON"
+    },
+    {
+      "text": "hesitate",
+      "pos": "ADJ",
+      "word": "hesitate",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "Hester",
+      "pos": "NOUN",
+      "word": "Hester",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "hiding",
@@ -4629,6 +4653,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "seaweed",
+      "pos": "ADV",
+      "word": "seaweed",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "second",
       "pos": "ADJ",
       "next": ".",
@@ -5016,6 +5046,12 @@
       "pos": "NOUN",
       "word": "sprout",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "squared",
+      "pos": "VERB",
+      "word": "square",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "squat",

@@ -270,6 +270,12 @@
       "example": "It was a matter of anticipation — of reading the road a quarter of a mile ahead, of thinking in long, patient curves, of never once asking twenty-odd tonnes of momentum to do anything abruptly."
     },
     {
+      "word": "absent",
+      "pos": "ADJ",
+      "translation": "absent",
+      "example": "Her mother had been warm, funny, untidy, often absent and always forgiven."
+    },
+    {
       "word": "absently",
       "pos": "ADV",
       "translation": "distraitement",
@@ -1508,6 +1514,12 @@
       "pos": "VERB",
       "translation": "s'approcher, approcher",
       "example": "Master Hale watched him approach with an expression of polite, faintly bored patience."
+    },
+    {
+      "word": "approach",
+      "pos": "NOUN",
+      "translation": "l’approche, la manière d’aborder",
+      "example": "She had planned it on the train — a gentle approach, a few harmless questions, nothing that would alarm an old woman."
     },
     {
       "word": "approve",
@@ -3210,6 +3222,12 @@
       "example": "I was twenty, and I believed that being a knight meant winning."
     },
     {
+      "word": "believe in",
+      "pos": "PHRASE",
+      "translation": "croire en, avoir foi en",
+      "example": "She said she'd been working on something for years — something she'd believed in, at the beginning."
+    },
+    {
       "word": "bell",
       "pos": "NOUN",
       "translation": "la cloche, la clochette",
@@ -3984,6 +4002,12 @@
       "example": "BONG."
     },
     {
+      "word": "bony",
+      "pos": "ADJ",
+      "translation": "osseux, décharné",
+      "example": "She reached across the table and took Ione's hand in her own dry, bony fingers."
+    },
+    {
       "word": "boo",
       "pos": "VERB",
       "translation": "huer, siffler",
@@ -4546,6 +4570,12 @@
       "pos": "ADJ",
       "translation": "éclatant, brillant ; génial",
       "example": "He drove back south the following day, slowly and without incident, under a sky of rinsed and brilliant blue."
+    },
+    {
+      "word": "Brindlemouth",
+      "pos": "PROPN",
+      "translation": "Brindlemouth (petite ville portuaire imaginaire)",
+      "example": "Brindlemouth was a small grey harbour town at the end of a single railway line, two hours south of Lantry."
     },
     {
       "word": "bring",
@@ -5514,6 +5544,12 @@
       "example": "She had come from Cardiff, where she had been a uniformed officer for eight years, and Inspector Harris had put her with Tom because, he said, \"Reed needs someone sensible, and you look sensible.\""
     },
     {
+      "word": "cardigan",
+      "pos": "NOUN",
+      "translation": "le cardigan, le gilet en laine",
+      "example": "She knew the smell of the place — salt, tar, frying fish, the damp wool of her grandmother's cardigans — better than she knew the smell of her own flat."
+    },
+    {
       "word": "care",
       "pos": "NOUN",
       "translation": "le soin (« with great care » : avec grand soin)",
@@ -5934,6 +5970,12 @@
       "example": "The best of them was a woman who worked on the compound itself — the chemistry of it."
     },
     {
+      "word": "claim",
+      "pos": "NOUN",
+      "translation": "l’affirmation, la prétention",
+      "example": "It made no claim."
+    },
+    {
       "word": "coming",
       "pos": "ADJ",
       "translation": "prochain, à venir",
@@ -6022,6 +6064,18 @@
       "pos": "PROPN",
       "translation": "Crale (« Odette Crale » : la directrice adjointe du Bureau)",
       "example": "\"Odette Crale.\""
+    },
+    {
+      "word": "crumbly",
+      "pos": "ADJ",
+      "translation": "friable, qui s’émiette",
+      "example": "She sat Ione down at the kitchen table, put the kettle on the old iron stove, and produced a plate of the dry, crumbly ginger biscuits she had made every week for as long as Ione could remember."
+    },
+    {
+      "word": "cryptographer",
+      "pos": "NOUN",
+      "translation": "le cryptographe",
+      "example": "But it was not the kind of code that a cryptographer or a government department would recognise."
     },
     {
       "word": "customs",
@@ -10722,6 +10776,12 @@
       "example": "And next morning the Warden stood up in the hall and said Bennet had gone home, and everybody believed her, and I thought — I thought maybe I'd dreamed it."
     },
     {
+      "word": "dreamlike",
+      "pos": "ADJ",
+      "translation": "onirique, comme dans un rêve",
+      "example": "The sentences went on and on, strange and dreamlike, mixed in with the formulas."
+    },
+    {
       "word": "dress",
       "pos": "NOUN",
       "translation": "la robe",
@@ -11322,6 +11382,12 @@
       "example": "It was exhausting and, Ione had come to understand, enormously valuable."
     },
     {
+      "word": "equal",
+      "pos": "ADJ",
+      "translation": "égal",
+      "example": "She was proud of it, and frightened of it, in about equal parts.\""
+    },
+    {
       "word": "equally",
       "pos": "ADV",
       "translation": "autant, également",
@@ -11338,6 +11404,12 @@
       "pos": "NOUN",
       "translation": "l’exception",
       "example": "On the second evening she went to the city library and asked, as carefully as she could, for anything they had on \"exceptions to the Stop\"."
+    },
+    {
+      "word": "exceptionally",
+      "pos": "ADV",
+      "translation": "exceptionnellement",
+      "example": "She had been — Ione had always believed this without thinking about it — an exceptionally open person."
     },
     {
       "word": "exhausting",
@@ -11382,16 +11454,34 @@
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
     },
     {
+      "word": "flu",
+      "pos": "NOUN",
+      "translation": "la grippe",
+      "example": "Ione had assumed she meant colleagues with colds or flu."
+    },
+    {
       "word": "folder",
       "pos": "NOUN",
       "translation": "le dossier, la chemise",
       "example": "She opened a thin leather folder and placed it on the table between them, but kept one hand flat on top of it."
     },
     {
+      "word": "formula",
+      "pos": "NOUN",
+      "translation": "la formule",
+      "example": "There were numbers, chemical formulas, diagrams of molecules, and between them, line after line of strange, broken sentences."
+    },
+    {
       "word": "fracture",
       "pos": "NOUN",
       "translation": "la fissure, la fracture",
       "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
+    },
+    {
+      "word": "fry",
+      "pos": "VERB",
+      "translation": "frire, faire frire",
+      "example": "She knew the smell of the place — salt, tar, frying fish, the damp wool of her grandmother's cardigans — better than she knew the smell of her own flat."
     },
     {
       "word": "fundamental",
@@ -11412,10 +11502,22 @@
       "example": "That was true as well, if one interpreted \"closely\" generously and \"long-term\" literally."
     },
     {
+      "word": "gull",
+      "pos": "NOUN",
+      "translation": "la mouette, le goéland",
+      "example": "The sea is the colour of what the gulls remember."
+    },
+    {
       "word": "Halvey",
       "pos": "PROPN",
       "translation": "Halvey (nom de famille d’Ione)",
       "example": "The bridge over the Sull had a crack in it, and it was Ione Halvey's job to make sure that nobody in Lantry panicked about it."
+    },
+    {
+      "word": "Hester",
+      "pos": "PROPN",
+      "translation": "Hester (prénom féminin ; la grand-mère d’Ione)",
+      "example": "\"Well,\" said Hester."
     },
     {
       "word": "hiding",
@@ -11434,6 +11536,12 @@
       "pos": "NOUN",
       "translation": "la coque (d’un bateau)",
       "example": "She went instead to Pennick's, a narrow place on Weaver's Row with green tiles on the walls and a counter made from the hull of an old boat."
+    },
+    {
+      "word": "hunt",
+      "pos": "NOUN",
+      "translation": "la chasse, la recherche (« treasure hunt » : chasse au trésor)",
+      "example": "It was so exactly like her mother — so exactly like the kind of game Rosalind used to invent on rainy afternoons, treasure hunts with clues hidden inside riddles inside other riddles."
     },
     {
       "word": "impossibility",
@@ -11520,6 +11628,12 @@
       "example": "\"Good morning, inventor!\" he said."
     },
     {
+      "word": "involve",
+      "pos": "VERB",
+      "translation": "impliquer, mêler (« involved in » : impliqué dans)",
+      "example": "It did not even say that her mother had been involved in it."
+    },
+    {
       "word": "Ione",
       "pos": "PROPN",
       "translation": "Ione (prénom ; l’héroïne, une « phraser »)",
@@ -11566,6 +11680,12 @@
       "pos": "ADJ",
       "translation": "probable",
       "example": "\"\"Within the next few weeks,\" she said, \"some information about the Corvane Institute is likely to become public."
+    },
+    {
+      "word": "listener",
+      "pos": "NOUN",
+      "translation": "l’auditeur, l’auditrice, celui qui écoute",
+      "example": "Two true facts, placed side by side, so that the listener would join them together."
     },
     {
       "word": "live",
@@ -11674,6 +11794,18 @@
       "pos": "VERB",
       "translation": "mal comprendre, se méprendre",
       "example": "Bettany would think she had misunderstood."
+    },
+    {
+      "word": "mix in",
+      "pos": "PHRASE",
+      "translation": "mélanger à, être mêlé à",
+      "example": "The sentences went on and on, strange and dreamlike, mixed in with the formulas."
+    },
+    {
+      "word": "molecule",
+      "pos": "NOUN",
+      "translation": "la molécule",
+      "example": "There were numbers, chemical formulas, diagrams of molecules, and between them, line after line of strange, broken sentences."
     },
     {
       "word": "motto",
@@ -11934,6 +12066,12 @@
       "example": "\"The Bureau has completed a full internal review, and we are now satisfied that the project should never have been allowed to continue.\""
     },
     {
+      "word": "riddle",
+      "pos": "NOUN",
+      "translation": "l’énigme, la devinette",
+      "example": "It was so exactly like her mother — so exactly like the kind of game Rosalind used to invent on rainy afternoons, treasure hunts with clues hidden inside riddles inside other riddles."
+    },
+    {
       "word": "rim",
       "pos": "NOUN",
       "translation": "le bord, la monture (« over the rim of his spectacles » : par-dessus ses lunettes)",
@@ -11982,10 +12120,28 @@
       "example": "Lantry was an old city, built on both banks of the Sull, and it had the slightly self-satisfied air of a place that had never been bombed, flooded or seriously embarrassed."
     },
     {
+      "word": "seaweed",
+      "pos": "NOUN",
+      "translation": "l’algue (« seaweed-coloured » : couleur d’algue)",
+      "example": "Ione walked up the steep street to the seaweed-coloured house and knocked."
+    },
+    {
+      "word": "secretly",
+      "pos": "ADV",
+      "translation": "secrètement, en secret",
+      "example": "She remembered, most clearly of all, being nineteen and asking, half joking, over dinner: \"Mum, are you secretly a spy?"
+    },
+    {
       "word": "seizure",
       "pos": "NOUN",
       "translation": "la crise (épileptique), la convulsion",
       "example": "Headaches first, then fevers, then seizures."
+    },
+    {
+      "word": "sentiment",
+      "pos": "NOUN",
+      "translation": "le sentiment, la sentimentalité",
+      "example": "Hester was eighty-one, small, sharp and entirely without sentiment."
     },
     {
       "word": "server",
@@ -12066,6 +12222,12 @@
       "example": "It contained a dozen pages: a short history of the institute, a list of dates, a summary of the Bureau's funding, carefully phrased in a way she instantly recognised as the work of another phraser, probably a good one."
     },
     {
+      "word": "supply",
+      "pos": "VERB",
+      "translation": "fournir, apporter",
+      "example": "It asked the listener to supply the claim themselves."
+    },
+    {
       "word": "support",
       "pos": "NOUN",
       "translation": "le support, la colonne porteuse (« support column »)",
@@ -12084,6 +12246,12 @@
       "example": "They took the survivors, too — the ones who were ill — and moved them to a hospital in the city."
     },
     {
+      "word": "sweetheart",
+      "pos": "NOUN",
+      "translation": "le chéri, la chérie, mon cœur (terme affectueux)",
+      "example": "\"Because the work is important, sweetheart,\" Rosalind had said."
+    },
+    {
       "word": "symptom",
       "pos": "NOUN",
       "translation": "le symptôme",
@@ -12094,6 +12262,12 @@
       "pos": "PROPN",
       "translation": "Tallow (« Tallow Reach » : quartier d’entrepôts près des docks de Lantry)",
       "example": "It was the address he had given the institute two years ago, in a district of narrow streets near the docks called Tallow Reach."
+    },
+    {
+      "word": "tar",
+      "pos": "NOUN",
+      "translation": "le goudron",
+      "example": "She knew the smell of the place — salt, tar, frying fish, the damp wool of her grandmother's cardigans — better than she knew the smell of her own flat."
     },
     {
       "word": "teapot",
@@ -12162,6 +12336,12 @@
       "example": "I was a translator — I translated technical manuals, mostly, very boring work — and the company I worked for closed."
     },
     {
+      "word": "treasure",
+      "pos": "NOUN",
+      "translation": "le trésor",
+      "example": "It was so exactly like her mother — so exactly like the kind of game Rosalind used to invent on rainy afternoons, treasure hunts with clues hidden inside riddles inside other riddles."
+    },
+    {
       "word": "treatable",
       "pos": "ADJ",
       "translation": "soignable, curable",
@@ -12172,6 +12352,12 @@
       "pos": "NOUN",
       "translation": "le traitement",
       "example": "\"The treatment lasted eight months,\" Lucan went on."
+    },
+    {
+      "word": "trigger",
+      "pos": "VERB",
+      "translation": "déclencher",
+      "example": "And a question, as every phraser knew, could never trigger the Stop, because a question was not a statement."
     },
     {
       "word": "truthfully",

@@ -347,3 +347,142 @@ He turned his face towards the river. Behind him, on the north bank, the white c
 @audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_3.page_14-1793535739932.mp3
 Ione looked at him for a long time. She listened to the words, the way she had been trained to listen. She felt for the edges of them, the places where meaning might slip. And for the first time in her life, she realised, it was not enough. She could hear everything he said. She could not hear whether it was true.
 The ferry crossed the black water, and neither of them spoke again until it reached the shore.
+
+# What My Mother Didn't Say
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_1-1793538209744.mp3
+Brindlemouth was a small grey harbour town at the end of a single railway line, two hours south of Lantry. Ione's grandmother had lived there all her life, in a narrow house painted the colour of seaweed, with a view over the fishing boats and a front door that stuck in wet weather. Ione had spent every summer of her childhood there. She knew the smell of the place — salt, tar, frying fish, the damp wool of her grandmother's cardigans — better than she knew the smell of her own flat.
+She had not been back for almost a year.
+She took the early train on Saturday morning, after a night in which she had slept for perhaps two hours. Lucan had left her on the north bank of the Sull with nothing but a scrap of paper bearing the name of a bookshop in the old town. "If you need to find me, leave a message there," he had said. "Ask for a copy of a book that doesn't exist. They'll know what it means." She had asked which book. He had thought for a moment and then said, with a faint smile, "Something by your mother, perhaps."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_2-1793538220978.mp3
+All the way down the coast, as the train rattled past wet fields and grey villages, Ione went through her memories of Rosalind Halvey as if they were a client's documents, searching for the places where the language bent.
+It was not a comfortable exercise. Her mother had been warm, funny, untidy, often absent and always forgiven. She had smelt of coffee and some sharp chemical that Ione had never been able to name. She had sung badly in the kitchen. She had read Ione stories in silly voices and laughed louder than Ione did at her own jokes. She had been — Ione had always believed this without thinking about it — an exceptionally open person. She never hid her feelings. She said what she thought.
+But now, with Lucan's words still in her ears, Ione began to hear other things.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_3-1793538228990.mp3
+She remembered being nine years old and asking why her mother had to go away for a whole month in the winter. "Because the work is important, sweetheart," Rosalind had said. Not "Because I have to." Not "Because they need me." Only that the work was important — which was true, of course, whatever the work had been.
+She remembered being fifteen and finding her mother crying in the garden one night, and asking what was wrong. "I've had a difficult day," Rosalind had said, wiping her eyes. "Some of the people I work with aren't very well." Ione had assumed she meant colleagues with colds or flu. She had made her mother a cup of tea and thought no more about it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_4-1793538239659.mp3
+She remembered, most clearly of all, being nineteen and asking, half joking, over dinner: "Mum, are you secretly a spy?" Her mother had laughed and laughed and said, "Darling, I'm a chemist. I spend my days staring at test tubes. Do I look like a spy to you?"
+Ione sat very still in the corner of the railway carriage.
+Do I look like a spy to you. It was a question, not an answer. And a question, as every phraser knew, could never trigger the Stop, because a question was not a statement. It made no claim. It asked the listener to supply the claim themselves. It was one of the oldest tricks of her profession. Augustin called it "letting the client lie to himself".
+Her mother had never said she was not doing something secret. She had only asked her daughter to decide that she wasn't.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_5-1793538254247.mp3
+The train arrived in Brindlemouth just before eleven. It was raining — real rain, soft and steady, drifting in from the sea — and the harbour was full of boats that had not gone out. Ione walked up the steep street to the seaweed-coloured house and knocked. The door stuck, as it always did, and then flew open, and her grandmother stood there in a man's fishing jumper with a pair of glasses pushed up into her white hair.
+"Well," said Hester. "You've come at last. And you look terrible."
+"Everyone keeps telling me that."
+"Then perhaps everyone is right," said Hester, and pulled her inside.
+Hester was eighty-one, small, sharp and entirely without sentiment. She had been a schoolteacher for forty years, and she still spoke to everyone, including the postman and the local priest, as if they had failed to do their homework. She sat Ione down at the kitchen table, put the kettle on the old iron stove, and produced a plate of the dry, crumbly ginger biscuits she had made every week for as long as Ione could remember. Then she sat down opposite her granddaughter, folded her hands, and waited.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_6-1793538265880.mp3
+Ione found that she did not know how to start. She had planned it on the train — a gentle approach, a few harmless questions, nothing that would alarm an old woman. But Hester was watching her with the same expression she had used on pupils who arrived without their homework, and all Ione's careful plans dissolved.
+"Gran," she said. "What happened to Mum?"
+Hester's face did not change. But something in the room seemed to grow still, like the air before a storm.
+"You know what happened," she said. "There was an accident at her laboratory."
+Ione heard the sentence, and heard what it did not say. It did not say that the accident had killed her mother. It did not even say that her mother had been involved in it. There was an accident. Her mother had died. Two true facts, placed side by side, so that the listener would join them together.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_7-1793538274517.mp3
+"You've said that to me before," said Ione slowly. "Those exact words. At the funeral. And you said something else, too. You said, 'She didn't suffer long.'"
+"That's right."
+"But you didn't say she didn't suffer."
+Hester looked at her for a long moment. Then she took off her glasses, folded them, and put them on the table. It was what she used to do in the classroom, Ione remembered, just before she told a pupil something they would not like.
+"You've always been too clever by half," said her grandmother. "Your mother said so. She was proud of it, and frightened of it, in about equal parts."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_8-1793538284763.mp3
+"Gran — "
+"No. Let me speak. I've been waiting eight years for this conversation, and I would like to get it right." Hester was silent for a moment, gathering her words. "Your mother did not die in an accident. I don't know exactly how she died — that's the truth, and I'll swear to it on anything you like. But I know it wasn't an accident, because she told me, about two months before it happened, that she was afraid. She came down here one weekend, by herself. She sat where you're sitting now. And she said to me, 'Mum, I think I've made a terrible mistake, and I think some people would prefer that I didn't try to put it right.'"
+The kettle began to whistle on the stove. Neither of them moved.
+"What mistake?" asked Ione.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_9-1793538293946.mp3
+"She didn't say. Not exactly. She said she'd been working on something for years — something she'd believed in, at the beginning. Something she'd thought might be good for people. And she'd come to realise that it wasn't good at all. That it was dangerous. She said she wanted to stop it, and that she was going to try." Hester's hands, folded on the table, tightened slightly. "I asked her whether she was in danger. And do you know what she said?"
+Ione shook her head.
+"She said, 'I'm going to be very careful.'" Hester gave a short, unhappy laugh. "I was a schoolteacher, not a phraser. But even I knew that wasn't an answer."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_10-1793538305252.mp3
+Ione stood up, took the kettle off the stove, and poured water into the teapot, mostly so that she would have something to do with her hands. Outside, the rain had grown heavier. She could hear it drumming on the roof of the shed in the yard.
+"Why didn't you tell me?" she said, with her back to her grandmother. "All these years. Why didn't you say anything?"
+"Because she asked me not to."
+"You could have told me anyway. Nothing stops you breaking a promise."
+"No," agreed Hester. "Nothing stops you breaking a promise. Only yourself." She was quiet for a moment. "And she didn't only ask me not to tell you. She asked me to wait. She said that if you ever came to me — if you ever asked me the right question — then I should give you something. And not before."
+Ione turned round. "What question?"
+"I'll know it when I hear it," said Hester. "That was the arrangement."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_11-1793538317142.mp3
+Ione stared at her. Then, despite everything, she almost laughed. It was so exactly like her mother — so exactly like the kind of game Rosalind used to invent on rainy afternoons, treasure hunts with clues hidden inside riddles inside other riddles. Her mother had loved puzzles. She had loved watching her daughter solve them.
+She sat down again, slowly. She thought about all the questions she had asked in the last ten minutes. What happened to Mum? Why didn't you tell me? What question? None of them, apparently, had been the right one.
+What would her mother have wanted her to ask?
+She thought about the train journey. About the sentences she had taken apart in her memory, one by one, and found hollow. Because the work is important. Some of the people I work with aren't very well. Do I look like a spy to you? Every one of them true. Every one of them chosen with care.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_12-1793538327081.mp3
+She looked up at her grandmother.
+"Gran," she said. "Did Mum ever tell me everything?"
+Hester closed her eyes. For a moment she looked very old, and very tired. Then she opened them again, and they were wet.
+"No," she said. "No, my darling, she didn't. And that's the question."
+She got up, went into the small front room, and came back a few minutes later with a biscuit tin — an old, battered tin with a picture of a lighthouse on the lid, which Ione remembered from her childhood, when it had held buttons and pieces of string. Hester put it on the table and pushed it towards her.
+Inside, wrapped in a yellow silk scarf that still smelt faintly of her mother's perfume, was a notebook.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_13-1793538334801.mp3
+It was an ordinary laboratory notebook with a hard black cover and squared paper inside. The first thirty pages were full of her mother's small, untidy handwriting. But the writing made no sense. There were numbers, chemical formulas, diagrams of molecules, and between them, line after line of strange, broken sentences. Ione turned the pages with trembling fingers.
+The sea is the colour of what the gulls remember.
+Seven of the twelve were never asked.
+What the red card said is not what the red card was.
+Begin where the daughter laughed.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_14-1793538343484.mp3
+"I tried to read it," said Hester quietly. "Years ago. I couldn't make head or tail of it. I don't think it was meant for me."
+Ione turned another page, and another. The sentences went on and on, strange and dreamlike, mixed in with the formulas. Here and there a word was underlined. Here and there a number was circled. On the very last page with writing on it, in letters that were larger and more careful than the rest, her mother had written a single line.
+Everything in this book is true. Read it the way you read a client.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_15-1793538354002.mp3
+Ione put her hand flat on the page, the way Odette Crale had put her hand on the leather folder.
+It was code, of course. But it was not the kind of code that a cryptographer or a government department would recognise. It was a code built out of the Stop itself — out of the impossibility of lying. Every sentence in this notebook, Ione understood, had passed through her mother's pen. And her mother could not write anything she believed to be false. So every one of these strange lines meant something true. It was simply hidden, the way a phraser hides things: in the choice of words, in the order of facts, in what was left out.
+Her mother had written a statement. A long, careful, perfectly honest statement, which only one person in the world had been trained to read.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_16-1793538362623.mp3
+"Ione," said her grandmother. "Whatever is in that book — whatever your mother was involved in — I want you to promise me something."
+Ione looked up.
+"I don't want you to be very careful," said Hester. Her voice shook, just slightly. "Your mother was very careful, and look where it got her. I want you to be safe. Those are not the same thing. Do you understand me?"
+"Yes, Gran."
+"Then say it. Say you'll be safe."
+Ione opened her mouth. And then she stopped, because she felt it — the faint, warning pressure at the base of her throat, the first gentle grip of the Stop. She could not say she would be safe. She did not know it. She did not believe it.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_4.page_17-1793538368567.mp3
+Her grandmother saw her hesitate, and understood. She reached across the table and took Ione's hand in her own dry, bony fingers.
+"Yes," said Hester softly. "That's what I thought."
+They sat together in the kitchen while the rain fell on the harbour and the tea grew cold in the pot, and between them, on the table, lay the black notebook, full of true things that nobody had yet understood.
