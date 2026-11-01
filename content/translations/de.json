@@ -1984,6 +1984,12 @@
       "example": "Seven years earlier she had been a nervous twenty-year-old with a brand-new licence and a habit of apologising to the gearbox; he had been assigned to sit beside her for her first month on the road, and had done so with a forbearance she still described, to anyone who would listen, as saintly."
     },
     {
+      "word": "assist",
+      "pos": "VERB",
+      "translation": "helfen, unterstützen („assisting with an inquiry“: bei einer Untersuchung behilflich)",
+      "example": "She was, the newspapers reported carefully, \"assisting with an inquiry\"."
+    },
+    {
       "word": "assistant",
       "pos": "ADJ",
       "translation": "stellvertretend („assistant manager“: die stellvertretende Leiterin)",
@@ -2357,6 +2363,12 @@
       "pos": "PROPN",
       "translation": "Australien",
       "example": "It's from my nephew in Australia."
+    },
+    {
+      "word": "author",
+      "pos": "NOUN",
+      "translation": "der Autor, der Verfasser",
+      "example": "One of them said, in his report, that it was the most impressive piece of scientific fiction he had ever read, and that he would very much like to meet its author."
     },
     {
       "word": "authority",
@@ -2815,6 +2827,12 @@
       "example": "In summer, swallows came to Ellerdale from Africa and built their nests under roofs, in barns, in old buildings."
     },
     {
+      "word": "barnacle",
+      "pos": "NOUN",
+      "translation": "die Seepocke",
+      "example": "At its northern end, the remains of the old harbour wall ran down from the rocks into the water — a great black arm of stone, older than anyone could remember, covered in weed and barnacles at its lower end and dry at the top."
+    },
+    {
       "word": "Barnes",
       "pos": "PROPN",
       "translation": "Barnes (Nachname)",
@@ -3083,6 +3101,12 @@
       "pos": "ADV",
       "translation": "wunderschön („beautifully cut“: hervorragend geschnitten)",
       "example": "Short grey hair and a beautifully cut grey coat that had certainly not been bought in Aubrecourt."
+    },
+    {
+      "word": "beauty",
+      "pos": "NOUN",
+      "translation": "die Schönheit",
+      "example": "That was the beauty of the Open Questions."
     },
     {
       "word": "because",
@@ -3388,6 +3412,12 @@
       "pos": "NOUN",
       "translation": "der Nutzen („for his benefit“: seinetwegen)",
       "example": "Tamsin had claimed the spot beside him before anyone else could, and had spent the first hour offering him food from her mother's parcels with a determined cheerfulness that he suspected was entirely for his benefit."
+    },
+    {
+      "word": "benefit",
+      "pos": "VERB",
+      "translation": "profitieren",
+      "example": "\"The country benefits anyway."
     },
     {
       "word": "Bennet",
@@ -4594,6 +4624,12 @@
       "pos": "ADJ",
       "translation": "kurz",
       "example": "Across the square, the blacksmith's son, Edric Vane, was entertaining a half-circle of younger children by snapping his fingers and conjuring a spark — just one, bright and brief as a firefly."
+    },
+    {
+      "word": "briefcase",
+      "pos": "NOUN",
+      "translation": "die Aktentasche",
+      "example": "Odette Crale was sitting in the far corner of the back seat, wrapped in a dark coat, with a leather briefcase on her knees."
     },
     {
       "word": "briefly",
@@ -6012,6 +6048,12 @@
       "example": "In forty years he had hauled steel coil, frozen fish, bagged cement and, on one memorable occasion, a dismantled fairground ride; the Duchess was rated for forty-four tonnes, and today she would be carrying barely six."
     },
     {
+      "word": "central",
+      "pos": "ADJ",
+      "translation": "zentral",
+      "example": "It had been posted from the central sorting office, with no return address."
+    },
+    {
       "word": "chemical",
       "pos": "ADJ",
       "translation": "chemisch",
@@ -6030,10 +6072,34 @@
       "example": "The best of them was a woman who worked on the compound itself — the chemistry of it."
     },
     {
+      "word": "cipher",
+      "pos": "NOUN",
+      "translation": "die Chiffre, der Geheimcode",
+      "example": "It's not a cipher."
+    },
+    {
+      "word": "citizen",
+      "pos": "NOUN",
+      "translation": "der Bürger",
+      "example": "Any citizen may come forward and put three questions to an officer of the Bureau."
+    },
+    {
       "word": "claim",
       "pos": "NOUN",
       "translation": "die Behauptung",
       "example": "It made no claim."
+    },
+    {
+      "word": "clarity",
+      "pos": "NOUN",
+      "translation": "die Klarheit",
+      "example": "He walked to the microphone and stood there, looking out over the crowd, and Ione understood, with a terrible clarity, exactly what Odette had planned."
+    },
+    {
+      "word": "collapse",
+      "pos": "NOUN",
+      "translation": "der Zusammenbruch",
+      "example": "There was no revolution, no riot, no collapse."
     },
     {
       "word": "coming",
@@ -6054,6 +6120,18 @@
       "example": "Not unless I withdraw the commission."
     },
     {
+      "word": "commitment",
+      "pos": "NOUN",
+      "translation": "das Engagement, die Verpflichtung",
+      "example": "The Prime Minister will want to say a few words about Corvane — about the mistakes of the past, and the Bureau's commitment to the truth."
+    },
+    {
+      "word": "committed",
+      "pos": "ADJ",
+      "translation": "verpflichtet, engagiert („committed to“: verpflichtet zu)",
+      "example": "The Bureau remained fully committed to the principle on which the nation was built: that nothing should be said but what is so."
+    },
+    {
       "word": "competent",
       "pos": "ADJ",
       "translation": "kompetent, ordentlich",
@@ -6070,6 +6148,12 @@
       "pos": "NOUN",
       "translation": "die (chemische) Verbindung",
       "example": "Some kind of compound they'd developed."
+    },
+    {
+      "word": "conceal",
+      "pos": "VERB",
+      "translation": "verbergen, verheimlichen",
+      "example": "And your grandmother — who lives, I believe, in a green house above the harbour at Brindlemouth — will receive a visit from some of my colleagues, who will want to know why she concealed property belonging to the Bureau for eight years.\""
     },
     {
       "word": "confidential",
@@ -6136,6 +6220,12 @@
       "pos": "NOUN",
       "translation": "die Zusammenarbeit, die Kooperation",
       "example": "Your cooperation is greatly appreciated."
+    },
+    {
+      "word": "cooperative",
+      "pos": "ADJ",
+      "translation": "kooperativ, hilfsbereit",
+      "example": "\"Mr Fennimore was most cooperative,\" said Odette."
     },
     {
       "word": "copy down",
@@ -9600,6 +9690,12 @@
       "example": "Next to eleven of the names, someone had written a single word in neat black ink: Deceased."
     },
     {
+      "word": "deceive",
+      "pos": "VERB",
+      "translation": "täuschen",
+      "example": "It was a man who could deceive them, choosing in front of them not to."
+    },
+    {
       "word": "December",
       "pos": "PROPN",
       "translation": "Dezember",
@@ -9808,6 +9904,12 @@
       "pos": "ADJ",
       "translation": "dicht",
       "example": "Four colossal trees grew from the corners of the hall, and their branches met and wove together overhead in a vault so dense that only the faintest glimmer of evening sky showed through."
+    },
+    {
+      "word": "densely",
+      "pos": "ADV",
+      "translation": "dicht",
+      "example": "Inside were four sheets of paper, densely covered in chemical formulas, diagrams and numbers."
     },
     {
       "word": "dent",
@@ -10648,6 +10750,12 @@
       "pos": "PROPN",
       "translation": "Dorothy (Vorname; „Dot“ ist die Kurzform)",
       "example": "\"Dorothy, really, but nobody calls me that except my teachers and the vicar.\""
+    },
+    {
+      "word": "dose",
+      "pos": "NOUN",
+      "translation": "die Dosis",
+      "example": "He's the only one who received a dose made from the fragment of her final work that survived."
     },
     {
       "word": "dot",
@@ -11508,6 +11616,12 @@
       "example": "\"My name is Elspeth."
     },
     {
+      "word": "embrace",
+      "pos": "NOUN",
+      "translation": "die Umarmung",
+      "example": "She ate lunch at Pennick's, where Mrs Pennick now gave her slightly larger portions without comment, which in Mrs Pennick's language was very nearly an embrace."
+    },
+    {
       "word": "employ",
       "pos": "VERB",
       "translation": "beschäftigen, anstellen",
@@ -11622,6 +11736,12 @@
       "example": "Instead he led her down to the river, where the last ferry of the evening was waiting at the old stone jetty, its engine coughing and its single lamp swinging in the wind."
     },
     {
+      "word": "fiction",
+      "pos": "NOUN",
+      "translation": "die Fiktion",
+      "example": "One of them said, in his report, that it was the most impressive piece of scientific fiction he had ever read, and that he would very much like to meet its author."
+    },
+    {
       "word": "fine",
       "pos": "VERB",
       "translation": "mit einer Geldstrafe belegen",
@@ -11658,10 +11778,22 @@
       "example": "There were numbers, chemical formulas, diagrams of molecules, and between them, line after line of strange, broken sentences."
     },
     {
+      "word": "founding",
+      "pos": "NOUN",
+      "translation": "die Gründung",
+      "example": "It went back to the founding of the Bureau, a century ago, when the first Director had said that a department which asked questions of everyone must also be willing to answer them."
+    },
+    {
       "word": "fracture",
       "pos": "NOUN",
       "translation": "der Bruch, der Riss",
       "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
+    },
+    {
+      "word": "fragment",
+      "pos": "NOUN",
+      "translation": "das Fragment, das Bruchstück",
+      "example": "He's the only one who received a dose made from the fragment of her final work that survived."
     },
     {
       "word": "framed",
@@ -11682,6 +11814,12 @@
       "example": "She knew the smell of the place — salt, tar, frying fish, the damp wool of her grandmother's cardigans — better than she knew the smell of her own flat."
     },
     {
+      "word": "fund",
+      "pos": "VERB",
+      "translation": "finanzieren",
+      "example": "The questions were usually harmless — a schoolteacher asking whether the Bureau would fund more libraries, an old man asking whether the Director liked dogs."
+    },
+    {
       "word": "fundamental",
       "pos": "ADJ",
       "translation": "grundlegend",
@@ -11698,6 +11836,12 @@
       "pos": "PROPN",
       "translation": "General („Lantry General Hospital“: das Allgemeine Krankenhaus von Lantry)",
       "example": "Lantry General Hospital was a vast, crumbling Victorian building with too many doors and not enough porters, and at half past one in the morning nobody looked twice at a woman in a borrowed nurse's cardigan carrying a tray of clean towels."
+    },
+    {
+      "word": "general",
+      "pos": "NOUN",
+      "translation": "der General",
+      "example": "Schoolchildren in white collars stood on the steps of public buildings and recited the famous true sentences of history: the words of the first judge to give a verdict without a jury, the confession of the general who lost the Battle of the Marrows, the opening line of the Phrasers' Act."
     },
     {
       "word": "generously",
@@ -11724,6 +11868,12 @@
       "example": "Your cooperation is greatly appreciated."
     },
     {
+      "word": "grow out",
+      "pos": "PHRASE",
+      "translation": "herauswachsen, nachwachsen",
+      "example": "At his thin, tired face, and his dark eyes, and the hair that somebody had cut too short for Candour Day and that was beginning, at last, to grow out again."
+    },
+    {
       "word": "gull",
       "pos": "NOUN",
       "translation": "die Möwe",
@@ -11740,6 +11890,12 @@
       "pos": "PROPN",
       "translation": "Harrow („Harrow Strand“: Name eines Strandes)",
       "example": "On the long curve of sand beneath the cliffs, at the place where the old harbour wall ran down into the sea, that everyone in the town called Harrow Strand."
+    },
+    {
+      "word": "helplessly",
+      "pos": "ADV",
+      "translation": "hilflos, unkontrolliert",
+      "example": "Then she began to laugh — helplessly, the way she had laughed on this wall nine years ago, with a knife in her shaking hand and her mother's camera pointing at her face."
     },
     {
       "word": "Hester",
@@ -11770,6 +11926,18 @@
       "pos": "NOUN",
       "translation": "die Jagd, die Suche („treasure hunt“: Schatzsuche)",
       "example": "It was so exactly like her mother — so exactly like the kind of game Rosalind used to invent on rainy afternoons, treasure hunts with clues hidden inside riddles inside other riddles."
+    },
+    {
+      "word": "I.H.",
+      "pos": "PROPN",
+      "translation": "I.H. (Initialen von Ione Halvey)",
+      "example": "But it was there: a gull with outstretched wings, and beneath it two crooked letters, I.H."
+    },
+    {
+      "word": "illness",
+      "pos": "NOUN",
+      "translation": "die Krankheit",
+      "example": "There had been rumours in the newspapers for weeks — small, carefully phrased stories about a research institute on the coast, and illnesses among its volunteers, and the Bureau's \"ongoing review\"."
     },
     {
       "word": "impossibility",
@@ -11826,10 +11994,22 @@
       "example": "And that would be very embarrassing indeed."
     },
     {
+      "word": "independent",
+      "pos": "ADJ",
+      "translation": "unabhängig",
+      "example": "The formula in the Bureau's safe was examined by six independent chemists."
+    },
+    {
       "word": "injection",
       "pos": "NOUN",
       "translation": "die Injektion, die Spritze",
       "example": "\"Injections, mostly."
+    },
+    {
+      "word": "inquiry",
+      "pos": "NOUN",
+      "translation": "die Untersuchung",
+      "example": "The inquiry lasted for most of the following year."
     },
     {
       "word": "inspection",
@@ -11860,6 +12040,12 @@
       "pos": "NOUN",
       "translation": "das Verhör",
       "example": "She knew, as every phraser knew, that the most dangerous thing in an interrogation was not a hard question but a simple one, because simple questions left so little room to move."
+    },
+    {
+      "word": "invention",
+      "pos": "NOUN",
+      "translation": "die Erfindung",
+      "example": "He told them about the seventeen volunteers in the last trial, and the eleven who had died, and the four who now lay on the seventh floor of Lantry General Hospital, unable to tell their own memories from their own inventions."
     },
     {
       "word": "inventor",
@@ -11922,6 +12108,12 @@
       "example": "Landlords will decide."
     },
     {
+      "word": "landward",
+      "pos": "ADJ",
+      "translation": "landwärts, zum Land hin",
+      "example": "When she reached the wall, she climbed up the rough steps at its landward end, and walked slowly along its top, looking down at the hundreds of names and hearts and pictures cut into the stone."
+    },
+    {
       "word": "Lantry",
       "pos": "PROPN",
       "translation": "Lantry (die Stadt, in der die Geschichte spielt, an beiden Ufern der Sull)",
@@ -11976,6 +12168,12 @@
       "example": "Lucan Mere, said the name beneath the photograph."
     },
     {
+      "word": "lurid",
+      "pos": "ADJ",
+      "translation": "grell, reißerisch",
+      "example": "Inside, wrapped in brown paper, was a cheap paperback novel with a lurid cover — a romance, of the kind sold in railway stations, called Love on the Lighthouse."
+    },
+    {
       "word": "manual",
       "pos": "NOUN",
       "translation": "das Handbuch",
@@ -11998,6 +12196,12 @@
       "pos": "PROPN",
       "translation": "Marlow („Marlow Street Bridge“: die Brücke in der Marlow Street)",
       "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
+    },
+    {
+      "word": "Marrows",
+      "pos": "PROPN",
+      "translation": "Marrows („Battle of the Marrows“: die Schlacht von Marrows, erfundene Schlacht)",
+      "example": "Schoolchildren in white collars stood on the steps of public buildings and recited the famous true sentences of history: the words of the first judge to give a verdict without a jury, the confession of the general who lost the Battle of the Marrows, the opening line of the Phrasers' Act."
     },
     {
       "word": "meaning",
@@ -12042,6 +12246,12 @@
       "example": "The report was forty pages long, and it said, in the flat, careful language of engineers, that the Marlow Street Bridge had a fracture in its third support column, that the fracture had grown by eleven millimetres since the spring, and that the bridge should be closed to heavy traffic \"within the coming months\"."
     },
     {
+      "word": "million",
+      "pos": "NOUN",
+      "translation": "die Million",
+      "example": "There were simply questions — thousands of them, millions — asked in newspapers and parliaments and kitchens and bars all over the nation, by people who had suddenly remembered that they were allowed to ask them."
+    },
+    {
       "word": "minister",
       "pos": "NOUN",
       "translation": "der Minister",
@@ -12066,6 +12276,12 @@
       "example": "Bettany would think she had misunderstood."
     },
     {
+      "word": "misuse",
+      "pos": "VERB",
+      "translation": "missbrauchen",
+      "example": "One should always give a gift to the person who's least likely to misuse it."
+    },
+    {
       "word": "mix in",
       "pos": "PHRASE",
       "translation": "untermischen, vermischt sein mit",
@@ -12076,6 +12292,12 @@
       "pos": "NOUN",
       "translation": "das Molekül",
       "example": "There were numbers, chemical formulas, diagrams of molecules, and between them, line after line of strange, broken sentences."
+    },
+    {
+      "word": "mooring",
+      "pos": "NOUN",
+      "translation": "der Liegeplatz, die Vertäuung",
+      "example": "The fishing boats rocked at their moorings, and the harbour lights were going out one by one."
     },
     {
       "word": "motto",
@@ -12144,6 +12366,12 @@
       "example": "\"Odette Crale.\""
     },
     {
+      "word": "official",
+      "pos": "NOUN",
+      "translation": "der Beamte, der Funktionär",
+      "example": "At the foot of the steps, a Bureau official asked her name and wrote it in a large leather book."
+    },
+    {
       "word": "omelette",
       "pos": "NOUN",
       "translation": "das Omelett",
@@ -12156,10 +12384,22 @@
       "example": "In a society where everyone told the truth, she still managed to be more truthful than most, because she never hid behind the clever omissions that everyone else used."
     },
     {
+      "word": "ongoing",
+      "pos": "ADJ",
+      "translation": "laufend",
+      "example": "There had been rumours in the newspapers for weeks — small, carefully phrased stories about a research institute on the coast, and illnesses among its volunteers, and the Bureau's \"ongoing review\"."
+    },
+    {
       "word": "ooh",
       "pos": "INTJ",
       "translation": "oh, ooh (Ausruf der Bewunderung oder Überraschung)",
       "example": "The audience made a sound. \"Oooh.\""
+    },
+    {
+      "word": "opening",
+      "pos": "NOUN",
+      "translation": "die Eröffnung, der Anfang („opening line“: Anfangssatz)",
+      "example": "Schoolchildren in white collars stood on the steps of public buildings and recited the famous true sentences of history: the words of the first judge to give a verdict without a jury, the confession of the general who lost the Battle of the Marrows, the opening line of the Phrasers' Act."
     },
     {
       "word": "Osei",
@@ -12172,6 +12412,12 @@
       "pos": "ADJ",
       "translation": "äußere (« outside walls »: Außenwände)",
       "example": "Tallow Reach was a quarter of old warehouses converted into flats, with iron staircases on the outside walls and washing hanging across the alleys."
+    },
+    {
+      "word": "outstretched",
+      "pos": "ADJ",
+      "translation": "ausgestreckt",
+      "example": "And she had carved, very carefully, into the soft grey stone, a small gull with outstretched wings."
     },
     {
       "word": "overrule",
@@ -12192,6 +12438,12 @@
       "example": "She went inside, to a counter piled high with paperbacks, behind which sat an elderly man with a cat on his lap."
     },
     {
+      "word": "parliament",
+      "pos": "NOUN",
+      "translation": "das Parlament",
+      "example": "There were simply questions — thousands of them, millions — asked in newspapers and parliaments and kitchens and bars all over the nation, by people who had suddenly remembered that they were allowed to ask them."
+    },
+    {
       "word": "particularly",
       "pos": "ADV",
       "translation": "besonders",
@@ -12208,6 +12460,12 @@
       "pos": "PROPN",
       "translation": "Peel („Peel & Ashgrove“: Iones Firma; „Augustin Peel“: ihr Chef)",
       "example": "She sat at her desk on the fourth floor of Peel & Ashgrove, a cup of cold tea at her elbow and the engineers' report open in front of her."
+    },
+    {
+      "word": "pending",
+      "pos": "ADP",
+      "translation": "bis zu, in Erwartung von",
+      "example": "\"And while I'm asking them, I'm afraid Nurse Osei will be suspended from Lantry General Hospital, pending an inquiry into her unauthorised entry into a restricted ward."
     },
     {
       "word": "permanent",
@@ -12240,6 +12498,12 @@
       "example": "It was a kind of phrasing, she thought."
     },
     {
+      "word": "pointless",
+      "pos": "ADJ",
+      "translation": "sinnlos",
+      "example": "A lie so obvious, so pointless, that only one person on that beach could possibly understand it."
+    },
+    {
       "word": "poison",
       "pos": "VERB",
       "translation": "vergiften",
@@ -12262,6 +12526,12 @@
       "pos": "NOUN",
       "translation": "das Porträt",
       "example": "A young man in a grey suit met her in the marble entrance hall and led her up three flights of stairs and along a corridor lined with portraits of former directors."
+    },
+    {
+      "word": "possession",
+      "pos": "NOUN",
+      "translation": "der Besitz („in possession of“: im Besitz von)",
+      "example": "Is the Bureau, today, in possession of a formula which it believes will allow that compound to be made safely and in quantity?\""
     },
     {
       "word": "pour down",
@@ -12292,6 +12562,12 @@
       "pos": "ADJ",
       "translation": "erste (« prime minister »: Premierminister)",
       "example": "He had written speeches for three prime ministers and apologies for two royal princes, and it was said that he had once written a statement for a chemical company that was so perfectly constructed that the newspapers had praised the company for its honesty on the same day it poisoned a river."
+    },
+    {
+      "word": "principle",
+      "pos": "NOUN",
+      "translation": "das Prinzip",
+      "example": "The Bureau remained fully committed to the principle on which the nation was built: that nothing should be said but what is so."
     },
     {
       "word": "product",
@@ -12342,6 +12618,18 @@
       "example": "\"The public does not need to be frightened by stories of mad scientists trying to break the most fundamental law of human nature,\" said Odette."
     },
     {
+      "word": "puzzlement",
+      "pos": "NOUN",
+      "translation": "die Verwunderung, die Ratlosigkeit",
+      "example": "The young man in the grey suit glanced up at the sky with mild puzzlement and then looked away, losing interest."
+    },
+    {
+      "word": "quantity",
+      "pos": "NOUN",
+      "translation": "die Menge",
+      "example": "Is the Bureau, today, in possession of a formula which it believes will allow that compound to be made safely and in quantity?\""
+    },
+    {
       "word": "quay",
       "pos": "NOUN",
       "translation": "der Kai",
@@ -12352,6 +12640,12 @@
       "pos": "ADJ",
       "translation": "zufällig",
       "example": "The sentences were not random."
+    },
+    {
+      "word": "ray",
+      "pos": "NOUN",
+      "translation": "der Strahl",
+      "example": "The first long rays of sunlight were breaking over the cliffs, and the wet sand glittered gold."
     },
     {
       "word": "Reach",
@@ -12384,6 +12678,12 @@
       "example": "It took ten minutes and three different receptionists before Bettany came on the line, sounding breathless and annoyed."
     },
     {
+      "word": "reconstruct",
+      "pos": "VERB",
+      "translation": "rekonstruieren",
+      "example": "Our chemists have reconstructed most of the compound from her earlier notes — enough to make it work, sometimes, in some people."
+    },
+    {
       "word": "reflex",
       "pos": "NOUN",
       "translation": "der Reflex",
@@ -12394,6 +12694,12 @@
       "pos": "NOUN",
       "translation": "die Weigerung",
       "example": "But a refusal, here, in this room, would be an answer in itself."
+    },
+    {
+      "word": "reinstate",
+      "pos": "VERB",
+      "translation": "wieder einsetzen",
+      "example": "Bettany was reinstated at Lantry General, with an apology that she framed and hung in her yellow kitchen."
     },
     {
       "word": "relationship",
@@ -12408,16 +12714,46 @@
       "example": "They wrote press releases and political speeches, contracts and apologies, product labels and wedding toasts."
     },
     {
+      "word": "rely",
+      "pos": "VERB",
+      "translation": "sich verlassen auf",
+      "example": "Now, sitting beside the one man in the world who did not have it, she understood that she would never again be able to rely on it completely."
+    },
+    {
+      "word": "remain",
+      "pos": "NOUN",
+      "translation": "die Überreste („remains“)",
+      "example": "At its northern end, the remains of the old harbour wall ran down from the rocks into the water — a great black arm of stone, older than anyone could remember, covered in weed and barnacles at its lower end and dry at the top."
+    },
+    {
+      "word": "remark",
+      "pos": "NOUN",
+      "translation": "die Bemerkung",
+      "example": "A strange remark."
+    },
+    {
       "word": "researcher",
       "pos": "NOUN",
       "translation": "der Forscher, die Forscherin",
       "example": "\"\"Its researchers believed,\" Odette continued, \"that the Stop was not, as most scientists think, a fixed and permanent feature of the human brain, but a kind of reflex — complex, deeply rooted, but in theory treatable."
     },
     {
+      "word": "restricted",
+      "pos": "ADJ",
+      "translation": "beschränkt, gesperrt",
+      "example": "\"And while I'm asking them, I'm afraid Nurse Osei will be suspended from Lantry General Hospital, pending an inquiry into her unauthorised entry into a restricted ward."
+    },
+    {
       "word": "review",
       "pos": "NOUN",
       "translation": "die Überprüfung („internal review“: interne Prüfung)",
       "example": "\"The Bureau has completed a full internal review, and we are now satisfied that the project should never have been allowed to continue.\""
+    },
+    {
+      "word": "revolution",
+      "pos": "NOUN",
+      "translation": "die Revolution",
+      "example": "There was no revolution, no riot, no collapse."
     },
     {
       "word": "riddle",
@@ -12432,6 +12768,12 @@
       "example": "Augustin studied her over the rim of his spectacles."
     },
     {
+      "word": "riot",
+      "pos": "NOUN",
+      "translation": "der Aufruhr, die Krawalle",
+      "example": "There was no revolution, no riot, no collapse."
+    },
+    {
       "word": "rival",
       "pos": "ADJ",
       "translation": "konkurrierend, rivalisierend",
@@ -12442,6 +12784,18 @@
       "pos": "NOUN",
       "translation": "der Rivale, der Konkurrent",
       "example": "Our allies, our rivals, our enemies."
+    },
+    {
+      "word": "rock",
+      "pos": "VERB",
+      "translation": "schaukeln, hin und her wiegen",
+      "example": "The fishing boats rocked at their moorings, and the harbour lights were going out one by one."
+    },
+    {
+      "word": "romance",
+      "pos": "NOUN",
+      "translation": "der Liebesroman",
+      "example": "Inside, wrapped in brown paper, was a cheap paperback novel with a lurid cover — a romance, of the kind sold in railway stations, called Love on the Lighthouse."
     },
     {
       "word": "rooted",
@@ -12468,6 +12822,12 @@
       "example": "\"The first nation to learn to lie,\" said Odette Crale softly, \"will rule all the nations that cannot."
     },
     {
+      "word": "safely",
+      "pos": "ADV",
+      "translation": "sicher, gefahrlos",
+      "example": "Is the Bureau, today, in possession of a formula which it believes will allow that compound to be made safely and in quantity?\""
+    },
+    {
       "word": "Saltreach",
       "pos": "PROPN",
       "translation": "Saltreach (Küstendorf nahe dem Corvane-Institut)",
@@ -12484,6 +12844,12 @@
       "pos": "NOUN",
       "translation": "der Sand",
       "example": "On the long curve of sand beneath the cliffs, at the place where the old harbour wall ran down into the sea, that everyone in the town called Harrow Strand."
+    },
+    {
+      "word": "sane",
+      "pos": "ADJ",
+      "translation": "geistig gesund, bei klarem Verstand",
+      "example": "And he's perfectly sane.\""
     },
     {
       "word": "satisfy",
@@ -12546,10 +12912,22 @@
       "example": "Rebecca Shaw put her hand on her mouth."
     },
     {
+      "word": "shield",
+      "pos": "VERB",
+      "translation": "abschirmen, schützen",
+      "example": "She struck one, and shielded it with her hand, and held it to the corner of the first page."
+    },
+    {
       "word": "side",
       "pos": "ADJ",
       "translation": "Seite („side by side“: Seite an Seite)",
       "example": "They stood side by side at the rail, watching the lights of the city slide across the black water."
+    },
+    {
+      "word": "sleeping",
+      "pos": "ADJ",
+      "translation": "schlafend",
+      "example": "Outside, the city had given way to dark fields and the occasional sleeping farmhouse."
     },
     {
       "word": "sly",
@@ -12562,6 +12940,12 @@
       "pos": "NOUN",
       "translation": "die Gesellschaft",
       "example": "In a society where everyone told the truth, she still managed to be more truthful than most, because she never hid behind the clever omissions that everyone else used."
+    },
+    {
+      "word": "specially",
+      "pos": "ADV",
+      "translation": "extra, eigens",
+      "example": "Her mother had driven down from Lantry specially, without warning, and taken her out of her grandmother's kitchen and down to the beach with a bag of sandwiches and a bottle of cheap wine."
     },
     {
       "word": "stable",
@@ -12648,6 +13032,12 @@
       "example": "It contained a dozen pages: a short history of the institute, a list of dates, a summary of the Bureau's funding, carefully phrased in a way she instantly recognised as the work of another phraser, probably a good one."
     },
     {
+      "word": "sunlight",
+      "pos": "NOUN",
+      "translation": "das Sonnenlicht",
+      "example": "The first long rays of sunlight were breaking over the cliffs, and the wet sand glittered gold."
+    },
+    {
       "word": "supply",
       "pos": "VERB",
       "translation": "liefern, ergänzen",
@@ -12678,10 +13068,22 @@
       "example": "The sister looked at her for a long, suspicious moment."
     },
     {
+      "word": "swap",
+      "pos": "VERB",
+      "translation": "austauschen, vertauschen",
+      "example": "I swapped the envelopes on the beach while she was watching you on the wall."
+    },
+    {
       "word": "sweetheart",
       "pos": "NOUN",
       "translation": "Schatz, Liebling (Kosewort)",
       "example": "\"Because the work is important, sweetheart,\" Rosalind had said."
+    },
+    {
+      "word": "swiftly",
+      "pos": "ADV",
+      "translation": "schnell, zügig",
+      "example": "When problems were identified, the Bureau had acted swiftly to close the institute."
     },
     {
       "word": "symptom",
@@ -12774,6 +13176,12 @@
       "example": "I was a translator — I translated technical manuals, mostly, very boring work — and the company I worked for closed."
     },
     {
+      "word": "translation",
+      "pos": "NOUN",
+      "translation": "die Übersetzung",
+      "example": "It's a translation of nothing into nothing."
+    },
+    {
       "word": "translator",
       "pos": "NOUN",
       "translation": "der Übersetzer, die Übersetzerin",
@@ -12816,6 +13224,12 @@
       "example": "The sentence simply left him, as easily as breath, and hung in the cold air above the very black, very un-milky water of the Sull."
     },
     {
+      "word": "unauthorised",
+      "pos": "ADJ",
+      "translation": "unbefugt",
+      "example": "\"And while I'm asking them, I'm afraid Nurse Osei will be suspended from Lantry General Hospital, pending an inquiry into her unauthorised entry into a restricted ward."
+    },
+    {
       "word": "underwater",
       "pos": "ADV",
       "translation": "unter Wasser",
@@ -12828,10 +13242,22 @@
       "example": "She said she couldn't destroy it, because one day someone might need to understand what had been done to us — to undo it."
     },
     {
+      "word": "uneasy",
+      "pos": "ADJ",
+      "translation": "unbehaglich, beunruhigt",
+      "example": "Then a ripple of uneasy laughter."
+    },
+    {
       "word": "unevenly",
       "pos": "ADV",
       "translation": "ungleichmäßig, unregelmäßig",
       "example": "Her fair hair had gone almost white and was cut short, unevenly, as if someone had done it in a hurry."
+    },
+    {
+      "word": "unexpected",
+      "pos": "ADJ",
+      "translation": "unerwartet",
+      "example": "\"How unexpected.\""
     },
     {
       "word": "unfairness",
@@ -12846,16 +13272,34 @@
       "example": "Its unofficial purpose was more ambitious."
     },
     {
+      "word": "unstable",
+      "pos": "ADJ",
+      "translation": "instabil",
+      "example": "It's unstable."
+    },
+    {
       "word": "untrue",
       "pos": "ADJ",
       "translation": "unwahr",
       "example": "Some lost their memory, and therefore said false things without knowing they were false — the Stop, after all, only prevented you from saying what you believed to be untrue."
     },
     {
+      "word": "unwell",
+      "pos": "ADJ",
+      "translation": "unwohl, krank",
+      "example": "Those volunteers who had become unwell were receiving the best possible care."
+    },
+    {
       "word": "value",
       "pos": "NOUN",
       "translation": "der Wert",
       "example": "She had three other jobs waiting: a letter of apology for a hotel chain, a speech for a retiring judge, and the label for a new brand of breakfast cereal that contained, according to the manufacturer's own laboratory, \"slightly more than nothing of real nutritional value\"."
+    },
+    {
+      "word": "verdict",
+      "pos": "NOUN",
+      "translation": "das Urteil, der Urteilsspruch",
+      "example": "Schoolchildren in white collars stood on the steps of public buildings and recited the famous true sentences of history: the words of the first judge to give a verdict without a jury, the confession of the general who lost the Battle of the Marrows, the opening line of the Phrasers' Act."
     },
     {
       "word": "volunteer",

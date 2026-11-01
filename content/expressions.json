@@ -1020,6 +1020,7 @@
     "dig out",
     "disappear up",
     "drag up",
+    "drive down",
     "drive up",
     "feed up",
     "gallop down",
@@ -1034,8 +1035,10 @@
     "peer up",
     "play on",
     "roll out",
+    "say back",
     "send up",
     "sidle up",
+    "sit in",
     "skid down",
     "slide off",
     "smooth down",
@@ -1043,11 +1046,13 @@
     "spread up",
     "stand on",
     "stare down",
+    "stretch out",
     "teach up",
     "thrust up",
     "turn in",
     "want over",
     "wind down",
-    "wrap round"
+    "wrap round",
+    "write out"
   ]
 }

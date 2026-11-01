@@ -318,6 +318,12 @@
       "lemmaPos": "VERB"
     },
     {
+      "text": "Battle",
+      "pos": "PROPN",
+      "word": "battle",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "Beatons",
       "pos": "PROPN",
       "word": "Beaton",
@@ -748,6 +754,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "catch",
+      "pos": "NOUN",
+      "word": "catch",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "cautions",
       "pos": "VERB",
       "word": "caution",
@@ -878,6 +890,12 @@
     },
     {
       "text": "CLOSED",
+      "pos": "PROPN",
+      "word": "closed",
+      "lemmaPos": "ADJ"
+    },
+    {
+      "text": "Closed",
       "pos": "PROPN",
       "word": "closed",
       "lemmaPos": "ADJ"
@@ -1032,6 +1050,12 @@
       "text": "creep",
       "pos": "NOUN",
       "next": "into",
+      "word": "creep",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "creep",
+      "pos": "ADJ",
       "word": "creep",
       "lemmaPos": "VERB"
     },
@@ -1420,6 +1444,12 @@
       "lemmaPos": "ADV"
     },
     {
+      "text": "drank",
+      "pos": "NOUN",
+      "word": "drink",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "drawing",
       "pos": "VERB",
       "prev": "cherry",
@@ -1508,6 +1538,12 @@
     {
       "text": "Eleven",
       "pos": "ADJ",
+      "word": "eleven",
+      "lemmaPos": "NUM"
+    },
+    {
+      "text": "eleven",
+      "pos": "NOUN",
       "word": "eleven",
       "lemmaPos": "NUM"
     },
@@ -2307,6 +2343,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "HALVEY",
+      "pos": "NOUN",
+      "word": "Halvey",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "hang",
       "pos": "NOUN",
       "word": "hang",
@@ -2514,6 +2556,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "house",
+      "pos": "PROPN",
+      "word": "house",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "housing",
       "pos": "PROPN",
       "next": "association",
@@ -2573,6 +2621,12 @@
       "pos": "PROPN",
       "word": "ill",
       "lemmaPos": "ADJ"
+    },
+    {
+      "text": "illnesses",
+      "pos": "VERB",
+      "word": "illness",
+      "lemmaPos": "NOUN"
     },
     {
       "text": "Ilse",
@@ -2913,6 +2967,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "landward",
+      "pos": "NOUN",
+      "word": "landward",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "laughing",
       "pos": "NOUN",
       "next": ",",
@@ -3074,6 +3134,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Lighthouse",
+      "pos": "PROPN",
+      "word": "lighthouse",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "like",
       "pos": "ADJ",
       "word": "like",
@@ -3144,6 +3210,12 @@
       "pos": "VERB",
       "prev": ",",
       "next": "?",
+      "word": "love",
+      "lemmaPos": "NOUN"
+    },
+    {
+      "text": "Love",
+      "pos": "PROPN",
       "word": "love",
       "lemmaPos": "NOUN"
     },
@@ -3264,6 +3336,12 @@
       "pos": "ADJ",
       "word": "marry",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "Marrows",
+      "pos": "NOUN",
+      "word": "Marrows",
+      "lemmaPos": "PROPN"
     },
     {
       "text": "Masters",
@@ -3782,6 +3860,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Open",
+      "pos": "PROPN",
+      "word": "open",
+      "lemmaPos": "ADJ"
+    },
+    {
       "text": "opening",
       "pos": "NOUN",
       "next": "backwards",
@@ -3985,6 +4069,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "pending",
+      "pos": "VERB",
+      "word": "pending",
+      "lemmaPos": "ADP"
+    },
+    {
       "text": "per",
       "pos": "NOUN",
       "word": "per",
@@ -4113,6 +4203,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "pointing",
+      "pos": "NOUN",
+      "word": "point",
+      "lemmaPos": "VERB"
+    },
+    {
       "text": "POLE",
       "pos": "PROPN",
       "word": "Pole",
@@ -4225,6 +4321,12 @@
       "lemmaPos": "NOUN"
     },
     {
+      "text": "Questions",
+      "pos": "PROPN",
+      "word": "question",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "quieter",
       "pos": "NOUN",
       "word": "quiet",
@@ -4263,6 +4365,12 @@
     {
       "text": "rang",
       "pos": "PROPN",
+      "word": "ring",
+      "lemmaPos": "VERB"
+    },
+    {
+      "text": "rang",
+      "pos": "VERB",
       "word": "ring",
       "lemmaPos": "VERB"
     },
@@ -4560,6 +4668,12 @@
       "lemmaPos": "PROPN"
     },
     {
+      "text": "ROSALIND",
+      "pos": "PROPN",
+      "word": "Rosalind",
+      "lemmaPos": "PROPN"
+    },
+    {
       "text": "rosemary",
       "pos": "ADJ",
       "word": "rosemary",
@@ -4771,6 +4885,12 @@
       "lemmaPos": "ADJ"
     },
     {
+      "text": "Shame",
+      "pos": "PROPN",
+      "word": "shame",
+      "lemmaPos": "NOUN"
+    },
+    {
       "text": "sharp",
       "pos": "ADV",
       "next": "-",
@@ -4948,6 +5068,12 @@
       "pos": "PROPN",
       "word": "sleep",
       "lemmaPos": "VERB"
+    },
+    {
+      "text": "sleeping",
+      "pos": "NOUN",
+      "word": "sleeping",
+      "lemmaPos": "ADJ"
     },
     {
       "text": "slide",

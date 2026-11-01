@@ -2,6 +2,7 @@
 title: The Phraser
 level: C1
 summary: In Lantry, nobody can lie. The body simply will not allow it. Ione Halvey is a phraser, paid to find the gaps between the truth and the impression it leaves. Then, one bright October lunchtime, a stranger orders a coffee and says it is raining.
+cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/c1-the-phraser/1793541823726.webp
 ---
 
 # The Phraser
@@ -855,3 +856,320 @@ In the lift, going down, the young man from the Bureau stood beside her in silen
 It had been taken at Brindlemouth. On her birthday. On the long curve of sand beneath the cliffs, at the place where the old harbour wall ran down into the sea, that everyone in the town called Harrow Strand.
 She knew where it was. She knew exactly where her mother had stood.
 And she knew, with a cold certainty that settled in her stomach as the lift sank towards the ground floor, that she was not the only one who would soon be able to work it out.
+
+# Where the Daughter Laughed
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_8.page_1-1793542134894.mp3
+They did not take her to the Bureau. They took her to a car.
+It was a long black car parked in the hospital's goods yard, with its engine already running and a driver who did not turn round. The young man in the grey suit opened the back door for her, waited until she was inside, and then got into the front. Odette Crale was sitting in the far corner of the back seat, wrapped in a dark coat, with a leather briefcase on her knees.
+"Good evening, Miss Halvey," she said. "Or rather, good morning. I'm sorry to have interrupted your visit."
+The car pulled out of the yard and turned south along the river. The streets were empty. The streetlamps slid past the windows one by one, like the lights of the ferry crossing the Sull.
+"Where are we going?" said Ione.
+"I think you know."
+Ione said nothing. Odette opened the briefcase, took out something wrapped in yellow silk, and laid it on the seat between them.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_8.page_2-1793542152303.mp3
+It was her mother's notebook.
+For a moment Ione could not breathe. She had left it with Fennimore, in the little back room behind the bookshop, hidden on a shelf between two volumes of an old encyclopaedia. Nobody had known it was there except Fennimore, Bettany and herself.
+And Lucan.
+"Mr Fennimore was most cooperative," said Odette. "He's an old man, and he didn't enjoy our questions. I'm afraid we were obliged to ask a great many of them." She touched the yellow silk lightly with one long finger. "But he wasn't the one who told us where to look. That was your friend. The one who said it was raining."
+"You're phrasing," said Ione. Her voice was rough. "You're choosing words to make me believe something."
+"Of course I'm phrasing," said Odette calmly. "But I'm not lying, am I? I can't. Mr Mere came to the Bureau of his own free will, two days ago. He sat in my office, in the same chair you sat in. And he told me that Rosalind Halvey's notebook was hidden behind a bookshop on Lantern Lane." She paused. "He seemed to think the Bureau might be more generous than his foreign friends. He was right. We are."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_8.page_3-1793542169505.mp3
+Ione turned her face to the window. Outside, the city had given way to dark fields and the occasional sleeping farmhouse. She thought of Lucan on the ferry, saying I said no, both times. She thought of him in the bookshop, his thin face very still, saying You'll have to decide that for yourself. She had decided. She had decided to trust him, a little. Not completely. Just enough.
+Just enough, it seemed, had been too much.
+"The notebook is useless to you," she said at last. "You can't read it."
+"No," agreed Odette. "My best people have spent two days on it. They can't make sense of a single line. It's not a cipher. It's not a code in any ordinary sense. It's — " She searched for the word. "It's a statement. Written by a phraser, for a phraser. Your mother was very clever. She knew that the only person in the world who could read it was the person she'd trained to read it, without ever telling her she was being trained." She looked at Ione. "Every rainy afternoon. Every puzzle. Every treasure hunt with clues inside riddles. She was teaching you how to find her."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_8.page_4-1793542184273.mp3
+Ione felt something twist painfully inside her chest. It was true. She knew it was true, because Odette had said it, and because she remembered.
+"But I don't need you to read the whole notebook," Odette went on. "I only need one thing. The last step. The part she worked out and hid. Our chemists have reconstructed most of the compound from her earlier notes — enough to make it work, sometimes, in some people. You've seen the results. It's unstable. It destroys the subjects' sense of what is real." She paused. "But Rosalind found a way to make it stable. A way to open the door without losing the floor. Mr Mere is proof. He's the only one who received a dose made from the fragment of her final work that survived. And he's perfectly sane."
+"Is he?" said Ione.
+Odette smiled faintly. "As sane as anyone who has sold you, I suppose."
+They drove on through the dark. After a while, Ione said: "And if I refuse to help you?"
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_8.page_5-1793542202018.mp3
+"Then I'll ask you questions until you can no longer refuse. I'm very good at that, as you know." Odette's voice did not change. "And while I'm asking them, I'm afraid Nurse Osei will be suspended from Lantry General Hospital, pending an inquiry into her unauthorised entry into a restricted ward. And your grandmother — who lives, I believe, in a green house above the harbour at Brindlemouth — will receive a visit from some of my colleagues, who will want to know why she concealed property belonging to the Bureau for eight years."
+Ione turned and looked at her.
+"I am not threatening you, Miss Halvey," said Odette. "I'm describing what is so."
+The sky was turning grey in the east when they reached Brindlemouth. The town was still asleep. The fishing boats rocked at their moorings, and the harbour lights were going out one by one. The car did not stop at the seaweed-coloured house. Ione watched it pass, with its curtains drawn and its door that stuck in wet weather, and felt a rush of gratitude so sharp it was almost pain. Then the car turned along the coast road and stopped at the top of a steep path that led down between the rocks to the beach.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_8.page_6-1793542215831.mp3
+There was a second car already parked there. Beside it, in his grey coat, with his hands in his pockets, stood Lucan Mere.
+He did not look at Ione as she got out. He looked at Odette, and nodded, and said, "There's nobody on the beach. I checked." Then he fell into step beside the young man in the grey suit, and they all walked down the path together towards the sea.
+Harrow Strand was a long, pale curve of sand beneath grey cliffs. At its northern end, the remains of the old harbour wall ran down from the rocks into the water — a great black arm of stone, older than anyone could remember, covered in weed and barnacles at its lower end and dry at the top. The tide was out. The sand was wet and shining in the dawn light, and the gulls were already wheeling and crying overhead.
+Ione stood at the bottom of the path and looked at it all, and for a moment she was twenty years old again.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_8.page_7-1793542230974.mp3
+It had been her birthday. Her mother had driven down from Lantry specially, without warning, and taken her out of her grandmother's kitchen and down to the beach with a bag of sandwiches and a bottle of cheap wine. They had walked the whole length of the strand. They had sat on the dry top of the old harbour wall, where children had carved their names and pictures into the soft stone for a hundred years. And her mother had taken a small knife out of her pocket and said, "Let's leave something for the gulls."
+Ione had laughed. "The gulls can't read, Mum."
+"No," Rosalind had said, "but they remember. Everything that happens on this beach, the gulls remember." And she had carved, very carefully, into the soft grey stone, a small gull with outstretched wings. Then she had handed the knife to Ione, and Ione had carved her own initials beneath it, badly, laughing so much that her hand shook. That was when her mother had taken the photograph.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_8.page_8-1793542246170.mp3
+The sea is the colour of what the gulls remember.
+Not the colour of the sea at all. The colour of the stone. Grey. The harbour wall.
+She walked along the sand towards the old wall, with the others behind her. Nobody spoke. The wind blew her hair across her face. When she reached the wall, she climbed up the rough steps at its landward end, and walked slowly along its top, looking down at the hundreds of names and hearts and pictures cut into the stone. It took her ten minutes to find it. It was smaller than she remembered, and softened by nine years of wind and salt. But it was there: a gull with outstretched wings, and beneath it two crooked letters, I.H.
+The stone that bore them was loose.
+She knelt down. Behind her, she heard Odette's footsteps stop. She put her fingers into the crack around the stone and pulled, and it came away in her hands, heavier than she expected. Behind it was a hollow in the wall, and in the hollow was a small tin box, wrapped in oilcloth and tied with string.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_8.page_9-1793542260472.mp3
+Ione knelt there with the box in her hands and the wind cold on her face. Her mother had knelt in this exact place. Perhaps only weeks before she went for a walk on the cliffs and did not come back. She had pushed this box into the dark and replaced the stone above it, over the gull and the initials of her laughing daughter, and gone home, and said nothing to anyone. Because she couldn't lie. And because she had always known, better than anyone, how to be silent.
+"Give it to me, please," said Odette Crale.
+Ione did not move.
+"Miss Halvey. Your grandmother is asleep in her bed, half a mile from here. I would very much like her to stay there."
+Slowly, Ione stood up. She turned round. Odette stood on the wall a few feet away, with the young man behind her. Lucan stood a little further back, on the sand below, with his hands in his pockets, watching. His face was completely without expression.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_8.page_10-1793542275464.mp3
+Ione held out the box. Odette took it.
+She untied the string with quick, careful fingers, unwrapped the oilcloth, and opened the tin. Inside was a long envelope, sealed, with a single word written on it in Rosalind Halvey's small untidy hand: Ione.
+Odette tore it open without hesitation. Inside were four sheets of paper, densely covered in chemical formulas, diagrams and numbers. She looked through them slowly, one by one. Her face did not change, but Ione saw her hands tighten very slightly on the paper, and knew what that meant. It was not a riddle this time. It was not a phraser's statement. It was simply the truth, written down plainly by a woman who could not write anything else.
+Odette folded the sheets, put them back in the envelope, and slipped the envelope into the inside pocket of her coat.
+"Thank you, Miss Halvey," she said. "You've done your country a great service today."
+"I haven't done anything for my country," said Ione. Her voice was shaking with anger. "I've done it for my grandmother."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_8.page_11-1793542290921.mp3
+"Most people do things for their grandmothers," said Odette. "The country benefits anyway." She turned to the young man. "Take Miss Halvey back to Lantry. Drop her at her flat. She's free to go." She looked back at Ione. "You'll still write the statement, of course. For Candour Day. The Prime Minister will want to say a few words about Corvane — about the mistakes of the past, and the Bureau's commitment to the truth. It should be beautifully calm. I'm sure you'll manage it."
+"And if I refuse?"
+Odette smiled her pale smile. "You won't," she said. "You're a professional." And she walked away along the top of the wall, towards the steps and the beach and the path back up to the cars.
+Ione stood alone on the old stone, with the empty tin box at her feet and the gulls crying overhead, and felt more tired than she had ever felt in her life.
+The young man touched her arm. "Miss Halvey. This way, please."
+She climbed down the steps onto the sand. Lucan was standing at the bottom. For the first time that morning, he looked at her directly. His face was pale and drawn in the grey light, and there was something in his dark eyes that she could not read.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_8.page_12-1793542307275.mp3
+She did not want to read it. She walked past him without a word.
+She had gone perhaps five steps when he spoke, quite loudly, in a voice that carried clearly over the sound of the wind and the sea.
+"Looks like it's going to rain all day," he said. "Shame. It's raining already."
+Ione stopped.
+The sky above Harrow Strand was pale and clear and empty. The first long rays of sunlight were breaking over the cliffs, and the wet sand glittered gold. There was not a cloud anywhere, from one end of the horizon to the other. Odette, already halfway up the path, did not turn round. The young man in the grey suit glanced up at the sky with mild puzzlement and then looked away, losing interest. To them, it was nothing. A strange remark. A man who could lie, lying about the weather, for no reason at all.
+But Ione turned her head and looked at him. And Lucan looked back at her, steadily, for exactly two seconds, as he had in Pennick's café on the very first day.
+Then he turned and walked up the path after Odette Crale, with his hands in his pockets, and did not look back.
+
+# Three Questions
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_9.page_1-1793542324223.mp3
+For six weeks, Ione did exactly what Odette Crale expected of her.
+She went to work every morning. She sat at her desk on the fourth floor of Peel and Ashgrove and wrote statements for hotels and banks and breakfast cereals. She ate lunch at Pennick's, where Mrs Pennick now gave her slightly larger portions without comment, which in Mrs Pennick's language was very nearly an embrace. She telephoned her grandmother every Sunday. She visited Bettany, who had been suspended from the hospital for a month and spent it furiously painting her kitchen yellow. And in the evenings, in her flat, with the curtains closed, she wrote the statement about the Corvane Institute that the Prime Minister was going to read aloud on Candour Day.
+The man in the brown raincoat followed her everywhere. After a while she began to say good morning to him. After a while longer, he began to say it back.
+She did not see Lucan. She did not try to. She did not go to the bookshop on Lantern Lane, which had been closed since the night of the hospital, with a sign in its cracked window that simply read: Closed, Mostly. She did not ask anyone where he was. There was nobody she could ask without being asked, in turn, why she wanted to know.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_9.page_2-1793542345136.mp3
+But on the ninth day after Harrow Strand, a parcel arrived at her door.
+It had been posted from the central sorting office, with no return address. Inside, wrapped in brown paper, was a cheap paperback novel with a lurid cover — a romance, of the kind sold in railway stations, called Love on the Lighthouse. Ione had never heard of it. On the title page, someone had written in pencil, in small careful capitals: A BOOK BY ROSALIND HALVEY. It wasn't, of course. And between pages one hundred and two and one hundred and three, she found a sheet of thin paper, folded very small.
+She read it standing in her hallway, with her coat still on.
+I can't prove anything I write here. You know that. So I'll just write it, and you can decide.
+The pages Odette took from the tin are not your mother's. They're mine. I wrote them the night before, in the car outside your grandmother's town, while Odette slept. I was a technical translator for nine years. I know what a chemical formula looks like. I know how to make one that looks right and isn't. I swapped the envelopes on the beach while she was watching you on the wall. Her chemists will need two or three months to discover that the formula doesn't work. Perhaps longer. They'll assume it's unstable, like all the others.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_9.page_3-1793542361322.mp3
+Your mother's pages are somewhere safe. Not with me.
+I told Odette about the bookshop because she was going to find it anyway. She'd had Fennimore watched since the night you first went there. I thought that if I gave her the notebook, she would trust me enough to bring me to the beach. I needed to be on the beach.
+I said it was raining. You know what that means. You're the only person who does.
+Candour Day. The Open Questions. I'll be there. I don't know yet what I'll do.
+— L.
+Ione read it four times. Then she burned it in her kitchen sink and washed the ashes down the drain, and sat at her table until it was dark, staring at the wall.
+She did not know whether it was true. She could not know. That was the whole point. He could have written every word of it in a single evening, as easily as he had written the false formula — if there was a false formula. He could be lying to her now to keep her quiet until the Bureau no longer needed her. He could be lying to her to make her do something foolish on Candour Day. He could be telling her the truth.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_9.page_4-1793542376027.mp3
+The only thing she knew for certain was what he had said on the beach. Looks like it's going to rain all day. It's raining already. A lie so obvious, so pointless, that only one person on that beach could possibly understand it. It was the first thing he had ever said to her. It was, in a sense, the only private language they had.
+And what it meant was simple: Don't believe what you are seeing.
+Candour Day fell on the second Sunday in December. In Lantry, as in every city in the country, it was a public holiday. The shops were closed. The cathedral bells rang all morning. Schoolchildren in white collars stood on the steps of public buildings and recited the famous true sentences of history: the words of the first judge to give a verdict without a jury, the confession of the general who lost the Battle of the Marrows, the opening line of the Phrasers' Act. And at noon, in the great square in front of the Bureau of Candour, beneath the carved words Nothing But What Is So, the Prime Minister spoke, and the whole country listened on the radio.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_9.page_5-1793542391492.mp3
+This year, the square was even fuller than usual. There had been rumours in the newspapers for weeks — small, carefully phrased stories about a research institute on the coast, and illnesses among its volunteers, and the Bureau's "ongoing review". People wanted to hear what the Prime Minister would say.
+He said, word for word, what Ione had written.
+She stood near the front of the crowd, between Bettany and Augustin Peel, and listened to her own sentences come out of the loudspeakers in the Prime Minister's warm, reassuring voice. The Corvane Institute had been established to study disorders of speech. The Bureau had provided funding in good faith. When problems were identified, the Bureau had acted swiftly to close the institute. Those volunteers who had become unwell were receiving the best possible care. The Bureau remained fully committed to the principle on which the nation was built: that nothing should be said but what is so.
+Every word was true. She had checked each one, a hundred times, against her own throat. And the whole of it, taken together, was the most beautiful lie she had ever told.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_9.page_6-1793542405642.mp3
+When the Prime Minister finished, there was polite applause. Then he stepped back from the microphone, and Odette Crale stepped forward.
+"As is our custom on Candour Day," she said, "the Bureau now opens itself to the questions of the people. Any citizen may come forward and put three questions to an officer of the Bureau. The officer will answer each one plainly — yes, or no — or will refuse, and the refusal will be recorded." She looked out over the crowd with her pale eyes. "Is there anyone who wishes to ask?"
+It was the oldest tradition of Candour Day. It went back to the founding of the Bureau, a century ago, when the first Director had said that a department which asked questions of everyone must also be willing to answer them. In practice, almost nobody ever came forward. The questions were usually harmless — a schoolteacher asking whether the Bureau would fund more libraries, an old man asking whether the Director liked dogs. People were afraid of the Bureau. And most of them, Ione thought, had forgotten that the custom was real.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_9.page_7-1793542421951.mp3
+She had not forgotten. She had been thinking about it for six weeks.
+"Ione," said Augustin softly beside her. "Are you sure?"
+"No," she said. "But I'm going to do it anyway."
+He looked at her for a long moment over his spectacles. Then he smiled, a small, proud, frightened smile, and stepped aside to let her pass.
+She walked through the crowd towards the steps. She could feel heads turning, hear people murmuring. At the foot of the steps, a Bureau official asked her name and wrote it in a large leather book. Then she climbed up to the platform, where the Prime Minister stood with an uncertain expression and Odette Crale waited beside the microphone, watching her come with no expression at all.
+"Miss Halvey," said Odette quietly, so that only Ione could hear. "How unexpected."
+"Is it?" said Ione.
+She turned to the microphone. The square stretched out below her, thousands of faces turned up towards the platform, all of them waiting. Somewhere, in kitchens and shops and hospital wards all over the country, people were listening on the radio. She thought of the man in the third bed on the seventh floor, asking whether it was raining. She thought of Maren. She thought of her mother, on the dry top of the harbour wall, carving a gull into the stone.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_9.page_8-1793542434977.mp3
+She had three questions. She had spent six weeks choosing them. A phraser's whole life was spent choosing words, but she had never chosen any so carefully as these.
+"My name is Ione Halvey," she said. "I am a phraser. I wrote the statement that the Prime Minister has just read. Every word of it is true." She paused. "These are my questions."
+She turned to face Odette.
+"First question. Did the Bureau of Candour, at any time, intend to give the compound developed at the Corvane Institute to its own officers, so that they would be able to lie?"
+The square went utterly silent.
+Odette did not move. Her face did not change. But Ione, standing three feet away, saw her throat move once, as if she were swallowing. A plain answer: yes, or no, or refusal. There was no room for phrasing. That was the beauty of the Open Questions. That was why nobody ever asked them properly.
+The silence went on. Five seconds. Ten. In the crowd, someone coughed.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_9.page_9-1793542447743.mp3
+"Yes," said Odette Crale.
+A sound went through the square like wind through a field of wheat. Ione did not wait for it to fade.
+"Second question. Is the Bureau, today, in possession of a formula which it believes will allow that compound to be made safely and in quantity?"
+This time Odette answered more quickly, and Ione understood why. The woman believed it. She believed it completely. She had a formula in her safe, in her own handwriting, written out by a man she thought she had bought.
+"Yes," said Odette. And then, before Ione could speak again, she leaned towards the microphone and added, in a clear, cold voice: "And I will tell the people why. Because the first nation to learn to lie will rule all the nations that cannot. Every officer of this Bureau has sworn to protect this country. That is what we have done."
+The murmur in the square grew louder. Some people were shouting. Ione could not tell whether they were angry with the Bureau or with her.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_9.page_10-1793542464330.mp3
+Odette turned away from the microphone and raised her hand. "I'd like to call a witness," she said, loudly enough for the front rows to hear. "A man who was at Corvane. A man who can tell the people what the compound really does — that it's safe, that it's controlled, that there's nothing to fear." She looked towards the side of the platform. "Mr Mere."
+And Lucan walked up the steps.
+He was wearing a dark suit that did not fit him well, and someone had cut his hair. He looked thinner than ever. He did not look at Ione. He walked to the microphone and stood there, looking out over the crowd, and Ione understood, with a terrible clarity, exactly what Odette had planned.
+He could say anything. Anything at all. That the compound was harmless. That the volunteers had been ill for other reasons. That the Bureau's intentions were good. And the crowd, all those thousands of people who had never once in their lives heard a human voice say something false, would believe every word, because they could not imagine doing anything else. He was the perfect witness. He was the Bureau's answer to the Open Questions. A man who could stand in front of the whole nation on Candour Day, beneath the words Nothing But What Is So, and lie.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_9.page_11-1793542475716.mp3
+Lucan leaned towards the microphone.
+"My name," he said, "is Lucan Mere. I was a volunteer at the Corvane Institute. And before I say anything else, I'd like to show you something." He looked up at the clear, cold December sky above the square. "It's raining," he said.
+There was a strange, confused pause. Then a ripple of uneasy laughter. People looked up at the sky. People looked at each other.
+"No, it isn't," said Lucan. "But I just said that it was. I said it because I can. Because of what they did to me at Corvane." He turned his head and looked, at last, at Ione. "So you can't believe a single thing I tell you. Not one. You'll have to decide for yourselves. That's what it's like, now. That's what they want for all of you." He turned back to the crowd. "And now I'm going to tell you the truth."
+
+# The Last Phrase
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_10.page_1-1793542489486.mp3
+He told them everything.
+He told them about the advertisement in the newspaper, and the low grey building on the cliff above Saltreach, and the red cards, and the white rooms. He told them about the seventeen volunteers in the last trial, and the eleven who had died, and the four who now lay on the seventh floor of Lantry General Hospital, unable to tell their own memories from their own inventions. He told them about the earlier trial, nine years ago, and the seven people who had never been asked. He told them about a chemist called Rosalind Halvey who had poured acid over years of her own work because she had understood, before anyone else, what it would do to the world.
+And then he told them about the beach.
+"The Deputy Director believes she has the final formula," he said. "She has it in her safe. She took it from a tin box hidden in a harbour wall, and she believes it was written by Rosalind Halvey." He paused. "It wasn't. I wrote it. It's useless. It's a translation of nothing into nothing. I made it up the night before, in her car, while she was asleep."
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_10.page_2-1793542505039.mp3
+Odette Crale had gone completely white.
+"That's a lie," she said. She did not say it into the microphone, but the platform was very quiet, and the front rows heard her. "That's a lie. He's lying. He can lie, you've just heard him — "
+"Yes," said Lucan simply. "I can. So you'll all have to decide." He looked out over the square. "But ask yourselves this. If I were still working for the Bureau — if I were here to protect it — why would I have shown you, first, that I'm able to lie? Why wouldn't I simply have stood here and told you that the compound was safe, and let you believe me?" He spread his hands. "I could have done that. It would have been very easy. Nobody in this square would ever have known."
+The silence that followed was the deepest Ione had ever heard. Thousands of people, standing absolutely still, thinking.
+It was not proof. Ione knew that. There would never be proof — not from Lucan, not about anything. But it was something else, something she had never seen before in a world where nobody could lie. It was a man who could deceive them, choosing in front of them not to. And she watched it land on the crowd like rain on dry ground.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_10.page_3-1793542519788.mp3
+She stepped back to the microphone.
+"I have one question left," she said.
+Odette turned to look at her. For the first time, there was something in those pale eyes that Ione recognised. It was fear.
+Ione had spent six weeks choosing her third question. She had considered a dozen of them. Questions about the money, about the volunteers, about the foreign governments who knew of Corvane. Questions that would have destroyed the Bureau entirely. But in the end, standing on the platform with the whole country listening, she found that there was only one question she had ever really wanted to ask.
+"Third question," she said. "Did anyone at the Bureau of Candour cause, or order, or knowingly allow the death of my mother, Rosalind Halvey?"
+Odette Crale looked at her for a long time. Her lips moved slightly, as if she were trying several answers in her mind and feeling each one catch in her throat.
+"I refuse," she said at last.
+And the Bureau official at the foot of the steps, as the custom required, wrote it down in the large leather book.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_10.page_4-1793542540374.mp3
+The days that followed were the strangest the country had known in a hundred years.
+There was no single great event. There was no revolution, no riot, no collapse. There were simply questions — thousands of them, millions — asked in newspapers and parliaments and kitchens and bars all over the nation, by people who had suddenly remembered that they were allowed to ask them. Questions about the Bureau's money. Questions about who had known what, and when. Questions to ministers, who had to answer plainly or refuse in public. Many of them refused. Every refusal was recorded, and printed in the papers, and read aloud on the radio, until refusing began to seem even more dangerous than answering.
+Odette Crale resigned eleven days after Candour Day. She did not make a statement. She was, the newspapers reported carefully, "assisting with an inquiry". The inquiry lasted for most of the following year. It found that Rosalind Halvey had died after falling from the cliffs above Saltreach, eight years earlier, on an evening when she had been seen walking with two men from the Bureau. It found that neither man could be asked any questions, because one of them was dead and the other had left the country. It did not find what had happened on the cliff. Ione had not expected it to. Some truths, she had learned, were not hidden behind words at all. They were simply lost.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_10.page_5-1793542554975.mp3
+The formula in the Bureau's safe was examined by six independent chemists. All six agreed that it was nonsense — elegant, convincing, beautifully written nonsense. One of them said, in his report, that it was the most impressive piece of scientific fiction he had ever read, and that he would very much like to meet its author.
+The four patients on the seventh floor were moved to a small private hospital by the sea, paid for by the government. Bettany was reinstated at Lantry General, with an apology that she framed and hung in her yellow kitchen. She went to visit Maren every month. Sometimes Maren knew her, and sometimes she didn't. Sometimes she said she had been born on the moon. But she laughed more than she used to, Bettany said. And once, at the end of a visit, she had held Bettany's hand and said, quite clearly, "Tell Rosalind's girl that she kept her promise," and Bettany had not been able to tell whether Maren was confused, or whether, for once, she knew exactly what she was saying.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_10.page_6-1793542568683.mp3
+Augustin Peel retired in the spring. On his last day at the office, he called Ione in, poured two glasses of very old sherry, and told her that he had decided to leave the firm to her.
+"I don't want it," said Ione.
+"I know," said Augustin. "That's why I'm offering it. One should always give a gift to the person who's least likely to misuse it." He raised his glass. "But you're going to refuse, aren't you?"
+"Yes."
+"What will you do instead?"
+She had thought about it for a long time. "I'm going to teach," she said. "Not phrasing. The opposite. I'm going to teach people how to ask questions. How to hear what isn't being said. How to notice when someone's standing in front of the part of the truth they don't want you to see." She smiled faintly. "It turns out that's a useful skill, in a world where somebody might be able to lie."
+Augustin looked at her over his spectacles for a long moment. Then he lifted his glass a little higher.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_10.page_7-1793542580965.mp3
+"To your mother," he said. "Who taught you all of that without ever saying a word about it."
+Ione drank.
+She saw Lucan for the first time in four months on a grey afternoon at the beginning of April. She had gone down to Brindlemouth to see her grandmother, and in the evening, without really deciding to, she walked along the coast road to the top of the steep path, and down between the rocks to Harrow Strand. The tide was out. The sand was wet and pale. And at the northern end of the beach, sitting on the dry top of the old harbour wall with his legs hanging over the edge, there was a man in a grey coat.
+She walked along the sand and climbed the rough steps and sat down beside him. Neither of them spoke for a while. The gulls wheeled and cried above them. Between them, cut into the soft grey stone, was a small gull with outstretched wings, and beneath it two crooked letters.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_10.page_8-1793542597842.mp3
+"How did you know I'd come?" she said at last.
+"I didn't," said Lucan. "I've been here three times this month."
+She did not ask whether that was true. She found that she did not want to.
+"The real pages," she said. "My mother's. You said they were somewhere safe. Not with you."
+"Yes."
+"Where?"
+He reached into his coat and took out a long envelope, worn and soft at the corners. On the front, in Rosalind Halvey's small, untidy handwriting, was a single word: Ione.
+"With you," he said, and put it in her hands. "I posted them to your grandmother the morning after the beach. With a note asking her to keep them in a tin with a lighthouse on the lid until I came for them. She sent me a very rude letter back." He smiled slightly. "I liked her enormously."
+Ione stared at the envelope. Then she began to laugh — helplessly, the way she had laughed on this wall nine years ago, with a knife in her shaking hand and her mother's camera pointing at her face. Her grandmother. Of course. Her grandmother, who had kept a secret for eight years and could keep one for eight more, and who had sat across the kitchen table from her every Sunday since Christmas, offering her ginger biscuits and saying absolutely nothing.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_10.page_9-1793542616268.mp3
+When she had finished laughing, she opened the envelope. Inside were four sheets of paper, densely covered in formulas, in her mother's hand. She did not understand any of it. She did not need to. On the back of the last sheet, at the very bottom, her mother had written a few lines in ordinary words.
+My darling. If you are reading this, you found the gull. I knew you would. Do whatever you think is right with these pages. I trust you more than I have ever trusted myself. And remember: not being able to lie has never made anyone honest. It only makes us careful. Honesty is something else. It's what you choose to say when you could say anything.
+Ione sat on the wall for a long time, with the pages in her lap and the sea wind in her hair.
+Then she took a box of matches out of her pocket. She had brought them, she realised, without quite admitting why. She struck one, and shielded it with her hand, and held it to the corner of the first page. The paper caught slowly. She watched the flame creep across her mother's formulas, turning the careful numbers brown and then black, until the whole sheet curled and broke into ash and the wind carried it out over the sand. Then she did the same with the second, and the third, and the fourth. She kept back only the bottom of the last page, with the few lines in ordinary words, and folded it, and put it in her coat.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_10.page_10-1793542628123.mp3
+Lucan watched her do it without a word.
+"You could have stopped me," she said, when it was finished.
+"Yes."
+"You could have sold them. You could have kept them. You could have told me they'd been lost. I'd never have known."
+"No," he agreed. "You'd never have known."
+"Why didn't you?"
+He thought about it for a long time, looking out at the sea.
+"Because I'm tired of being the only one," he said at last. "That was true, the first time I said it. On the ferry. It was nearly the only true thing I said that night." He turned to look at her. "Do you believe me?"
+Ione looked back at him. At his thin, tired face, and his dark eyes, and the hair that somebody had cut too short for Candour Day and that was beginning, at last, to grow out again. She listened, the way she had been trained to listen, for the edges of his words — and heard nothing at all. Nothing but the sea, and the gulls, and the wind.
+
+---
+
+@audio https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/audio/c1-the-phraser/chapter_10.page_11-1793542647474.mp3
+For the whole of her life, she had never had to decide whether to believe anyone. The Stop had decided for her. It had been a keel, as Maren said: a weight deep below the surface that kept her upright, that kept everyone upright, and that nobody ever saw. Now, sitting beside the one man in the world who did not have it, she understood that she would never again be able to rely on it completely. Not with him. Perhaps not with anyone. She would have to listen, and watch, and choose. It was harder. It was frightening. And it was, she thought, the first entirely honest thing that had ever happened to her.
+"I don't know," she said. "But I'd like to find out."
+Lucan smiled — not the small careful smile from Pennick's, but something wider and stranger and much less certain.
+"That's the most honest answer anyone's ever given me," he said.
+They sat together on the old harbour wall until the light began to go, and the tide turned and came slowly back across the sand. Then they climbed down the steps and walked along Harrow Strand towards the path and the town and her grandmother's green house, where there would be tea and ginger biscuits and, almost certainly, a number of very sharp questions.
+Above them, the sky had filled with low grey clouds. As they reached the bottom of the path, the first drops began to fall.
+"It's raining," said Lucan, holding out his hand.
+Ione looked up. The drops were cold and real on her face.
+"Yes," she said. "It is."
