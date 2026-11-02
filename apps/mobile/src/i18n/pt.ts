@@ -93,6 +93,7 @@ export const pt: Messages = {
     review: 'Revisar',
     loadError: (message) => `Não foi possível carregar as histórias: ${message}`,
     comingSoon: 'Novas histórias em breve',
+    storyCount: (n) => count(n, 'história', 'histórias'),
     continueReading: 'Continuar lendo',
     continueChapter: (n, title, page, total) =>
       `Capítulo ${n} · ${title} · página ${page}/${total}`,

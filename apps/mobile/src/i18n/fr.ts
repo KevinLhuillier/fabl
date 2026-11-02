@@ -96,6 +96,7 @@ export const fr = {
     review: 'Réviser',
     loadError: (message: string) => `Impossible de charger les histoires : ${message}`,
     comingSoon: 'Bientôt de nouvelles histoires',
+    storyCount: (n: number) => count(n, 'histoire', 'histoires'),
     continueReading: 'Continuer la lecture',
     continueChapter: (n: number, title: string, page: number, total: number) =>
       `Chapitre ${n} · ${title} · page ${page}/${total}`,

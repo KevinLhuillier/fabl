@@ -1,13 +1,13 @@
 import { useRouter, useFocusEffect } from 'expo-router';
 import { Brain, Library, Lock } from 'lucide-react-native';
-import { useCallback, useState } from 'react';
+import { useCallback, useMemo, useState } from 'react';
 import { RefreshControl, ScrollView, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { ContinueReading } from '@/components/ContinueReading';
 import { StatsBar } from '@/components/StatsBar';
-import { StoryTile } from '@/components/StoryTile';
+import { StoryShelf } from '@/components/StoryShelf';
 import { useI18n } from '@/i18n';
 import { fetchStories } from '@/lib/api/content';
 import {
@@ -21,7 +21,18 @@ import { usePremium } from '@/lib/premium';
 import { useStats } from '@/lib/stats';
 import { useTour } from '@/lib/tour';
 import type { StorySummary } from '@/lib/types';
-import { Button, Card, Icon, Loader, Text, colors, enter, radii, spacing } from '@/theme';
+import {
+  Button,
+  CEFR_LEVELS,
+  Card,
+  Icon,
+  Loader,
+  Text,
+  colors,
+  enter,
+  radii,
+  spacing,
+} from '@/theme';
 
 export default function Home() {
   const router = useRouter();
@@ -35,6 +46,17 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null);
   const [refreshing, setRefreshing] = useState(false);
   const { target } = useTour('home', stories !== null);
+  // One shelf per level (A1 first), the free stories at the front of each.
+  const shelves = useMemo(
+    () =>
+      CEFR_LEVELS.map((level) => ({
+        level,
+        stories: (stories ?? [])
+          .filter((s) => s.level === level)
+          .sort((a, b) => Number(a.premium) - Number(b.premium)),
+      })).filter((shelf) => shelf.stories.length),
+    [stories],
+  );
 
   const load = useCallback(async () => {
     try {
@@ -129,13 +151,14 @@ export default function Home() {
           </Card>
         ) : stories ? (
           stories.length ? (
-            <View ref={target('stories')} collapsable={false} style={styles.grid}>
-              {stories.map((story, i) => (
-                <Animated.View key={story.id} entering={enter.up(i * 50)} style={styles.cell}>
-                  <StoryTile
-                    story={story}
-                    progress={progress.get(story.id)}
-                    onPress={() =>
+            <View ref={target('stories')} collapsable={false} style={styles.shelves}>
+              {shelves.map((shelf, i) => (
+                <Animated.View key={shelf.level} entering={enter.up(i * 80)}>
+                  <StoryShelf
+                    level={shelf.level}
+                    stories={shelf.stories}
+                    progress={progress}
+                    onOpen={(story) =>
                       router.push({ pathname: '/story/[id]', params: { id: story.id } })
                     }
                   />
@@ -165,9 +188,7 @@ const styles = StyleSheet.create({
   flex: { flex: 1 },
   retry: { marginTop: spacing.md },
   loader: { marginTop: spacing.xxl },
-  // Two columns of books; a lone tile keeps half the width instead of stretching.
-  grid: { flexDirection: 'row', flexWrap: 'wrap', columnGap: spacing.lg, rowGap: spacing.xl },
-  cell: { width: '46.5%', flexGrow: 0 },
+  shelves: { gap: spacing.xxl },
   soon: {
     flexDirection: 'row',
     alignItems: 'center',
