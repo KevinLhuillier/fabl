@@ -268,6 +268,7 @@ export const es: Messages = {
   },
   premium: {
     badge: 'Premium',
+    free: 'Gratis',
     title: 'Hazte Premium',
     coffee: 'Por el precio de un café',
     subtitle: 'Suscríbete por el precio de un café y desbloquea todo el contenido.',

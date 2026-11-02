@@ -49,6 +49,9 @@ export function StoryTile({ story, progress, onPress }: Props) {
       <Animated.View style={faceStyle}>
         <StoryCover story={story} width="100%" />
         <Badge label={story.level} level={story.level} solid style={styles.level} />
+        {!story.premium && !done ? (
+          <Badge label={t.premium.free} tone="success" style={styles.free} />
+        ) : null}
         {story.premium && !done ? (
           <View
             style={[styles.done, { backgroundColor: colors.xp, borderColor: colors.surface }]}
@@ -83,6 +86,7 @@ export function StoryTile({ story, progress, onPress }: Props) {
 
 const styles = StyleSheet.create({
   level: { position: 'absolute', top: spacing.sm, left: spacing.md + 2 },
+  free: { position: 'absolute', top: spacing.sm, right: spacing.sm },
   done: {
     position: 'absolute',
     top: spacing.sm,

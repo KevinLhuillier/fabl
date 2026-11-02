@@ -274,6 +274,7 @@ export const fr = {
   /** Premium subscription: offer screen, profile card, limits. */
   premium: {
     badge: 'Premium',
+    free: 'Gratuit',
     title: 'Passe à Premium',
     coffee: 'Pour le prix d’un café',
     subtitle: 'Abonne-toi pour le prix d’un café et débloque tout le contenu.',
