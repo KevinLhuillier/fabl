@@ -96,7 +96,7 @@ export function Button({
               color={textColor}
               align="center"
               numberOfLines={compact ? 1 : undefined}
-              style={styles.label}>
+              style={[styles.label, !icon && styles.labelFill]}>
               {label}
             </Text>
           </>
@@ -126,4 +126,9 @@ const styles = StyleSheet.create({
   },
   compact: { paddingHorizontal: spacing.sm },
   label: { flexShrink: 1 },
+  // Some Android phones (Pixel) draw text a little wider than it was measured: sized to its
+  // text, the label would wrap its last word onto a line the button has no room for, and the
+  // word would vanish ("J’ai déjà un" instead of "J’ai déjà un compte"). Filling the button
+  // leaves it the spare width. Not with an icon, which must stay next to the centered text.
+  labelFill: { flexGrow: 1 },
 });
