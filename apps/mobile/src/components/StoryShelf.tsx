@@ -28,15 +28,26 @@ const COPIES = 7;
 const MIDDLE = Math.floor(COPIES / 2);
 
 type Props = {
-  level: CefrLevel;
-  /** In display order (free stories first). */
+  title: string;
+  /** Level shelf: its badge before the title. */
+  level?: CefrLevel;
+  /** In display order. */
   stories: StorySummary[];
+  /** Endless row (the books repeat); off for a list whose order matters. */
+  loop?: boolean;
   progress: Map<string, StoryProgressSummary>;
   onOpen: (story: StorySummary) => void;
 };
 
-/** The stories of one level, as an endless row of books scrolled sideways. */
-export function StoryShelf({ level, stories, progress, onOpen }: Props) {
+/** A row of books scrolled sideways (endless with `loop`): a level, the stories in progress… */
+export function StoryShelf({
+  title,
+  level,
+  stories,
+  loop: loopable = false,
+  progress,
+  onOpen,
+}: Props) {
   const { t } = useI18n();
   const { width } = useWindowDimensions();
   const listRef = useRef<FlatList<{ key: string; story: StorySummary }>>(null);
@@ -45,7 +56,7 @@ export function StoryShelf({ level, stories, progress, onOpen }: Props) {
   const step = tileWidth + GAP;
   const n = stories.length;
   // A single book has nothing to loop over.
-  const loop = n > 1;
+  const loop = loopable && n > 1;
 
   const items = useMemo(
     () =>
@@ -67,9 +78,9 @@ export function StoryShelf({ level, stories, progress, onOpen }: Props) {
   return (
     <View style={styles.shelf}>
       <View style={styles.header}>
-        <Badge label={level} level={level} solid />
+        {level ? <Badge label={level} level={level} solid /> : null}
         <Text variant="heading" style={styles.flex} numberOfLines={1}>
-          {t.levels[level]}
+          {title}
         </Text>
         <Text variant="caption" color={colors.textSecondary}>
           {t.home.storyCount(n)}

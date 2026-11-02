@@ -72,36 +72,13 @@ export async function fetchChapterProgress(storyId: string): Promise<Map<string,
   return new Map(rows.map((r) => [r.chapter_id, toProgress(r)]));
 }
 
-export type ResumePoint = {
-  story: StorySummary;
-  chapter: ChapterSummary;
-  /** Page the reader is on in that chapter (0-based). */
-  pageIndex: number;
-};
-
-/**
- * Where to pick up the story read last: the first unfinished chapter of the most recently
- * read story that isn't finished. Null when no story is in progress.
- */
-export async function fetchResumePoint(
-  stories: StorySummary[],
-  progress: Map<string, StoryProgressSummary>,
-): Promise<ResumePoint | null> {
-  const inProgress = stories
-    .filter((s) => {
-      const p = progress.get(s.id);
-      return p?.lastReadAt && p.fraction < 1;
-    })
-    .sort((a, b) => progress.get(b.id)!.lastReadAt!.localeCompare(progress.get(a.id)!.lastReadAt!));
-  const story = inProgress[0];
-  if (!story) return null;
-  const [{ chapters }, chapterProgress] = await Promise.all([
-    fetchStoryWithChapters(story.id),
-    fetchChapterProgress(story.id),
+/** The chapter to pick a story up at: its first unfinished one (null once all are done). */
+export async function fetchResumeChapter(storyId: string): Promise<ChapterSummary | null> {
+  const [{ chapters }, progress] = await Promise.all([
+    fetchStoryWithChapters(storyId),
+    fetchChapterProgress(storyId),
   ]);
-  const chapter = chapters.find((c) => !chapterProgress.get(c.id)?.completed);
-  if (!chapter) return null;
-  return { story, chapter, pageIndex: chapterProgress.get(chapter.id)?.pageIndex ?? 0 };
+  return chapters.find((c) => !progress.get(c.id)?.completed) ?? null;
 }
 
 /** Remembers the page the reader is on (keeps `completed` as is). */

@@ -94,11 +94,7 @@ export const pt: Messages = {
     loadError: (message) => `Não foi possível carregar as histórias: ${message}`,
     comingSoon: 'Novas histórias em breve',
     storyCount: (n) => count(n, 'história', 'histórias'),
-    continueReading: 'Continuar lendo',
-    continueChapter: (n, title, page, total) =>
-      `Capítulo ${n} · ${title} · página ${page}/${total}`,
-    continueA11y: (story, n, page, total) =>
-      `Continuar lendo: ${story}, capítulo ${n}, página ${page} de ${total}`,
+    inProgress: 'Em andamento',
   },
   stats: {
     goalReached: 'Meta cumprida!',

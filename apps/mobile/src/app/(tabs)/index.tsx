@@ -5,15 +5,13 @@ import { RefreshControl, ScrollView, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
-import { ContinueReading } from '@/components/ContinueReading';
 import { StatsBar } from '@/components/StatsBar';
 import { StoryShelf } from '@/components/StoryShelf';
 import { useI18n } from '@/i18n';
 import { fetchStories } from '@/lib/api/content';
 import {
   fetchProgressByStory,
-  fetchResumePoint,
-  type ResumePoint,
+  fetchResumeChapter,
   type StoryProgressSummary,
 } from '@/lib/api/progress';
 import { countDueVocabulary } from '@/lib/api/vocabulary';
@@ -41,7 +39,6 @@ export default function Home() {
   const { premium } = usePremium();
   const [stories, setStories] = useState<StorySummary[] | null>(null);
   const [progress, setProgress] = useState(new Map<string, StoryProgressSummary>());
-  const [resume, setResume] = useState<ResumePoint | null>(null);
   const [due, setDue] = useState(0);
   const [error, setError] = useState<string | null>(null);
   const [refreshing, setRefreshing] = useState(false);
@@ -57,18 +54,25 @@ export default function Home() {
       })).filter((shelf) => shelf.stories.length),
     [stories],
   );
+  // Started and not finished, the last read first.
+  const inProgress = useMemo(
+    () =>
+      (stories ?? [])
+        .filter((s) => {
+          const p = progress.get(s.id);
+          return p?.lastReadAt && p.fraction < 1;
+        })
+        .sort((a, b) =>
+          progress.get(b.id)!.lastReadAt!.localeCompare(progress.get(a.id)!.lastReadAt!),
+        ),
+    [stories, progress],
+  );
 
   const load = useCallback(async () => {
     try {
       const [s, d] = await Promise.all([fetchStories(), countDueVocabulary(), refreshStats()]);
       const p = await fetchProgressByStory(s);
-      // A shortcut only: the shelf still shows if it fails.
-      const r = await fetchResumePoint(s, p).catch((e: unknown) => {
-        console.warn('resume', e);
-        return null;
-      });
       setProgress(p);
-      setResume(r);
       setStories(s);
       setDue(d);
       setError(null);
@@ -76,6 +80,25 @@ export default function Home() {
       setError(e instanceof Error ? e.message : String(e));
     }
   }, [refreshStats]);
+
+  const openStory = (story: StorySummary) =>
+    router.push({ pathname: '/story/[id]', params: { id: story.id } });
+
+  /** A story in progress opens where the user left it. */
+  async function resume(story: StorySummary) {
+    // A premium story without subscription: the story page tells whether the chapter is
+    // open (unlocked, or today's unlock) or shows the offer.
+    if (story.premium && !premium) return openStory(story);
+    const chapter = await fetchResumeChapter(story.id).catch((e: unknown) => {
+      console.warn('fetchResumeChapter', e);
+      return null;
+    });
+    if (!chapter) return openStory(story);
+    router.push({
+      pathname: '/read/[chapterId]',
+      params: { chapterId: chapter.id, storyId: story.id },
+    });
+  }
 
   // Reload whenever the tab gets focus (e.g. back from a story or a review).
   useFocusEffect(
@@ -104,21 +127,13 @@ export default function Home() {
           <StatsBar />
         </View>
 
-        {resume ? (
+        {inProgress.length ? (
           <Animated.View entering={enter.up()}>
-            <ContinueReading
-              resume={resume}
-              fraction={progress.get(resume.story.id)?.fraction ?? 0}
-              onPress={() =>
-                // A premium story without subscription: the story page tells whether the
-                // chapter is open (unlocked, or today's unlock) or shows the offer.
-                !resume.story.premium || premium
-                  ? router.push({
-                      pathname: '/read/[chapterId]',
-                      params: { chapterId: resume.chapter.id, storyId: resume.story.id },
-                    })
-                  : router.push({ pathname: '/story/[id]', params: { id: resume.story.id } })
-              }
+            <StoryShelf
+              title={t.home.inProgress}
+              stories={inProgress}
+              progress={progress}
+              onOpen={resume}
             />
           </Animated.View>
         ) : null}
@@ -155,12 +170,12 @@ export default function Home() {
               {shelves.map((shelf, i) => (
                 <Animated.View key={shelf.level} entering={enter.up(i * 80)}>
                   <StoryShelf
+                    title={t.levels[shelf.level]}
                     level={shelf.level}
                     stories={shelf.stories}
+                    loop
                     progress={progress}
-                    onOpen={(story) =>
-                      router.push({ pathname: '/story/[id]', params: { id: story.id } })
-                    }
+                    onOpen={openStory}
                   />
                 </Animated.View>
               ))}
