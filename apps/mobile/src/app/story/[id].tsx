@@ -1,13 +1,15 @@
 import { useRouter, useFocusEffect, useLocalSearchParams } from 'expo-router';
-import { BookOpen, ChevronLeft, Clock, Crown } from 'lucide-react-native';
+import { BookOpen, ChevronLeft, Clock, Crown, Gift } from 'lucide-react-native';
 import { useCallback, useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+import { ConfirmSheet } from '@/components/ConfirmSheet';
 import { StoryCover } from '@/components/StoryCover';
-import { TableOfContents } from '@/components/TableOfContents';
+import { TableOfContents, type ChapterGate } from '@/components/TableOfContents';
 import { useI18n } from '@/i18n';
+import { fetchUnlocks, unlockChapter, type Unlocks } from '@/lib/api/allowance';
 import { fetchStoryWithChapters } from '@/lib/api/content';
 import { fetchChapterProgress } from '@/lib/api/progress';
 import { readingMinutes } from '@/lib/labels';
@@ -37,17 +39,23 @@ export default function StoryScreen() {
   const [story, setStory] = useState<StorySummary | null>(null);
   const [chapters, setChapters] = useState<ChapterSummary[]>([]);
   const [progress, setProgress] = useState(new Map<string, ChapterProgress>());
+  const [unlocks, setUnlocks] = useState<Unlocks | null>(null);
   const [error, setError] = useState<string | null>(null);
+  /** Chapter waiting for the user's go before today's unlock is used on it. */
+  const [toUnlock, setToUnlock] = useState<ChapterSummary | null>(null);
+  // Kept separate from `toUnlock` so the text stays during the closing fade.
+  const [confirmOpen, setConfirmOpen] = useState(false);
   const { target } = useTour('story', story !== null);
 
   // Reload on focus: coming back from the reader updates the path.
   useFocusEffect(
     useCallback(() => {
-      Promise.all([fetchStoryWithChapters(id), fetchChapterProgress(id)])
-        .then(([data, p]) => {
+      Promise.all([fetchStoryWithChapters(id), fetchChapterProgress(id), fetchUnlocks()])
+        .then(([data, p, u]) => {
           setStory(data.story);
           setChapters(data.chapters);
           setProgress(p);
+          setUnlocks(u);
           setError(null);
         })
         .catch((e: unknown) => setError(e instanceof Error ? e.message : String(e)));
@@ -78,7 +86,35 @@ export default function StoryScreen() {
   }, 0);
   const fraction = story.passage_count ? Math.min(1, pagesRead / story.passage_count) : 0;
   const premiumLocked = story.premium && !premium;
+  const gate: ChapterGate | null =
+    premiumLocked && unlocks
+      ? { unlocked: unlocks.chapterIds, usedToday: unlocks.usedToday }
+      : null;
   const openPaywall = () => router.push('/paywall');
+  const openChapter = (chapter: ChapterSummary) =>
+    router.push({
+      pathname: '/read/[chapterId]',
+      params: { chapterId: chapter.id, storyId: story.id },
+    });
+
+  /** Uses today's unlock on the confirmed chapter, then opens it. */
+  async function unlock(chapter: ChapterSummary) {
+    setConfirmOpen(false);
+    try {
+      if ((await unlockChapter(chapter.id)) === 'limit') {
+        // Used meanwhile on another device.
+        setUnlocks((u) => (u ? { ...u, usedToday: true } : u));
+        router.push({ pathname: '/paywall', params: { reason: 'chapter' } });
+        return;
+      }
+      setUnlocks((u) =>
+        u ? { chapterIds: new Set(u.chapterIds).add(chapter.id), usedToday: true } : u,
+      );
+      openChapter(chapter);
+    } catch (e) {
+      setError(e instanceof Error ? e.message : String(e));
+    }
+  }
 
   return (
     <SafeAreaView style={styles.safe} edges={['top']}>
@@ -142,8 +178,10 @@ export default function StoryScreen() {
               <View style={styles.offerRow}>
                 <Icon icon={Crown} size={28} color={colors.xpShade} />
                 <View style={styles.flex}>
-                  <Text variant="heading">{t.premium.freeChapters}</Text>
-                  <Text color={colors.textSecondary}>{t.premium.unlockStory}</Text>
+                  <Text variant="heading">{t.premium.dailyTitle}</Text>
+                  <Text color={colors.textSecondary}>
+                    {unlocks?.usedToday ? t.premium.dailyUsed : t.premium.dailyAvailable}
+                  </Text>
                 </View>
               </View>
               <Button
@@ -161,17 +199,31 @@ export default function StoryScreen() {
             level={story.level}
             chapters={chapters}
             progress={progress}
-            premiumLocked={premiumLocked}
-            onPremium={openPaywall}
-            onOpen={(chapter) =>
+            gate={gate}
+            onPremium={() =>
               router.push({
-                pathname: '/read/[chapterId]',
-                params: { chapterId: chapter.id, storyId: story.id },
+                pathname: '/paywall',
+                params: unlocks?.usedToday ? { reason: 'chapter' } : {},
               })
             }
+            onDaily={(chapter) => {
+              setToUnlock(chapter);
+              setConfirmOpen(true);
+            }}
+            onOpen={openChapter}
           />
         </View>
+        {error ? <Text color={colors.danger}>{error}</Text> : null}
       </ScrollView>
+      <ConfirmSheet
+        visible={confirmOpen}
+        icon={Gift}
+        title={t.premium.unlockTitle}
+        message={toUnlock ? t.premium.unlockMessage(toUnlock.position + 1, toUnlock.title) : ''}
+        confirmLabel={t.premium.unlockConfirm}
+        onConfirm={() => toUnlock && unlock(toUnlock)}
+        onCancel={() => setConfirmOpen(false)}
+      />
     </SafeAreaView>
   );
 }

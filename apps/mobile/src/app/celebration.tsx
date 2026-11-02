@@ -43,6 +43,8 @@ type Params = {
   /** Chapter only: lets the user chain straight into the next chapter. */
   nextChapterId?: string;
   storyId?: string;
+  /** '1': free account, the next chapter of this premium story opens tomorrow (offer shown). */
+  nextLocked?: string;
   /** Chapter and story: words of the chapter added to "Mes mots", not reviewed yet. */
   newWords?: string;
 };
@@ -53,6 +55,9 @@ const HERO: Record<Kind, { icon: LucideIcon; color: string; background: string }
   review: { icon: Brain, color: colors.infoShade, background: colors.infoSoft },
 };
 
+/** The offer slides over the rewards once they have shown. */
+const PAYWALL_DELAY_MS = 1200;
+
 /** Reward screen after a chapter, a whole story or a review session. */
 export default function Celebration() {
   const router = useRouter();
@@ -62,8 +67,10 @@ export default function Celebration() {
     title,
     nextChapterId,
     storyId,
+    nextLocked,
     newWords,
   } = useLocalSearchParams<Params>();
+  const locked = nextLocked === '1';
   const { stats, todaySeconds } = useStats();
   const { t } = useI18n();
   const spent = Number(seconds) || 0;
@@ -73,6 +80,16 @@ export default function Celebration() {
   useEffect(() => {
     haptics.success();
   }, []);
+
+  // End of a premium chapter on a free account: the offer to read on, over the rewards.
+  useEffect(() => {
+    if (!locked) return;
+    const timer = setTimeout(
+      () => router.push({ pathname: '/paywall', params: { reason: 'chapter' } }),
+      PAYWALL_DELAY_MS,
+    );
+    return () => clearTimeout(timer);
+  }, [locked, router]);
 
   const goal = goalSeconds(stats);
   const reached = todaySeconds >= goal;
@@ -162,10 +179,12 @@ export default function Celebration() {
             label={t.celebration.nextChapter}
             variant="success"
             onPress={() =>
-              router.replace({
-                pathname: '/read/[chapterId]',
-                params: { chapterId: nextChapterId, storyId },
-              })
+              locked
+                ? router.push({ pathname: '/paywall', params: { reason: 'chapter' } })
+                : router.replace({
+                    pathname: '/read/[chapterId]',
+                    params: { chapterId: nextChapterId, storyId },
+                  })
             }
           />
         ) : null}

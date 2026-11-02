@@ -3,8 +3,8 @@
  *
  * The app starts purchases, but the server decides: RevenueCat notifies the
  * `revenuecat-webhook` Edge Function, which writes `subscriptions`, and the database
- * opens premium content from it (passages/tokens policies, word limit trigger). So
- * `premium` here is read from `subscriptions`; right after a purchase or a restore the
+ * opens premium content from it (passages/tokens policies, daily allowance). So
+ * `premium` here is read from `subscriptions`; right after a purchase the
  * app asks `sync-subscription` to update it at once instead of waiting for the webhook.
  *
  * The RevenueCat customer is the Supabase user (Purchases.logIn), so the subscription
@@ -31,10 +31,8 @@ import Purchases, {
 import { useAuth } from './auth';
 import { supabase, unwrap } from './supabase';
 
-/** Words a free account can keep. Enforced by the database (check_vocabulary_limit). */
-export const FREE_WORD_LIMIT = 30;
-/** Chapters of a premium story a free account can read. Enforced by the passages policy. */
-export const FREE_CHAPTERS = 2;
+/** Words asked in the free account's review session (one session a day, start_review_session). */
+export const FREE_REVIEW_WORDS = 20;
 /** RevenueCat entitlement of the subscription (also REVENUECAT_ENTITLEMENT on the server). */
 const ENTITLEMENT = 'premium';
 
@@ -74,8 +72,6 @@ type PremiumContextValue = {
   /** The packages of the current offering (monthly, annual…), as set in RevenueCat. */
   loadPackages: () => Promise<PurchasesPackage[]>;
   purchase: (pkg: PurchasesPackage) => Promise<PurchaseOutcome>;
-  /** Restores the store purchases of this Google account; resolves to the premium status. */
-  restore: () => Promise<boolean>;
   refresh: () => Promise<void>;
 };
 
@@ -219,14 +215,6 @@ export function PremiumProvider({ children }: { children: ReactNode }) {
     }
   }, []);
 
-  const restore = useCallback(async () => {
-    if (configured) await Purchases.restorePurchases();
-    await syncServer();
-    const s = await fetchSubscription();
-    setSubscription(s);
-    return isActive(s);
-  }, []);
-
   return (
     <PremiumContext.Provider
       value={{
@@ -238,7 +226,6 @@ export function PremiumProvider({ children }: { children: ReactNode }) {
         managementUrl,
         loadPackages,
         purchase,
-        restore,
         refresh,
       }}>
       {children}
@@ -251,7 +238,3 @@ export function usePremium() {
   if (!ctx) throw new Error('usePremium must be used inside PremiumProvider');
   return ctx;
 }
-
-/** A chapter free accounts can read: any chapter of a free story, the first ones of a premium one. */
-export const isFreeChapter = (storyPremium: boolean, chapterPosition: number) =>
-  !storyPremium || chapterPosition < FREE_CHAPTERS;

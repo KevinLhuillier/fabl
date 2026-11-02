@@ -1,4 +1,4 @@
-import { useRouter } from 'expo-router';
+import { useLocalSearchParams, useRouter } from 'expo-router';
 import { BookOpen, Check, Crown, Infinity as InfinityIcon, Sparkles, X } from 'lucide-react-native';
 import { useEffect, useState } from 'react';
 import { Linking, Pressable, ScrollView, StyleSheet, View } from 'react-native';
@@ -31,7 +31,8 @@ const SITE = 'https://fabl-site.vercel.app';
 
 /** The site's pages in the interface language (French at the root, the others under /<lang>). */
 function siteUrl(lang: Lang, page: 'privacy' | 'legal') {
-  if (lang === 'fr') return `${SITE}/${page === 'privacy' ? 'confidentialite' : 'mentions-legales'}`;
+  if (lang === 'fr')
+    return `${SITE}/${page === 'privacy' ? 'confidentialite' : 'mentions-legales'}`;
   return `${SITE}/${lang}/${page}`;
 }
 
@@ -49,8 +50,7 @@ const periodOf = (pkg: PurchasesPackage): Period | null =>
 
 /**
  * Launch discount of the monthly plan over its regular price (8.99 €), in %, shown as is in every
- * currency. Subscribers keep the launch price for as long as their subscription stays active. Set
- * to null when the launch ends to drop the discount badge and the guarantee.
+ * currency. Set to null when the launch ends to drop the discount badge.
  */
 const LAUNCH_DISCOUNT: number | null = 73;
 
@@ -74,17 +74,29 @@ function annualSaving(packages: PurchasesPackage[]): number | null {
   return saving > 0 ? saving : null;
 }
 
-/** The premium offer: what it gives, the plans of the current RevenueCat offering, restore. */
+/**
+ * The premium offer: what it gives, the plans of the current RevenueCat offering (restoring a
+ * purchase lives in the profile).
+ * `reason` adapts the title: 'chapter' (the next premium chapter opens tomorrow), 'review'
+ * (today's review session is done).
+ */
 export default function Paywall() {
   const router = useRouter();
+  const { reason } = useLocalSearchParams<{ reason?: 'chapter' | 'review' }>();
   const { t, lang } = useI18n();
   const p = t.premium;
-  const { premium, subscription, storeAvailable, managementUrl, loadPackages, purchase, restore } =
+  const pitch =
+    reason === 'chapter'
+      ? { title: p.readOnTitle, coffee: p.readOnCoffee, note: p.readOnNote }
+      : reason === 'review'
+        ? { title: p.reviewTitle, coffee: p.coffee, note: p.reviewNote }
+        : { title: p.title, coffee: p.coffee, note: null };
+  const { premium, subscription, storeAvailable, managementUrl, loadPackages, purchase } =
     usePremium();
   // Without RevenueCat key (store unavailable) there is nothing to load.
   const [packages, setPackages] = useState<PurchasesPackage[] | null>(storeAvailable ? null : []);
   const [selected, setSelected] = useState<string | null>(null);
-  const [busy, setBusy] = useState<'purchase' | 'restore' | null>(null);
+  const [busy, setBusy] = useState<'purchase' | null>(null);
   const [message, setMessage] = useState<{ text: string; error: boolean } | null>(null);
   const [welcome, setWelcome] = useState(false);
 
@@ -131,24 +143,6 @@ export default function Paywall() {
     }
   }
 
-  async function restorePurchases() {
-    setBusy('restore');
-    setMessage(null);
-    try {
-      if (await restore()) {
-        haptics.success();
-        setWelcome(true);
-      } else {
-        setMessage({ text: p.nothingToRestore, error: false });
-      }
-    } catch (e) {
-      console.warn('restore', e);
-      setMessage({ text: p.loadError, error: true });
-    } finally {
-      setBusy(null);
-    }
-  }
-
   return (
     <SafeAreaView style={styles.safe}>
       <View style={styles.header}>
@@ -175,14 +169,19 @@ export default function Paywall() {
             <CoffeeCup />
           )}
           <Text variant="title" align="center" color={palette.white}>
-            {welcome ? p.welcome : premium ? p.activeTitle : p.title}
+            {welcome ? p.welcome : premium ? p.activeTitle : pitch.title}
           </Text>
           {welcome || premium ? null : (
             <View style={styles.coffee}>
               <Text variant="bodyBold" align="center" color={palette.white}>
-                {p.coffee}
+                {pitch.coffee}
               </Text>
             </View>
+          )}
+          {welcome || premium || !pitch.note ? null : (
+            <Text variant="caption" align="center" color={palette.white}>
+              {pitch.note}
+            </Text>
           )}
         </Animated.View>
 
@@ -248,14 +247,6 @@ export default function Paywall() {
                 {message.text}
               </Text>
             ) : null}
-            <Button
-              label={p.restore}
-              variant="ghost"
-              haptic="tap"
-              loading={busy === 'restore'}
-              disabled={!!busy}
-              onPress={restorePurchases}
-            />
             <Text variant="caption" align="center" color={colors.textMuted}>
               {p.legal}
             </Text>
@@ -341,11 +332,6 @@ function PlanCard({
           {pkg.packageType === 'ANNUAL' ? (
             <Text variant="caption" color={colors.primary}>
               {p.bestValue}
-            </Text>
-          ) : null}
-          {LAUNCH_DISCOUNT !== null && pkg.packageType === 'MONTHLY' ? (
-            <Text variant="caption" color={colors.successShade}>
-              {p.launchPrice}
             </Text>
           ) : null}
           {trial ? (

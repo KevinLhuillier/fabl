@@ -5,7 +5,6 @@ import Svg, { Path } from 'react-native-svg';
 
 import { useI18n } from '@/i18n';
 import { toRoman } from '@/lib/labels';
-import { isFreeChapter } from '@/lib/premium';
 import type { ChapterProgress, ChapterSummary } from '@/lib/types';
 import {
   Icon,
@@ -21,15 +20,25 @@ import {
   type CefrLevel,
 } from '@/theme';
 
-export type ChapterStatus = 'done' | 'current' | 'locked' | 'premium';
+export type ChapterStatus = 'done' | 'current' | 'daily' | 'locked' | 'premium';
+
+/** Premium story read without subscription: which chapters are open (see lib/api/allowance). */
+export type ChapterGate = {
+  /** Chapters unlocked by the user (any day). */
+  unlocked: Set<string>;
+  /** Today's unlock is used. */
+  usedToday: boolean;
+};
 
 type Props = {
   level: CefrLevel;
   chapters: ChapterSummary[];
   progress: Map<string, ChapterProgress>;
-  /** Premium story read without subscription: chapters after the first are "premium". */
-  premiumLocked: boolean;
+  /** Premium story read without subscription; null when every chapter is open. */
+  gate: ChapterGate | null;
   onOpen: (chapter: ChapterSummary) => void;
+  /** The chapter to read is not unlocked yet and today's unlock is free. */
+  onDaily: (chapter: ChapterSummary) => void;
   /** A premium chapter was tapped. */
   onPremium: () => void;
 };
@@ -37,22 +46,23 @@ type Props = {
 /**
  * Chapters are unlocked one after the other: every completed chapter is
  * "done", the first unfinished one is "current", the rest are locked.
- * Without subscription, the chapters after the first of a premium story are "premium".
+ * Without subscription (premium story, `gate`), the chapter to read is "daily" when today's
+ * unlock is free, "premium" when it is used; the following ones are "premium".
  */
 export function chapterStatuses(
   chapters: ChapterSummary[],
   progress: Map<string, ChapterProgress>,
-  premiumLocked = false,
+  gate: ChapterGate | null = null,
 ): ChapterStatus[] {
   let unlocked = true;
   return chapters.map((c) => {
-    if (premiumLocked && !isFreeChapter(true, c.position)) return 'premium';
     if (progress.get(c.id)?.completed) return 'done';
     if (unlocked) {
       unlocked = false;
-      return 'current';
+      if (!gate || gate.unlocked.has(c.id)) return 'current';
+      return gate.usedToday ? 'premium' : 'daily';
     }
-    return 'locked';
+    return gate ? 'premium' : 'locked';
   });
 }
 
@@ -65,11 +75,12 @@ export function TableOfContents({
   level,
   chapters,
   progress,
-  premiumLocked,
+  gate,
   onOpen,
+  onDaily,
   onPremium,
 }: Props) {
-  const statuses = chapterStatuses(chapters, progress, premiumLocked);
+  const statuses = chapterStatuses(chapters, progress, gate);
   const allDone = statuses.every((s) => s === 'done');
   const { t } = useI18n();
   const c = levelColors[level];
@@ -97,6 +108,11 @@ export function TableOfContents({
                   if (statuses[i] === 'premium') {
                     haptics.tap();
                     onPremium();
+                    return;
+                  }
+                  if (statuses[i] === 'daily') {
+                    haptics.tap();
+                    onDaily(chapter);
                     return;
                   }
                   haptics.press();
@@ -144,7 +160,9 @@ function ChapterLine({
   const c = levelColors[level];
   const locked = status === 'locked';
   const premium = status === 'premium';
-  const current = status === 'current';
+  const daily = status === 'daily';
+  // The chapter to read, open or opening with today's unlock.
+  const current = status === 'current' || daily;
   const pageIndex = progress?.pageIndex ?? 0;
   const started = current && pageIndex > 0;
 
@@ -177,7 +195,11 @@ function ChapterLine({
         <Text variant="bodyBold" numberOfLines={2} color={locked ? colors.textMuted : colors.text}>
           {chapter.title}
         </Text>
-        {current ? (
+        {daily ? (
+          <Text variant="caption" color={colors.xpShade}>
+            {t.premium.dailyChapter}
+          </Text>
+        ) : current ? (
           <>
             <Text variant="caption" color={c.shade}>
               {started ? t.toc.resume(pageIndex + 1, chapter.pageCount) : t.toc.start}

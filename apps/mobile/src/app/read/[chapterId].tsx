@@ -26,7 +26,8 @@ import {
   saveChapterPage,
 } from '@/lib/api/progress';
 import { addToVocabulary, countWordsToLearn } from '@/lib/api/vocabulary';
-import { isFreeChapter } from '@/lib/premium';
+import { fetchUnlocks, unlockChapter } from '@/lib/api/allowance';
+import { usePremium } from '@/lib/premium';
 import { createReadAlongStore, type ReadAlong } from '@/lib/readAlongStore';
 import { useStats } from '@/lib/stats';
 import { useTour } from '@/lib/tour';
@@ -62,6 +63,7 @@ export default function ChapterReader() {
   const router = useRouter();
   const { chapterId, storyId } = useLocalSearchParams<{ chapterId: string; storyId: string }>();
   const { stats } = useStats();
+  const { premium } = usePremium();
   const {
     touch: touchActivity,
     flush: flushActivity,
@@ -131,13 +133,19 @@ export default function ChapterReader() {
       fetchChapterProgress(storyId),
       isStoryCompleted(storyId),
     ])
-      .then(([{ story, chapters }, pages, progress, storyCompleted]) => {
+      .then(async ([{ story, chapters }, fetched, progress, storyCompleted]) => {
         if (cancelled) return;
         const chapter = chapters.find((c) => c.id === chapterId);
-        // A premium chapter without subscription: the database returns no page.
-        if (chapter && !pages.length && !isFreeChapter(story.premium, chapter.position)) {
-          router.replace('/paywall');
-          return;
+        let pages = fetched;
+        // A premium chapter not unlocked (the database returns no page): today's unlock
+        // opens it, else the offer.
+        if (chapter && !pages.length && story.premium) {
+          if ((await unlockChapter(chapterId)) === 'limit') {
+            if (!cancelled) router.replace({ pathname: '/paywall', params: { reason: 'chapter' } });
+            return;
+          }
+          pages = await fetchChapterPages(chapterId, lang);
+          if (cancelled) return;
         }
         if (!chapter || !pages.length) throw new Error(t.reader.notFound);
         // Resume where the user left; a finished chapter is replayed from the top.
@@ -225,6 +233,15 @@ export default function ChapterReader() {
     }
 
     const nextChapter = chapters[chapters.indexOf(chapter) + 1];
+    // Free account in a premium story: the next chapter waits for tomorrow's unlock.
+    let nextLocked = false;
+    if (nextChapter && story.premium && !premium) {
+      const unlocks = await fetchUnlocks().catch((e: unknown) => {
+        console.warn('fetchUnlocks', e);
+        return null;
+      });
+      nextLocked = !!unlocks && unlocks.usedToday && !unlocks.chapterIds.has(nextChapter.id);
+    }
     router.replace({
       pathname: '/celebration',
       params: {
@@ -233,6 +250,7 @@ export default function ChapterReader() {
         title: t.reader.chapterTitle(chapter.position + 1, chapter.title),
         newWords: String(newWords),
         ...(nextChapter ? { nextChapterId: nextChapter.id, storyId: story.id } : {}),
+        ...(nextLocked ? { nextLocked: '1' } : {}),
       },
     });
   }
@@ -391,12 +409,6 @@ export default function ChapterReader() {
           setSelected(null);
         }}
         onSpeak={() => audioRef.current?.pause()}
-        onUpgrade={() => {
-          setSheet(null);
-          setSelected(null);
-          audioRef.current?.pause();
-          router.push('/paywall');
-        }}
       />
     </SafeAreaView>
   );

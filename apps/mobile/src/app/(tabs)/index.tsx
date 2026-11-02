@@ -17,7 +17,7 @@ import {
   type StoryProgressSummary,
 } from '@/lib/api/progress';
 import { countDueVocabulary } from '@/lib/api/vocabulary';
-import { isFreeChapter, usePremium } from '@/lib/premium';
+import { usePremium } from '@/lib/premium';
 import { useStats } from '@/lib/stats';
 import { useTour } from '@/lib/tour';
 import type { StorySummary } from '@/lib/types';
@@ -88,8 +88,9 @@ export default function Home() {
               resume={resume}
               fraction={progress.get(resume.story.id)?.fraction ?? 0}
               onPress={() =>
-                // A premium chapter without subscription: the story page shows the offer.
-                isFreeChapter(resume.story.premium, resume.chapter.position) || premium
+                // A premium story without subscription: the story page tells whether the
+                // chapter is open (unlocked, or today's unlock) or shows the offer.
+                !resume.story.premium || premium
                   ? router.push({
                       pathname: '/read/[chapterId]',
                       params: { chapterId: resume.chapter.id, storyId: resume.story.id },

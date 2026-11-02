@@ -246,14 +246,12 @@ export default function Profile() {
   );
 }
 
-/** Subscription status: renewal date and store link, or the way to premium and restore. */
+/** Subscription status: renewal date and store link, or the way to premium. */
 function PremiumCard() {
   const router = useRouter();
   const { t } = useI18n();
   const p = t.premium;
-  const { premium, subscription, managementUrl, restore } = usePremium();
-  const [restoring, setRestoring] = useState(false);
-  const [note, setNote] = useState<string | null>(null);
+  const { premium, subscription, managementUrl } = usePremium();
 
   if (premium) {
     const expires = subscription?.expires_at ? p.date(new Date(subscription.expires_at)) : null;
@@ -293,30 +291,6 @@ function PremiumCard() {
         {p.subtitle}
       </Text>
       <Button label={p.upgrade} variant="success" onPress={() => router.push('/paywall')} />
-      <Button
-        label={p.restore}
-        variant="ghost"
-        haptic="tap"
-        loading={restoring}
-        disabled={restoring}
-        onPress={async () => {
-          setRestoring(true);
-          setNote(null);
-          try {
-            if (!(await restore())) setNote(p.nothingToRestore);
-          } catch (e) {
-            console.warn('restore', e);
-            setNote(p.loadError);
-          } finally {
-            setRestoring(false);
-          }
-        }}
-      />
-      {note ? (
-        <Text variant="caption" align="center" color={colors.textSecondary}>
-          {note}
-        </Text>
-      ) : null}
     </Card>
   );
 }

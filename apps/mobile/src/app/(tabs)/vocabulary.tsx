@@ -8,10 +8,11 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { ConfirmSheet } from '@/components/ConfirmSheet';
 import { SpeakButton } from '@/components/SpeakButton';
 import { useI18n } from '@/i18n';
+import { reviewedToday } from '@/lib/api/allowance';
 import { fetchVocabulary, removeFromVocabulary } from '@/lib/api/vocabulary';
 import { endOfToday } from '@/lib/dates';
 import { posLabel } from '@/lib/labels';
-import { FREE_WORD_LIMIT, usePremium } from '@/lib/premium';
+import { FREE_REVIEW_WORDS, usePremium } from '@/lib/premium';
 import { loadPronunciations } from '@/lib/pronunciation';
 import { useTour } from '@/lib/tour';
 import type { VocabularyItem } from '@/lib/types';
@@ -21,7 +22,6 @@ import {
   Card,
   Icon,
   Loader,
-  ProgressBar,
   Text,
   TextField,
   colors,
@@ -41,6 +41,8 @@ export default function Vocabulary() {
   const [items, setItems] = useState<VocabularyItem[] | null>(null);
   const [query, setQuery] = useState('');
   const [error, setError] = useState<string | null>(null);
+  /** Free account: today's review session is done (null until known). */
+  const [reviewDone, setReviewDone] = useState<boolean | null>(null);
   /** Word waiting for the user's confirmation before removal. */
   const [toRemove, setToRemove] = useState<VocabularyItem | null>(null);
   // Kept separate from `toRemove` so the text stays during the closing fade.
@@ -59,7 +61,12 @@ export default function Vocabulary() {
           setError(null);
         })
         .catch((e: unknown) => setError(e instanceof Error ? e.message : String(e)));
-    }, [lang]),
+      if (premiumReady && !premium) {
+        reviewedToday()
+          .then(setReviewDone)
+          .catch((e: unknown) => console.warn('reviewedToday', e));
+      }
+    }, [lang, premium, premiumReady]),
   );
 
   /** Asks for confirmation, then removes the word (and its review history). */
@@ -115,7 +122,9 @@ export default function Vocabulary() {
                 </View>
               </Card>
             </View>
-            {items && premiumReady && !premium ? <WordLimit count={items.length} /> : null}
+            {premiumReady && !premium && reviewDone !== null ? (
+              <FreeReview done={reviewDone} />
+            ) : null}
             <View ref={target('search')} collapsable={false}>
               <TextField
                 icon={Search}
@@ -170,29 +179,23 @@ export default function Vocabulary() {
   );
 }
 
-/** Free account: words used out of FREE_WORD_LIMIT, and the way to more. */
-function WordLimit({ count }: { count: number }) {
+/** Free account: one review session a day (FREE_REVIEW_WORDS words), and the way to more. */
+function FreeReview({ done }: { done: boolean }) {
   const router = useRouter();
   const { t } = useI18n();
-  const full = count >= FREE_WORD_LIMIT;
   return (
-    <Card onPress={() => router.push('/paywall')} padding={spacing.md}>
+    <Card
+      onPress={() => router.push({ pathname: '/paywall', params: { reason: 'review' } })}
+      padding={spacing.md}>
       <View style={styles.limitRow}>
         <Icon icon={Crown} size={22} color={colors.xpShade} />
         <View style={styles.limitBody}>
-          <View style={styles.limitTop}>
-            <Text variant="bodyBold">{t.premium.freePlan}</Text>
-            <Text variant="caption" color={full ? colors.danger : colors.textSecondary}>
-              {t.premium.wordsUsed(Math.min(count, FREE_WORD_LIMIT), FREE_WORD_LIMIT)}
-            </Text>
-          </View>
-          <ProgressBar
-            progress={count / FREE_WORD_LIMIT}
-            color={full ? colors.danger : colors.xp}
-            height={8}
-          />
-          <Text variant="caption" color={full ? colors.danger : colors.xpShade}>
-            {full ? t.premium.limitReached : t.premium.upgrade}
+          <Text variant="bodyBold">{t.premium.freePlan}</Text>
+          <Text variant="caption" color={colors.textSecondary}>
+            {done ? t.premium.reviewDone : t.premium.reviewPerDay(FREE_REVIEW_WORDS)}
+          </Text>
+          <Text variant="caption" color={colors.xpShade}>
+            {t.premium.upgrade}
           </Text>
         </View>
       </View>
@@ -283,7 +286,6 @@ const styles = StyleSheet.create({
   remove: { padding: spacing.xs },
   limitRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
   limitBody: { flex: 1, gap: spacing.xs },
-  limitTop: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
   context: { marginTop: spacing.sm, fontStyle: 'italic' },
   story: { flexDirection: 'row', alignItems: 'center', gap: spacing.xs, marginTop: spacing.sm },
 });

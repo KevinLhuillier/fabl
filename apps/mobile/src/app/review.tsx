@@ -1,6 +1,6 @@
 import { useRouter } from 'expo-router';
-import { Brain, Sparkles, Trophy, X } from 'lucide-react-native';
-import { useEffect, useState } from 'react';
+import { Brain, CalendarClock, Sparkles, Trophy, X } from 'lucide-react-native';
+import { useEffect, useRef, useState } from 'react';
 import { KeyboardAvoidingView, Platform, Pressable, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -11,7 +11,9 @@ import { TrueFalseExercise } from '@/components/review/TrueFalseExercise';
 import { TypedExercise } from '@/components/review/TypedExercise';
 import { useI18n } from '@/i18n';
 import { useActivityTimer } from '@/lib/activity';
+import { reviewedToday, startReviewSession } from '@/lib/api/allowance';
 import { fetchOccurrences, fetchReviewSession, saveReview } from '@/lib/api/vocabulary';
+import { FREE_REVIEW_WORDS, usePremium } from '@/lib/premium';
 import { cachedPronunciation, loadPronunciations } from '@/lib/pronunciation';
 import {
   buildSession,
@@ -37,12 +39,13 @@ import {
 
 /** Due words asked in one session at most (they fit in MAX_STEPS thanks to the games). */
 const MAX_WORDS = 50;
+// Free accounts: one session a day, FREE_REVIEW_WORDS words at most.
 /** With fewer due words, the session is topped up with upcoming ones to this size. */
 const MIN_WORDS = 12;
 
 /** Words of a session, where they are used in the stories and which have a pronunciation clip. */
-async function loadSession(lang: string): Promise<Exercise[]> {
-  const items = await fetchReviewSession(MAX_WORDS, MIN_WORDS, lang);
+async function loadSession(lang: string, maxWords: number): Promise<Exercise[]> {
+  const items = await fetchReviewSession(maxWords, MIN_WORDS, lang);
   const [occurrences] = await Promise.all([
     // Without them (e.g. migration not applied yet) the story exercises are left out.
     fetchOccurrences(items.map((i) => i.lemmaId)).catch((e: unknown) => {
@@ -61,7 +64,12 @@ export default function Review() {
   const router = useRouter();
   const { touch, flush, seconds } = useActivityTimer();
   const { t, lang } = useI18n();
+  const { premium, ready } = usePremium();
   const [exercises, setExercises] = useState<Exercise[] | null>(null);
+  /** Free account that already had today's session. */
+  const [limited, setLimited] = useState(false);
+  /** Today's session is recorded (at the first answer). */
+  const started = useRef(false);
   const [cursor, setCursor] = useState(0);
   /** Words answered right at their first exercise. */
   const [correct, setCorrect] = useState<Set<number>>(new Set());
@@ -69,10 +77,47 @@ export default function Review() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    loadSession(lang)
-      .then(setExercises)
-      .catch((e: unknown) => setError(e instanceof Error ? e.message : String(e)));
-  }, [lang]);
+    // Wait for the subscription: a free account is limited.
+    if (!ready) return;
+    let cancelled = false;
+    (async () => {
+      if (!premium && (await reviewedToday())) {
+        if (!cancelled) setLimited(true);
+        return;
+      }
+      const session = await loadSession(lang, premium ? MAX_WORDS : FREE_REVIEW_WORDS);
+      if (!cancelled) setExercises(session);
+    })().catch((e: unknown) => {
+      if (!cancelled) setError(e instanceof Error ? e.message : String(e));
+    });
+    return () => {
+      cancelled = true;
+    };
+    // Once per screen: subscribing meanwhile must not reload the session under way.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [lang, ready]);
+
+  if (limited) {
+    return (
+      <SafeAreaView style={[styles.safe, styles.center]}>
+        <Animated.View entering={enter.up()} style={styles.centerBox}>
+          <IconBubble icon={CalendarClock} />
+          <Text variant="title" align="center">
+            {t.review.limitTitle}
+          </Text>
+          <Text align="center" color={colors.textSecondary}>
+            {t.review.limitText(FREE_REVIEW_WORDS)}
+          </Text>
+          <Button
+            label={t.premium.upgrade}
+            variant="success"
+            onPress={() => router.replace({ pathname: '/paywall', params: { reason: 'review' } })}
+          />
+          <Button label={t.common.back} variant="secondary" onPress={() => router.back()} />
+        </Animated.View>
+      </SafeAreaView>
+    );
+  }
 
   if (error || !exercises) {
     return (
@@ -111,6 +156,11 @@ export default function Review() {
   /** Records the answers, schedules a retry for each missed word, then moves on. */
   async function answer(ex: Exercise, results: WordResult[]) {
     touch();
+    if (!started.current && !premium) {
+      started.current = true;
+      // Counted at the first answer, so opening the screen by mistake costs nothing.
+      startReviewSession().catch((e) => console.warn('startReviewSession', e));
+    }
     let queue = exercises!;
     const right = new Set(correct);
     const retries: Exercise[] = [];

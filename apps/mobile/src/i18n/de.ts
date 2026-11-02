@@ -177,6 +177,9 @@ export const de: Messages = {
     dontKnow: 'Weiß ich nicht',
     watchSpelling: 'Achte auf die Rechtschreibung.',
     quote: (sentence) => `„${sentence}“`,
+    limitTitle: 'Heutige Wiederholung erledigt',
+    limitText: (max) =>
+      `Die kostenlose Version bietet eine Wiederholung pro Tag (max. ${max} Wörter). Komm morgen wieder oder hol dir Premium, um ohne Limit zu wiederholen.`,
     typeWord: 'Schreib das Wort',
     completeSentence: 'Ergänze den Satz aus der Geschichte',
     findForm: 'Schreib das Verb in der richtigen Form',
@@ -272,8 +275,8 @@ export const de: Messages = {
     coffee: 'Für den Preis eines Kaffees',
     subtitle: 'Abonniere für den Preis eines Kaffees und schalte alle Inhalte frei.',
     benefits: {
-      stories: 'Alle Geschichten vollständig',
-      words: 'Unbegrenzt viele Wörter im Wortschatz',
+      stories: 'Alle Kapitel, ohne zu warten',
+      words: 'Unbegrenzt wiederholen',
       newStories: 'Jede neue Geschichte sofort',
     },
     periods: {
@@ -295,12 +298,9 @@ export const de: Messages = {
     perMonth: (price: string) => `also ${price} / Monat`,
     bestValue: 'Am günstigsten',
     save: (percent: number) => `−${percent} %`,
-    launchPrice: 'Einführungspreis – garantiert, solange dein Abo aktiv bleibt',
     freeTrial: (days: number) => `${days} Tage gratis`,
     subscribe: 'Abonnieren',
     startTrial: 'Gratis testen',
-    restore: 'Käufe wiederherstellen',
-    nothingToRestore: 'Kein Abo in diesem Google-Play-Konto gefunden.',
     legal:
       'Das Abo verlängert sich automatisch und ist jederzeit in Google Play kündbar. Die Zahlung wird über dein Google-Play-Konto abgerechnet.',
     privacy: 'Datenschutz',
@@ -316,14 +316,24 @@ export const de: Messages = {
     billingIssue: 'Zahlungsproblem: Aktualisiere deine Zahlungsmethode in Google Play.',
     manage: 'Abo verwalten',
     freePlan: 'Gratisversion',
-    wordsUsed: (n: number, max: number) => `${n} / ${max} Wörter`,
     upgrade: 'Premium holen',
-    limitTitle: (max: number) => `Du hast ${max} Wörter erreicht`,
-    limitText:
-      'Dieses Wort wurde nicht hinzugefügt. Mit Premium behältst du so viele, wie du willst.',
-    limitReached: 'Limit erreicht: Neue Wörter werden nicht mehr hinzugefügt.',
-    freeChapters: 'Die ersten zwei Kapitel gratis',
-    unlockStory: 'Schalte die ganze Geschichte mit Premium frei.',
+    reviewPerDay: (max) => `1 kostenlose Wiederholung pro Tag (max. ${max} Wörter)`,
+    reviewDone: 'Heutige Wiederholung erledigt: die nächste morgen.',
+    readOnTitle: 'Lies jetzt weiter',
+    readOnCoffee: 'mit einem Abo für den Preis eines Kaffees',
+    readOnNote: 'Oder komm morgen für dein kostenloses Kapitel wieder.',
+    reviewTitle: 'Wiederhole ohne Limit',
+    reviewNote: 'Oder komm morgen für deine kostenlose Wiederholung wieder.',
+    dailyTitle: 'Jeden Tag 1 Kapitel gratis',
+    dailyAvailable:
+      'Dein Kapitel des Tages ist verfügbar. Mit Premium liest du die ganze Geschichte ohne Warten.',
+    dailyUsed:
+      'Du hast dein Kapitel des Tages gelesen: das nächste morgen. Mit Premium liest du jetzt weiter.',
+    dailyChapter: 'HEUTE GRATIS',
+    unlockTitle: 'Dein Kapitel des Tages lesen?',
+    unlockMessage: (n, title) =>
+      `Du kannst jeden Tag 1 Premium-Kapitel gratis lesen. Das heutige für Kapitel ${n} „${title}“ nutzen?`,
+    unlockConfirm: 'Kapitel lesen',
     lockedChapter: 'PREMIUM-KAPITEL',
     lockedChapterA11y: (n: number, title: string) =>
       `Kapitel ${n}: ${title}, nur für Premium-Abonnenten`,

@@ -3,12 +3,11 @@ import type { SrsResult } from '../srs';
 import { currentUserId, supabase, unwrap } from '../supabase';
 import type { Occurrence, SentenceToken, VocabularyItem } from '../types';
 
-export type AddWordResult = 'new' | 'existing' | 'limit';
+export type AddWordResult = 'new' | 'existing';
 
 /**
  * Adds a looked-up word. The (user_id, lemma_id) primary key + ignoreDuplicates
- * make it a no-op if the word is already there ('existing'). 'limit': a free account
- * already has FREE_WORD_LIMIT words (the database refuses the new one).
+ * make it a no-op if the word is already there ('existing').
  * The page and token position let the review find the word in its story again.
  */
 export async function addToVocabulary(input: {
@@ -34,8 +33,6 @@ export async function addToVocabulary(input: {
       { onConflict: 'user_id,lemma_id', ignoreDuplicates: true },
     )
     .select('lemma_id');
-  // Raised by the check_vocabulary_limit trigger.
-  if (res.error?.message === 'vocabulary_limit') return 'limit';
   return (unwrap(res) as unknown[]).length > 0 ? 'new' : 'existing';
 }
 

@@ -112,18 +112,26 @@ The rules live in `apps/mobile/src/lib/gamification.ts` (`DAILY_GOAL_OPTIONS`, `
 | Table                                                                                       | Access                                                                  |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | `stories`, `chapters`, `lemmas`, `translations`                                             | public read, written by the publish script                              |
-| `passages` (pages), `tokens`                                                                | same, but premium stories: first two chapters only without subscription |
+| `passages` (pages), `tokens`                                                                | same, but premium stories: unlocked chapters only without subscription  |
 | `user_progress`, `user_chapter_progress`, `user_vocabulary`, `user_stats`, `daily_activity` | owner only (RLS on `auth.uid()`)                                        |
+| `chapter_unlocks`, `review_sessions`                                                        | owner read, written by `unlock_chapter()` / `start_review_session()`    |
 | `subscriptions`                                                                             | owner read, written by the Edge Functions                               |
 
 A `user_stats` row is created automatically when an account signs up.
 
 ## Premium subscription (RevenueCat)
 
-**What premium opens**: every chapter of the stories marked `premium: true` (free accounts read
-their first two chapters), and an unlimited word list (free accounts keep 30 words, `FREE_WORD_LIMIT`).
-Both are enforced by the database, not only by the app: the `passages` and `tokens` policies call
-`is_premium()`, and the `check_vocabulary_limit` trigger refuses the 31st word (`vocabulary_limit`).
+**What premium opens**: every chapter of the stories marked `premium: true` at once, and unlimited
+reviews. Free accounts keep every word they look up, but:
+
+- **one premium chapter a day**, all stories together (no free chapter otherwise): `unlock_chapter()`
+  records it in `chapter_unlocks` (refuses a second one that day with `chapter_limit`), and the
+  `passages`/`tokens` policies open premium chapters to `is_premium()` or an unlock. An unlocked
+  chapter stays readable. At the end of a premium chapter, the paywall offers to read on now;
+- **one review session a day**, of `FREE_REVIEW_WORDS` (20) words at most: `start_review_session()`
+  records it at the first answer in `review_sessions` (`review_limit` for a second one).
+
+Days are the device's local day, sent by the app and checked to be within a day of the server's.
 
 **How it works**: the app buys through RevenueCat (`react-native-purchases`, Google Play Billing),
 with the Supabase user id as RevenueCat customer (`Purchases.logIn`), so the subscription follows
@@ -273,7 +281,7 @@ Then Mia sees her neighbour, Mr Green.
 
 - **Front matter** (between the first two `---` lines): `title`, `level` (A1–C2), `summary`
   and optionally `cover` (http(s) URL of the front cover image; without it the app draws a
-  default cover in the level color), `premium: true` (only the first two chapters are free, see
+  default cover in the level color), `premium: true` (free accounts unlock one chapter a day, see
   [Premium subscription](#premium-subscription-revenuecat)). Chapters share the story's level.
 - **`# Title` starts a chapter**; `---` separates two **pages** of a chapter. Only `#` headings.
 - **One line = one paragraph**; blank lines are ignored. `<!-- comments -->` are allowed.
