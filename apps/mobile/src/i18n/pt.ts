@@ -124,10 +124,6 @@ export const pt: Messages = {
     notFound: 'Capítulo não encontrado: publique a história de novo.',
     header: (n, title, page, total) =>
       `CAPÍTULO ${n} · ${title.toUpperCase()} · PÁGINA ${page}/${total}`,
-    doubleTapHint: 'Toque duas vezes em uma palavra para ouvir a partir dela',
-    tapPlayHint: 'Toque em uma palavra para ouvir a partir dela',
-    doubleTapTranslateHint: 'Toque duas vezes em uma palavra para ver a tradução',
-    tapHint: 'Toque em uma palavra para ver a tradução',
     finish: 'Terminar o capítulo',
     previousPage: 'Página anterior',
     nextPage: 'Próxima página',

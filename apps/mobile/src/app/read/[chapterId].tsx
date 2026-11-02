@@ -1,5 +1,5 @@
 import { useRouter, useLocalSearchParams } from 'expo-router';
-import { BookOpen, ChevronLeft, ChevronRight, Lightbulb, X } from 'lucide-react-native';
+import { BookOpen, ChevronLeft, ChevronRight, X } from 'lucide-react-native';
 import { useCallback, useEffect, useRef, useState } from 'react';
 import {
   ActivityIndicator,
@@ -321,24 +321,6 @@ export default function ChapterReader() {
               />
             </View>
           </Animated.View>
-          {aligned && page === 0 ? (
-            <View style={styles.hint}>
-              <Icon icon={Lightbulb} size={16} color={colors.textMuted} />
-              <Text variant="caption" color={colors.textMuted}>
-                {playGesture === 'tap' ? t.reader.tapPlayHint : t.reader.doubleTapHint}
-              </Text>
-            </View>
-          ) : null}
-          {chapter.position === 0 && page === 0 ? (
-            <Animated.View entering={enter.fade(600)} style={styles.hint}>
-              <Icon icon={Lightbulb} size={16} color={colors.textMuted} />
-              <Text variant="caption" color={colors.textMuted}>
-                {aligned && playGesture === 'tap'
-                  ? t.reader.doubleTapTranslateHint
-                  : t.reader.tapHint}
-              </Text>
-            </Animated.View>
-          ) : null}
         </ScrollView>
         {/* Floating over the text, so the voice-over can be paused at any scroll position. */}
         {current.audioUrl ? (
@@ -466,7 +448,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     backgroundColor: colors.background,
   },
-  hint: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: spacing.xs },
   footer: {
     flexDirection: 'row',
     alignItems: 'center',

@@ -129,10 +129,6 @@ export const fr = {
     notFound: 'Chapitre introuvable : republie l’histoire.',
     header: (n: number, title: string, page: number, total: number) =>
       `CHAPITRE ${n} · ${title.toUpperCase()} · PAGE ${page}/${total}`,
-    doubleTapHint: 'Touche deux fois un mot pour écouter à partir de là',
-    tapPlayHint: 'Touche un mot pour écouter à partir de là',
-    doubleTapTranslateHint: 'Touche deux fois un mot pour voir sa traduction',
-    tapHint: 'Touche un mot pour voir sa traduction',
     finish: 'Terminer le chapitre',
     previousPage: 'Page précédente',
     nextPage: 'Page suivante',
@@ -380,7 +376,7 @@ export const fr = {
       },
       audio: {
         title: 'Écoute la page',
-        text: 'Lance la lecture : le texte est surligné au fil de la voix. Touche deux fois un mot pour lancer l’écoute à partir de là (gestes modifiables dans ton profil).',
+        text: 'Lance la lecture : le texte est surligné au fil de la voix. Touche deux fois un mot pour lancer l’écoute à partir de celui-ci (gestes modifiables dans ton profil).',
       },
       next: {
         title: 'Page suivante',
