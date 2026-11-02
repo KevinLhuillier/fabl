@@ -111,6 +111,7 @@ export const PassageText = memo(function PassageText({
                   </Text>
                 </View>
               ))}
+              <View style={styles.lastLine} />
             </View>
           ))}
         </View>
@@ -281,7 +282,10 @@ const styles = StyleSheet.create({
     paddingLeft: spacing.md,
     marginLeft: spacing.xs,
   },
-  paragraph: { flexDirection: 'row', flexWrap: 'wrap' },
+  // Justified like a book: each line's spare width goes between its words…
+  paragraph: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-between' },
+  // …except on the paragraph's last line, where this empty filler takes it (left-aligned).
+  lastLine: { flexGrow: 1 },
   word: { flexDirection: 'row' },
   spoken: { fontFamily: fonts.italic },
   // Pill around the glyphs (the line box is much taller than the text).
