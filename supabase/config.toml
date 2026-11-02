@@ -293,6 +293,14 @@ max_frequency = "5s"
 # enabled = true
 # uri = "pg-functions://<database>/<schema>/<hook_name>"
 
+# Auth emails are sent from the Taleway Gmail account, in the user's language (supabase/functions/send-email).
+# On the hosted project: Authentication > Hooks > Send Email (HTTPS, the function's URL).
+# Locally, set SEND_EMAIL_HOOK_SECRET in supabase/functions/.env and uncomment:
+# [auth.hook.send_email]
+# enabled = true
+# uri = "http://host.docker.internal:54321/functions/v1/send-email"
+# secrets = "env(SEND_EMAIL_HOOK_SECRET)"
+
 # Configure one of the supported SMS providers: `twilio`, `twilio_verify`, `messagebird`, `textlocal`, `vonage`.
 [auth.sms.twilio]
 enabled = false
@@ -420,6 +428,10 @@ enabled = true
 # formatted with uppercase keywords, indent 2, max width 180, trailing commas,
 # and column/key alignment. Set to "null" to emit raw, unformatted SQL.
 # format_options = "{\"keywordCase\":\"upper\",\"indent\":2,\"maxWidth\":180,\"commaStyle\":\"trailing\"}"
+
+# Supabase Auth calls the Send Email hook with its own signature (standard webhooks), not a JWT.
+[functions.send-email]
+verify_jwt = false
 
 # RevenueCat calls the webhook with its own Authorization header, not a Supabase JWT.
 [functions.revenuecat-webhook]
