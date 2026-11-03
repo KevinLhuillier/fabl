@@ -20,7 +20,7 @@ import {
 } from '@/lib/reminders';
 import { StatsProvider, useStats } from '@/lib/stats';
 import { ThemeProvider, useTheme } from '@/lib/theme';
-import { TourProvider } from '@/lib/tour';
+import { IntroProvider, useIntro } from '@/lib/intro';
 import { colors, fontAssets, Loader, themed } from '@/theme';
 
 SplashScreen.preventAutoHideAsync();
@@ -34,9 +34,9 @@ export default function RootLayout() {
             <StatsProvider>
               <I18nProvider>
                 <RemindersProvider>
-                  <TourProvider>
+                  <IntroProvider>
                     <RootNavigator />
-                  </TourProvider>
+                  </IntroProvider>
                 </RemindersProvider>
               </I18nProvider>
             </StatsProvider>
@@ -55,13 +55,15 @@ function RootNavigator() {
   // Waiting for the stats tells whether the account has chosen its language yet.
   const { stats, ready: statsReady } = useStats();
   const { prefs: reminders, ready: remindersReady } = useReminders();
+  const { seen: introSeen, ready: introReady } = useIntro();
   const loading =
     (!fontsLoaded && !fontError) ||
     !ready ||
     !langReady ||
     !themeReady ||
     !statsReady ||
-    !remindersReady;
+    !remindersReady ||
+    !introReady;
   // Cold start: the launch screen covers the app until it is ready, then fades out.
   const [launching, setLaunching] = useState(true);
   const endLaunch = useCallback(() => setLaunching(false), []);
@@ -91,15 +93,18 @@ function RootNavigator() {
   const needsGoal = signedIn && !needsLang && stats?.daily_goal_minutes === null;
   // Accounts created before usernames choose one (new accounts pick it at sign-up).
   const needsUsername = signedIn && !needsLang && !needsGoal && stats?.username === null;
+  // Then the demo slides, once on this device (also to the accounts made before).
+  const needsIntro = signedIn && !needsLang && !needsGoal && !needsUsername && !introSeen;
   // Then the daily reminders, asked once on this device (also to the accounts made before).
   const needsReminders =
     signedIn &&
     !needsLang &&
     !needsGoal &&
     !needsUsername &&
+    !needsIntro &&
     REMINDERS_SUPPORTED &&
     !reminders.asked;
-  const onboarding = needsLang || needsGoal || needsUsername || needsReminders;
+  const onboarding = needsLang || needsGoal || needsUsername || needsIntro || needsReminders;
   return (
     // New scheme: the screens are remounted to read its colors (see lib/theme).
     <Fragment key={scheme}>
@@ -131,6 +136,13 @@ function RootNavigator() {
         </Stack.Protected>
         <Stack.Protected guard={needsUsername}>
           <Stack.Screen name="username" options={{ animation: 'fade' }} />
+        </Stack.Protected>
+        {/* Onboarding step, and opened again from the profile ("Revoir la démo"). */}
+        <Stack.Protected guard={needsIntro || (signedIn && !onboarding)}>
+          <Stack.Screen
+            name="intro"
+            options={{ animation: needsIntro ? 'fade' : 'slide_from_bottom' }}
+          />
         </Stack.Protected>
         <Stack.Protected guard={needsReminders}>
           <Stack.Screen name="notifications" options={{ animation: 'fade' }} />

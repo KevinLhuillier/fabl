@@ -9,14 +9,10 @@ import { StatsBar } from '@/components/StatsBar';
 import { StoryShelf } from '@/components/StoryShelf';
 import { useI18n } from '@/i18n';
 import { fetchStories } from '@/lib/api/content';
-import {
-  fetchProgressByStory,
-  type StoryProgressSummary,
-} from '@/lib/api/progress';
+import { fetchProgressByStory, type StoryProgressSummary } from '@/lib/api/progress';
 import { countDueVocabulary } from '@/lib/api/vocabulary';
 import { useStats } from '@/lib/stats';
 import { useTheme } from '@/lib/theme';
-import { useTour } from '@/lib/tour';
 import type { StorySummary } from '@/lib/types';
 import {
   Button,
@@ -44,7 +40,6 @@ export default function Home() {
   const [due, setDue] = useState(0);
   const [error, setError] = useState<string | null>(null);
   const [refreshing, setRefreshing] = useState(false);
-  const { target } = useTour('home', stories !== null);
   // One shelf per level (A1 first), the free stories at the front of each.
   const shelves = useMemo(
     () =>
@@ -86,7 +81,6 @@ export default function Home() {
   const openStory = (story: StorySummary) =>
     router.push({ pathname: '/story/[id]', params: { id: story.id } });
 
-
   // Reload whenever the tab gets focus (e.g. back from a story or a review).
   useFocusEffect(
     useCallback(() => {
@@ -125,7 +119,7 @@ export default function Home() {
             <Icon icon={dark ? Sun : Moon} size={22} color={dark ? colors.xp : colors.primary} />
           </Pressable>
         </View>
-        <View ref={target('stats')} collapsable={false}>
+        <View>
           <StatsBar />
         </View>
 
@@ -168,7 +162,7 @@ export default function Home() {
           </Card>
         ) : stories ? (
           stories.length ? (
-            <View ref={target('stories')} collapsable={false} style={styles.shelves}>
+            <View style={styles.shelves}>
               {shelves.map((shelf, i) => (
                 <Animated.View key={shelf.level} entering={enter.up(i * 80)}>
                   <StoryShelf

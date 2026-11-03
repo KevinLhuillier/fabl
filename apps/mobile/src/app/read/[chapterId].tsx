@@ -31,7 +31,6 @@ import { fetchUnlocks, unlockChapter } from '@/lib/api/allowance';
 import { usePremium } from '@/lib/premium';
 import { createReadAlongStore, type ReadAlong } from '@/lib/readAlongStore';
 import { useStats } from '@/lib/stats';
-import { useTour } from '@/lib/tour';
 import type { ChapterProgress, ChapterSummary, Page, StorySummary, Token } from '@/lib/types';
 import {
   Button,
@@ -88,7 +87,6 @@ export default function ChapterReader() {
   const [page, setPage] = useState(0);
   const [finishing, setFinishing] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const { target } = useTour('reader', data !== null);
   const [sheet, setSheet] = useState<WordSheetState | null>(null);
   const [selected, setSelected] = useState<number | null>(null);
   const [settingsOpen, setSettingsOpen] = useState(false);
@@ -311,7 +309,7 @@ export default function ChapterReader() {
             {t.reader.header(chapter.position + 1, chapter.title, page + 1, pages.length)}
           </Text>
           <Animated.View key={current.id} entering={enter.up()}>
-            <View ref={target('text')} collapsable={false}>
+            <View>
               <PassageText
                 tokens={current.tokens}
                 written={current.written}
@@ -360,7 +358,7 @@ export default function ChapterReader() {
             <Icon icon={Settings} size={24} color={colors.textSecondary} />
           </Pressable>
           {current.audioUrl ? (
-            <View ref={target('audio')} collapsable={false}>
+            <View>
               <PageAudio
                 key={`audio-${current.id}`}
                 uri={current.audioUrl}
@@ -374,7 +372,7 @@ export default function ChapterReader() {
             </View>
           ) : null}
         </View>
-        <View ref={target('next')} collapsable={false} style={[styles.side, styles.sideEnd]}>
+        <View style={[styles.side, styles.sideEnd]}>
           {finishing ? (
             <ActivityIndicator color={colors.success} />
           ) : isLast ? (

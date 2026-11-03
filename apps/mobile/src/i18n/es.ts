@@ -383,72 +383,23 @@ export const es: Messages = {
     openSettings: 'Abrir los ajustes',
     hour: (h: number) => `${h}:00`,
   },
-  tour: {
-    home: {
-      stats: {
-        title: 'Tu progreso',
-        text: 'Tu racha de días, tu tiempo total y tu objetivo del día. ¡Lee o repasa cada día para alcanzarlo y mantener tu racha!',
-      },
-      stories: {
-        title: 'Elige una historia',
-        text: 'Cada historia tiene un nivel (A1, A2…). Toca una portada para ver sus capítulos.',
-      },
-      tabs: {
-        title: 'Tus palabras y tu perfil',
-        text: 'Abajo, la pestaña «Mis palabras» reúne tu vocabulario y «Perfil» tus ajustes.',
-      },
-    },
-    story: {
-      summary: {
-        title: 'La historia',
-        text: 'El resumen, el tiempo de lectura y tu avance en la historia.',
-      },
-      chapters: {
-        title: 'Los capítulos',
-        text: 'Toca un capítulo para leerlo. Tu página se guarda: continúas donde lo dejaste.',
-      },
-    },
-    reader: {
-      text: {
-        title: 'Toca una palabra',
-        text: 'Aparece su traducción y la palabra se añade a «Mis palabras» para repasarla más tarde.',
-      },
-      audio: {
-        title: 'Escucha la página',
-        text: 'Inicia la lectura: el texto se resalta al ritmo de la voz. Toca dos veces una palabra para escuchar a partir de ella (puedes cambiar los gestos con el icono de ajustes, abajo).',
-      },
-      next: {
-        title: 'Página siguiente',
-        text: 'Avanza página a página. ¡Tu tiempo de lectura cuenta para tu objetivo del día!',
-      },
-    },
-    vocabulary: {
-      review: {
-        title: 'Repasa tus palabras',
-        text: 'Las palabras vuelven justo antes de que las olvides. El tiempo de repaso también cuenta para tu objetivo.',
-      },
-      search: {
-        title: 'Encuentra una palabra',
-        text: 'Busca una palabra o su traducción. Cada tarjeta recuerda la frase donde la encontraste.',
-      },
-    },
-    profile: {
-      goal: {
-        title: 'Tu objetivo',
-        text: 'Elige cuántos minutos leer o repasar cada día.',
-      },
-      readAlong: {
-        title: 'Resaltado del audio',
-        text: '¿Prefieres escuchar sin que se resalte el texto? Desactívalo aquí.',
-      },
-      language: {
-        title: 'Idioma',
-        text: 'Cambia el idioma de la aplicación y de las traducciones.',
-      },
-      replay: {
-        title: 'Ver la demo otra vez',
-        text: 'Puedes volver a ver esta presentación cuando quieras.',
-      },
-    },
+  intro: {
+    skip: 'Saltar',
+    next: 'Siguiente',
+    start: '¡Vamos!',
+    gesture: { tap: 'Toca', double_tap: 'Toca dos veces' },
+    translateTitle: 'Traduce una palabra',
+    translateText: (gesture: string) =>
+      `${gesture} una palabra: aparece su traducción y se añade a tu vocabulario.`,
+    added: 'Añadida a «Mis palabras»',
+    listenTitle: 'Escucha la historia',
+    listenText: 'Toca el botón de reproducción: el texto se resalta al ritmo de la voz.',
+    restartTitle: 'Retoma donde quieras',
+    restartText: (gesture: string) => `${gesture} una palabra para reiniciar el audio desde ella.`,
+    gestureHint: 'Puedes intercambiar los gestos en los ajustes de lectura.',
+    reviewTitle: 'Repasa tus palabras',
+    reviewText:
+      'Tus palabras vuelven a repasarse justo antes de que las olvides. ¡Un poco cada día basta!',
+    sample: { lighthouse: 'faro', keeper: 'guardián', old: 'viejo' },
   },
 };

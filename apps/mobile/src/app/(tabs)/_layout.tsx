@@ -6,7 +6,6 @@ import Animated from 'react-native-reanimated';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { useI18n } from '@/i18n';
-import { useTourTarget } from '@/lib/tour';
 import { colors, enter, fonts, haptics, Icon, themed } from '@/theme';
 
 /** Frame given to the loader before the new tab is drawn (as when turning a page). */
@@ -18,8 +17,6 @@ const SWITCH_TIMEOUT_MS = 3000;
 
 export default function TabsLayout() {
   const { t } = useI18n();
-  // The home tour points at the tab bar ("Mes mots", "Profil").
-  const target = useTourTarget('home');
   // The bar pads itself by the system navigation bar, so that height has to be added on top
   // (Android with 3-button navigation: ~48px, which a fixed height would eat into).
   const insets = useSafeAreaInsets();
@@ -55,9 +52,7 @@ export default function TabsLayout() {
           tabBarActiveTintColor: colors.primary,
           tabBarInactiveTintColor: colors.textMuted,
           tabBarLabelStyle: { fontFamily: fonts.extraBold, fontSize: 12 },
-          tabBarBackground: () => (
-            <View ref={target('tabs')} collapsable={false} style={styles.tabBar} />
-          ),
+          tabBarBackground: () => <View style={styles.tabBar} />,
           tabBarStyle: {
             backgroundColor: colors.surface,
             borderTopWidth: 2,

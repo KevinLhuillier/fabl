@@ -381,72 +381,23 @@ export const it: Messages = {
     openSettings: 'Apri le impostazioni',
     hour: (h: number) => `${h}:00`,
   },
-  tour: {
-    home: {
-      stats: {
-        title: 'I tuoi progressi',
-        text: 'La tua serie di giorni, il tuo tempo totale e il tuo obiettivo del giorno. Leggi o ripassa ogni giorno per raggiungerlo e mantenere la serie!',
-      },
-      stories: {
-        title: 'Scegli una storia',
-        text: 'Ogni storia ha un livello (A1, A2…). Tocca una copertina per vederne i capitoli.',
-      },
-      tabs: {
-        title: 'Le tue parole e il tuo profilo',
-        text: 'In basso, la scheda «Le mie parole» raccoglie il tuo vocabolario e «Profilo» le tue impostazioni.',
-      },
-    },
-    story: {
-      summary: {
-        title: 'La storia',
-        text: 'Il riassunto, il tempo di lettura e i tuoi progressi nella storia.',
-      },
-      chapters: {
-        title: 'I capitoli',
-        text: 'Tocca un capitolo per leggerlo. La tua pagina viene salvata: riprendi da dove avevi lasciato.',
-      },
-    },
-    reader: {
-      text: {
-        title: 'Tocca una parola',
-        text: 'Compare la traduzione e la parola viene aggiunta a «Le mie parole» per ripassarla più tardi.',
-      },
-      audio: {
-        title: 'Ascolta la pagina',
-        text: 'Avvia la lettura: il testo si evidenzia al ritmo della voce. Tocca due volte una parola per ascoltare a partire da quella parola (puoi cambiare i gesti con l’icona delle impostazioni, in basso).',
-      },
-      next: {
-        title: 'Pagina successiva',
-        text: "Vai avanti pagina dopo pagina. Il tuo tempo di lettura conta per l'obiettivo del giorno!",
-      },
-    },
-    vocabulary: {
-      review: {
-        title: 'Ripassa le tue parole',
-        text: "Le parole tornano proprio prima che tu le dimentichi. Anche il tempo di ripasso conta per l'obiettivo.",
-      },
-      search: {
-        title: 'Trova una parola',
-        text: 'Cerca una parola o la sua traduzione. Ogni scheda ricorda la frase in cui l’hai trovata.',
-      },
-    },
-    profile: {
-      goal: {
-        title: 'Il tuo obiettivo',
-        text: 'Scegli quanti minuti leggere o ripassare ogni giorno.',
-      },
-      readAlong: {
-        title: "Evidenziazione dell'audio",
-        text: 'Preferisci ascoltare senza che il testo si evidenzi? Disattivala qui.',
-      },
-      language: {
-        title: 'Lingua',
-        text: "Cambia la lingua dell'app e delle traduzioni.",
-      },
-      replay: {
-        title: 'Rivedi la demo',
-        text: 'Puoi rivedere questa presentazione quando vuoi.',
-      },
-    },
+  intro: {
+    skip: 'Salta',
+    next: 'Avanti',
+    start: 'Si comincia!',
+    gesture: { tap: 'Tocca', double_tap: 'Tocca due volte' },
+    translateTitle: 'Traduci una parola',
+    translateText: (gesture: string) =>
+      `${gesture} una parola: appare la traduzione e finisce nel tuo vocabolario.`,
+    added: 'Aggiunta a «Le mie parole»',
+    listenTitle: 'Ascolta la storia',
+    listenText: 'Tocca il pulsante di riproduzione: il testo si evidenzia al ritmo della voce.',
+    restartTitle: 'Riprendi da dove vuoi',
+    restartText: (gesture: string) => `${gesture} una parola per far ripartire l’audio da lì.`,
+    gestureHint: 'Puoi scambiare i gesti nelle impostazioni di lettura.',
+    reviewTitle: 'Ripassa le tue parole',
+    reviewText:
+      'Le tue parole tornano in ripasso poco prima che tu le dimentichi. Basta un po’ ogni giorno!',
+    sample: { lighthouse: 'faro', keeper: 'guardiano', old: 'vecchio' },
   },
 };

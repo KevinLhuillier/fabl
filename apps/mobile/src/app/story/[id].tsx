@@ -14,7 +14,6 @@ import { fetchStoryWithChapters } from '@/lib/api/content';
 import { fetchChapterProgress } from '@/lib/api/progress';
 import { readingMinutes } from '@/lib/labels';
 import { usePremium } from '@/lib/premium';
-import { useTour } from '@/lib/tour';
 import type { ChapterProgress, ChapterSummary, StorySummary } from '@/lib/types';
 import {
   Badge,
@@ -46,7 +45,6 @@ export default function StoryScreen() {
   const [toUnlock, setToUnlock] = useState<ChapterSummary | null>(null);
   // Kept separate from `toUnlock` so the text stays during the closing fade.
   const [confirmOpen, setConfirmOpen] = useState(false);
-  const { target } = useTour('story', story !== null);
 
   // Reload on focus: coming back from the reader updates the path.
   useFocusEffect(
@@ -135,7 +133,7 @@ export default function StoryScreen() {
 
       <ScrollView contentContainerStyle={styles.content}>
         <Animated.View entering={enter.up()}>
-          <View ref={target('summary')} collapsable={false}>
+          <View>
             <Card tint={{ face: c.soft, edge: c.solid }} padding={spacing.lg}>
               <View style={styles.hero}>
                 <StoryCover story={story} width={112} size="lg" />
@@ -195,7 +193,7 @@ export default function StoryScreen() {
           </Animated.View>
         ) : null}
 
-        <View ref={target('chapters')} collapsable={false}>
+        <View>
           <TableOfContents
             level={story.level}
             chapters={chapters}

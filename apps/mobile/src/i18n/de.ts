@@ -384,72 +384,24 @@ export const de: Messages = {
     openSettings: 'Einstellungen öffnen',
     hour: (h: number) => `${h} Uhr`,
   },
-  tour: {
-    home: {
-      stats: {
-        title: 'Dein Fortschritt',
-        text: 'Deine Tagesserie, deine Gesamtzeit und dein Tagesziel. Lies oder wiederhole jeden Tag, um es zu erreichen und deine Serie zu halten!',
-      },
-      stories: {
-        title: 'Wähle eine Geschichte',
-        text: 'Jede Geschichte hat ein Niveau (A1, A2…). Tippe auf ein Cover, um die Kapitel zu sehen.',
-      },
-      tabs: {
-        title: 'Deine Wörter und dein Profil',
-        text: 'Unten sammelt der Tab „Meine Wörter“ deinen Wortschatz und „Profil“ deine Einstellungen.',
-      },
-    },
-    story: {
-      summary: {
-        title: 'Die Geschichte',
-        text: 'Die Zusammenfassung, die Lesezeit und dein Fortschritt in der Geschichte.',
-      },
-      chapters: {
-        title: 'Die Kapitel',
-        text: 'Tippe auf ein Kapitel, um es zu lesen. Deine Seite wird gespeichert: Du machst dort weiter, wo du aufgehört hast.',
-      },
-    },
-    reader: {
-      text: {
-        title: 'Tippe auf ein Wort',
-        text: 'Die Übersetzung erscheint und das Wort kommt in „Meine Wörter“, damit du es später wiederholen kannst.',
-      },
-      audio: {
-        title: 'Hör dir die Seite an',
-        text: 'Starte das Vorlesen: Der Text wird im Takt der Stimme hervorgehoben. Tippe zweimal auf ein Wort, um ab diesem Wort zu hören (Gesten über das Einstellungssymbol unten änderbar).',
-      },
-      next: {
-        title: 'Nächste Seite',
-        text: 'Lies Seite für Seite weiter. Deine Lesezeit zählt für dein Tagesziel!',
-      },
-    },
-    vocabulary: {
-      review: {
-        title: 'Wiederhole deine Wörter',
-        text: 'Die Wörter kommen zurück, kurz bevor du sie vergisst. Auch die Zeit beim Wiederholen zählt für dein Ziel.',
-      },
-      search: {
-        title: 'Finde ein Wort',
-        text: 'Suche ein Wort oder seine Übersetzung. Jede Karte zeigt den Satz, in dem du es gefunden hast.',
-      },
-    },
-    profile: {
-      goal: {
-        title: 'Dein Ziel',
-        text: 'Wähle, wie viele Minuten du jeden Tag lesen oder wiederholen willst.',
-      },
-      readAlong: {
-        title: 'Mitlesen',
-        text: 'Lieber zuhören, ohne dass der Text hervorgehoben wird? Schalte es hier aus.',
-      },
-      language: {
-        title: 'Sprache',
-        text: 'Ändere die Sprache der App und der Übersetzungen.',
-      },
-      replay: {
-        title: 'Demo noch einmal ansehen',
-        text: 'Du kannst diese Einführung jederzeit noch einmal ansehen.',
-      },
-    },
+  intro: {
+    skip: 'Überspringen',
+    next: 'Weiter',
+    start: 'Los geht’s!',
+    gesture: { tap: 'Tippe', double_tap: 'Tippe zweimal' },
+    translateTitle: 'Übersetze ein Wort',
+    translateText: (gesture: string) =>
+      `${gesture} auf ein Wort: Die Übersetzung erscheint und es landet in deinem Wortschatz.`,
+    added: 'Zu „Meine Wörter“ hinzugefügt',
+    listenTitle: 'Hör dir die Geschichte an',
+    listenText: 'Tippe auf die Wiedergabetaste: Der Text wird im Takt der Stimme markiert.',
+    restartTitle: 'Mach weiter, wo du willst',
+    restartText: (gesture: string) =>
+      `${gesture} auf ein Wort, um das Audio ab dort neu zu starten.`,
+    gestureHint: 'Die Gesten kannst du in den Leseeinstellungen tauschen.',
+    reviewTitle: 'Wiederhole deine Wörter',
+    reviewText:
+      'Deine Wörter kommen zur Wiederholung, kurz bevor du sie vergisst. Ein bisschen jeden Tag reicht!',
+    sample: { lighthouse: 'Leuchtturm', keeper: 'Wärter', old: 'alt' },
   },
 };

@@ -14,7 +14,6 @@ import { endOfToday } from '@/lib/dates';
 import { posLabel } from '@/lib/labels';
 import { FREE_REVIEW_WORDS, usePremium } from '@/lib/premium';
 import { loadPronunciations } from '@/lib/pronunciation';
-import { useTour } from '@/lib/tour';
 import type { VocabularyItem } from '@/lib/types';
 import {
   Badge,
@@ -48,7 +47,6 @@ export default function Vocabulary() {
   const [toRemove, setToRemove] = useState<VocabularyItem | null>(null);
   // Kept separate from `toRemove` so the text stays during the closing fade.
   const [confirmOpen, setConfirmOpen] = useState(false);
-  const { target } = useTour('vocabulary', items !== null);
 
   useFocusEffect(
     useCallback(() => {
@@ -102,7 +100,7 @@ export default function Vocabulary() {
         ListHeaderComponent={
           <View style={styles.header}>
             <Text variant="title">{t.vocabulary.title}</Text>
-            <View ref={target('review')} collapsable={false}>
+            <View>
               <Card tint={{ face: colors.primarySoft, edge: colors.primary }}>
                 <View style={styles.reviewRow}>
                   <Icon icon={dueCount ? Brain : Sparkles} size={28} color={colors.primary} />
@@ -126,7 +124,7 @@ export default function Vocabulary() {
             {premiumReady && !premium && reviewDone !== null ? (
               <FreeReview done={reviewDone} />
             ) : null}
-            <View ref={target('search')} collapsable={false}>
+            <View>
               <TextField
                 icon={Search}
                 placeholder={t.vocabulary.search}

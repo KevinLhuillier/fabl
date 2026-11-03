@@ -28,7 +28,6 @@ import { usePremium } from '@/lib/premium';
 import { REMINDERS_SUPPORTED } from '@/lib/reminders';
 import { useStats } from '@/lib/stats';
 import { supabase } from '@/lib/supabase';
-import { useTour } from '@/lib/tour';
 import { Button, Card, colors, Icon, spacing, Text, themed } from '@/theme';
 
 export default function Profile() {
@@ -36,7 +35,6 @@ export default function Profile() {
   const { session } = useAuth();
   const { t, lang, setLang } = useI18n();
   const { stats, updateDailyGoal } = useStats();
-  const { target, replay } = useTour('profile', stats !== null);
   const [confirmDelete, setConfirmDelete] = useState(false);
   const [deleting, setDeleting] = useState(false);
   const [deleteError, setDeleteError] = useState(false);
@@ -104,7 +102,7 @@ export default function Profile() {
 
         <PremiumCard />
 
-        <View ref={target('goal')} collapsable={false}>
+        <View>
           <Card>
             <View style={styles.titleRow}>
               <Icon icon={Target} size={22} color={colors.xpShade} />
@@ -129,7 +127,7 @@ export default function Profile() {
           </Card>
         </View>
 
-        <View ref={target('readAlong')} collapsable={false}>
+        <View>
           <Card>
             <ReadAlongSetting />
           </Card>
@@ -145,7 +143,7 @@ export default function Profile() {
           </Card>
         ) : null}
 
-        <View ref={target('language')} collapsable={false}>
+        <View>
           <Card>
             <View style={styles.titleRow}>
               <Icon icon={Languages} size={22} color={colors.info} />
@@ -170,16 +168,12 @@ export default function Profile() {
           </Card>
         </View>
 
-        <View ref={target('replay')} collapsable={false}>
+        <View>
           <Button
             label={t.profile.replay}
             variant="secondary"
             icon={<Icon icon={GraduationCap} size={20} color={colors.primary} />}
-            onPress={() => {
-              // Back to the first tab: the tour starts again from there.
-              router.navigate('/');
-              replay();
-            }}
+            onPress={() => router.push('/intro')}
           />
         </View>
 

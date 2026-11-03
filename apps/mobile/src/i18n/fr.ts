@@ -390,74 +390,28 @@ export const fr = {
     openSettings: 'Ouvrir les réglages',
     hour: (h: number) => `${h} h`,
   },
-  /** Guided tour, per screen then per step id (see `TOUR_STEPS`). */
-  tour: {
-    home: {
-      stats: {
-        title: 'Ta progression',
-        text: 'Ta série de jours, ton temps total et ton objectif du jour. Lis ou révise chaque jour pour l’atteindre et garder ta série !',
-      },
-      stories: {
-        title: 'Choisis une histoire',
-        text: 'Chaque histoire a un niveau (A1, A2…). Touche une couverture pour voir ses chapitres.',
-      },
-      tabs: {
-        title: 'Tes mots et ton profil',
-        text: 'En bas, l’onglet « Mes mots » rassemble ton vocabulaire et « Profil » tes réglages.',
-      },
-    },
-    story: {
-      summary: {
-        title: 'L’histoire',
-        text: 'Le résumé, la durée de lecture et ton avancement dans l’histoire.',
-      },
-      chapters: {
-        title: 'Les chapitres',
-        text: 'Touche un chapitre pour le lire. Ta page est enregistrée : tu reprends où tu t’étais arrêté.',
-      },
-    },
-    reader: {
-      text: {
-        title: 'Touche un mot',
-        text: 'Sa traduction s’affiche et le mot est ajouté à « Mes mots » pour le réviser plus tard.',
-      },
-      audio: {
-        title: 'Écoute la page',
-        text: 'Lance la lecture : le texte est surligné au fil de la voix. Touche deux fois un mot pour lancer l’écoute à partir de celui-ci (gestes modifiables avec l’icône des réglages, en bas).',
-      },
-      next: {
-        title: 'Page suivante',
-        text: 'Avance page par page. Ton temps de lecture compte pour ton objectif du jour !',
-      },
-    },
-    vocabulary: {
-      review: {
-        title: 'Révise tes mots',
-        text: 'Les mots reviennent juste avant que tu les oublies. Le temps de révision compte aussi pour ton objectif.',
-      },
-      search: {
-        title: 'Retrouve un mot',
-        text: 'Cherche un mot ou sa traduction. Chaque carte rappelle la phrase où tu l’as rencontré.',
-      },
-    },
-    profile: {
-      goal: {
-        title: 'Ton objectif',
-        text: 'Choisis combien de minutes lire ou réviser chaque jour.',
-      },
-      readAlong: {
-        title: 'Surlignage audio',
-        text: 'Préfères-tu écouter sans que le texte soit surligné ? Désactive-le ici.',
-      },
-      language: {
-        title: 'Langue',
-        text: 'Change la langue de l’application et des traductions.',
-      },
-      replay: {
-        title: 'Revoir la démo',
-        text: 'Tu peux revoir cette présentation à tout moment.',
-      },
-    },
+  /** First-launch slides (intro screen), also opened from the profile. */
+  intro: {
+    skip: 'Passer',
+    next: 'Suivant',
+    start: 'C’est parti !',
+    /** Starts the sentences below: "<gesture> un mot…". */
+    gesture: { tap: 'Touche', double_tap: 'Touche deux fois' },
+    translateTitle: 'Traduis un mot',
+    translateText: (gesture: string) =>
+      `${gesture} un mot : sa traduction s’affiche et il rejoint ton vocabulaire.`,
+    added: 'Ajouté à « Mes mots »',
+    listenTitle: 'Écoute l’histoire',
+    listenText: 'Touche le bouton lecture : le texte se surligne au fil de la voix.',
+    restartTitle: 'Reprends où tu veux',
+    restartText: (gesture: string) =>
+      `${gesture} un mot pour relancer l’audio à partir de celui-ci.`,
+    gestureHint: 'Les gestes s’échangent dans les réglages de lecture.',
+    reviewTitle: 'Révise tes mots',
+    reviewText:
+      'Tes mots reviennent en révision juste avant que tu les oublies. Un peu chaque jour suffit !',
+    /** Translations of the sample words (the demo text is in English). */
+    sample: { lighthouse: 'phare', keeper: 'gardien', old: 'vieux' },
   },
 };
 
