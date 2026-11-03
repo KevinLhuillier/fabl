@@ -12,6 +12,12 @@ import { LaunchScreen } from '@/components/LaunchScreen';
 import { I18nProvider, useI18n } from '@/i18n';
 import { AuthProvider, useAuth } from '@/lib/auth';
 import { PremiumProvider } from '@/lib/premium';
+import {
+  ReminderLinks,
+  RemindersProvider,
+  REMINDERS_SUPPORTED,
+  useReminders,
+} from '@/lib/reminders';
 import { StatsProvider, useStats } from '@/lib/stats';
 import { ThemeProvider, useTheme } from '@/lib/theme';
 import { TourProvider } from '@/lib/tour';
@@ -27,9 +33,11 @@ export default function RootLayout() {
           <PremiumProvider>
             <StatsProvider>
               <I18nProvider>
-                <TourProvider>
-                  <RootNavigator />
-                </TourProvider>
+                <RemindersProvider>
+                  <TourProvider>
+                    <RootNavigator />
+                  </TourProvider>
+                </RemindersProvider>
               </I18nProvider>
             </StatsProvider>
           </PremiumProvider>
@@ -46,8 +54,14 @@ function RootNavigator() {
   const { scheme, ready: themeReady } = useTheme();
   // Waiting for the stats tells whether the account has chosen its language yet.
   const { stats, ready: statsReady } = useStats();
+  const { prefs: reminders, ready: remindersReady } = useReminders();
   const loading =
-    (!fontsLoaded && !fontError) || !ready || !langReady || !themeReady || !statsReady;
+    (!fontsLoaded && !fontError) ||
+    !ready ||
+    !langReady ||
+    !themeReady ||
+    !statsReady ||
+    !remindersReady;
   // Cold start: the launch screen covers the app until it is ready, then fades out.
   const [launching, setLaunching] = useState(true);
   const endLaunch = useCallback(() => setLaunching(false), []);
@@ -77,7 +91,15 @@ function RootNavigator() {
   const needsGoal = signedIn && !needsLang && stats?.daily_goal_minutes === null;
   // Accounts created before usernames choose one (new accounts pick it at sign-up).
   const needsUsername = signedIn && !needsLang && !needsGoal && stats?.username === null;
-  const onboarding = needsLang || needsGoal || needsUsername;
+  // Then the daily reminders, asked once on this device (also to the accounts made before).
+  const needsReminders =
+    signedIn &&
+    !needsLang &&
+    !needsGoal &&
+    !needsUsername &&
+    REMINDERS_SUPPORTED &&
+    !reminders.asked;
+  const onboarding = needsLang || needsGoal || needsUsername || needsReminders;
   return (
     // New scheme: the screens are remounted to read its colors (see lib/theme).
     <Fragment key={scheme}>
@@ -110,6 +132,9 @@ function RootNavigator() {
         <Stack.Protected guard={needsUsername}>
           <Stack.Screen name="username" options={{ animation: 'fade' }} />
         </Stack.Protected>
+        <Stack.Protected guard={needsReminders}>
+          <Stack.Screen name="notifications" options={{ animation: 'fade' }} />
+        </Stack.Protected>
         <Stack.Protected guard={!signedIn}>
           <Stack.Screen name="sign-in" />
           <Stack.Screen name="forgot-password" />
@@ -117,6 +142,8 @@ function RootNavigator() {
       </Stack>
       {/* Above every screen: today's goal can be reached while reading or reviewing. */}
       {signedIn ? <GoalToast /> : null}
+      {/* Tapping a reminder opens its screen (words to review, the story). */}
+      {signedIn && !onboarding ? <ReminderLinks /> : null}
       {launch}
     </Fragment>
   );

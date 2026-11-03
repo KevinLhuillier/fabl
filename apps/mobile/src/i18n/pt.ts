@@ -357,6 +357,30 @@ export const pt: Messages = {
     date: (d: Date) =>
       `${d.getDate()} de ${['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'][d.getMonth()]} de ${d.getFullYear()}`,
   },
+  reminders: {
+    channel: 'Lembretes diários',
+    streakTitle: (n: number) => `🔥 Sua sequência de ${count(n, 'dia', 'dias')} está em jogo`,
+    streakBody: (minutes: number) => `Leia mais ${minutes} min hoje para mantê-la.`,
+    keepStreakTitle: (n: number) => `🔥 ${count(n, 'dia', 'dias')} seguidos!`,
+    keepStreakBody: 'Leia alguns minutos hoje para continuar sua sequência.',
+    goalTitle: 'Sua história está esperando 📖',
+    reviewTitle: (n: number) => `🧠 ${count(n, 'palavra', 'palavras')} para revisar`,
+    reviewBody: 'Alguns minutos bastam para não esquecê-las.',
+    chapterTitle: '✨ Seu capítulo do dia está disponível',
+    comebackTitle: 'Sente falta das suas histórias?',
+    comebackBody: 'Continue de onde parou: alguns minutos bastam.',
+    promptTitle: 'Um lembrete por dia?',
+    promptText:
+      'Uma notificação por dia, no horário que você escolher: sua meta, suas palavras para revisar, seu novo capítulo. Você pode desativá-las a qualquer momento no seu perfil.',
+    promptHour: 'Em que horário?',
+    enable: 'Ativar os lembretes',
+    later: 'Mais tarde',
+    title: 'Lembretes diários',
+    hint: 'Uma notificação por dia no horário escolhido: meta, palavras para revisar, novo capítulo.',
+    denied: 'As notificações do Taleway estão bloqueadas nas configurações do celular.',
+    openSettings: 'Abrir as configurações',
+    hour: (h: number) => `${h}h`,
+  },
   tour: {
     home: {
       stats: {

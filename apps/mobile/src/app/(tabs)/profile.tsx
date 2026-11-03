@@ -18,12 +18,14 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { ConfirmSheet } from '@/components/ConfirmSheet';
 import { GestureSetting, ReadAlongSetting } from '@/components/ReadingSettings';
+import { ReminderSetting } from '@/components/ReminderSettings';
 import { LANGS, LANG_NAMES, useI18n } from '@/i18n';
 import { deleteAccount, useAuth } from '@/lib/auth';
 import { formatDuration } from '@/lib/labels';
 import { DAILY_GOAL_OPTIONS, displayedStreak } from '@/lib/gamification';
 import { isGuest } from '@/lib/guest';
 import { usePremium } from '@/lib/premium';
+import { REMINDERS_SUPPORTED } from '@/lib/reminders';
 import { useStats } from '@/lib/stats';
 import { supabase } from '@/lib/supabase';
 import { useTour } from '@/lib/tour';
@@ -136,6 +138,12 @@ export default function Profile() {
         <Card>
           <GestureSetting />
         </Card>
+
+        {REMINDERS_SUPPORTED ? (
+          <Card>
+            <ReminderSetting />
+          </Card>
+        ) : null}
 
         <View ref={target('language')} collapsable={false}>
           <Card>

@@ -138,6 +138,18 @@ export async function countDueVocabulary(): Promise<number> {
   return count ?? 0;
 }
 
+/** When each word of the list falls due, up to `until` (overdue ones included). */
+export async function fetchDueDates(until: Date): Promise<Date[]> {
+  const rows = unwrap(
+    await supabase
+      .from('user_vocabulary')
+      .select('due_at')
+      .lte('due_at', until.toISOString())
+      .limit(2000),
+  ) as { due_at: string }[];
+  return rows.map((r) => new Date(r.due_at));
+}
+
 /** Among `lemmaIds`, the words in the user's list that were never reviewed yet. */
 export async function countWordsToLearn(lemmaIds: number[]): Promise<number> {
   if (!lemmaIds.length) return 0;

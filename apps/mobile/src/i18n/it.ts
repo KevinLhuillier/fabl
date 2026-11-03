@@ -357,6 +357,30 @@ export const it: Messages = {
     date: (d: Date) =>
       `${d.getDate()} ${['gennaio', 'febbraio', 'marzo', 'aprile', 'maggio', 'giugno', 'luglio', 'agosto', 'settembre', 'ottobre', 'novembre', 'dicembre'][d.getMonth()]} ${d.getFullYear()}`,
   },
+  reminders: {
+    channel: 'Promemoria quotidiani',
+    streakTitle: (n: number) => `🔥 La tua serie di ${count(n, 'giorno', 'giorni')} è in gioco`,
+    streakBody: (minutes: number) => `Ancora ${minutes} min di lettura oggi per mantenerla.`,
+    keepStreakTitle: (n: number) => `🔥 ${count(n, 'giorno', 'giorni')} di fila!`,
+    keepStreakBody: 'Leggi qualche minuto oggi per continuare la tua serie.',
+    goalTitle: 'La tua storia ti aspetta 📖',
+    reviewTitle: (n: number) => `🧠 ${count(n, 'parola', 'parole')} da ripassare`,
+    reviewBody: 'Bastano pochi minuti per non dimenticarle.',
+    chapterTitle: '✨ Il tuo capitolo del giorno è disponibile',
+    comebackTitle: 'Ti mancano le tue storie?',
+    comebackBody: 'Riprendi da dove ti eri fermato: bastano pochi minuti.',
+    promptTitle: 'Un piccolo promemoria ogni giorno?',
+    promptText:
+      'Una notifica al giorno, all’ora che preferisci: il tuo obiettivo, le parole da ripassare, il tuo nuovo capitolo. Puoi disattivarle quando vuoi dal profilo.',
+    promptHour: 'A che ora?',
+    enable: 'Attiva i promemoria',
+    later: 'Più tardi',
+    title: 'Promemoria quotidiani',
+    hint: 'Una notifica al giorno all’ora scelta: obiettivo, parole da ripassare, nuovo capitolo.',
+    denied: 'Le notifiche di Taleway sono bloccate nelle impostazioni del telefono.',
+    openSettings: 'Apri le impostazioni',
+    hour: (h: number) => `${h}:00`,
+  },
   tour: {
     home: {
       stats: {

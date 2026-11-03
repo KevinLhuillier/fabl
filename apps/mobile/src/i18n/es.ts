@@ -359,6 +359,30 @@ export const es: Messages = {
     date: (d: Date) =>
       `${d.getDate()} de ${['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'][d.getMonth()]} de ${d.getFullYear()}`,
   },
+  reminders: {
+    channel: 'Recordatorios diarios',
+    streakTitle: (n: number) => `🔥 Tu racha de ${count(n, 'día', 'días')} está en juego`,
+    streakBody: (minutes: number) => `Lee ${minutes} min más hoy para mantenerla.`,
+    keepStreakTitle: (n: number) => `🔥 ¡${count(n, 'día', 'días')} seguidos!`,
+    keepStreakBody: 'Lee unos minutos hoy para seguir con tu racha.',
+    goalTitle: 'Tu historia te espera 📖',
+    reviewTitle: (n: number) => `🧠 ${count(n, 'palabra', 'palabras')} para repasar`,
+    reviewBody: 'Unos minutos bastan para no olvidarlas.',
+    chapterTitle: '✨ Tu capítulo del día está disponible',
+    comebackTitle: '¿Echas de menos tus historias?',
+    comebackBody: 'Retoma donde lo dejaste: bastan unos minutos.',
+    promptTitle: '¿Un pequeño recordatorio cada día?',
+    promptText:
+      'Una notificación al día, a la hora que elijas: tu objetivo, tus palabras para repasar, tu nuevo capítulo. Puedes desactivarlas cuando quieras en tu perfil.',
+    promptHour: '¿A qué hora?',
+    enable: 'Activar los recordatorios',
+    later: 'Más tarde',
+    title: 'Recordatorios diarios',
+    hint: 'Una notificación al día a la hora elegida: objetivo, palabras para repasar, nuevo capítulo.',
+    denied: 'Las notificaciones de Taleway están bloqueadas en los ajustes del teléfono.',
+    openSettings: 'Abrir los ajustes',
+    hour: (h: number) => `${h}:00`,
+  },
   tour: {
     home: {
       stats: {

@@ -365,6 +365,31 @@ export const fr = {
     date: (d: Date) =>
       `${d.getDate()} ${['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'août', 'septembre', 'octobre', 'novembre', 'décembre'][d.getMonth()]} ${d.getFullYear()}`,
   },
+  /** Daily reminders (local notifications) and their settings. */
+  reminders: {
+    channel: 'Rappels quotidiens',
+    streakTitle: (n: number) => `🔥 Ta série de ${count(n, 'jour', 'jours')} est en jeu`,
+    streakBody: (minutes: number) => `Encore ${minutes} min de lecture aujourd’hui pour la garder.`,
+    keepStreakTitle: (n: number) => `🔥 ${count(n, 'jour', 'jours')} d’affilée !`,
+    keepStreakBody: 'Lis quelques minutes aujourd’hui pour continuer ta série.',
+    goalTitle: 'Ton histoire t’attend 📖',
+    reviewTitle: (n: number) => `🧠 ${count(n, 'mot', 'mots')} à réviser`,
+    reviewBody: 'Quelques minutes suffisent pour ne pas les oublier.',
+    chapterTitle: '✨ Ton chapitre du jour est disponible',
+    comebackTitle: 'Tes histoires te manquent ?',
+    comebackBody: 'Reprends là où tu t’étais arrêté : quelques minutes suffisent.',
+    promptTitle: 'Un petit rappel chaque jour ?',
+    promptText:
+      'Une notification par jour, à l’heure de ton choix : ton objectif, tes mots à réviser, ton nouveau chapitre. Tu peux les couper à tout moment dans ton profil.',
+    promptHour: 'À quelle heure ?',
+    enable: 'Activer les rappels',
+    later: 'Plus tard',
+    title: 'Rappels quotidiens',
+    hint: 'Une notification par jour à l’heure choisie : objectif, mots à réviser, nouveau chapitre.',
+    denied: 'Les notifications de Taleway sont bloquées dans les réglages du téléphone.',
+    openSettings: 'Ouvrir les réglages',
+    hour: (h: number) => `${h} h`,
+  },
   /** Guided tour, per screen then per step id (see `TOUR_STEPS`). */
   tour: {
     home: {

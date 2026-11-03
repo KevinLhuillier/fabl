@@ -359,6 +359,31 @@ export const de: Messages = {
     date: (d: Date) =>
       `${d.getDate()}. ${['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'][d.getMonth()]} ${d.getFullYear()}`,
   },
+  reminders: {
+    channel: 'Tägliche Erinnerungen',
+    streakTitle: (n: number) =>
+      `🔥 Deine Serie von ${count(n, 'Tag', 'Tagen')} steht auf dem Spiel`,
+    streakBody: (minutes: number) => `Lies heute noch ${minutes} Min., um sie zu halten.`,
+    keepStreakTitle: (n: number) => `🔥 ${count(n, 'Tag', 'Tage')} in Folge!`,
+    keepStreakBody: 'Lies heute ein paar Minuten, um deine Serie fortzusetzen.',
+    goalTitle: 'Deine Geschichte wartet 📖',
+    reviewTitle: (n: number) => `🧠 ${count(n, 'Wort', 'Wörter')} zu wiederholen`,
+    reviewBody: 'Ein paar Minuten reichen, um sie nicht zu vergessen.',
+    chapterTitle: '✨ Dein Kapitel des Tages ist verfügbar',
+    comebackTitle: 'Vermisst du deine Geschichten?',
+    comebackBody: 'Mach da weiter, wo du aufgehört hast: ein paar Minuten reichen.',
+    promptTitle: 'Eine kleine Erinnerung jeden Tag?',
+    promptText:
+      'Eine Benachrichtigung pro Tag, zur Uhrzeit deiner Wahl: dein Ziel, deine Wörter zum Wiederholen, dein neues Kapitel. Du kannst sie jederzeit in deinem Profil ausschalten.',
+    promptHour: 'Um wie viel Uhr?',
+    enable: 'Erinnerungen aktivieren',
+    later: 'Später',
+    title: 'Tägliche Erinnerungen',
+    hint: 'Eine Benachrichtigung pro Tag zur gewählten Uhrzeit: Ziel, Wörter zum Wiederholen, neues Kapitel.',
+    denied: 'Die Benachrichtigungen von Taleway sind in den Einstellungen des Handys blockiert.',
+    openSettings: 'Einstellungen öffnen',
+    hour: (h: number) => `${h} Uhr`,
+  },
   tour: {
     home: {
       stats: {

@@ -87,6 +87,15 @@ async function render(html, path, { width = SIZE, height = SIZE, transparent = f
   console.log(path);
 }
 
+/** A 1024 SVG drawn at `px` × `px` into the app's images. */
+async function renderSmall(markup, px, name, transparent = false) {
+  const html = `<div style="width:${px}px;height:${px}px">${markup.replace(
+    `width="${SIZE}" height="${SIZE}"`,
+    `width="${px}" height="${px}"`,
+  )}</div>`;
+  await render(html, join(IMAGES, name), { width: px, height: px, transparent });
+}
+
 const args = process.argv.slice(2);
 const variant = args.find((a) => a.startsWith('--variant='))?.split('=')[1];
 
@@ -129,16 +138,9 @@ if (args.includes('--preview')) {
     transparent: true,
   });
   // Favicon: the full icon, small.
-  await tab.setViewport({ width: 48, height: 48, deviceScaleFactor: 1 });
-  await tab.setContent(
-    `${page}<div style="width:48px;height:48px">${svg(background + glyph(variant, s.icon)).replace(
-      `width="${SIZE}" height="${SIZE}"`,
-      'width="48" height="48"',
-    )}</div>`,
-  );
-  await tab.evaluate(() => document.fonts.ready);
-  await tab.screenshot({ path: join(IMAGES, 'favicon.png'), clip: { x: 0, y: 0, width: 48, height: 48 } });
-  console.log(join(IMAGES, 'favicon.png'));
+  await renderSmall(svg(background + glyph(variant, s.icon)), 48, 'favicon.png');
+  // Android notification icon (expo-notifications plugin): white glyph, transparent, 96 px.
+  await renderSmall(svg(glyph(variant, 0.7, { shadow: false })), 96, 'notification-icon.png', true);
 } else {
   console.error('Usage: node src/app-icon.mjs --preview | --variant=letter | --variant=book');
   process.exitCode = 1;
