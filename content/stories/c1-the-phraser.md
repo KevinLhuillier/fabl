@@ -3,6 +3,7 @@ title: The Phraser
 level: C1
 summary: In Lantry, nobody can lie. The body simply will not allow it. Ione Halvey is a phraser, paid to find the gaps between the truth and the impression it leaves. Then, one bright October lunchtime, a stranger orders a coffee and says it is raining.
 cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/c1-the-phraser/1793558359428.webp
+premium: true
 ---
 
 # The Phraser

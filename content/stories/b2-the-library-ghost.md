@@ -3,6 +3,7 @@ title: The Library Ghost
 level: B2
 summary: Every evening, library assistant Imogen Pryce watches a quiet young man read alone at the window table. One night she hides a note inside his reserved book, and an anonymous correspondence begins, with only two rules: no names, and one honest question each. But secrets in a library have a way of coming out, and the truth she is hiding may cost her the one person who has ever understood her words.
 cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b2-the-library-ghost/1793564540760.webp
+premium: true
 ---
 
 # The Hold Shelf

@@ -3,6 +3,7 @@ title: The Gull Cottage
 level: A2
 summary: After their mother's funeral, Tom, Lily and Sam Hollis learn that they will be sent to three different homes. Instead, they run away to their dead grandmother's cottage by the sea in Cornwall. There, with a few coins, a recipe book and a very old fisherman, three children try to build a home. But a woman in a grey hat is looking for them.
 cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/a2-the-gull-cottage/1793549942575.webp
+premium: true
 ---
 
 # The Blue Tin

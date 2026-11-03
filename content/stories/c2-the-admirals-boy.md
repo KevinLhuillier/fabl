@@ -3,6 +3,7 @@ title: The Admiral's Boy
 level: C2
 summary: In 1492, a fifteen-year-old ship's boy from Moguer signs on with a stubborn Genoese who has promised Their Majesties a new route to Asia. Sixty years later, he sets down what he truly saw: the pale-eyed navigator who kept two logbooks, read every cloud as a coast, and called a stranger's shore his own. A first-hand portrait of Christopher Columbus, as unflattering as it is admiring.
 cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/c2-the-admirals-boy/1793552974683.webp
+premium: true
 ---
 
 # The Genoese at Palos

@@ -3,6 +3,7 @@ title: The Quiet Signal
 level: B1
 summary: Tom Reed, a detective in Bristol, can feel what other people feel, and he hears every lie as a false note. When twenty thousand pounds disappear from the safe of an old family bakery, his gift is the one clue he can never put in a report.
 cover: https://wvmjobeketinbzxggzuq.supabase.co/storage/v1/object/public/covers/b1-the-quiet-signal/1793541761725.webp
+premium: true
 ---
 
 # A Normal Morning
