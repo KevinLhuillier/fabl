@@ -12,13 +12,14 @@ import { USERNAME_TAKEN, isUsernameAvailable, isValidUsername } from '@/lib/user
 import {
   Button,
   Card,
-  IconBubble,
-  Text,
-  TextField,
   colors,
   enter,
   haptics,
+  IconBubble,
   spacing,
+  Text,
+  TextField,
+  themed,
 } from '@/theme';
 
 type Mode = 'signIn' | 'signUp';
@@ -172,10 +173,12 @@ export default function SignIn() {
   );
 }
 
-const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.background },
-  content: { flexGrow: 1, justifyContent: 'center', padding: spacing.xl, gap: spacing.xl },
-  hero: { alignItems: 'center', gap: spacing.sm },
-  form: { gap: spacing.lg },
-  field: { gap: spacing.xs },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    safe: { flex: 1, backgroundColor: colors.background },
+    content: { flexGrow: 1, justifyContent: 'center', padding: spacing.xl, gap: spacing.xl },
+    hero: { alignItems: 'center', gap: spacing.sm },
+    form: { gap: spacing.lg },
+    field: { gap: spacing.xs },
+  }),
+);

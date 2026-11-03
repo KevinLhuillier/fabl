@@ -2,7 +2,7 @@ import type { ReactNode } from 'react';
 import { ActivityIndicator, Pressable, StyleSheet, View, type ViewStyle } from 'react-native';
 import Animated from 'react-native-reanimated';
 
-import { colors } from '../colors';
+import { colors, themed } from '../colors';
 import { haptics } from '../haptics';
 import { depth, radii, spacing, touchTarget } from '../spacing';
 import { Text } from './Text';
@@ -12,7 +12,7 @@ export type ButtonVariant = 'primary' | 'secondary' | 'success' | 'danger' | 'gh
 
 type VariantStyle = { face: string; edge: string; text: string; border?: string };
 
-const variants: Record<ButtonVariant, VariantStyle> = {
+const variants: Record<ButtonVariant, VariantStyle> = themed(() => ({
   primary: { face: colors.primary, edge: colors.primaryShade, text: colors.textOnColor },
   success: { face: colors.success, edge: colors.successShade, text: colors.textOnColor },
   danger: { face: colors.danger, edge: colors.dangerShade, text: colors.textOnColor },
@@ -23,7 +23,7 @@ const variants: Record<ButtonVariant, VariantStyle> = {
     border: colors.border,
   },
   ghost: { face: 'transparent', edge: 'transparent', text: colors.primary },
-};
+}));
 
 export type ButtonProps = {
   label: string;

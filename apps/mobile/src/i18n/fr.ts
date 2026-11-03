@@ -98,6 +98,8 @@ export const fr = {
     comingSoon: 'Bientôt de nouvelles histoires',
     storyCount: (n: number) => count(n, 'histoire', 'histoires'),
     inProgress: 'En cours',
+    darkMode: 'Passer en mode sombre',
+    lightMode: 'Passer en mode clair',
   },
   stats: {
     goalReached: 'Objectif atteint !',

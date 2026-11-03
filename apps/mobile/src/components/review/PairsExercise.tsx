@@ -4,7 +4,7 @@ import Animated from 'react-native-reanimated';
 
 import { useI18n } from '@/i18n';
 import { shortTranslation, shuffle, type PairsExercise as Exercise } from '@/lib/reviewSession';
-import { Text, colors, enter, haptics, radii, spacing } from '@/theme';
+import { colors, enter, haptics, radii, spacing, Text, themed } from '@/theme';
 
 import { Feedback } from './Feedback';
 
@@ -114,40 +114,42 @@ export function PairsExercise({
   );
 }
 
-const styles = StyleSheet.create({
-  exercise: { flexGrow: 1, padding: spacing.xl, gap: spacing.xl },
-  promptBox: { gap: spacing.sm, paddingVertical: spacing.lg },
-  columns: { flexDirection: 'row', gap: spacing.md },
-  column: { flex: 1, gap: spacing.md },
-  tile: {
-    minHeight: 64,
-    paddingHorizontal: spacing.sm,
-    paddingVertical: spacing.md,
-    borderRadius: radii.md,
-    backgroundColor: colors.surface,
-    borderWidth: 2,
-    borderColor: colors.border,
-    borderBottomWidth: 5,
-    borderBottomColor: colors.borderShade,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  picked: {
-    borderColor: colors.primary,
-    borderBottomColor: colors.primaryShade,
-    backgroundColor: colors.primarySoft,
-  },
-  wrong: {
-    borderColor: colors.danger,
-    borderBottomColor: colors.dangerShade,
-    backgroundColor: colors.accentSoft,
-  },
-  matched: {
-    borderColor: colors.success,
-    borderBottomColor: colors.success,
-    backgroundColor: colors.successSoft,
-    borderBottomWidth: 2,
-  },
-  pressed: { borderBottomWidth: 2, transform: [{ translateY: 3 }] },
-  footerArea: { marginTop: 'auto', gap: spacing.md },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    exercise: { flexGrow: 1, padding: spacing.xl, gap: spacing.xl },
+    promptBox: { gap: spacing.sm, paddingVertical: spacing.lg },
+    columns: { flexDirection: 'row', gap: spacing.md },
+    column: { flex: 1, gap: spacing.md },
+    tile: {
+      minHeight: 64,
+      paddingHorizontal: spacing.sm,
+      paddingVertical: spacing.md,
+      borderRadius: radii.md,
+      backgroundColor: colors.surface,
+      borderWidth: 2,
+      borderColor: colors.border,
+      borderBottomWidth: 5,
+      borderBottomColor: colors.borderShade,
+      alignItems: 'center',
+      justifyContent: 'center',
+    },
+    picked: {
+      borderColor: colors.primary,
+      borderBottomColor: colors.primaryShade,
+      backgroundColor: colors.primarySoft,
+    },
+    wrong: {
+      borderColor: colors.danger,
+      borderBottomColor: colors.dangerShade,
+      backgroundColor: colors.accentSoft,
+    },
+    matched: {
+      borderColor: colors.success,
+      borderBottomColor: colors.success,
+      backgroundColor: colors.successSoft,
+      borderBottomWidth: 2,
+    },
+    pressed: { borderBottomWidth: 2, transform: [{ translateY: 3 }] },
+    footerArea: { marginTop: 'auto', gap: spacing.md },
+  }),
+);

@@ -18,7 +18,6 @@ import { spacing } from '../spacing';
 import { Icon, type LucideIcon } from './Icon';
 import { Text } from './Text';
 
-const DOT_COLORS = [colors.primary, colors.accent, colors.xp];
 const DOT_SIZE = 10;
 /** One bounce of the dots; each one starts a bit after the previous. */
 const BOUNCE_MS = 320;
@@ -46,7 +45,7 @@ export function Loader({
   message,
   color = colors.primary,
   background = colors.primarySoft,
-  dotColors = DOT_COLORS,
+  dotColors = [colors.primary, colors.accent, colors.xp],
   style,
 }: LoaderProps) {
   const reduceMotion = useReducedMotion();

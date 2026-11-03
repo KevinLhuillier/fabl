@@ -11,13 +11,14 @@ import { resetPassword, sendResetCode } from '@/lib/passwordReset';
 import {
   Button,
   Card,
-  IconBubble,
-  Text,
-  TextField,
   colors,
   enter,
   haptics,
+  IconBubble,
   spacing,
+  Text,
+  TextField,
+  themed,
 } from '@/theme';
 
 /**
@@ -154,9 +155,11 @@ export default function ForgotPassword() {
   );
 }
 
-const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.background },
-  content: { flexGrow: 1, justifyContent: 'center', padding: spacing.xl, gap: spacing.xl },
-  hero: { alignItems: 'center', gap: spacing.sm },
-  form: { gap: spacing.lg },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    safe: { flex: 1, backgroundColor: colors.background },
+    content: { flexGrow: 1, justifyContent: 'center', padding: spacing.xl, gap: spacing.xl },
+    hero: { alignItems: 'center', gap: spacing.sm },
+    form: { gap: spacing.lg },
+  }),
+);

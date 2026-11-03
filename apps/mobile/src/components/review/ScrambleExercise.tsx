@@ -4,7 +4,7 @@ import Animated from 'react-native-reanimated';
 
 import { useI18n } from '@/i18n';
 import { hideEnglishNotes, type ScrambleExercise as Exercise } from '@/lib/reviewSession';
-import { Button, Text, colors, enter, fonts, haptics, radii, spacing } from '@/theme';
+import { Button, colors, enter, fonts, haptics, radii, spacing, Text, themed } from '@/theme';
 
 import { Feedback, Meaning } from './Feedback';
 
@@ -132,52 +132,54 @@ export function ScrambleExercise({
 
 const TILE = 44;
 
-const styles = StyleSheet.create({
-  exercise: { flexGrow: 1, padding: spacing.xl, gap: spacing.xl },
-  promptBox: { gap: spacing.sm, paddingVertical: spacing.lg },
-  board: { gap: spacing.xl },
-  row: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: spacing.sm },
-  slot: {
-    width: TILE,
-    height: TILE,
-    borderRadius: radii.sm,
-    borderWidth: 2,
-    borderStyle: 'dashed',
-    borderColor: colors.borderShade,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  slotFilled: {
-    borderStyle: 'solid',
-    borderColor: colors.primary,
-    backgroundColor: colors.primarySoft,
-  },
-  slotRight: {
-    borderStyle: 'solid',
-    borderColor: colors.success,
-    backgroundColor: colors.successSoft,
-  },
-  slotWrong: {
-    borderStyle: 'solid',
-    borderColor: colors.danger,
-    backgroundColor: colors.accentSoft,
-  },
-  tile: {
-    width: TILE,
-    height: TILE,
-    borderRadius: radii.sm,
-    backgroundColor: colors.surface,
-    borderWidth: 2,
-    borderColor: colors.border,
-    borderBottomWidth: 5,
-    borderBottomColor: colors.borderShade,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  tileUsed: { backgroundColor: colors.border, borderBottomWidth: 2 },
-  pressed: { borderBottomWidth: 2, transform: [{ translateY: 3 }] },
-  letter: { fontFamily: fonts.black, fontSize: 22, color: colors.text },
-  hidden: { opacity: 0 },
-  actions: { gap: spacing.sm },
-  footerArea: { marginTop: 'auto', gap: spacing.md },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    exercise: { flexGrow: 1, padding: spacing.xl, gap: spacing.xl },
+    promptBox: { gap: spacing.sm, paddingVertical: spacing.lg },
+    board: { gap: spacing.xl },
+    row: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', gap: spacing.sm },
+    slot: {
+      width: TILE,
+      height: TILE,
+      borderRadius: radii.sm,
+      borderWidth: 2,
+      borderStyle: 'dashed',
+      borderColor: colors.borderShade,
+      alignItems: 'center',
+      justifyContent: 'center',
+    },
+    slotFilled: {
+      borderStyle: 'solid',
+      borderColor: colors.primary,
+      backgroundColor: colors.primarySoft,
+    },
+    slotRight: {
+      borderStyle: 'solid',
+      borderColor: colors.success,
+      backgroundColor: colors.successSoft,
+    },
+    slotWrong: {
+      borderStyle: 'solid',
+      borderColor: colors.danger,
+      backgroundColor: colors.accentSoft,
+    },
+    tile: {
+      width: TILE,
+      height: TILE,
+      borderRadius: radii.sm,
+      backgroundColor: colors.surface,
+      borderWidth: 2,
+      borderColor: colors.border,
+      borderBottomWidth: 5,
+      borderBottomColor: colors.borderShade,
+      alignItems: 'center',
+      justifyContent: 'center',
+    },
+    tileUsed: { backgroundColor: colors.border, borderBottomWidth: 2 },
+    pressed: { borderBottomWidth: 2, transform: [{ translateY: 3 }] },
+    letter: { fontFamily: fonts.black, fontSize: 22, color: colors.text },
+    hidden: { opacity: 0 },
+    actions: { gap: spacing.sm },
+    footerArea: { marginTop: 'auto', gap: spacing.md },
+  }),
+);

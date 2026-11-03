@@ -7,7 +7,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { useI18n } from '@/i18n';
 import { DAILY_GOAL_OPTIONS, DEFAULT_DAILY_GOAL } from '@/lib/gamification';
 import { useStats } from '@/lib/stats';
-import { Button, Card, Icon, IconBubble, Text, colors, enter, spacing } from '@/theme';
+import { Button, Card, colors, enter, Icon, IconBubble, spacing, Text, themed } from '@/theme';
 
 /**
  * First sign-in, right after the language: the user picks how many minutes to
@@ -78,13 +78,15 @@ export default function DailyGoalScreen() {
   );
 }
 
-const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.background },
-  content: { flexGrow: 1, justifyContent: 'center', padding: spacing.xl, gap: spacing.xl },
-  hero: { gap: spacing.sm },
-  options: { gap: spacing.md },
-  option: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm, minHeight: 32 },
-  flex: { flex: 1 },
-  // Same width with or without the check mark, so the minutes stay aligned.
-  check: { width: 22 },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    safe: { flex: 1, backgroundColor: colors.background },
+    content: { flexGrow: 1, justifyContent: 'center', padding: spacing.xl, gap: spacing.xl },
+    hero: { gap: spacing.sm },
+    options: { gap: spacing.md },
+    option: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm, minHeight: 32 },
+    flex: { flex: 1 },
+    // Same width with or without the check mark, so the minutes stay aligned.
+    check: { width: 22 },
+  }),
+);

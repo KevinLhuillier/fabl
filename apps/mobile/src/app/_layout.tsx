@@ -3,7 +3,7 @@ import { Stack } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
 import { StatusBar } from 'expo-status-bar';
 import { BookOpen } from 'lucide-react-native';
-import { useCallback, useEffect, useState } from 'react';
+import { Fragment, useCallback, useEffect, useState } from 'react';
 import { StyleSheet, View } from 'react-native';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 
@@ -13,25 +13,28 @@ import { I18nProvider, useI18n } from '@/i18n';
 import { AuthProvider, useAuth } from '@/lib/auth';
 import { PremiumProvider } from '@/lib/premium';
 import { StatsProvider, useStats } from '@/lib/stats';
+import { ThemeProvider, useTheme } from '@/lib/theme';
 import { TourProvider } from '@/lib/tour';
-import { Loader, colors, fontAssets } from '@/theme';
+import { colors, fontAssets, Loader, themed } from '@/theme';
 
 SplashScreen.preventAutoHideAsync();
 
 export default function RootLayout() {
   return (
     <GestureHandlerRootView style={{ flex: 1 }}>
-      <AuthProvider>
-        <PremiumProvider>
-          <StatsProvider>
-            <I18nProvider>
-              <TourProvider>
-                <RootNavigator />
-              </TourProvider>
-            </I18nProvider>
-          </StatsProvider>
-        </PremiumProvider>
-      </AuthProvider>
+      <ThemeProvider>
+        <AuthProvider>
+          <PremiumProvider>
+            <StatsProvider>
+              <I18nProvider>
+                <TourProvider>
+                  <RootNavigator />
+                </TourProvider>
+              </I18nProvider>
+            </StatsProvider>
+          </PremiumProvider>
+        </AuthProvider>
+      </ThemeProvider>
     </GestureHandlerRootView>
   );
 }
@@ -40,9 +43,11 @@ function RootNavigator() {
   const [fontsLoaded, fontError] = useFonts(fontAssets);
   const { session, ready } = useAuth();
   const { ready: langReady } = useI18n();
+  const { scheme, ready: themeReady } = useTheme();
   // Waiting for the stats tells whether the account has chosen its language yet.
   const { stats, ready: statsReady } = useStats();
-  const loading = (!fontsLoaded && !fontError) || !ready || !langReady || !statsReady;
+  const loading =
+    (!fontsLoaded && !fontError) || !ready || !langReady || !themeReady || !statsReady;
   // Cold start: the launch screen covers the app until it is ready, then fades out.
   const [launching, setLaunching] = useState(true);
   const endLaunch = useCallback(() => setLaunching(false), []);
@@ -74,8 +79,9 @@ function RootNavigator() {
   const needsUsername = signedIn && !needsLang && !needsGoal && stats?.username === null;
   const onboarding = needsLang || needsGoal || needsUsername;
   return (
-    <>
-      <StatusBar style="dark" />
+    // New scheme: the screens are remounted to read its colors (see lib/theme).
+    <Fragment key={scheme}>
+      <StatusBar style={scheme === 'dark' ? 'light' : 'dark'} />
       <Stack
         screenOptions={{
           headerShown: false,
@@ -110,15 +116,17 @@ function RootNavigator() {
       {/* Above every screen: today's goal can be reached while reading or reviewing. */}
       {signedIn ? <GoalToast /> : null}
       {launch}
-    </>
+    </Fragment>
   );
 }
 
-const styles = StyleSheet.create({
-  loading: {
-    flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
-    backgroundColor: colors.background,
-  },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    loading: {
+      flex: 1,
+      alignItems: 'center',
+      justifyContent: 'center',
+      backgroundColor: colors.background,
+    },
+  }),
+);

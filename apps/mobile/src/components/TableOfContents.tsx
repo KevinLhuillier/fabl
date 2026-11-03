@@ -7,16 +7,17 @@ import { useI18n } from '@/i18n';
 import { toRoman } from '@/lib/labels';
 import type { ChapterProgress, ChapterSummary } from '@/lib/types';
 import {
-  Icon,
-  ProgressBar,
-  Text,
   colors,
   depth,
   enter,
   haptics,
+  Icon,
   levelColors,
+  ProgressBar,
   radii,
   spacing,
+  Text,
+  themed,
   type CefrLevel,
 } from '@/theme';
 
@@ -87,7 +88,7 @@ export function TableOfContents({
 
   return (
     <View style={styles.wrap}>
-      <Ornament label={t.toc.contents} color={c.shade} />
+      <Ornament label={t.toc.contents} color={c.ink} />
 
       <Animated.View entering={enter.up()} style={styles.sheetWrap}>
         <View style={styles.sheetEdge} />
@@ -131,7 +132,7 @@ export function TableOfContents({
               style={[styles.trophy, { backgroundColor: colors.xp, borderColor: colors.xpShade }]}>
               <Icon icon={Trophy} size={30} color={colors.textOnColor} />
             </View>
-            <Text variant="bodyBold" color={c.shade}>
+            <Text variant="bodyBold" color={c.ink}>
               {t.toc.storyDone}
             </Text>
           </>
@@ -186,7 +187,7 @@ function ChapterLine({
         align="center"
         numberOfLines={1}
         adjustsFontSizeToFit
-        color={locked ? colors.textMuted : c.shade}
+        color={locked ? colors.textMuted : c.ink}
         style={styles.numeral}>
         {toRoman(chapter.position + 1)}
       </Text>
@@ -201,7 +202,7 @@ function ChapterLine({
           </Text>
         ) : current ? (
           <>
-            <Text variant="caption" color={c.shade}>
+            <Text variant="caption" color={c.ink}>
               {started ? t.toc.resume(pageIndex + 1, chapter.pageCount) : t.toc.start}
             </Text>
             {started ? (
@@ -262,71 +263,73 @@ function Ornament({ label, color }: { label: string; color: string }) {
   );
 }
 
-const styles = StyleSheet.create({
-  wrap: { gap: spacing.lg },
-  sheetWrap: { paddingBottom: depth.card },
-  // Stacked pages under the sheet.
-  sheetEdge: {
-    position: 'absolute',
-    top: depth.card,
-    left: 0,
-    right: 0,
-    bottom: 0,
-    borderRadius: radii.lg,
-    backgroundColor: colors.paperEdge,
-  },
-  sheet: {
-    borderRadius: radii.lg,
-    borderWidth: 2,
-    borderColor: colors.paperEdge,
-    backgroundColor: colors.paper,
-    paddingVertical: spacing.sm,
-    overflow: 'hidden',
-  },
-  separator: {
-    marginHorizontal: spacing.lg,
-    borderTopWidth: 2,
-    borderStyle: 'dashed',
-    borderColor: colors.paperEdge,
-  },
-  line: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: spacing.md,
-    minHeight: 72,
-    paddingVertical: spacing.md,
-    paddingLeft: spacing.md,
-    paddingRight: spacing.lg,
-  },
-  pressed: { opacity: 0.7 },
-  numeral: { width: 52 },
-  body: { flex: 1, gap: 2 },
-  chapterProgress: { marginTop: spacing.xs },
-  status: { width: 28, alignItems: 'center' },
-  check: {
-    width: 26,
-    height: 26,
-    borderRadius: 13,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  ribbon: { position: 'absolute', top: 0, right: spacing.lg + 4 },
-  ornament: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'center',
-    gap: spacing.sm,
-  },
-  ornamentLine: { width: 36, height: 2, borderRadius: 1, opacity: 0.5 },
-  diamond: { width: 6, height: 6, transform: [{ rotate: '45deg' }] },
-  ornamentLabel: { letterSpacing: 2 },
-  end: { alignItems: 'center', gap: spacing.sm },
-  trophy: {
-    width: 64,
-    height: 64,
-    borderRadius: 32,
-    borderWidth: 3,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    wrap: { gap: spacing.lg },
+    sheetWrap: { paddingBottom: depth.card },
+    // Stacked pages under the sheet.
+    sheetEdge: {
+      position: 'absolute',
+      top: depth.card,
+      left: 0,
+      right: 0,
+      bottom: 0,
+      borderRadius: radii.lg,
+      backgroundColor: colors.paperEdge,
+    },
+    sheet: {
+      borderRadius: radii.lg,
+      borderWidth: 2,
+      borderColor: colors.paperEdge,
+      backgroundColor: colors.paper,
+      paddingVertical: spacing.sm,
+      overflow: 'hidden',
+    },
+    separator: {
+      marginHorizontal: spacing.lg,
+      borderTopWidth: 2,
+      borderStyle: 'dashed',
+      borderColor: colors.paperEdge,
+    },
+    line: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      gap: spacing.md,
+      minHeight: 72,
+      paddingVertical: spacing.md,
+      paddingLeft: spacing.md,
+      paddingRight: spacing.lg,
+    },
+    pressed: { opacity: 0.7 },
+    numeral: { width: 52 },
+    body: { flex: 1, gap: 2 },
+    chapterProgress: { marginTop: spacing.xs },
+    status: { width: 28, alignItems: 'center' },
+    check: {
+      width: 26,
+      height: 26,
+      borderRadius: 13,
+      alignItems: 'center',
+      justifyContent: 'center',
+    },
+    ribbon: { position: 'absolute', top: 0, right: spacing.lg + 4 },
+    ornament: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      justifyContent: 'center',
+      gap: spacing.sm,
+    },
+    ornamentLine: { width: 36, height: 2, borderRadius: 1, opacity: 0.5 },
+    diamond: { width: 6, height: 6, transform: [{ rotate: '45deg' }] },
+    ornamentLabel: { letterSpacing: 2 },
+    end: { alignItems: 'center', gap: spacing.sm },
+    trophy: {
+      width: 64,
+      height: 64,
+      borderRadius: 32,
+      borderWidth: 3,
+      alignItems: 'center',
+      justifyContent: 'center',
+    },
+  }),
+);

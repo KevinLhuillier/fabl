@@ -8,7 +8,7 @@ import { useI18n } from '@/i18n';
 import { posLabel } from '@/lib/labels';
 import type { AddWordResult } from '@/lib/api/vocabulary';
 import type { Lemma } from '@/lib/types';
-import { Badge, Button, Icon, Text, colors, enter, exit, radii, spacing } from '@/theme';
+import { Badge, Button, colors, enter, exit, Icon, radii, spacing, Text, themed } from '@/theme';
 
 export type WordSheetState = {
   surface: string;
@@ -95,34 +95,36 @@ export function WordSheet({ word, onClose, onSpeak }: Props) {
   );
 }
 
-const styles = StyleSheet.create({
-  backdrop: { ...StyleSheet.absoluteFill, backgroundColor: 'rgba(37,34,58,0.35)' },
-  sheet: {
-    position: 'absolute',
-    left: 0,
-    right: 0,
-    bottom: 0,
-    backgroundColor: colors.surface,
-    borderTopLeftRadius: radii.xl,
-    borderTopRightRadius: radii.xl,
-    padding: spacing.xl,
-    gap: spacing.md,
-  },
-  handle: {
-    alignSelf: 'center',
-    width: 44,
-    height: 5,
-    borderRadius: radii.pill,
-    backgroundColor: colors.border,
-    marginBottom: spacing.xs,
-  },
-  header: { flexDirection: 'row', alignItems: 'center', gap: spacing.md, flexWrap: 'wrap' },
-  // Badge pins itself to the top by default; centered on the speaker's height here.
-  badge: { alignSelf: 'center' },
-  example: {
-    backgroundColor: colors.background,
-    borderRadius: radii.md,
-    padding: spacing.md,
-  },
-  status: { flexDirection: 'row', alignItems: 'center', gap: spacing.xs, minHeight: 18 },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    backdrop: { ...StyleSheet.absoluteFill, backgroundColor: colors.backdrop },
+    sheet: {
+      position: 'absolute',
+      left: 0,
+      right: 0,
+      bottom: 0,
+      backgroundColor: colors.surface,
+      borderTopLeftRadius: radii.xl,
+      borderTopRightRadius: radii.xl,
+      padding: spacing.xl,
+      gap: spacing.md,
+    },
+    handle: {
+      alignSelf: 'center',
+      width: 44,
+      height: 5,
+      borderRadius: radii.pill,
+      backgroundColor: colors.border,
+      marginBottom: spacing.xs,
+    },
+    header: { flexDirection: 'row', alignItems: 'center', gap: spacing.md, flexWrap: 'wrap' },
+    // Badge pins itself to the top by default; centered on the speaker's height here.
+    badge: { alignSelf: 'center' },
+    example: {
+      backgroundColor: colors.background,
+      borderRadius: radii.md,
+      padding: spacing.md,
+    },
+    status: { flexDirection: 'row', alignItems: 'center', gap: spacing.xs, minHeight: 18 },
+  }),
+);

@@ -7,7 +7,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { useI18n } from '@/i18n';
 import { useTourTarget } from '@/lib/tour';
-import { Icon, colors, enter, fonts, haptics } from '@/theme';
+import { colors, enter, fonts, haptics, Icon, themed } from '@/theme';
 
 /** Frame given to the loader before the new tab is drawn (as when turning a page). */
 const SWITCH_DELAY_MS = 40;
@@ -99,17 +99,19 @@ export default function TabsLayout() {
   );
 }
 
-const styles = StyleSheet.create({
-  flex: { flex: 1 },
-  tabBar: { ...StyleSheet.absoluteFill, backgroundColor: colors.surface },
-  // Over the scene only: the tab bar stays visible and shows the tab being opened.
-  switching: {
-    position: 'absolute',
-    top: 0,
-    right: 0,
-    left: 0,
-    alignItems: 'center',
-    justifyContent: 'center',
-    backgroundColor: colors.background,
-  },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    flex: { flex: 1 },
+    tabBar: { ...StyleSheet.absoluteFill, backgroundColor: colors.surface },
+    // Over the scene only: the tab bar stays visible and shows the tab being opened.
+    switching: {
+      position: 'absolute',
+      top: 0,
+      right: 0,
+      left: 0,
+      alignItems: 'center',
+      justifyContent: 'center',
+      backgroundColor: colors.background,
+    },
+  }),
+);

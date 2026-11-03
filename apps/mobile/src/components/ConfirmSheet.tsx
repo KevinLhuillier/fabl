@@ -10,7 +10,7 @@ import Animated, {
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { useI18n } from '@/i18n';
-import { Button, IconBubble, Text, colors, radii, spacing } from '@/theme';
+import { Button, colors, IconBubble, radii, spacing, Text, themed } from '@/theme';
 
 type Props = {
   visible: boolean;
@@ -101,23 +101,25 @@ export function ConfirmSheet({
   );
 }
 
-const styles = StyleSheet.create({
-  root: { flex: 1, justifyContent: 'flex-end' },
-  backdrop: { backgroundColor: 'rgba(37,34,58,0.35)' },
-  sheet: {
-    backgroundColor: colors.surface,
-    borderTopLeftRadius: radii.xl,
-    borderTopRightRadius: radii.xl,
-    padding: spacing.xl,
-    gap: spacing.md,
-  },
-  handle: {
-    alignSelf: 'center',
-    width: 44,
-    height: 5,
-    borderRadius: radii.pill,
-    backgroundColor: colors.border,
-    marginBottom: spacing.xs,
-  },
-  actions: { gap: spacing.md, marginTop: spacing.sm },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    root: { flex: 1, justifyContent: 'flex-end' },
+    backdrop: { backgroundColor: colors.backdrop },
+    sheet: {
+      backgroundColor: colors.surface,
+      borderTopLeftRadius: radii.xl,
+      borderTopRightRadius: radii.xl,
+      padding: spacing.xl,
+      gap: spacing.md,
+    },
+    handle: {
+      alignSelf: 'center',
+      width: 44,
+      height: 5,
+      borderRadius: radii.pill,
+      backgroundColor: colors.border,
+      marginBottom: spacing.xs,
+    },
+    actions: { gap: spacing.md, marginTop: spacing.sm },
+  }),
+);

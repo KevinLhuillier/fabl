@@ -20,15 +20,16 @@ import {
   Badge,
   Button,
   Card,
-  Icon,
-  Loader,
-  Text,
-  TextField,
   colors,
   enter,
   exit,
   haptics,
+  Icon,
+  Loader,
   spacing,
+  Text,
+  TextField,
+  themed,
 } from '@/theme';
 
 /** Removes accents so "ecole" matches "école". */
@@ -259,33 +260,35 @@ function WordCard({
   );
 }
 
-const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.background },
-  content: { padding: spacing.xl, gap: spacing.md, paddingBottom: spacing.xxxl },
-  header: { gap: spacing.lg, marginBottom: spacing.sm },
-  // Wraps when the text would get less than a long word's width beside the button
-  // (German "wiederholen" ≈ 120): the button then goes under the text, full width,
-  // instead of breaking words.
-  reviewRow: { flexDirection: 'row', flexWrap: 'wrap', alignItems: 'center', gap: spacing.md },
-  reviewText: { flexGrow: 999, flexShrink: 1, flexBasis: 120 },
-  reviewButton: { flexGrow: 1 },
-  empty: { marginTop: spacing.xl },
-  cardTop: { flexDirection: 'row', alignItems: 'flex-start', gap: spacing.sm },
-  // Height of the word's first line (the speaker button), so the bin stays level with it.
-  actions: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm, minHeight: 32 },
-  // The badge sticks to the top of its row by default.
-  badge: { alignSelf: 'center' },
-  wordGroup: {
-    flex: 1,
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    alignItems: 'center',
-    gap: spacing.sm,
-  },
-  word: { flexShrink: 1 },
-  remove: { padding: spacing.xs },
-  limitRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
-  limitBody: { flex: 1, gap: spacing.xs },
-  context: { marginTop: spacing.sm, fontStyle: 'italic' },
-  story: { flexDirection: 'row', alignItems: 'center', gap: spacing.xs, marginTop: spacing.sm },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    safe: { flex: 1, backgroundColor: colors.background },
+    content: { padding: spacing.xl, gap: spacing.md, paddingBottom: spacing.xxxl },
+    header: { gap: spacing.lg, marginBottom: spacing.sm },
+    // Wraps when the text would get less than a long word's width beside the button
+    // (German "wiederholen" ≈ 120): the button then goes under the text, full width,
+    // instead of breaking words.
+    reviewRow: { flexDirection: 'row', flexWrap: 'wrap', alignItems: 'center', gap: spacing.md },
+    reviewText: { flexGrow: 999, flexShrink: 1, flexBasis: 120 },
+    reviewButton: { flexGrow: 1 },
+    empty: { marginTop: spacing.xl },
+    cardTop: { flexDirection: 'row', alignItems: 'flex-start', gap: spacing.sm },
+    // Height of the word's first line (the speaker button), so the bin stays level with it.
+    actions: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm, minHeight: 32 },
+    // The badge sticks to the top of its row by default.
+    badge: { alignSelf: 'center' },
+    wordGroup: {
+      flex: 1,
+      flexDirection: 'row',
+      flexWrap: 'wrap',
+      alignItems: 'center',
+      gap: spacing.sm,
+    },
+    word: { flexShrink: 1 },
+    remove: { padding: spacing.xs },
+    limitRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
+    limitBody: { flex: 1, gap: spacing.xs },
+    context: { marginTop: spacing.sm, fontStyle: 'italic' },
+    story: { flexDirection: 'row', alignItems: 'center', gap: spacing.xs, marginTop: spacing.sm },
+  }),
+);

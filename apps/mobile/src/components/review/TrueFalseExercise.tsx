@@ -11,7 +11,7 @@ import Animated, {
 
 import { useI18n } from '@/i18n';
 import type { TrueFalseExercise as Exercise } from '@/lib/reviewSession';
-import { Button, Card, Icon, Text, colors, enter, haptics, radii, spacing } from '@/theme';
+import { Button, Card, colors, enter, haptics, Icon, radii, spacing, Text, themed } from '@/theme';
 
 import { Feedback } from './Feedback';
 
@@ -179,21 +179,23 @@ export function TrueFalseExercise({
   );
 }
 
-const styles = StyleSheet.create({
-  exercise: { flexGrow: 1, padding: spacing.xl, gap: spacing.xl },
-  promptBox: { gap: spacing.xs, paddingVertical: spacing.lg },
-  timer: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm },
-  track: {
-    flex: 1,
-    height: 10,
-    borderRadius: radii.pill,
-    backgroundColor: colors.border,
-    overflow: 'hidden',
-  },
-  fill: { height: '100%', borderRadius: radii.pill, backgroundColor: colors.streak },
-  statement: { gap: spacing.sm, alignItems: 'center' },
-  choices: { flexDirection: 'row', gap: spacing.md, marginTop: 'auto' },
-  flex: { flex: 1 },
-  footerArea: { marginTop: 'auto', gap: spacing.md },
-  summaryRow: { flexDirection: 'row', alignItems: 'flex-start', gap: spacing.sm },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    exercise: { flexGrow: 1, padding: spacing.xl, gap: spacing.xl },
+    promptBox: { gap: spacing.xs, paddingVertical: spacing.lg },
+    timer: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm },
+    track: {
+      flex: 1,
+      height: 10,
+      borderRadius: radii.pill,
+      backgroundColor: colors.border,
+      overflow: 'hidden',
+    },
+    fill: { height: '100%', borderRadius: radii.pill, backgroundColor: colors.streak },
+    statement: { gap: spacing.sm, alignItems: 'center' },
+    choices: { flexDirection: 'row', gap: spacing.md, marginTop: 'auto' },
+    flex: { flex: 1 },
+    footerArea: { marginTop: 'auto', gap: spacing.md },
+    summaryRow: { flexDirection: 'row', alignItems: 'flex-start', gap: spacing.sm },
+  }),
+);

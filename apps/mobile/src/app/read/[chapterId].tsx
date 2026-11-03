@@ -34,14 +34,15 @@ import { useTour } from '@/lib/tour';
 import type { ChapterProgress, ChapterSummary, Page, StorySummary, Token } from '@/lib/types';
 import {
   Button,
-  Icon,
-  Loader,
-  ProgressBar,
-  Text,
   colors,
   enter,
+  Icon,
   levelColors,
+  Loader,
+  ProgressBar,
   spacing,
+  Text,
+  themed,
 } from '@/theme';
 
 /** Frame given to the loader before the new page is drawn. */
@@ -293,7 +294,7 @@ export default function ChapterReader() {
         </Pressable>
         <ProgressBar progress={(page + 1) / pages.length} color={level.solid} style={styles.flex} />
         {/* Stays in view while scrolling, unlike the caption above the text. */}
-        <Text variant="caption" color={level.shade} style={styles.pageCount}>
+        <Text variant="caption" color={level.ink} style={styles.pageCount}>
           {page + 1}/{pages.length}
         </Text>
       </View>
@@ -303,7 +304,7 @@ export default function ChapterReader() {
           ref={scrollRef}
           onScrollBeginDrag={touchActivity}
           contentContainerStyle={[styles.body, current.audioUrl ? styles.bodyWithAudio : null]}>
-          <Text variant="caption" color={level.shade}>
+          <Text variant="caption" color={level.ink}>
             {t.reader.header(chapter.position + 1, chapter.title, page + 1, pages.length)}
           </Text>
           <Animated.View key={current.id} entering={enter.up()}>
@@ -314,7 +315,7 @@ export default function ChapterReader() {
                 selectedPosition={selected}
                 onWordPress={onWordPressStable}
                 readAlong={readAlong}
-                readColor={level.shade}
+                readColor={level.ink}
                 currentColor={level.soft}
                 onWordPlay={aligned ? onWordPlay : undefined}
                 playGesture={playGesture}
@@ -354,7 +355,7 @@ export default function ChapterReader() {
               hitSlop={8}
               accessibilityRole="button"
               accessibilityLabel={t.reader.previousPage}>
-              <Icon icon={ChevronLeft} size={32} color={level.shade} />
+              <Icon icon={ChevronLeft} size={32} color={level.ink} />
             </Pressable>
           ) : null}
         </View>
@@ -378,7 +379,7 @@ export default function ChapterReader() {
               hitSlop={8}
               accessibilityRole="button"
               accessibilityLabel={t.reader.nextPage}>
-              <Icon icon={ChevronRight} size={32} color={level.shade} />
+              <Icon icon={ChevronRight} size={32} color={level.ink} />
             </Pressable>
           ) : null}
         </View>
@@ -419,44 +420,46 @@ function locate(timed: Token[], ms: number): ReadAlong {
   };
 }
 
-const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.background },
-  center: { alignItems: 'center', justifyContent: 'center' },
-  errorBox: { padding: spacing.xl, gap: spacing.lg },
-  header: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: spacing.lg,
-    paddingHorizontal: spacing.xl,
-    paddingVertical: spacing.md,
-  },
-  flex: { flex: 1 },
-  footerLoader: { padding: 0 },
-  // Fixed width so the bar does not jump when the page number gains a digit.
-  pageCount: { minWidth: 40, textAlign: 'right', fontVariant: ['tabular-nums'] },
-  body: { padding: spacing.xl, gap: spacing.lg, paddingBottom: spacing.xxxl },
-  // Room under the last line so the floating player never hides it.
-  bodyWithAudio: { paddingBottom: PAGE_AUDIO_SIZE + spacing.xl * 2 },
-  audio: { position: 'absolute', right: spacing.xl, bottom: spacing.lg },
-  turning: {
-    position: 'absolute',
-    top: 0,
-    right: 0,
-    bottom: 0,
-    left: 0,
-    alignItems: 'center',
-    justifyContent: 'center',
-    backgroundColor: colors.background,
-  },
-  footer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: spacing.sm,
-    padding: spacing.xl,
-    paddingTop: spacing.md,
-    borderTopWidth: 2,
-    borderTopColor: colors.border,
-    backgroundColor: colors.surface,
-  },
-  arrowSlot: { width: 32, alignItems: 'center' },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    safe: { flex: 1, backgroundColor: colors.background },
+    center: { alignItems: 'center', justifyContent: 'center' },
+    errorBox: { padding: spacing.xl, gap: spacing.lg },
+    header: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      gap: spacing.lg,
+      paddingHorizontal: spacing.xl,
+      paddingVertical: spacing.md,
+    },
+    flex: { flex: 1 },
+    footerLoader: { padding: 0 },
+    // Fixed width so the bar does not jump when the page number gains a digit.
+    pageCount: { minWidth: 40, textAlign: 'right', fontVariant: ['tabular-nums'] },
+    body: { padding: spacing.xl, gap: spacing.lg, paddingBottom: spacing.xxxl },
+    // Room under the last line so the floating player never hides it.
+    bodyWithAudio: { paddingBottom: PAGE_AUDIO_SIZE + spacing.xl * 2 },
+    audio: { position: 'absolute', right: spacing.xl, bottom: spacing.lg },
+    turning: {
+      position: 'absolute',
+      top: 0,
+      right: 0,
+      bottom: 0,
+      left: 0,
+      alignItems: 'center',
+      justifyContent: 'center',
+      backgroundColor: colors.background,
+    },
+    footer: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      gap: spacing.sm,
+      padding: spacing.xl,
+      paddingTop: spacing.md,
+      borderTopWidth: 2,
+      borderTopColor: colors.border,
+      backgroundColor: colors.surface,
+    },
+    arrowSlot: { width: 32, alignItems: 'center' },
+  }),
+);

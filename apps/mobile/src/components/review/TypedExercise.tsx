@@ -13,15 +13,16 @@ import type { Occurrence } from '@/lib/types';
 import {
   Badge,
   Button,
-  Icon,
-  Text,
-  TextField,
   colors,
   enter,
   fonts,
   haptics,
+  Icon,
   radii,
   spacing,
+  Text,
+  TextField,
+  themed,
 } from '@/theme';
 
 import { Feedback, Meaning } from './Feedback';
@@ -339,32 +340,34 @@ function BigPlay({
 
 const PLAY_SIZE = 96;
 
-const styles = StyleSheet.create({
-  exercise: { flexGrow: 1, padding: spacing.xl, gap: spacing.xl },
-  promptBox: { gap: spacing.sm, paddingVertical: spacing.lg },
-  center: { alignSelf: 'center' },
-  italic: { fontStyle: 'italic', marginTop: spacing.xs },
-  answerBox: { gap: spacing.md },
-  footerArea: { marginTop: 'auto', gap: spacing.md },
-  hint: { alignItems: 'center', gap: spacing.sm, marginTop: spacing.sm },
-  sentence: { marginTop: spacing.sm },
-  blank: {
-    backgroundColor: colors.primarySoft,
-    borderRadius: radii.sm,
-    textDecorationLine: 'underline',
-  },
-  revealed: { fontFamily: fonts.extraBold, backgroundColor: colors.successSoft },
-  audioBox: { alignItems: 'center', gap: spacing.lg, marginTop: spacing.md },
-  bigPlay: {
-    width: PLAY_SIZE,
-    height: PLAY_SIZE,
-    borderRadius: PLAY_SIZE / 2,
-    backgroundColor: colors.primary,
-    borderBottomWidth: 5,
-    borderBottomColor: colors.primaryShade,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  dim: { opacity: 0.5 },
-  pressed: { borderBottomWidth: 1, transform: [{ translateY: 4 }] },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    exercise: { flexGrow: 1, padding: spacing.xl, gap: spacing.xl },
+    promptBox: { gap: spacing.sm, paddingVertical: spacing.lg },
+    center: { alignSelf: 'center' },
+    italic: { fontStyle: 'italic', marginTop: spacing.xs },
+    answerBox: { gap: spacing.md },
+    footerArea: { marginTop: 'auto', gap: spacing.md },
+    hint: { alignItems: 'center', gap: spacing.sm, marginTop: spacing.sm },
+    sentence: { marginTop: spacing.sm },
+    blank: {
+      backgroundColor: colors.primarySoft,
+      borderRadius: radii.sm,
+      textDecorationLine: 'underline',
+    },
+    revealed: { fontFamily: fonts.extraBold, backgroundColor: colors.successSoft },
+    audioBox: { alignItems: 'center', gap: spacing.lg, marginTop: spacing.md },
+    bigPlay: {
+      width: PLAY_SIZE,
+      height: PLAY_SIZE,
+      borderRadius: PLAY_SIZE / 2,
+      backgroundColor: colors.primary,
+      borderBottomWidth: 5,
+      borderBottomColor: colors.primaryShade,
+      alignItems: 'center',
+      justifyContent: 'center',
+    },
+    dim: { opacity: 0.5 },
+    pressed: { borderBottomWidth: 1, transform: [{ translateY: 4 }] },
+  }),
+);

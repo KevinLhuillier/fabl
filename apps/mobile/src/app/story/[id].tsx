@@ -20,14 +20,15 @@ import {
   Badge,
   Button,
   Card,
-  Icon,
-  Loader,
-  ProgressBar,
-  Text,
   colors,
   enter,
+  Icon,
   levelColors,
+  Loader,
+  ProgressBar,
   spacing,
+  Text,
+  themed,
 } from '@/theme';
 
 /** A story: cover, summary, overall progress and the table of contents of its chapters. */
@@ -142,14 +143,14 @@ export default function StoryScreen() {
                   <Text variant="title">{story.title}</Text>
                   <View style={styles.metaColumn}>
                     <View style={styles.meta}>
-                      <Icon icon={BookOpen} size={16} color={c.shade} />
+                      <Icon icon={BookOpen} size={16} color={c.ink} />
                       <Text variant="caption" color={colors.textSecondary} style={styles.shrink}>
                         {t.common.words(story.word_count)} ·{' '}
                         {t.common.chapters(story.chapter_count)}
                       </Text>
                     </View>
                     <View style={styles.meta}>
-                      <Icon icon={Clock} size={16} color={c.shade} />
+                      <Icon icon={Clock} size={16} color={c.ink} />
                       <Text variant="caption" color={colors.textSecondary} style={styles.shrink}>
                         {t.story.readingTime(readingMinutes(story.word_count))}
                       </Text>
@@ -164,7 +165,7 @@ export default function StoryScreen() {
               ) : null}
               <View style={styles.progressRow}>
                 <ProgressBar progress={fraction} color={c.solid} height={12} style={styles.flex} />
-                <Text variant="bodyBold" color={c.shade}>
+                <Text variant="bodyBold" color={c.ink}>
                   {Math.round(fraction * 100)} %
                 </Text>
               </View>
@@ -228,32 +229,34 @@ export default function StoryScreen() {
   );
 }
 
-const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.background },
-  center: { alignItems: 'center', justifyContent: 'center' },
-  errorBox: { padding: spacing.xl, gap: spacing.lg },
-  header: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    paddingHorizontal: spacing.lg,
-    paddingVertical: spacing.sm,
-  },
-  content: { padding: spacing.xl, paddingTop: spacing.sm, gap: spacing.xxl, paddingBottom: 64 },
-  hero: { flexDirection: 'row', gap: spacing.lg },
-  heroText: { flex: 1, justifyContent: 'center' },
-  metaColumn: { gap: spacing.xs, marginTop: spacing.md },
-  summary: { marginTop: spacing.lg },
-  meta: { flexDirection: 'row', alignItems: 'center', gap: spacing.xs },
-  progressRow: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: spacing.md,
-    marginTop: spacing.md,
-  },
-  flex: { flex: 1 },
-  shrink: { flexShrink: 1 },
-  badges: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm },
-  offerRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
-  offerButton: { marginTop: spacing.md },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    safe: { flex: 1, backgroundColor: colors.background },
+    center: { alignItems: 'center', justifyContent: 'center' },
+    errorBox: { padding: spacing.xl, gap: spacing.lg },
+    header: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      justifyContent: 'space-between',
+      paddingHorizontal: spacing.lg,
+      paddingVertical: spacing.sm,
+    },
+    content: { padding: spacing.xl, paddingTop: spacing.sm, gap: spacing.xxl, paddingBottom: 64 },
+    hero: { flexDirection: 'row', gap: spacing.lg },
+    heroText: { flex: 1, justifyContent: 'center' },
+    metaColumn: { gap: spacing.xs, marginTop: spacing.md },
+    summary: { marginTop: spacing.lg },
+    meta: { flexDirection: 'row', alignItems: 'center', gap: spacing.xs },
+    progressRow: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      gap: spacing.md,
+      marginTop: spacing.md,
+    },
+    flex: { flex: 1 },
+    shrink: { flexShrink: 1 },
+    badges: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm },
+    offerRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
+    offerButton: { marginTop: spacing.md },
+  }),
+);

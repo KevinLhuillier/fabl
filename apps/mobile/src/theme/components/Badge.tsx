@@ -7,7 +7,7 @@ import Animated, {
   withSpring,
 } from 'react-native-reanimated';
 
-import { colors, levelColors, type CefrLevel } from '../colors';
+import { colors, levelColors, themed, type CefrLevel } from '../colors';
 import { springs } from '../motion';
 import { radii, spacing } from '../spacing';
 import { Icon, type LucideIcon } from './Icon';
@@ -15,13 +15,16 @@ import { Text } from './Text';
 
 type Tone = { bg: string; fg: string };
 
-const tones = {
-  neutral: { bg: colors.border, fg: colors.textSecondary },
-  primary: { bg: colors.primarySoft, fg: colors.primary },
-  xp: { bg: colors.xpSoft, fg: colors.xpShade },
-  streak: { bg: colors.streakSoft, fg: colors.streakShade },
-  success: { bg: colors.successSoft, fg: colors.successShade },
-} satisfies Record<string, Tone>;
+const tones = themed(
+  () =>
+    ({
+      neutral: { bg: colors.border, fg: colors.textSecondary },
+      primary: { bg: colors.primarySoft, fg: colors.primary },
+      xp: { bg: colors.xpSoft, fg: colors.xpShade },
+      streak: { bg: colors.streakSoft, fg: colors.streakShade },
+      success: { bg: colors.successSoft, fg: colors.successShade },
+    }) satisfies Record<string, Tone>,
+);
 
 export type BadgeTone = keyof typeof tones;
 
@@ -42,7 +45,7 @@ export function Badge({ label, icon, tone = 'neutral', level, solid, style }: Ba
   const tint: Tone = level
     ? solid
       ? { bg: levelColors[level].solid, fg: colors.textOnColor }
-      : { bg: levelColors[level].soft, fg: levelColors[level].shade }
+      : { bg: levelColors[level].soft, fg: levelColors[level].ink }
     : tones[tone];
 
   const scale = useSharedValue(1);

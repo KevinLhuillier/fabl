@@ -11,7 +11,7 @@ import Animated, {
   withTiming,
 } from 'react-native-reanimated';
 import { BrandGradient } from '@/components/BrandGradient';
-import { Loader, Text, enter, fonts, palette } from '@/theme';
+import { enter, fonts, Loader, palette, Text, themed } from '@/theme';
 
 const book = require('../../assets/images/splash-icon.png');
 
@@ -91,23 +91,25 @@ export function LaunchScreen({ done, fontsReady, onHidden }: Props) {
   );
 }
 
-const styles = StyleSheet.create({
-  center: { ...StyleSheet.absoluteFill, alignItems: 'center', justifyContent: 'center' },
-  book: { width: IMAGE_SIZE, height: IMAGE_SIZE },
-  below: {
-    position: 'absolute',
-    left: 0,
-    right: 0,
-    top: '50%',
-    marginTop: IMAGE_SIZE * 0.2,
-    alignItems: 'center',
-  },
-  wordmark: {
-    fontFamily: fonts.black,
-    fontSize: 40,
-    lineHeight: 48,
-    color: palette.white,
-    letterSpacing: 0.5,
-  },
-  dots: { paddingTop: 0 },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    center: { ...StyleSheet.absoluteFill, alignItems: 'center', justifyContent: 'center' },
+    book: { width: IMAGE_SIZE, height: IMAGE_SIZE },
+    below: {
+      position: 'absolute',
+      left: 0,
+      right: 0,
+      top: '50%',
+      marginTop: IMAGE_SIZE * 0.2,
+      alignItems: 'center',
+    },
+    wordmark: {
+      fontFamily: fonts.black,
+      fontSize: 40,
+      lineHeight: 48,
+      color: palette.white,
+      letterSpacing: 0.5,
+    },
+    dots: { paddingTop: 0 },
+  }),
+);

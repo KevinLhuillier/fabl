@@ -9,7 +9,7 @@ import {
   type ReadAlongStore,
 } from '@/lib/readAlongStore';
 import type { PlayFromWord, Token } from '@/lib/types';
-import { Text, colors, fonts, haptics, radii, spacing } from '@/theme';
+import { colors, fonts, haptics, radii, spacing, Text, themed } from '@/theme';
 
 type Props = {
   tokens: Token[];
@@ -284,34 +284,36 @@ export function sentenceAround(tokens: Token[], position: number): string {
     .trim();
 }
 
-const styles = StyleSheet.create({
-  wrap: { gap: spacing.lg },
-  written: {
-    borderLeftWidth: 3,
-    borderLeftColor: colors.border,
-    paddingLeft: spacing.md,
-    marginLeft: spacing.xs,
-  },
-  // Justified like a book: each line's spare width goes between its words…
-  paragraph: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-between' },
-  // …except on the paragraph's last line, where this empty filler takes it (left-aligned).
-  lastLine: { flexGrow: 1 },
-  word: { flexDirection: 'row' },
-  spoken: { fontFamily: fonts.italic },
-  // Pill around the glyphs (the line box is much taller than the text).
-  highlight: {
-    position: 'absolute',
-    top: spacing.xs,
-    bottom: spacing.xs,
-    left: 0,
-    right: 0,
-    borderRadius: radii.sm,
-  },
-  highlightLeft: { left: -spacing.xs - spacing.xxs },
-  highlightRight: { right: -spacing.xs - spacing.xxs },
-  selected: {
-    backgroundColor: colors.xpSoft,
-    color: colors.primary,
-    borderRadius: radii.sm,
-  },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    wrap: { gap: spacing.lg },
+    written: {
+      borderLeftWidth: 3,
+      borderLeftColor: colors.border,
+      paddingLeft: spacing.md,
+      marginLeft: spacing.xs,
+    },
+    // Justified like a book: each line's spare width goes between its words…
+    paragraph: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-between' },
+    // …except on the paragraph's last line, where this empty filler takes it (left-aligned).
+    lastLine: { flexGrow: 1 },
+    word: { flexDirection: 'row' },
+    spoken: { fontFamily: fonts.italic },
+    // Pill around the glyphs (the line box is much taller than the text).
+    highlight: {
+      position: 'absolute',
+      top: spacing.xs,
+      bottom: spacing.xs,
+      left: 0,
+      right: 0,
+      borderRadius: radii.sm,
+    },
+    highlightLeft: { left: -spacing.xs - spacing.xxs },
+    highlightRight: { right: -spacing.xs - spacing.xxs },
+    selected: {
+      backgroundColor: colors.xpSoft,
+      color: colors.primary,
+      borderRadius: radii.sm,
+    },
+  }),
+);

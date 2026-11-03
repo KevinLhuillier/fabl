@@ -27,14 +27,15 @@ import { scheduleReview } from '@/lib/srs';
 import type { Occurrence, VocabularyItem } from '@/lib/types';
 import {
   Button,
+  colors,
+  enter,
   Icon,
   IconBubble,
   Loader,
   ProgressBar,
-  Text,
-  colors,
-  enter,
   spacing,
+  Text,
+  themed,
 } from '@/theme';
 
 /** Due words asked in one session at most (they fit in MAX_STEPS thanks to the games). */
@@ -298,16 +299,18 @@ function ExerciseView({
   }
 }
 
-const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.background },
-  center: { flex: 1, alignItems: 'center', justifyContent: 'center' },
-  centerBox: { padding: spacing.xl, gap: spacing.lg, alignItems: 'stretch', maxWidth: 420 },
-  header: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: spacing.lg,
-    paddingHorizontal: spacing.xl,
-    paddingVertical: spacing.md,
-  },
-  flex: { flex: 1 },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    safe: { flex: 1, backgroundColor: colors.background },
+    center: { flex: 1, alignItems: 'center', justifyContent: 'center' },
+    centerBox: { padding: spacing.xl, gap: spacing.lg, alignItems: 'stretch', maxWidth: 420 },
+    header: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      gap: spacing.lg,
+      paddingHorizontal: spacing.xl,
+      paddingVertical: spacing.md,
+    },
+    flex: { flex: 1 },
+  }),
+);

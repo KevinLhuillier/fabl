@@ -76,7 +76,7 @@ export function StoryTile({ story, progress, onPress }: Props) {
 
       <View style={styles.progress}>
         <ProgressBar progress={fraction} color={c.solid} height={8} style={styles.flex} />
-        <Text variant="caption" color={done ? c.shade : colors.textSecondary}>
+        <Text variant="caption" color={done ? c.ink : colors.textSecondary}>
           {Math.round(fraction * 100)} %
         </Text>
       </View>

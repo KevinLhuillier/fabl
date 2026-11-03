@@ -3,7 +3,7 @@ import { Pressable, StyleSheet } from 'react-native';
 
 import { useI18n } from '@/i18n';
 import { playPronunciation, usePronunciation } from '@/lib/pronunciation';
-import { Icon, colors, haptics } from '@/theme';
+import { colors, haptics, Icon, themed } from '@/theme';
 
 /**
  * Speaker that plays the pronunciation of the first of `texts` that has a clip
@@ -46,12 +46,14 @@ export function SpeakButton({
   );
 }
 
-const styles = StyleSheet.create({
-  button: {
-    backgroundColor: colors.primarySoft,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  loading: { opacity: 0.4 },
-  pressed: { transform: [{ scale: 0.92 }] },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    button: {
+      backgroundColor: colors.primarySoft,
+      alignItems: 'center',
+      justifyContent: 'center',
+    },
+    loading: { opacity: 0.4 },
+    pressed: { transform: [{ scale: 0.92 }] },
+  }),
+);

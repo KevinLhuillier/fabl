@@ -27,7 +27,7 @@ import { useStats } from '@/lib/stats';
 import { supabase } from '@/lib/supabase';
 import { useTour } from '@/lib/tour';
 import type { PlayFromWord } from '@/lib/types';
-import { Button, Card, Icon, Text, colors, spacing } from '@/theme';
+import { Button, Card, colors, Icon, spacing, Text, themed } from '@/theme';
 
 const GESTURES: PlayFromWord[] = ['tap', 'double_tap'];
 const otherGesture = (g: PlayFromWord): PlayFromWord => (g === 'tap' ? 'double_tap' : 'tap');
@@ -331,19 +331,21 @@ function Stat({
   );
 }
 
-const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.background },
-  content: { padding: spacing.xl, gap: spacing.lg },
-  grid: { flexDirection: 'row', gap: spacing.sm },
-  stat: { flex: 1 },
-  titleRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm },
-  flex: { flex: 1 },
-  hint: { marginTop: spacing.xs, marginBottom: spacing.md },
-  goals: { flexDirection: 'row', gap: spacing.sm },
-  goal: { flex: 1 },
-  // Two per row: the names do not fit five abreast.
-  langs: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm },
-  lang: { flexGrow: 1, flexBasis: '40%' },
-  gestureRow: { gap: spacing.sm, marginTop: spacing.sm },
-  premiumButton: { marginTop: spacing.xs },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    safe: { flex: 1, backgroundColor: colors.background },
+    content: { padding: spacing.xl, gap: spacing.lg },
+    grid: { flexDirection: 'row', gap: spacing.sm },
+    stat: { flex: 1 },
+    titleRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.sm },
+    flex: { flex: 1 },
+    hint: { marginTop: spacing.xs, marginBottom: spacing.md },
+    goals: { flexDirection: 'row', gap: spacing.sm },
+    goal: { flex: 1 },
+    // Two per row: the names do not fit five abreast.
+    langs: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm },
+    lang: { flexGrow: 1, flexBasis: '40%' },
+    gestureRow: { gap: spacing.sm, marginTop: spacing.sm },
+    premiumButton: { marginTop: spacing.xs },
+  }),
+);

@@ -23,14 +23,15 @@ import {
   Badge,
   Button,
   Card,
-  Icon,
-  IconBubble,
-  ProgressBar,
-  Text,
   colors,
   enter,
   haptics,
+  Icon,
+  IconBubble,
+  ProgressBar,
   spacing,
+  Text,
+  themed,
 } from '@/theme';
 
 type Kind = 'chapter' | 'story' | 'review';
@@ -49,11 +50,11 @@ type Params = {
   newWords?: string;
 };
 
-const HERO: Record<Kind, { icon: LucideIcon; color: string; background: string }> = {
+const HERO: Record<Kind, { icon: LucideIcon; color: string; background: string }> = themed(() => ({
   chapter: { icon: BookCheck, color: colors.successShade, background: colors.successSoft },
   story: { icon: Trophy, color: colors.xpShade, background: colors.xpSoft },
   review: { icon: Brain, color: colors.infoShade, background: colors.infoSoft },
-};
+}));
 
 /** The offer slides over the rewards once they have shown. */
 const PAYWALL_DELAY_MS = 1200;
@@ -214,25 +215,27 @@ function useCountUp(target: number) {
   return value;
 }
 
-const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.background },
-  content: { flex: 1, justifyContent: 'center', padding: spacing.xl, gap: spacing.xl },
-  titles: { gap: spacing.sm },
-  timeRow: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'center',
-    gap: spacing.sm,
-  },
-  stats: { gap: spacing.md },
-  row: { flexDirection: 'row', justifyContent: 'center', gap: spacing.sm },
-  goalTitle: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: spacing.xs,
-    marginBottom: spacing.sm,
-  },
-  wordsRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
-  flex: { flex: 1 },
-  footer: { padding: spacing.xl, gap: spacing.md },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    safe: { flex: 1, backgroundColor: colors.background },
+    content: { flex: 1, justifyContent: 'center', padding: spacing.xl, gap: spacing.xl },
+    titles: { gap: spacing.sm },
+    timeRow: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      justifyContent: 'center',
+      gap: spacing.sm,
+    },
+    stats: { gap: spacing.md },
+    row: { flexDirection: 'row', justifyContent: 'center', gap: spacing.sm },
+    goalTitle: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      gap: spacing.xs,
+      marginBottom: spacing.sm,
+    },
+    wordsRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
+    flex: { flex: 1 },
+    footer: { padding: spacing.xl, gap: spacing.md },
+  }),
+);

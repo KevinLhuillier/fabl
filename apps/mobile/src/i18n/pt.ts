@@ -95,6 +95,8 @@ export const pt: Messages = {
     comingSoon: 'Novas histórias em breve',
     storyCount: (n) => count(n, 'história', 'histórias'),
     inProgress: 'Em andamento',
+    darkMode: 'Mudar para o modo escuro',
+    lightMode: 'Mudar para o modo claro',
   },
   stats: {
     goalReached: 'Meta cumprida!',

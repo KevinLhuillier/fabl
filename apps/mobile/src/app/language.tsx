@@ -5,7 +5,7 @@ import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { LANGS, LANG_NAMES, MESSAGES, useI18n, type Lang } from '@/i18n';
-import { Button, Card, Icon, IconBubble, Text, colors, enter, spacing } from '@/theme';
+import { Button, Card, colors, enter, Icon, IconBubble, spacing, Text, themed } from '@/theme';
 
 /**
  * First sign-in: the user picks the language of the app and of the word
@@ -70,15 +70,17 @@ export default function LanguageScreen() {
   );
 }
 
-const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.background },
-  content: { flexGrow: 1, justifyContent: 'center', padding: spacing.xl, gap: spacing.xl },
-  hero: { gap: spacing.sm },
-  options: { gap: spacing.md },
-  option: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    minHeight: 32,
-  },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    safe: { flex: 1, backgroundColor: colors.background },
+    content: { flexGrow: 1, justifyContent: 'center', padding: spacing.xl, gap: spacing.xl },
+    hero: { gap: spacing.sm },
+    options: { gap: spacing.md },
+    option: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      justifyContent: 'space-between',
+      minHeight: 32,
+    },
+  }),
+);

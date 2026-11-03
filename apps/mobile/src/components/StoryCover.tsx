@@ -4,7 +4,7 @@ import { StyleSheet, View, type ViewStyle } from 'react-native';
 import Svg, { Circle, Path } from 'react-native-svg';
 
 import type { StorySummary } from '@/lib/types';
-import { Text, colors, levelColors } from '@/theme';
+import { colors, levelColors, Text, themed } from '@/theme';
 
 type Props = {
   story: Pick<StorySummary, 'slug' | 'title' | 'level' | 'cover_url'>;
@@ -140,54 +140,56 @@ function DefaultCover({ story, size }: Pick<Props, 'story' | 'size'>) {
 const RADIUS = 10;
 const SPINE = 9;
 
-const styles = StyleSheet.create({
-  pages: {
-    position: 'absolute',
-    top: 3,
-    left: SPINE,
-    right: -3,
-    bottom: -3,
-    borderTopRightRadius: RADIUS,
-    borderBottomRightRadius: RADIUS,
-    backgroundColor: colors.paper,
-    borderWidth: 1,
-    borderColor: colors.paperEdge,
-  },
-  cover: {
-    aspectRatio: COVER_RATIO,
-    borderTopLeftRadius: 4,
-    borderBottomLeftRadius: 4,
-    borderTopRightRadius: RADIUS,
-    borderBottomRightRadius: RADIUS,
-    overflow: 'hidden',
-    backgroundColor: colors.border,
-  },
-  // Darker band and a hinge highlight: reads as a book on images too.
-  spine: {
-    position: 'absolute',
-    top: 0,
-    bottom: 0,
-    left: 0,
-    width: SPINE,
-    backgroundColor: 'rgba(0,0,0,0.16)',
-  },
-  spineLine: {
-    position: 'absolute',
-    top: 0,
-    bottom: 0,
-    left: SPINE,
-    width: 1.5,
-    backgroundColor: 'rgba(255,255,255,0.28)',
-  },
-  frame: {
-    position: 'absolute',
-    top: '24%',
-    left: SPINE + 10,
-    right: 10,
-    alignItems: 'center',
-    gap: 6,
-  },
-  frameLg: { gap: 10 },
-  rule: { width: 28, height: 2, borderRadius: 1, opacity: 0.7 },
-  title: { alignSelf: 'stretch' },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    pages: {
+      position: 'absolute',
+      top: 3,
+      left: SPINE,
+      right: -3,
+      bottom: -3,
+      borderTopRightRadius: RADIUS,
+      borderBottomRightRadius: RADIUS,
+      backgroundColor: colors.paper,
+      borderWidth: 1,
+      borderColor: colors.paperEdge,
+    },
+    cover: {
+      aspectRatio: COVER_RATIO,
+      borderTopLeftRadius: 4,
+      borderBottomLeftRadius: 4,
+      borderTopRightRadius: RADIUS,
+      borderBottomRightRadius: RADIUS,
+      overflow: 'hidden',
+      backgroundColor: colors.border,
+    },
+    // Darker band and a hinge highlight: reads as a book on images too.
+    spine: {
+      position: 'absolute',
+      top: 0,
+      bottom: 0,
+      left: 0,
+      width: SPINE,
+      backgroundColor: 'rgba(0,0,0,0.16)',
+    },
+    spineLine: {
+      position: 'absolute',
+      top: 0,
+      bottom: 0,
+      left: SPINE,
+      width: 1.5,
+      backgroundColor: 'rgba(255,255,255,0.28)',
+    },
+    frame: {
+      position: 'absolute',
+      top: '24%',
+      left: SPINE + 10,
+      right: 10,
+      alignItems: 'center',
+      gap: 6,
+    },
+    frameLg: { gap: 10 },
+    rule: { width: 28, height: 2, borderRadius: 1, opacity: 0.7 },
+    title: { alignSelf: 'stretch' },
+  }),
+);

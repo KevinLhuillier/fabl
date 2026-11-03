@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { StyleSheet, TextInput, View, type TextInputProps, type ViewStyle } from 'react-native';
 
-import { colors } from '../colors';
+import { colors, themed } from '../colors';
 import { radii, spacing, touchTarget } from '../spacing';
 import { typography } from '../typography';
 import { Icon, type LucideIcon } from './Icon';
@@ -45,19 +45,21 @@ export function TextField({ label, icon, containerStyle, style, ...rest }: TextF
   );
 }
 
-const styles = StyleSheet.create({
-  container: { gap: spacing.xs },
-  field: {
-    minHeight: touchTarget,
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: spacing.sm,
-    paddingHorizontal: spacing.lg,
-    borderRadius: radii.md,
-    borderWidth: 2,
-    borderColor: colors.border,
-    backgroundColor: colors.surface,
-  },
-  focused: { borderColor: colors.primary },
-  input: { flex: 1, ...typography.bodyBold, color: colors.text, paddingVertical: spacing.md },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    container: { gap: spacing.xs },
+    field: {
+      minHeight: touchTarget,
+      flexDirection: 'row',
+      alignItems: 'center',
+      gap: spacing.sm,
+      paddingHorizontal: spacing.lg,
+      borderRadius: radii.md,
+      borderWidth: 2,
+      borderColor: colors.border,
+      backgroundColor: colors.surface,
+    },
+    focused: { borderColor: colors.primary },
+    input: { flex: 1, ...typography.bodyBold, color: colors.text, paddingVertical: spacing.md },
+  }),
+);

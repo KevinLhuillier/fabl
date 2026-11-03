@@ -1,7 +1,7 @@
 import { useRouter, useFocusEffect } from 'expo-router';
-import { Brain, Library, Lock } from 'lucide-react-native';
+import { Brain, Library, Lock, Moon, Sun } from 'lucide-react-native';
 import { useCallback, useMemo, useState } from 'react';
-import { RefreshControl, ScrollView, StyleSheet, View } from 'react-native';
+import { Pressable, RefreshControl, ScrollView, StyleSheet, View } from 'react-native';
 import Animated from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -17,19 +17,22 @@ import {
 import { countDueVocabulary } from '@/lib/api/vocabulary';
 import { usePremium } from '@/lib/premium';
 import { useStats } from '@/lib/stats';
+import { useTheme } from '@/lib/theme';
 import { useTour } from '@/lib/tour';
 import type { StorySummary } from '@/lib/types';
 import {
   Button,
-  CEFR_LEVELS,
   Card,
-  Icon,
-  Loader,
-  Text,
+  CEFR_LEVELS,
   colors,
   enter,
+  haptics,
+  Icon,
+  Loader,
   radii,
   spacing,
+  Text,
+  themed,
 } from '@/theme';
 
 export default function Home() {
@@ -37,6 +40,8 @@ export default function Home() {
   const { refresh: refreshStats } = useStats();
   const { t } = useI18n();
   const { premium } = usePremium();
+  const { scheme, toggle: toggleScheme } = useTheme();
+  const dark = scheme === 'dark';
   const [stories, setStories] = useState<StorySummary[] | null>(null);
   const [progress, setProgress] = useState(new Map<string, StoryProgressSummary>());
   const [due, setDue] = useState(0);
@@ -122,7 +127,22 @@ export default function Home() {
             }}
           />
         }>
-        <Text variant="title">{t.home.title}</Text>
+        <View style={styles.titleRow}>
+          <Text variant="title" style={styles.flex}>
+            {t.home.title}
+          </Text>
+          <Pressable
+            onPress={() => {
+              haptics.select();
+              toggleScheme();
+            }}
+            hitSlop={8}
+            accessibilityRole="button"
+            accessibilityLabel={dark ? t.home.lightMode : t.home.darkMode}
+            style={({ pressed }) => [styles.schemeButton, pressed && styles.pressed]}>
+            <Icon icon={dark ? Sun : Moon} size={22} color={dark ? colors.xp : colors.primary} />
+          </Pressable>
+        </View>
         <View ref={target('stats')} collapsable={false}>
           <StatsBar />
         </View>
@@ -196,23 +216,37 @@ export default function Home() {
   );
 }
 
-const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.background },
-  content: { padding: spacing.xl, gap: spacing.xl, paddingBottom: spacing.xxxl },
-  reviewRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
-  flex: { flex: 1 },
-  retry: { marginTop: spacing.md },
-  loader: { marginTop: spacing.xxl },
-  shelves: { gap: spacing.xxl },
-  soon: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: spacing.sm,
-    paddingVertical: spacing.md,
-    paddingHorizontal: spacing.lg,
-    borderRadius: radii.md,
-    borderWidth: 2,
-    borderStyle: 'dashed',
-    borderColor: colors.border,
-  },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    safe: { flex: 1, backgroundColor: colors.background },
+    content: { padding: spacing.xl, gap: spacing.xl, paddingBottom: spacing.xxxl },
+    titleRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
+    schemeButton: {
+      width: 44,
+      height: 44,
+      borderRadius: 22,
+      alignItems: 'center',
+      justifyContent: 'center',
+      backgroundColor: colors.surface,
+      borderWidth: 2,
+      borderColor: colors.border,
+    },
+    pressed: { opacity: 0.6 },
+    reviewRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
+    flex: { flex: 1 },
+    retry: { marginTop: spacing.md },
+    loader: { marginTop: spacing.xxl },
+    shelves: { gap: spacing.xxl },
+    soon: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      gap: spacing.sm,
+      paddingVertical: spacing.md,
+      paddingHorizontal: spacing.lg,
+      borderRadius: radii.md,
+      borderWidth: 2,
+      borderStyle: 'dashed',
+      borderColor: colors.border,
+    },
+  }),
+);

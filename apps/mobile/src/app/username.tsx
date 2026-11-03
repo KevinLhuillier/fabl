@@ -8,7 +8,17 @@ import { useI18n } from '@/i18n';
 import { authErrorMessage } from '@/lib/auth';
 import { useStats } from '@/lib/stats';
 import { isValidUsername } from '@/lib/username';
-import { Button, IconBubble, Text, TextField, colors, enter, haptics, spacing } from '@/theme';
+import {
+  Button,
+  colors,
+  enter,
+  haptics,
+  IconBubble,
+  spacing,
+  Text,
+  TextField,
+  themed,
+} from '@/theme';
 
 /**
  * Accounts created before usernames choose one at their next launch. Saving it
@@ -77,9 +87,11 @@ export default function UsernameScreen() {
   );
 }
 
-const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: colors.background },
-  content: { flexGrow: 1, justifyContent: 'center', padding: spacing.xl, gap: spacing.xl },
-  hero: { gap: spacing.sm },
-  field: { gap: spacing.xs },
-});
+const styles = themed(() =>
+  StyleSheet.create({
+    safe: { flex: 1, backgroundColor: colors.background },
+    content: { flexGrow: 1, justifyContent: 'center', padding: spacing.xl, gap: spacing.xl },
+    hero: { gap: spacing.sm },
+    field: { gap: spacing.xs },
+  }),
+);
