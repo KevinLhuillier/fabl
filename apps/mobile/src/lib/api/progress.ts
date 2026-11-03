@@ -1,6 +1,5 @@
 import { currentUserId, supabase, unwrap } from '../supabase';
-import { fetchStoryWithChapters } from './content';
-import type { ChapterProgress, ChapterSummary, StorySummary } from '../types';
+import type { ChapterProgress, StorySummary } from '../types';
 
 type RawChapterProgress = {
   chapter_id: string;
@@ -70,15 +69,6 @@ export async function fetchChapterProgress(storyId: string): Promise<Map<string,
       .eq('chapters.story_id', storyId),
   ) as unknown as RawChapterProgress[];
   return new Map(rows.map((r) => [r.chapter_id, toProgress(r)]));
-}
-
-/** The chapter to pick a story up at: its first unfinished one (null once all are done). */
-export async function fetchResumeChapter(storyId: string): Promise<ChapterSummary | null> {
-  const [{ chapters }, progress] = await Promise.all([
-    fetchStoryWithChapters(storyId),
-    fetchChapterProgress(storyId),
-  ]);
-  return chapters.find((c) => !progress.get(c.id)?.completed) ?? null;
 }
 
 /** Remembers the page the reader is on (keeps `completed` as is). */

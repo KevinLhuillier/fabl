@@ -11,11 +11,9 @@ import { useI18n } from '@/i18n';
 import { fetchStories } from '@/lib/api/content';
 import {
   fetchProgressByStory,
-  fetchResumeChapter,
   type StoryProgressSummary,
 } from '@/lib/api/progress';
 import { countDueVocabulary } from '@/lib/api/vocabulary';
-import { usePremium } from '@/lib/premium';
 import { useStats } from '@/lib/stats';
 import { useTheme } from '@/lib/theme';
 import { useTour } from '@/lib/tour';
@@ -39,7 +37,6 @@ export default function Home() {
   const router = useRouter();
   const { refresh: refreshStats } = useStats();
   const { t } = useI18n();
-  const { premium } = usePremium();
   const { scheme, toggle: toggleScheme } = useTheme();
   const dark = scheme === 'dark';
   const [stories, setStories] = useState<StorySummary[] | null>(null);
@@ -89,21 +86,6 @@ export default function Home() {
   const openStory = (story: StorySummary) =>
     router.push({ pathname: '/story/[id]', params: { id: story.id } });
 
-  /** A story in progress opens where the user left it. */
-  async function resume(story: StorySummary) {
-    // A premium story without subscription: the story page tells whether the chapter is
-    // open (unlocked, or today's unlock) or shows the offer.
-    if (story.premium && !premium) return openStory(story);
-    const chapter = await fetchResumeChapter(story.id).catch((e: unknown) => {
-      console.warn('fetchResumeChapter', e);
-      return null;
-    });
-    if (!chapter) return openStory(story);
-    router.push({
-      pathname: '/read/[chapterId]',
-      params: { chapterId: chapter.id, storyId: story.id },
-    });
-  }
 
   // Reload whenever the tab gets focus (e.g. back from a story or a review).
   useFocusEffect(
@@ -153,7 +135,7 @@ export default function Home() {
               title={t.home.inProgress}
               stories={inProgress}
               progress={progress}
-              onOpen={resume}
+              onOpen={openStory}
             />
           </Animated.View>
         ) : null}
