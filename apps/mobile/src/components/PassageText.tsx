@@ -33,6 +33,14 @@ const DOUBLE_TAP_MS = 250;
 
 const QUOTE = /^["“”]$/;
 
+/**
+ * Hair space ending every word. Justified lines put words at fractional positions, and
+ * Android may then give a word a box a pixel narrower than its text (and italic glyphs
+ * overhang their box): the last letter wrapped to a hidden second line and vanished.
+ * A trailing space may overflow the box without wrapping, so the letters always fit.
+ */
+const TAIL_SLACK = ' ';
+
 /** A token plus whether it sits inside quotation marks. */
 type Segment = { token: Token; spoken: boolean; quote?: 'open' | 'close' };
 
@@ -93,7 +101,9 @@ export const PassageText = memo(function PassageText({
                     <Word
                       key={t.position}
                       token={t}
-                      label={quote === 'open' ? '“' : quote === 'close' ? '”' : t.text}
+                      label={
+                        (quote === 'open' ? '“' : quote === 'close' ? '”' : t.text) + TAIL_SLACK
+                      }
                       spoken={spoken || block.written}
                       readAlong={readAlong}
                       selected={isSelected(t)}
