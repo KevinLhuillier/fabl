@@ -1,12 +1,15 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { createContext, useCallback, useContext, useEffect, useState, type ReactNode } from 'react';
 
-const STORAGE_KEY = 'fabl.intro.v1';
+import { useAuth } from './auth';
+
+/** Per account: a new account (e.g. a guest after deleting the previous one) sees the demo. */
+const storageKey = (userId: string) => `fabl.intro.v1.${userId}`;
 
 type IntroValue = {
-  /** False until the flag saved on this device is read. */
+  /** False until the flag of the signed-in account is read. */
   ready: boolean;
-  /** The slides were shown on this device (finished or skipped). */
+  /** This account was shown the slides on this device (finished or skipped). */
   seen: boolean;
   markSeen: () => void;
 };
@@ -14,25 +17,36 @@ type IntroValue = {
 const IntroContext = createContext<IntroValue | null>(null);
 
 /**
- * The demo slides (intro screen): shown once on this device, after the username and before
+ * The demo slides (intro screen): shown once per account, after the username and before
  * the reminders. "Revoir la démo" in the profile opens them again.
  */
 export function IntroProvider({ children }: { children: ReactNode }) {
-  const [seen, setSeen] = useState<boolean | null>(null);
+  const { session } = useAuth();
+  const userId = session?.user.id ?? null;
+  // Read for `userId`: a flag read for another account counts as not loaded yet.
+  const [stored, setStored] = useState<{ userId: string; seen: boolean } | null>(null);
 
   useEffect(() => {
-    AsyncStorage.getItem(STORAGE_KEY)
-      .then((value) => setSeen(value === '1'))
-      .catch(() => setSeen(false));
-  }, []);
+    if (!userId) return;
+    let cancelled = false;
+    AsyncStorage.getItem(storageKey(userId))
+      .then((value) => !cancelled && setStored({ userId, seen: value === '1' }))
+      .catch(() => !cancelled && setStored({ userId, seen: false }));
+    return () => {
+      cancelled = true;
+    };
+  }, [userId]);
 
   const markSeen = useCallback(() => {
-    setSeen(true);
-    AsyncStorage.setItem(STORAGE_KEY, '1').catch((e) => console.warn('save intro', e));
-  }, []);
+    if (!userId) return;
+    setStored({ userId, seen: true });
+    AsyncStorage.setItem(storageKey(userId), '1').catch((e) => console.warn('save intro', e));
+  }, [userId]);
 
+  const current = userId && stored?.userId === userId ? stored : null;
   return (
-    <IntroContext.Provider value={{ ready: seen !== null, seen: !!seen, markSeen }}>
+    <IntroContext.Provider
+      value={{ ready: !userId || current !== null, seen: !!current?.seen, markSeen }}>
       {children}
     </IntroContext.Provider>
   );

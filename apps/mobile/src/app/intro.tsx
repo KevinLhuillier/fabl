@@ -1,5 +1,5 @@
 import { useRouter } from 'expo-router';
-import { useState, type ReactNode } from 'react';
+import { useEffect, useState, type ReactNode } from 'react';
 import {
   StyleSheet,
   View,
@@ -20,6 +20,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { ListenDemo, RestartDemo, ReviewDemo, TranslateDemo } from '@/components/IntroDemos';
 import { useI18n } from '@/i18n';
 import { useIntro } from '@/lib/intro';
+import { REMINDERS_SUPPORTED, useReminders } from '@/lib/reminders';
 import { useStats } from '@/lib/stats';
 import { Button, colors, haptics, radii, spacing, Text, themed } from '@/theme';
 
@@ -35,6 +36,9 @@ export default function IntroScreen() {
   const router = useRouter();
   const { stats } = useStats();
   const { seen, markSeen } = useIntro();
+  const { prefs: reminders } = useReminders();
+  // Shown as an onboarding step (not seen yet when opened), or again from the profile.
+  const [firstTime] = useState(!seen);
   const { width } = useWindowDimensions();
   const [index, setIndex] = useState(0);
   const scrollRef = useAnimatedRef<Animated.ScrollView>();
@@ -76,8 +80,19 @@ export default function IntroScreen() {
   ];
   const last = index === slides.length - 1;
 
-  // Opened again from the profile: back there. First time: the guard moves on.
-  const finish = () => (seen ? router.back() : markSeen());
+  // First time: saved as seen. When the reminders come next, the guard in `_layout` opens
+  // them; otherwise the screen stays reachable, so it moves on to the app itself.
+  const remindersNext = REMINDERS_SUPPORTED && !reminders.asked;
+  useEffect(() => {
+    if (firstTime && seen && !remindersNext) router.replace('/');
+  }, [firstTime, seen, remindersNext, router]);
+
+  // Opened again from the profile: back there.
+  const finish = () => {
+    if (firstTime) markSeen();
+    else if (router.canGoBack()) router.back();
+    else router.replace('/');
+  };
 
   const goTo = (to: number) => {
     setIndex(to);
