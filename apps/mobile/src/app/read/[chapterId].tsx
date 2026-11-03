@@ -1,5 +1,5 @@
 import { useRouter, useLocalSearchParams } from 'expo-router';
-import { BookOpen, ChevronLeft, ChevronRight, X } from 'lucide-react-native';
+import { BookOpen, Check, ChevronLeft, ChevronRight, Settings, X } from 'lucide-react-native';
 import { useCallback, useEffect, useRef, useState } from 'react';
 import {
   ActivityIndicator,
@@ -14,6 +14,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { PAGE_AUDIO_SIZE, PageAudio, type PageAudioHandle } from '@/components/PageAudio';
 import { PassageText, sentenceAround } from '@/components/PassageText';
+import { ReadingSettingsSheet } from '@/components/ReadingSettings';
 import { WordSheet, type WordSheetState } from '@/components/WordSheet';
 import { useI18n } from '@/i18n';
 import { saveChapterTime, takeChapterTime, useActivityTimer } from '@/lib/activity';
@@ -36,6 +37,7 @@ import {
   Button,
   colors,
   enter,
+  haptics,
   Icon,
   levelColors,
   Loader,
@@ -89,6 +91,7 @@ export default function ChapterReader() {
   const { target } = useTour('reader', data !== null);
   const [sheet, setSheet] = useState<WordSheetState | null>(null);
   const [selected, setSelected] = useState<number | null>(null);
+  const [settingsOpen, setSettingsOpen] = useState(false);
   // Turning the page: the new one is being drawn (a loader covers the text meanwhile).
   const [turning, setTurning] = useState(false);
   const turnTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
@@ -303,7 +306,7 @@ export default function ChapterReader() {
         <ScrollView
           ref={scrollRef}
           onScrollBeginDrag={touchActivity}
-          contentContainerStyle={[styles.body, current.audioUrl ? styles.bodyWithAudio : null]}>
+          contentContainerStyle={styles.body}>
           <Text variant="caption" color={level.ink}>
             {t.reader.header(chapter.position + 1, chapter.title, page + 1, pages.length)}
           </Text>
@@ -323,21 +326,6 @@ export default function ChapterReader() {
             </View>
           </Animated.View>
         </ScrollView>
-        {/* Floating over the text, so the voice-over can be paused at any scroll position. */}
-        {current.audioUrl ? (
-          <View ref={target('audio')} collapsable={false} style={styles.audio}>
-            <PageAudio
-              key={`audio-${current.id}`}
-              uri={current.audioUrl}
-              color={level.solid}
-              shade={level.shade}
-              onTime={aligned && readAlongEnabled ? onAudioTime : undefined}
-              // Replaying from the start: back to the top to follow the voice.
-              onRestart={() => scrollRef.current?.scrollTo({ y: 0, animated: true })}
-              ref={audioRef}
-            />
-          </View>
-        ) : null}
         {/* Appears only if the page takes a while (slow phone): no flash on a quick one. */}
         {turning ? (
           <Animated.View entering={enter.fade(LOADER_DELAY_MS)} style={styles.turning}>
@@ -347,43 +335,74 @@ export default function ChapterReader() {
       </View>
 
       <View style={styles.footer}>
-        {/* Fixed-width slots so the main button keeps its place when an arrow is hidden. */}
-        <View style={styles.arrowSlot}>
+        {/* Equal sides: the settings and the voice-over stay centered whatever the arrows. */}
+        <View style={styles.side}>
           {page > 0 && !finishing ? (
             <Pressable
               onPress={() => goTo(page - 1)}
-              hitSlop={8}
+              hitSlop={12}
               accessibilityRole="button"
               accessibilityLabel={t.reader.previousPage}>
-              <Icon icon={ChevronLeft} size={32} color={level.ink} />
+              <Icon icon={ChevronLeft} size={36} color={level.ink} />
             </Pressable>
           ) : null}
         </View>
-        <View ref={target('next')} collapsable={false} style={styles.flex}>
-          {finishing ? (
-            <Loader style={styles.footerLoader} />
-          ) : isLast ? (
-            <Button label={t.reader.finish} variant="success" onPress={finish} />
-          ) : (
-            <Button
-              label={t.common.continue}
-              colorOverride={{ face: level.solid, edge: level.shade }}
-              onPress={() => goTo(page + 1)}
-            />
-          )}
+        <View style={styles.controls}>
+          <Pressable
+            onPress={() => {
+              haptics.tap();
+              setSettingsOpen(true);
+            }}
+            hitSlop={8}
+            accessibilityRole="button"
+            accessibilityLabel={t.reader.settings}
+            style={({ pressed }) => [styles.settings, pressed && styles.pressed]}>
+            <Icon icon={Settings} size={24} color={colors.textSecondary} />
+          </Pressable>
+          {current.audioUrl ? (
+            <View ref={target('audio')} collapsable={false}>
+              <PageAudio
+                key={`audio-${current.id}`}
+                uri={current.audioUrl}
+                color={level.solid}
+                shade={level.shade}
+                onTime={aligned && readAlongEnabled ? onAudioTime : undefined}
+                // Replaying from the start: back to the top to follow the voice.
+                onRestart={() => scrollRef.current?.scrollTo({ y: 0, animated: true })}
+                ref={audioRef}
+              />
+            </View>
+          ) : null}
         </View>
-        <View style={styles.arrowSlot}>
-          {!isLast && !finishing ? (
+        <View ref={target('next')} collapsable={false} style={[styles.side, styles.sideEnd]}>
+          {finishing ? (
+            <ActivityIndicator color={colors.success} />
+          ) : isLast ? (
+            // Last page: the next arrow becomes "finish the chapter".
             <Pressable
-              onPress={() => goTo(page + 1)}
+              onPress={() => {
+                haptics.press();
+                finish();
+              }}
               hitSlop={8}
               accessibilityRole="button"
-              accessibilityLabel={t.reader.nextPage}>
-              <Icon icon={ChevronRight} size={32} color={level.ink} />
+              accessibilityLabel={t.reader.finish}
+              style={({ pressed }) => [styles.finish, pressed && styles.finishPressed]}>
+              <Icon icon={Check} size={26} color={colors.textOnColor} />
             </Pressable>
-          ) : null}
+          ) : (
+            <Pressable
+              onPress={() => goTo(page + 1)}
+              hitSlop={12}
+              accessibilityRole="button"
+              accessibilityLabel={t.reader.nextPage}>
+              <Icon icon={ChevronRight} size={36} color={level.ink} />
+            </Pressable>
+          )}
         </View>
       </View>
+
+      <ReadingSettingsSheet visible={settingsOpen} onClose={() => setSettingsOpen(false)} />
 
       <WordSheet
         word={sheet}
@@ -433,13 +452,9 @@ const styles = themed(() =>
       paddingVertical: spacing.md,
     },
     flex: { flex: 1 },
-    footerLoader: { padding: 0 },
     // Fixed width so the bar does not jump when the page number gains a digit.
     pageCount: { minWidth: 40, textAlign: 'right', fontVariant: ['tabular-nums'] },
     body: { padding: spacing.xl, gap: spacing.lg, paddingBottom: spacing.xxxl },
-    // Room under the last line so the floating player never hides it.
-    bodyWithAudio: { paddingBottom: PAGE_AUDIO_SIZE + spacing.xl * 2 },
-    audio: { position: 'absolute', right: spacing.xl, bottom: spacing.lg },
     turning: {
       position: 'absolute',
       top: 0,
@@ -454,12 +469,39 @@ const styles = themed(() =>
       flexDirection: 'row',
       alignItems: 'center',
       gap: spacing.sm,
-      padding: spacing.xl,
-      paddingTop: spacing.md,
+      paddingHorizontal: spacing.xl,
+      paddingVertical: spacing.md,
+      // Same height with or without a voice-over on the page.
+      minHeight: PAGE_AUDIO_SIZE + spacing.md * 2,
       borderTopWidth: 2,
       borderTopColor: colors.border,
       backgroundColor: colors.surface,
     },
-    arrowSlot: { width: 32, alignItems: 'center' },
+    side: { flex: 1, flexDirection: 'row', alignItems: 'center' },
+    sideEnd: { justifyContent: 'flex-end' },
+    controls: { flexDirection: 'row', alignItems: 'center', gap: spacing.lg },
+    settings: {
+      width: 48,
+      height: 48,
+      borderRadius: 24,
+      alignItems: 'center',
+      justifyContent: 'center',
+      backgroundColor: colors.background,
+      borderWidth: 2,
+      borderColor: colors.border,
+    },
+    pressed: { opacity: 0.6 },
+    // Round and raised like the voice-over button, in the success green.
+    finish: {
+      width: 52,
+      height: 52,
+      borderRadius: 26,
+      alignItems: 'center',
+      justifyContent: 'center',
+      backgroundColor: colors.success,
+      borderBottomWidth: 4,
+      borderBottomColor: colors.successShade,
+    },
+    finishPressed: { borderBottomWidth: 1, transform: [{ translateY: 3 }] },
   }),
 );

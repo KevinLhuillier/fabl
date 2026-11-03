@@ -1,13 +1,11 @@
 import { useRouter } from 'expo-router';
 import {
-  AudioLines,
   CloudUpload,
   Crown,
   Flame,
   GraduationCap,
   Languages,
   LogOut,
-  Pointer,
   Target,
   Trophy,
   Clock,
@@ -15,10 +13,11 @@ import {
   type LucideIcon,
 } from 'lucide-react-native';
 import { useState } from 'react';
-import { Linking, ScrollView, StyleSheet, Switch, View } from 'react-native';
+import { Linking, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { ConfirmSheet } from '@/components/ConfirmSheet';
+import { GestureSetting, ReadAlongSetting } from '@/components/ReadingSettings';
 import { LANGS, LANG_NAMES, useI18n } from '@/i18n';
 import { deleteAccount, useAuth } from '@/lib/auth';
 import { formatDuration } from '@/lib/labels';
@@ -28,23 +27,14 @@ import { usePremium } from '@/lib/premium';
 import { useStats } from '@/lib/stats';
 import { supabase } from '@/lib/supabase';
 import { useTour } from '@/lib/tour';
-import type { PlayFromWord } from '@/lib/types';
 import { Button, Card, colors, Icon, spacing, Text, themed } from '@/theme';
-
-const GESTURES: PlayFromWord[] = ['tap', 'double_tap'];
-const otherGesture = (g: PlayFromWord): PlayFromWord => (g === 'tap' ? 'double_tap' : 'tap');
-const GESTURE_ROWS = [
-  { action: 'translate', label: 'translateWord' },
-  { action: 'play', label: 'playFromWord' },
-] as const;
 
 export default function Profile() {
   const router = useRouter();
   const { session } = useAuth();
   const { t, lang, setLang } = useI18n();
-  const { stats, updateDailyGoal, updateReadAlong, updatePlayFromWord } = useStats();
+  const { stats, updateDailyGoal } = useStats();
   const { target, replay } = useTour('profile', stats !== null);
-  const playGesture = stats?.play_from_word ?? 'double_tap';
   const [confirmDelete, setConfirmDelete] = useState(false);
   const [deleting, setDeleting] = useState(false);
   const [deleteError, setDeleteError] = useState(false);
@@ -139,55 +129,12 @@ export default function Profile() {
 
         <View ref={target('readAlong')} collapsable={false}>
           <Card>
-            <View style={styles.titleRow}>
-              <Icon icon={AudioLines} size={22} color={colors.primary} />
-              <Text variant="heading" style={styles.flex}>
-                {t.profile.readAlong}
-              </Text>
-              <Switch
-                value={stats?.read_along ?? true}
-                disabled={!stats}
-                onValueChange={(v) => updateReadAlong(v).catch(console.warn)}
-                trackColor={{ false: colors.border, true: colors.primary }}
-                thumbColor={colors.surface}
-                accessibilityLabel={t.profile.readAlong}
-              />
-            </View>
-            <Text color={colors.textSecondary} style={styles.hint}>
-              {t.profile.readAlongHint}
-            </Text>
+            <ReadAlongSetting />
           </Card>
         </View>
 
         <Card>
-          <View style={styles.titleRow}>
-            <Icon icon={Pointer} size={22} color={colors.primary} />
-            <Text variant="heading">{t.profile.gestures}</Text>
-          </View>
-          {/* Choosing a gesture for one action gives the other gesture to the other action. */}
-          {GESTURE_ROWS.map(({ action, label }) => (
-            <View key={action} style={styles.gestureRow}>
-              <Text variant="bodyBold">{t.profile[label]}</Text>
-              <View style={styles.goals}>
-                {GESTURES.map((gesture) => {
-                  const play = action === 'play' ? gesture : otherGesture(gesture);
-                  return (
-                    <Button
-                      key={gesture}
-                      label={t.profile.gestureNames[gesture]}
-                      sentence
-                      compact
-                      variant={playGesture === play ? 'primary' : 'secondary'}
-                      haptic="tap"
-                      disabled={!stats}
-                      style={styles.goal}
-                      onPress={() => updatePlayFromWord(play).catch(console.warn)}
-                    />
-                  );
-                })}
-              </View>
-            </View>
-          ))}
+          <GestureSetting />
         </Card>
 
         <View ref={target('language')} collapsable={false}>
@@ -376,7 +323,6 @@ const styles = themed(() =>
     // Two per row: the names do not fit five abreast.
     langs: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm },
     lang: { flexGrow: 1, flexBasis: '40%' },
-    gestureRow: { gap: spacing.sm, marginTop: spacing.sm },
     premiumButton: { marginTop: spacing.xs },
   }),
 );

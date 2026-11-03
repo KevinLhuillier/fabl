@@ -130,6 +130,7 @@ export const it: Messages = {
     chapterTitle: (n, title) => `Capitolo ${n} · ${title}`,
     play: 'Ascolta la pagina',
     pause: 'Metti in pausa la lettura',
+    settings: 'Impostazioni di lettura',
   },
   wordSheet: {
     wordAlone: 'Parola da sola: ',
@@ -388,7 +389,7 @@ export const it: Messages = {
       },
       audio: {
         title: 'Ascolta la pagina',
-        text: 'Avvia la lettura: il testo si evidenzia al ritmo della voce. Tocca due volte una parola per ascoltare a partire da quella parola (puoi cambiare i gesti nel profilo).',
+        text: 'Avvia la lettura: il testo si evidenzia al ritmo della voce. Tocca due volte una parola per ascoltare a partire da quella parola (puoi cambiare i gesti con l’icona delle impostazioni, in basso).',
       },
       next: {
         title: 'Pagina successiva',

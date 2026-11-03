@@ -135,6 +135,7 @@ export const fr = {
     chapterTitle: (n: number, title: string) => `Chapitre ${n} · ${title}`,
     play: 'Écouter la page',
     pause: 'Mettre en pause la lecture',
+    settings: 'Réglages de lecture',
   },
   wordSheet: {
     baseForm: 'forme de base : ',
@@ -397,7 +398,7 @@ export const fr = {
       },
       audio: {
         title: 'Écoute la page',
-        text: 'Lance la lecture : le texte est surligné au fil de la voix. Touche deux fois un mot pour lancer l’écoute à partir de celui-ci (gestes modifiables dans ton profil).',
+        text: 'Lance la lecture : le texte est surligné au fil de la voix. Touche deux fois un mot pour lancer l’écoute à partir de celui-ci (gestes modifiables avec l’icône des réglages, en bas).',
       },
       next: {
         title: 'Page suivante',

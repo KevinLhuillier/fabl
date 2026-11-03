@@ -132,6 +132,7 @@ export const de: Messages = {
     chapterTitle: (n, title) => `Kapitel ${n} · ${title}`,
     play: 'Seite anhören',
     pause: 'Vorlesen pausieren',
+    settings: 'Leseeinstellungen',
   },
   wordSheet: {
     wordAlone: 'Einzelnes Wort: ',
@@ -390,7 +391,7 @@ export const de: Messages = {
       },
       audio: {
         title: 'Hör dir die Seite an',
-        text: 'Starte das Vorlesen: Der Text wird im Takt der Stimme hervorgehoben. Tippe zweimal auf ein Wort, um ab diesem Wort zu hören (Gesten im Profil änderbar).',
+        text: 'Starte das Vorlesen: Der Text wird im Takt der Stimme hervorgehoben. Tippe zweimal auf ein Wort, um ab diesem Wort zu hören (Gesten über das Einstellungssymbol unten änderbar).',
       },
       next: {
         title: 'Nächste Seite',
