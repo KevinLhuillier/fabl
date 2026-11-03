@@ -13,9 +13,9 @@ import Animated, {
 import { BrandGradient } from '@/components/BrandGradient';
 import { enter, fonts, Loader, palette, Text, themed } from '@/theme';
 
-const book = require('../../assets/images/splash-icon.png');
+const logo = require('../../assets/images/splash-icon.png');
 
-/** Same size as the native splash image (`imageWidth` in app.json), so the book doesn't jump. */
+/** Same size as the native splash image (`imageWidth` in app.json), so the logo doesn't jump. */
 const IMAGE_SIZE = 300;
 /** Shown at least this long, so the brand registers even when everything is cached. */
 const MIN_VISIBLE_MS = 700;
@@ -31,7 +31,7 @@ type Props = {
 
 /**
  * Launch screen taking over from the native splash (a plain color): the icon's gradient,
- * the book floating, the name and bouncing dots, then a fade into the app.
+ * the logo floating, the name and bouncing dots, then a fade into the app.
  */
 export function LaunchScreen({ done, fontsReady, onHidden }: Props) {
   const reduceMotion = useReducedMotion();
@@ -60,7 +60,7 @@ export function LaunchScreen({ done, fontsReady, onHidden }: Props) {
   }, [done, minElapsed, exit, onHidden]);
 
   const screenStyle = useAnimatedStyle(() => ({ opacity: 1 - exit.value }));
-  const bookStyle = useAnimatedStyle(() => ({
+  const logoStyle = useAnimatedStyle(() => ({
     transform: [{ translateY: -8 * float.value }, { scale: 1 + 0.12 * exit.value }],
   }));
 
@@ -74,11 +74,11 @@ export function LaunchScreen({ done, fontsReady, onHidden }: Props) {
       <BrandGradient />
 
       <View style={styles.center}>
-        <Animated.View style={bookStyle}>
-          <Image source={book} style={styles.book} />
+        <Animated.View style={logoStyle}>
+          <Image source={logo} style={styles.logo} />
         </Animated.View>
       </View>
-      {/* Below the centered book, so the book stays where the native splash drew it. */}
+      {/* Below the centered logo, so the logo stays where the native splash drew it. */}
       <View style={styles.below}>
         {fontsReady ? (
           <Animated.View entering={enter.up(120)}>
@@ -94,7 +94,7 @@ export function LaunchScreen({ done, fontsReady, onHidden }: Props) {
 const styles = themed(() =>
   StyleSheet.create({
     center: { ...StyleSheet.absoluteFill, alignItems: 'center', justifyContent: 'center' },
-    book: { width: IMAGE_SIZE, height: IMAGE_SIZE },
+    logo: { width: IMAGE_SIZE, height: IMAGE_SIZE },
     below: {
       position: 'absolute',
       left: 0,
