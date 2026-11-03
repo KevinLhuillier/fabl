@@ -73,6 +73,7 @@ export const de: Messages = {
     haveAccount: 'Ich habe schon ein Konto',
     username: 'Benutzername',
     forgotPassword: 'Passwort vergessen?',
+    start: 'Los geht’s',
     accountCreated:
       'Konto erstellt! Klicke auf den Link, den du per E-Mail erhalten hast, und melde dich dann an.',
     errors: {
@@ -241,6 +242,18 @@ export const de: Messages = {
       60: 'Leidenschaftlich',
     },
   },
+  /** A guest account adds its email (save-account screen). */
+  saveAccount: {
+    title: 'Mein Konto sichern',
+    hint: 'Wähle eine E-Mail und ein Passwort: Damit kannst du dich auf jedem Handy anmelden. Dein Fortschritt und dein Abo bleiben erhalten.',
+    submit: 'Sichern',
+    codeSent: (email: string) =>
+      `Wir haben dir einen Code an ${email} geschickt. Gib ihn ein, um deine E-Mail zu bestätigen.`,
+    code: 'Per E-Mail erhaltener Code',
+    confirm: 'Bestätigen',
+    resend: 'Code erneut senden',
+    done: 'Konto gesichert! Du kannst dich jetzt auf jedem Handy mit deiner E-Mail anmelden.',
+  },
   profile: {
     title: 'Profil',
     totalTime: 'Gesamtzeit',
@@ -258,6 +271,14 @@ export const de: Messages = {
     languageHint: 'Sprache der App und der Übersetzungen.',
     replay: 'Demo noch einmal ansehen',
     signOut: 'Abmelden',
+    guestSignOutTitle: 'Gastkonto verlassen?',
+    guestSignOutMessage:
+      'Ohne E-Mail können dein Fortschritt, deine Wörter und dein Abo nicht wiederhergestellt werden. Füge zuerst eine E-Mail hinzu, um sie zu behalten.',
+    guestSignOutConfirm: 'Trotzdem verlassen',
+    saveTitle: 'Sichere deinen Fortschritt',
+    saveHint:
+      'Du nutzt ein Gastkonto. Füge eine E-Mail hinzu, um deinen Fortschritt und dein Abo auf einem anderen Handy oder nach einer Neuinstallation wiederzufinden.',
+    saveButton: 'E-Mail hinzufügen',
     deleteAccount: 'Mein Konto löschen',
     deleteTitle: 'Dein Konto löschen?',
     deleteMessage:

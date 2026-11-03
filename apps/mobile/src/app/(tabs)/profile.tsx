@@ -1,6 +1,7 @@
 import { useRouter } from 'expo-router';
 import {
   AudioLines,
+  CloudUpload,
   Crown,
   Flame,
   GraduationCap,
@@ -22,6 +23,7 @@ import { LANGS, LANG_NAMES, useI18n } from '@/i18n';
 import { deleteAccount, useAuth } from '@/lib/auth';
 import { formatDuration } from '@/lib/labels';
 import { DAILY_GOAL_OPTIONS, displayedStreak } from '@/lib/gamification';
+import { isGuest } from '@/lib/guest';
 import { usePremium } from '@/lib/premium';
 import { useStats } from '@/lib/stats';
 import { supabase } from '@/lib/supabase';
@@ -46,6 +48,8 @@ export default function Profile() {
   const [confirmDelete, setConfirmDelete] = useState(false);
   const [deleting, setDeleting] = useState(false);
   const [deleteError, setDeleteError] = useState(false);
+  const [confirmGuestSignOut, setConfirmGuestSignOut] = useState(false);
+  const guest = isGuest(session);
 
   const removeAccount = async () => {
     setConfirmDelete(false);
@@ -70,7 +74,20 @@ export default function Profile() {
             @{stats.username}
           </Text>
         ) : null}
-        <Text color={colors.textSecondary}>{session?.user.email}</Text>
+        {guest ? (
+          <Card tint={{ face: colors.infoSoft, edge: colors.info }}>
+            <View style={styles.titleRow}>
+              <Icon icon={CloudUpload} size={22} color={colors.infoShade} />
+              <Text variant="heading">{t.profile.saveTitle}</Text>
+            </View>
+            <Text color={colors.textSecondary} style={styles.hint}>
+              {t.profile.saveHint}
+            </Text>
+            <Button label={t.profile.saveButton} onPress={() => router.push('/save-account')} />
+          </Card>
+        ) : (
+          <Text color={colors.textSecondary}>{session?.user.email}</Text>
+        )}
 
         <View style={styles.grid}>
           <Stat
@@ -215,7 +232,8 @@ export default function Profile() {
           label={t.profile.signOut}
           variant="danger"
           icon={<Icon icon={LogOut} size={20} color={colors.textOnColor} />}
-          onPress={() => supabase.auth.signOut()}
+          // A guest can't come back once signed out: warn first.
+          onPress={() => (guest ? setConfirmGuestSignOut(true) : supabase.auth.signOut())}
         />
 
         <Button
@@ -241,6 +259,19 @@ export default function Profile() {
         confirmLabel={t.profile.deleteConfirm}
         onConfirm={removeAccount}
         onCancel={() => setConfirmDelete(false)}
+      />
+      <ConfirmSheet
+        visible={confirmGuestSignOut}
+        icon={LogOut}
+        tone="danger"
+        title={t.profile.guestSignOutTitle}
+        message={t.profile.guestSignOutMessage}
+        confirmLabel={t.profile.guestSignOutConfirm}
+        onConfirm={() => {
+          setConfirmGuestSignOut(false);
+          supabase.auth.signOut().catch(console.warn);
+        }}
+        onCancel={() => setConfirmGuestSignOut(false)}
       />
     </SafeAreaView>
   );

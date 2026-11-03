@@ -102,6 +102,10 @@ Deno.serve(async (req) => {
     const lang = await userLang(user.id);
     if (data.email_action_type === 'recovery') {
       await send(user.email, resetEmail(lang, data.token));
+    } else if (data.email_action_type === 'email_change' && user.new_email && !user.email) {
+      // A guest account adding its first email (apps/mobile/src/lib/guest.ts): no current
+      // address, one code to the new one.
+      await send(user.new_email, codeEmail(lang, data.token_new || data.token));
     } else if (data.email_action_type === 'email_change' && user.new_email && data.token_new) {
       // Double confirmation: a code to the current address and one to the new address.
       await send(user.email, codeEmail(lang, data.token));

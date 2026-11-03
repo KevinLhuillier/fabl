@@ -73,6 +73,7 @@ export const es: Messages = {
     haveAccount: 'Ya tengo una cuenta',
     username: 'Nombre de usuario',
     forgotPassword: '¿Olvidaste tu contraseña?',
+    start: 'Empezar',
     accountCreated:
       '¡Cuenta creada! Haz clic en el enlace que recibiste por correo y luego inicia sesión.',
     errors: {
@@ -241,6 +242,18 @@ export const es: Messages = {
       60: 'Apasionado',
     },
   },
+  /** A guest account adds its email (save-account screen). */
+  saveAccount: {
+    title: 'Guardar mi cuenta',
+    hint: 'Elige un email y una contraseña: podrás iniciar sesión con ellos en cualquier teléfono. Tu progreso y tu suscripción se conservan.',
+    submit: 'Guardar',
+    codeSent: (email: string) =>
+      `Te hemos enviado un código a ${email}. Introdúcelo para confirmar tu email.`,
+    code: 'Código recibido por email',
+    confirm: 'Confirmar',
+    resend: 'Reenviar el código',
+    done: '¡Cuenta guardada! Ya puedes iniciar sesión con tu email en cualquier teléfono.',
+  },
   profile: {
     title: 'Perfil',
     totalTime: 'Tiempo total',
@@ -258,6 +271,14 @@ export const es: Messages = {
     languageHint: 'Idioma de la aplicación y de las traducciones.',
     replay: 'Ver la demo otra vez',
     signOut: 'Cerrar sesión',
+    guestSignOutTitle: '¿Salir de la cuenta de invitado?',
+    guestSignOutMessage:
+      'Sin email, tu progreso, tus palabras y tu suscripción ya no se podrán recuperar. Añade antes un email para conservarlos.',
+    guestSignOutConfirm: 'Salir de todos modos',
+    saveTitle: 'Guarda tu progreso',
+    saveHint:
+      'Usas una cuenta de invitado. Añade un email para recuperar tu progreso y tu suscripción en otro teléfono o tras reinstalar la app.',
+    saveButton: 'Añadir un email',
     deleteAccount: 'Eliminar mi cuenta',
     deleteTitle: '¿Eliminar tu cuenta?',
     deleteMessage:

@@ -51,7 +51,8 @@ export function authErrorMessage(t: Messages, message: string): string {
   const e = t.signIn.errors;
   if (/invalid login credentials/i.test(message)) return e.invalidCredentials;
   if (/email not confirmed/i.test(message)) return e.emailNotConfirmed;
-  if (/already registered/i.test(message)) return e.alreadyRegistered;
+  // "already registered" at sign-up, "already been registered" when a guest adds its email.
+  if (/already (been )?registered/i.test(message)) return e.alreadyRegistered;
   if (/password should be at least/i.test(message)) return e.passwordTooShort;
   if (/valid email|invalid format/i.test(message)) return e.invalidEmail;
   // The sign-up trigger fails when the username was taken just before.

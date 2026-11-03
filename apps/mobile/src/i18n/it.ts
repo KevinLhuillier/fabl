@@ -73,6 +73,7 @@ export const it: Messages = {
     haveAccount: 'Ho già un account',
     username: 'Nome utente',
     forgotPassword: 'Password dimenticata?',
+    start: 'Inizia',
     accountCreated: 'Account creato! Clicca sul link che hai ricevuto per e-mail, poi accedi.',
     errors: {
       invalidCredentials: 'E-mail o password errate.',
@@ -239,6 +240,18 @@ export const it: Messages = {
       60: 'Appassionato',
     },
   },
+  /** A guest account adds its email (save-account screen). */
+  saveAccount: {
+    title: 'Salva il mio account',
+    hint: 'Scegli un’email e una password: potrai accedere con queste da qualsiasi telefono. I tuoi progressi e il tuo abbonamento restano.',
+    submit: 'Salva',
+    codeSent: (email: string) =>
+      `Ti abbiamo inviato un codice a ${email}. Inseriscilo per confermare la tua email.`,
+    code: 'Codice ricevuto via email',
+    confirm: 'Conferma',
+    resend: 'Invia di nuovo il codice',
+    done: 'Account salvato! Ora puoi accedere con la tua email da qualsiasi telefono.',
+  },
   profile: {
     title: 'Profilo',
     totalTime: 'Tempo totale',
@@ -256,6 +269,14 @@ export const it: Messages = {
     languageHint: "Lingua dell'app e delle traduzioni.",
     replay: 'Rivedi la demo',
     signOut: 'Esci',
+    guestSignOutTitle: 'Uscire dall’account ospite?',
+    guestSignOutMessage:
+      'Senza email, i tuoi progressi, le tue parole e il tuo abbonamento non potranno più essere recuperati. Aggiungi prima un’email per conservarli.',
+    guestSignOutConfirm: 'Esci comunque',
+    saveTitle: 'Salva i tuoi progressi',
+    saveHint:
+      'Stai usando un account ospite. Aggiungi un’email per ritrovare i tuoi progressi e il tuo abbonamento su un altro telefono o dopo aver reinstallato l’app.',
+    saveButton: 'Aggiungi un’email',
     deleteAccount: 'Elimina il mio account',
     deleteTitle: 'Eliminare il tuo account?',
     deleteMessage:

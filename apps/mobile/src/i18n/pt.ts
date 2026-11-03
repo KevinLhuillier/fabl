@@ -73,6 +73,7 @@ export const pt: Messages = {
     haveAccount: 'Já tenho uma conta',
     username: 'Nome de usuário',
     forgotPassword: 'Esqueceu a senha?',
+    start: 'Começar',
     accountCreated: 'Conta criada! Clique no link que você recebeu por e-mail e depois entre.',
     errors: {
       invalidCredentials: 'E-mail ou senha incorretos.',
@@ -239,6 +240,18 @@ export const pt: Messages = {
       60: 'Apaixonado',
     },
   },
+  /** A guest account adds its email (save-account screen). */
+  saveAccount: {
+    title: 'Salvar minha conta',
+    hint: 'Escolha um email e uma senha: você poderá entrar com eles em qualquer celular. Seu progresso e sua assinatura são mantidos.',
+    submit: 'Salvar',
+    codeSent: (email: string) =>
+      `Enviamos um código para ${email}. Digite-o para confirmar seu email.`,
+    code: 'Código recebido por email',
+    confirm: 'Confirmar',
+    resend: 'Reenviar o código',
+    done: 'Conta salva! Agora você pode entrar com seu email em qualquer celular.',
+  },
   profile: {
     title: 'Perfil',
     totalTime: 'Tempo total',
@@ -256,6 +269,14 @@ export const pt: Messages = {
     languageHint: 'Idioma do aplicativo e das traduções.',
     replay: 'Ver a demo de novo',
     signOut: 'Sair',
+    guestSignOutTitle: 'Sair da conta de convidado?',
+    guestSignOutMessage:
+      'Sem email, seu progresso, suas palavras e sua assinatura não poderão mais ser recuperados. Adicione um email antes para mantê-los.',
+    guestSignOutConfirm: 'Sair mesmo assim',
+    saveTitle: 'Salve seu progresso',
+    saveHint:
+      'Você está usando uma conta de convidado. Adicione um email para recuperar seu progresso e sua assinatura em outro celular ou depois de reinstalar o app.',
+    saveButton: 'Adicionar um email',
     deleteAccount: 'Excluir minha conta',
     deleteTitle: 'Excluir sua conta?',
     deleteMessage:

@@ -76,6 +76,7 @@ export const fr = {
     haveAccount: 'J’ai déjà un compte',
     username: 'Pseudo',
     forgotPassword: 'Mot de passe oublié ?',
+    start: 'Commencer',
     accountCreated: 'Compte créé ! Clique sur le lien reçu par email, puis connecte-toi.',
     errors: {
       invalidCredentials: 'Email ou mot de passe incorrect.',
@@ -246,6 +247,18 @@ export const fr = {
       60: 'Passionné',
     } as Record<number, string>,
   },
+  /** A guest account adds its email (save-account screen). */
+  saveAccount: {
+    title: 'Sauvegarder mon compte',
+    hint: 'Choisis un email et un mot de passe : tu pourras te connecter avec sur n’importe quel téléphone. Ta progression et ton abonnement sont conservés.',
+    submit: 'Sauvegarder',
+    codeSent: (email: string) =>
+      `On t’a envoyé un code à ${email}. Entre-le pour confirmer ton email.`,
+    code: 'Code reçu par email',
+    confirm: 'Confirmer',
+    resend: 'Renvoyer le code',
+    done: 'Compte sauvegardé ! Tu peux maintenant te connecter avec ton email sur n’importe quel téléphone.',
+  },
   profile: {
     title: 'Profil',
     totalTime: 'Temps total',
@@ -263,6 +276,14 @@ export const fr = {
     languageHint: 'Langue de l’application et des traductions.',
     replay: 'Revoir la démo',
     signOut: 'Se déconnecter',
+    guestSignOutTitle: 'Quitter le compte invité ?',
+    guestSignOutMessage:
+      'Sans email, ta progression, tes mots et ton abonnement ne pourront plus être récupérés. Ajoute d’abord un email pour les garder.',
+    guestSignOutConfirm: 'Quitter quand même',
+    saveTitle: 'Sauvegarde ta progression',
+    saveHint:
+      'Tu utilises un compte invité. Ajoute un email pour retrouver ta progression et ton abonnement sur un autre téléphone ou après une réinstallation.',
+    saveButton: 'Ajouter un email',
     deleteAccount: 'Supprimer mon compte',
     deleteTitle: 'Supprimer ton compte ?',
     deleteMessage:

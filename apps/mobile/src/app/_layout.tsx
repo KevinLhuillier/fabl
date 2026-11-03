@@ -98,6 +98,8 @@ function RootNavigator() {
           />
           <Stack.Screen name="celebration" options={{ animation: 'fade', gestureEnabled: false }} />
           <Stack.Screen name="paywall" options={{ presentation: 'modal' }} />
+          {/* A guest account adds its email (lib/guest). */}
+          <Stack.Screen name="save-account" />
         </Stack.Protected>
         <Stack.Protected guard={needsLang}>
           <Stack.Screen name="language" options={{ animation: 'fade' }} />
