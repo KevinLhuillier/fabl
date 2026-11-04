@@ -1,0 +1,1895 @@
+{
+ "title": "Write Back",
+ "level": "B2",
+ "slug": "b2-write-back",
+ "summary": "Rosalind Hale has just left her village in the Yorkshire Dales to study at Durham University. She has hundreds of things to say, but they never leave her head. Then, in an old stationer's shop, she buys a green notebook — and somebody writes back.",
+ "words": 19015,
+ "chapters": [
+  {
+   "title": "The Green Notebook",
+   "pages": 20,
+   "words": 2074
+  },
+  {
+   "title": "The Rules",
+   "pages": 18,
+   "words": 1910
+  },
+  {
+   "title": "Small Steps",
+   "pages": 17,
+   "words": 1843
+  },
+  {
+   "title": "The Presentation",
+   "pages": 17,
+   "words": 1871
+  },
+  {
+   "title": "Clues",
+   "pages": 16,
+   "words": 1815
+  },
+  {
+   "title": "On My Own",
+   "pages": 19,
+   "words": 1902
+  },
+  {
+   "title": "Silence",
+   "pages": 18,
+   "words": 1880
+  },
+  {
+   "title": "Your Turn",
+   "pages": 16,
+   "words": 1896
+  },
+  {
+   "title": "Ten Letters",
+   "pages": 17,
+   "words": 1838
+  },
+  {
+   "title": "Write Back",
+   "pages": 19,
+   "words": 1986
+  }
+ ],
+ "chapterTitle": "The Green Notebook",
+ "pageCount": 20,
+ "shelves": [
+  {
+   "level": "A2",
+   "stories": [
+    {
+     "slug": "a2-mira-and-the-dragon-egg",
+     "title": "Mira and the Dragon Egg",
+     "premium": false,
+     "words": 1320,
+     "chapters": 5
+    },
+    {
+     "slug": "a2-the-gull-cottage",
+     "title": "The Gull Cottage",
+     "premium": true,
+     "words": 15758,
+     "chapters": 8
+    },
+    {
+     "slug": "a2-the-number-glasses",
+     "title": "The Number Glasses",
+     "premium": true,
+     "words": 18144,
+     "chapters": 10
+    }
+   ]
+  },
+  {
+   "level": "B1",
+   "stories": [
+    {
+     "slug": "b1-pistache-above-the-bakery",
+     "title": "Pistache, Above the Bakery",
+     "premium": false,
+     "words": 1976,
+     "chapters": 5
+    },
+    {
+     "slug": "b1-the-last-bus-to-ravensby",
+     "title": "The Last Bus to Ravensby",
+     "premium": false,
+     "words": 5030,
+     "chapters": 5
+    },
+    {
+     "slug": "b1-letters-to-the-north-pole",
+     "title": "Letters to the North Pole",
+     "premium": true,
+     "words": 7647,
+     "chapters": 8
+    },
+    {
+     "slug": "b1-the-cherry-seller",
+     "title": "The Cherry Seller",
+     "premium": true,
+     "words": 19972,
+     "chapters": 10
+    },
+    {
+     "slug": "b1-the-quiet-signal",
+     "title": "The Quiet Signal",
+     "premium": true,
+     "words": 21396,
+     "chapters": 10
+    }
+   ]
+  },
+  {
+   "level": "B2",
+   "stories": [
+    {
+     "slug": "b2-the-squires-oath",
+     "title": "The Squire's Oath",
+     "premium": false,
+     "words": 2668,
+     "chapters": 6
+    },
+    {
+     "slug": "b2-write-back",
+     "title": "Write Back",
+     "premium": true,
+     "words": 19015,
+     "chapters": 10
+    },
+    {
+     "slug": "b2-max-level",
+     "title": "Max Level",
+     "premium": true,
+     "words": 22021,
+     "chapters": 10
+    },
+    {
+     "slug": "b2-the-borrowed-grimoire",
+     "title": "The Borrowed Grimoire",
+     "premium": true,
+     "words": 16578,
+     "chapters": 10
+    },
+    {
+     "slug": "b2-the-library-ghost",
+     "title": "The Library Ghost",
+     "premium": true,
+     "words": 19099,
+     "chapters": 10
+    }
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "n": 1,
+   "duration": 66.4,
+   "words": [
+    {
+     "text": "On",
+     "start": 0,
+     "end": 0.24,
+     "p": 0
+    },
+    {
+     "text": "her",
+     "start": 0.24,
+     "end": 0.46,
+     "p": 0
+    },
+    {
+     "text": "ninth",
+     "start": 0.46,
+     "end": 0.72,
+     "p": 0
+    },
+    {
+     "text": "day",
+     "start": 0.72,
+     "end": 1.08,
+     "p": 0
+    },
+    {
+     "text": "in",
+     "start": 1.08,
+     "end": 1.28,
+     "p": 0
+    },
+    {
+     "text": "Durham,",
+     "start": 1.28,
+     "end": 1.6,
+     "p": 0
+    },
+    {
+     "text": "Rosalind",
+     "start": 1.6,
+     "end": 2.68,
+     "p": 0
+    },
+    {
+     "text": "Hale",
+     "start": 2.68,
+     "end": 2.9,
+     "p": 0
+    },
+    {
+     "text": "counted",
+     "start": 2.9,
+     "end": 3.42,
+     "p": 0
+    },
+    {
+     "text": "the",
+     "start": 3.42,
+     "end": 3.64,
+     "p": 0
+    },
+    {
+     "text": "words",
+     "start": 3.64,
+     "end": 3.88,
+     "p": 0
+    },
+    {
+     "text": "she",
+     "start": 3.88,
+     "end": 4.1,
+     "p": 0
+    },
+    {
+     "text": "had",
+     "start": 4.1,
+     "end": 4.2,
+     "p": 0
+    },
+    {
+     "text": "spoken",
+     "start": 4.2,
+     "end": 4.52,
+     "p": 0
+    },
+    {
+     "text": "out",
+     "start": 4.52,
+     "end": 4.94,
+     "p": 0
+    },
+    {
+     "text": "loud",
+     "start": 4.94,
+     "end": 5.22,
+     "p": 0
+    },
+    {
+     "text": "since",
+     "start": 5.22,
+     "end": 5.54,
+     "p": 0
+    },
+    {
+     "text": "breakfast.",
+     "start": 5.54,
+     "end": 6.04,
+     "p": 0
+    },
+    {
+     "text": "It",
+     "start": 6.04,
+     "end": 7.22,
+     "p": 0
+    },
+    {
+     "text": "did",
+     "start": 7.22,
+     "end": 7.36,
+     "p": 0
+    },
+    {
+     "text": "not",
+     "start": 7.36,
+     "end": 7.7,
+     "p": 0
+    },
+    {
+     "text": "take",
+     "start": 7.7,
+     "end": 8,
+     "p": 0
+    },
+    {
+     "text": "long.",
+     "start": 8,
+     "end": 8.62,
+     "p": 0
+    },
+    {
+     "text": "There",
+     "start": 8.62,
+     "end": 9.58,
+     "p": 0
+    },
+    {
+     "text": "had",
+     "start": 9.58,
+     "end": 9.76,
+     "p": 0
+    },
+    {
+     "text": "been",
+     "start": 9.76,
+     "end": 10.14,
+     "p": 0
+    },
+    {
+     "text": "\"thank",
+     "start": 10.14,
+     "end": 10.78,
+     "p": 0
+    },
+    {
+     "text": "you\"",
+     "start": 10.78,
+     "end": 11.12,
+     "p": 0
+    },
+    {
+     "text": "to",
+     "start": 11.12,
+     "end": 11.44,
+     "p": 0
+    },
+    {
+     "text": "the",
+     "start": 11.44,
+     "end": 11.58,
+     "p": 0
+    },
+    {
+     "text": "woman",
+     "start": 11.58,
+     "end": 11.74,
+     "p": 0
+    },
+    {
+     "text": "in",
+     "start": 11.74,
+     "end": 11.92,
+     "p": 0
+    },
+    {
+     "text": "the",
+     "start": 11.92,
+     "end": 12.06,
+     "p": 0
+    },
+    {
+     "text": "café,",
+     "start": 12.06,
+     "end": 12.46,
+     "p": 0
+    },
+    {
+     "text": "\"sorry\"",
+     "start": 12.46,
+     "end": 13.78,
+     "p": 0
+    },
+    {
+     "text": "to",
+     "start": 13.78,
+     "end": 14.38,
+     "p": 0
+    },
+    {
+     "text": "a",
+     "start": 14.38,
+     "end": 14.54,
+     "p": 0
+    },
+    {
+     "text": "boy",
+     "start": 14.54,
+     "end": 14.76,
+     "p": 0
+    },
+    {
+     "text": "whose",
+     "start": 14.76,
+     "end": 15.04,
+     "p": 0
+    },
+    {
+     "text": "bag",
+     "start": 15.04,
+     "end": 15.32,
+     "p": 0
+    },
+    {
+     "text": "she",
+     "start": 15.32,
+     "end": 15.56,
+     "p": 0
+    },
+    {
+     "text": "had",
+     "start": 15.56,
+     "end": 15.68,
+     "p": 0
+    },
+    {
+     "text": "touched",
+     "start": 15.68,
+     "end": 15.88,
+     "p": 0
+    },
+    {
+     "text": "on",
+     "start": 15.88,
+     "end": 16.1,
+     "p": 0
+    },
+    {
+     "text": "the",
+     "start": 16.1,
+     "end": 16.26,
+     "p": 0
+    },
+    {
+     "text": "stairs,",
+     "start": 16.26,
+     "end": 16.64,
+     "p": 0
+    },
+    {
+     "text": "and",
+     "start": 16.64,
+     "end": 17.5,
+     "p": 0
+    },
+    {
+     "text": "four",
+     "start": 17.5,
+     "end": 17.88,
+     "p": 0
+    },
+    {
+     "text": "more",
+     "start": 17.88,
+     "end": 18.2,
+     "p": 0
+    },
+    {
+     "text": "words",
+     "start": 18.2,
+     "end": 18.54,
+     "p": 0
+    },
+    {
+     "text": "in",
+     "start": 18.54,
+     "end": 18.7,
+     "p": 0
+    },
+    {
+     "text": "the",
+     "start": 18.7,
+     "end": 18.82,
+     "p": 0
+    },
+    {
+     "text": "seminar",
+     "start": 18.82,
+     "end": 19.22,
+     "p": 0
+    },
+    {
+     "text": "room,",
+     "start": 19.22,
+     "end": 19.58,
+     "p": 0
+    },
+    {
+     "text": "which",
+     "start": 19.58,
+     "end": 19.98,
+     "p": 0
+    },
+    {
+     "text": "she",
+     "start": 19.98,
+     "end": 20.16,
+     "p": 0
+    },
+    {
+     "text": "was",
+     "start": 20.16,
+     "end": 20.3,
+     "p": 0
+    },
+    {
+     "text": "trying",
+     "start": 20.3,
+     "end": 20.62,
+     "p": 0
+    },
+    {
+     "text": "very",
+     "start": 20.62,
+     "end": 21.14,
+     "p": 0
+    },
+    {
+     "text": "hard",
+     "start": 21.14,
+     "end": 21.6,
+     "p": 0
+    },
+    {
+     "text": "not",
+     "start": 21.6,
+     "end": 21.84,
+     "p": 0
+    },
+    {
+     "text": "to",
+     "start": 21.84,
+     "end": 22.02,
+     "p": 0
+    },
+    {
+     "text": "think",
+     "start": 22.02,
+     "end": 22.18,
+     "p": 0
+    },
+    {
+     "text": "about.",
+     "start": 22.18,
+     "end": 22.54,
+     "p": 0
+    },
+    {
+     "text": "Eleven",
+     "start": 22.54,
+     "end": 24.06,
+     "p": 0
+    },
+    {
+     "text": "words.",
+     "start": 24.06,
+     "end": 24.82,
+     "p": 0
+    },
+    {
+     "text": "Twelve,",
+     "start": 24.82,
+     "end": 26.08,
+     "p": 0
+    },
+    {
+     "text": "if",
+     "start": 26.08,
+     "end": 26.6,
+     "p": 0
+    },
+    {
+     "text": "she",
+     "start": 26.6,
+     "end": 26.76,
+     "p": 0
+    },
+    {
+     "text": "counted",
+     "start": 26.76,
+     "end": 27.08,
+     "p": 0
+    },
+    {
+     "text": "the",
+     "start": 27.08,
+     "end": 27.36,
+     "p": 0
+    },
+    {
+     "text": "\"oh\"",
+     "start": 27.36,
+     "end": 28.04,
+     "p": 0
+    },
+    {
+     "text": "she",
+     "start": 28.04,
+     "end": 28.62,
+     "p": 0
+    },
+    {
+     "text": "had",
+     "start": 28.62,
+     "end": 28.78,
+     "p": 0
+    },
+    {
+     "text": "whispered",
+     "start": 28.78,
+     "end": 29.18,
+     "p": 0
+    },
+    {
+     "text": "when",
+     "start": 29.18,
+     "end": 29.46,
+     "p": 0
+    },
+    {
+     "text": "she",
+     "start": 29.46,
+     "end": 29.62,
+     "p": 0
+    },
+    {
+     "text": "missed",
+     "start": 29.62,
+     "end": 29.82,
+     "p": 0
+    },
+    {
+     "text": "the",
+     "start": 29.82,
+     "end": 30.02,
+     "p": 0
+    },
+    {
+     "text": "bus.",
+     "start": 30.02,
+     "end": 30.34,
+     "p": 0
+    },
+    {
+     "text": "It",
+     "start": 31.24,
+     "end": 31.56,
+     "p": 0
+    },
+    {
+     "text": "was",
+     "start": 31.56,
+     "end": 31.7,
+     "p": 0
+    },
+    {
+     "text": "not",
+     "start": 31.7,
+     "end": 32.04,
+     "p": 0
+    },
+    {
+     "text": "a",
+     "start": 32.04,
+     "end": 32.24,
+     "p": 0
+    },
+    {
+     "text": "record",
+     "start": 32.24,
+     "end": 32.52,
+     "p": 0
+    },
+    {
+     "text": "she",
+     "start": 32.52,
+     "end": 32.74,
+     "p": 0
+    },
+    {
+     "text": "was",
+     "start": 32.74,
+     "end": 32.9,
+     "p": 0
+    },
+    {
+     "text": "proud",
+     "start": 32.9,
+     "end": 33.22,
+     "p": 0
+    },
+    {
+     "text": "of.",
+     "start": 33.22,
+     "end": 33.82,
+     "p": 0
+    },
+    {
+     "text": "It",
+     "start": 33.82,
+     "end": 34.84,
+     "p": 1
+    },
+    {
+     "text": "was",
+     "start": 34.84,
+     "end": 34.98,
+     "p": 1
+    },
+    {
+     "text": "the",
+     "start": 34.98,
+     "end": 35.14,
+     "p": 1
+    },
+    {
+     "text": "end",
+     "start": 35.14,
+     "end": 35.38,
+     "p": 1
+    },
+    {
+     "text": "of",
+     "start": 35.38,
+     "end": 35.58,
+     "p": 1
+    },
+    {
+     "text": "September,",
+     "start": 35.58,
+     "end": 36.12,
+     "p": 1
+    },
+    {
+     "text": "and",
+     "start": 36.12,
+     "end": 36.7,
+     "p": 1
+    },
+    {
+     "text": "the",
+     "start": 36.7,
+     "end": 36.84,
+     "p": 1
+    },
+    {
+     "text": "city",
+     "start": 36.84,
+     "end": 37.06,
+     "p": 1
+    },
+    {
+     "text": "was",
+     "start": 37.06,
+     "end": 37.28,
+     "p": 1
+    },
+    {
+     "text": "full",
+     "start": 37.28,
+     "end": 37.68,
+     "p": 1
+    },
+    {
+     "text": "of",
+     "start": 37.68,
+     "end": 37.88,
+     "p": 1
+    },
+    {
+     "text": "people",
+     "start": 37.88,
+     "end": 38.26,
+     "p": 1
+    },
+    {
+     "text": "who",
+     "start": 38.26,
+     "end": 38.52,
+     "p": 1
+    },
+    {
+     "text": "seemed",
+     "start": 38.52,
+     "end": 38.72,
+     "p": 1
+    },
+    {
+     "text": "to",
+     "start": 38.72,
+     "end": 38.92,
+     "p": 1
+    },
+    {
+     "text": "know",
+     "start": 38.92,
+     "end": 39.12,
+     "p": 1
+    },
+    {
+     "text": "exactly",
+     "start": 39.12,
+     "end": 39.68,
+     "p": 1
+    },
+    {
+     "text": "what",
+     "start": 39.68,
+     "end": 40.06,
+     "p": 1
+    },
+    {
+     "text": "they",
+     "start": 40.06,
+     "end": 40.22,
+     "p": 1
+    },
+    {
+     "text": "were",
+     "start": 40.22,
+     "end": 40.36,
+     "p": 1
+    },
+    {
+     "text": "doing.",
+     "start": 40.36,
+     "end": 40.74,
+     "p": 1
+    },
+    {
+     "text": "They",
+     "start": 40.74,
+     "end": 41.78,
+     "p": 1
+    },
+    {
+     "text": "walked",
+     "start": 41.78,
+     "end": 42.04,
+     "p": 1
+    },
+    {
+     "text": "in",
+     "start": 42.04,
+     "end": 42.28,
+     "p": 1
+    },
+    {
+     "text": "groups",
+     "start": 42.28,
+     "end": 42.56,
+     "p": 1
+    },
+    {
+     "text": "across",
+     "start": 42.56,
+     "end": 42.92,
+     "p": 1
+    },
+    {
+     "text": "the",
+     "start": 42.92,
+     "end": 43.16,
+     "p": 1
+    },
+    {
+     "text": "old",
+     "start": 43.16,
+     "end": 43.44,
+     "p": 1
+    },
+    {
+     "text": "bridges,",
+     "start": 43.44,
+     "end": 43.9,
+     "p": 1
+    },
+    {
+     "text": "laughing,",
+     "start": 43.9,
+     "end": 44.9,
+     "p": 1
+    },
+    {
+     "text": "carrying",
+     "start": 44.9,
+     "end": 45.54,
+     "p": 1
+    },
+    {
+     "text": "pizza",
+     "start": 45.54,
+     "end": 46.08,
+     "p": 1
+    },
+    {
+     "text": "boxes",
+     "start": 46.08,
+     "end": 46.48,
+     "p": 1
+    },
+    {
+     "text": "and",
+     "start": 46.48,
+     "end": 46.9,
+     "p": 1
+    },
+    {
+     "text": "bottles",
+     "start": 46.9,
+     "end": 47.32,
+     "p": 1
+    },
+    {
+     "text": "and",
+     "start": 47.32,
+     "end": 48.04,
+     "p": 1
+    },
+    {
+     "text": "enormous",
+     "start": 48.04,
+     "end": 48.5,
+     "p": 1
+    },
+    {
+     "text": "plans",
+     "start": 48.5,
+     "end": 49.06,
+     "p": 1
+    },
+    {
+     "text": "for",
+     "start": 49.06,
+     "end": 49.32,
+     "p": 1
+    },
+    {
+     "text": "the",
+     "start": 49.32,
+     "end": 49.46,
+     "p": 1
+    },
+    {
+     "text": "evening.",
+     "start": 49.46,
+     "end": 50.16,
+     "p": 1
+    },
+    {
+     "text": "Rosalind",
+     "start": 51.1,
+     "end": 51.62,
+     "p": 1
+    },
+    {
+     "text": "walked",
+     "start": 51.62,
+     "end": 51.92,
+     "p": 1
+    },
+    {
+     "text": "alone,",
+     "start": 51.92,
+     "end": 52.38,
+     "p": 1
+    },
+    {
+     "text": "close",
+     "start": 52.38,
+     "end": 53.12,
+     "p": 1
+    },
+    {
+     "text": "to",
+     "start": 53.12,
+     "end": 53.36,
+     "p": 1
+    },
+    {
+     "text": "the",
+     "start": 53.36,
+     "end": 53.48,
+     "p": 1
+    },
+    {
+     "text": "walls,",
+     "start": 53.48,
+     "end": 53.92,
+     "p": 1
+    },
+    {
+     "text": "with",
+     "start": 53.92,
+     "end": 54.56,
+     "p": 1
+    },
+    {
+     "text": "her",
+     "start": 54.56,
+     "end": 54.72,
+     "p": 1
+    },
+    {
+     "text": "hands",
+     "start": 54.72,
+     "end": 55.06,
+     "p": 1
+    },
+    {
+     "text": "deep",
+     "start": 55.06,
+     "end": 55.44,
+     "p": 1
+    },
+    {
+     "text": "in",
+     "start": 55.44,
+     "end": 55.64,
+     "p": 1
+    },
+    {
+     "text": "the",
+     "start": 55.64,
+     "end": 55.74,
+     "p": 1
+    },
+    {
+     "text": "pockets",
+     "start": 55.74,
+     "end": 56.08,
+     "p": 1
+    },
+    {
+     "text": "of",
+     "start": 56.08,
+     "end": 56.28,
+     "p": 1
+    },
+    {
+     "text": "a",
+     "start": 56.28,
+     "end": 56.38,
+     "p": 1
+    },
+    {
+     "text": "coat",
+     "start": 56.38,
+     "end": 56.64,
+     "p": 1
+    },
+    {
+     "text": "that",
+     "start": 56.64,
+     "end": 56.9,
+     "p": 1
+    },
+    {
+     "text": "was",
+     "start": 56.9,
+     "end": 57.04,
+     "p": 1
+    },
+    {
+     "text": "too",
+     "start": 57.04,
+     "end": 57.4,
+     "p": 1
+    },
+    {
+     "text": "warm",
+     "start": 57.4,
+     "end": 57.76,
+     "p": 1
+    },
+    {
+     "text": "for",
+     "start": 57.76,
+     "end": 58,
+     "p": 1
+    },
+    {
+     "text": "the",
+     "start": 58,
+     "end": 58.12,
+     "p": 1
+    },
+    {
+     "text": "weather.",
+     "start": 58.12,
+     "end": 58.42,
+     "p": 1
+    },
+    {
+     "text": "She",
+     "start": 58.42,
+     "end": 59.64,
+     "p": 1
+    },
+    {
+     "text": "had",
+     "start": 59.64,
+     "end": 59.82,
+     "p": 1
+    },
+    {
+     "text": "chosen",
+     "start": 59.82,
+     "end": 60.04,
+     "p": 1
+    },
+    {
+     "text": "it",
+     "start": 60.04,
+     "end": 60.42,
+     "p": 1
+    },
+    {
+     "text": "because",
+     "start": 60.42,
+     "end": 60.72,
+     "p": 1
+    },
+    {
+     "text": "it",
+     "start": 60.72,
+     "end": 60.88,
+     "p": 1
+    },
+    {
+     "text": "had",
+     "start": 60.88,
+     "end": 61.04,
+     "p": 1
+    },
+    {
+     "text": "big",
+     "start": 61.04,
+     "end": 61.4,
+     "p": 1
+    },
+    {
+     "text": "pockets.",
+     "start": 61.4,
+     "end": 62.08,
+     "p": 1
+    },
+    {
+     "text": "Big",
+     "start": 62.8,
+     "end": 63.08,
+     "p": 1
+    },
+    {
+     "text": "pockets",
+     "start": 63.08,
+     "end": 63.46,
+     "p": 1
+    },
+    {
+     "text": "were",
+     "start": 63.46,
+     "end": 63.7,
+     "p": 1
+    },
+    {
+     "text": "useful",
+     "start": 63.7,
+     "end": 64.18,
+     "p": 1
+    },
+    {
+     "text": "when",
+     "start": 64.18,
+     "end": 64.46,
+     "p": 1
+    },
+    {
+     "text": "you",
+     "start": 64.46,
+     "end": 64.6,
+     "p": 1
+    },
+    {
+     "text": "did",
+     "start": 64.6,
+     "end": 64.74,
+     "p": 1
+    },
+    {
+     "text": "not",
+     "start": 64.74,
+     "end": 65.04,
+     "p": 1
+    },
+    {
+     "text": "know",
+     "start": 65.04,
+     "end": 65.24,
+     "p": 1
+    },
+    {
+     "text": "what",
+     "start": 65.24,
+     "end": 65.38,
+     "p": 1
+    },
+    {
+     "text": "to",
+     "start": 65.38,
+     "end": 65.52,
+     "p": 1
+    },
+    {
+     "text": "do",
+     "start": 65.52,
+     "end": 65.66,
+     "p": 1
+    },
+    {
+     "text": "with",
+     "start": 65.66,
+     "end": 65.8,
+     "p": 1
+    },
+    {
+     "text": "your",
+     "start": 65.8,
+     "end": 65.96,
+     "p": 1
+    },
+    {
+     "text": "hands.",
+     "start": 65.96,
+     "end": 66.4,
+     "p": 1
+    }
+   ],
+   "taps": [
+    {
+     "words": [
+      14,
+      15
+     ],
+     "label": "out loud",
+     "pos": "expression",
+     "translation": "à voix haute",
+     "context": "On her ninth day in Durham, Rosalind Hale counted the words she had spoken out loud since breakfast."
+    },
+    {
+     "words": [
+      74
+     ],
+     "label": "whispered",
+     "pos": "verbe",
+     "translation": "chuchoter",
+     "context": "Twelve, if she counted the \"oh\" she had whispered when she missed the bus."
+    },
+    {
+     "words": [
+      87,
+      88
+     ],
+     "label": "proud of",
+     "pos": "expression",
+     "translation": "être fier de, être fière de",
+     "context": "It was not a record she was proud of."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "duration": 35.64,
+   "words": [
+    {
+     "text": "She",
+     "start": 0,
+     "end": 0.2,
+     "p": 0
+    },
+    {
+     "text": "came",
+     "start": 0.2,
+     "end": 0.42,
+     "p": 0
+    },
+    {
+     "text": "from",
+     "start": 0.42,
+     "end": 0.72,
+     "p": 0
+    },
+    {
+     "text": "Kettlewell,",
+     "start": 0.72,
+     "end": 1.36,
+     "p": 0
+    },
+    {
+     "text": "a",
+     "start": 1.36,
+     "end": 2.06,
+     "p": 0
+    },
+    {
+     "text": "village",
+     "start": 2.06,
+     "end": 2.36,
+     "p": 0
+    },
+    {
+     "text": "in",
+     "start": 2.36,
+     "end": 2.62,
+     "p": 0
+    },
+    {
+     "text": "the",
+     "start": 2.62,
+     "end": 2.72,
+     "p": 0
+    },
+    {
+     "text": "Yorkshire",
+     "start": 2.72,
+     "end": 3.08,
+     "p": 0
+    },
+    {
+     "text": "Dales",
+     "start": 3.08,
+     "end": 3.58,
+     "p": 0
+    },
+    {
+     "text": "with",
+     "start": 3.58,
+     "end": 3.88,
+     "p": 0
+    },
+    {
+     "text": "one",
+     "start": 3.88,
+     "end": 4.22,
+     "p": 0
+    },
+    {
+     "text": "shop,",
+     "start": 4.22,
+     "end": 4.66,
+     "p": 0
+    },
+    {
+     "text": "two",
+     "start": 4.66,
+     "end": 5.24,
+     "p": 0
+    },
+    {
+     "text": "pubs,",
+     "start": 5.24,
+     "end": 5.74,
+     "p": 0
+    },
+    {
+     "text": "a",
+     "start": 5.74,
+     "end": 6.34,
+     "p": 0
+    },
+    {
+     "text": "river",
+     "start": 6.34,
+     "end": 6.6,
+     "p": 0
+    },
+    {
+     "text": "called",
+     "start": 6.6,
+     "end": 6.96,
+     "p": 0
+    },
+    {
+     "text": "the",
+     "start": 6.96,
+     "end": 7.16,
+     "p": 0
+    },
+    {
+     "text": "Wharfe",
+     "start": 7.16,
+     "end": 7.76,
+     "p": 0
+    },
+    {
+     "text": "and",
+     "start": 7.76,
+     "end": 8.06,
+     "p": 0
+    },
+    {
+     "text": "more",
+     "start": 8.06,
+     "end": 8.34,
+     "p": 0
+    },
+    {
+     "text": "sheep",
+     "start": 8.34,
+     "end": 8.72,
+     "p": 0
+    },
+    {
+     "text": "than",
+     "start": 8.72,
+     "end": 9.06,
+     "p": 0
+    },
+    {
+     "text": "people.",
+     "start": 9.06,
+     "end": 9.52,
+     "p": 0
+    },
+    {
+     "text": "Everybody",
+     "start": 9.52,
+     "end": 10.58,
+     "p": 0
+    },
+    {
+     "text": "there",
+     "start": 10.58,
+     "end": 11.04,
+     "p": 0
+    },
+    {
+     "text": "knew",
+     "start": 11.04,
+     "end": 11.28,
+     "p": 0
+    },
+    {
+     "text": "her.",
+     "start": 11.28,
+     "end": 11.8,
+     "p": 0
+    },
+    {
+     "text": "Everybody",
+     "start": 11.8,
+     "end": 12.62,
+     "p": 0
+    },
+    {
+     "text": "knew",
+     "start": 12.62,
+     "end": 13.1,
+     "p": 0
+    },
+    {
+     "text": "that",
+     "start": 13.1,
+     "end": 13.38,
+     "p": 0
+    },
+    {
+     "text": "she",
+     "start": 13.38,
+     "end": 13.58,
+     "p": 0
+    },
+    {
+     "text": "was",
+     "start": 13.58,
+     "end": 13.88,
+     "p": 0
+    },
+    {
+     "text": "\"the",
+     "start": 13.88,
+     "end": 14.18,
+     "p": 0
+    },
+    {
+     "text": "clever",
+     "start": 14.18,
+     "end": 14.62,
+     "p": 0
+    },
+    {
+     "text": "Hale",
+     "start": 14.62,
+     "end": 14.96,
+     "p": 0
+    },
+    {
+     "text": "girl\",",
+     "start": 14.96,
+     "end": 15.4,
+     "p": 0
+    },
+    {
+     "text": "the",
+     "start": 15.4,
+     "end": 16.1,
+     "p": 0
+    },
+    {
+     "text": "one",
+     "start": 16.1,
+     "end": 16.26,
+     "p": 0
+    },
+    {
+     "text": "who",
+     "start": 16.26,
+     "end": 16.46,
+     "p": 0
+    },
+    {
+     "text": "read",
+     "start": 16.46,
+     "end": 16.64,
+     "p": 0
+    },
+    {
+     "text": "books",
+     "start": 16.64,
+     "end": 16.98,
+     "p": 0
+    },
+    {
+     "text": "at",
+     "start": 16.98,
+     "end": 17.16,
+     "p": 0
+    },
+    {
+     "text": "the",
+     "start": 17.16,
+     "end": 17.28,
+     "p": 0
+    },
+    {
+     "text": "bus",
+     "start": 17.28,
+     "end": 17.46,
+     "p": 0
+    },
+    {
+     "text": "stop",
+     "start": 17.46,
+     "end": 17.82,
+     "p": 0
+    },
+    {
+     "text": "and",
+     "start": 17.82,
+     "end": 18.18,
+     "p": 0
+    },
+    {
+     "text": "won",
+     "start": 18.18,
+     "end": 18.36,
+     "p": 0
+    },
+    {
+     "text": "the",
+     "start": 18.36,
+     "end": 18.52,
+     "p": 0
+    },
+    {
+     "text": "poetry",
+     "start": 18.52,
+     "end": 18.84,
+     "p": 0
+    },
+    {
+     "text": "prize",
+     "start": 18.84,
+     "end": 19.24,
+     "p": 0
+    },
+    {
+     "text": "at",
+     "start": 19.24,
+     "end": 19.44,
+     "p": 0
+    },
+    {
+     "text": "school",
+     "start": 19.44,
+     "end": 19.76,
+     "p": 0
+    },
+    {
+     "text": "three",
+     "start": 19.76,
+     "end": 20.24,
+     "p": 0
+    },
+    {
+     "text": "years",
+     "start": 20.24,
+     "end": 20.6,
+     "p": 0
+    },
+    {
+     "text": "in",
+     "start": 20.6,
+     "end": 20.74,
+     "p": 0
+    },
+    {
+     "text": "a",
+     "start": 20.74,
+     "end": 20.88,
+     "p": 0
+    },
+    {
+     "text": "row.",
+     "start": 20.88,
+     "end": 21.34,
+     "p": 0
+    },
+    {
+     "text": "Nobody",
+     "start": 21.34,
+     "end": 22.18,
+     "p": 0
+    },
+    {
+     "text": "there",
+     "start": 22.18,
+     "end": 22.6,
+     "p": 0
+    },
+    {
+     "text": "expected",
+     "start": 22.6,
+     "end": 23.02,
+     "p": 0
+    },
+    {
+     "text": "her",
+     "start": 23.02,
+     "end": 23.36,
+     "p": 0
+    },
+    {
+     "text": "to",
+     "start": 23.36,
+     "end": 23.52,
+     "p": 0
+    },
+    {
+     "text": "talk",
+     "start": 23.52,
+     "end": 23.82,
+     "p": 0
+    },
+    {
+     "text": "very",
+     "start": 23.82,
+     "end": 24.1,
+     "p": 0
+    },
+    {
+     "text": "much,",
+     "start": 24.1,
+     "end": 24.48,
+     "p": 0
+    },
+    {
+     "text": "and",
+     "start": 24.48,
+     "end": 25.14,
+     "p": 0
+    },
+    {
+     "text": "that",
+     "start": 25.14,
+     "end": 25.42,
+     "p": 0
+    },
+    {
+     "text": "had",
+     "start": 25.42,
+     "end": 25.64,
+     "p": 0
+    },
+    {
+     "text": "suited",
+     "start": 25.64,
+     "end": 25.96,
+     "p": 0
+    },
+    {
+     "text": "her",
+     "start": 25.96,
+     "end": 26.3,
+     "p": 0
+    },
+    {
+     "text": "perfectly.",
+     "start": 26.3,
+     "end": 26.92,
+     "p": 0
+    },
+    {
+     "text": "In",
+     "start": 26.92,
+     "end": 27.98,
+     "p": 0
+    },
+    {
+     "text": "Kettlewell,",
+     "start": 27.98,
+     "end": 28.62,
+     "p": 0
+    },
+    {
+     "text": "being",
+     "start": 28.62,
+     "end": 29.14,
+     "p": 0
+    },
+    {
+     "text": "quiet",
+     "start": 29.14,
+     "end": 29.7,
+     "p": 0
+    },
+    {
+     "text": "was",
+     "start": 29.7,
+     "end": 29.94,
+     "p": 0
+    },
+    {
+     "text": "simply",
+     "start": 29.94,
+     "end": 30.36,
+     "p": 0
+    },
+    {
+     "text": "part",
+     "start": 30.36,
+     "end": 30.7,
+     "p": 0
+    },
+    {
+     "text": "of",
+     "start": 30.7,
+     "end": 30.86,
+     "p": 0
+    },
+    {
+     "text": "who",
+     "start": 30.86,
+     "end": 31.04,
+     "p": 0
+    },
+    {
+     "text": "she",
+     "start": 31.04,
+     "end": 31.2,
+     "p": 0
+    },
+    {
+     "text": "was,",
+     "start": 31.2,
+     "end": 31.82,
+     "p": 0
+    },
+    {
+     "text": "like",
+     "start": 31.82,
+     "end": 32.34,
+     "p": 0
+    },
+    {
+     "text": "her",
+     "start": 32.34,
+     "end": 32.54,
+     "p": 0
+    },
+    {
+     "text": "red",
+     "start": 32.54,
+     "end": 32.76,
+     "p": 0
+    },
+    {
+     "text": "hair",
+     "start": 32.76,
+     "end": 33.22,
+     "p": 0
+    },
+    {
+     "text": "or",
+     "start": 33.22,
+     "end": 33.58,
+     "p": 0
+    },
+    {
+     "text": "her",
+     "start": 33.58,
+     "end": 33.74,
+     "p": 0
+    },
+    {
+     "text": "grandad's",
+     "start": 33.74,
+     "end": 34.34,
+     "p": 0
+    },
+    {
+     "text": "old",
+     "start": 34.34,
+     "end": 34.58,
+     "p": 0
+    },
+    {
+     "text": "watch",
+     "start": 34.58,
+     "end": 34.92,
+     "p": 0
+    },
+    {
+     "text": "on",
+     "start": 34.92,
+     "end": 35.1,
+     "p": 0
+    },
+    {
+     "text": "her",
+     "start": 35.1,
+     "end": 35.28,
+     "p": 0
+    },
+    {
+     "text": "wrist.",
+     "start": 35.28,
+     "end": 35.64,
+     "p": 0
+    }
+   ],
+   "taps": [
+    {
+     "words": [
+      22
+     ],
+     "label": "sheep",
+     "pos": "nom",
+     "translation": "le mouton",
+     "context": "She came from Kettlewell, a village in the Yorkshire Dales with one shop, two pubs, a river called the Wharfe and more sheep than people."
+    },
+    {
+     "words": [
+      56,
+      57,
+      58
+     ],
+     "label": "in a row",
+     "pos": "expression",
+     "translation": "d'affilée",
+     "context": "Everybody knew that she was \"the clever Hale girl\", the one who read books at the bus stop and won the poetry prize at school three years in a row."
+    },
+    {
+     "words": [
+      70
+     ],
+     "label": "suited",
+     "pos": "verbe",
+     "translation": "convenir à",
+     "context": "Nobody there expected her to talk very much, and that had suited her perfectly."
+    }
+   ]
+  }
+ ]
+}

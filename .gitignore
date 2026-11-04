@@ -19,3 +19,7 @@ supabase/.branches/
 .DS_Store
 Thumbs.db
 .idea/
+
+# Vidéos et sons rendus, filmés ou générés (lourds, regénérables)
+*.mp4
+*.mp3

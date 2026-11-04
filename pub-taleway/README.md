@@ -118,3 +118,46 @@ $F -i out/<video>.mp4 -af ebur128=peak=true -f null -        # volume (I ≈ -14
 Planche rapide : `-vf "fps=1,scale=480:-1,tile=5x6" -frames:v 1 check/sheet.png`.
 Synchro : comparer une image de la scène d'écoute avec le mot attendu dans
 `content/alignments/b1-the-quiet-signal.json` (`pages['chapter_1.page_2'].words`).
+
+## Short « Quel est ton vrai niveau en anglais ? »
+
+Short vertical (Reels, TikTok, YouTube Shorts) entièrement animé dans Remotion, sans tournage :
+trois phrases A2 / B1 / C1 lues par la voix des histoires et surlignées mot à mot, puis une main
+touche les mots difficiles et leur traduction s'affiche. Fin : « Où as-tu décroché ? ».
+
+```bash
+node short-niveau-audio.mjs        # voix + instants des mots (public/short-niveau/, src/short-niveau-timings.json)
+npx remotion render src/index.ts ShortNiveau out/short-niveau-1080x1920.mp4 --codec=h264 --audio-codec=aac --crf=18
+npx remotion render src/index.ts ShortNiveauPt out/short-niveau-pt-br-1080x1920.mp4 --codec=h264 --audio-codec=aac --crf=18
+node loudnorm.mjs out/short-niveau-*.mp4
+```
+
+- Phrases dans `short-niveau-audio.mjs` (`SENTENCES`), mots difficiles et traductions dans
+  `src/ShortNiveau.tsx` (`LEVELS[].hard`, indices des mots de la phrase). Changer une phrase :
+  relancer l'audio (une phrase inchangée n'est pas regénérée), puis vérifier les indices.
+- 30 i/s ; les durées suivent la voix. Contenu entre y ≈ 200 et 1200 : le bas de l'écran est
+  couvert par l'interface des applis (légende, boutons).
+- Langues : textes à l'écran dans `TEXTS`, traductions des mots dans `hard[].tr` (fr, pt). La voix
+  anglaise est commune.
+- Bandeau du bas (tous les écrans) : `public/logo-t.png` (icône de l'appli) et le badge officiel
+  Google Play de la langue (`public/badges/`, téléchargé depuis play.google.com/intl/en_us/badges).
+
+## Short « Séance de lecture en anglais » (Write Back, B2)
+
+La main ouvre Write Back depuis l'accueil (deux glissés jusqu'à l'étagère B2, vraies couvertures),
+puis le chapitre 1 dans le sommaire, et la page 1 est lue dans l'écran de lecture de l'appli redessiné
+en grand (`src/ShortLecture.tsx`, téléphone de 760 px de large, écran en dp de l'appli × 1,95).
+Audio et alignement mot à mot RÉELS de l'appli : le surlignage suit la voix comme dans l'appli.
+La lecture s'arrête sur 3 mots (fiche de traduction, traduction du lexique de l'appli).
+
+```bash
+node short-lecture-data.mjs     # audio des pages (public/short-lecture/) + src/short-lecture-data.json
+npx remotion render src/index.ts ShortLecture out/short-lecture-write-back-1080x1920.mp4 --codec=h264 --audio-codec=aac --crf=18
+node loudnorm.mjs out/short-lecture-write-back-1080x1920.mp4
+```
+
+- Mots touchés : `TAPS` dans `short-lecture-data.mjs` (texte affiché + entrée du lexique,
+  `short` pour une traduction plus courte que celle de l'appli).
+- Minutage dans `ShortLecture.tsx` : navigation (`NAV`, `PLAY_AT`), pause de 3,6 s par mot touché,
+  fin 4,5 s. Seule la page 1 est lue (`PAGES`) ; la page 2 reste dans les données.
+- Les mots sont mesurés dans la page (positions pour la main et le défilement) : `delayRender`.

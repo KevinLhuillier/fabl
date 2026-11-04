@@ -1,0 +1,205 @@
+{
+  "a2": {
+    "text": "Every night, the old fisherman tells his grandson a story about the sea.",
+    "duration": 5.28,
+    "words": [
+      {
+        "word": "Every",
+        "start": 0,
+        "end": 0.32
+      },
+      {
+        "word": "night,",
+        "start": 0.4,
+        "end": 1.04
+      },
+      {
+        "word": "the",
+        "start": 1.12,
+        "end": 1.2
+      },
+      {
+        "word": "old",
+        "start": 1.28,
+        "end": 1.44
+      },
+      {
+        "word": "fisherman",
+        "start": 1.6,
+        "end": 2.08
+      },
+      {
+        "word": "tells",
+        "start": 2.16,
+        "end": 2.4
+      },
+      {
+        "word": "his",
+        "start": 2.48,
+        "end": 2.56
+      },
+      {
+        "word": "grandson",
+        "start": 2.64,
+        "end": 3.28
+      },
+      {
+        "word": "a",
+        "start": 3.36,
+        "end": 3.44
+      },
+      {
+        "word": "story",
+        "start": 3.52,
+        "end": 4
+      },
+      {
+        "word": "about",
+        "start": 4.08,
+        "end": 4.32
+      },
+      {
+        "word": "the",
+        "start": 4.4,
+        "end": 4.48
+      },
+      {
+        "word": "sea.",
+        "start": 4.56,
+        "end": 5.28
+      }
+    ]
+  },
+  "b1": {
+    "text": "She had been waiting for hours when the train finally pulled into the station.",
+    "duration": 4.72,
+    "words": [
+      {
+        "word": "She",
+        "start": 0,
+        "end": 0.24
+      },
+      {
+        "word": "had",
+        "start": 0.32,
+        "end": 0.4
+      },
+      {
+        "word": "been",
+        "start": 0.48,
+        "end": 0.56
+      },
+      {
+        "word": "waiting",
+        "start": 0.64,
+        "end": 0.88
+      },
+      {
+        "word": "for",
+        "start": 0.96,
+        "end": 1.28
+      },
+      {
+        "word": "hours",
+        "start": 1.6,
+        "end": 1.92
+      },
+      {
+        "word": "when",
+        "start": 2,
+        "end": 2.08
+      },
+      {
+        "word": "the",
+        "start": 2.12,
+        "end": 2.16
+      },
+      {
+        "word": "train",
+        "start": 2.24,
+        "end": 2.64
+      },
+      {
+        "word": "finally",
+        "start": 2.72,
+        "end": 3.2
+      },
+      {
+        "word": "pulled",
+        "start": 3.24,
+        "end": 3.44
+      },
+      {
+        "word": "into",
+        "start": 3.52,
+        "end": 3.68
+      },
+      {
+        "word": "the",
+        "start": 3.76,
+        "end": 3.84
+      },
+      {
+        "word": "station.",
+        "start": 4.12,
+        "end": 4.72
+      }
+    ]
+  },
+  "c1": {
+    "text": "Despite his misgivings, he reluctantly agreed to shoulder the blame.",
+    "duration": 4.56,
+    "words": [
+      {
+        "word": "Despite",
+        "start": 0,
+        "end": 0.48
+      },
+      {
+        "word": "his",
+        "start": 0.56,
+        "end": 0.64
+      },
+      {
+        "word": "misgivings,",
+        "start": 0.72,
+        "end": 1.76
+      },
+      {
+        "word": "he",
+        "start": 1.84,
+        "end": 1.92
+      },
+      {
+        "word": "reluctantly",
+        "start": 2,
+        "end": 2.64
+      },
+      {
+        "word": "agreed",
+        "start": 2.72,
+        "end": 3.12
+      },
+      {
+        "word": "to",
+        "start": 3.16,
+        "end": 3.2
+      },
+      {
+        "word": "shoulder",
+        "start": 3.36,
+        "end": 3.68
+      },
+      {
+        "word": "the",
+        "start": 3.72,
+        "end": 3.76
+      },
+      {
+        "word": "blame.",
+        "start": 3.84,
+        "end": 4.56
+      }
+    ]
+  }
+}
