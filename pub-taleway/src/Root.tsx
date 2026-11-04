@@ -67,6 +67,16 @@ export const Root = () => (
       height={1920}
       fps={LECTURE_FPS}
       durationInFrames={LECTURE_DURATION}
+      defaultProps={{ lang: 'fr' as const }}
+    />
+    <Composition
+      id="ShortLecturePt"
+      component={ShortLecture}
+      width={1080}
+      height={1920}
+      fps={LECTURE_FPS}
+      durationInFrames={LECTURE_DURATION}
+      defaultProps={{ lang: 'pt' as const }}
     />
   </>
 );

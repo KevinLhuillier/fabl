@@ -51,8 +51,79 @@ const C = {
   backdrop: 'rgba(37,34,58,0.35)',
 };
 
+export type LectureLang = 'fr' | 'pt';
+
+/** Textes de l'appli (apps/mobile/src/i18n) et de la vidéo, par langue. */
+const TEXTS = {
+  fr: {
+    title: 'Séance de lecture *en anglais*',
+    level: 'Niveau',
+    home: 'Que lire aujourd’hui ?',
+    goal: 'Objectif du jour',
+    stories: (n: number) => `${n} histoires`,
+    tile: (min: number, ch: number) => `${min} min · ${ch} chapitres`,
+    tabs: ['Histoires', 'Mes mots', 'Profil'],
+    levels: { A2: 'Élémentaire', B1: 'Intermédiaire', B2: 'Intermédiaire avancé' } as Record<
+      string,
+      string
+    >,
+    storyStats: (w: string, ch: number) => `${w} mots · ${ch} chapitres`,
+    contents: 'SOMMAIRE',
+    start: 'COMMENCER LA LECTURE',
+    chapterStats: (p: number, w: string) => `${p} pages · ${w} mots`,
+    caption: (n: number, title: string, page: number, total: number) =>
+      `Chapitre ${n} · ${title} · Page ${page}/${total}`,
+    added: 'Ajouté à tes mots',
+    gotIt: 'COMPRIS',
+    outro: 'Lis la suite sur *Taleway*',
+    badge: 'badges/fr.png',
+    thousands: '\u00A0',
+    /** Musique de fond, et un tic à chaque toucher de la lecture. */
+    music: true,
+    navTicks: false,
+    readerTicks: true,
+  },
+  pt: {
+    title: 'Sessão de leitura *em inglês*',
+    level: 'Nível',
+    home: 'O que ler hoje?',
+    goal: 'Meta do dia',
+    stories: (n: number) => `${n} histórias`,
+    tile: (min: number, ch: number) => `${min} min · ${ch} capítulos`,
+    tabs: ['Histórias', 'Minhas palavras', 'Perfil'],
+    levels: { A2: 'Básico', B1: 'Intermediário', B2: 'Intermediário avançado' } as Record<
+      string,
+      string
+    >,
+    storyStats: (w: string, ch: number) => `${w} palavras · ${ch} capítulos`,
+    contents: 'SUMÁRIO',
+    start: 'COMEÇAR A LER',
+    chapterStats: (p: number, w: string) => `${p} páginas · ${w} palavras`,
+    caption: (n: number, title: string, page: number, total: number) =>
+      `Capítulo ${n} · ${title} · Página ${page}/${total}`,
+    added: 'Adicionada às suas palavras',
+    gotIt: 'ENTENDI',
+    outro: 'Continue lendo no *Taleway*',
+    badge: 'badges/pt-br.png',
+    thousands: '.',
+    /** Seulement la voix, et un tic pour le choix de l'histoire et du chapitre. */
+    music: false,
+    navTicks: true,
+    readerTicks: false,
+  },
+};
+const LangContext = React.createContext<LectureLang>('fr');
+const useL = () => TEXTS[React.useContext(LangContext)];
+const useLang = () => React.useContext(LangContext);
+
 type Word = { text: string; start: number; end: number; p: number };
-type Tap = { words: number[]; label: string; pos: string; translation: string; context: string };
+type Tap = {
+  words: number[];
+  label: string;
+  pos: Record<LectureLang, string>;
+  translation: Record<LectureLang, string>;
+  context: string;
+};
 type PageData = { n: number; duration: number; words: Word[]; taps: Tap[] };
 type Measure = { tops: number[]; lefts: number[]; height: number };
 /** Seule la page 1 est lue. */
@@ -388,6 +459,8 @@ function PageText({
 
 /** La fiche de traduction de l'appli (WordSheet). */
 function WordSheet({ tap, open }: { tap: Tap; open: number }) {
+  const L = useL();
+  const lang = useLang();
   return (
     <>
       <div
@@ -445,11 +518,11 @@ function WordSheet({ tap, open }: { tap: Tap; open: number }) {
               padding: '3px 12px',
               borderRadius: 99,
             }}>
-            {tap.pos}
+            {tap.pos[lang]}
           </div>
         </div>
         <div style={{ fontWeight: 800, fontSize: 20, lineHeight: '26px', color: C.violet }}>
-          {tap.translation}
+          {tap.translation[lang]}
         </div>
         <div
           style={{
@@ -472,7 +545,7 @@ function WordSheet({ tap, open }: { tap: Tap; open: number }) {
             fontSize: 13,
           }}>
           <Ico name="check" size={16} color={C.mintShade} />
-          Ajouté à tes mots
+          {L.added}
         </div>
         <div
           style={{
@@ -488,7 +561,7 @@ function WordSheet({ tap, open }: { tap: Tap; open: number }) {
             alignItems: 'center',
             justifyContent: 'center',
           }}>
-          COMPRIS
+          {L.gotIt}
         </div>
       </div>
     </>
@@ -542,6 +615,7 @@ function PageAudio({ progress, playing }: { progress: number; playing: boolean }
 /** L'écran de lecture, dans le téléphone (dp). */
 function ReaderScreen() {
   const frame = useCurrentFrame();
+  const L = useL();
   const index = Math.min(pageAt(frame), PAGES.length - 1);
   const page = PAGES[index]!;
   const time = timeline.pages[index]!;
@@ -787,7 +861,7 @@ function ReaderScreen() {
             textTransform: 'uppercase',
             marginBottom: 16,
           }}>
-          Chapitre 1 · {data.chapterTitle} · Page {page.n}/{data.pageCount}
+          {L.caption(1, data.chapterTitle, page.n, data.pageCount)}
         </div>
         <div style={{ height: viewport, overflow: 'hidden', position: 'relative' }}>
           <PageText
@@ -853,7 +927,7 @@ const LEVEL_C: Record<string, { solid: string; shade: string; soft: string; name
   B2: { solid: C.sun, shade: C.sunShade, soft: C.sunSoft, name: 'Intermédiaire avancé' },
 };
 /** « 19 015 » : séparateur de milliers français. */
-const num = (n: number) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+const num = (n: number, sep: string) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, sep);
 const minutes = (words: number) => Math.max(1, Math.round(words / 150));
 
 // Mise en page de l'accueil (dp, dans le contenu qui défile).
@@ -1031,6 +1105,7 @@ function Tile({
   story: (typeof data.shelves)[number]['stories'][number];
   level: string;
 }) {
+  const L = useL();
   return (
     <div style={{ width: TILE_W, flexShrink: 0, fontFamily: FONT }}>
       <div style={{ position: 'relative', width: TILE_W, height: COVER_H }}>
@@ -1083,7 +1158,7 @@ function Tile({
         {story.title}
       </div>
       <div style={{ fontWeight: 700, fontSize: 13, lineHeight: '17px', color: C.inkSoft }}>
-        {minutes(story.words)} min · {story.chapters} chapitres
+        {L.tile(minutes(story.words), story.chapters)}
       </div>
       <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 8 }}>
         <div style={{ flex: 1, height: 8, borderRadius: 99, background: C.line }} />
@@ -1095,6 +1170,7 @@ function Tile({
 
 function HomeScreen() {
   const frame = useCurrentFrame();
+  const L = useL();
   const scroll = homeScroll(frame);
   return (
     <div
@@ -1114,9 +1190,7 @@ function HomeScreen() {
           transform: `translateY(${-scroll}px)`,
         }}>
         <div style={{ padding: '24px 24px 0', display: 'flex', alignItems: 'center', height: 40 }}>
-          <div style={{ flex: 1, fontWeight: 900, fontSize: 26, color: C.ink }}>
-            Que lire aujourd’hui ?
-          </div>
+          <div style={{ flex: 1, fontWeight: 900, fontSize: 26, color: C.ink }}>{L.home}</div>
           <div
             style={{
               width: 40,
@@ -1168,9 +1242,7 @@ function HomeScreen() {
           }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
             <Ico name="target" size={20} color={C.sunShade} />
-            <span style={{ flex: 1, fontWeight: 800, fontSize: 17, color: C.ink }}>
-              Objectif du jour
-            </span>
+            <span style={{ flex: 1, fontWeight: 800, fontSize: 17, color: C.ink }}>{L.goal}</span>
             <span style={{ fontWeight: 700, fontSize: 14, color: C.inkSoft }}>4 / 10 min</span>
           </div>
           <div style={{ marginTop: 14, height: 14, borderRadius: 99, background: C.line }}>
@@ -1196,10 +1268,10 @@ function HomeScreen() {
               }}>
               <LevelBadge level={shelf.level} />
               <span style={{ flex: 1, fontWeight: 800, fontSize: 20, color: C.ink }}>
-                {LEVEL_C[shelf.level]!.name}
+                {L.levels[shelf.level]}
               </span>
               <span style={{ fontWeight: 700, fontSize: 13, color: C.inkSoft }}>
-                {shelf.stories.length} histoires
+                {L.stories(shelf.stories.length)}
               </span>
             </div>
             <div style={{ display: 'flex', gap: TILE_GAP, marginTop: 12 }}>
@@ -1228,9 +1300,9 @@ function HomeScreen() {
           justifyContent: 'space-around',
         }}>
         {[
-          { icon: 'map', label: 'Histoires', on: true },
-          { icon: 'library', label: 'Mes mots', on: false },
-          { icon: 'user', label: 'Profil', on: false },
+          { icon: 'map', label: L.tabs[0], on: true },
+          { icon: 'library', label: L.tabs[1], on: false },
+          { icon: 'user', label: L.tabs[2], on: false },
         ].map((t) => (
           <div
             key={t.icon}
@@ -1261,6 +1333,7 @@ function Tally({ n, color }: { n: number; color: string }) {
 
 function StoryScreen() {
   const lvl = LEVEL_C[data.level]!;
+  const L = useL();
   return (
     <div
       style={{
@@ -1289,7 +1362,7 @@ function StoryScreen() {
             padding: '6px 14px',
             borderRadius: 99,
           }}>
-          {data.level} · {lvl.name}
+          {data.level} · {L.levels[data.level]}
         </div>
       </div>
       <div
@@ -1335,7 +1408,7 @@ function StoryScreen() {
                 color: lvl.shade,
               }}>
               <Ico name="book" size={16} color={lvl.shade} />
-              {num(data.words)} mots · {data.chapters.length} chapitres
+              {L.storyStats(num(data.words, L.thousands), data.chapters.length)}
             </div>
             <div
               style={{
@@ -1380,7 +1453,8 @@ function StoryScreen() {
           fontSize: 14,
           letterSpacing: 3,
         }}>
-        <i style={{ display: 'block', width: 40, height: 2, background: lvl.solid }} />◆ SOMMAIRE ◆
+        <i style={{ display: 'block', width: 40, height: 2, background: lvl.solid }} />◆{' '}
+        {L.contents} ◆
         <i style={{ display: 'block', width: 40, height: 2, background: lvl.solid }} />
       </div>
       <div
@@ -1417,7 +1491,7 @@ function StoryScreen() {
                   color: i === 0 ? lvl.shade : C.inkMuted,
                   letterSpacing: i === 0 ? 0.5 : 0,
                 }}>
-                {i === 0 ? 'COMMENCER LA LECTURE' : `${ch.pages} pages · ${num(ch.words)} mots`}
+                {i === 0 ? L.start : L.chapterStats(ch.pages, num(ch.words, L.thousands))}
               </div>
             </div>
             {i === 0 ? (
@@ -1551,6 +1625,7 @@ function Header() {
   const { fps } = useVideoConfig();
   const a = spring({ frame, fps, config: { damping: 14 } });
   const b = spring({ frame: frame - s(0.25), fps, config: { damping: 14 } });
+  const L = useL();
   return (
     <div
       style={{
@@ -1584,7 +1659,7 @@ function Header() {
           opacity: b,
           transform: `scale(${0.85 + b * 0.15})`,
         }}>
-        <Rich text="Séance de lecture *en anglais*" />
+        <Rich text={L.title} />
       </div>
       <div
         style={{
@@ -1608,7 +1683,7 @@ function Header() {
             borderRadius: 999,
             boxShadow: `0 6px 0 ${C.sunShade}`,
           }}>
-          Niveau {data.level}
+          {L.level} {data.level}
         </span>
       </div>
     </div>
@@ -1621,6 +1696,7 @@ function Outro() {
   const bg = interpolate(frame, [0, s(0.5)], [0, 1], clamp);
   const a = spring({ frame: frame - s(0.3), fps, config: { damping: 12 } });
   const b = spring({ frame: frame - s(0.8), fps, config: { damping: 14 } });
+  const L = useL();
   return (
     <AbsoluteFill
       style={{
@@ -1654,10 +1730,10 @@ function Outro() {
           opacity: a,
           transform: `translateY(${(1 - a) * 30}px)`,
         }}>
-        <Rich text="Lis la suite sur *Taleway*" />
+        <Rich text={L.outro} />
       </div>
       <Img
-        src={staticFile('badges/fr.png')}
+        src={staticFile(L.badge)}
         style={{
           marginTop: 70,
           height: 150,
@@ -1669,8 +1745,17 @@ function Outro() {
   );
 }
 
-export function ShortLecture() {
+export function ShortLecture({ lang = 'fr' }: { lang?: LectureLang }) {
+  return (
+    <LangContext.Provider value={lang}>
+      <ShortLectureScenes />
+    </LangContext.Provider>
+  );
+}
+
+function ShortLectureScenes() {
   const frame = useCurrentFrame();
+  const L = useL();
   const music = (f: number) =>
     interpolate(f, [0, s(1), LECTURE_DURATION - s(2), LECTURE_DURATION], [0, 0.05, 0.05, 0], clamp);
   return (
@@ -1697,7 +1782,7 @@ export function ShortLecture() {
           }}
         />
       ))}
-      <Audio src={staticFile('music.wav')} volume={music} loop />
+      {L.music ? <Audio src={staticFile('music.wav')} volume={music} loop /> : null}
       <Header />
       <Phone>
         <AppScreens />
@@ -1713,11 +1798,16 @@ export function ShortLecture() {
         )),
       )}
       {[
-        ...timeline.pages.flatMap((p) => [
-          p.play,
-          ...p.pauses.flatMap((pp) => [pp.tap, pp.frame + GOT_IT_AT]),
-        ]),
-        ...timeline.turns,
+        ...(L.readerTicks
+          ? [
+              ...timeline.pages.flatMap((p) => [
+                p.play,
+                ...p.pauses.flatMap((pp) => [pp.tap, pp.frame + GOT_IT_AT]),
+              ]),
+              ...timeline.turns,
+            ]
+          : []),
+        ...(L.navTicks ? [NAV.book, NAV.chapter] : []),
       ].map((f) => (
         <Sequence key={f} from={f}>
           <Audio src={staticFile('tick.wav')} volume={0.6} />

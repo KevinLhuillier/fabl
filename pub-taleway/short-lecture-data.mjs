@@ -25,17 +25,32 @@ const TAPS = {
   ],
   2: [
     { text: 'sheep', entry: ['sheep', 'NOUN'] },
-    { text: 'in a row.', entry: ['in a row', 'PHRASE'], label: 'in a row', short: "d'affilée" },
-    { text: 'suited', entry: ['suit', 'VERB'], short: 'convenir à' },
+    {
+      text: 'in a row.',
+      entry: ['in a row', 'PHRASE'],
+      label: 'in a row',
+      short: { fr: "d'affilée", pt: 'seguidos' },
+    },
+    { text: 'suited', entry: ['suit', 'VERB'], short: { fr: 'convenir à', pt: 'convir a' } },
   ],
 };
-const POS_FR = { NOUN: 'nom', VERB: 'verbe', ADJ: 'adjectif', ADV: 'adverbe', PHRASE: 'expression' };
+/** Nature du mot, comme l'appli l'affiche (i18n pos). */
+const POS = {
+  fr: { NOUN: 'nom', VERB: 'verbe', ADJ: 'adjectif', ADV: 'adverbe', PHRASE: 'expression' },
+  pt: { NOUN: 'substantivo', VERB: 'verbo', ADJ: 'adjetivo', ADV: 'advérbio', PHRASE: 'expressão' },
+};
+const LANGS = ['fr', 'pt'];
 
 const md = readFileSync(ROOT + `content/stories/${STORY}.md`, 'utf8');
 const chapterTitle = md.match(/^# (.+)$/m)[1];
 const pageBlocks = md.split(/\r?\n---\r?\n/).filter((p) => p.includes('@audio'));
 const alignment = JSON.parse(readFileSync(ROOT + `content/alignments/${STORY}.json`, 'utf8')).pages;
-const lexicon = JSON.parse(readFileSync(ROOT + 'content/translations/fr.json', 'utf8')).entries;
+const lexicons = Object.fromEntries(
+  LANGS.map((l) => [
+    l,
+    JSON.parse(readFileSync(ROOT + `content/translations/${l}.json`, 'utf8')).entries,
+  ]),
+);
 const norm = (s) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
 
 const pages = [];
@@ -82,13 +97,20 @@ for (const n of [1, 2]) {
     const parts = t.text.split(' ');
     const at = words.findIndex((_, i) => parts.every((p, j) => words[i + j]?.text === p));
     if (at < 0) throw new Error(`page ${n} : « ${t.text} » introuvable`);
-    const e = lexicon.find((x) => x.word === t.entry[0] && x.pos === t.entry[1]);
-    if (!e) throw new Error(`lexique : ${t.entry.join(' ')}`);
+    // Traduction de l'appli dans chaque langue (ou plus courte : `short`).
+    const tr = {};
+    const pos = {};
+    for (const l of LANGS) {
+      const e = lexicons[l].find((x) => x.word === t.entry[0] && x.pos === t.entry[1]);
+      if (!e) throw new Error(`lexique ${l} : ${t.entry.join(' ')}`);
+      tr[l] = t.short?.[l] ?? e.translation;
+      pos[l] = POS[l][e.pos] ?? e.pos.toLowerCase();
+    }
     return {
       words: parts.map((_, j) => at + j),
       label: t.label ?? t.text,
-      pos: POS_FR[e.pos] ?? e.pos.toLowerCase(),
-      translation: t.short ?? e.translation,
+      pos,
+      translation: tr,
       context: sentence(at),
     };
   });
@@ -101,7 +123,7 @@ for (const n of [1, 2]) {
   }
   pages.push({ n, duration: words.at(-1).end, words, taps });
   console.log(`page ${n} : ${words.length} mots, ${words.at(-1).end.toFixed(1)} s`);
-  for (const t of taps) console.log(`   ${t.label} [${t.pos}] → ${t.translation}`);
+  for (const t of taps) console.log(`   ${t.label} → ${t.translation.fr} | ${t.translation.pt}`);
 }
 
 // ---------------------------------------------------------------------------

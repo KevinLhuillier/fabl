@@ -153,6 +153,7 @@ La lecture s'arrête sur 3 mots (fiche de traduction, traduction du lexique de l
 ```bash
 node short-lecture-data.mjs     # audio des pages (public/short-lecture/) + src/short-lecture-data.json
 npx remotion render src/index.ts ShortLecture out/short-lecture-write-back-1080x1920.mp4 --codec=h264 --audio-codec=aac --crf=18
+npx remotion render src/index.ts ShortLecturePt out/short-lecture-write-back-pt-br-1080x1920.mp4 --codec=h264 --audio-codec=aac --crf=18
 node loudnorm.mjs out/short-lecture-write-back-1080x1920.mp4
 ```
 
@@ -160,4 +161,6 @@ node loudnorm.mjs out/short-lecture-write-back-1080x1920.mp4
   `short` pour une traduction plus courte que celle de l'appli).
 - Minutage dans `ShortLecture.tsx` : navigation (`NAV`, `PLAY_AT`), pause de 3,6 s par mot touché,
   fin 4,5 s. Seule la page 1 est lue (`PAGES`) ; la page 2 reste dans les données.
+- Langues : `TEXTS` (fr, pt) — textes de l'appli, musique ou non, tics à la lecture ou seulement
+  au choix de l'histoire et du chapitre (version brésilienne : voix seule + ces deux tics).
 - Les mots sont mesurés dans la page (positions pour la main et le défilement) : `delayRender`.

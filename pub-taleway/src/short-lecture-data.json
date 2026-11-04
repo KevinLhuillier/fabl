@@ -1253,8 +1253,14 @@
       15
      ],
      "label": "out loud",
-     "pos": "expression",
-     "translation": "à voix haute",
+     "pos": {
+      "fr": "expression",
+      "pt": "expressão"
+     },
+     "translation": {
+      "fr": "à voix haute",
+      "pt": "em voz alta"
+     },
      "context": "On her ninth day in Durham, Rosalind Hale counted the words she had spoken out loud since breakfast."
     },
     {
@@ -1262,8 +1268,14 @@
       74
      ],
      "label": "whispered",
-     "pos": "verbe",
-     "translation": "chuchoter",
+     "pos": {
+      "fr": "verbe",
+      "pt": "verbo"
+     },
+     "translation": {
+      "fr": "chuchoter",
+      "pt": "sussurrar"
+     },
      "context": "Twelve, if she counted the \"oh\" she had whispered when she missed the bus."
     },
     {
@@ -1272,8 +1284,14 @@
       88
      ],
      "label": "proud of",
-     "pos": "expression",
-     "translation": "être fier de, être fière de",
+     "pos": {
+      "fr": "expression",
+      "pt": "expressão"
+     },
+     "translation": {
+      "fr": "être fier de, être fière de",
+      "pt": "ter orgulho de, estar orgulhoso de"
+     },
      "context": "It was not a record she was proud of."
     }
    ]
@@ -1865,8 +1883,14 @@
       22
      ],
      "label": "sheep",
-     "pos": "nom",
-     "translation": "le mouton",
+     "pos": {
+      "fr": "nom",
+      "pt": "substantivo"
+     },
+     "translation": {
+      "fr": "le mouton",
+      "pt": "a ovelha"
+     },
      "context": "She came from Kettlewell, a village in the Yorkshire Dales with one shop, two pubs, a river called the Wharfe and more sheep than people."
     },
     {
@@ -1876,8 +1900,14 @@
       58
      ],
      "label": "in a row",
-     "pos": "expression",
-     "translation": "d'affilée",
+     "pos": {
+      "fr": "expression",
+      "pt": "expressão"
+     },
+     "translation": {
+      "fr": "d'affilée",
+      "pt": "seguidos"
+     },
      "context": "Everybody knew that she was \"the clever Hale girl\", the one who read books at the bus stop and won the poetry prize at school three years in a row."
     },
     {
@@ -1885,8 +1915,14 @@
       70
      ],
      "label": "suited",
-     "pos": "verbe",
-     "translation": "convenir à",
+     "pos": {
+      "fr": "verbe",
+      "pt": "verbo"
+     },
+     "translation": {
+      "fr": "convenir à",
+      "pt": "convir a"
+     },
      "context": "Nobody there expected her to talk very much, and that had suited her perfectly."
     }
    ]
