@@ -1,0 +1,51 @@
+diff --git a/node_modules/expo-speech-recognition/android/src/main/java/expo/modules/speechrecognition/ExpoSpeechService.kt b/node_modules/expo-speech-recognition/android/src/main/java/expo/modules/speechrecognition/ExpoSpeechService.kt
+index 4a0604a..5047abf 100644
+--- a/node_modules/expo-speech-recognition/android/src/main/java/expo/modules/speechrecognition/ExpoSpeechService.kt
++++ b/node_modules/expo-speech-recognition/android/src/main/java/expo/modules/speechrecognition/ExpoSpeechService.kt
+@@ -567,6 +567,37 @@ class ExpoSpeechService(
+         return resultsList
+     }
+ 
++    /**
++     * Google's recognizer keeps its latest words, not settled yet, apart from the partial
++     * transcript ("android.speech.extra.UNSTABLE_TEXT"). Appending them shows each word as
++     * soon as it is heard, instead of once the next words settle it.
++     */
++    private fun withUnstableText(
++        results: List<Map<String, Any>>,
++        bundle: Bundle?,
++    ): List<Map<String, Any>> {
++        val unstable =
++            bundle
++                ?.getStringArrayList("android.speech.extra.UNSTABLE_TEXT")
++                ?.firstOrNull()
++                ?.trim()
++                .orEmpty()
++        if (unstable.isEmpty()) return results
++        if (results.isEmpty()) {
++            return listOf(
++                mapOf(
++                    "transcript" to unstable,
++                    "confidence" to 0f,
++                    "segments" to listOf<Map<String, Any>>(),
++                ),
++            )
++        }
++        val first = results[0]
++        val stable = first["transcript"]?.toString()?.trim().orEmpty()
++        val transcript = if (stable.isEmpty()) unstable else "$stable $unstable"
++        return listOf(first + ("transcript" to transcript)) + results.drop(1)
++    }
++
+     private fun getSegmentConfidences(results: Bundle?): List<Map<String, Any>> {
+         if (results == null || Build.VERSION.SDK_INT < Build.VERSION_CODES.UPSIDE_DOWN_CAKE) {
+             return listOf()
+@@ -639,7 +670,7 @@ class ExpoSpeechService(
+     }
+ 
+     override fun onPartialResults(partialResults: Bundle?) {
+-        val partialResultsList = getResults(partialResults)
++        val partialResultsList = withUnstableText(getResults(partialResults), partialResults)
+         // Avoid sending result event if there was an empty result, or the first result is an empty string
+         val nonEmptyStrings = partialResultsList.filter { it["transcript"]?.toString()?.isNotEmpty() ?: false }
+ 

@@ -57,6 +57,13 @@
           "icon": "./assets/images/notification-icon.png",
           "color": "#6C3BE0"
         }
+      ],
+      [
+        "expo-speech-recognition",
+        {
+          "microphonePermission": "Taleway uses the microphone to listen to you read a page aloud and show the words to work on.",
+          "speechRecognitionPermission": "Taleway recognizes your speech to follow your reading aloud and show the words to work on."
+        }
       ]
     ],
     "experiments": {

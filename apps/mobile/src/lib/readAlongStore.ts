@@ -1,7 +1,15 @@
 import { useSyncExternalStore } from 'react';
 
-/** Voice-over progress: tokens up to `readUpTo` are read, `current` is being spoken. */
-export type ReadAlong = { readUpTo: number; current: number | null };
+/**
+ * Voice-over progress: tokens up to `readUpTo` are read, `current` is being spoken.
+ * Reading aloud uses it too: `current` is the next word to read, and `wrong` holds
+ * the words skipped or misread (shown in red).
+ */
+export type ReadAlong = {
+  readUpTo: number;
+  current: number | null;
+  wrong?: ReadonlySet<number>;
+};
 
 /**
  * Where the voice-over has got to, outside of React state. A change of word must not
@@ -15,7 +23,12 @@ export function createReadAlongStore() {
   return {
     get: () => state,
     set(next: ReadAlong | null) {
-      if (state?.readUpTo === next?.readUpTo && state?.current === next?.current) return;
+      if (
+        state?.readUpTo === next?.readUpTo &&
+        state?.current === next?.current &&
+        state?.wrong === next?.wrong
+      )
+        return;
       state = next;
       for (const listener of listeners) listener();
     },
@@ -35,12 +48,17 @@ export const noReadAlong: ReadAlongStore = createReadAlongStore();
 
 export const WORD_READ = 1;
 export const WORD_CURRENT = 2;
+export const WORD_WRONG = 4;
 
-/** State of one word: a bit mask of {@link WORD_READ} and {@link WORD_CURRENT}. */
+/** State of one word: a bit mask of {@link WORD_READ}, {@link WORD_CURRENT} and {@link WORD_WRONG}. */
 export function useWordReadState(store: ReadAlongStore, position: number): number {
   return useSyncExternalStore(store.subscribe, () => {
     const s = store.get();
     if (!s) return 0;
-    return (position <= s.readUpTo ? WORD_READ : 0) | (s.current === position ? WORD_CURRENT : 0);
+    return (
+      (position <= s.readUpTo ? WORD_READ : 0) |
+      (s.current === position ? WORD_CURRENT : 0) |
+      (s.wrong?.has(position) ? WORD_WRONG : 0)
+    );
   });
 }

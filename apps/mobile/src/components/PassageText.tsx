@@ -4,6 +4,7 @@ import { StyleSheet, View } from 'react-native';
 import {
   WORD_CURRENT,
   WORD_READ,
+  WORD_WRONG,
   noReadAlong,
   useWordReadState,
   type ReadAlongStore,
@@ -26,6 +27,8 @@ type Props = {
   /** Gesture `playGesture` on a word with a timing (aligned voice-over): play from there. */
   onWordPlay?: (token: Token) => void;
   playGesture?: PlayFromWord;
+  /** `onWordPlay` on every word, timed or not (reading aloud starts from any word). */
+  playUntimed?: boolean;
 };
 
 /** Second tap within this delay = double tap. A single tap waits for it before acting. */
@@ -58,7 +61,8 @@ type Segment = { token: Token; spoken: boolean; quote?: 'open' | 'close' };
  * in italics, set off by a rule; consecutive ones share it.
  *
  * While the voice-over plays, the words already read take `readColor` and the
- * word being spoken gets a `currentColor` background (read-along).
+ * word being spoken gets a `currentColor` background (read-along). Reading aloud
+ * shows the same way, with the misread words in red.
  */
 export const PassageText = memo(function PassageText({
   tokens,
@@ -70,6 +74,7 @@ export const PassageText = memo(function PassageText({
   currentColor,
   onWordPlay,
   playGesture = 'double_tap',
+  playUntimed = false,
 }: Props) {
   const tapped = selectedPosition === null ? null : tokens[selectedPosition];
   const isSelected = (t: Token) =>
@@ -114,6 +119,7 @@ export const PassageText = memo(function PassageText({
                       onWordPress={onWordPress}
                       onWordPlay={onWordPlay}
                       playGesture={playGesture}
+                      playUntimed={playUntimed}
                     />
                   ))}
                   <Text variant="reading">
@@ -144,6 +150,7 @@ type WordProps = {
   onWordPress: (token: Token) => void;
   onWordPlay?: (token: Token) => void;
   playGesture: PlayFromWord;
+  playUntimed: boolean;
 };
 
 /**
@@ -163,15 +170,18 @@ const Word = memo(function Word({
   onWordPress,
   onWordPlay,
   playGesture,
+  playUntimed,
 }: WordProps) {
   const progress = useWordReadState(readAlong, t.position);
   const read = (progress & WORD_READ) !== 0;
   const current = (progress & WORD_CURRENT) !== 0;
+  // Skipped or misread when reading aloud.
+  const wrong = (progress & WORD_WRONG) !== 0;
   // First tap of a possible double tap, waiting for the second one.
   const pendingTap = useRef<ReturnType<typeof setTimeout> | null>(null);
   useEffect(() => () => clearTimeout(pendingTap.current ?? undefined), []);
 
-  const playable = !!onWordPlay && t.startMs !== null;
+  const playable = !!onWordPlay && (playUntimed || t.startMs !== null);
 
   const translate = () => onWordPress(t);
   const play = () => onWordPlay!(t);
@@ -202,6 +212,7 @@ const Word = memo(function Word({
   const style = [
     spoken && styles.spoken,
     read && { color: readColor },
+    wrong && styles.wrong,
     selected && styles.selected,
   ];
   return (
@@ -310,6 +321,12 @@ const styles = themed(() =>
     },
     highlightLeft: { left: -spacing.xs - spacing.xxs },
     highlightRight: { right: -spacing.xs - spacing.xxs },
+    // Underlined too: the C2 level color is close to red.
+    wrong: {
+      color: colors.danger,
+      textDecorationLine: 'underline',
+      textDecorationColor: colors.danger,
+    },
     selected: {
       backgroundColor: colors.xpSoft,
       color: colors.primary,

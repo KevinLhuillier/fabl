@@ -133,6 +133,18 @@ export const es: Messages = {
     play: 'Escuchar la página',
     pause: 'Pausar la lectura',
     settings: 'Ajustes de lectura',
+    readAloud: 'Leer la página en voz alta',
+    stopReadingAloud: 'Dejar de leer en voz alta',
+    listening: 'Lee la página en voz alta…',
+    readAloudErrorTitle: 'Lectura en voz alta',
+    readAloudErrors: {
+      permission:
+        'Permite el acceso al micrófono en los ajustes del teléfono para leer en voz alta.',
+      unavailable: 'El reconocimiento de voz en inglés no está disponible en este teléfono.',
+      network:
+        'El reconocimiento de voz necesita conexión a internet. Vuelve a intentarlo cuando estés conectado.',
+      failed: 'El reconocimiento de voz se ha detenido. Vuelve a intentarlo.',
+    },
   },
   wordSheet: {
     wordAlone: 'Palabra sola: ',
