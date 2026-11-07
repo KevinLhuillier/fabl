@@ -138,11 +138,15 @@ export default function ChapterReader() {
   // the other one, used last, stopped (and its place is the one shown when both stop).
   const [lastUsed, setLastUsed] = useState<'voice' | 'mic' | null>(null);
   const stopReadingAloud = readAloud.stop;
+  // Reading aloud was stopped by a word looked up (its sheet would be heard): a double
+  // tap on a word carries on reading aloud from there, not the voice-over.
+  const micInterrupted = useRef(false);
   const onVoicePlaying = useCallback(
     (playing: boolean) => {
       setVoicePlaying(playing);
       if (!playing) return;
       setLastUsed('voice');
+      micInterrupted.current = false;
       // The microphone would hear the voice-over.
       stopReadingAloud();
     },
@@ -232,6 +236,7 @@ export default function ChapterReader() {
 
   function toggleReadAloud() {
     touchActivity();
+    micInterrupted.current = false;
     if (listening) {
       readAloud.stop();
       return;
@@ -261,12 +266,20 @@ export default function ChapterReader() {
   /**
    * Double tap (or tap, per the setting) on a word: the voice-over and the reading aloud
    * both start from it. While listening, only the reading aloud moves (the voice-over
-   * would be heard by the microphone).
+   * would be heard by the microphone); after a word looked up while listening, reading
+   * aloud starts again from there.
    */
   function playFromWord(token: Token) {
     touchActivity();
     setSelected(null);
     readAloud.startAt(token.position);
+    if (micInterrupted.current) {
+      micInterrupted.current = false;
+      audioRef.current?.pause();
+      setLastUsed('mic');
+      void readAloud.start();
+      return;
+    }
     if (!listening && aligned && token.startMs !== null) {
       audioRef.current?.playFrom(token.startMs);
     }
@@ -281,6 +294,7 @@ export default function ChapterReader() {
     readAlong.set(null);
     setVoicePlaying(false);
     setLastUsed(null);
+    micInterrupted.current = false;
     // Long pages: always start reading the target one from the top.
     scrollRef.current?.scrollTo({ y: 0, animated: false });
     saveChapterPage(chapterId, target).catch((e) => console.warn('saveChapterPage', e));
@@ -355,6 +369,7 @@ export default function ChapterReader() {
     touchActivity();
     if (!token.lemma) return;
     // The word's pronunciation in the sheet must not be heard as the reader's voice.
+    if (listening) micInterrupted.current = true;
     readAloud.stop();
     const lemma = token.lemma;
     // A word of an expression adds the expression ("shut up"), not the word alone.
@@ -524,6 +539,7 @@ export default function ChapterReader() {
         }}
         onSpeak={() => {
           audioRef.current?.pause();
+          if (listening) micInterrupted.current = true;
           readAloud.stop();
         }}
       />

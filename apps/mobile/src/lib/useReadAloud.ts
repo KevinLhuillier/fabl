@@ -163,6 +163,8 @@ export function useReadAloud(
   const wanted = useRef(false);
   // A session of this page is running: its results count, even the final one after a stop.
   const accepting = useRef(false);
+  // A session is running, until its `end` (even once its results no longer count).
+  const running = useRef(false);
   // The current session's partial result, not settled yet.
   const partial = useRef('');
   const silentSessions = useRef(0);
@@ -236,6 +238,7 @@ export function useReadAloud(
   const launch = useCallback(() => {
     heardInSession.current = false;
     accepting.current = true;
+    running.current = true;
     sessionOnDevice.current = onDevice;
     try {
       recognizer!.start({
@@ -249,6 +252,7 @@ export function useReadAloud(
     } catch (e) {
       console.warn('speech start', e);
       accepting.current = false;
+      running.current = false;
       fail('failed');
     }
   }, [names, fail]);
@@ -289,6 +293,7 @@ export function useReadAloud(
         if (accepting.current) settle(partial.current);
         partial.current = '';
         accepting.current = false;
+        running.current = false;
         // Its words are judged now, even while the next session starts.
         refresh();
         // The on-device recognizer could not start (same reading, network recognizer),
@@ -396,14 +401,15 @@ export function useReadAloud(
       onErrorRef.current?.('permission');
       return;
     }
-    // The page was read to the end: a new reading starts over.
-    if (progress?.done) reset();
+    // The page was read to the end: a new reading starts over (read from the refs: a
+    // `startAt` just before has moved the start back).
+    if (settled.current >= wordsRef.current.length) reset();
     wanted.current = true;
     silentSessions.current = 0;
     setListening(true);
-    // The previous session is still finishing (stop): its `end` starts the next one.
-    if (!accepting.current) launch();
-  }, [launch, progress?.done, reset]);
+    // The previous session is still finishing (stop, abort): its `end` starts the next one.
+    if (!running.current) launch();
+  }, [launch, reset]);
 
   return {
     /** The device can recognize speech (and the build has the module). */
