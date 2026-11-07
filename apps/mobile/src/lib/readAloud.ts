@@ -146,12 +146,14 @@ export function transcriptWords(transcript: string): string[] {
 const SKIP = 1;
 const SUBSTITUTE = 1;
 /** Fillers, repetitions, a word read twice: cheaper than a skipped word. */
-const INSERT = 0.6;
+export const INSERT = 0.6;
 /**
- * Once the reader has stopped, an extra word at the end can no longer be a word read
- * ahead: it costs more than a misread one, so the last word misread is marked wrong.
+ * Extra words at the end of a settled segment (the recognizer has finished it): they can
+ * no longer be words read ahead, so they cost more than misread ones. The reading then
+ * moves on over the words the recognizer got wrong (marked wrong) instead of staying
+ * stuck before them until the reader says the sentence again.
  */
-const FINAL_INSERT = 1.1;
+export const SETTLED_TRAIL = 1.05;
 /** A name recognized as another word: kept in place, without marking it wrong. */
 const LENIENT_SUBSTITUTE = 0.2;
 
@@ -167,29 +169,40 @@ const Op = {
 } as const;
 type OpCode = (typeof Op)[keyof typeof Op];
 
+/** Where an alignment got to. */
+export type Alignment = {
+  /** Number of page words reached (read, misread or skipped), from the page's start. */
+  reached: number;
+  /** Tokens of the words skipped or misread. */
+  wrong: Set<number>;
+};
+
 /**
- * Aligns the recognized words with the page from its first word (edit distance).
- * The page words after the last one reached are free: the reader has not got there
- * yet. Words before it that were skipped or misread are wrong.
- * `final`: the reader has stopped (see FINAL_INSERT).
- * `from`: index of the word the reading starts at (a word double-tapped); the words
- * before it count as read, like the voice-over played from a word.
+ * Aligns recognized words with the page from the word `from` (edit distance). The page
+ * words after the last one reached are free: the reader has not got there yet. Words
+ * before it that were skipped or misread are wrong.
+ * `trail`: cost of each extra recognized word after the last word reached (see
+ * SETTLED_TRAIL); inside the reading, an extra word costs INSERT.
  */
 export function alignReading(
   allWords: PageWord[],
   heard: string[],
-  final = false,
-  from = 0,
-): ReadAloudProgress {
+  { from = 0, trail = INSERT }: { from?: number; trail?: number } = {},
+): Alignment {
   const words = allWords.slice(from);
-  const before = from > 0 ? allWords[from - 1]!.last : -1;
-  const insert = final ? FINAL_INSERT : INSERT;
   const R = heard.length;
   const E = words.length;
   const cols = E + 1;
-  const cost = new Float64Array((R + 1) * cols);
-  const op = new Uint8Array((R + 1) * cols);
+  const size = (R + 1) * cols;
+  // `ended`: best path to (i, j) whose last step is not an extra word; `any`: best path.
+  // Kept apart so that extra words at the very end can cost `trail` instead of INSERT.
+  const ended = new Float64Array(size).fill(Infinity);
+  const any = new Float64Array(size).fill(Infinity);
+  const op = new Uint8Array(size);
+  const viaInsert = new Uint8Array(size);
   const at = (i: number, j: number) => i * cols + j;
+  ended[0] = 0;
+  any[0] = 0;
 
   for (let i = 0; i <= R; i++) {
     for (let j = 0; j <= E; j++) {
@@ -206,33 +219,56 @@ export function alignReading(
       if (i > 0 && j > 0) {
         const same = heard[i - 1] === word!.key;
         const substitute = word!.lenient ? LENIENT_SUBSTITUTE : SUBSTITUTE;
-        consider(
-          cost[at(i - 1, j - 1)]! + (same ? 0 : substitute),
-          same ? Op.Match : Op.Substitute,
-        );
+        consider(any[at(i - 1, j - 1)]! + (same ? 0 : substitute), same ? Op.Match : Op.Substitute);
       }
-      if (j > 0) consider(cost[at(i, j - 1)]! + (word!.lenient ? 0 : SKIP), Op.Skip);
-      if (i > 0) consider(cost[at(i - 1, j)]! + insert, Op.Insert);
+      if (j > 0) consider(any[at(i, j - 1)]! + (word!.lenient ? 0 : SKIP), Op.Skip);
       if (i > 1 && j > 0 && heard[i - 2]! + heard[i - 1]! === word!.key) {
-        consider(cost[at(i - 2, j - 1)]!, Op.Split);
+        consider(any[at(i - 2, j - 1)]!, Op.Split);
       }
       if (i > 0 && j > 1 && words[j - 2]!.key + word!.key === heard[i - 1]) {
-        consider(cost[at(i - 1, j - 2)]!, Op.Join);
+        consider(any[at(i - 1, j - 2)]!, Op.Join);
       }
-      cost[at(i, j)] = best;
-      op[at(i, j)] = bestOp;
+      const k = at(i, j);
+      ended[k] = best;
+      op[k] = bestOp;
+      const inserted = i > 0 ? any[at(i - 1, j)]! + INSERT : Infinity;
+      if (inserted < best) {
+        any[k] = inserted;
+        viaInsert[k] = 1;
+      } else {
+        any[k] = best;
+      }
     }
   }
 
-  // Furthest page word reached at the lowest cost.
+  // Furthest page word reached at the lowest cost, the extra words at the end costing
+  // `trail` each.
   let reached = 0;
-  for (let j = 1; j <= E; j++) if (cost[at(R, j)]! <= cost[at(R, reached)]!) reached = j;
+  let reachedRow = 0;
+  let reachedCost = Infinity;
+  for (let j = 0; j <= E; j++) {
+    for (let i = 0; i <= R; i++) {
+      const c = ended[at(i, j)]! + (R - i) * trail;
+      if (c < reachedCost || (c === reachedCost && j > reached)) {
+        reachedCost = c;
+        reached = j;
+        reachedRow = i;
+      }
+    }
+  }
 
   const wrong = new Set<number>();
-  let i = R;
+  let i = reachedRow;
   let j = reached;
+  // Walking back along `ended` cells; an `any` cell reached through an extra word steps up.
+  let inEnded = true;
   while (i > 0 || j > 0) {
-    switch (op[at(i, j)]) {
+    const k = at(i, j);
+    if (!inEnded && viaInsert[k]) {
+      i--;
+      continue;
+    }
+    switch (op[k]) {
       case Op.Match:
         i--;
         j--;
@@ -241,13 +277,10 @@ export function alignReading(
       case Op.Skip: {
         const word = words[j - 1]!;
         if (!word.lenient) word.positions.forEach((p) => wrong.add(p));
-        if (op[at(i, j)] === Op.Substitute) i--;
+        if (op[k] === Op.Substitute) i--;
         j--;
         break;
       }
-      case Op.Insert:
-        i--;
-        break;
       case Op.Split:
         i -= 2;
         j--;
@@ -259,14 +292,25 @@ export function alignReading(
       default:
         throw new Error('alignReading: no path');
     }
+    inEnded = false;
   }
 
+  return { reached: from + reached, wrong };
+}
+
+/** The progress shown once `reached` page words are read, `wrong` among them. */
+export function progressAt(
+  words: PageWord[],
+  reached: number,
+  wrong: ReadonlySet<number>,
+  heard: boolean,
+): ReadAloudProgress {
   const next = words[reached];
   return {
-    readUpTo: reached > 0 ? words[reached - 1]!.last : before,
+    readUpTo: reached > 0 ? words[reached - 1]!.last : -1,
     current: next ? next.positions[0]! : null,
     wrong,
-    done: reached === E,
-    heard: R > 0,
+    done: reached >= words.length,
+    heard,
   };
 }

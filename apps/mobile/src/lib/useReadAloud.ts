@@ -5,7 +5,10 @@ import { Platform } from 'react-native';
 import { restorePlaybackMode } from './audioMode';
 import {
   alignReading,
+  INSERT,
   pageWords,
+  progressAt,
+  SETTLED_TRAIL,
   transcriptWords,
   type PageWord,
   type ReadAloudProgress,
@@ -76,6 +79,8 @@ async function askModelDownload() {
   }
 }
 
+const NO_WRONG: ReadonlySet<number> = new Set();
+
 const sameProgress = (a: ReadAloudProgress | null, b: ReadAloudProgress | null) =>
   a === b ||
   (!!a &&
@@ -95,13 +100,16 @@ const LANG = 'en-US';
 /** Recognition sessions in a row without a word: the reader has stopped, so do we. */
 const MAX_SILENT_SESSIONS = 3;
 
-const join = (a: string, b: string) => (a && b ? `${a} ${b}` : a || b);
-
 /**
  * Reading a page aloud: listens to the reader and follows the text (see readAloud.ts).
  * The recognizer stops after a silence or after a while (Android 12-, iOS): it is
- * restarted until the reader stops, and the text heard so far is kept, so pausing
- * and resuming carries on where the reader left. `reset` starts the page over.
+ * restarted until the reader stops, and the place reached is kept, so pausing and
+ * resuming carries on where the reader left. `reset` starts the page over.
+ *
+ * Each settled result (a final one) is aligned from the place reached so far and moves
+ * it on for good: its words read and misread are decided once, and never change color
+ * again. The words still being recognized (partial results, revised as the reader goes
+ * on) only move the highlight forward; they are never marked wrong.
  *
  * Pass a key that changes with the page (its id): a new page starts over.
  * `onHeard` fires on every recognized word (the reading time counts), `onError` when
@@ -131,8 +139,14 @@ export function useReadAloud(
   const progress = shown.page === pageKey ? shown.progress : null;
   const pageRef = useRef(pageKey);
   const wordsRef = useRef<PageWord[]>(words);
-  // Index of the word the reading starts at (double tap on a word); 0: the page's start.
-  const startRef = useRef(0);
+  // Page words settled so far (read, misread or skipped), and the misread ones' tokens.
+  const settled = useRef(0);
+  const settledWrong = useRef<ReadonlySet<number>>(NO_WRONG);
+  // Furthest word the partial results have reached since the last settled one: the
+  // highlight never steps back while the recognizer revises its latest words.
+  const ahead = useRef(0);
+  // A word was heard since the reading started (else only a chosen start is shown).
+  const heardAny = useRef(false);
   useEffect(() => {
     wordsRef.current = words;
   }, [words]);
@@ -144,8 +158,7 @@ export function useReadAloud(
   const wanted = useRef(false);
   // A session of this page is running: its results count, even the final one after a stop.
   const accepting = useRef(false);
-  // Final results of the sessions so far, and the current session's partial one.
-  const committed = useRef('');
+  // The current session's partial result, not settled yet.
   const partial = useRef('');
   const silentSessions = useRef(0);
   const heardInSession = useRef(false);
@@ -160,18 +173,52 @@ export function useReadAloud(
     setListening(false);
     onErrorRef.current?.(error);
   }, []);
-  /** Aligns what was heard so far; `final`: the reader has stopped. */
-  const refresh = useCallback((final: boolean) => {
-    const text = join(committed.current, partial.current);
-    const from = startRef.current;
+  /** Shows the place reached: the settled words, then the partial result's. */
+  const refresh = useCallback(() => {
+    const words = wordsRef.current;
+    const heard = transcriptWords(partial.current);
+    if (heard.length) {
+      const live = alignReading(words, heard, { from: settled.current, trail: INSERT });
+      ahead.current = Math.max(ahead.current, live.reached);
+    }
     // Before the first word heard, a chosen start still shows where to read from.
     const next =
-      text || from > 0 ? alignReading(wordsRef.current, transcriptWords(text), final, from) : null;
+      heardAny.current || settled.current > 0
+        ? progressAt(
+            words,
+            Math.max(settled.current, ahead.current),
+            settledWrong.current,
+            heardAny.current,
+          )
+        : null;
     setShown((prev) =>
       prev.page === pageRef.current && sameProgress(prev.progress, next)
         ? prev
         : { page: pageRef.current, progress: next },
     );
+  }, []);
+
+  /** Settles a final result: aligned from the place reached, it moves it on for good. */
+  const settle = useCallback((text: string) => {
+    const heard = transcriptWords(text);
+    if (!heard.length) return;
+    const { reached, wrong } = alignReading(wordsRef.current, heard, {
+      from: settled.current,
+      trail: SETTLED_TRAIL,
+    });
+    settled.current = reached;
+    if (wrong.size) settledWrong.current = new Set([...settledWrong.current, ...wrong]);
+    // The partial results' place may have run ahead of what was settled: start again here.
+    ahead.current = reached;
+  }, []);
+
+  /** Back to the word `index`, nothing heard. */
+  const restart = useCallback((index: number) => {
+    settled.current = index;
+    settledWrong.current = NO_WRONG;
+    ahead.current = index;
+    heardAny.current = false;
+    partial.current = '';
   }, []);
 
   const launch = useCallback(() => {
@@ -198,7 +245,7 @@ export function useReadAloud(
     if (!wanted.current) return;
     wanted.current = false;
     setListening(false);
-    refresh(true);
+    refresh();
     try {
       recognizer?.stop();
     } catch (e) {
@@ -214,19 +261,20 @@ export function useReadAloud(
         const text = event.results[0]?.transcript.trim() ?? '';
         if (text) {
           heardInSession.current = true;
+          heardAny.current = true;
           onHeardRef.current?.();
         }
         if (event.isFinal) {
-          committed.current = join(committed.current, text);
           partial.current = '';
+          settle(text);
         } else {
           partial.current = text;
         }
-        refresh(!wanted.current);
+        refresh();
       }),
       recognizer.addListener('end', () => {
         // A session ended without a final result: keep what it heard.
-        if (accepting.current) committed.current = join(committed.current, partial.current);
+        if (accepting.current) settle(partial.current);
         partial.current = '';
         accepting.current = false;
         // The on-device recognizer could not start (same reading, network recognizer),
@@ -245,7 +293,7 @@ export function useReadAloud(
         }
         wanted.current = false;
         setListening(false);
-        refresh(true);
+        refresh();
         // Recognition left the audio session in recording mode (voice-over in the earpiece).
         restorePlaybackMode();
       }),
@@ -277,14 +325,12 @@ export function useReadAloud(
       }),
     ];
     return () => subscriptions.forEach((s) => s.remove());
-  }, [launch, fail, refresh]);
+  }, [launch, fail, refresh, settle]);
 
   const reset = useCallback(() => {
-    startRef.current = 0;
-    committed.current = '';
-    partial.current = '';
-    refresh(false);
-  }, [refresh]);
+    restart(0);
+    refresh();
+  }, [restart, refresh]);
 
   /**
    * Starts the reading over from the word holding token `position` (a double tap on a
@@ -295,9 +341,7 @@ export function useReadAloud(
     (position: number) => {
       const index = wordsRef.current.findIndex((w) => w.last >= position);
       if (index < 0) return;
-      startRef.current = index;
-      committed.current = '';
-      partial.current = '';
+      restart(index);
       if (accepting.current) {
         // Its `end` starts the next session while the reader wants to be listened to.
         accepting.current = false;
@@ -309,17 +353,15 @@ export function useReadAloud(
           console.warn('speech abort', e);
         }
       }
-      refresh(!wanted.current);
+      refresh();
     },
-    [refresh],
+    [restart, refresh],
   );
 
   // A new page (or leaving the reader) stops listening and starts over.
   useEffect(() => {
     pageRef.current = pageKey;
-    startRef.current = 0;
-    committed.current = '';
-    partial.current = '';
+    restart(0);
     return () => {
       if (!accepting.current && !wanted.current) return;
       wanted.current = false;
@@ -331,7 +373,7 @@ export function useReadAloud(
         console.warn('speech abort', e);
       }
     };
-  }, [pageKey]);
+  }, [pageKey, restart]);
 
   const start = useCallback(async () => {
     if (!recognizer || wanted.current) return;
