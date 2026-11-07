@@ -157,6 +157,15 @@ export const INSERT = 0.6;
  * stuck before them until the reader says the sentence again.
  */
 export const SETTLED_TRAIL = 1.05;
+/**
+ * The first words after the place reached, before the first word heard: the recognizer
+ * restarting between two sessions (a pause) misses the words read meanwhile. Nearly
+ * free to skip, and never marked wrong, so the highlight catches up on the first words
+ * heard instead of seconds later.
+ */
+const LEAD_SKIP = 0.25;
+/** How many words a session's start may miss that way. */
+const LEAD_WORDS = 6;
 /** A name recognized as another word: kept in place, without marking it wrong. */
 const LENIENT_SUBSTITUTE = 0.2;
 
@@ -226,7 +235,10 @@ export function alignReading(
         const substitute = word!.lenient ? LENIENT_SUBSTITUTE : SUBSTITUTE;
         consider(any[at(i - 1, j - 1)]! + (same ? 0 : substitute), same ? Op.Match : Op.Substitute);
       }
-      if (j > 0) consider(any[at(i, j - 1)]! + (word!.lenient ? 0 : SKIP), Op.Skip);
+      if (j > 0) {
+        const skip = word!.lenient ? 0 : i === 0 && j <= LEAD_WORDS ? LEAD_SKIP : SKIP;
+        consider(any[at(i, j - 1)]! + skip, Op.Skip);
+      }
       if (i > 1 && j > 0 && heard[i - 2]! + heard[i - 1]! === word!.key) {
         consider(any[at(i - 2, j - 1)]!, Op.Split);
       }
@@ -293,7 +305,8 @@ export function alignReading(
       case Op.Substitute:
       case Op.Skip: {
         const word = words[j - 1]!;
-        if (!word.lenient) wrong.push(from + j - 1);
+        const missed = op[k] === Op.Skip && i === 0 && j <= LEAD_WORDS;
+        if (!word.lenient && !missed) wrong.push(from + j - 1);
         if (op[k] === Op.Substitute) i--;
         j--;
         break;
