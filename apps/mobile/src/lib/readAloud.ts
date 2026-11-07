@@ -262,12 +262,22 @@ export function alignReading(
     }
   }
 
+  // Walking back along `ended` cells; an `any` cell reached through an extra word steps up.
+  let inEnded = true;
+  // Names after the last word heard cost nothing to skip: they are not read before the
+  // reader says them (else the name starting the next sentence counts as read at a pause).
+  while (reached > 0) {
+    const k = at(reachedRow, reached);
+    if (!inEnded && viaInsert[k]) break;
+    if (op[k] !== Op.Skip || !words[reached - 1]!.lenient) break;
+    reached--;
+    inEnded = false;
+  }
+
   const wrong: number[] = [];
   const matched: number[] = [];
   let i = reachedRow;
   let j = reached;
-  // Walking back along `ended` cells; an `any` cell reached through an extra word steps up.
-  let inEnded = true;
   while (i > 0 || j > 0) {
     const k = at(i, j);
     if (!inEnded && viaInsert[k]) {
