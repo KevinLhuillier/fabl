@@ -109,7 +109,9 @@ const MAX_SILENT_SESSIONS = 3;
  * Each settled result (a final one) is aligned from the place reached so far and moves
  * it on for good: its words read and misread are decided once, and never change color
  * again. The words still being recognized (partial results, revised as the reader goes
- * on) only move the highlight forward; they are never marked wrong.
+ * on) only move the highlight forward; they are never marked wrong. A word they
+ * recognized is never marked wrong either: the settled result may still lose it (cut
+ * between two segments) or rewrite it at the last moment ("can't" → "can").
  *
  * Pass a key that changes with the page (its id): a new page starts over.
  * `onHeard` fires on every recognized word (the reading time counts), `onError` when
@@ -145,6 +147,8 @@ export function useReadAloud(
   // Furthest word the partial results have reached since the last settled one: the
   // highlight never steps back while the recognizer revises its latest words.
   const ahead = useRef(0);
+  // Page words recognized as written by a partial result: never marked wrong afterwards.
+  const recognized = useRef(new Set<number>());
   // A word was heard since the reading started (else only a chosen start is shown).
   const heardAny = useRef(false);
   useEffect(() => {
@@ -180,6 +184,7 @@ export function useReadAloud(
     if (heard.length) {
       const live = alignReading(words, heard, { from: settled.current, trail: INSERT });
       ahead.current = Math.max(ahead.current, live.reached);
+      live.matched.forEach((w) => recognized.current.add(w));
     }
     // Before the first word heard, a chosen start still shows where to read from.
     const next =
@@ -202,12 +207,16 @@ export function useReadAloud(
   const settle = useCallback((text: string) => {
     const heard = transcriptWords(text);
     if (!heard.length) return;
-    const { reached, wrong } = alignReading(wordsRef.current, heard, {
+    const words = wordsRef.current;
+    const { reached, wrong } = alignReading(words, heard, {
       from: settled.current,
       trail: SETTLED_TRAIL,
     });
     settled.current = reached;
-    if (wrong.size) settledWrong.current = new Set([...settledWrong.current, ...wrong]);
+    const misread = wrong
+      .filter((w) => !recognized.current.has(w))
+      .flatMap((w) => words[w]!.positions);
+    if (misread.length) settledWrong.current = new Set([...settledWrong.current, ...misread]);
     // The partial results' place may have run ahead of what was settled: start again here.
     ahead.current = reached;
   }, []);
@@ -218,6 +227,7 @@ export function useReadAloud(
     settledWrong.current = NO_WRONG;
     ahead.current = index;
     heardAny.current = false;
+    recognized.current = new Set();
     partial.current = '';
   }, []);
 

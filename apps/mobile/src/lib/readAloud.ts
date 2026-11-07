@@ -72,6 +72,7 @@ const NUMBERS: Record<string, string> = {
 /** Spellings a recognizer writes differently from the book. */
 const ALIASES: Record<string, string> = {
   okay: 'ok',
+  cannot: 'cant',
   mister: 'mr',
   missus: 'mrs',
   grey: 'gray',
@@ -173,8 +174,10 @@ type OpCode = (typeof Op)[keyof typeof Op];
 export type Alignment = {
   /** Number of page words reached (read, misread or skipped), from the page's start. */
   reached: number;
-  /** Tokens of the words skipped or misread. */
-  wrong: Set<number>;
+  /** Page words (indexes) skipped or misread. */
+  wrong: number[];
+  /** Page words (indexes) recognized as written. */
+  matched: number[];
 };
 
 /**
@@ -257,7 +260,8 @@ export function alignReading(
     }
   }
 
-  const wrong = new Set<number>();
+  const wrong: number[] = [];
+  const matched: number[] = [];
   let i = reachedRow;
   let j = reached;
   // Walking back along `ended` cells; an `any` cell reached through an extra word steps up.
@@ -270,22 +274,25 @@ export function alignReading(
     }
     switch (op[k]) {
       case Op.Match:
+        matched.push(from + j - 1);
         i--;
         j--;
         break;
       case Op.Substitute:
       case Op.Skip: {
         const word = words[j - 1]!;
-        if (!word.lenient) word.positions.forEach((p) => wrong.add(p));
+        if (!word.lenient) wrong.push(from + j - 1);
         if (op[k] === Op.Substitute) i--;
         j--;
         break;
       }
       case Op.Split:
+        matched.push(from + j - 1);
         i -= 2;
         j--;
         break;
       case Op.Join:
+        matched.push(from + j - 1, from + j - 2);
         i--;
         j -= 2;
         break;
@@ -295,7 +302,7 @@ export function alignReading(
     inEnded = false;
   }
 
-  return { reached: from + reached, wrong };
+  return { reached: from + reached, wrong, matched };
 }
 
 /** The progress shown once `reached` page words are read, `wrong` among them. */
