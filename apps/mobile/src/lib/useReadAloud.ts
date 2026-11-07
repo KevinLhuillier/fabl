@@ -96,6 +96,15 @@ const sameProgress = (a: ReadAloudProgress | null, b: ReadAloudProgress | null) 
 /** Why reading aloud stopped by itself. */
 export type ReadAloudError = 'permission' | 'unavailable' | 'network' | 'failed';
 
+/**
+ * Continuous sessions: iOS, and Android 13+ (segmented sessions, a final result at each
+ * pause). Below, the module fakes it with a ten-minute silence allowed: the recognizer
+ * never settles a result and stops sending any after the first sentence. One sentence
+ * per session there instead: each pause ends the session with its final result, and
+ * the next one starts at once (see `end`).
+ */
+const CONTINUOUS = Platform.OS !== 'android' || Number(Platform.Version) >= 33;
+
 /** Language of the stories. */
 const LANG = 'en-US';
 /** Recognition sessions in a row without a word: the reader has stopped, so do we. */
@@ -244,7 +253,7 @@ export function useReadAloud(
       recognizer!.start({
         lang: LANG,
         interimResults: true,
-        continuous: true,
+        continuous: CONTINUOUS,
         maxAlternatives: 1,
         requiresOnDeviceRecognition: onDevice,
         contextualStrings: names.slice(0, 100),
