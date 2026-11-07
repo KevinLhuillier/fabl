@@ -25,6 +25,8 @@ export type PageWord = {
 export type ReadAloudProgress = {
   /** Tokens up to this position are read (or skipped). */
   readUpTo: number;
+  /** Tokens up to this position are judged (right or wrong); the next ones are pending. */
+  settledUpTo: number;
   /** Next word to read (its first token), null once the page is read. */
   current: number | null;
   /** Tokens of the words skipped or misread. */
@@ -305,16 +307,23 @@ export function alignReading(
   return { reached: from + reached, wrong, matched };
 }
 
-/** The progress shown once `reached` page words are read, `wrong` among them. */
+const lastToken = (words: PageWord[], count: number) => (count > 0 ? words[count - 1]!.last : -1);
+
+/**
+ * The progress shown once `reached` page words are read, the first `settled` of them
+ * judged, `wrong` among those.
+ */
 export function progressAt(
   words: PageWord[],
   reached: number,
+  settled: number,
   wrong: ReadonlySet<number>,
   heard: boolean,
 ): ReadAloudProgress {
   const next = words[reached];
   return {
-    readUpTo: reached > 0 ? words[reached - 1]!.last : -1,
+    readUpTo: lastToken(words, reached),
+    settledUpTo: lastToken(words, settled),
     current: next ? next.positions[0]! : null,
     wrong,
     done: reached >= words.length,

@@ -3,6 +3,7 @@ import { StyleSheet, View } from 'react-native';
 
 import {
   WORD_CURRENT,
+  WORD_PENDING,
   WORD_READ,
   WORD_WRONG,
   noReadAlong,
@@ -62,7 +63,7 @@ type Segment = { token: Token; spoken: boolean; quote?: 'open' | 'close' };
  *
  * While the voice-over plays, the words already read take `readColor` and the
  * word being spoken gets a `currentColor` background (read-along). Reading aloud
- * shows the same way, with the misread words in red.
+ * shows the same way, with the misread words in red and the words not judged yet in grey.
  */
 export const PassageText = memo(function PassageText({
   tokens,
@@ -177,6 +178,8 @@ const Word = memo(function Word({
   const current = (progress & WORD_CURRENT) !== 0;
   // Skipped or misread when reading aloud.
   const wrong = (progress & WORD_WRONG) !== 0;
+  // Read aloud but not judged yet: neither right nor wrong until the recognizer settles it.
+  const pending = (progress & WORD_PENDING) !== 0;
   // First tap of a possible double tap, waiting for the second one.
   const pendingTap = useRef<ReturnType<typeof setTimeout> | null>(null);
   useEffect(() => () => clearTimeout(pendingTap.current ?? undefined), []);
@@ -212,6 +215,7 @@ const Word = memo(function Word({
   const style = [
     spoken && styles.spoken,
     read && { color: readColor },
+    pending && styles.pending,
     wrong && styles.wrong,
     selected && styles.selected,
   ];
@@ -321,6 +325,7 @@ const styles = themed(() =>
     },
     highlightLeft: { left: -spacing.xs - spacing.xxs },
     highlightRight: { right: -spacing.xs - spacing.xxs },
+    pending: { color: colors.textMuted },
     // Underlined too: the C2 level color is close to red.
     wrong: {
       color: colors.danger,

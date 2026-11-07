@@ -86,6 +86,7 @@ const sameProgress = (a: ReadAloudProgress | null, b: ReadAloudProgress | null) 
   (!!a &&
     !!b &&
     a.readUpTo === b.readUpTo &&
+    a.settledUpTo === b.settledUpTo &&
     a.current === b.current &&
     a.done === b.done &&
     a.heard === b.heard &&
@@ -109,7 +110,7 @@ const MAX_SILENT_SESSIONS = 3;
  * Each settled result (a final one) is aligned from the place reached so far and moves
  * it on for good: its words read and misread are decided once, and never change color
  * again. The words still being recognized (partial results, revised as the reader goes
- * on) only move the highlight forward; they are never marked wrong. A word they
+ * on) only move the highlight forward, in grey (pending); they are never marked wrong. A word they
  * recognized is never marked wrong either: the settled result may still lose it (cut
  * between two segments) or rewrite it at the last moment ("can't" → "can").
  *
@@ -192,6 +193,7 @@ export function useReadAloud(
         ? progressAt(
             words,
             Math.max(settled.current, ahead.current),
+            settled.current,
             settledWrong.current,
             heardAny.current,
           )
@@ -287,6 +289,8 @@ export function useReadAloud(
         if (accepting.current) settle(partial.current);
         partial.current = '';
         accepting.current = false;
+        // Its words are judged now, even while the next session starts.
+        refresh();
         // The on-device recognizer could not start (same reading, network recognizer),
         // or a double tap moved the start: carry on at once, not a silent session.
         if (fallingBack.current) {

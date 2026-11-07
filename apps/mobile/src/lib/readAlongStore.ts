@@ -9,6 +9,11 @@ export type ReadAlong = {
   readUpTo: number;
   current: number | null;
   wrong?: ReadonlySet<number>;
+  /**
+   * Reading aloud: tokens after this one, up to `readUpTo`, are read but not judged yet
+   * (shown pending until the recognizer settles them, right or wrong).
+   */
+  settledUpTo?: number;
 };
 
 /**
@@ -26,7 +31,8 @@ export function createReadAlongStore() {
       if (
         state?.readUpTo === next?.readUpTo &&
         state?.current === next?.current &&
-        state?.wrong === next?.wrong
+        state?.wrong === next?.wrong &&
+        state?.settledUpTo === next?.settledUpTo
       )
         return;
       state = next;
@@ -49,8 +55,10 @@ export const noReadAlong: ReadAlongStore = createReadAlongStore();
 export const WORD_READ = 1;
 export const WORD_CURRENT = 2;
 export const WORD_WRONG = 4;
+export const WORD_PENDING = 8;
 
-/** State of one word: a bit mask of {@link WORD_READ}, {@link WORD_CURRENT} and {@link WORD_WRONG}. */
+/** State of one word: a bit mask of {@link WORD_READ}, {@link WORD_CURRENT}, {@link WORD_WRONG}
+ * and {@link WORD_PENDING}. */
 export function useWordReadState(store: ReadAlongStore, position: number): number {
   return useSyncExternalStore(store.subscribe, () => {
     const s = store.get();
@@ -58,7 +66,10 @@ export function useWordReadState(store: ReadAlongStore, position: number): numbe
     return (
       (position <= s.readUpTo ? WORD_READ : 0) |
       (s.current === position ? WORD_CURRENT : 0) |
-      (s.wrong?.has(position) ? WORD_WRONG : 0)
+      (s.wrong?.has(position) ? WORD_WRONG : 0) |
+      (s.settledUpTo !== undefined && position > s.settledUpTo && position <= s.readUpTo
+        ? WORD_PENDING
+        : 0)
     );
   });
 }
